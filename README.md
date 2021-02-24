@@ -17,3 +17,5 @@
 16. Elon Musk shillt wieder Dodge https://twitter.com/elonmusk/status/1364560733472579591?s=19 und Dodge jetzt auch in seiner Bio https://twitter.com/elonmusk
 17. Non Fungible Token muss mir mal einer erklären... Wer zahlt da so viel für sowas? [rarible.com](https://app.rarible.com/doji?tab=collectibles)
 18. [AMA mit Dom Schiener](https://www.youtube.com/watch?v=UvISKlRPNc4)
+19. [Dell Intel und IOTA Webinar](https://www.youtube.com/watch?v=_qt8AL6GuuE&feature=youtu.be)
+20. [ZEBRA Vacianation card Demo](https://www.youtube.com/watch?v=Ivv1JArtHvM&feature=youtu.be)
