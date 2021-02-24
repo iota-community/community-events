@@ -16,6 +16,6 @@
 15. Charles Hoskinson schießt gegen Dan Larimer https://twitter.com/IOHK_Charles/status/1364362197879562240?s=19 und auch gegen "feeless" IOTA und Nano
 16. Elon Musk shillt wieder Dodge https://twitter.com/elonmusk/status/1364560733472579591?s=19 und Dodge jetzt auch in seiner Bio https://twitter.com/elonmusk
 17. Non Fungible Token muss mir mal einer erklären... Wer zahlt da so viel für sowas? [rarible.com](https://app.rarible.com/doji?tab=collectibles)
-18. [AMA mit Dom Schiener](https://www.youtube.com/watch?v=UvISKlRPNc4)
+18. [AMA mit Dom Schiener](https://www.youtube.com/watch?v=UvISKlRPNc4) und ein [Zusammenfassung vom JustKevin](https://twitter.com/MudKevin/status/1364684978215219200?s=20)
 19. [Dell Intel und IOTA Webinar](https://www.youtube.com/watch?v=_qt8AL6GuuE&feature=youtu.be)
 20. [ZEBRA Vacianation card Demo](https://www.youtube.com/watch?v=Ivv1JArtHvM&feature=youtu.be)
