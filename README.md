@@ -16,9 +16,12 @@
 15. Charles Hoskinson schießt gegen Dan Larimer: [Twitter fight dazu](https://twitter.com/IOHK_Charles/status/1364362197879562240?s=19) und auch gegen "feeless" IOTA und Nano 
 16. Elon Musk [shillt wieder Dodge](https://twitter.com/elonmusk/status/1364560733472579591?s=19) und Dodge jetzt auch [in seiner Bio](https://twitter.com/elonmusk)
 17. Non Fungible Token muss mir mal einer erklären... Wer zahlt da so viel für sowas? [rarible.com](https://app.rarible.com/doji?tab=collectibles)
-18. [AMA mit Dom Schiener](https://www.youtube.com/watch?v=UvISKlRPNc4) und ein [Zusammenfassung vom JustKevin](https://twitter.com/MudKevin/status/1364684978215219200?s=20)
-19. [Dell Intel und IOTA Webinar](https://www.youtube.com/watch?v=_qt8AL6GuuE&feature=youtu.be)
-20. [ZEBRA Vacianation card Demo](https://www.youtube.com/watch?v=Ivv1JArtHvM&feature=youtu.be)
+18. Video vom [AMA mit Dom Schiener](https://www.youtube.com/watch?v=UvISKlRPNc4) und ein [Zusammenfassung vom JustKevin](https://twitter.com/MudKevin/status/1364684978215219200?s=20)
+19. Video vom [Dell Intel und IOTA Webinar](https://www.youtube.com/watch?v=_qt8AL6GuuE&feature=youtu.be)
+20. Video von der [ZEBRA Vacianation card Demo](https://www.youtube.com/watch?v=Ivv1JArtHvM&feature=youtu.be)
 21. Sanfranciscotribe erklärt IOTA sehr detailiert: [Part 1](https://sanfranciscotribe.com/Home/iota-tip-selection-series-part-1/), [Part 2](https://sanfranciscotribe.com/Home/scaling-the-iota-network/), [Part 3](https://sanfranciscotribe.com/Home/untangling-iota-tip-selection-part-3-combating-lazy-tip/), [Part 4](https://sanfranciscotribe.com/Home/untangling-iota-part-4-transaction-approval-process-do-you-approve/), [Part 5](https://sanfranciscotribe.com/Home/the-world-of-cryptocurrencies-part-5-what-is-iota/), [Part 6](https://sanfranciscotribe.com/Home/removing-the-coordinator/), [Part 7](https://sanfranciscotribe.com/Home/untangling-iota-spam-protection-and-rate-control-series-part-7/), [PART 8](https://sanfranciscotribe.com/Home/)
 22. Mana schon in 2 Wochen im Testnetz laut [Hans Moog Tweet](https://twitter.com/hus_qy/status/1364605123402547203?s=20)
-23. 
+23. [Welcome Daria Dziubałtowska to the IOTA Foundation](https://blog.iota.org/welcome-daria-to-the-iota-foundation/)
+24. INATBA [tweetet über IOTA](https://twitter.com/INATBA_org/status/1364937132092047361?s=20) und ruft damit zum Ausfüllen eines Fragenkatalogs [
+INATBA - Social Impact & Sustainability Survey](https://www.surveymonkey.com/r/siswg) auf
+Zwei schöne neue GIF von der IOTA Foundation über [Data Confidence Fabric](https://twitter.com/iota/status/1364623145949421569?s=20) und [IOTA Industrial Oracles](https://twitter.com/iota/status/1364903252890902532?s=19)
