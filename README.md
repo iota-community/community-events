@@ -7,7 +7,7 @@
 6. Ein neues [Rust Live Coding Video](https://www.youtube.com/watch?v=hJ78UlaKEn8&feature=youtu.be)
 7. APPG Blockchain [Event mit Navin] war am 23. Februar (https://twitter.com/appg_blockchain/status/1364225396317675533)
 8. Hans Moog vs. Nano [auf Twitter](https://twitter.com/hus_qy/status/1364317003796865026?s=20)
-9. Neues [Interview mit Dom Schiener](https://www.youtube.com/watch?v=4N3K72TKIws&feature=youtu.be) (148 000 Youtube Abonenten)
+9. Neues [Interview mit Dom Schiener](https://www.youtube.com/watch?v=4N3K72TKIws&feature=youtu.be) (Von Digital Asset News mit 148 000 Youtube Abonenten)
 10. Christoph Strnadl nimmt am 15.3. an einer Talkrunde über "Euro goes Crypto" teil und [tweetet darüber](https://twitter.com/archimate/status/1364482164390309888?s=20)
 11. Jemand mit 230 000 Abonenten [twittert über IOTA](https://twitter.com/Ronald_vanLoon/status/1364492451117998080?s=20)
 12. BlockrocketLabs kolaboriert mit IOTA: [Tweet dazu](https://twitter.com/blockrocketlabs/status/1364521658833272836?s=20
