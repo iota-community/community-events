@@ -13,7 +13,7 @@
 12. BlockrocketLabs kolaboriert mit IOTA: [Tweet dazu](https://twitter.com/blockrocketlabs/status/1364521658833272836?s=20
 13. Smart Contract Developer [Fragenkatalog](https://twitter.com/antonionardella/status/1364587475394510848?s=20)
 14. IOT2TANGLE bringt "bridge between the B-L475E-IOT01A and #IOTA via HTTP" heraus. [Tweet dazu](https://twitter.com/iot2tangle/status/1364582474014154754?s=19)
-15. Charles Hoskinson schießt gegen Dan Larimer: [Twitter fight dazu](https://twitter.com/IOHK_Charles/status/1364362197879562240?s=19] und auch gegen "feeless" IOTA und Nano 
+15. Charles Hoskinson schießt gegen Dan Larimer: [Twitter fight dazu](https://twitter.com/IOHK_Charles/status/1364362197879562240?s=19) und auch gegen "feeless" IOTA und Nano 
 16. Elon Musk [shillt wieder Dodge](https://twitter.com/elonmusk/status/1364560733472579591?s=19) und Dodge jetzt auch [in seiner Bio](https://twitter.com/elonmusk)
 17. Non Fungible Token muss mir mal einer erklären... Wer zahlt da so viel für sowas? [rarible.com](https://app.rarible.com/doji?tab=collectibles)
 18. [AMA mit Dom Schiener](https://www.youtube.com/watch?v=UvISKlRPNc4) und ein [Zusammenfassung vom JustKevin](https://twitter.com/MudKevin/status/1364684978215219200?s=20)
