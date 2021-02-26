@@ -2,7 +2,7 @@
 1. World Economic Forum Bericht: [WEForum Agenda](https://www.weforum.org/agenda/2021/02/origintrail-blockchain-covid-supplies-repository/)
 2. Bund prüft Einführung eines digitalen Impfpasses [Buisinessinsider schreibt darüber](https://www.businessinsider.de/politik/deutschland/bund-prueft-einfuehrung-eines-digitalen-impfpasses-das-koennte-das-oeffentliche-leben-stark-veraendern-a/)
 3. BitCom Mittwoch früh 9-11Uhr geht's bei uns um #Blockchain im Gesundheitssektor. U.A. mit CarstenStoecker, Ubirch_Trust, ... [Tweet dazu](https://twitter.com/bitkom_block/status/1363863406181285889)
-4. [Neue Chrysalis Developer Seite](https://twitter.com/iota_dev/status/1363871502068817922?s=20 https://chrysalis.docs.iota.org/)
+4. Es gibt eine neue [Chrysalis Developer Seite](https://twitter.com/iota_dev/status/1363871502068817922?s=20 https://chrysalis.docs.iota.org/)
 5. [Simplify IOTA Experience Team startet](https://twitter.com/antonionardella/status/1364193100143472640?s=20)
 6. [Rust Live Coding Video](https://www.youtube.com/watch?v=hJ78UlaKEn8&feature=youtu.be)
 7. APPG Blockchain mit Navin https://twitter.com/appg_blockchain/status/1364225396317675533
