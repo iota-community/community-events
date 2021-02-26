@@ -5,12 +5,12 @@
 4. Es gibt eine neue [Chrysalis Developer Seite](https://chrysalis.docs.iota.org/). Hier der [Tweet dazu](https://twitter.com/iota_dev/status/1363871502068817922?s=20) 
 5. Das [Simplify IOTA Experience Team](https://twitter.com/antonionardella/status/1364193100143472640?s=20) startet. Hier das Video vom [IOTA Experience Simplify Kickoff Meeting](https://www.youtube.com/watch?v=7aOzT23CsqM&feature=youtu.be)
 6. Ein neues [Rust Live Coding Video](https://www.youtube.com/watch?v=hJ78UlaKEn8&feature=youtu.be)
-7. APPG Blockchain [Event mit Navin] war am 23. Februar (https://twitter.com/appg_blockchain/status/1364225396317675533)
+7. APPG Blockchain [Event mit Navin Ramachandran](https://twitter.com/appg_blockchain/status/1364225396317675533)
 8. Hans Moog vs. Nano [auf Twitter](https://twitter.com/hus_qy/status/1364317003796865026?s=20)
 9. Neues [Interview mit Dom Schiener](https://www.youtube.com/watch?v=4N3K72TKIws&feature=youtu.be) (Von Digital Asset News mit 148 000 Youtube Abonenten)
 10. Christoph Strnadl nimmt am 15.3. an einer Talkrunde über "Euro goes Crypto" teil und [tweetet darüber](https://twitter.com/archimate/status/1364482164390309888?s=20)
 11. Jemand mit 230 000 Abonenten [twittert über IOTA](https://twitter.com/Ronald_vanLoon/status/1364492451117998080?s=20) verlinkt einen [Artikel vom May 2020](https://iiot-world.com/connected-industry/enabling-manufacturing-using-iota-a-possible-approach-post-covid-19-paradigm/)
-12. BlockrocketLabs kolaboriert mit IOTA: [Tweet dazu](https://twitter.com/blockrocketlabs/status/1364521658833272836?s=20
+12. BlockrocketLabs kolaboriert mit IOTA: [Tweet dazu](https://twitter.com/blockrocketlabs/status/1364521658833272836?s=20)
 13. Smart Contract Developer [Fragenkatalog](https://twitter.com/antonionardella/status/1364587475394510848?s=20)
 14. IOT2TANGLE bringt "bridge between the B-L475E-IOT01A and #IOTA via HTTP" heraus. [Tweet dazu](https://twitter.com/iot2tangle/status/1364582474014154754?s=19)
 15. Charles Hoskinson schießt gegen Dan Larimer: [Twitter fight dazu](https://twitter.com/IOHK_Charles/status/1364362197879562240?s=19) und auch gegen "feeless" IOTA und Nano 
