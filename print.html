@@ -1,0 +1,259 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>IOTA Community Events</title>
+        
+        <meta name="robots" content="noindex" />
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="stammtisch/index.html"><strong aria-hidden="true">1.</strong> Willkommen!</a></li><li class="chapter-item expanded "><a href="stammtisch/2021-03-01/index.html"><strong aria-hidden="true">2.</strong> 2021-03-01</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">IOTA Community Events</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="virtual-stammtisch-de"><a class="header" href="#virtual-stammtisch-de">Virtual Stammtisch (De)</a></h1>
+<p>Wo? Im einfachIOTA Discord in der #kneipe.</p>
+<p>Wann? Jeden Montag ab 19 Uhr!</p>
+<p>Wer? Jeder der mag! Aber bitte haltet euch an die #regeln! </p>
+<ul>
+<li>Nächster Stammtisch: <a href="stammtisch/./2021-03-01/README.html">2021-03-01</a></li>
+</ul>
+<h1 id="iota-stammtisch-01032021"><a class="header" href="#iota-stammtisch-01032021">IOTA Stammtisch 01.03.2021</a></h1>
+<ol>
+<li>World Economic Forum Bericht: <a href="https://www.weforum.org/agenda/2021/02/origintrail-blockchain-covid-supplies-repository/">WEForum Agenda</a> mit Bild von IOTA aber offenbar keine Relation zu IOTA </li>
+<li>Bund prüft Einführung eines digitalen Impfpasses <a href="https://www.businessinsider.de/politik/deutschland/bund-prueft-einfuehrung-eines-digitalen-impfpasses-das-koennte-das-oeffentliche-leben-stark-veraendern-a/">Buisinessinsider schreibt darüber</a></li>
+<li>BitCom Mittwoch früh 9-11Uhr geht's bei uns um #Blockchain im Gesundheitssektor. U.A. mit CarstenStoecker, Ubirch_Trust, ... <a href="https://twitter.com/bitkom_block/status/1363863406181285889">Tweet dazu</a></li>
+<li>Es gibt eine neue <a href="https://chrysalis.docs.iota.org/">Chrysalis Developer Seite</a>. Hier der <a href="https://twitter.com/iota_dev/status/1363871502068817922?s=20">Tweet dazu</a> </li>
+<li>Das <a href="https://twitter.com/antonionardella/status/1364193100143472640?s=20">Simplify IOTA Experience Team</a> startet. Hier das Video vom <a href="https://www.youtube.com/watch?v=7aOzT23CsqM&amp;feature=youtu.be">IOTA Experience Simplify Kickoff Meeting</a></li>
+<li>Ein neues <a href="https://www.youtube.com/watch?v=hJ78UlaKEn8&amp;feature=youtu.be">Rust Live Coding Video</a></li>
+<li>APPG Blockchain <a href="https://twitter.com/appg_blockchain/status/1364225396317675533">Event mit Navin Ramachandran</a></li>
+<li>Hans Moog vs. Nano <a href="https://twitter.com/hus_qy/status/1364317003796865026?s=20">auf Twitter</a></li>
+<li>Neues <a href="https://www.youtube.com/watch?v=4N3K72TKIws&amp;feature=youtu.be">Interview mit Dom Schiener</a> (Von Digital Asset News mit 148 000 Youtube Followern)</li>
+<li>Christoph Strnadl nimmt am 15.3. an einer Talkrunde über &quot;Euro goes Crypto&quot; teil und <a href="https://twitter.com/archimate/status/1364482164390309888?s=20">tweetet darüber</a></li>
+<li>Jemand mit 230 000 Abonenten <a href="https://twitter.com/Ronald_vanLoon/status/1364492451117998080?s=20">twittert über IOTA</a> verlinkt einen <a href="https://iiot-world.com/connected-industry/enabling-manufacturing-using-iota-a-possible-approach-post-covid-19-paradigm/">Artikel vom May 2020</a></li>
+<li>BlockrocketLabs kollaboriert mit IOTA: <a href="https://twitter.com/blockrocketlabs/status/1364521658833272836?s=20">Tweet dazu</a></li>
+<li>Smart Contract Developer <a href="https://twitter.com/antonionardella/status/1364587475394510848?s=20">Fragenkatalog</a></li>
+<li>IOT2TANGLE bringt &quot;bridge between the B-L475E-IOT01A and #IOTA via HTTP&quot; heraus. <a href="https://twitter.com/iot2tangle/status/1364582474014154754?s=19">Tweet dazu</a></li>
+<li>Charles Hoskinson schießt gegen Dan Larimer: <a href="https://twitter.com/IOHK_Charles/status/1364362197879562240?s=19">Twitter fight dazu</a> und auch gegen &quot;feeless&quot; IOTA und Nano </li>
+<li>Elon Musk <a href="https://twitter.com/elonmusk/status/1364560733472579591?s=19">shillt wieder Dodge</a> und Dodge jetzt auch <a href="https://twitter.com/elonmusk">in seiner Bio</a></li>
+<li>Non Fungible Token muss mir mal einer erklären... Wer zahlt da so viel für sowas? <a href="https://app.rarible.com/doji?tab=collectibles">rarible.com</a> und <a href="https://twitter.com/DomSchiener/status/1366050962662699014?s=20">Dom Schiener hat den Energieverbrauch von NFTs kritisiert</a> Außerdem scheint sich MicroHash <a href="https://twitter.com/micro_hash/status/1365385818987237383?s=20">damit zu befassen</a>. Er ist wieder im IOTA Ökosystem und <a href="https://twitter.com/micro_hash/status/1365014278114336784?s=20">interessiert sich</a> für Smart contracts und Colored Token. <a href="https://twitter.com/micro_hash/status/1366105452942139400?s=20">Er schreibt</a>: Wir brauchen NFT auf dem Tangle</li>
+<li>Video vom <a href="https://www.youtube.com/watch?v=UvISKlRPNc4">AMA mit Dom Schiener</a> und ein <a href="https://twitter.com/MudKevin/status/1364684978215219200?s=20">Zusammenfassung vom JustKevin</a></li>
+<li>Video vom <a href="https://www.youtube.com/watch?v=_qt8AL6GuuE&amp;feature=youtu.be">Dell Intel und IOTA Webinar</a></li>
+<li>Video von der <a href="https://www.youtube.com/watch?v=Ivv1JArtHvM&amp;feature=youtu.be">ZEBRA Vacianation card Demo</a></li>
+<li>Sanfranciscotribe erklärt IOTA sehr detailiert: <a href="https://sanfranciscotribe.com/Home/iota-tip-selection-series-part-1/">Part 1</a>, <a href="https://sanfranciscotribe.com/Home/scaling-the-iota-network/">Part 2</a>, <a href="https://sanfranciscotribe.com/Home/untangling-iota-tip-selection-part-3-combating-lazy-tip/">Part 3</a>, <a href="https://sanfranciscotribe.com/Home/untangling-iota-part-4-transaction-approval-process-do-you-approve/">Part 4</a>, <a href="https://sanfranciscotribe.com/Home/the-world-of-cryptocurrencies-part-5-what-is-iota/">Part 5</a>, <a href="https://sanfranciscotribe.com/Home/removing-the-coordinator/">Part 6</a>, <a href="https://sanfranciscotribe.com/Home/untangling-iota-spam-protection-and-rate-control-series-part-7/">Part 7</a>, <a href="https://sanfranciscotribe.com/Home/">Part 8</a></li>
+<li>Mana kommt in 2 Wochen schon ins Testnetz laut <a href="https://twitter.com/hus_qy/status/1364605123402547203?s=20">Hans Moog Tweet</a></li>
+<li><a href="https://blog.iota.org/welcome-daria-to-the-iota-foundation/">Welcome Daria Dziubałtowska to the IOTA Foundation</a></li>
+<li>INATBA <a href="https://twitter.com/INATBA_org/status/1364937132092047361?s=20">tweetet über IOTA</a> und ruft damit zum Ausfüllen eines Fragenkatalogs <a href="https://www.surveymonkey.com/r/siswg">Social Impact &amp; Sustainability Survey</a> auf</li>
+<li>Drei schöne neue GIFs von der IOTA Foundation über <a href="https://twitter.com/iota/status/1364623145949421569?s=20">Data Confidence Fabric</a>, <a href="https://twitter.com/iota/status/1364903252890902532?s=19">IOTA Industrial Oracles</a> und <a href="https://twitter.com/iota/status/1364903252890902532?s=20">IOTA Industrial Oracles</a></li>
+<li>Neues <a href="https://www.youtube.com/watch?v=bubGYomQt5Q&amp;feature=youtu.be">IOTA Talks Video</a> mit Dom Schiener</li>
+<li>Ist &quot;Be your own bank&quot; gestorben? Leute verdienen mehr Geld auf den Exchanges, die Börsen werden immer sicherer, Transaktionskosten werden teurer. Bei Paypal kann man seine Bitcoins gar nicht mehr abheben...</li>
+<li>Die IOTA Foundation stellt einige neue Leute ein (<a href="https://iota.bamboohr.com/jobs/?source=bamboohr">Stellenangebote</a>)</li>
+<li>IOTA <a href="https://github.com/iotaledger/goshimmer/releases/tag/v0.4.0">Pollen v0.4.0</a> ist raus. Hier der <a href="https://blog.iota.org/pollen-testnet-v0-4-0-release-notes/">Blogpost dazu</a>. Es gab auch einige Tweets dazu: <a href="https://twitter.com/hus_qy/status/1365416051568242693?s=20">Hans Moog Tweet 1</a>, <a href="https://twitter.com/hus_qy/status/1366139678856986631?s=20">H.M. Tweet 2</a></li>
+<li>Neuer <a href="https://fsinsight.com/2021/02/26/crypto-special-report-iota-2-0-network-upgrade-holds-promise-for-adoption-1/">Fundstrat Report</a></li>
+<li>Was ist eigentlich mit Cardano ADA und BNB los? Stehen mittlerweile auf Platz 3 und 4. Profitieren die von den hohen Ethereum Gas Fees?</li>
+<li>Wird der März ein IOTA Monat (<a href="https://twitter.com/Vrom14286662/status/1366266826422951937?s=20">Dancing march</a>? Es liegt viel an (<a href="https://twitter.com/Vrom14286662/status/1366115274215329805?s=20">siehe vrom Tweet</a>) und auch Dom S. hat den <a href="https://twitter.com/DomSchiener/status/1365303126799056902?s=20">Frühling ausgerufen</a></li>
+<li>Hans Moog ist auf der <a href="https://twitter.com/CryptoRockstar2/status/1285951583788957699?s=20">Crypto Rockstar Cruise als Sprecher dabei</a></li>
+<li>Zanni Group will <a href="https://twitter.com/GroupZanni/status/1366067106987524102?s=20">heute irgendwie über IOTA reden</a></li>
+<li>RaspiHive Version 2.0 <a href="https://twitter.com/p_iota/status/1366093234032828418?s=20">wurde released</a> Hier die <a href="https://raspihive.org/#/">Webseite</a> und das <a href="https://raspihive.org/#/">Tutorial</a></li>
+<li>Neues <a href="https://www.youtube.com/watch?v=WGC3nLC70MU&amp;feature=youtu.be">HelloIOTA Roundup #76</a></li>
+<li>IOTATalks <a href="https://www.iota-talk.com/index.php?article-amp/77-wochenr%C3%BCckblick-vom-21-bis-27-februar-2021/&amp;article%2F77-wochenr%C3%BCckblick-vom-21-bis-27-februar-2021%2F=&amp;__twitter_impression=true">Wochenrückblick</a></li>
+<li>Neues <a href="https://www.youtube.com/watch?v=h-DbC5bqdfo&amp;feature=youtu.be">Spaß Video</a> von Hund über IOTA</li>
+<li>Es soll wohl ein Community Spam Test für Chrysalis geben am Samstag (siehe <a href="https://twitter.com/unseriouscandle/status/1366106315194576898?s=20">Tweet mit screenshot</a>)</li>
+<li>Jason Shepard, der &quot;VP of Ecosystem for ZededaEdge&quot; <a href="https://twitter.com/defshepherd/status/1366221100183670789?s=20">retweetet den IOTA Tweet von Mat Yarger</a> Hier deren <a href="https://zededa.com/product/">Webseite</a> und <a href="https://www.youtube.com/watch?v=cElSq42PzZQ">ein Video</a> was die machen</li>
+<li><a href="https://www.youtube.com/watch?v=7EPfZvwe7WE&amp;feature=youtu.be">IOTAQuicktakes</a></li>
+</ol>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+        
+        <script type="text/javascript">
+        window.addEventListener('load', function() {
+            window.setTimeout(window.print, 100);
+        });
+        </script>
+        
+        
+
+    </body>
+</html>
