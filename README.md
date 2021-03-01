@@ -39,3 +39,4 @@
 38. Neues [Spaß Video](https://www.youtube.com/watch?v=h-DbC5bqdfo&feature=youtu.be) von Hund über IOTA
 39. Es soll wohl ein Community Spam Test für Chrysalis geben am Samstag (siehe [Tweet mit screenshot](https://twitter.com/unseriouscandle/status/1366106315194576898?s=20))
 40. Jason Shepard, der "VP of Ecosystem for ZededaEdge" [retweetet den IOTA Tweet von Mat Yarger](https://twitter.com/defshepherd/status/1366221100183670789?s=20) Hier deren [Webseite](https://zededa.com/product/) und [ein Video](https://www.youtube.com/watch?v=cElSq42PzZQ) was die machen
+41. [IOTAQuicktakes](https://www.youtube.com/watch?v=7EPfZvwe7WE&feature=youtu.be)
