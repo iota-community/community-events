@@ -1,5 +1,5 @@
 # IOTA Stammtisch 01.03.2021
-1. World Economic Forum Bericht: [WEForum Agenda](https://www.weforum.org/agenda/2021/02/origintrail-blockchain-covid-supplies-repository/)
+1. World Economic Forum Bericht: [WEForum Agenda](https://www.weforum.org/agenda/2021/02/origintrail-blockchain-covid-supplies-repository/) mit Bild von IOTA aber offenbar keine Relation zu IOTA 
 2. Bund prüft Einführung eines digitalen Impfpasses [Buisinessinsider schreibt darüber](https://www.businessinsider.de/politik/deutschland/bund-prueft-einfuehrung-eines-digitalen-impfpasses-das-koennte-das-oeffentliche-leben-stark-veraendern-a/)
 3. BitCom Mittwoch früh 9-11Uhr geht's bei uns um #Blockchain im Gesundheitssektor. U.A. mit CarstenStoecker, Ubirch_Trust, ... [Tweet dazu](https://twitter.com/bitkom_block/status/1363863406181285889)
 4. Es gibt eine neue [Chrysalis Developer Seite](https://chrysalis.docs.iota.org/). Hier der [Tweet dazu](https://twitter.com/iota_dev/status/1363871502068817922?s=20) 
