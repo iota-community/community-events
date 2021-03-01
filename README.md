@@ -31,7 +31,7 @@
 30. Neuer [Fundstrat Report](https://fsinsight.com/2021/02/26/crypto-special-report-iota-2-0-network-upgrade-holds-promise-for-adoption-1/)
 31. Was ist eigentlich mit Cardano ADA und BNB los? Stehen mittlerweile auf Platz 3 und 4. Profitieren die von den hohen Ethereum Gas Fees?
 32. Wird der März ein IOTA Monat ([Dancing march](https://twitter.com/Vrom14286662/status/1366266826422951937?s=20)? Es liegt viel an ([siehe vrom Tweet](https://twitter.com/Vrom14286662/status/1366115274215329805?s=20)) und auch Dom S. hat den [Frühling ausgerufen](https://twitter.com/DomSchiener/status/1365303126799056902?s=20)
-33. Hans Moog ist auf der [Crypto Rockstar Cruise als Sprecher dabei](https:)//twitter.com/CryptoRockstar2/status/1285951583788957699?s=20)
+33. Hans Moog ist auf der [Crypto Rockstar Cruise als Sprecher dabei](https://twitter.com/CryptoRockstar2/status/1285951583788957699?s=20)
 34. Zanni Group will [heute irgendwie über IOTA reden](https://twitter.com/GroupZanni/status/1366067106987524102?s=20)
 35. RaspiHive Version 2.0 [wurde released](https://twitter.com/p_iota/status/1366093234032828418?s=20) Hier die [Webseite](https://raspihive.org/#/) und das [Tutorial](https://raspihive.org/#/)
 36. Neues [HelloIOTA Roundup #76](https://www.youtube.com/watch?v=WGC3nLC70MU&feature=youtu.be)
