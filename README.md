@@ -37,3 +37,4 @@
 36. Neues [HelloIOTA Roundup #76](https://www.youtube.com/watch?v=WGC3nLC70MU&feature=youtu.be)
 37. IOTATalks [Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/77-wochenr%C3%BCckblick-vom-21-bis-27-februar-2021/&article%2F77-wochenr%C3%BCckblick-vom-21-bis-27-februar-2021%2F=&__twitter_impression=true)
 38. Neues [Spaß Video](https://www.youtube.com/watch?v=h-DbC5bqdfo&feature=youtu.be) von Hund über IOTA
+39. Es soll wohl ein Community Spam Test für Chrysalis geben am Samstag (siehe [Tweet mit screenshot](https://twitter.com/unseriouscandle/status/1366106315194576898?s=20))
