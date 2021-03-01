@@ -40,4 +40,4 @@
 39. Es soll wohl ein Community Spam Test für Chrysalis geben am Samstag (siehe [Tweet mit screenshot](https://twitter.com/unseriouscandle/status/1366106315194576898?s=20))
 40. Jason Shepard, der "VP of Ecosystem for ZededaEdge" [retweetet den IOTA Tweet von Mat Yarger](https://twitter.com/defshepherd/status/1366221100183670789?s=20) Hier deren [Webseite](https://zededa.com/product/) und [ein Video](https://www.youtube.com/watch?v=cElSq42PzZQ) was die machen
 41. [IOTAQuicktakes](https://www.youtube.com/watch?v=7EPfZvwe7WE&feature=youtu.be)
-42. [IOTA Partnerschaft mit Horizen ](https://blog.iota.org/iota-and-horizen-partner-to-expand-iota-oracles-to-new-blockchains/) und auch von [Horizen eine Blogpost(https://blog.horizen.io/iota-and-horizen-partner-to-expand-iota-oracles-and-zendoo/)
+42. [IOTA Partnerschaft mit Horizen ](https://blog.iota.org/iota-and-horizen-partner-to-expand-iota-oracles-to-new-blockchains/) und auch von [Horizen eine Blogpost](https://blog.horizen.io/iota-and-horizen-partner-to-expand-iota-oracles-and-zendoo/)
