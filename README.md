@@ -1,3 +1,3 @@
 # IOTA Community Events
 
-- [Virtual Stammtisch (De)](./stammtisch)
+- [Virtual Stammtisch (De)](./page/stammtisch)
