@@ -38,3 +38,4 @@
 37. IOTATalks [Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/77-wochenr%C3%BCckblick-vom-21-bis-27-februar-2021/&article%2F77-wochenr%C3%BCckblick-vom-21-bis-27-februar-2021%2F=&__twitter_impression=true)
 38. Neues [Spaß Video](https://www.youtube.com/watch?v=h-DbC5bqdfo&feature=youtu.be) von Hund über IOTA
 39. Es soll wohl ein Community Spam Test für Chrysalis geben am Samstag (siehe [Tweet mit screenshot](https://twitter.com/unseriouscandle/status/1366106315194576898?s=20))
+40. Jason Shepard, der "VP of Ecosystem for ZededaEdge" [retweetet den IOTA Tweet von Mat Yarger](https://twitter.com/defshepherd/status/1366221100183670789?s=20)
