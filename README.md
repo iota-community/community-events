@@ -10,12 +10,12 @@
 9. Neues [Interview mit Dom Schiener](https://www.youtube.com/watch?v=4N3K72TKIws&feature=youtu.be) (Von Digital Asset News mit 148 000 Youtube Followern)
 10. Christoph Strnadl nimmt am 15.3. an einer Talkrunde über "Euro goes Crypto" teil und [tweetet darüber](https://twitter.com/archimate/status/1364482164390309888?s=20)
 11. Jemand mit 230 000 Abonenten [twittert über IOTA](https://twitter.com/Ronald_vanLoon/status/1364492451117998080?s=20) verlinkt einen [Artikel vom May 2020](https://iiot-world.com/connected-industry/enabling-manufacturing-using-iota-a-possible-approach-post-covid-19-paradigm/)
-12. BlockrocketLabs kolaboriert mit IOTA: [Tweet dazu](https://twitter.com/blockrocketlabs/status/1364521658833272836?s=20)
+12. BlockrocketLabs kollaboriert mit IOTA: [Tweet dazu](https://twitter.com/blockrocketlabs/status/1364521658833272836?s=20)
 13. Smart Contract Developer [Fragenkatalog](https://twitter.com/antonionardella/status/1364587475394510848?s=20)
 14. IOT2TANGLE bringt "bridge between the B-L475E-IOT01A and #IOTA via HTTP" heraus. [Tweet dazu](https://twitter.com/iot2tangle/status/1364582474014154754?s=19)
 15. Charles Hoskinson schießt gegen Dan Larimer: [Twitter fight dazu](https://twitter.com/IOHK_Charles/status/1364362197879562240?s=19) und auch gegen "feeless" IOTA und Nano 
 16. Elon Musk [shillt wieder Dodge](https://twitter.com/elonmusk/status/1364560733472579591?s=19) und Dodge jetzt auch [in seiner Bio](https://twitter.com/elonmusk)
-17. Non Fungible Token muss mir mal einer erklären... Wer zahlt da so viel für sowas? [rarible.com](https://app.rarible.com/doji?tab=collectibles) [Dom Schiener hat auch den Energieverbrauch von NFTs kritisiert] (https://twitter.com/DomSchiener/status/1366050962662699014?s=20)
+17. Non Fungible Token muss mir mal einer erklären... Wer zahlt da so viel für sowas? [rarible.com](https://app.rarible.com/doji?tab=collectibles) [Dom Schiener hat auch den Energieverbrauch von NFTs kritisiert] (https://twitter.com/DomSchiener/status/1366050962662699014?s=20) Außerdem scheint sich MicroHash [damit zu befassen](https://twitter.com/micro_hash/status/1365385818987237383?s=20). Er ist wieder im IOTA Ökosystem und [interessiert sich](https://twitter.com/micro_hash/status/1365014278114336784?s=20) für Smart contracts und Colored Token. [Er schreibt](https://twitter.com/micro_hash/status/1366105452942139400?s=20): Wir brauchen NFT auf dem Tangle
 18. Video vom [AMA mit Dom Schiener](https://www.youtube.com/watch?v=UvISKlRPNc4) und ein [Zusammenfassung vom JustKevin](https://twitter.com/MudKevin/status/1364684978215219200?s=20)
 19. Video vom [Dell Intel und IOTA Webinar](https://www.youtube.com/watch?v=_qt8AL6GuuE&feature=youtu.be)
 20. Video von der [ZEBRA Vacianation card Demo](https://www.youtube.com/watch?v=Ivv1JArtHvM&feature=youtu.be)
@@ -27,7 +27,7 @@
 26. Neues [IOTA Talks Video](https://www.youtube.com/watch?v=bubGYomQt5Q&feature=youtu.be) mit Dom Schiener
 27. Ist "Be your own bank" gestorben? Leute verdienen mehr Geld auf den Exchanges, die Börsen werden immer sicherer, Transaktionskosten werden teurer. Bei Paypal kann man seine Bitcoins gar nicht mehr abheben...
 28. Die IOTA Foundation stellt einige neue Leute ein [Stellenangebote](https://iota.bamboohr.com/jobs/?source=bamboohr)
-29. IOTA [Pollen v0.4.0](https://github.com/iotaledger/goshimmer/releases/tag/v0.4.0) ist raus [Blogpost dazu](https://blog.iota.org/pollen-testnet-v0-4-0-release-notes/) Dazu gab es auch einen [ Hans Moog Tweet](https://twitter.com/hus_qy/status/1365416051568242693?s=20)
+29. IOTA [Pollen v0.4.0](https://github.com/iotaledger/goshimmer/releases/tag/v0.4.0) ist raus [Blogpost dazu](https://blog.iota.org/pollen-testnet-v0-4-0-release-notes/) Dazu gab es auch Tweets: [ Hans Moog Tweet 1](https://twitter.com/hus_qy/status/1365416051568242693?s=20) [H.M. Tweet 2](https://twitter.com/hus_qy/status/1366139678856986631?s=20)
 30. Neuer [Fundstrat Report CRYPTO SPECIAL REPORT: IOTA 2.0: Network Upgrade Holds Promise For Adoption & Growth](https://fsinsight.com/2021/02/26/crypto-special-report-iota-2-0-network-upgrade-holds-promise-for-adoption-1/)
 31. Was ist eigentlich mit Cardana ADA los? Profitieren die von den hohen Ethereum Gas Fees?
 32. Wird der März ein IOTA Monat ([Dancing march](https://twitter.com/Vrom14286662/status/1366266826422951937?s=20)? Es liegt viel an ([siehe vrom Tweet](https://twitter.com/Vrom14286662/status/1366115274215329805?s=20)) und auch Dom S. hat den [Frühling ausgerufen](https://twitter.com/DomSchiener/status/1365303126799056902?s=20)
