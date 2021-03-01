@@ -1,0 +1,8 @@
+[book]
+authors = ["vromvonbeyond, huhn"]
+language = "en"
+multilingual = false
+src = "page"
+title = "IOTA Community Events"
+[output.html]
+theme = "page/theme"
