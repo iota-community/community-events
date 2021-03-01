@@ -27,9 +27,9 @@
 26. Neues [IOTA Talks Video](https://www.youtube.com/watch?v=bubGYomQt5Q&feature=youtu.be) mit Dom Schiener
 27. Ist "Be your own bank" gestorben? Leute verdienen mehr Geld auf den Exchanges, die Börsen werden immer sicherer, Transaktionskosten werden teurer. Bei Paypal kann man seine Bitcoins gar nicht mehr abheben...
 28. Die IOTA Foundation stellt einige neue Leute ein ([Stellenangebote](https://iota.bamboohr.com/jobs/?source=bamboohr))
-29. IOTA [Pollen v0.4.0](https://github.com/iotaledger/goshimmer/releases/tag/v0.4.0) ist raus. Hier der [Blogpost dazu](https://blog.iota.org/pollen-testnet-v0-4-0-release-notes/). Es gab auch einige Tweets: [ Hans Moog Tweet 1](https://twitter.com/hus_qy/status/1365416051568242693?s=20) [H.M. Tweet 2](https://twitter.com/hus_qy/status/1366139678856986631?s=20)
-30. Neuer [Fundstrat Report] CRYPTO SPECIAL REPORT: IOTA 2.0: Network Upgrade Holds Promise For Adoption & Growth(https://fsinsight.com/2021/02/26/crypto-special-report-iota-2-0-network-upgrade-holds-promise-for-adoption-1/)
-31. Was ist eigentlich mit Cardana ADA los? Profitieren die von den hohen Ethereum Gas Fees?
+29. IOTA [Pollen v0.4.0](https://github.com/iotaledger/goshimmer/releases/tag/v0.4.0) ist raus. Hier der [Blogpost dazu](https://blog.iota.org/pollen-testnet-v0-4-0-release-notes/). Es gab auch einige Tweets dazu: [Hans Moog Tweet 1](https://twitter.com/hus_qy/status/1365416051568242693?s=20), [H.M. Tweet 2](https://twitter.com/hus_qy/status/1366139678856986631?s=20)
+30. Neuer [Fundstrat Report](https://fsinsight.com/2021/02/26/crypto-special-report-iota-2-0-network-upgrade-holds-promise-for-adoption-1/)
+31. Was ist eigentlich mit Cardano ADA und BNB los? Stehen mittlerweile auf Platz 3 und 4. Profitieren die von den hohen Ethereum Gas Fees?
 32. Wird der März ein IOTA Monat ([Dancing march](https://twitter.com/Vrom14286662/status/1366266826422951937?s=20)? Es liegt viel an ([siehe vrom Tweet](https://twitter.com/Vrom14286662/status/1366115274215329805?s=20)) und auch Dom S. hat den [Frühling ausgerufen](https://twitter.com/DomSchiener/status/1365303126799056902?s=20)
 33. Hans Moog ist auf der [Crypto Rockstar Cruise als Sprecher dabei](https:)//twitter.com/CryptoRockstar2/status/1285951583788957699?s=20)
 34. Zanni Group will [heute irgendwie über IOTA reden](https://twitter.com/GroupZanni/status/1366067106987524102?s=20)
