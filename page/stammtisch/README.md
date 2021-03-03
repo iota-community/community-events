@@ -7,7 +7,7 @@ Einladungslink: ...
 
 **Wer?** Jeder der mag! 
 
-**Wie?** Neue Teilnehmer haben zunächst "Push to talk" eingestellt (Mikrofon und Ton lässt sich bei den Benutzereinstellungen unter "Sprach- und Videochat" testen). 
+**Wie?** Das Mikrofon und der Ton lässt sich bei den Benutzereinstellungen unter "Sprach- und Videochat" testen. Neue Teilnehmer haben zunächst "Push to talk" eingestellt. 
 Wer mit der "Mute" Taste umgehen kann, bekommt gerne auch die Rolle "Plaudertasche" zugewiesen
 
 **Regeln?** 
