@@ -1,10 +1,14 @@
 # Virtual Stammtisch (De)
 
 **Wo?** Im einfachIOTA Discord im #Stammtisch voice channel. Nebenbei wird in der #kneipe gechattet.
+Einladungslink: ...
 
 **Wann?** Jeden Montag ab 19 Uhr! 
 
 **Wer?** Jeder der mag! 
+
+**Wie?** Neue Teilnehmer haben zunächst "Push to talk" eingestellt (Mikrofon und Ton lässt sich bei den Benutzereinstellungen unter "Sprach- und Videochat" testen). 
+Wer mit der "Mute" Taste umgehen kann, bekommt gerne auch die Rolle "Plaudertasche" zugewiesen
 
 **Regeln?** 
 1. Was im Stammtisch passiert bleibt im Stammtisch!
