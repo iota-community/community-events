@@ -8,4 +8,4 @@
 8. Jemand hat unheimlich viele [Aussagen von Hans Moog und anderen von der IF](https://m.blog.naver.com/PostView.nhn?blogId=btlkhs&logNo=222260589541&proxyReferer=) zusammen geschrieben
 9. Junge Union Limburg macht ein IOTA Event am 9.3. um 19 Uhr: [Tweet dazu](https://twitter.com/JULimburg/status/1367025318339497987?s=20) und hier der [Youtube Link dazu](https://www.youtube.com/watch?v=oTkrpTbx3n8&feature=youtu.be) und Dom Schiener freut sich auch drauf: [Tweet](https://twitter.com/DomSchiener/status/1367032634656911365?s=20)
 10. Neuigkeiten zu IOTA smartk contracts und zum ISCP: [Tweet von Dom](https://twitter.com/DomSchiener/status/1367089611315572737?s=20)
-11. [AMA mit Dom Schiener]() Hier konnte man Fragen stellen: [Auf Reddit](https://www.reddit.com/r/Iota/comments/lhljjv/project_alvarium_community_questions/)
+11. [AMA mit Dom Schiener](https://www.youtube.com/watch?v=PdheIJBKf9E) Hier konnte man Fragen stellen: [Auf Reddit](https://www.reddit.com/r/Iota/comments/lhljjv/project_alvarium_community_questions/)
