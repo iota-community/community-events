@@ -15,3 +15,4 @@
 15. Am 4. März gab es irgendwas mit Mat Yarger und [ZededaEdge](https://twitter.com/ZededaEdge/status/1367235207963803648?s=20) Hier der [Event](http://ise.thss.tsinghua.edu.cn/IEDE/agenda.html?utm_content=156297780&utm_medium=social&utm_source=twitter&hss_channel=tw-920370660458860544)
 16. Finanzen.net [schreibt über IOTA](https://www.finanzen.net/nachricht/devisen/neue-funktionen-angekuendigt-iota-kurs-geht-nach-update-news-durch-die-decke-neue-versionen-sollen-tangle-netzwerk-verbessern-9873514)
 17. Neues IOTA Industrial Lab Aachen: [Tweet von Daniel Trauth](https://twitter.com/DanielTrauth/status/1367485993629196290?s=20)
+18. BTCManager [schreibt über IOTA Oracles](https://btcmanager.com/iota-horizen-partner-oracles-blockchain/)
