@@ -24,3 +24,4 @@
 24. Neues Meme Video: [IOTA opens floodgates](https://www.youtube.com/watch?v=3mCyztHcSMs&feature=youtu.be)
 25. Horizen Co-Founder spricht über die IOTA parnterschaft: [Tweet daszu](https://twitter.com/horizenglobal/status/1367540528829530115?s=20), [Video dazu](https://www.youtube.com/watch?v=cpOrkRjKEvg&t=1212s)
 26. [GoShimmer v.0.4.1](https://github.com/iotaledger/goshimmer/releases/tag/v0.4.1) wurde relesed
+27. Bitfinex [tweetet](https://twitter.com/bitfinex/status/1367812859334385665?s=20), dass man jetzt seine IOTAs beleihen kann. Hier der [Blogpost daszu](https://www.bitfinex.com/posts/613)
