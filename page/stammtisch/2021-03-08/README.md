@@ -2,7 +2,7 @@
 1. [Pia Wenke freut sich bei LinkedIn](https://www.linkedin.com/posts/pia-wenke-a85a49159_circulareconomy-sustainability-activity-6771820493507973120-9Xgc/) über den Gewinner bei der BASF Challenge" "How to create value from textile waste and what enablers would be needed to make that happen". Die haben offebar die IOTA Technologie verwedet.
 2. Neue Mitgliede [Piotr Macek](https://blog.iota.org/welcome-piotr-macek-to-the-iota-foundation/) bei der IOTA Foundation: [Tweet dazu](https://twitter.com/iota/status/1366702448115671046?s=20)
 3. Pollen v0.4.1 wurde released
-5. PayPal und Curve [Tweet von CoinDesk](https://twitter.com/CoinDesk/status/1366779532452192262?s=20)
+5. PayPal und Curve [Tweet von CoinDesk](https://twitter.com/CoinDesk/status/1366779532452192262?s=20); Spricht der PayPal CEO [hier](https://www.youtube.com/watch?t=513&v=mJNpLUBmj5s&feature=youtu.be) vielleicht von IOTA? "1000 TPS and fit for payments"
 6. Wie ist der Stand bei MOBI? Es gab ein [Tweet von Mobi](https://twitter.com/dltMOBI/status/1366843555902152704?s=20) mit dem Hinweis auf 4 [MOBI Standards](http://dlt.mobi/standards/) und Drama weil [Buisinesswire schreibt](https://www.businesswire.com/news/home/20210302005905/en/MOBI-Members-Constellation-Network-GM-and-Ford-Develop-DLT-Data-Sharing-Standard-for-Autonomous-Vehicles), dass das Constellation Network verwendet wird. Hier [ein Vidoe davon](https://www.youtube.com/watch?app=desktop&v=BVzRsZ7KxKg&feature=youtu.be), der [Coin steht irgendwo auf Platz 400 bei Coinmarketcap](https://coinmarketcap.com/currencies/constellation/)
 7. Sanfranciscotribe [vergleicht IOTA und Cardano als Investment](https://sanfranciscotribe.com/Home/difference-between-cardano-and-iota-which-is-the-better-investment/)
 8. Jemand hat unheimlich viele [Aussagen von Hans Moog und anderen von der IF](https://m.blog.naver.com/PostView.nhn?blogId=btlkhs&logNo=222260589541&proxyReferer=) zusammen geschrieben
@@ -16,3 +16,7 @@
 16. Finanzen.net [schreibt über IOTA](https://www.finanzen.net/nachricht/devisen/neue-funktionen-angekuendigt-iota-kurs-geht-nach-update-news-durch-die-decke-neue-versionen-sollen-tangle-netzwerk-verbessern-9873514)
 17. Neues IOTA Industrial Lab Aachen: [Tweet von Daniel Trauth](https://twitter.com/DanielTrauth/status/1367485993629196290?s=20)
 18. BTCManager [schreibt über IOTA Oracles](https://btcmanager.com/iota-horizen-partner-oracles-blockchain/)
+19. IOTA Talks mit Dom Schiener über smart contracts: [Tweet dazu](https://twitter.com/iota/status/1367545210071318532) [Fragen dazu auf Reddit](https://www.reddit.com/r/Iota/comments/lxh60a/iota_talks_with_dominik_schiener_05032021/)
+20. IOTA [Research Status Update](https://blog.iota.org/iota-research-status-updatemarch-2021/) und hier [auf deutsch](https://iota-kurs.de/iota-forschungsstatus-update-maerz-2021/) 
+21. Template für IOTA smart contracts: [Tweet](https://twitter.com/th3b0y/status/1367562442964926464?s=20), [github](https://github.com/brunoamancio/IOTA-SmartContracts)
+22. IOTA Latan Meetup](https://www.youtube.com/watch?v=w-XydIeYSu8)
