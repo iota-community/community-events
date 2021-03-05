@@ -25,3 +25,4 @@
 25. Horizen Co-Founder spricht über die IOTA parnterschaft: [Tweet daszu](https://twitter.com/horizenglobal/status/1367540528829530115?s=20), [Video dazu](https://www.youtube.com/watch?v=cpOrkRjKEvg&t=1212s)
 26. [GoShimmer v.0.4.1](https://github.com/iotaledger/goshimmer/releases/tag/v0.4.1) wurde relesed
 27. Bitfinex [tweetet](https://twitter.com/bitfinex/status/1367812859334385665?s=20), dass man jetzt seine IOTAs beleihen kann. Hier der [Blogpost daszu](https://www.bitfinex.com/posts/613)
+28. Zebra auf promoted ihr global vacination verification tool [auf LinkedIN](https://www.linkedin.com/posts/zebra-technologies_creating-a-globally-trusted-vaccine-verification-activity-6773255706486435840-gd89/) Hier der [Blogpost dazu](https://www.zebra.com/us/en/blog/posts/2021/dlt-blockchain-technology-can-help-us-create-globally-trusted-vaccination-verification-system.html?tactic_type=SLO&tactic_detail=HC_Your+Edge+Blog+DLT+Vaccine+Framework_LI_NA_None)
