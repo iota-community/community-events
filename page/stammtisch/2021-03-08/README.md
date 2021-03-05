@@ -20,3 +20,5 @@
 20. IOTA [Research Status Update](https://blog.iota.org/iota-research-status-updatemarch-2021/) und hier [auf deutsch](https://iota-kurs.de/iota-forschungsstatus-update-maerz-2021/) 
 21. Template für IOTA smart contracts: [Tweet](https://twitter.com/th3b0y/status/1367562442964926464?s=20), [github](https://github.com/brunoamancio/IOTA-SmartContracts)
 22. [IOTA Latan Meetup](https://www.youtube.com/watch?v=w-XydIeYSu8) (auf spanisch)
+23. IOT2Tangle hat [getweetet](https://twitter.com/iot2tangle/status/1367510684448272385?s=19) Die haben irgendwie BeagleBoneBlack über Streams mit IOTA verbunden. Hier [github dazu](https://github.com/iot2tangle/BeagleBone-Black
+24. Neues Meme Video: [IOTA opens floodgates](https://www.youtube.com/watch?v=3mCyztHcSMs&feature=youtu.be)
