@@ -26,3 +26,7 @@
 26. [GoShimmer v.0.4.1](https://github.com/iotaledger/goshimmer/releases/tag/v0.4.1) wurde relesed
 27. Bitfinex [tweetet](https://twitter.com/bitfinex/status/1367812859334385665?s=20), dass man jetzt seine IOTAs beleihen kann. Hier der [Blogpost daszu](https://www.bitfinex.com/posts/613)
 28. Zebra promoted ihr global vacination verification tool [auf LinkedIN](https://www.linkedin.com/posts/zebra-technologies_creating-a-globally-trusted-vaccine-verification-activity-6773255706486435840-gd89/) Hier der [Blogpost dazu](https://www.zebra.com/us/en/blog/posts/2021/dlt-blockchain-technology-can-help-us-create-globally-trusted-vaccination-verification-system.html?tactic_type=SLO&tactic_detail=HC_Your+Edge+Blog+DLT+Vaccine+Framework_LI_NA_None)
+29. Neues Mitglied bei der IOTA Foundation: [Siddhant](https://blog.iota.org/welcome-siddhant-to-the-iota-foundation/)
+30. IOTA [Identity.rs ](https://github.com/iotaledger/identity.rs/projects/3) wurde von Jelle Millenar drauf hingewiesen sich das genauer anzuschauen..
+31. [IOTA Newsletter Nr. 30](https://blog.iota.org/iota-newsletter-30-a-new-dawn-iota-oracles-digital-assets-project-alvarium-with-dell-and-intel-and-more/)
+32. DAtenmarktplatz NRW: [Tweet von Senseering](https://twitter.com/senseering/status/1367849157856268297) Blogpost über [Vielversprechende Usecases und Geschäfte](https://medium.com/senseering/datenmarktplatz-nrw-die-vielversprechensten-use-cases-und-gesch%C3%A4ftsmodelle-9c50ebb6cabf)
