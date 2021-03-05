@@ -19,4 +19,4 @@
 19. IOTA Talks mit Dom Schiener über smart contracts: [Tweet dazu](https://twitter.com/iota/status/1367545210071318532) [Fragen dazu auf Reddit](https://www.reddit.com/r/Iota/comments/lxh60a/iota_talks_with_dominik_schiener_05032021/)
 20. IOTA [Research Status Update](https://blog.iota.org/iota-research-status-updatemarch-2021/) und hier [auf deutsch](https://iota-kurs.de/iota-forschungsstatus-update-maerz-2021/) 
 21. Template für IOTA smart contracts: [Tweet](https://twitter.com/th3b0y/status/1367562442964926464?s=20), [github](https://github.com/brunoamancio/IOTA-SmartContracts)
-22. IOTA Latan Meetup](https://www.youtube.com/watch?v=w-XydIeYSu8)
+22. [IOTA Latan Meetup](https://www.youtube.com/watch?v=w-XydIeYSu8)
