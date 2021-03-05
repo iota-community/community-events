@@ -22,3 +22,5 @@
 22. [IOTA Latan Meetup](https://www.youtube.com/watch?v=w-XydIeYSu8) (auf spanisch)
 23. IOT2Tangle hat [getweetet](https://twitter.com/iot2tangle/status/1367510684448272385?s=19) Die haben irgendwie BeagleBoneBlack über Streams mit IOTA verbunden. Hier [github dazu](https://github.com/iot2tangle/BeagleBone-Black
 24. Neues Meme Video: [IOTA opens floodgates](https://www.youtube.com/watch?v=3mCyztHcSMs&feature=youtu.be)
+25. Horizen Co-Founder spricht über die IOTA parnterschaft: [Tweet daszu](https://twitter.com/horizenglobal/status/1367540528829530115?s=20), [Video dazu](https://www.youtube.com/watch?v=cpOrkRjKEvg&t=1212s)
+26. [GoShimmer v.0.4.1](https://github.com/iotaledger/goshimmer/releases/tag/v0.4.1) wurde relesed
