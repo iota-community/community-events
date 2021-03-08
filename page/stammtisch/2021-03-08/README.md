@@ -19,7 +19,7 @@
 19. [IOTA Talks mit Dom Schiener](https://www.youtube.com/watch?v=v6vkOVh2q9A&feature=youtu.be) über smart contracts: [Tweet dazu](https://twitter.com/iota/status/1367545210071318532) [Fragen dazu auf Reddit](https://www.reddit.com/r/Iota/comments/lxh60a/iota_talks_with_dominik_schiener_05032021/)
 20. IOTA [Research Status Update](https://blog.iota.org/iota-research-status-updatemarch-2021/) und hier [auf deutsch](https://iota-kurs.de/iota-forschungsstatus-update-maerz-2021/) 
 21. Template für IOTA smart contracts: [Tweet](https://twitter.com/th3b0y/status/1367562442964926464?s=20), [github](https://github.com/brunoamancio/IOTA-SmartContracts)
-22. [IOTA Latan Meetup](https://www.youtube.com/watch?v=w-XydIeYSu8) (auf spanisch)
+22. [IOTA Latan Meetup](https://www.youtube.com/watch?v=w-XydIeYSu8) auf spanisch
 23. IOT2Tangle hat [getweetet](https://twitter.com/iot2tangle/status/1367510684448272385?s=19) Die haben irgendwie BeagleBoneBlack über Streams mit IOTA verbunden. Hier [github dazu](https://github.com/iot2tangle/BeagleBone-Black
 24. Neues Meme Video: [IOTA opens floodgates](https://www.youtube.com/watch?v=3mCyztHcSMs&feature=youtu.be)
 25. Horizen Co-Founder spricht über die IOTA parnterschaft: [Tweet daszu](https://twitter.com/horizenglobal/status/1367540528829530115?s=20), [Video dazu](https://www.youtube.com/watch?v=cpOrkRjKEvg&t=1212s)
@@ -39,6 +39,6 @@
 39. Microhash ist wieder on fire: [Will eine NFT Plattform bauen](https://twitter.com/micro_hash/status/1368109448741421057?s=20) und [sucht Unterstützer](https://twitter.com/micro_hash/status/1368498385418878977?s=20) Auch der developer [Sasha1337 ist wieder on fire](https://twitter.com/sascha1337/status/1368225242963800064?s=20)
 40. Neuigkeiten von secrets.society2.com [Tweet von Markus Kuhlmann](https://twitter.com/kuhlmannmarkus/status/1368607660958957568?s=20)
 41. Hans Moog entlarvt mal wieder CFB weil er zugibt, dass die Copy Protection nur eine "complete nonsens" Ausrede zur Broken Hash Funktion war: [Tweet dazu](https://twitter.com/hus_qy/status/1368262186825621506?s=20)
-42. Ethereum steht ein [Update an EIP1559](https://t3n.de/news/eip-1559-ethereum-update-1364109/)
-43. Weltfrauen Tag und die IF ruft zur [Diversity Initiative auf](https://twitter.com/iota/status/1368911387595059201?s=20)... Mit diesem Blogpost](https://blog.iota.org/bringing-diversity-to-the-tech-industry-iotas-diversity-initiative/) und [diesem Video](https://www.youtube.com/watch?v=jKwb7L8puIc)
+42. Ethereum steht ein [Update an: EIP1559](https://t3n.de/news/eip-1559-ethereum-update-1364109/)
+43. Weltfrauen Tag und die IF ruft zur [Diversity Initiative auf](https://twitter.com/iota/status/1368911387595059201?s=20)... Mit [diesem Blogpost](https://blog.iota.org/bringing-diversity-to-the-tech-industry-iotas-diversity-initiative/) und [diesem Video](https://www.youtube.com/watch?v=jKwb7L8puIc)
 44. Firefly Announcement... Soon? [Die Webseite vom Blogpost](https://blog.iota.org/firefly-release/) gibt es schon mal...
