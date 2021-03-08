@@ -30,3 +30,6 @@
 30. IOTA [Identity.rs ](https://github.com/iotaledger/identity.rs/projects/3) wurde von Jelle Millenar drauf hingewiesen sich das genauer anzuschauen..
 31. [IOTA Newsletter Nr. 30](https://blog.iota.org/iota-newsletter-30-a-new-dawn-iota-oracles-digital-assets-project-alvarium-with-dell-and-intel-and-more/)
 32. DAtenmarktplatz NRW: [Tweet von Senseering](https://twitter.com/senseering/status/1367849157856268297) Blogpost über [Vielversprechende Usecases und Geschäfte](https://medium.com/senseering/datenmarktplatz-nrw-die-vielversprechensten-use-cases-und-gesch%C3%A4ftsmodelle-9c50ebb6cabf)
+33. [IOTATalk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/78-wochenr%C3%BCckblick-vom-28-febr-bis-6-m%C3%A4rz-2021/&article%2F78-wochenr%C3%BCckblick-vom-28-februar-bis-6-m%C3%A4rz-2021%2F=&__twitter_impression=true)
+34. IOTA Wallet auf einem esp32 board: [Tweet dazu](https://twitter.com/SiliconDroid/status/1366539491574448131?s=19)
+35. 
