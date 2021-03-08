@@ -16,7 +16,7 @@
 16. Finanzen.net [schreibt über IOTA](https://www.finanzen.net/nachricht/devisen/neue-funktionen-angekuendigt-iota-kurs-geht-nach-update-news-durch-die-decke-neue-versionen-sollen-tangle-netzwerk-verbessern-9873514)
 17. Neues IOTA Industrial Lab Aachen: [Tweet von Daniel Trauth](https://twitter.com/DanielTrauth/status/1367485993629196290?s=20)
 18. BTCManager [schreibt über IOTA Oracles](https://btcmanager.com/iota-horizen-partner-oracles-blockchain/)
-19. IOTA Talks mit Dom Schiener über smart contracts: [Tweet dazu](https://twitter.com/iota/status/1367545210071318532) [Fragen dazu auf Reddit](https://www.reddit.com/r/Iota/comments/lxh60a/iota_talks_with_dominik_schiener_05032021/)
+19. [IOTA Talks mit Dom Schiener](https://www.youtube.com/watch?v=v6vkOVh2q9A&feature=youtu.be) über smart contracts: [Tweet dazu](https://twitter.com/iota/status/1367545210071318532) [Fragen dazu auf Reddit](https://www.reddit.com/r/Iota/comments/lxh60a/iota_talks_with_dominik_schiener_05032021/)
 20. IOTA [Research Status Update](https://blog.iota.org/iota-research-status-updatemarch-2021/) und hier [auf deutsch](https://iota-kurs.de/iota-forschungsstatus-update-maerz-2021/) 
 21. Template für IOTA smart contracts: [Tweet](https://twitter.com/th3b0y/status/1367562442964926464?s=20), [github](https://github.com/brunoamancio/IOTA-SmartContracts)
 22. [IOTA Latan Meetup](https://www.youtube.com/watch?v=w-XydIeYSu8) (auf spanisch)
@@ -32,4 +32,10 @@
 32. DAtenmarktplatz NRW: [Tweet von Senseering](https://twitter.com/senseering/status/1367849157856268297) Blogpost über [Vielversprechende Usecases und Geschäfte](https://medium.com/senseering/datenmarktplatz-nrw-die-vielversprechensten-use-cases-und-gesch%C3%A4ftsmodelle-9c50ebb6cabf)
 33. [IOTATalk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/78-wochenr%C3%BCckblick-vom-28-febr-bis-6-m%C3%A4rz-2021/&article%2F78-wochenr%C3%BCckblick-vom-28-februar-bis-6-m%C3%A4rz-2021%2F=&__twitter_impression=true)
 34. IOTA Wallet auf einem esp32 board: [Tweet dazu](https://twitter.com/SiliconDroid/status/1366539491574448131?s=19)
-35. 
+35. [HelloIOTA Roundup #77](https://www.youtube.com/watch?v=x9lCmdR8yP4)
+36. [Dom Schiener spricht](https://twitter.com/Schmucklos_/status/1368522908105142273?s=20) schon von Firefly Browser Plugin und [Dan Simmerman freut sich](https://twitter.com/DanSimerman/status/1368684858067783682?s=20) auf die integration der Ethereum Virtual Machine
+37. Trillions or nothing...[Tweet mit Video Ausschnitt von Dom S.](https://twitter.com/c4chaos/status/1368113169948811267?s=20)
+38. Pollen Testnetz schein Mana integriert zu haben: [Tweet mit screenshot](https://twitter.com/Vrom14286662/status/1368439651804057602?s=20)
+39. Microhash ist wieder on fire: [Will eine NFT Plattform bauen](https://twitter.com/micro_hash/status/1368109448741421057?s=20) und [sucht Unterstützer](https://twitter.com/micro_hash/status/1368498385418878977?s=20) Auch der developer [Sasha1337 ist wieder on fire](https://twitter.com/sascha1337/status/1368225242963800064?s=20)
+40. Neuigkeiten von secrets.society2.com [Tweet von Markus Kuhlmann](https://twitter.com/kuhlmannmarkus/status/1368607660958957568?s=20)
+41. 
