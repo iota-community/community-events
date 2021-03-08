@@ -40,3 +40,5 @@
 40. Neuigkeiten von secrets.society2.com [Tweet von Markus Kuhlmann](https://twitter.com/kuhlmannmarkus/status/1368607660958957568?s=20)
 41. Hans Moog entlarvt mal wieder CFB weil er zugibt, dass die Copy Protection nur eine "complete nonsens" Ausrede zur Broken Hash Funktion war: [Tweet dazu](https://twitter.com/hus_qy/status/1368262186825621506?s=20)
 42. Ethereum steht ein [Update an EIP1559](https://t3n.de/news/eip-1559-ethereum-update-1364109/)
+43. Weltfrauen Tag und die IF ruft zur [Diversity Initiative auf](https://twitter.com/iota/status/1368911387595059201?s=20)... Mit diesem Blogpost](https://blog.iota.org/bringing-diversity-to-the-tech-industry-iotas-diversity-initiative/) und [diesem Video](https://www.youtube.com/watch?v=jKwb7L8puIc)
+44. Firefly Announcement... Soon? [Die Webseite vom Blogpost](https://blog.iota.org/firefly-release/) gibt es schon mal...
