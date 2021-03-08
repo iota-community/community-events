@@ -42,3 +42,5 @@
 42. Ethereum steht ein [Update an: EIP1559](https://t3n.de/news/eip-1559-ethereum-update-1364109/)
 43. Weltfrauen Tag und die IF ruft zur [Diversity Initiative auf](https://twitter.com/iota/status/1368911387595059201?s=20)... Mit [diesem Blogpost](https://blog.iota.org/bringing-diversity-to-the-tech-industry-iotas-diversity-initiative/) und [diesem Video](https://www.youtube.com/watch?v=jKwb7L8puIc)
 44. Firefly Announcement... Soon? [Die Webseite vom Blogpost](https://blog.iota.org/firefly-release/) gibt es schon mal...
+45. [IBM macht wohl den Impfpass](https://www.businessinsider.de/politik/deutschland/entscheidung-gefallen-digitaler-impfpass-kommt-von-us-firma-ibm/)
+46. IOTA Quicktakes[Tweet](https://twitter.com/iota/status/1368964185124659206?s=20) und [Video](https://www.youtube.com/watch?
