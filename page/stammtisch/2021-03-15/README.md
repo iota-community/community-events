@@ -2,7 +2,7 @@
 
 1.[IOTA Quicktakes](https://www.youtube.com/watch?v=-Dzno4JXLFE)
 3.IOT2Tangle [Tweet](https://twitter.com/iot2tangle/status/1369243788955312132?s=19)
-4.Lebenszeichen von DeposyTweet][(https://twitter.com/deposyproject/status/1369292341354315790?s=20)
+4.Lebenszeichen von Deposy: [Tweet](https://twitter.com/deposyproject/status/1369292341354315790?s=20)
 5.[Ubirch und IBM erhalten Zuschlag für deutschen digitalen Impfnachweis](https://www.spiegel.de/netzwelt/gadgets/ubirch-und-ibm-erhalten-zuschlag-fuer-deutschen-digitalen-impfnachweis-a-9Enf26439b-8fd8-4118-9221-eb8844946c69-amp?__twitter_impression=true)
 6.IOTA stellt ein: [Tweet](https://twitter.com/iota/status/1369302653772136455?s=20); [Job offer](https://iota.bamboohr.com/jobs/view.php?id=123&source=bamboohr)
 7.APPG Blockchain: [Evidence Meeting on INTEROPERABILITY & SCALABILITY - 23rd February 2021](https://www.youtube.com/watch?v=Z9WH0d3LYHU&t=1s) mit Ravin Namachandran von der IF
