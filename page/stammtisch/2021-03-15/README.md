@@ -15,6 +15,6 @@
 14. FUD von Sarah Jamie Lewis: [Tweet](https://twitter.com/SarahJamieLewis/status/1369405476992122888?s=20) Buffy [Tweet](https://twitter.com/facemrook/status/1369481379004768257?s=20) und Hans Moog [Tweet](https://twitter.com/hus_qy/status/1369665286874468353?s=20)
 15. FUD von Mathew Green: [Tweet](https://twitter.com/matthew_d_green/status/1369662657175953412?s=20) kommentiert von Hans Moog [Tweet](https://twitter.com/hus_qy/status/1369693041649459207?s=20) und David Sonstebo [Tweet](https://twitter.com/DavidSonstebo/status/1369709829703544836?s=20)
 16. FUD von [Fefe Blog](https://blog.fefe.de/?ts=9eb7d2e4) 
-17. Austin Chamber mit 34K Follower [tweetet "Welcome IOTA to chamber"](https://twitter.com/AustinChamber/status/1368977314684542976?s=20) und auch Austin Tech Council mit 15K Followern freut sich darüber: [Tweet](https://twitter.com/ATCouncil/status/1369701896596885507?s=20)
+17. Austin Chamber mit 34K Follower [tweetet "Welcome IOTA to chamber"](https://twitter.com/AustinChamber/status/1368977314684542976?s=20) und auch Austin Tech Council mit 15K Followern freut sich: [Tweet](https://twitter.com/ATCouncil/status/1369701896596885507?s=20)
 18. IOTA Memes: [IOTA Bongo Cat Meme | Dancing on Mars](https://www.youtube.com/watch?v=T26GC2cjzFI); Wombo Ai lässt die IF tanzen: [Tweet](https://twitter.com/Vrom14286662/status/1369885528426962946?s=20)
 19. [Fundstrat schreibt Analyse über Bitcoin](https://fsinsight.com/2020/09/15/bitcoin-guide-part-1-bitcoin-investing-is-bitcoin/)
