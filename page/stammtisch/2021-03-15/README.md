@@ -21,3 +21,4 @@
 20. Pollen Testnetz Pollen v.0.5.0 mit Mana: [Blogpost](https://blog.iota.org/pollen-testnet-v0-5-0-starting-our-journey-with-mana/); [Github](https://github.com/iotaledger/goshimmer/releases); 
 21. Neues [Pollen Wallet](https://github.com/iotaledger/pollen-wallet/releases) für Windows, Mac und Linux
 22. Daniel Trauth [freut sich](https://twitter.com/DanielTrauth/status/1369987357844324359?s=20) über den Startschuss vom Blockchain Real Labor im Rheinischen Revier. [Liveübertragung Fr. 12:00](https://www.youtube.com/watch?v=5NGyVjvR7QU)
+23. IOTA Identity X-Teams: [Video vom Kick Off Meeting](https://www.youtube.com/watch?v=eWNiwmtPyuw) [Tweet von Antonio Nardella](https://twitter.com/antonionardella/status/1369959091423039497?s=20); [Blogpost zum Alpha release](https://blog.iota.org/releasing-iota-identity-alpha-a-standard-framework-for-digital-identity-cebabd108b4f/)
