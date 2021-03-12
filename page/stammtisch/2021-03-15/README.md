@@ -5,7 +5,7 @@
 4. Lebenszeichen von Deposy: [Tweet](https://twitter.com/deposyproject/status/1369292341354315790?s=20)
 5. [Ubirch und IBM erhalten Zuschlag für deutschen digitalen Impfnachweis](https://www.spiegel.de/netzwelt/gadgets/ubirch-und-ibm-erhalten-zuschlag-fuer-deutschen-digitalen-impfnachweis-a-9Enf26439b-8fd8-4118-9221-eb8844946c69-amp?__twitter_impression=true) Ubirch will sich zur genauen Technik noch melden: [Tweet](https://twitter.com/Ubirch_Trust/status/1369357813881991173?s=20)
 6. IOTA stellt ein: [Tweet](https://twitter.com/iota/status/1369302653772136455?s=20); [Job offer](https://iota.bamboohr.com/jobs/view.php?id=123&source=bamboohr)
-7. APPG Blockchain: [Evidence Meeting on INTEROPERABILITY & SCALABILITY - 23rd February 2021](https://www.youtube.com/watch?v=Z9WH0d3LYHU&t=1s) mit Ravin Namachandran von der IF
+7. APPG Blockchain: [Evidence Meeting on INTEROPERABILITY & SCALABILITY - 23rd February 2021](https://www.youtube.com/watch?v=Z9WH0d3LYHU&t=1s) mit Ravin Namachandran von der IF Hier nur das [Video von Navin](https://www.youtube.com/watch?v=Z9WH0d3LYHU)
 8. Junge Union Limburg: [IOTA: Wie Kryptowährungen die digitalen Infrastrukturen reformieren](https://www.youtube.com/watch?v=oTkrpTbx3n8)
 9. Neues [Patent (IOTA 9x)](https://twitter.com/_iotaarchive/status/1369561914754404354?s=20)
 10. Ensuresec workshop (leider ohne Aufzeichnung): [Tweet](https://twitter.com/iota/status/1369583209693011968?s=20)
