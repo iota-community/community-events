@@ -28,5 +28,5 @@
 27. IOTA Poker und Discord Chat: [Ankündigungs Tweet](https://twitter.com/iotashop/status/1370277425205116930?s=20)
 28. Dev Status Update: [Tweet](https://twitter.com/iota/status/1370072185830789123?s=20) und [Dev Status Update - Blogpost](https://blog.iota.org/dev-status-update-march-2021/)
 29. Hans Moog ist dabei sich für die Vergangenheit zu entschuldigen: [Tweet 1](https://twitter.com/hus_qy/status/1369949540007165953?s=20); [Tweet 2](https://twitter.com/hus_qy/status/1370067096600731649?s=20); [Tweet 3](https://twitter.com/hus_qy/status/1369952169168953344?s=20); [Tweet 4](https://twitter.com/hus_qy/status/1369693041649459207?s=20); ... und viele mehr...
-30. Neues Patent erwähnt 126x IOTA/Tangle (Keywords: data trading; vehicular ad hoc networks (VANETs); blockchain; distributed ledger
+30. Neues [Patent](https://www.mdpi.com/2079-9292/10/6/654) erwähnt 126x IOTA/Tangle (Keywords: data trading; vehicular ad hoc networks (VANETs); blockchain; distributed ledger
 technology (DLT); token economy; vehicle-to-everything (V2X))
