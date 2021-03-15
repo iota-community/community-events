@@ -32,7 +32,7 @@
 technology (DLT); token economy; vehicle-to-everything (V2X))
 31. [HelloIOTA Roundup #78](https://www.youtube.com/watch?v=YBBDU4KQ2FA)
 32. Kommt diese Woche Firefly? Was sagen die ersten X-Team Tester von dem neuen Wallet?
-33. Impfpass: Wie groß sind die Chancen, dass IOTA für den europäischen Impfpass ne Rolle spielt?. [Entwurf für digitalen EU-Impfpass soll am 17. März kommen](https://www.derstandard.at/story/2000124552550/entwurf-fuer-digitalen-eu-impfpass-soll-noch-im-maerz-kommen)
+33. Impfpass: Wie groß sind die Chancen, dass IOTA für den europäischen Impfpass ne Rolle spielt?. [Entwurf für digitalen EU-Impfpass soll am 17. März kommen](https://www.derstandard.at/story/2000124552550/entwurf-fuer-digitalen-eu-impfpass-soll-noch-im-maerz-kommen) Und wir müssen auch über "Schwurbler" reden die IBM Implante fürchten...
 34. Der Münchner Merkur hat übrigens über [Ubirch und IOTA berichtet](https://www.merkur.de/lokales/wolfratshausen/muensing-ort29101/muensing-hans-peter-huber-hat-jota-mit-entwickelt-90241258.html)
 35. Es steht noch einiges an diesen Monat [vrom Tweet](https://twitter.com/Vrom14286662/status/1366115274215329805?s=20)
 36. Schönes Hype [Video zum IOTA Kurs von IOTA](https://www.youtube.com/watch?v=AV61O-vQm0Y)
