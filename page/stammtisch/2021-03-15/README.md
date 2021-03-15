@@ -1,4 +1,4 @@
-# Stammtisch am 15 März
+# Stammtisch am 15 März 2021
 
 1. [IOTA Quicktakes](https://www.youtube.com/watch?v=-Dzno4JXLFE)
 3. IOT2Tangle [Tweet](https://twitter.com/iot2tangle/status/1369243788955312132?s=19)
@@ -24,9 +24,14 @@
 23. IOTA Identity X-Teams: [Video vom Kick Off Meeting](https://www.youtube.com/watch?v=eWNiwmtPyuw); [Tweet von Antonio Nardella](https://twitter.com/antonionardella/status/1369959091423039497?s=20); [Blogpost zum Alpha release](https://blog.iota.org/releasing-iota-identity-alpha-a-standard-framework-for-digital-identity-cebabd108b4f/)
 24. Die [IF tweetet](https://twitter.com/iota/status/1369971237670240257?s=20) über IOTA smart contracts und die Vorteile gegenüber Blockchain smart contracts
 25. NFTs gehen durch die Decke: 65 Millionen für ein Bild [CNBC berichtet](https://www.cnbc.com/2021/03/11/most-expensive-nft-ever-sold-auctions-for-over-60-million.html) und [Dom Schiener wird dazu von engadget befragt](https://www.engadget.com/nft-explainer-digital-art-collectibles-blockchain-environment-business-investment-cryptocurrency-153023551.html?guccounter=1&guce_referrer=aHR0cHM6Ly90LmNvLw&guce_referrer_sig=AQAAAL2WThsms8vlgpVjKnubWKylachSFlCaNbOQIGRk1vGdoRXliyRDlNbXA_g0kJkvmVQlQnzWp4QecvQUjKi4faijkSoztoP0JYN64uB5b9oxhU_aWI6wEsNrIH4MgYckX1eYa4GkPpra_5rlH6EpI9IXl_vOLoJfTB1cjUkWyzQF)
-26. Dom Schiener IOTA Talks: [Ankündigungs Tweet](https://twitter.com/iota/status/1370043173687414784); Fragen [auf Reddit](https://www.reddit.com/r/Iota/comments/m2m6v6/iota_talks_with_dominik_schiener_12032021/); [Video](https://www.youtube.com/watch?v=51pNStr9QuY); Royalty Fees finde ich interessant
+26. [Dom Schiener IOTA Talks](https://www.youtube.com/watch?v=51pNStr9QuY): [Ankündigungs Tweet](https://twitter.com/iota/status/1370043173687414784); Fragen [auf Reddit](https://www.reddit.com/r/Iota/comments/m2m6v6/iota_talks_with_dominik_schiener_12032021/); [Video](https://www.youtube.com/watch?v=51pNStr9QuY); Royalty Fees finde ich interessant
 27. IOTA Poker und Discord Chat: [Ankündigungs Tweet](https://twitter.com/iotashop/status/1370277425205116930?s=20)
 28. Dev Status Update: [Tweet](https://twitter.com/iota/status/1370072185830789123?s=20) und [Dev Status Update - Blogpost](https://blog.iota.org/dev-status-update-march-2021/)
 29. Hans Moog ist dabei sich für die Vergangenheit zu entschuldigen: [Tweet 1](https://twitter.com/hus_qy/status/1369949540007165953?s=20); [Tweet 2](https://twitter.com/hus_qy/status/1370067096600731649?s=20); [Tweet 3](https://twitter.com/hus_qy/status/1369952169168953344?s=20); [Tweet 4](https://twitter.com/hus_qy/status/1369693041649459207?s=20); ... und viele mehr...
 30. Neues [Patent](https://www.mdpi.com/2079-9292/10/6/654) erwähnt 126x IOTA/Tangle (Keywords: data trading; vehicular ad hoc networks (VANETs); blockchain; distributed ledger
 technology (DLT); token economy; vehicle-to-everything (V2X))
+31. [HelloIOTA Roundup #78](https://www.youtube.com/watch?v=YBBDU4KQ2FA)
+32. Kommt diese Woche Firefly? Was sagen die ersten X-Team Tester von dem neuen Wallet?
+33. Impfpass: Wie groß sind die Chancen, dass IOTA für den europäischen Impfpass ne Rolle spielt?. [Entwurf für digitalen EU-Impfpass soll am 17. März kommen](https://www.derstandard.at/story/2000124552550/entwurf-fuer-digitalen-eu-impfpass-soll-noch-im-maerz-kommen)
+34. Der Münchner Merkur hat übrigens über [Ubirch und IOTA berichtet](https://www.merkur.de/lokales/wolfratshausen/muensing-ort29101/muensing-hans-peter-huber-hat-jota-mit-entwickelt-90241258.html)
+35. 
