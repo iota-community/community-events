@@ -42,4 +42,4 @@
 41. [IOTAQuicktakes](https://www.youtube.com/watch?v=7EPfZvwe7WE&feature=youtu.be)
 42. [IOTA Partnerschaft mit Horizen ](https://blog.iota.org/iota-and-horizen-partner-to-expand-iota-oracles-to-new-blockchains/) und auch von [Horizen eine Blogpost](https://blog.horizen.io/iota-and-horizen-partner-to-expand-iota-oracles-and-zendoo/)
 v=NDrArtM1fGg&feature=youtu.be)
-43. IOTA Foundation und Chaise: [Blogpost](https://blog.iota.org/the-iota-foundation-joins-chaise-consortium/)
+
