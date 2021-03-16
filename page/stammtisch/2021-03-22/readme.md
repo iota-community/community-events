@@ -1,4 +1,4 @@
-#Stammtischthemen für den 22. März 2021
+##Stammtischthemen für den 22. März 2021
 
 1. Wir sollten vielleicht nochmal über [Chaise Partnerschaft](https://blog.iota.org/the-iota-foundation-joins-chaise-consortium/) reden
 2. Mike tha Invester [Interview mit Dan Simmerman](https://www.youtube.com/watch?v=920VUOTQrGg)
