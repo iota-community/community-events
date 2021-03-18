@@ -23,7 +23,7 @@
  19. Die IF kündigt für den 21.4. die Migrationsphase an: [Blogpost](https://blog.iota.org/chrysalis-network-migration-release-date/)
  20. Die IF veröffentlicht den [Mana Part 2 Blogpost](https://blog.iota.org/explaining-mana-in-iota-part-2/) hier [auf deutsch](https://iota-kurs.de/was-ist-mana-bei-iota-teil-2/). Alles über Mana findet ihr bei [Schmucklos](https://iota-einsteiger-guide.de/erklaerung-von-mana.html)
  21. TH3B0y hat wieder was für smart contract developer vereinfacht: [Tweet](https://twitter.com/th3b0y/status/1372330021893857282?s=19); [Github](https://github.com/brunoamancio/IOTA-SC-Utils)
- 22. Ubirch Impfpass kommt [in den Tagesthemen](https://www.daserste.de/information/nachrichten-wetter/tagesthemen/videosextern/tagesthemen-17430.html) in der [Detailbeschreibung](https://ubirch.de/digitaler-impfnachweis) wird aber eher mit der permissioned Blockchain geworben."Die govdigital eG ist eine Genossenschaft von 15 IT-Dienstleistern der Länder und Kommunen
+ 22. Ubirch Impfpass kommt [in den Tagesthemen](https://www.daserste.de/information/nachrichten-wetter/tagesthemen/videosextern/tagesthemen-17430.html) in der [Detailbeschreibung](https://ubirch.de/digitaler-impfnachweis) wird aber eher mit der permissioned Blockchain govdigital geworben."Die govdigital eG ist eine Genossenschaft von 15 IT-Dienstleistern der Länder und Kommunen
 sowie der Bundesdruckerei und bietet mit ihrer Blockchain-Infrastruktur eine hochsichere und
 datenschutzfreundliche Speicherung auf deutschen Servern an."
 23.Neue Ausrichtung bei einfachIOTA: [Tweet](https://twitter.com/einfachIOTA/status/1372132313086185474?s=20)
