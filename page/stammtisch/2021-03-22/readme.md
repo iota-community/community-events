@@ -28,5 +28,5 @@ sowie der Bundesdruckerei und bietet mit ihrer Blockchain-Infrastruktur eine hoc
 datenschutzfreundliche Speicherung auf deutschen Servern an."
 23.Neue Ausrichtung bei einfachIOTA: [Tweet](https://twitter.com/einfachIOTA/status/1372132313086185474?s=20)
 24.Chrysalis Spamtest auf dem Testnetz scheint gut gelaufen zu sein: [Tweet1](https://twitter.com/SebaKremer/status/1372309852379344902?s=20), [Tweet2](https://twitter.com/SebaKremer/status/1372461299729334274?s=20), [Tweet3](https://twitter.com/SebaKremer/status/1372461451915431936?s=20) von Sebastian Kramer
-25. [IOTA Talks mit Dom Schiener](https://www.youtube.com/watch?v=V-PK97KSpcI99 vom 19.3.2021
+25. [IOTA Talks mit Dom Schiener](https://www.youtube.com/watch?v=V-PK97KSpcI99) vom 19.3.2021
  
