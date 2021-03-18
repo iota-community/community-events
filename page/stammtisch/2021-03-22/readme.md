@@ -1,4 +1,4 @@
-Jder kann Themen vorschlagen als [Github-Commit](https://github.com/iota-community/community-events/tree/main/page/stammtisch/2021-03-22)
+Jeder kann Themen vorschlagen als [Github-Commit](https://github.com/iota-community/community-events/tree/main/page/stammtisch/2021-03-22)
 
 # IOTA Stammtisch für den 22. März 2021
 
