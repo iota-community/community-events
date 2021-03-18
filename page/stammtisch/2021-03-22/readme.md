@@ -1,6 +1,6 @@
 # Stammtischthemen für den 22. März 2021
 
-1. Wir sollten vielleicht nochmal über [Chaise Partnerschaft](https://blog.iota.org/the-iota-foundation-joins-chaise-consortium/) reden
+1. Wir sollten vielleicht nochmal über [Chaise Partnerschaft](https://blog.iota.org/the-iota-foundation-joins-chaise-consortium/) reden: "IOTA Joins CHAISE Consortium to Design Europe's Strategy for Blockchain Skills"
 2. Mike tha Invester [Interview mit Dan Simmerman](https://www.youtube.com/watch?v=920VUOTQrGg)
 3. IOT2Tangle [tweetet](https://twitter.com/iot2tangle/status/1371766076258783232?s=19) über "Our open-source Hub has now code to integrate the 
 @TXInstruments
