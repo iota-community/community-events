@@ -1,3 +1,4 @@
+
 # Virtual Stammtisch (De)
 
 **Wo?** Im einfachIOTA Discord im #Stammtisch voice channel. Nebenbei wird in der #kneipe gechattet.
@@ -16,3 +17,6 @@ Wer mit der "Mute" Taste umgehen kann, bekommt gerne auch die Rolle "Plaudertasc
 3. IOTA bezogene Themen sollten im Vordergrund stehen
 4. Längere Monologe sollten vermieden werden. Bitte (Atem-)Pausen einbauen, damit andere Personen zu Wort kommen können!
 5. Alkohol ist gut, zu viel Alkohol eher nicht. Vor allem wenn man noch mitreden will...
+
+**Themen?**
+Vorschläge für Themen kann jeder auf [auf Github](https://github.com/iota-community/community-events/tree/main/page/stammtisch) machen!
