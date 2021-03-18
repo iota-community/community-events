@@ -13,5 +13,19 @@
  9. Bittrex ([Tweet](https://twitter.com/BittrexExchange/status/1371914469081710592?s=20)) und Bittrex Global ([Tweet](https://twitter.com/BittrexGlobal/status/1372232394372173825?s=20)) bieten jetzt USD - IOTA pair an
  10. Blockchain Drenthe läd mit einem [Tweet](https://twitter.com/BclDrenthe/status/1367481911380234261?s=20) zu diesem [Meetup](https://www.meetup.com/de-DE/Blockchain-Drenthe-Meetup/events/276458856/) am 18.3 19:00Uhr wo es um Health credetials udn Self sorveign Identity geht basierend auf IOTA 
  11. Hier [ein Bericht](https://northsearegion.eu/bling/3-blockchain-questions-to/ali-amin-rezaei/) mit mehr Details was die Universität Oldenburg mit IOTA macht
- 12. 23 x kommt hier im [bling-blockchain-and-government-in-europe.pdf](https://northsearegion.eu/media/16449/bling-blockchain-and-government-in-europe.pdf) IOTA drin vor. Geht irgendwie auch um Sex worker registrierung auf dem Tangle: [Tweet dazu](https://twitter.com/josephskewes/status/1372066002427465737?s=20)
+ 12. BLING! Project – Blockchain IN Government: 23 x kommt IOTA im [bling-blockchain-and-government-in-europe.pdf](https://northsearegion.eu/media/16449/bling-blockchain-and-government-in-europe.pdf) drin vor. Geht irgendwie auch um Sex worker Registrierung auf dem Tangle: [Tweet dazu](https://twitter.com/josephskewes/status/1372066002427465737?s=20)
+ 13. Viele Youtuber berichten über IOTA: [MonetenDave](https://www.youtube.com/watch?v=FiLezn2ZohM); [BlockchainZ](https://www.youtube.com/watch?v=egkixR-KfNM); [Crypto Shawty](https://www.youtube.com/watch?v=CCZnhhj-Zzg); [Cryptoneversleeps](https://www.youtube.com/watch?v=YO5cp6Jbar8)
+ 14. Kevin (Twitter: @MudKevin) [talks about his hobby IOTA im Youtube Video](https://www.youtube.com/watch?v=ukGoRTu98MA)
+ 15. Am 30.März ist ein [IOTA Code Workshop](https://www.constructionblockchain.org/calendar-1/2021/3/30/cbciota-code-workshop) vom Construction Blockchain Consortium
+ 16. GoShimmer release V0.5.2: [Tweet](https://twitter.com/Schmucklos_/status/1372154710698954762?s=20)
+ 17. Helio Storage [Tweet](https://twitter.com/heliostorage/status/1372154727715241986?s=09) die bauen irgendwie Solaranlagen für 3 Familienhäusern mit IOTAinside
+ 18. Organisationen im Blockchainbreich wird von der IF und von Chaise ein Fragenkatalog gestellt: [Tweet](https://twitter.com/iota/status/1372140809676554241?s=20)
+ 19. Die IF kündigt für den 21.4. die Migrationsphase an: [Blogpost](https://blog.iota.org/chrysalis-network-migration-release-date/)
+ 20. Die IF veröffentlicht den [Mana Part 2 Blogpost](https://blog.iota.org/explaining-mana-in-iota-part-2/) hier [auf deutsch](https://iota-kurs.de/was-ist-mana-bei-iota-teil-2/). Alles über Mana findet ihr bei [Schmucklos](https://iota-einsteiger-guide.de/erklaerung-von-mana.html)
+ 21. TH3B0y hat wieder was für smart contract developer vereinfacht: [Tweet](https://twitter.com/th3b0y/status/1372330021893857282?s=19); [Github](https://github.com/brunoamancio/IOTA-SC-Utils)
+ 22. Ubirch Impfpass kommt [in den Tagesthemen](https://www.daserste.de/information/nachrichten-wetter/tagesthemen/videosextern/tagesthemen-17430.html) in der [Detailbeschreibung](https://ubirch.de/digitaler-impfnachweis) wird aber eher mit der permissioned Blockchain geworben."Die govdigital eG ist eine Genossenschaft von 15 IT-Dienstleistern der Länder und Kommunen
+sowie der Bundesdruckerei und bietet mit ihrer Blockchain-Infrastruktur eine hochsichere und
+datenschutzfreundliche Speicherung auf deutschen Servern an."
+23.Neue Ausrichtung bei einfachIOTA: [Tweet](https://twitter.com/einfachIOTA/status/1372132313086185474?s=20)
+24.Mike tha Investor mit [Dan Simmerman auf Youtube](https://www.youtube.com/watch?v=920VUOTQrGg)
  
