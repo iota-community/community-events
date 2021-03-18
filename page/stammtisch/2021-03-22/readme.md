@@ -4,7 +4,7 @@
 2. Mike tha Invester [Interview mit Dan Simmerman](https://www.youtube.com/watch?v=920VUOTQrGg)
 3. IOTA ist für IOT: - IOT2Tangle [tweetet](https://twitter.com/iot2tangle/status/1371766076258783232?s=19) über: "Our open-source Hub has now code to integrate the 
 @TXInstruments LAUNCHXL-CC2640R2 + our sensors stack (BME280/MPU6050/BH1750/KY038) with #IOTA Streams through BLE. Looking forward to integrating some other TI boards! Test it: " [Github](https://github.com/iot2tangle/Texas-CC2640R2)
-- [IOTA c client is able to run on more than 50 different dev boards](https://twitter.com/oops_monk/status/1371397195891503107?s=20)
+ und noch ein [Tweet](https://twitter.com/oops_monk/status/1371397195891503107?s=20) zum Thema "IOTA c client is able to run on more than 50 different dev boards"
  4. Ensuresec [tweetet](https://twitter.com/iota/status/1371780837465681922?s=19) über ihr "DLT in E-commerce survey". Hier die [Fragen](https://docs.google.com/forms/d/e/1FAIpQLScbP8EnGHyATmR6Hjn4047zB5HH70sykM2ZQP7wEXI-zPNqLQ/viewform):
  5. Pollen [Workshop mit Daniel De Michelis](https://www.youtube.com/watch?v=b2T1mENSwBU)
  6. [Dom Schiener AMA](https://www.youtube.com/watch?v=gY09f0COkXU)
