@@ -10,4 +10,8 @@
  6. [Dom Schiener AMA](https://www.youtube.com/watch?v=gY09f0COkXU)
  7. Chemnitz University stellt ein: [Tweet](https://twitter.com/_iotaarchive/status/1371810229462126595?s=19) ""development of a transport layer protocol for efficient transmission of IOTA data over LoRaWAN""
  8. IOTA Firefly next week: [Tweet mit GIF](https://twitter.com/iota/status/1371848221476151307?s=20)
+ 9. Bittrex ([Tweet](https://twitter.com/BittrexExchange/status/1371914469081710592?s=20)) und Bittrex Global ([Tweet](https://twitter.com/BittrexGlobal/status/1372232394372173825?s=20)) bieten jetzt USD - IOTA pair an
+ 10. Blockchain Drenthe läd mit einem [Tweet](https://twitter.com/BclDrenthe/status/1367481911380234261?s=20) zu diesem [Meetup](https://www.meetup.com/de-DE/Blockchain-Drenthe-Meetup/events/276458856/) am 18.3 19:00Uhr wo es um Health credetials udn Self sorveign Identity geht basierend auf IOTA 
+ 11. Hier [ein Bericht](https://northsearegion.eu/bling/3-blockchain-questions-to/ali-amin-rezaei/) mit mehr Details was die Universität Oldenburg mit IOTA macht
+ 12. 23 x kommt hier im [bling-blockchain-and-government-in-europe.pdf](https://northsearegion.eu/media/16449/bling-blockchain-and-government-in-europe.pdf) IOTA drin vor. Geht irgendwie auch um Sex worker registrierung auf dem Tangle: [Tweet dazu](https://twitter.com/josephskewes/status/1372066002427465737?s=20)
  
