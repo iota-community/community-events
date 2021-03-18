@@ -1,3 +1,5 @@
+Jder kann Themen vorschlagen als [Github-Commit](https://github.com/iota-community/community-events/tree/main/page/stammtisch/2021-03-22)
+
 # Stammtischthemen für den 22. März 2021
 
 1. Wir sollten nochmal über die [Chaise Partnerschaft](https://blog.iota.org/the-iota-foundation-joins-chaise-consortium/) reden: "...Joins CHAISE Consortium to Design Europe's Strategy for Blockchain Skills"
