@@ -27,5 +27,4 @@
 sowie der Bundesdruckerei und bietet mit ihrer Blockchain-Infrastruktur eine hochsichere und
 datenschutzfreundliche Speicherung auf deutschen Servern an."
 23.Neue Ausrichtung bei einfachIOTA: [Tweet](https://twitter.com/einfachIOTA/status/1372132313086185474?s=20)
-24.Mike tha Investor mit [Dan Simmerman auf Youtube](https://www.youtube.com/watch?v=920VUOTQrGg)
  
