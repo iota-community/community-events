@@ -35,5 +35,5 @@ datenschutzfreundliche Speicherung auf deutschen Servern an."
 27. Holger Köther versucht mit seinem [Tweet](https://twitter.com/HolgerKoether/status/1372595486167826435?s=20) Ursula von der Leyen von IOTA zu überzeugen
 28. IF [Blogpost über Congestion Control](https://blog.iota.org/explaining-the-iota-congestion-control-algorithm/)
 29. Strong Hold Beta Release[Blogpost](https://blog.iota.org/iota-stronghold-beta-release/); [Github](https://github.com/iotaledger/stronghold.rs)
-30. Charles Hoskinson Drama wegen "es gibt kein feeless auch nicht bei IOTA": Hans Moog [tweetet dazu](https://twitter.com/hus_qy/status/1372896682795491332?s=20); Holger Köther auch(https://twitter.com/hus_qy/status/1372896682795491332?s=20) und ein [Tweet von David Sonstebo](https://twitter.com/DavidSonstebo/status/1372913056070709253?s=20)
+30. Charles Hoskinson Drama wegen "es gibt kein feeless auch nicht bei IOTA": Hans Moog [tweetet dazu](https://twitter.com/hus_qy/status/1372896682795491332?s=20); Holger Köther [tweetet auch](https://twitter.com/hus_qy/status/1372896682795491332?s=20) und ein [Tweet von David Sonstebo](https://twitter.com/DavidSonstebo/status/1372913056070709253?s=20)
  
