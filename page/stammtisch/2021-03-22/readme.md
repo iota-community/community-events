@@ -31,6 +31,6 @@ datenschutzfreundliche Speicherung auf deutschen Servern an."
 23.Neue Ausrichtung bei einfachIOTA: [Tweet](https://twitter.com/einfachIOTA/status/1372132313086185474?s=20)
 24.Chrysalis Spamtest auf dem Testnetz scheint gut gelaufen zu sein: [Tweet1](https://twitter.com/SebaKremer/status/1372309852379344902?s=20), [Tweet2](https://twitter.com/SebaKremer/status/1372461299729334274?s=20), [Tweet3](https://twitter.com/SebaKremer/status/1372461451915431936?s=20) von Sebastian Kramer
 25. [IOTA Talks mit Dom Schiener](https://www.youtube.com/watch?v=V-PK97KSpcI99) vom 19.3.2021
-26. IOTA Atack-a-thon: [Blogpost](https://blog.iota.org/the-chrysalis-attack-a-thon/) mit relativ geringen Rewards. [Eric Wall Tweet dazu](https://twitter.com/ercwl/status/1372554592458792961?s=20) war abzusehen...
+26. IOTA Atack-a-thon: [Blogpost](https://blog.iota.org/the-chrysalis-attack-a-thon/) mit relativ geringen Rewards. [Eric Wall Tweet dazu](https://twitter.com/ercwl/status/1372554592458792961?s=20) war abzusehen... Danach wurden die Rewards um eine x10 erhöht: (IF Tweet)[https://twitter.com/iota/status/1372601383472537602?s=20] was David Sonstebo aber als immernoch zu wenig betrachtet: (Tweet)[https://twitter.com/DavidSonstebo/status/1372613350937534467?s=20]
 27. 
  
