@@ -15,7 +15,7 @@ Jeder kann Themen vorschlagen als [Github-Commit](https://github.com/iota-commun
  9. Bittrex ([Tweet](https://twitter.com/BittrexExchange/status/1371914469081710592?s=20)) und Bittrex Global ([Tweet](https://twitter.com/BittrexGlobal/status/1372232394372173825?s=20)) bieten jetzt USD - IOTA pair an
  10. Blockchain Drenthe läd mit einem [Tweet](https://twitter.com/BclDrenthe/status/1367481911380234261?s=20) zu diesem [Meetup](https://www.meetup.com/de-DE/Blockchain-Drenthe-Meetup/events/276458856/) am 18.3 19:00Uhr wo es um Health credetials udn Self sorveign Identity geht basierend auf IOTA 
  11. Hier [ein Bericht](https://northsearegion.eu/bling/3-blockchain-questions-to/ali-amin-rezaei/) mit mehr Details was die Universität Oldenburg mit IOTA macht
- 12. BLING! Project – Blockchain IN Government: 23 x kommt IOTA im [bling-blockchain-and-government-in-europe.pdf](https://northsearegion.eu/media/16449/bling-blockchain-and-government-in-europe.pdf) drin vor. Geht irgendwie auch um Sex worker Registrierung auf dem Tangle: [Tweet dazu](https://twitter.com/josephskewes/status/1372066002427465737?s=20)
+ 12. BLING! Project – Blockchain IN Government: 23 x kommt IOTA im [bling-blockchain-and-government-in-europe.pdf](https://northsearegion.eu/media/16449/bling-blockchain-and-government-in-europe.pdf) drin vor. Geht irgendwie auch um Sex worker Registrierung auf dem Tangle: [Tweet dazu](https://twitter.com/josephskewes/status/1372066002427465737?s=20) und hier das (Video vom Meetup)[https://www.youtube.com/watch?v=c_V-sIxJeWY]
  13. Viele Youtuber berichten über IOTA: [MonetenDave](https://www.youtube.com/watch?v=FiLezn2ZohM); [BlockchainZ](https://www.youtube.com/watch?v=egkixR-KfNM); [Crypto Shawty](https://www.youtube.com/watch?v=CCZnhhj-Zzg); [Cryptoneversleeps](https://www.youtube.com/watch?v=YO5cp6Jbar8); [Mike Tha Investor](https://www.youtube.com/watch?v=10r_41TYLtA)
  14. Kevin (Twitter: @MudKevin) [talks about his hobby IOTA im Youtube Video](https://www.youtube.com/watch?v=ukGoRTu98MA)
  15. Am 30.März ist ein [IOTA Code Workshop](https://www.constructionblockchain.org/calendar-1/2021/3/30/cbciota-code-workshop) vom Construction Blockchain Consortium
@@ -32,4 +32,5 @@ datenschutzfreundliche Speicherung auf deutschen Servern an."
 24.Chrysalis Spamtest auf dem Testnetz scheint gut gelaufen zu sein: [Tweet1](https://twitter.com/SebaKremer/status/1372309852379344902?s=20), [Tweet2](https://twitter.com/SebaKremer/status/1372461299729334274?s=20), [Tweet3](https://twitter.com/SebaKremer/status/1372461451915431936?s=20) von Sebastian Kramer
 25. [IOTA Talks mit Dom Schiener](https://www.youtube.com/watch?v=V-PK97KSpcI99) vom 19.3.2021
 26. IOTA Atack-a-thon: [Blogpost](https://blog.iota.org/the-chrysalis-attack-a-thon/) mit relativ geringen Rewards. [Eric Wall Tweet dazu](https://twitter.com/ercwl/status/1372554592458792961?s=20) war abzusehen...
+27. 
  
