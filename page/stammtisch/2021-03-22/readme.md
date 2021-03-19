@@ -33,4 +33,7 @@ datenschutzfreundliche Speicherung auf deutschen Servern an."
 25. [IOTA Talks mit Dom Schiener](https://www.youtube.com/watch?v=V-PK97KSpcI99) vom 19.3.2021
 26. IOTA Atack-a-thon: [Blogpost](https://blog.iota.org/the-chrysalis-attack-a-thon/) mit relativ geringen Rewards. [Eric Wall Tweet dazu](https://twitter.com/ercwl/status/1372554592458792961?s=20) war abzusehen... Danach wurden die Rewards um eine x10 erhöht: [IF Tweet](https://twitter.com/iota/status/1372601383472537602?s=20) was David Sonstebo aber als immernoch zu wenig betrachtet: [Tweet](https://twitter.com/DavidSonstebo/status/1372613350937534467?s=20)
 27. Holger Köther versucht mit seinem [Tweet](https://twitter.com/HolgerKoether/status/1372595486167826435?s=20) Ursula von der Leyen von IOTA zu überzeugen
+28. IF [Blogpost über Congestion Control](https://blog.iota.org/explaining-the-iota-congestion-control-algorithm/)
+29. Strong Hold Beta Release[Blogpost](https://blog.iota.org/iota-stronghold-beta-release/); [Github](https://github.com/iotaledger/stronghold.rs)
+30. Charles Hoskinson Drama wegen "es gibt kein feeless auch nicht bei IOTA": Hans Moog [tweetet dazu](https://twitter.com/hus_qy/status/1372896682795491332?s=20); Holger Köther auch(https://twitter.com/hus_qy/status/1372896682795491332?s=20) und ein [Tweet von David Sonstebo](https://twitter.com/DavidSonstebo/status/1372913056070709253?s=20)
  
