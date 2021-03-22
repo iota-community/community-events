@@ -38,7 +38,7 @@ datenschutzfreundliche Speicherung auf deutschen Servern an."
 28. IF [Blogpost über Congestion Control](https://blog.iota.org/explaining-the-iota-congestion-control-algorithm/) und hier [auf deutsch in Einsteigerguide](https://iota-einsteiger-guide.de/congestion-control-algorithm.html)
 29. Strong Hold Beta Release[Blogpost](https://blog.iota.org/iota-stronghold-beta-release/) und [auf deutsch](https://iota-einsteiger-guide.de/iota-stronghold-beta-release.html); [Github](https://github.com/iotaledger/stronghold.rs)
 30. Charles Hoskinson Drama wegen "es gibt kein feeless auch nicht bei IOTA": Hans Moog [tweetet dazu](https://twitter.com/hus_qy/status/1372896682795491332?s=20); Holger Köther [tweetet auch](https://twitter.com/hus_qy/status/1372896682795491332?s=20) und ein [Tweet von David Sonstebo](https://twitter.com/DavidSonstebo/status/1372913056070709253?s=20)
-31. [IOTA Roundup #79](https://www.youtube.com/watch?v=Oh6UqcLN540)
+31. [IOTA Roundup #79](https://www.youtube.com/watch?v=Oh6UqcLN540) und hier die schriftliche [Zusammenfassung](https://drive.google.com/file/d/1JVkzgGznVQGJtfC2LNMBEt2fu0WcVEkK/view)
 32. IOTATalks [Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/80-wochenr%C3%BCckblick-vom-14-bis-20-m%C3%A4rz-2021/&article%2F80-wochenr%C3%BCckblick-vom-14-bis-20-m%C3%A4rz-2021%2F=&__twitter_impression=true)
 33. Michale Nati auf einem [International Summit in Pakistan](https://twitter.com/michelenati/status/1373739224831246340?s=19)
 34. Dom Schiener hat schon mal ein kleines [Video vom Firefly Wallet veröffentlicht](https://twitter.com/DomSchiener/status/1373714034965544970?s=20)
