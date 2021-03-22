@@ -42,4 +42,5 @@ datenschutzfreundliche Speicherung auf deutschen Servern an."
 32. IOTATalks [Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/80-wochenr%C3%BCckblick-vom-14-bis-20-m%C3%A4rz-2021/&article%2F80-wochenr%C3%BCckblick-vom-14-bis-20-m%C3%A4rz-2021%2F=&__twitter_impression=true)
 33. Michale Nati auf einem [International Summit in Pakistan](https://twitter.com/michelenati/status/1373739224831246340?s=19)
 34. Dom Schiener hat schon mal ein kleines [Video vom Firefly Wallet veröffentlicht](https://twitter.com/DomSchiener/status/1373714034965544970?s=20)
+35. Neues [IOTA Kunstwerk](https://pixeldoggy.com/the-tangler) mit vielen interessanten Details
  
