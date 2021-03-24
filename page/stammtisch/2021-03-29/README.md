@@ -14,3 +14,4 @@
 10. Der Blocktrainer hat sich mal wieder zu IOTA geäußert: [Video mit Zeitstempel](https://youtu.be/P1DtykNXjp0?t=1693); [IOTA und Impfpass](https://youtu.be/P1DtykNXjp0?t=2294) und irgendwo sagt er auch IOTA kann 1000 Eur Wert sein, da wundert ihn gar nix mehr
 11. TangleHub [announce Tringle](https://twitter.com/Tanglehub_eu/status/1374380009255628800?s=19) "Communication while you earn Mana" offenbar als Reaktion auf Punkt 12
 12. Antonio Nardella [tweetet](https://twitter.com/antonionardella/status/1374346309449224196?s=20) darüber, dass die IF Matrix als Chat Protokoll integrieren in Firefly
+13. [Der BITCOIN Killer, Dominik Schiener? | DEEP&DUMM #54](https://www.youtube.com/watch?v=bKDi2FPBjHw)
