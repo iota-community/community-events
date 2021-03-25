@@ -14,3 +14,5 @@
 - Wer steckt dahinter? Maximilian Hase (muXxer#1289); Alexander Sporn (alexsporn#6593); Sebastian Fuchs (IoTMOD#0279); Luca Moser (Luca Moser [IF]#4960) + IOTA Open Source Community
 
 ## Hornet Node - Communinty Plugins
+- [Nuriel Playbook mit Tutorial auf Github](https://github.com/nuriel77/hornet-playbook)
+- [Demichele - Hornet mit einer Zeile Code installieren](https://github.com/demichele/install-hornet-1.5)
