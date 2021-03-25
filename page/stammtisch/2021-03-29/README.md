@@ -15,6 +15,8 @@
 11. TangleHub [announce Tringle](https://twitter.com/Tanglehub_eu/status/1374380009255628800?s=19) "Communication while you earn Mana" offenbar als Reaktion auf Punkt 12
 12. Antonio Nardella [tweetet](https://twitter.com/antonionardella/status/1374346309449224196?s=20) darüber, dass die IF Matrix als Chat Protokoll integrieren in Firefly
 13. [Der BITCOIN Killer, Dominik Schiener? | DEEP&DUMM #54](https://www.youtube.com/watch?v=bKDi2FPBjHw)
-14. IOTA [AMA mit Dom Schiener](https://youtu.be/2ku0pTaTNTA)
+14. IOTA [AMA mit Dom Schiener](https://youtu.be/2ku0pTaTNTA) wieder schön schriftl. zusammengefasst von Mud Kevin: [Tweet mit Link zum PDF](https://twitter.com/MudKevin/status/1374908765997203457?s=19)
 15. Cartesi und IOTA Partnerschaft:[Blogpost](https://blog.iota.org/cartesi-and-iota-partner-to-accelerate-smar-contract-adoption/) auf [deutsch](https://iota-einsteiger-guide.de/cartesi-partnerschaft.html)
 16. Die IOTA Foundation [tweetet](https://twitter.com/iota/status/1374673647596670977?s=20) über [CoviReader: Using IOTA and QR Code Technology to Control Epidemic Diseases across the US](https://ieeexplore.ieee.org/document/9376093)
+17. Es gibt ein [neues Faucet](https://twitter.com/der_muXxer/status/1374881724438568968?s=20) für das Testnetz, um für Firefly Token zu bekommen
+18. 
