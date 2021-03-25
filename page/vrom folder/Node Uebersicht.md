@@ -10,7 +10,10 @@
 - [Open Source Code auf Github](https://github.com/Raspihive/raspihive)
 
 ## Hornet Node - Official
-- [Quick start für Profis](https://github.com/gohornet/hornet#installation)
-- [Tutorial ausführlich für Linux](https://github.com/gohornet/hornet/wiki/Tutorials%3A-Linux%3A-Install-HORNET)
 - [Open Source Code auf Github](https://github.com/gohornet/hornet)
-- Zusaätzliche [Plugins](https://github.com/gohornet/hornet/wiki/Plugins) (Autopeering; Coordinator; Dashboard; MQTT; Prometheus; Spammer; WarpSync; WebAPI; ZMQ)
+- Wer steckt dahinter? In erster Linie: Maximilian Hase (muXxer#1289); Alexander Sporn (alexsporn#6593); Sebastian Fuchs (IoTMOD#0279); Luca Moser — IOTA Foundation (Luca Moser [IF]#4960)
+- [Quick start für Profis](https://github.com/gohornet/hornet#installation)
+- [Ausführliches Tutorial für Linux](https://github.com/gohornet/hornet/wiki/Tutorials%3A-Linux%3A-Install-HORNET)
+- [Zusätzliche Plugins](https://github.com/gohornet/hornet/wiki/Plugins) (Autopeering; Coordinator; Dashboard; MQTT; Prometheus; Spammer; WarpSync; WebAPI; ZMQ)
+- Pull HORNET from [Docker Hub](https://hub.docker.com/r/gohornet/hornet)
+- [Tutorial für Hornet mit Docker Hub](https://github.com/gohornet/hornet/blob/master/docker/README.md)
