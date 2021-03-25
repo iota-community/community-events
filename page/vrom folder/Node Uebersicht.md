@@ -10,13 +10,7 @@
 - [Open Source Code auf Github](https://github.com/Raspihive/raspihive)
 
 ## Hornet Node - Official
-- [Open Source Code auf Github](https://github.com/gohornet/hornet)
+- [Hornet Doc](https://gohornet.github.io/hornet/welcome.html)
 - Wer steckt dahinter? Maximilian Hase (muXxer#1289); Alexander Sporn (alexsporn#6593); Sebastian Fuchs (IoTMOD#0279); Luca Moser (Luca Moser [IF]#4960) + IOTA Open Source Community
-- [Quick start für Profis](https://github.com/gohornet/hornet#installation)
-- [Ausführliches Tutorial für Hornet Node auf Linux](https://github.com/gohornet/hornet/wiki/Tutorials%3A-Linux%3A-Install-HORNET)
-- [Zusätzliche Plugins](https://github.com/gohornet/hornet/wiki/Plugins) (Autopeering; Coordinator; Dashboard; MQTT; Prometheus; Spammer; WarpSync; WebAPI; ZMQ)
-- Pull HORNET from [Docker Hub](https://hub.docker.com/r/gohornet/hornet)
-- [Tutorial für Hornet mit Docker Hub](https://github.com/gohornet/hornet/blob/master/docker/README.md)
-- [GoHornet Wiki](https://github.com/gohornet/wiki)
 
 ## Hornet Node - Communinty Plugins
