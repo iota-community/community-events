@@ -11,7 +11,7 @@
 
 ## Hornet Node - Official
 - [Open Source Code auf Github](https://github.com/gohornet/hornet)
-- Wer steckt dahinter? Maximilian Hase (muXxer#1289); Alexander Sporn (alexsporn#6593); Sebastian Fuchs (IoTMOD#0279); Luca Moser (Luca Moser [IF]#4960)
+- Wer steckt dahinter? Maximilian Hase (muXxer#1289); Alexander Sporn (alexsporn#6593); Sebastian Fuchs (IoTMOD#0279); Luca Moser (Luca Moser [IF]#4960) + IOTA Open Source Community
 - [Quick start für Profis](https://github.com/gohornet/hornet#installation)
 - [Ausführliches Tutorial für Hornet Node auf Linux](https://github.com/gohornet/hornet/wiki/Tutorials%3A-Linux%3A-Install-HORNET)
 - [Zusätzliche Plugins](https://github.com/gohornet/hornet/wiki/Plugins) (Autopeering; Coordinator; Dashboard; MQTT; Prometheus; Spammer; WarpSync; WebAPI; ZMQ)
