@@ -17,3 +17,4 @@
 - [Zusätzliche Plugins](https://github.com/gohornet/hornet/wiki/Plugins) (Autopeering; Coordinator; Dashboard; MQTT; Prometheus; Spammer; WarpSync; WebAPI; ZMQ)
 - Pull HORNET from [Docker Hub](https://hub.docker.com/r/gohornet/hornet)
 - [Tutorial für Hornet mit Docker Hub](https://github.com/gohornet/hornet/blob/master/docker/README.md)
+- [GoHornet Wiki](https://github.com/gohornet/wiki)
