@@ -22,4 +22,4 @@
 18. EDAG auf dem [Fiware Mobility Event](https://www.eventbrite.com/e/fiware-mobility-day-tickets-142704271317): [Tweet dazu von EDAG](https://twitter.com/EDAGGroup/status/1374387981365080070?s=20)
 19. Die IOTA Foundation ruft zum [#AskTheExpert auf](https://twitter.com/iota/status/1375039898156163081?s=20). Man kann [hier Fragen stellen](https://iota.stackexchange.com/)
 20. Hier bei [diesem Tweet](https://twitter.com/DocumentingIota/status/1374422919988715525?s=20) findet man einige lustige IOTA Memes in den Kommentaren
-21. MudKevin sammelt alle seine Zusammenfassungen in Zukunft in diesem [Google Drive Ordner](https://drive.google.com/drive/folders/1l0z8isYGd2NlI_klGN-DdeK_llNRIDwI)
+21. MudKevin sammelt alle seine IOTA Vidoe-Zusammenfassungen in Zukunft in diesem [Google Drive Ordner](https://drive.google.com/drive/folders/1l0z8isYGd2NlI_klGN-DdeK_llNRIDwI)
