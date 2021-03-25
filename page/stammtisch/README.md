@@ -4,7 +4,7 @@
 **Wo?** Im einfachIOTA Discord im #Stammtisch voice channel. Nebenbei wird in der #kneipe gechattet.
 Einladungslink: ...
 
-**Wann?** Jeden Montag ab 19 Uhr! 
+**Wann?** Jeden Montag ab 20 Uhr! 
 
 **Wer?** Jeder der mag! 
 
