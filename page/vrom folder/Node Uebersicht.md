@@ -19,6 +19,7 @@
 - Tutorial- [How to install an IOTA node on a Jelastic VPS in 10 minutes von Sonicx](https://iotasonicx.medium.com/how-to-install-an-iota-node-on-a-jelastic-vps-in-10-minutes-4ac352d19742)
 
 ## IOTA Mainnet: Bee Node
+- [GitHub Code](https://github.com/iotaledger/bee)
 
 ## GoShimmer Testnetz: Pollen Node
 - [GitHub Code mit Anleitung](https://github.com/iotaledger/goshimmer/releases)
