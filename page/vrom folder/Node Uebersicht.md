@@ -23,7 +23,7 @@
 ## GoShimmer Testnetz: Pollen Node
 - [GitHub Code mit Anleitung](https://github.com/iotaledger/goshimmer/releases)
 - [Tutorial GoShimmer Node mit Docker](https://github.com/iotaledger/goshimmer/blob/develop/docs/tutorials/setup.md)
-- [Nuriel Playbook mit Tutorial auf Github]((https://github.com/nuriel77/goshimmer-playbook)
+- [Nuriel Playbook mit Tutorial auf Github](https://github.com/nuriel77/goshimmer-playbook)
 - [Demichele - Pollen mit einer Zeile Code installieren](https://github.com/demichele/install-goshimmer) Michele hat auch ein [Video Tutorial](https://www.youtube.com/watch?v=b2T1mENSwBU&t=1155s) gemacht
 
 ## GoShimmer Testnetz: Wasp Node
