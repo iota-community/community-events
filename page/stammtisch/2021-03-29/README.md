@@ -23,5 +23,9 @@
 19. Die IOTA Foundation ruft zum [#AskTheExpert auf](https://twitter.com/iota/status/1375039898156163081?s=20). Man kann [hier Fragen stellen](https://iota.stackexchange.com/)
 20. Hier bei [diesem Tweet](https://twitter.com/DocumentingIota/status/1374422919988715525?s=20) findet man einige lustige IOTA Memes in den Kommentaren
 21. MudKevin sammelt alle seine IOTA Vidoe-Zusammenfassungen in Zukunft in diesem [Google Drive Ordner](https://drive.google.com/drive/folders/1l0z8isYGd2NlI_klGN-DdeK_llNRIDwI)
-22. Elon Musk Tesla kaufen mit Bitcoin: [Tweet1](https://twitter.com/elonmusk/status/1374617643446063105?s=19)/ [komischer Tweet2](https://twitter.com/elonmusk/status/1374619379929772034?s=20); Hohe Fees mag er wohl auch nicht: [Tweet](https://twitter.com/elonmusk/status/1374989895039508481?s=20); Und er interessiert sich langsam für Defi: [Tweet](https://twitter.com/elonmusk/status/1375031060753346564?s=19)
-23. 
+22. Elon Musk - Tesla kaufen mit Bitcoin: [Tweet1](https://twitter.com/elonmusk/status/1374617643446063105?s=19)/ [komischer Tweet2](https://twitter.com/elonmusk/status/1374619379929772034?s=20); Hohe Fees mag er wohl auch nicht: [Tweet](https://twitter.com/elonmusk/status/1374989895039508481?s=20); Und er interessiert sich langsam für Defi: [Tweet](https://twitter.com/elonmusk/status/1375031060753346564?s=19)
+23. goShimmer v.0.5.3 release: [Github](https://github.com/iotaledger/goshimmer/pull/1130)
+24. Neues Tutorial für eine [Hornet Node auf Jelastic VPS Server in 10 minutes](https://iotasonicx.medium.com/how-to-install-an-iota-node-on-a-jelastic-vps-in-10-minutes-4ac352d19742)
+25. [IOTA Talks mit Dom Schiener vom 26.03.21](https://www.youtube.com/watch?v=8wBV-Gf_8Ms)
+26. Thema Fees und Cardano wird nochmal von [Hans Moog in einem langen Tweet erklärt](https://twitter.com/hus_qy/status/1375225192566419459?s=20)
+27. Es lohnt sich überhaupt immer mal wieder Hans Moog seine [Tweets und Kommentare](https://web.telegram.org/#/im?p=@IOTA_DACH) durchzuschauen. Da finden sich viele interessante Sachen... [Dieser hier z.B.](https://twitter.com/hus_qy/status/1375235528870748162?s=20)
