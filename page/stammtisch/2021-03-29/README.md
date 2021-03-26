@@ -29,3 +29,4 @@
 25. [IOTA Talks mit Dom Schiener vom 26.03.21](https://www.youtube.com/watch?v=8wBV-Gf_8Ms)
 26. Thema Fees und Cardano wird nochmal von [Hans Moog in einem langen Tweet erklärt](https://twitter.com/hus_qy/status/1375225192566419459?s=20)
 27. Es lohnt sich übrigens immer mal wieder Hans Moog seinen [Tweets und Kommentaren](https://web.telegram.org/#/im?p=@IOTA_DACH) durchzuschauen. Da finden sich viele interessante Sachen... [Dieser hier z.B.](https://twitter.com/hus_qy/status/1375235528870748162?s=20)
+28. Reddit: Neuer [IOTA All in one thread](https://www.reddit.com/r/Iota/comments/md7mt7/iota_allinone_thread/) besonders geeignet für Newcomer/Wiedereinsteiger
