@@ -38,3 +38,4 @@
 35. Ist IOTA jetzt auf Pancake Swap? [Tweet](https://twitter.com/Rob_Daykin/status/1376121053441822724?s=19)
 36. IOTA ist jetzt auch auf der Binance Smart Chain: [Tweet](https://twitter.com/iota/status/1376438813443158021?s=20); [Blogpost](https://twitter.com/iota/status/1376438813443158021?s=20)
 37. Blocktrainer wird nach IOTA gefragt und antwortet mit seinen Theorien: [Video mit Zeitstempel](https://youtu.be/wtGMwieXPjw?t=6576); Daraufhin gibt es einen langen [Twitterdiskussion zwischen Hans Moog und Blocktrainer](https://twitter.com/hus_qy/status/1376212883885985796?s=20) 
+38. Members of the Institute of Electrical and Electronics Engineers @ieeeorg published a paper titled "Combining IOTA and Attribute-Based Encryption for Access Control in the Internet of Things", mentioning #IOTA/Tangle (120x): [Tweet](https://twitter.com/_iotaarchive/status/1376433695066841088?s=20); [Paper](https://arxiv.org/pdf/2103.04016.pdf)
