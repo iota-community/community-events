@@ -8,7 +8,7 @@
 4. IOTA Bullrun? Montag steigt IOTA um +15% / Bitcoin -7%
 5. MicroHash [tweetet](https://twitter.com/micro_hash/status/1374256615377997824?s=20) über IOTA und die Zunkunft von Decentralized Autonomous Organizations (DAOs)
 6. Interessante Grafiken von [Handelskontor](https://handelskontor-news.de/news/deutsche-unternehmen-bei-internet-of-things-an-weltspitze-anstieg-der-patentanmeldungen-mit-verweis-auf-iota-von-588-in-2-jahren/)
-7. Ich hab mal alles was wir zu [dem Kunstwerk](https://pixeldoggy.com/the-tangler) herausgefunden haben zusammen geschrieben(https://twitter.com/Vrom14286662/status/1374611895668330496?s=20)
+7. Ich hab mal alles was wir zu [dem Kunstwerk](https://pixeldoggy.com/the-tangler) herausgefunden haben zusammen geschrieben [vrom tweet](https://twitter.com/Vrom14286662/status/1374611895668330496?s=20)
 8. IF stellt ein: Junior Mid UX Designer [Stellenausschreibung](https://iota.bamboohr.com/jobs/view.php?id=140); [Strategic Analyst](https://iota.bamboohr.com/jobs/view.php?id=139&source=bamboohr); [(Senior) Embedded Engineer](https://iota.bamboohr.com/jobs/view.php?id=141)
 9. IOT2Tangle implementiert den Ruuvicom tag, so dass der über IOTA Streams Daten an den Tangle senden kann: [Tweet](https://twitter.com/iot2tangle/status/1374321937581801474?s=20)
 10. Der Blocktrainer hat sich mal wieder zu IOTA geäußert: [Video mit Zeitstempel](https://youtu.be/P1DtykNXjp0?t=1693); [IOTA und Impfpass](https://youtu.be/P1DtykNXjp0?t=2294) und irgendwo sagt er auch IOTA kann 1000 Eur Wert sein, da wundert ihn gar nix mehr.
