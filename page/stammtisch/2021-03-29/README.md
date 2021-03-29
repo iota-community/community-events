@@ -31,11 +31,10 @@
 28. Es lohnt sich übrigens immer mal wieder Hans Moog seinen [Tweets und Kommentaren](https://web.telegram.org/#/im?p=@IOTA_DACH) durchzuschauen. Da finden sich viele interessante Sachen... [Dieser hier z.B.](https://twitter.com/hus_qy/status/1375235528870748162?s=20)
 29. Reddit: Neuer [IOTA All in one thread](https://www.reddit.com/r/Iota/comments/md7mt7/iota_allinone_thread/) besonders geeignet für Newcomer/Wiedereinsteiger
 30. Die IOTA Foundation tritt der European Blockchain Association bei: [Tweet von EBA](https://twitter.com/EUBLASORG/status/1375407696829165571?s=20); [Blogpost von EBA](https://europeanblockchainassociation.org/2021/03/26/iota-foundation-joins-european-blockchain-association/); [Crypto Newsflash auf deutsch](https://www.crypto-news-flash.com/de/die-iota-stiftung-tritt-der-european-blockchain-association-bei/?_unique_id=605dd417acbd4)
-31. Digitale Identität von Microsoft auf Bitcoin über Second Layer. [Der Blocktrainer hat das ganz gut zusammen gefasst](https://www.blocktrainer.de/microsoft-identity-bitcoin/)
+31. ION (Microsoft?) mit digitaler Identität auf Bitcoin über Second Layer. [Der Blocktrainer hat das ganz gut zusammen gefasst](https://www.blocktrainer.de/microsoft-identity-bitcoin/); Die Gedanken dazu von Jelle Millenar [IF] sind sehr interessant: [Tweet](https://twitter.com/JelleFm/status/1376452590427332608?s=20)
 32. [Interview mit Jens Lund-Nielsen von der IOTA Foundateion](https://wofexpo.com/2021/03/26/interview-with-jens-lund-nielsen/)
 33. [Hello IOTA Roundup #80](https://www.youtube.com/watch?v=8uXYGWqtHf8)
 34. [SiliconDroind will ne IOTA Uhr bauen](https://twitter.com/SiliconDroid/status/1375838768456957952?s=19)
 35. Ist IOTA jetzt auf Pancake Swap? [Tweet](https://twitter.com/Rob_Daykin/status/1376121053441822724?s=19)
 36. IOTA ist jetzt auch auf der Binance Smart Chain: [Tweet](https://twitter.com/iota/status/1376438813443158021?s=20); [Blogpost](https://twitter.com/iota/status/1376438813443158021?s=20)
 37. Blocktrainer wird nach IOTA gefragt und antwortet mit seinen Theorien: [Video mit Zeitstempel](https://youtu.be/wtGMwieXPjw?t=6576); Daraufhin gibt es einen langen [Twitterdiskussion zwischen Hans Moog und Blocktrainer](https://twitter.com/hus_qy/status/1376212883885985796?s=20) 
-38. 
