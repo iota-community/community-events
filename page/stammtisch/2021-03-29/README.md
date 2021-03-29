@@ -36,7 +36,7 @@
 33. [Hello IOTA Roundup #80](https://www.youtube.com/watch?v=8uXYGWqtHf8)
 34. [SiliconDroind will ne IOTA Uhr bauen](https://twitter.com/SiliconDroid/status/1375838768456957952?s=19)
 35. Ist IOTA jetzt auf Pancake Swap? [Tweet](https://twitter.com/Rob_Daykin/status/1376121053441822724?s=19)
-36. IOTA ist jetzt auch auf der Binance Smart Chain: [Tweet](https://twitter.com/iota/status/1376438813443158021?s=20); [Blogpost](https://twitter.com/iota/status/1376438813443158021?s=20)
+36. IOTA ist jetzt auch auf der Binance Smart Chain: [Tweet](https://twitter.com/iota/status/1376438813443158021?s=20); [Blogpost](https://twitter.com/iota/status/1376438813443158021?s=20); Und hier sieht man glabue ich [wieviel Liquidität zur Verfügung steht](https://bscscan.com/token/0xd944f1d1e9d5f9bb90b62f9d45e447d989580782#balances)
 37. Blocktrainer wird nach IOTA gefragt und antwortet mit seinen Theorien: [Video mit Zeitstempel](https://youtu.be/wtGMwieXPjw?t=6576); Daraufhin gibt es einen langen [Twitterdiskussion zwischen Hans Moog und Blocktrainer](https://twitter.com/hus_qy/status/1376212883885985796?s=20) 
 38. Members of the Institute of Electrical and Electronics Engineers @ieeeorg published a paper titled "Combining IOTA and Attribute-Based Encryption for Access Control in the Internet of Things", mentioning #IOTA/Tangle (120x): [Tweet](https://twitter.com/_iotaarchive/status/1376433695066841088?s=20); [Paper](https://arxiv.org/pdf/2103.04016.pdf)
 39. VISA verwendet USDC auf Ethereum für settlement payments: [Tweet](https://www.theblockcrypto.com/post/99639/visa-now-settles-payments-in-usdc-stablecoin-ethereum); Crypto.com ist da irgendwie auch mit dabei: [Tweet](https://twitter.com/cryptocom/status/1376465612491288579?s=20)
