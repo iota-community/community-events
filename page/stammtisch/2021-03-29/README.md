@@ -34,4 +34,6 @@
 30. Digitale Identität von Microsoft auf Bitcoin über Second Layer. [Der Blocktrainer hat das ganz gut zusammen gefasst](https://www.blocktrainer.de/microsoft-identity-bitcoin/)
 31. [Interview mit Jens Lund-Nielsen von der IOTA Foundateion](https://wofexpo.com/2021/03/26/interview-with-jens-lund-nielsen/)
 32. [Hello IOTA Roundup #80](https://www.youtube.com/watch?v=8uXYGWqtHf8)
-33. 
+33. [SiliconDroind will ne IOTA Uhr bauen](https://twitter.com/SiliconDroid/status/1375838768456957952?s=19)
+34. Ist IOTA jetzt auf Pancake Swap? [Tweet](https://twitter.com/Rob_Daykin/status/1376121053441822724?s=19)
+35. IOTA ist jetzt auch auf Binance Smart Chain: [Tweet](https://twitter.com/iota/status/1376438813443158021?s=20); [Blogpost](https://twitter.com/iota/status/1376438813443158021?s=20)
