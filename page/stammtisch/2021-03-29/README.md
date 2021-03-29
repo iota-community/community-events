@@ -26,9 +26,12 @@
 22. Elon Musk - Tesla kaufen mit Bitcoin: [Tweet1](https://twitter.com/elonmusk/status/1374617643446063105?s=19)/ [komischer Tweet2](https://twitter.com/elonmusk/status/1374619379929772034?s=20); Hohe Fees mag er wohl auch nicht: [Tweet](https://twitter.com/elonmusk/status/1374989895039508481?s=20); Und er interessiert sich langsam für Defi: [Tweet](https://twitter.com/elonmusk/status/1375031060753346564?s=19)
 23. goShimmer v.0.5.3 release: [Github](https://github.com/iotaledger/goshimmer/pull/1130)
 24. Neues Tutorial für eine [Hornet Node auf Jelastic VPS Server in 10 minutes](https://iotasonicx.medium.com/how-to-install-an-iota-node-on-a-jelastic-vps-in-10-minutes-4ac352d19742)
-25. [IOTA Talks mit Dom Schiener vom 26.03.21](https://www.youtube.com/watch?v=8wBV-Gf_8Ms)
+25. [IOTA Talks mit Dom Schiener vom 26.03.21](https://www.youtube.com/watch?v=8wBV-Gf_8Ms) schön zusammengefasst von MudKevin: [Tweet](https://twitter.com/MudKevin/status/1375567562428227584?s=19)
 26. Thema Fees und Cardano wird nochmal von [Hans Moog in einem langen Tweet erklärt](https://twitter.com/hus_qy/status/1375225192566419459?s=20)
 27. Es lohnt sich übrigens immer mal wieder Hans Moog seinen [Tweets und Kommentaren](https://web.telegram.org/#/im?p=@IOTA_DACH) durchzuschauen. Da finden sich viele interessante Sachen... [Dieser hier z.B.](https://twitter.com/hus_qy/status/1375235528870748162?s=20)
 28. Reddit: Neuer [IOTA All in one thread](https://www.reddit.com/r/Iota/comments/md7mt7/iota_allinone_thread/) besonders geeignet für Newcomer/Wiedereinsteiger
 29. Die IOTA Foundation tritt der European Blockchain Association bei: [Tweet von EBA](https://twitter.com/EUBLASORG/status/1375407696829165571?s=20); [Blogpost von EBA](https://europeanblockchainassociation.org/2021/03/26/iota-foundation-joins-european-blockchain-association/); [Crypto Newsflash auf deutsch](https://www.crypto-news-flash.com/de/die-iota-stiftung-tritt-der-european-blockchain-association-bei/?_unique_id=605dd417acbd4)
 30. Digitale Identität von Microsoft auf Bitcoin über Second Layer. [Der Blocktrainer hat das ganz gut zusammen gefasst](https://www.blocktrainer.de/microsoft-identity-bitcoin/)
+31. [Interview mit Jens Lund-Nielsen von der IOTA Foundateion](https://wofexpo.com/2021/03/26/interview-with-jens-lund-nielsen/)
+32. [Hello IOTA Roundup #80](https://www.youtube.com/watch?v=8uXYGWqtHf8)
+33. 
