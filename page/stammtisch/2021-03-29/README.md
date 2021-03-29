@@ -2,7 +2,7 @@
 
 # Stammtischthemen für den 29.03.2021
 
-1. Firefly release! Wie sind die ersten Erfahrungen? Ein erstes Update gab es auch gleich Dienstag um 1:00 Uhr nachts
+1. Firefly release! Wie sind die ersten Erfahrungen? Wie läuft das mit den 24 Wörtern (Ledger Wörter = Stronghold Wörter?)
 2. Blockchain PSIG Agenda - OMG Technical Meeting vom 21.03. bis 26.03.2021: [Agenda](https://www.omgwiki.org/agendas/2021Q1/BlockchainPSIGCalendar.html) 
 3. Schöner [Artikel von ZDNet über IOTA](https://www.zdnet.com/article/iota-still-wants-to-build-a-better-blockchain-and-get-it-right-this-time/)
 4. IOTA Bullrun? Montag steigt IOTA um +15% / Bitcoin -7%
@@ -36,5 +36,6 @@
 33. [Hello IOTA Roundup #80](https://www.youtube.com/watch?v=8uXYGWqtHf8)
 34. [SiliconDroind will ne IOTA Uhr bauen](https://twitter.com/SiliconDroid/status/1375838768456957952?s=19)
 35. Ist IOTA jetzt auf Pancake Swap? [Tweet](https://twitter.com/Rob_Daykin/status/1376121053441822724?s=19)
-36. IOTA ist jetzt auch auf Binance Smart Chain: [Tweet](https://twitter.com/iota/status/1376438813443158021?s=20); [Blogpost](https://twitter.com/iota/status/1376438813443158021?s=20)
+36. IOTA ist jetzt auch auf der Binance Smart Chain: [Tweet](https://twitter.com/iota/status/1376438813443158021?s=20); [Blogpost](https://twitter.com/iota/status/1376438813443158021?s=20)
 37. Blocktrainer wird nach IOTA gefragt und antwortet mit seinen Theorien: [Video mit Zeitstempel](https://youtu.be/wtGMwieXPjw?t=6576); Daraufhin gibt es einen langen [Twitterdiskussion zwischen Hans Moog und Blocktrainer](https://twitter.com/hus_qy/status/1376212883885985796?s=20) 
+38. 
