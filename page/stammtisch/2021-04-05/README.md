@@ -7,3 +7,5 @@
 3. Chrysalis Beginner Workshop: [Tweet](https://twitter.com/Schmucklos_/status/1376833774097469442?s=20); [GitHub](https://github.com/AdamValach/Python-IOTA-Chrysalis-Workshop)
 4. IOTA Node Tutorial in 10 min: [Tweet](https://twitter.com/IotaSonic/status/1375226496495804420?s=20)
 5. Ist IOTA weniger sicher als Bitcoin? Hans Moog vs. BT [zusammen gefasst von Newsflash](https://www.crypto-news-flash.com/de/ist-iota-weniger-sicher-als-bitcoin-hans-moog-raeumt-mit-der-kritik-auf/?_unique_id=6062f2031a4df)
+6. IOTA [AMA mit Dom Schiener](https://youtu.be/k30ptdJBWXM)
+7. Bitpanda unterschtützt Chrysalis Update:[Blogpost](https://blog.bitpanda.com/de/bitpanda-wird-das-chrysalis-update-von-iota-vollstandig-unterstutzen/)
