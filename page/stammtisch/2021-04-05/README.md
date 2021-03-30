@@ -9,3 +9,4 @@
 5. Ist IOTA weniger sicher als Bitcoin? Hans Moog vs. BT [zusammen gefasst von Newsflash](https://www.crypto-news-flash.com/de/ist-iota-weniger-sicher-als-bitcoin-hans-moog-raeumt-mit-der-kritik-auf/?_unique_id=6062f2031a4df)
 6. IOTA [AMA mit Dom Schiener](https://youtu.be/k30ptdJBWXM)
 7. Bitpanda unterschtützt Chrysalis Update:[Blogpost](https://blog.bitpanda.com/de/bitpanda-wird-das-chrysalis-update-von-iota-vollstandig-unterstutzen/)
+8. EDAG City Bot Präsentation: [Video mit Zeitstempel](https://www.youtube.com/watch?v=-fAmZV-9Ays&t=5659s)
