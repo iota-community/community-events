@@ -33,7 +33,7 @@
 30. Die IOTA Foundation tritt der European Blockchain Association bei: [Tweet von EBA](https://twitter.com/EUBLASORG/status/1375407696829165571?s=20); [Blogpost von EBA](https://europeanblockchainassociation.org/2021/03/26/iota-foundation-joins-european-blockchain-association/); [Crypto Newsflash auf deutsch](https://www.crypto-news-flash.com/de/die-iota-stiftung-tritt-der-european-blockchain-association-bei/?_unique_id=605dd417acbd4)
 31. ION (Microsoft?) mit digitaler Identität auf Bitcoin über Second Layer. [Der Blocktrainer hat das ganz gut zusammen gefasst](https://www.blocktrainer.de/microsoft-identity-bitcoin/); Die Gedanken dazu von Jelle Millenar [IF] sind sehr interessant: [Tweet](https://twitter.com/JelleFm/status/1376452590427332608?s=20)
 32. [Interview mit Jens Lund-Nielsen von der IOTA Foundateion](https://wofexpo.com/2021/03/26/interview-with-jens-lund-nielsen/)
-33. [Hello IOTA Roundup #80](https://www.youtube.com/watch?v=8uXYGWqtHf8)
+33. [Hello IOTA Roundup #80](https://www.youtube.com/watch?v=8uXYGWqtHf8) schriftlich [zusammen gefasst von MudKevin](https://drive.google.com/file/d/1oCMmbOewb2eiW81wpNS1e7D-VdcXm1jW/view)
 34. [SiliconDroind will ne IOTA Uhr bauen](https://twitter.com/SiliconDroid/status/1375838768456957952?s=19)
 35. Ist IOTA jetzt auf Pancake Swap? [Tweet](https://twitter.com/Rob_Daykin/status/1376121053441822724?s=19)
 36. IOTA ist jetzt auch auf der Binance Smart Chain: [Tweet](https://twitter.com/iota/status/1376438813443158021?s=20); [Blogpost](https://twitter.com/iota/status/1376438813443158021?s=20); Und hier sieht man glabue ich [wieviel Liquidität zur Verfügung steht](https://bscscan.com/token/0xd944f1d1e9d5f9bb90b62f9d45e447d989580782#balances)
