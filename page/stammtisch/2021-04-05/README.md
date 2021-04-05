@@ -8,7 +8,7 @@
 4. IOTA Node Tutorial in 10 min: [Tweet](https://twitter.com/IotaSonic/status/1375226496495804420?s=20)
 5. Ist IOTA weniger sicher als Bitcoin? Hans Moog vs. BT [zusammen gefasst von Newsflash](https://www.crypto-news-flash.com/de/ist-iota-weniger-sicher-als-bitcoin-hans-moog-raeumt-mit-der-kritik-auf/?_unique_id=6062f2031a4df)
 6. IOTA [AMA mit Dom Schiener](https://youtu.be/k30ptdJBWXM) wieder wunderbar zusammen gfasst von MudKevin: [Tweet](https://twitter.com/MudKevin/status/1377376448374132738?s=19)
-7. Bitpanda unterschtützt Chrysalis Update:[Blogpost](https://blog.bitpanda.com/de/bitpanda-wird-das-chrysalis-update-von-iota-vollstandig-unterstutzen/)
+7. Bitpanda unterstützt Chrysalis Update:[Blogpost](https://blog.bitpanda.com/de/bitpanda-wird-das-chrysalis-update-von-iota-vollstandig-unterstutzen/)
 8. EDAG City Bot Präsentation: [Video mit Zeitstempel](https://www.youtube.com/watch?v=-fAmZV-9Ays&t=5659s); Außerdem [twittert](https://twitter.com/EDAGGroup/status/1377245140692131845?s=20) EDAG über diesen [EDAG Bericht von Crypto Newsflash](https://www.crypto-news-flash.com/iota-will-serve-as-a-micropayment-system-for-the-edag-citybot/?_unique_id=606454dd7a8f3)
 9. IOTA smart contract: Neues Video mit paralell VM: [IF Tweet](https://twitter.com/iota/status/1376883603771113474?s=20)
 10. [IOTA — The DLT based on physics](https://jamie-hicks.medium.com/iota-the-dlt-based-on-physics-1d89f39dec4a)
