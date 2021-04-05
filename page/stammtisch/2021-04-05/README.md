@@ -28,7 +28,7 @@
 24.  [IOTA Talks mit Dom Schiener vom 2.4.21](https://www.youtube.com/watch?v=yI9SZzI5r8Y) und hier [die Zusammenfassung von MudKevin](https://twitter.com/MudKevin/status/1378089166630658050?s=19) 
 25.  Automating IOTA Node Installation with Jelastic Cloud Scripting:[Tweet](https://twitter.com/siruslan/status/1378348440166486017?s=20); Anmeldung zum [Workshop am 8.4.](https://jelastic.com/iota/)
 26.  [IOTA GoShimmer Docs](http://goshimmer.docs.iota.org/goshimmer.html) ist eine super Übersichtsseite für alles rund um GoShimmer
-27.  Electronics Article: [An IOTA-Based Service Discovery Framework for Fog Computing](file:///C:/Users/Volker/Desktop/electronics-10-00844-v2.pdf)
+27.  Electronics Article: [An IOTA-Based Service Discovery Framework for Fog Computing](https://www.mdpi.com/2079-9292/10/7/844/pdf)
 28.  IOTA Graffiti: Fake oder nicht? -> Fake: [Tweet 1](https://twitter.com/AC02835508/status/1378622117982404611?s=20); [Tweet 2](https://twitter.com/IOTAHULK/status/1378665709992042498?s=20)
 29.  Impfpass: Gerüchte von IBM und IOTA? [Tweet dazu](https://twitter.com/IotaBullrun2020/status/1378650349419036672?s=20) 
 30.  Facebook hat mal wieder 533 Millionen Daten verloren: [Businessinsider Bericht](https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4?r=DE&IR=T)
