@@ -1,5 +1,5 @@
 
-# IOTA Node Tutorial Übersicht
+# IOTA Node Übersicht 
 
 ## IOTA Mainnet: Raspihive - Run your own IOTA Node on RaspiPi and more... (Hornet Node, and soon more)
 - [Webseite von Raspihive](https://raspihive.org/#/)
