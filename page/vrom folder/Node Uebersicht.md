@@ -36,3 +36,7 @@
 
 ## GoShimmer Testnetz: Wasp Node
 - [GitHub Code mit Anleitung](https://github.com/iotaledger/wasp)
+
+## Tutorials auf Youtube
+- [Hornet node insatllation party - ](https://www.youtube.com/watch?v=nfBhdRCV2kw&t=5s) mit [Schritt für Schritt Präsentation von Antonio Nardella](https://docs.google.com/presentation/d/1YUtu4-322cS6eZXYZk-bvLszRqR_utBReC2beKHQ-5Q/edit#slide=id.g6323f58ee9_0_127)
+- [Pollen Testnet Workshop](https://www.youtube.com/watch?v=b2T1mENSwBU)
