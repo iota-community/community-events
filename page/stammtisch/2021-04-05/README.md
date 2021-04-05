@@ -19,7 +19,7 @@
 15. Chrysalis Transition startet 21.4.: Die [IF tweetet](https://twitter.com/iota/status/1377223811116961793?s=20) darüber
 16. Michaele Nati ruft Telco, IOT und Infrastrucktur auf mit ihm in Kontakt zu treten auf [Linked In](https://www.linkedin.com/feed/update/urn:li:share:6783071581477335042)
 17. Sebastian mit Pollen Node auf ArchLinus: [Tweet](https://twitter.com/setBoolean/status/1377467094506344448?s=20); direkter [Link zu ArchLinux](https://aur.archlinux.org/packages/goshimmer-bin/)
-18.  Die IF stellt ein: (Social Media Experte)[https://twitter.com/iota/status/1377546393754173440?s=19]
+18.  Die IF stellt ein: [Social Media Experte](https://twitter.com/iota/status/1377546393754173440?s=19)
 19.  CBC IOTA Workshop: [Tweet von Michaele Nati](https://twitter.com/michelenati/status/1377573859487006723?s=20) mit Link zu diesem [Video Workshop for smart buildings](https://www.youtube.com/watch?v=Fof2DNuizro)
 20.  IF [tweetet](https://twitter.com/iota/status/1377616576959164440?s=19) über den [CaWENdar von IOTAshops](https://t.co/K3alVmDWuj?amp=1)
 21.  IOTA Pollen Update V.0.5.5/0.5.6: [Blogpost](https://blog.iota.org/pollen-testnet-v0-5-5-release-notes/)
