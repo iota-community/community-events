@@ -36,5 +36,6 @@
 32.  Hans Moog hat etwas zu IOTA sharding [getweetet](https://twitter.com/hus_qy/status/1376971357070704644?s=20)
 33.  Thema Blocktrainer: Hans Moog wird langsam etwas rupiger: [Tweet 1](https://twitter.com/hus_qy/status/1376445408134582274?s=20); [Tweet 2](https://twitter.com/hus_qy/status/1376446682972426241?s=20)
 34.  Nectar release: Soon laut [Hans Moog Tweet](https://twitter.com/hus_qy/status/1376299734055391232?s=20)
-35.  IOTATalks [Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/82-wochenr%C3%BCckblick-vom-28-m%C3%A4rz-bis-3-april-2021/&article%2F82-wochenr%C3%BCckblick-vom-28-m%C3%A4rz-bis-3-april-2021%2F=&__twitter_impression=true)
-
+35.  IOTATalks [Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/82-wochenr%C3%BCckblick-vom-28-m%C3%A4rz-bis-3-april-2021/&article%2F82-wochenr%C3%BCckblick-vom-28-m%C3%A4rz-bis-3-april-2021%2F=&__twitter_impression=true))
+36.  Binance Australien listet IOTA/$AUD pair: [Tweet von Binance Australia](https://twitter.com/Binance_AUS/status/1378927576253493251?s=19)
+37.  ApeSwap listet IOTA: [Tweet von ApeSwap](https://twitter.com/ape_swap/status/1378913303271981056?s=19) 
