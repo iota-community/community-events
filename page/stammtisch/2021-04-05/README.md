@@ -39,3 +39,4 @@
 35.  IOTATalks [Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/82-wochenr%C3%BCckblick-vom-28-m%C3%A4rz-bis-3-april-2021/&article%2F82-wochenr%C3%BCckblick-vom-28-m%C3%A4rz-bis-3-april-2021%2F=&__twitter_impression=true)
 36.  Binance Australien listet IOTA/$AUD pair: [Tweet von Binance Australia](https://twitter.com/Binance_AUS/status/1378927576253493251?s=19)
 37.  ApeSwap listet IOTA: [Tweet von ApeSwap](https://twitter.com/ape_swap/status/1378913303271981056?s=19) 
+38.  [Olsche und Pagi in der Zeitung](https://www.nw.de/lokal/kreis_minden_luebbecke/luebbecke/22984862_Bei-Familie-Olschewski-aus-Luebbecke-ist-die-digitale-Zukunft-schon-Realitaet.html)
