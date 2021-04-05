@@ -40,3 +40,4 @@
 36.  Binance Australien listet IOTA/$AUD pair: [Tweet von Binance Australia](https://twitter.com/Binance_AUS/status/1378927576253493251?s=19)
 37.  ApeSwap listet IOTA: [Tweet von ApeSwap](https://twitter.com/ape_swap/status/1378913303271981056?s=19) 
 38.  [Olsche und Pagi in der Zeitung](https://www.nw.de/lokal/kreis_minden_luebbecke/luebbecke/22984862_Bei-Familie-Olschewski-aus-Luebbecke-ist-die-digitale-Zukunft-schon-Realitaet.html)
+39.  [IOTA Quicktackes](https://www.youtube.com/watch?v=PI70Q1vECZI)
