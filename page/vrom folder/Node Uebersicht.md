@@ -23,6 +23,7 @@
 - [IOTA Singel Node Private Tangle auf Amazon AWS Marketplace](https://aws.amazon.com/marketplace/pp/IOTA-Foundation-IOTA-Single-Node-Private-Tangle/B07XC1P14M)
 - [IOTA Hornet Node auf Microsoft Azure Marketplce](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/eikonasystemsgmbh1601729310063.iota-101101?tab=Overview)
 - [IOTA Pollen Testnet Node auf Microsost Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/eikonasystemsgmbh1601729310063.iota-101201?tab=Overview)
+- Tutorial: [How to install an IOTA node on a Jelastic VPS in 10 minutes](https://iotasonicx.medium.com/how-to-install-an-iota-node-on-a-jelastic-vps-in-10-minutes-4ac352d19742)
 
 ## IOTA Mainnet: Bee Node
 - [GitHub Code](https://github.com/iotaledger/bee)
