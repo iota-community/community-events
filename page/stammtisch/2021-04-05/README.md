@@ -13,7 +13,7 @@
 9. IOTA smart contract: Neues Video mit paralell VM: [IF Tweet](https://twitter.com/iota/status/1376883603771113474?s=20)
 10. [IOTA — The DLT based on physics](https://jamie-hicks.medium.com/iota-the-dlt-based-on-physics-1d89f39dec4a)
 11. [NFTs are part of a larger economic development in finance capital Dominik Schiener](https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_4210845b-e8c2-42f7-86b6-c5339ccd0426)
-12. he IOTA Identity team is expanding [Tweet von Jelle Millenar](https://twitter.com/JelleFm/status/1377193115950456832?s=19)
+12. The IOTA Identity team is expanding [Tweet von Jelle Millenar](https://twitter.com/JelleFm/status/1377193115950456832?s=19)
 13. Antonio erinnert [mit Tweet an Meetup pagages](https://twitter.com/antonionardella/status/1377216373764587524?s=19)
 14. Neuer [Phyton workshop für Beginner](https://github.com/AdamValach/Python-IOTA-Chrysalis-Workshop)
 15. Chrysalis Transition startet 21.4.: Die [IF tweetet](https://twitter.com/iota/status/1377223811116961793?s=20) darüber
