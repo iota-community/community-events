@@ -1,0 +1,256 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>2021-04-05 - IOTA Community Events</title>
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="../../">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../../stammtisch/index.html"><strong aria-hidden="true">1.</strong> Willkommen!</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-03-01/index.html"><strong aria-hidden="true">2.</strong> 2021-03-01</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-03-08/index.html"><strong aria-hidden="true">3.</strong> 2021-03-08</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-03-15/index.html"><strong aria-hidden="true">4.</strong> 2021-03-15</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-03-22/index.html"><strong aria-hidden="true">5.</strong> 2021-03-22</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-03-29/index.html"><strong aria-hidden="true">6.</strong> 2021-03-29</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-04-05/index.html" class="active"><strong aria-hidden="true">7.</strong> 2021-04-05</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-04-12/index.html"><strong aria-hidden="true">8.</strong> 2021-04-12</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">IOTA Community Events</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="stammtischthemen-für-den-05042021"><a class="header" href="#stammtischthemen-für-den-05042021">Stammtischthemen für den 05.04.2021</a></h1>
+<ol>
+<li>IOTA Quicktakes <a href="https://twitter.com/iota/status/1376626924945084417?s=20">auf englisch</a> und <a href="https://www.youtube.com/watch?v=BVfd2ZzlCtg&amp;feature=youtu.be">auf deutsch</a></li>
+<li>Mana: Bil Sanders freut sich auf die Implementierung soon <a href="https://twitter.com/BillySandersIF/status/1376779630103912448?s=20">im Tweet</a> und weist auf den <a href="https://blog.iota.org/explaining-mana-in-iota-part-2/">Blogpost zu Mana</a> hin.</li>
+<li>Chrysalis Beginner Workshop: <a href="https://twitter.com/Schmucklos_/status/1376833774097469442?s=20">Tweet</a>; <a href="https://github.com/AdamValach/Python-IOTA-Chrysalis-Workshop">GitHub</a></li>
+<li>IOTA Node Tutorial in 10 min: <a href="https://twitter.com/IotaSonic/status/1375226496495804420?s=20">Tweet</a></li>
+<li>Ist IOTA weniger sicher als Bitcoin? Hans Moog vs. BT <a href="https://www.crypto-news-flash.com/de/ist-iota-weniger-sicher-als-bitcoin-hans-moog-raeumt-mit-der-kritik-auf/?_unique_id=6062f2031a4df">zusammen gefasst von Newsflash</a></li>
+<li>IOTA <a href="https://youtu.be/k30ptdJBWXM">AMA mit Dom Schiener</a> wieder wunderbar zusammen gfasst von MudKevin: <a href="https://twitter.com/MudKevin/status/1377376448374132738?s=19">Tweet</a></li>
+<li>Bitpanda unterstützt Chrysalis Update:<a href="https://blog.bitpanda.com/de/bitpanda-wird-das-chrysalis-update-von-iota-vollstandig-unterstutzen/">Blogpost</a></li>
+<li>EDAG City Bot Präsentation: <a href="https://www.youtube.com/watch?v=-fAmZV-9Ays&amp;t=5659s">Video mit Zeitstempel</a>; Außerdem <a href="https://twitter.com/EDAGGroup/status/1377245140692131845?s=20">twittert</a> EDAG über diesen <a href="https://www.crypto-news-flash.com/iota-will-serve-as-a-micropayment-system-for-the-edag-citybot/?_unique_id=606454dd7a8f3">EDAG Bericht von Crypto Newsflash</a></li>
+<li>IOTA smart contract: Neues Video mit paralell VM: <a href="https://twitter.com/iota/status/1376883603771113474?s=20">IF Tweet</a></li>
+<li><a href="https://jamie-hicks.medium.com/iota-the-dlt-based-on-physics-1d89f39dec4a">IOTA — The DLT based on physics</a></li>
+<li><a href="https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_4210845b-e8c2-42f7-86b6-c5339ccd0426">NFTs are part of a larger economic development in finance capital Dominik Schiener</a></li>
+<li>The IOTA Identity team is expanding <a href="https://twitter.com/JelleFm/status/1377193115950456832?s=19">Tweet von Jelle Millenar</a></li>
+<li>Antonio erinnert <a href="https://twitter.com/antonionardella/status/1377216373764587524?s=19">mit Tweet an Meetup pagages</a></li>
+<li>Neuer <a href="https://github.com/AdamValach/Python-IOTA-Chrysalis-Workshop">Phyton workshop für Beginner</a></li>
+<li>Chrysalis Transition startet 21.4.: Die <a href="https://twitter.com/iota/status/1377223811116961793?s=20">IF tweetet</a> darüber</li>
+<li>Michaele Nati ruft Telco, IOT und Infrastrucktur auf mit ihm in Kontakt zu treten auf <a href="https://www.linkedin.com/feed/update/urn:li:share:6783071581477335042">Linked In</a></li>
+<li>Sebastian mit Pollen Node auf ArchLinus: <a href="https://twitter.com/setBoolean/status/1377467094506344448?s=20">Tweet</a>; direkter <a href="https://aur.archlinux.org/packages/goshimmer-bin/">Link zu ArchLinux</a></li>
+<li>Die IF stellt ein: <a href="https://twitter.com/iota/status/1377546393754173440?s=19">Social Media Experte</a></li>
+<li>CBC IOTA Workshop: <a href="https://twitter.com/michelenati/status/1377573859487006723?s=20">Tweet von Michaele Nati</a> mit Link zu diesem <a href="https://www.youtube.com/watch?v=Fof2DNuizro">Video Workshop for smart buildings</a></li>
+<li>IF <a href="https://twitter.com/iota/status/1377616576959164440?s=19">tweetet</a> über den <a href="https://t.co/K3alVmDWuj?amp=1">CaWENdar von IOTAshops</a></li>
+<li>IOTA Pollen Update V.0.5.5/0.5.6: <a href="https://blog.iota.org/pollen-testnet-v0-5-5-release-notes/">Blogpost</a></li>
+<li>HelloIOTA <a href="https://www.youtube.com/watch?v=qlDm2fXJEeI">Roundup #81</a></li>
+<li>IOTA Standardisation Update: <a href="https://blog.iota.org/iota-standardization-update-april-2021/">Blogpost</a> übersetzt von Schmucklos im <a href="https://iota-einsteiger-guide.de/update-apr-21.html">Einsteigerguide</a></li>
+<li><a href="https://www.youtube.com/watch?v=yI9SZzI5r8Y">IOTA Talks mit Dom Schiener vom 2.4.21</a> und hier <a href="https://twitter.com/MudKevin/status/1378089166630658050?s=19">die Zusammenfassung von MudKevin</a> </li>
+<li>Automating IOTA Node Installation with Jelastic Cloud Scripting:<a href="https://twitter.com/siruslan/status/1378348440166486017?s=20">Tweet</a>; Anmeldung zum <a href="https://jelastic.com/iota/">Workshop am 8.4.</a></li>
+<li><a href="http://goshimmer.docs.iota.org/goshimmer.html">IOTA GoShimmer Docs</a> ist eine super Übersichtsseite für alles rund um GoShimmer</li>
+<li>Electronics Article: <a href="https://www.mdpi.com/2079-9292/10/7/844/pdf">An IOTA-Based Service Discovery Framework for Fog Computing</a></li>
+<li>IOTA Graffiti: Fake oder nicht? -&gt; Fake: <a href="https://twitter.com/AC02835508/status/1378622117982404611?s=20">Tweet 1</a>; <a href="https://twitter.com/IOTAHULK/status/1378665709992042498?s=20">Tweet 2</a></li>
+<li>Impfpass: Gerüchte von IBM und IOTA? <a href="https://twitter.com/IotaBullrun2020/status/1378650349419036672?s=20">Tweet dazu</a> </li>
+<li>Facebook hat mal wieder 533 Millionen Daten verloren: <a href="https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4?r=DE&amp;IR=T">Businessinsider Bericht</a></li>
+<li>Die Zeit online schreibt mal wieder über den <a href="https://twitter.com/zeitonline/status/1378295394162126848?s=20">Energieverbrauch von Bitcoin</a></li>
+<li>Hans Moog hat etwas zu IOTA sharding <a href="https://twitter.com/hus_qy/status/1376971357070704644?s=20">getweetet</a></li>
+<li>Thema Blocktrainer: Hans Moog wird langsam etwas rupiger: <a href="https://twitter.com/hus_qy/status/1376445408134582274?s=20">Tweet 1</a>; <a href="https://twitter.com/hus_qy/status/1376446682972426241?s=20">Tweet 2</a></li>
+<li>Nectar release: Soon laut <a href="https://twitter.com/hus_qy/status/1376299734055391232?s=20">Hans Moog Tweet</a></li>
+<li>IOTATalks <a href="https://www.iota-talk.com/index.php?article-amp/82-wochenr%C3%BCckblick-vom-28-m%C3%A4rz-bis-3-april-2021/&amp;article%2F82-wochenr%C3%BCckblick-vom-28-m%C3%A4rz-bis-3-april-2021%2F=&amp;__twitter_impression=true">Wochenrückblick</a></li>
+<li>Binance Australien listet IOTA/$AUD pair: <a href="https://twitter.com/Binance_AUS/status/1378927576253493251?s=19">Tweet von Binance Australia</a></li>
+<li>ApeSwap listet IOTA: <a href="https://twitter.com/ape_swap/status/1378913303271981056?s=19">Tweet von ApeSwap</a> </li>
+<li><a href="https://www.nw.de/lokal/kreis_minden_luebbecke/luebbecke/22984862_Bei-Familie-Olschewski-aus-Luebbecke-ist-die-digitale-Zukunft-schon-Realitaet.html">Olsche und Pagi in der Zeitung</a></li>
+<li><a href="https://www.youtube.com/watch?v=PI70Q1vECZI">IOTA Quicktackes</a></li>
+</ol>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="../../stammtisch/2021-03-29/index.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="../../stammtisch/2021-04-12/index.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="../../stammtisch/2021-03-29/index.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="../../stammtisch/2021-04-12/index.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>
