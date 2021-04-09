@@ -16,15 +16,13 @@
 ## IOTA Mainnet: Hornet Node - Communinty Plugins
 - [Nuriel Playbook mit Tutorial auf Github](https://github.com/nuriel77/hornet-playbook)
 - [Hornet mit einer Zeile Code installieren- Daniel De Michele](https://github.com/demichele/install-hornet-1.5)
-- Tutorial- [How to install an IOTA node on a Jelastic VPS in 10 minutes von Sonicx](https://iotasonicx.medium.com/how-to-install-an-iota-node-on-a-jelastic-vps-in-10-minutes-4ac352d19742)
 
 ## IOTA Nodes auf verschiedenen Plattformen
 - [IOTA Hornet Node auf AWS Marketplace](https://aws.amazon.com/marketplace/pp/IOTA-Foundation-IOTA-Hornet-Node/B08CGPLSYZ)
 - [IOTA Singel Node Private Tangle auf Amazon AWS Marketplace](https://aws.amazon.com/marketplace/pp/IOTA-Foundation-IOTA-Single-Node-Private-Tangle/B07XC1P14M)
 - [IOTA Hornet Node auf Microsoft Azure Marketplce](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/eikonasystemsgmbh1601729310063.iota-101101?tab=Overview)
 - [IOTA Pollen Testnet Node auf Microsost Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/eikonasystemsgmbh1601729310063.iota-101201?tab=Overview)
-- Tutorial: [How to install an IOTA node on a Jelastic VPS in 10 minutes](https://iotasonicx.medium.com/how-to-install-an-iota-node-on-a-jelastic-vps-in-10-minutes-4ac352d19742)
-- Tutorial: [Automating IOTA Node Installation with Jelastic Cloud Scripting](https://www.youtube.com/watch?v=tvjpoB0LyqE)
+- Jelastic VPS: Tutorial: [How to install an IOTA node on a Jelastic VPS in 10 minutes](https://iotasonicx.medium.com/how-to-install-an-iota-node-on-a-jelastic-vps-in-10-minutes-4ac352d19742) Video Tutorial: [Automating IOTA Node Installation with Jelastic Cloud Scripting](https://www.youtube.com/watch?v=tvjpoB0LyqE); [GitHub Code](https://github.com/jelastic-jps/iota-node)
 
 ## IOTA Mainnet: Bee Node
 - [GitHub Code](https://github.com/iotaledger/bee)
