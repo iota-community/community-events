@@ -23,7 +23,7 @@
 - [IOTA Hornet Node auf Microsoft Azure Marketplce](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/eikonasystemsgmbh1601729310063.iota-101101?tab=Overview)
 - [IOTA Pollen Testnet Node auf Microsost Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/eikonasystemsgmbh1601729310063.iota-101201?tab=Overview)
 - Jelastic VPS: 
-  Script Tutorial: [How to install an IOTA node on a Jelastic VPS in 10 minutes](https://iotasonicx.medium.com/how-to-install-an-iota-node-on-a-jelastic-vps-in-10-minutes-4ac352d19742) 
+  Tutorial: [How to install an IOTA node on a Jelastic VPS in 10 minutes](https://iotasonicx.medium.com/how-to-install-an-iota-node-on-a-jelastic-vps-in-10-minutes-4ac352d19742) 
   Video Tutorial: [Automating IOTA Node Installation with Jelastic Cloud Scripting](https://www.youtube.com/watch?v=tvjpoB0LyqE); 
   [GitHub Code](https://github.com/jelastic-jps/iota-node)
 
