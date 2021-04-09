@@ -18,4 +18,6 @@
 16. Mat Yarger auf dem IOT Event in Brasilien: [Tweet](https://twitter.com/iota/status/1380141313560080384)
 17. IOTA Foundation: [Research Status Update](https://blog.iota.org/iota-research-status-updateapril-2021/)
 18. IOTA MOOON!! 1,60 Eur am Donnerstag
-19. 
+19. Der Seed Generator Scam wird verurteilt: [Tweet der IF](https://twitter.com/iota/status/1380166274987220995); Mehr [Details](https://serocu.police.uk/man-charged-with-fraud-theft-and-money-laundering-offences/)
+20. [Automating IOTA Node Installation with Jelastic Cloud Scripting](https://www.youtube.com/watch?v=tvjpoB0LyqE)
+21. 
