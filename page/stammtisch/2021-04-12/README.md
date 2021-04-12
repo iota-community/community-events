@@ -34,4 +34,4 @@
 32. Aufregung über [Coinbase wegen uralten Artikeln](https://twitter.com/JustinAHorwitz/status/1380276518321029120?s=20); Coinbase wird zugespamt mit [Tweets um IOTA zu listen](https://twitter.com/IotaBullrun2020/status/1380188174983565322?s=20)
 33. Ethereum Smart Contracts soon auf dem Tangle? [Tweet dazu](https://twitter.com/Vrom14286662/status/1380583293750497291?s=20)
 34. [AltcoinSeasonIndex](https://www.blockchaincenter.net/altcoin-season-index/) war diese Woche kurzfristig bei 94%, es gab also nur noch 3 Coins (LTC, BSV und BCH) die in den letzten 90 Tagen schlechter perfomred haben als BTC 
-35. IOTA DAch Community sucht den besten WErbespruch für IOTA: [Tweet mit Link zum mitmachen](https://twitter.com/Vrom14286662/status/1380444706983788544?s=20)
+35. IOTA DACH Community sucht den besten WErbespruch für IOTA: [Tweet mit Link zum mitmachen](https://twitter.com/Vrom14286662/status/1380444706983788544?s=20)
