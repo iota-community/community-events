@@ -28,7 +28,7 @@
 26. Stefano Della V weist [im Tweet](https://twitter.com/sdellava/status/1381241087046643717?s=20) auf seinen [IOTA Artikel für Blockchain Profis](https://www.linkedin.com/pulse/iota-blockchain-expert-stefano-della-valle/) hin.
 27. einfachIOTA macht eine Chrysalis Artikel Reihe und startet mit dem [Artikel über Dustprotection](https://www.einfachiota.de/blog/2021-04-09_dust/)
 28. Dom hat etwas von NFT für die real world erzählt... "Wir arbeiten an NFTS die mit physical goddies kombiniert sind. Wird echt fucking nice..." 
-29. Julian Hosp hat mal eben das Datum in der Überschrift seines IOTA Videos geändert. [Tweet von vromd dazu](https://twitter.com/Vrom14286662/status/1381260349714882560?s=20)
+29. Julian Hosp hat mal eben das Datum in der Überschrift seines IOTA Videos geändert. [Tweet von vrom dazu](https://twitter.com/Vrom14286662/status/1381260349714882560?s=20)
 30. IOTA bei GitHub developer Aktivität oben dabei: [Tweet von CoinRankApp](https://twitter.com/CoinRankApp/status/1380593994749591555?s=20)
 31. Wer hat schon banana coins ge yield farmed? Und erklärt uns wie das geht? [Rabbit vielleicht](https://twitter.com/iotAgrar/status/1380965714660634627?s=20)
 32. Aufregung über [Coinbase wegen uralten Artikeln](https://twitter.com/JustinAHorwitz/status/1380276518321029120?s=20); Coinbase wird zugespamt mit [Tweets um IOTA zu listen](https://twitter.com/IotaBullrun2020/status/1380188174983565322?s=20)
