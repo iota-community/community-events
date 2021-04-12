@@ -35,3 +35,4 @@
 33. Ethereum Smart Contracts soon auf dem Tangle? [Tweet dazu](https://twitter.com/Vrom14286662/status/1380583293750497291?s=20)
 34. [AltcoinSeasonIndex](https://www.blockchaincenter.net/altcoin-season-index/) war diese Woche kurzfristig bei 94%, es gab also nur noch 3 Coins (LTC, BSV und BCH) die in den letzten 90 Tagen schlechter perfomred haben als BTC 
 35. IOTA DACH Community sucht den besten WErbespruch für IOTA: [Tweet mit Link zum mitmachen](https://twitter.com/Vrom14286662/status/1380444706983788544?s=20)
+36. Binance released tradeable Stock Tokens. Tesla Aktie kann man damit als Token kaufen; [Tweet](https://twitter.com/binance/status/1381570383896252416?s=20)
