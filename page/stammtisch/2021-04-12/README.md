@@ -37,3 +37,5 @@
 35. IOTA DACH Community sucht den besten WErbespruch für IOTA: [Tweet mit Link zum mitmachen](https://twitter.com/Vrom14286662/status/1380444706983788544?s=20)
 36. Binance released tradeable Stock Tokens. Tesla Aktie kann man damit als Token kaufen; [Tweet](https://twitter.com/binance/status/1381570383896252416?s=20)
 37. [IOTA AMA mit Dom Schiener von Montag 12.04.21](https://www.youtube.com/watch?v=s3pykrpmEy8)
+38. Dom hat im AMA davon geredet, dass es einen zweiten private Key gibt um Mana zu pledgen damit man auch Coins vom Hardware Wallet jederzeit neu pledgen kann ohne and Hardware Wallet ran zu müssen...
+39. ZEBRA Savana [tweetet](https://twitter.com/ZebraDevs/status/1381640883179765762?s=19) darüber, dass sie mehrere Updates gemacht haben bei ihrer [Track and Trace Ledger API - Powered by IOTA](https://developer.zebra.com/apis/iota-0?tactic_detail=None)
