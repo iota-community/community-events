@@ -14,3 +14,6 @@
 12. Wear It Live: Blockchain and Data Security for Wearable Tech: [Virtuelle Konferenz am14.4.](https://hopin.com/events/wear-it-live-blockchain-and-data-security-for-wearable-tech)
 13. Coinbase IPO am Mittwoch 14.4. und Binance will den Coinbase Stock Token "Coin" anbieten (https://twitter.com/binance/status/1382207861518786563?s=19)
 14. Doge pumpt um 80% am Mittwoch...
+15. Neuer Blogpost von einfachIOTA: [Was ist "EdDSA Support"?](https://www.einfachiota.de/blog/2021-04-14_edsa/)
+16. IOTA bei ZEBRA: The Value of Asset Visibility and Traceability: [Tweet von vrom mit den Links](https://twitter.com/Vrom14286662/status/1382402816434712578?s=20)
+
