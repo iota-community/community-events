@@ -12,4 +12,4 @@
 10. Firefly Beta 0.4.0 release: [Github download](https://github.com/iotaledger/firefly/releases/tag/desktop-0.4.0) Please report any bugs [here](https://github.com/iotaledger/firefly/issues); Get funds from either of the faucets: [faucet 1](https://faucet.testnet.chrysalis2.com/) and [faucet2](https://faucet.tanglekit.de/)
 11. Nächstes Patent mit 130x IOTA Tangle: [Tweet](https://twitter.com/_iotaarchive/status/1382224350758207488?s=20); [Paper pdf](http://kamyarmehran.eecs.qmul.ac.uk/wp-content/uploads/sites/47/2021/02/Dissertation-Paper_Johnny.pdf)
 12. Wear It Live: Blockchain and Data Security for Wearable Tech: [Virtuelle Konferenz am14.4.](https://hopin.com/events/wear-it-live-blockchain-and-data-security-for-wearable-tech)
-13. Coinbase IPO am Mittwoch 14.4. und Binance will den Coinbase Stock Token "Coin" listen(https://twitter.com/binance/status/1382207861518786563?s=19)
+13. Coinbase IPO am Mittwoch 14.4. und Binance will den Coinbase Stock Token "Coin" anbieten (https://twitter.com/binance/status/1382207861518786563?s=19)
