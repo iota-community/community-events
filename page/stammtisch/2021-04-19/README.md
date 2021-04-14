@@ -5,5 +5,8 @@
 3. Montag [AMA mit Dom Schiener](https://www.youtube.com/watch?v=s3pykrpmEy8) schriftl. zusammengefasst von [MudKevin](https://twitter.com/MudKevin/status/1381742670725312515?s=20)
 4. University of Huddersfield hat ein Paper veröffentlicht mit 70x IOTA/Tangle: [Tweet von IOTAArchiev](https://twitter.com/_iotaarchive/status/1381553933089394688?s=20) und [hier das Paper](https://pure.hud.ac.uk/ws/portalfiles/portal/19558445/Enabling_Distributed_Intelligence_in_the_Internet_of_Things_with_IOTA_and_Mobile_Agents.pdf)
 5. Noch ein Patent mit 14x IOTA Tangle: [Tweet von IOTAARchiev](https://twitter.com/_iotaarchive/status/1381855419639992320?s=20) und [hier das Patent](https://worldwide.espacenet.com/patent/search?q=pn%3DJP2021034882A)
-6. Am Dienstag war ein IOTA Meetup mit Jelle Millenaar: [IOTA - An overview - Tuesday April the 13th](https://www.meetup.com/de-DE/LiskCenterUtrecht/events/277031380/?_xtd=gqFyqTI3MDI5MDA2OKFwp2FuZHJvaWQ&from=ref)
+6. Am Dienstag war ein [IOTA Meetup IOTA - An overview](https://www.youtube.com/watch?v=jQ0vcx0q030) mit Jelle Millenaar und Dave de Fijter: [IOTA - An overview - Tuesday April the 13th](https://www.meetup.com/de-DE/LiskCenterUtrecht/events/277031380/?_xtd=gqFyqTI3MDI5MDA2OKFwp2FuZHJvaWQ&from=ref). Provokativ angekündigt [im Tweet von Jelle Millenaar](https://twitter.com/JelleFm/status/1381995312399679494?s=20)
 7. [IF tweetet](https://twitter.com/iota/status/1381927313575673858?s=20) über das Paper für FPC Consensus. [Hier das PDF](https://arxiv.org/pdf/2104.05313.pdf)
+8. #Chrysalis Hintergrundbilder gibt es für Handy und Desktop: [Tweet der IF](https://twitter.com/iota/status/1381977793970458641?s=20). Zu finden auf [www.chrysalis.org](https://chrysalis.iota.org/)
+9. Der Code nach Chrysalis wird viel einfacher: [Die IF tweetet darüber](https://twitter.com/iota/status/1382009446126215170?s=20)
+10. 
