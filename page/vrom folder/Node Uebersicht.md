@@ -27,6 +27,7 @@
 
 ## IOTA Mainnet: Bee Node
 - [GitHub Code](https://github.com/iotaledger/bee)
+- [Tutorial](https://github.com/iotaledger/bee/blob/chrysalis-pt-2/bee-node/README.md)
 
 ## GoShimmer Testnetz: Pollen Node
 - [GitHub Code mit Anleitung](https://github.com/iotaledger/goshimmer/releases)
