@@ -13,3 +13,4 @@
 11. Nächstes Patent mit 130x IOTA Tangle: [Tweet](https://twitter.com/_iotaarchive/status/1382224350758207488?s=20); [Paper pdf](http://kamyarmehran.eecs.qmul.ac.uk/wp-content/uploads/sites/47/2021/02/Dissertation-Paper_Johnny.pdf)
 12. Wear It Live: Blockchain and Data Security for Wearable Tech: [Virtuelle Konferenz am14.4.](https://hopin.com/events/wear-it-live-blockchain-and-data-security-for-wearable-tech)
 13. Coinbase IPO am Mittwoch 14.4. und Binance will den Coinbase Stock Token "Coin" anbieten (https://twitter.com/binance/status/1382207861518786563?s=19)
+14. Doge pumpt um 80% am Mittwoch...
