@@ -15,5 +15,8 @@
 13. Coinbase IPO am Mittwoch 14.4. und Binance will den Coinbase Stock Token "Coin" anbieten (https://twitter.com/binance/status/1382207861518786563?s=19)
 14. Doge pumpt um 80% am Mittwoch...
 15. Neuer Blogpost von einfachIOTA: [Was ist "EdDSA Support"?](https://www.einfachiota.de/blog/2021-04-14_edsa/)
-16. IOTA bei ZEBRA: The Value of Asset Visibility and Traceability: [Tweet von vrom mit den Links](https://twitter.com/Vrom14286662/status/1382402816434712578?s=20)
+16. IOTA bei ZEBRA: Webinar am 15.4. - The Value of Asset Visibility and Traceability: [Tweet von vrom mit den Links](https://twitter.com/Vrom14286662/status/1382402816434712578?s=20)
+17. Beim Impfpass soll keine public blockchain verwendet werden... [Tweet von Ubirch](https://twitter.com/Ubirch_Trust/status/1382593032046919681?s=20)
+18. Neues Paper "Performance-Based Analysis of Blockchain Scalability Metric" mit 11x IOTA: [Tweet von IOTAarchiv](https://twitter.com/_iotaarchive/status/1382592778312486915?s=20) 
+19. 
 
