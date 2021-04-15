@@ -18,5 +18,6 @@
 16. IOTA bei ZEBRA: Webinar am 15.4. - The Value of Asset Visibility and Traceability: [Tweet von vrom mit den Links](https://twitter.com/Vrom14286662/status/1382402816434712578?s=20)
 17. Ubirch: Beim Impfpass soll keine public blockchain verwendet werden... [Tweet von Ubirch](https://twitter.com/Ubirch_Trust/status/1382593032046919681?s=20)
 18. Neues Paper "Performance-Based Analysis of Blockchain Scalability Metric" mit 11x IOTA: [Tweet von IOTAarchiv](https://twitter.com/_iotaarchive/status/1382592778312486915?s=20) 
-19. 
+19. Es gab ein [Xayn Update für IOS und Android](https://www.xayn.com/download-xayn)
+20. Jede Menge Termine im [IOTA Kalender](https://kalender.digital/e89078088266c4429634)
 
