@@ -21,4 +21,5 @@
 19. Es gab ein [Xayn Update für IOS und Android](https://www.xayn.com/download-xayn)
 20. Jede Menge Termine im [IOTA Kalender](https://kalender.digital/e89078088266c4429634)
 21. Das Wallstreet Journal mit 18,8 Millionen Followern retweetet(https://twitter.com/WSJ/status/1382604632736858112?s=20) wieder den [Bericht über die Maschinen Ökonomie](https://www.wsj.com/articles/machines-that-shop-for-themselves-promise-to-save-time-and-money-11617807664?mod=e2tw)
+22. NFT Marketplace im GoShimmer Netzwerk soon: [Tweet](https://twitter.com/NFTIOTA/status/1383023948493942790?s=20)
 
