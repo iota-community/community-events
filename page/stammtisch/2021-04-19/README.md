@@ -31,4 +31,5 @@
 29. Neues Paper mit 8x IOTA: [Tweet](https://twitter.com/DocumentingIota/status/1382913518970810368?s=20) und [Paper](https://arxiv.org/pdf/2104.05583.pdf)
 30. [IOTA Roundup #83](https://www.youtube.com/watch?v=b5o29PlgEHI)
 31. Bitfinex unterstützt die Migration und [tweetet darüber](https://twitter.com/bitfinex/status/1383338797849452550?s=19) immerhin 650K follower
+32. Eikona AG freut sich auf Chrysalis: [Tweet](https://twitter.com/AgEikona/status/1383042527058608129?s=20)
 
