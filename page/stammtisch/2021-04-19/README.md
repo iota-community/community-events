@@ -13,7 +13,7 @@
 11. Nächstes Patent mit 130x IOTA Tangle: [Tweet](https://twitter.com/_iotaarchive/status/1382224350758207488?s=20); [Paper pdf](http://kamyarmehran.eecs.qmul.ac.uk/wp-content/uploads/sites/47/2021/02/Dissertation-Paper_Johnny.pdf)
 12. Wear It Live: Blockchain and Data Security for Wearable Tech: [Virtuelle Konferenz am14.4.](https://hopin.com/events/wear-it-live-blockchain-and-data-security-for-wearable-tech)
 13. Coinbase IPO am Mittwoch 14.4. und Binance will den Coinbase Stock Token "Coin" anbieten (https://twitter.com/binance/status/1382207861518786563?s=19)
-14. Doge pumpt um 80% am Mittwoch...
+14. Doge pumpt um 80% am Mittwoch... bis max 0,35$  Dom macht auch [Späße darüber](https://twitter.com/DomSchiener/status/1383086168238125056?s=20) oder hat das was zu bedeuten? Bridge soon?
 15. Neuer Blogpost von einfachIOTA: [Was ist "EdDSA Support"?](https://www.einfachiota.de/blog/2021-04-14_edsa/)
 16. IOTA bei ZEBRA: Webinar am 15.4. - The Value of Asset Visibility and Traceability: [Tweet von vrom mit den Links](https://twitter.com/Vrom14286662/status/1382402816434712578?s=20)
 17. Ubirch: Beim Impfpass soll keine public blockchain verwendet werden... [Tweet von Ubirch](https://twitter.com/Ubirch_Trust/status/1382593032046919681?s=20)
@@ -22,4 +22,13 @@
 20. Jede Menge Termine im [IOTA Kalender](https://kalender.digital/e89078088266c4429634)
 21. Das Wallstreet Journal mit 18,8 Millionen Followern retweetet(https://twitter.com/WSJ/status/1382604632736858112?s=20) wieder den [Bericht über die Maschinen Ökonomie](https://www.wsj.com/articles/machines-that-shop-for-themselves-promise-to-save-time-and-money-11617807664?mod=e2tw)
 22. NFT Marketplace im GoShimmer Netzwerk soon: [Tweet](https://twitter.com/NFTIOTA/status/1383023948493942790?s=20)
+23. [IOTA Talks mit Dom Schiener](https://www.youtube.com/watch?v=xq1bkGAWXoU) ´hier [zusammengefasst von MudKevin](https://twitter.com/MudKevin/status/1382755485737127936?s=20)
+24. IOTA Foundation arbeitet mit Blockrocket zusammen: [Tweet der IF](https://twitter.com/iota/status/1382648344326078466?s=20)
+25. [DEV Statuts Update der IF](https://blog.iota.org/dev-status-update-april-2021/) hier [auf deutsch](https://iota-kurs.de/dev-status-update-april-2021/)
+26. Am 21. startet die [Token-Migration ins neue Chrysalis Netzwerk](https://blog.iota.org/firefly-token-migration/)
+27. Chris Müller hat zu [Token-Migration ein Video gemacht](https://www.youtube.com/watch?v=Uf-tXp5XYZs)
+28. Michele Nati von der IF bei [Blockchain, IoT and Data Security for Wearable Tech](https://www.youtube.com/watch?v=fbpK9IotcLI)
+29. Neues Paper mit 8x IOTA: [Tweet](https://twitter.com/DocumentingIota/status/1382913518970810368?s=20) und [Paper](https://arxiv.org/pdf/2104.05583.pdf)
+30. [IOTA Roundup #83](https://www.youtube.com/watch?v=b5o29PlgEHI)
+31. Bitfinex unterstützt die Migration und [tweetet darüber](https://twitter.com/bitfinex/status/1383338797849452550?s=19) immerhin 650K follower
 
