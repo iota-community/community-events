@@ -33,4 +33,5 @@
 31. Bitfinex unterstützt die Migration und [tweetet darüber](https://twitter.com/bitfinex/status/1383338797849452550?s=19) immerhin 650K follower
 32. Eikona AG freut sich auf Chrysalis: [Tweet](https://twitter.com/AgEikona/status/1383042527058608129?s=20)
 33. Es gibt neue Youtuber (DEXES) die über IOTA berichten. Hier z.B. das [Video über den IOTA Einsteigerguide von Schmucklos](https://t.co/Ja5Q1Mnr27?amp=1)
+34. [IOTAtalk Wochenrückblick](https://www.iota-talk.com/index.php?article/84-wochenr%C3%BCckblick-vom-11-bis-17-april-2021/)
 
