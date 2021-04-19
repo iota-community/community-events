@@ -1,7 +1,7 @@
 
 # Virtual Stammtisch (De)
 
-**Wo?** Im einfachIOTA Discord im #Stammtisch voice channel. Nebenbei wird in der #kneipe gechattet.
+**Wo?** Im einfachIOTA Discord im Voice Channel: #Stammtisch. Nebenbei wird in der #kneipe gechattet.
 [Einladungslink](https://discord.gg/DMaV46KKJC) (nach Installation und Profilerstellung anklicken).
 Dort musst du zum Startzeitpunkt in den Voice Channel "Stammtisch"  wechseln. 
 
