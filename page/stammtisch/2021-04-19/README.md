@@ -47,4 +47,5 @@
 45. [Track and Trace Projekt in Peru](https://twitter.com/kevin_osterling/status/1383912801492619268?s=20)
 46. Hans Moog [unterhält sich mit IOTA Kritikern auf Twitter](https://twitter.com/hus_qy/status/1384126052029460483?s=20)
 47. Was hat das mit den Legacy Node Operatoren auf sich? [Tweet von Antonio Nardella](https://twitter.com/antonionardella/status/1384087824832417793?s=20)
+48. IF shillt den neuen Payload von 32KB: [Tweet](https://twitter.com/iota/status/1384145246519382019?s=20)
 
