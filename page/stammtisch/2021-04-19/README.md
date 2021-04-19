@@ -43,4 +43,5 @@
 41. einfachIOTA erklärt: [Was sind Atomic Transactions](https://www.einfachiota.de/blog/2021-04-18_transactions/)
 42. Bitcoin [Hashrate ist eingebrochen](https://bitinfocharts.com/comparison/bitcoin-hashrate.html#3m) und kurz darauf [gehen die Transaktionskosten hoch](https://bitinfocharts.com/de/comparison/bitcoin-transactionfees.html#3m)
 43. IF released: ["Digital Green Certificates: A decentralized and interoperable infrastructure"](https://blog.iota.org/digital-green-certificates-a-decentralized-and-interoperable-infrastructure/) 
+44. NFT Marketplace Contest: [Tweet](https://twitter.com/NFTIOTA/status/1384115731906785290?s=20)
 
