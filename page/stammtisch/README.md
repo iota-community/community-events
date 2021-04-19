@@ -2,9 +2,10 @@
 # Virtual Stammtisch (De)
 
 **Wo?** Im einfachIOTA Discord im #Stammtisch voice channel. Nebenbei wird in der #kneipe gechattet.
-Einladungslink: ...
+Einladungslink: ->https://discord.gg/DMaV46KKJC (nach Installation und Profilerstellung anklicken).
+Dort musst du zum Startzeitpunkt in den Voice Channel "Stammtisch"  wechseln. 
 
-**Wann?** Jeden Montag ab 20 Uhr! 
+**Wann?** Jeden Montag ab 20:15 Uhr! 
 
 **Wer?** Jeder der mag! 
 
