@@ -35,4 +35,10 @@
 33. Es gibt neue Youtuber (DEXES) die über IOTA berichten. Hier z.B. das [Video über den IOTA Einsteigerguide von Schmucklos](https://t.co/Ja5Q1Mnr27?amp=1)
 34. [IOTAtalk Wochenrückblick](https://www.iota-talk.com/index.php?article/84-wochenr%C3%BCckblick-vom-11-bis-17-april-2021/)
 35. Crypto-Dip am Sonntag: Woran lag das?
+36. Spam Test im Chrysalis Netzwerk mit 5000 MPS: [Tweet dazu](https://twitter.com/SebaKremer/status/1383825480860672010?s=20)
+37. GitHub Aktivität am Sonntag: [IOTA auf Platz 1](https://twitter.com/ProofofGitHub/status/1383812573464711190?s=20)
+38. Token Migration: Wir sollten über die verschiedenen Strategien reden. Wer macht es wie? Vor allem beim Ledger
+39. Omoku freut sich auf Chrysalis [Tweet](https://twitter.com/omoku_io/status/1383858700264247310?s=19)
+40. Neuer Bericht: [What is Chrysalis...](https://medium.com/nerd-for-tech/what-is-chrysalis-everything-you-need-to-know-about-iotas-biggest-update-d75bbad20670)
+41. einfachIOTA erklärt: [Was sind Atomic Transactions](https://www.einfachiota.de/blog/2021-04-18_transactions/)
 
