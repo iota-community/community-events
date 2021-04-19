@@ -42,4 +42,5 @@
 40. Neuer Bericht: [What is Chrysalis...](https://medium.com/nerd-for-tech/what-is-chrysalis-everything-you-need-to-know-about-iotas-biggest-update-d75bbad20670)
 41. einfachIOTA erklärt: [Was sind Atomic Transactions](https://www.einfachiota.de/blog/2021-04-18_transactions/)
 42. Bitcoin [Hashrate ist eingebrochen](https://bitinfocharts.com/comparison/bitcoin-hashrate.html#3m) und kurz darauf [gehen die Transaktionskosten hoch](https://bitinfocharts.com/de/comparison/bitcoin-transactionfees.html#3m)
+43. IF released: ["Digital Green Certificates: A decentralized and interoperable infrastructure"](https://blog.iota.org/digital-green-certificates-a-decentralized-and-interoperable-infrastructure/) 
 
