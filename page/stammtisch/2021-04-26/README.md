@@ -24,3 +24,4 @@
 22. Evrythng [tweetet über IOTA und Chrysalis](https://twitter.com/EVRYTHNG/status/1385982865075318785?s=20) und auch der [CEO tweetet darüber](https://twitter.com/domguinard/status/1385561923329085440?s=20)
 23. Brian Marcel und die IBCS Group freut sich auf Chrysalis in seinem [Tweet](https://twitter.com/brianmarcel/status/1385221110736818177?s=20)
 24. Neuer [Youtuber spricht positiv über IOTA](https://www.youtube.com/watch?v=vajQ0exzQAE)
+25. Nächsten Donnerstag gibt es ein [Meme Contest](https://twitter.com/antonionardella/status/1385215939415773184?s=20)
