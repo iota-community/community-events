@@ -25,3 +25,4 @@
 23. Brian Marcel und die IBCS Group freut sich auf Chrysalis in seinem [Tweet](https://twitter.com/brianmarcel/status/1385221110736818177?s=20)
 24. Neuer [Youtuber spricht positiv über IOTA](https://www.youtube.com/watch?v=vajQ0exzQAE)
 25. Nächsten Donnerstag gibt es ein [Meme Contest](https://twitter.com/antonionardella/status/1385215939415773184?s=20)
+26. Recht aufwendiges [Meme Video über Bitcoin Ethereum und IOTA](https://twitter.com/Bit_iot_/status/1384617971641954306?s=20)
