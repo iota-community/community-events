@@ -29,6 +29,8 @@
 27. Recht aufwendiges [Meme Video über Bitcoin Ethereum und IOTA](https://twitter.com/Bit_iot_/status/1384617971641954306?s=20)
 28. SouthExchange will kein Update auf Chrysalis machen: [Tweet](https://twitter.com/southxchange/status/1386256429607231488?s=20)
 29. [IOTATalks Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/85-wochenr%C3%BCckblick-vom-18-bis-24-april-2021/&article%2F85-wochenr%C3%BCckblick-vom-18-bis-24-april-2021%2F=&__twitter_impression=true)
-30. University of Twente paper "Threat Modeling—How to Visualize Attacks on IOTA?" mit 320x IOTA/Tangle: [Tweet](https://twitter.com/_iotaarchive/status/1386574514964901888?s=19); [Paper](https://www.researchgate.net/publication/349893107_Threat_Modeling-How_to_Visualize_Attacks_on_IOTA)
+30. University of Twente paper "Threat Modeling—How to Visualize Attacks on IOTA?" mit 302x IOTA/Tangle: [Tweet](https://twitter.com/_iotaarchive/status/1386574514964901888?s=19); [Paper](https://www.researchgate.net/publication/349893107_Threat_Modeling-How_to_Visualize_Attacks_on_IOTA)
 31. AMA mit Dom Schiener: [Youtube Link](https://www.youtube.com/watch?v=z-6_WWr1Md8); [Fragen auf Reddit](https://t.co/Yd8gIebJay?amp=1)
-32. [Binance unterstützt Chrysalis Update](https://www.binance.com/en/support/announcement/1dd89e459a294e0c9bdcf5d25ea821e8) und [tweetet darüber](https://twitter.com/binance/status/1386656721414799360?s=20) 2,5Millionen Follower
+32. [Binance unterstützt Chrysalis Update](https://www.binance.com/en/support/announcement/1dd89e459a294e0c9bdcf5d25ea821e8) und [tweetet darüber](https://twitter.com/binance/status/1386656721414799360?s=20) 2,5Millionen Follower)
+33. [Crypto Finance unterstützt Chrysalis Update](https://www.cryptofinance.ch/en/iota-chrysalis-upgrade-crypto-finance/amp/?__twitter_impression=true)
+34. [Daniel Trauth spricht in so nem Coffee Even:IoT+ Coffee Break: Sensor Technology - senseering, Sensry, Pepperl+Fuchs](https://www.eventbrite.de/e/iot-coffee-break-sensor-technology-senseering-sensry-pepperlfuchs-tickets-146532214799)
