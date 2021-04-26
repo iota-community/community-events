@@ -34,3 +34,4 @@
 32. [Binance unterstützt Chrysalis Update](https://www.binance.com/en/support/announcement/1dd89e459a294e0c9bdcf5d25ea821e8) und [tweetet darüber](https://twitter.com/binance/status/1386656721414799360?s=20) 2,5Millionen Follower)
 33. [Crypto Finance unterstützt Chrysalis Update](https://www.cryptofinance.ch/en/iota-chrysalis-upgrade-crypto-finance/amp/?__twitter_impression=true)
 34. [Daniel Trauth spricht in so nem Coffee Even:IoT+ Coffee Break: Sensor Technology - senseering, Sensry, Pepperl+Fuchs](https://www.eventbrite.de/e/iot-coffee-break-sensor-technology-senseering-sensry-pepperlfuchs-tickets-146532214799)
+35. Was machen wir am Mittwoche zum Chrysalis Release? Sonder-Stammtisch?
