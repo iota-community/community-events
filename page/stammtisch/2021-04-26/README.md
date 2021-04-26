@@ -35,5 +35,5 @@
 33. [Crypto Finance unterstützt Chrysalis Update](https://www.cryptofinance.ch/en/iota-chrysalis-upgrade-crypto-finance/amp/?__twitter_impression=true) 
 34. [Daniel Trauth spricht in so nem Coffee Even:IoT+ Coffee Break: Sensor Technology - senseering, Sensry, Pepperl+Fuchs](https://www.eventbrite.de/e/iot-coffee-break-sensor-technology-senseering-sensry-pepperlfuchs-tickets-146532214799)
 35. Was machen wir am Mittwoch zum Chrysalis Release? Sonder-Stammtisch?
-36. Partnership mit Cryptofinance: [IF Blogpost](https://blog.iota.org/crypto-finance-ag-and-iota/)
+36. Partnership mit Cryptofinance: [IF Blogpost](https://blog.iota.org/crypto-finance-ag-and-iota/) übersetzt [in deutsch von Schmucklos](https://iota-einsteiger-guide.de/Crypto-Finance-AG-und-IOTA.html)
 37. Bitfinex unterstützt Chrysalis: [Tweet von Bitfinex](https://twitter.com/bitfinex/status/1386679792074899465?s=20)
