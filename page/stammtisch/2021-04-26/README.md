@@ -21,7 +21,7 @@
 19. Mike Bennett [tweetet über IOTA und Chrysalis](https://twitter.com/MikeHypercube/status/1385610270576463875?s=20) und das viele OMG Standards durch Chrysalis live gehen
 20. GoShimmer v0.5.7 release: [Tweet von Angelo Capossele](https://twitter.com/AngeloCapossele/status/1385628882213146625?s=20)
 21. NFT Marketplace mit IOTA(https://twitter.com/NFTIOTA/status/1385593206960803840?s=20)
-22. Sunny Decree hat mal wieder 
+22. Sunny Decree hat mal wieder über IOTA geläster...
 23. Evrythng [tweetet über IOTA und Chrysalis](https://twitter.com/EVRYTHNG/status/1385982865075318785?s=20) und auch der [CEO tweetet darüber](https://twitter.com/domguinard/status/1385561923329085440?s=20)
 24. Brian Marcel und die IBCS Group freut sich auf Chrysalis in seinem [Tweet](https://twitter.com/brianmarcel/status/1385221110736818177?s=20)
 25. Neuer [Youtuber spricht positiv über IOTA](https://www.youtube.com/watch?v=vajQ0exzQAE)
