@@ -13,4 +13,4 @@
 11. 24% von dem Token-Supply wurde vor Chrysalis migriert; [Tweet der IF](https://twitter.com/iota/status/1387317999753908224?s=20). Auch die IF hat ihre [Funds migriert](https://explorer.iota.org/mainnet/address/TRANSFERBXLCKYJWOBNW9BLZOBMBPCSATZFAHVBDDAVZGCUZL9FZU9DWABECBZOBJVSXECDBBYGDHCBB9NJKEDOGJZ)
 12. Christoph Bergman meldet sich mal wieder mit einer neckischen Bemerkung zum Coordinator [auf Twitter]...(https://twitter.com/BTC_de_Blog/status/1387002034969354241?s=20)
 13. [Black Pin TV - Premiere - 1. Sendung](https://www.youtube.com/watch?v=CxGBNFbdzQI) mit Regine Haschka-Helmer von der IOTA Foundation
-14. Dom Schiener, Ubirch und [IOTA im Fernsehen in der deutschen Welle](https://www.dw.com/de/iota-einen-blick-in-die-zukunft/av-57346878)
+14. Dom Schiener, Ubirch und [IOTA im Fernsehen in der deutschen Welle](https://www.dw.com/de/iota-einen-blick-in-die-zukunft/av-57346878) here [in engl](https://amp.dw.com/en/iota-a-glimpse-into-the-future/av-57347930?__twitter_impression=true)
