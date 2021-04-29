@@ -17,7 +17,7 @@
 15. IOTA Community Treassury: [IF Tweet](https://twitter.com/iota/status/1387380222446735360?s=20); [Blogpost](https://blog.iota.org/iota-community-treasury-and-genesis-validation/); David Sonstebo [Drama1](https://twitter.com/DavidSonstebo/status/1387386419627401216?s=20); [D. Sonstebo Drama 2](https://twitter.com/DavidSonstebo/status/1387388915233984516?s=20); [D.Sonstebo Drama 3](https://twitter.com/DavidSonstebo/status/1387504739332542466?s=20); Dom bevorzugt wohl genauso wie die IF die Polkadot Variante: [Tweet](https://twitter.com/DomSchiener/status/1387385913920065539?s=20)
 16. [Chrysalis Release Tweet](https://twitter.com/iota/status/1387515053428051969?s=20)!!! Wie hat euch die Party gefallen? Waren bis zu 600 Leute im Voice Channnel. Charly Varley fasst di Optimirungen gut zusammen in [seinem Tweet](https://twitter.com/c_varley/status/1387535145939488771?s=20)
 17. Neues [Everything Tangle Video zu Chrysalis](https://www.youtube.com/watch?v=uxmnBRix5PU&feature=youtu.be)
-18. Honrnet und Bee sind live: [Tweet der IF](https://twitter.com/iota/status/1387507361456267268?s=21) -> Gibt es schon erste Benchmarktests?
+18. Hornet und Bee sind live: [Tweet der IF](https://twitter.com/iota/status/1387507361456267268?s=21) -> Gibt es schon erste Benchmarktests?
 19. Senseering und Gaiax: [Tweet](https://twitter.com/senseering/status/1387448426216968193?s=20)
 20. STMicroelectronics und IOTA: [Tweet](https://twitter.com/ST_World/status/1387428803065036802?s=20)
 21. Neues von der Object Management Group: [Tweet](https://twitter.com/_JeffR/status/1387648088832057346?s=20)
