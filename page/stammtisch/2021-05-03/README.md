@@ -24,4 +24,4 @@
 22. INATBA freut sich auch über Chrysalis in ihrem [Tweet](https://twitter.com/INATBA_org/status/1387667111934402560?s=20)
 23. NewMobilityLab freut sich über Chrysalis in ihrem [Tweet](https://twitter.com/newmobilitylab/status/1387563524617089025?s=20)
 24. IBCS-Group freut sich über Chrysalis in ihrem [Tweet](https://twitter.com/brianmarcel/status/1387670909926977540?s=20)
-25. Biilabs ist auch wieder am Start: [Tweetet](https://twitter.com/jserv/status/1387693591485505536?s=20) mit einer [Traceability Plattform](https://biilabs.io/products)
+25. Biilabs ist auch wieder am Start: [Tweetet](https://twitter.com/jserv/status/1387693591485505536?s=20) über eine [Traceability Plattform](https://biilabs.io/products)
