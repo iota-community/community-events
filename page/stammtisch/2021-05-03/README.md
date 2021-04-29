@@ -21,4 +21,6 @@
 19. Senseering und Gaiax: [Tweet](https://twitter.com/senseering/status/1387448426216968193?s=20)
 20. STMicroelectronics und IOTA: [Tweet](https://twitter.com/ST_World/status/1387428803065036802?s=20)
 21. Neues von der Object Management Group: [Tweet](https://twitter.com/_JeffR/status/1387648088832057346?s=20)
-22. INATBA freut sich auch über Chrysalis mit ihrem [Tweet](https://twitter.com/INATBA_org/status/1387667111934402560?s=20)
+22. INATBA freut sich auch über Chrysalis in ihrem [Tweet](https://twitter.com/INATBA_org/status/1387667111934402560?s=20)
+23. NewMobilityLab freut sich über Chrysalis in ihrem [Tweet](https://twitter.com/newmobilitylab/status/1387563524617089025?s=20)
+24. IBCS-Group freut sich über Chrysalis in ihrem [Tweet](https://twitter.com/brianmarcel/status/1387670909926977540?s=20)
