@@ -35,4 +35,4 @@
 33. Institute Technologie de Aragon [schreibt über die Verbesserungen durch Chrysalis](https://www.itainnova.es/blog/internet-of-things-iot/why-iota-upgrade-chrysalis-key-trusted-mining-industry/)
 34. Chrysalis new Node implementation - Bee [IF Video auf Youtube](https://www.youtube.com/watch?v=wpXiLB1u_Bg)
 35. CryptoFinance hat chrysalis implementiert[Tweet](https://twitter.com/CryptoFinanceAG/status/1388026315345903616?s=20)
-36. 
+36. Filancore gmbh mit 1. digitalen Identität auf Chrysalis: [Tweet](https://twitter.com/FilancoreGmbH/status/1388073264468070407?s=20)
