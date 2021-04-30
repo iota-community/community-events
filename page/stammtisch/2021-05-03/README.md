@@ -25,8 +25,14 @@
 23. NewMobilityLab freut sich über Chrysalis in ihrem [Tweet](https://twitter.com/newmobilitylab/status/1387563524617089025?s=20)
 24. IBCS-Group freut sich über Chrysalis in ihrem [Tweet](https://twitter.com/brianmarcel/status/1387670909926977540?s=20)
 25. Biilabs ist auch wieder am Start: [Tweetet](https://twitter.com/jserv/status/1387693591485505536?s=20) über eine [Traceability Plattform](https://biilabs.io/products)
-26. Devdiscourse [schreibt positiv über IOTA](https://www.devdiscourse.com/article/technology/1553167-blockchain-vs-iota-looking-for-a-better-alternative) und die [IF tweetet](https://twitter.com/iota/status/1387742435128774656?s=20) darüber
-27. Die [IF verkauft jetzt T-Shirts](https://twitter.com/iota/status/1387811613902786561?s=20) Neuer Revenue Stream?!? ;-)
-28. Die IF [tweetet](https://twitter.com/iota/status/1387797268732993536?s=20) über den geringen Energieverbrauch einer Transaktion ($0.00001515 worth of energy)
-29. [IOTA Talk mit Dom Schiener und Jakub Cech](https://www.youtube.com/watch?v=kp8gMV8ol4A)
-30. Erster Chrysalis Spamtest mit 320 MPS war erfolgreich: [Tweet von Muxxer](https://twitter.com/der_muXxer/status/1387784928302092292?s=20)
+26. Ensuresec freut sich über Chrysalis in ihrem [Tweet](https://twitter.com/ensuresec_eu/status/1388062313287143424?s=20)
+27. Blackpin freut sich über Chrysalis in ihrem [Tweet](https://twitter.com/BLACKPIN_GmbH/status/1387816722242101252?s=20)
+28. Devdiscourse [schreibt positiv über IOTA](https://www.devdiscourse.com/article/technology/1553167-blockchain-vs-iota-looking-for-a-better-alternative) und die [IF tweetet](https://twitter.com/iota/status/1387742435128774656?s=20) darüber
+29. Die [IF verkauft jetzt T-Shirts](https://twitter.com/iota/status/1387811613902786561?s=20) Neuer Revenue Stream?!? ;-)
+30. Die IF [tweetet](https://twitter.com/iota/status/1387797268732993536?s=20) über den geringen Energieverbrauch einer Transaktion ($0.00001515 worth of energy)
+31. [IOTA Talk mit Dom Schiener und Jakub Cech](https://www.youtube.com/watch?v=kp8gMV8ol4A)
+32. Erster Chrysalis Spamtest mit 320 MPS war erfolgreich: [Tweet von Muxxer](https://twitter.com/der_muXxer/status/1387784928302092292?s=20)
+33. Institute Technologie de Aragon [schreibt über die Verbesserungen durch Chrysalis](https://www.itainnova.es/blog/internet-of-things-iot/why-iota-upgrade-chrysalis-key-trusted-mining-industry/)
+34. Chrysalis new Node implementation - Bee [IF Video auf Youtube](https://www.youtube.com/watch?v=wpXiLB1u_Bg)
+35. CryptoFinance hat chrysalis implementiert[Tweet](https://twitter.com/CryptoFinanceAG/status/1388026315345903616?s=20)
+36. 
