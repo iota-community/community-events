@@ -29,4 +29,4 @@
 27. Die [IF verkauft jetzt T-Shirts](https://twitter.com/iota/status/1387811613902786561?s=20) Neuer Revenue Stream?!? ;-)
 28. Die IF [tweetet](https://twitter.com/iota/status/1387797268732993536?s=20) über den geringen Energieverbrauch einer Transaktion ($0.00001515 worth of energy)
 29. [IOTA Talk mit Dom Schiener und Jakub Cech](https://www.youtube.com/watch?v=kp8gMV8ol4A)
-30. Erster Chrysalis Spamtest mit 320 MPS war erfolgreich
+30. Erster Chrysalis Spamtest mit 320 MPS war erfolgreich: [Tweet von Muxxer](https://twitter.com/der_muXxer/status/1387784928302092292?s=20)
