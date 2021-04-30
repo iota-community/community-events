@@ -25,4 +25,8 @@
 23. NewMobilityLab freut sich über Chrysalis in ihrem [Tweet](https://twitter.com/newmobilitylab/status/1387563524617089025?s=20)
 24. IBCS-Group freut sich über Chrysalis in ihrem [Tweet](https://twitter.com/brianmarcel/status/1387670909926977540?s=20)
 25. Biilabs ist auch wieder am Start: [Tweetet](https://twitter.com/jserv/status/1387693591485505536?s=20) über eine [Traceability Plattform](https://biilabs.io/products)
-26. Devdiscourse schreibt positiv über IOTA(https://www.devdiscourse.com/article/technology/1553167-blockchain-vs-iota-looking-for-a-better-alternative) und die [IF tweetet](https://twitter.com/iota/status/1387742435128774656?s=20) darüber
+26. Devdiscourse [schreibt positiv über IOTA](https://www.devdiscourse.com/article/technology/1553167-blockchain-vs-iota-looking-for-a-better-alternative) und die [IF tweetet](https://twitter.com/iota/status/1387742435128774656?s=20) darüber
+27. Die [IF verkauft jetzt T-Shirts](https://twitter.com/iota/status/1387811613902786561?s=20) Neuer Revenue Stream?!? ;-)
+28. Die IF [tweetet](https://twitter.com/iota/status/1387797268732993536?s=20) über den geringen Energieverbrauch einer Transaktion ($0.00001515 worth of energy)
+29. [IOTA Talk mit Dom Schiener und Jakub Cech](https://www.youtube.com/watch?v=kp8gMV8ol4A)
+30. 
