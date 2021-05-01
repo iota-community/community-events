@@ -36,3 +36,7 @@
 34. Chrysalis new Node implementation - Bee [IF Video auf Youtube](https://www.youtube.com/watch?v=wpXiLB1u_Bg)
 35. CryptoFinance hat chrysalis implementiert[Tweet](https://twitter.com/CryptoFinanceAG/status/1388026315345903616?s=20)
 36. Filancore gmbh mit 1. digitalen Identität auf Chrysalis: [Tweet](https://twitter.com/FilancoreGmbH/status/1388073264468070407?s=20)
+37. Dan Simerman "Shillerman" haut mal wieder was raus: [Tweet mit Screenshots](https://twitter.com/Vrom14286662/status/1388213624280387587?s=20)
+38. Und auch bei [diesem Artikel über Defi](https://money.usnews.com/investing/stock-market-news/articles/defi-101-a-guide-to-decentralized-finance) hat sich Dan Simerman zu Wort gemeldet
+39. [HelloIOTA Roundup #85](https://www.youtube.com/watch?v=y3xLP9XMos4)
+40. TangleBay hat #SWARM 0.4.1 released: [Tweet](https://twitter.com/TANGLEBAY/status/1387784644972716045?s=20); [Tutorial und gitHub code](https://github.com/tanglebay/swarm)
