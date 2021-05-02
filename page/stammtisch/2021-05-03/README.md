@@ -45,3 +45,4 @@
 43. Chrysalis Tangle sieht grßartig aus [vrom tweet](https://twitter.com/Vrom14286662/status/1388498596929196034?s=20) und endlich hab ich meine eigene Node für eine Transaktion verwenden können[Tweet](https://twitter.com/Vrom14286662/status/1388489191860940804?s=20)
 44. [IOTATaks Wochenrückblick](https://www.iota-talk.com/index.php?article/86-wochenr%C3%BCckblick-vom-25-april-bis-1-mai-2021/)
 45. Curve Partnerschaft ist in Gefahr weil PayPal Curve gekauft hat: [Reddit post](https://www.reddit.com/r/Iota/comments/n2lv7w/curv_no_longer_supporting_iota_after_acquisition/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+46. Wen Chrysalis Spamtest? Und was hat das mit dem [nodesharing[(https://nodesharing.wisewolf.de/) auf sich was [Sebastian Kremer schreibt](https://twitter.com/SebaKremer/status/1388791677121335302?s=20) Wen autopeering?
