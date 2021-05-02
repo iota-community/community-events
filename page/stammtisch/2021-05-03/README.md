@@ -40,3 +40,5 @@
 38. Und auch bei [diesem Artikel über Defi](https://money.usnews.com/investing/stock-market-news/articles/defi-101-a-guide-to-decentralized-finance) hat sich Dan Simerman zu Wort gemeldet
 39. [HelloIOTA Roundup #85](https://www.youtube.com/watch?v=y3xLP9XMos4)
 40. TangleBay hat #SWARM 0.4.1 released: [Tweet](https://twitter.com/TANGLEBAY/status/1387784644972716045?s=20); [Tutorial und gitHub code](https://github.com/tanglebay/swarm)
+41. Türkischer Krypto Erklärer mit 40K Abonenten lobt IOTA in größten Tönen im [Youtube Video](https://www.youtube.com/watch?v=e0UEd8vweq8) zusammengfasst im [Tweetstorm von AC](https://twitter.com/AC02835508/status/1388585797960572932?s=20)
+42. S. Popov hat einen [Bericht "The new digital, decentralized economy needs academic validation"](https://cointelegraph.com/news/the-new-digital-decentralized-economy-needs-academic-validation) geschrieben zu dem selbst [Charles Hoskinson von Cardano](https://twitter.com/IOHK_Charles/status/1388493077564821515?s=20) und [David Sonstebo](https://twitter.com/DavidSonstebo/status/1388583546986582020?s=20) positiv geäußert (getwittert) haben
