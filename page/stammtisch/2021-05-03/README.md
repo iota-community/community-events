@@ -29,7 +29,7 @@
 27. Blackpin freut sich über Chrysalis in ihrem [Tweet](https://twitter.com/BLACKPIN_GmbH/status/1387816722242101252?s=20)
 28. Devdiscourse [schreibt positiv über IOTA](https://www.devdiscourse.com/article/technology/1553167-blockchain-vs-iota-looking-for-a-better-alternative) und die [IF tweetet](https://twitter.com/iota/status/1387742435128774656?s=20) darüber
 29. Die [IF verkauft jetzt T-Shirts](https://twitter.com/iota/status/1387811613902786561?s=20) Neuer Revenue Stream?!? ;-)
-30. Die IF [tweetet](https://twitter.com/iota/status/1387797268732993536?s=20) über den geringen Energieverbrauch einer Transaktion ($0.00001515 worth of energy)
+30. Die IF [tweetet](https://twitter.com/iota/status/1387797268732993536?s=20) über den geringen Energieverbrauch einer Transaktion ($0.00001515 worth of energy) und über die geringe größe einer Transaktion(275 statt 3500 bytes): [Tweet](https://twitter.com/iota/status/1388135019240165381?s=20)
 31. [IOTA Talk mit Dom Schiener und Jakub Cech](https://www.youtube.com/watch?v=kp8gMV8ol4A)
 32. Erster Chrysalis Spamtest mit 320 MPS war erfolgreich: [Tweet von Muxxer](https://twitter.com/der_muXxer/status/1387784928302092292?s=20)
 33. Institute Technologie de Aragon [schreibt über die Verbesserungen durch Chrysalis](https://www.itainnova.es/blog/internet-of-things-iot/why-iota-upgrade-chrysalis-key-trusted-mining-industry/)
@@ -42,3 +42,5 @@
 40. TangleBay hat #SWARM 0.4.1 released: [Tweet](https://twitter.com/TANGLEBAY/status/1387784644972716045?s=20); [Tutorial und gitHub code](https://github.com/tanglebay/swarm)
 41. Türkischer Krypto Erklärer mit 40K Abonenten lobt IOTA in größten Tönen im [Youtube Video](https://www.youtube.com/watch?v=e0UEd8vweq8) zusammengfasst im [Tweetstorm von AC](https://twitter.com/AC02835508/status/1388585797960572932?s=20)
 42. S. Popov hat einen [Bericht "The new digital, decentralized economy needs academic validation"](https://cointelegraph.com/news/the-new-digital-decentralized-economy-needs-academic-validation) geschrieben zu dem selbst [Charles Hoskinson von Cardano](https://twitter.com/IOHK_Charles/status/1388493077564821515?s=20) und [David Sonstebo](https://twitter.com/DavidSonstebo/status/1388583546986582020?s=20) positiv geäußert (getwittert) haben
+43. Chrysalis Tangle sieht grßartig aus [vrom tweet](https://twitter.com/Vrom14286662/status/1388498596929196034?s=20) und endlich hab ich meine eigene Node für eine Transaktion verwenden können[Tweet](https://twitter.com/Vrom14286662/status/1388489191860940804?s=20)
+44. [IOTATaks Wochenrückblick](https://www.iota-talk.com/index.php?article/86-wochenr%C3%BCckblick-vom-25-april-bis-1-mai-2021/)
