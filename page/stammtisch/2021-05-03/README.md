@@ -48,4 +48,4 @@
 46. Wen Chrysalis Spamtest? Und was hat das mit dem [nodesharing[(https://nodesharing.wisewolf.de/) auf sich was [Sebastian Kremer schreibt](https://twitter.com/SebaKremer/status/1388791677121335302?s=20) Wen autopeering?
 47. [IOTA AMA mit Dom Schiener](https://www.youtube.com/watch?v=6fxxWaOmryk)
 48. David Lee interviewt Dom Schiener soon: [Tweet](https://twitter.com/heydave7/status/1388975499687469056?s=21); Interessant auch, dass [Elon Musk ihm hier auf Twitter ](https://twitter.com/elonmusk/status/1388980879175954433?s=20) ihm nahezu zur gleichen Zeit geantwortet hat
-49. Siemens PAtent mit 3x IOTA: [Tweet](https://twitter.com/_iotaarchive/status/1389114250791116805?s=20); [Patent](https://worldwide.espacenet.com/patent/search?q=pn%3DEP3787251A1)
+49. Siemens Patent mit 3x IOTA: [Tweet](https://twitter.com/_iotaarchive/status/1389114250791116805?s=20); [Patent](https://worldwide.espacenet.com/patent/search?q=pn%3DEP3787251A1)
