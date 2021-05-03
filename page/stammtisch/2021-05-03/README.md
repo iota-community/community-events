@@ -46,7 +46,7 @@
 44. [IOTATaks Wochenrückblick](https://www.iota-talk.com/index.php?article/86-wochenr%C3%BCckblick-vom-25-april-bis-1-mai-2021/)
 45. Curve Partnerschaft ist in Gefahr weil PayPal Curve gekauft hat: [Reddit post](https://www.reddit.com/r/Iota/comments/n2lv7w/curv_no_longer_supporting_iota_after_acquisition/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 46. Wen Chrysalis Spamtest? Und was hat das mit dem [nodesharing[(https://nodesharing.wisewolf.de/) auf sich was [Sebastian Kremer schreibt](https://twitter.com/SebaKremer/status/1388791677121335302?s=20); Btw.: Wen autopeering?
-47. [IOTA AMA mit Dom Schiener](https://www.youtube.com/watch?v=6fxxWaOmryk)
+47. [IOTA AMA mit Dom Schiener](https://www.youtube.com/watch?v=6fxxWaOmryk) [zusammengefasst von MudKevin](https://drive.google.com/file/d/1J23tMuEmRyHmLvznF2EXVODJZm2nGXEU/view)
 48. David Lee interviewt Dom Schiener soon: [Tweet](https://twitter.com/heydave7/status/1388975499687469056?s=21); Interessant auch, dass [Elon Musk ihm hier auf Twitter ](https://twitter.com/elonmusk/status/1388980879175954433?s=20) ihm nahezu zur gleichen Zeit geantwortet hat. Und auch die IF freut sich drauf: [Tweet](https://twitter.com/iota/status/1389126324657262593?s=20)
 49. Siemens Patent mit 3x IOTA: [Tweet](https://twitter.com/_iotaarchive/status/1389114250791116805?s=20); [Patent](https://worldwide.espacenet.com/patent/search?q=pn%3DEP3787251A1)
 50. Visa will "in sehr großem Stil" bei Krypto mitmischen: [Bericht von Finanzen.net](https://www.finanzen.net/nachricht/devisen/ehrgeizige-plaene-visa-ceo-wird-konkret-diese-grossen-krypto-ambitionen-verfolgt-der-kreditkartenanbieter-10074477)
