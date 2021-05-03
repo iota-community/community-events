@@ -8,7 +8,7 @@
 6. Audit von Chrysalis: [Tweet der IF](https://twitter.com/iota/status/1387059946903252999?s=20); [Bogpost der IF](https://blog.iota.org/chrysalis-firefly-audits/)
 7. Hagi einfachIOTA [Interview mit Chrsitoph Strnadl von der SoftwareAG](https://www.youtube.com/watch?v=4TwfcaQlCzQ)
 8. Bericht: [Five reasons why Chrysalis is the most important upgrade for IOTA](https://weetoz.medium.com/five-reasons-why-chrysalis-is-the-most-important-upgrade-for-iota-80c0d70b11bc)
-9. A new dawn has begun: [Tweet 1 der IF](https://twitter.com/iota/status/1387293403906547715?s=20)... Chrysalis release am Mittwoch
+9. A new dawn has begun: [Tweet 1 der IF](https://twitter.com/iota/status/1387293403906547715?s=20)Chrysalis release am Mittwoch
 10. eClass gratuliert zu Chrysalis [im Tweet](https://twitter.com/eClassStandard/status/1387294005730242560?s=20) und weist auf die [digitalen Identitäten Experten Gruppe hin](https://www.eclass.eu/en/association/digitalization-expert-group/eclass-and-the-digital-twin.html)
 11. 24% von dem Token-Supply wurde vor Chrysalis migriert; [Tweet der IF](https://twitter.com/iota/status/1387317999753908224?s=20). Auch die IF hat ihre [Funds migriert](https://explorer.iota.org/mainnet/address/TRANSFERBXLCKYJWOBNW9BLZOBMBPCSATZFAHVBDDAVZGCUZL9FZU9DWABECBZOBJVSXECDBBYGDHCBB9NJKEDOGJZ)
 12. Christoph Bergman meldet sich mal wieder mit einer neckischen Bemerkung zum Coordinator [auf Twitter]...(https://twitter.com/BTC_de_Blog/status/1387002034969354241?s=20)
