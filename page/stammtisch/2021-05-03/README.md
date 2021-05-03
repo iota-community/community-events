@@ -51,3 +51,4 @@
 49. Siemens Patent mit 3x IOTA: [Tweet](https://twitter.com/_iotaarchive/status/1389114250791116805?s=20); [Patent](https://worldwide.espacenet.com/patent/search?q=pn%3DEP3787251A1)
 50. Visa will "in sehr großem Stil" bei Krypto mitmischen: [Bericht von Finanzen.net](https://www.finanzen.net/nachricht/devisen/ehrgeizige-plaene-visa-ceo-wird-konkret-diese-grossen-krypto-ambitionen-verfolgt-der-kreditkartenanbieter-10074477)
 51. IOTA Smart contracts jetzt doch erst Q1 2022? Evaldas[IF] schreibt in #smartcontracts-discussions: "First we plan to run it on Goshimmer, the experimental testnet.  Q3 would be a good guess. The mainnet (Chrysalis) will be after and it will take time to adapt it to the current mainnet protocol.  And currrent mainnet protocol has to be updated. So,  optimistically, Q1 2022"
+52. Wie sieht das dann mit Colored Coins aus? Können die schon früher kommen? Brauchen die Smart Contracts?
