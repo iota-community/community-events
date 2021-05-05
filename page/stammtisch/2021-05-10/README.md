@@ -4,7 +4,7 @@
 2. Neues Patent mit 10x IOTA: [Tweet von IOTAarchive](https://twitter.com/_iotaarchive/status/1389469593006223362?s=19) und [hier das Patent](https://arxiv.org/pdf/2103.10074.pdf)
 3. Kraken wird mit IOTA Kommentaren zugespamt: [Tweet](https://twitter.com/krakenfx/status/1388139007293407234?s=20)
 4. Firefly 1.1.0 update: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1389472628587573249?s=20)
-5. Die IF stellt ein: [Tweet](https://twitter.com/iota/status/1389521446460928001?s=20) 
+5. Die IF stellt ein: [Viele offene Stellen - Tweet](https://twitter.com/iota/status/1389521446460928001?s=20); Asa Dahlborn für Market Adoption Team: [Tweet](https://twitter.com/iota/status/1389882631458787328?s=20)
 6. Markus Söder sagt: "Wir haben ja in Bayern das Altöttinger Modell gewählt, das ist übrigens auch die Vorlage für das Bundesmodell. D.h. es wird nicht mehr lange auf sich warten lassen..."
 7. TangleBay mit [neuem Tutorial](https://tanglebay.com/swarm/) für swarm, einem All-Inklusiv Hornet Node Instaler
 8. IOTA AS: [Neues Drama](https://www.reddit.com/r/IOTAmarkets/comments/n4wj00/yikes_dom_i_want_to_keep_holding_iota_but_youre/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) weil Leute mit Coins auf der Börse nicht frei entscheidnen können ob sie IOTA AS unterstützen. Dom reagiert da etwas ungünstig...
