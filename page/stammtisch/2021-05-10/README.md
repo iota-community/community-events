@@ -11,3 +11,4 @@
 9. Holger Köther macht Druck bei [Markus Söder](https://twitter.com/HolgerKoether/status/1389839813046644739?s=20) und bei der [Stadt München](https://twitter.com/HolgerKoether/status/1389841658741657603?s=20)
 10. DOGE coin macht weitere 50% an einem Tag. Hat jetzt im letzten Jahr fast 25.000% gemacht
 11. Kein Research Update, die IF-Developer arbeiten and Nectar: [Tweet](https://twitter.com/iota/status/1389248553248251908) NEXT STOP NECTAR
+12. Steve Tod von Dell spricht über IOTA und Projekt Alvarium: [IF-Tweet](https://twitter.com/iota/status/1389988368633810949?s=20); Topic: [Can people become Data silos](https://www.delltechnologies.com/en-us/events/delltechnologiesworld/sessions.htm#/schedule/all/filter/all/text/silo/session/909)
