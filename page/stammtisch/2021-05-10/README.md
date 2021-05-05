@@ -9,3 +9,5 @@
 7. TangleBay mit [neuem Tutorial](https://tanglebay.com/swarm/) für swarm, einem All-Inklusiv Hornet Node Instaler
 8. IOTA AS: [Neues Drama](https://www.reddit.com/r/IOTAmarkets/comments/n4wj00/yikes_dom_i_want_to_keep_holding_iota_but_youre/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) weil Leute mit Coins auf der Börse nicht frei entscheidnen können ob sie IOTA AS unterstützen. Dom reagiert da etwas ungünstig...
 9. Holger Köther macht Druck bei [Markus Söder](https://twitter.com/HolgerKoether/status/1389839813046644739?s=20) und bei der [Stadt München](https://twitter.com/HolgerKoether/status/1389841658741657603?s=20)
+10. DOGE coin macht weitere 50% an einem Tag. Hat jetzt im letzten Jahr fast 25.000% gemacht
+11. Kein Research Update, die IF-Developer arbeiten and Nectar: [Tweet](https://twitter.com/iota/status/1389248553248251908) NEXT STOP NECTAR
