@@ -15,3 +15,4 @@
 13. Hund schießt jetzt gegen David in [seinem Blogpost](https://hund-research.medium.com/dear-david-s%C3%B8nsteb%C3%B8-2474582d3e57)
 14. Der CTO udn Cofounder von Evrthing promoted IOTA in [seinem Tweet](https://twitter.com/domguinard/status/1390215269377773575?s=20) und erklärt warum Evrthing sich für IOTA entschieden hat (Energieeffizien)
 15. Am Donnerstag 21:45Uhr bei Das Erste - Kontraste (https://www.rbb-online.de/kontraste/) Themen: + Wo bleibt der Impfturbo? + Klimakiller Bitcoin ...
+16. Hans Moog auf der Crypto Rockstars Konferenz: [Vorstellungs-Video von Hans Moog](https://www.youtube.com/watch?v=lDE_Xl1t3mQ)
