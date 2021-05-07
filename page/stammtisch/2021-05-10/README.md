@@ -26,4 +26,4 @@
 24. Hans Moog vielleicht bald bei Lex Friedman: [Tweet](https://twitter.com/Vrom14286662/status/1390410823479222289?s=20)
 25. Am Donnerstag ist IOTA in einer Stunde um 12% gestiegen: [Tweet](https://twitter.com/Vrom14286662/status/1390402351920472066?s=20)
 26. IOTA stellt ein: [Adrian Grassl](https://blog.iota.org/welcome-adrian-grassl-to-the-iota-foundation/) der übrigens vorher bei Bosch war...
-27. IOTA Treasury Fund: Wie läuft das jetzt genau mit dem Fork und mit dem Abstimmen was dann mit den Token passiert? Wer hat die Macht? Nodes, Tokenholder oder David?
+27. IOTA Treasury Fund: Wie läuft das mit dem Fork und mit dem DAO? Wer hat die Macht? Nodes, Tokenholder oder David?
