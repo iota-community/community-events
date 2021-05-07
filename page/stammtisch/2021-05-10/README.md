@@ -27,3 +27,4 @@
 25. Am Donnerstag ist IOTA in einer Stunde um 12% gestiegen: [Tweet](https://twitter.com/Vrom14286662/status/1390402351920472066?s=20)
 26. IOTA stellt ein: [Adrian Grassl](https://blog.iota.org/welcome-adrian-grassl-to-the-iota-foundation/) der übrigens vorher bei Bosch war...
 27. IOTA Treasury Fund: Wie läuft das mit dem Fork und mit dem DAO? Wer hat die Macht? Nodes, Tokenholder oder David?
+28. [DEXES Youtube IOTA Gelaber](https://www.youtube.com/watch?v=U9jCIDC3FJA&feature=youtu.be): U.a. über David Lee Interview mit Dom und Hans Moog 
