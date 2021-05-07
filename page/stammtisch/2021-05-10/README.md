@@ -25,4 +25,4 @@
 23. Schach Turnier ab jetzt jeden Donnerstag auf lichess.com für die IOTA Community. Mommoth#3769 organisiert das: [Tweet](https://twitter.com/Vrom14286662/status/1390573700890734598?s=19)
 24. Hans Moog vielleicht bald bei Lex Friedman: [Tweet](https://twitter.com/Vrom14286662/status/1390410823479222289?s=20)
 25. Am Donnerstag ist IOTA in einer Stunde um 12% gestiegen: [Tweet](https://twitter.com/Vrom14286662/status/1390402351920472066?s=20)
-26. IOTA stellt ein: [Adrian Grassl](https://blog.iota.org/welcome-adrian-grassl-to-the-iota-foundation/) der war vorher bei Bosch
+26. IOTA stellt ein: [Adrian Grassl](https://blog.iota.org/welcome-adrian-grassl-to-the-iota-foundation/) der übrigens vorher bei Bosch war...
