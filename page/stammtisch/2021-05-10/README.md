@@ -13,7 +13,7 @@
 11. Kein Research Update, die IF-Developer arbeiten and Nectar: [Tweet](https://twitter.com/iota/status/1389248553248251908) NEXT STOP NECTAR
 12. Steve Tod von Dell spricht über IOTA und Projekt Alvarium: [IF-Tweet](https://twitter.com/iota/status/1389988368633810949?s=20); Topic: [Can people become Data silos](https://www.delltechnologies.com/en-us/events/delltechnologiesworld/sessions.htm#/schedule/all/filter/all/text/silo/session/909)
 13. Hund schießt jetzt gegen David in [seinem Blogpost](https://hund-research.medium.com/dear-david-s%C3%B8nsteb%C3%B8-2474582d3e57)
-14. Der CTO udn Cofounder von Evrthing promoted IOTA in [seinem Tweet](https://twitter.com/domguinard/status/1390215269377773575?s=20) und erklärt warum Evrthing sich für IOTA entschieden hat (Energieeffizien)
+14. Der CTO u. Cofounder von Evrthing promoted IOTA in [seinem Tweet](https://twitter.com/domguinard/status/1390215269377773575?s=20) u. erklärt warum Evrthing IOTA verwendet (wegen Energieverbrauch)
 15. Am Donnerstag 21:45Uhr bei [Das Erste - Kontraste](https://youtu.be/CzedP0z1HSo?t=1478) zum Thema: Klimakiller Bitcoin ...
 16. [Vorstellungs-Video von Hans Moog](https://www.youtube.com/watch?v=lDE_Xl1t3mQ) auf der Crypto Rockstars Konferenz. Es gab auch einen witzigen Kommentar von ihm [auf Twitter](https://twitter.com/hus_qy/status/1390403534252806146?s=20) dazu
 17. [IOTA Talks mit Dom Schiener](https://www.youtube.com/watch?v=P7wwCRqnKF8&feature=youtu.be)
