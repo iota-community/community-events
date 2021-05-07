@@ -5,7 +5,7 @@
 3. Kraken wird mit IOTA Kommentaren zugespamt: [Tweet](https://twitter.com/krakenfx/status/1388139007293407234?s=20)
 4. Firefly 1.1.0 update: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1389472628587573249?s=20)
 5. Die IF stellt ein: [Viele offene Stellen - Tweet](https://twitter.com/iota/status/1389521446460928001?s=20); Asa Dahlborn für Market Adoption Team: [Tweet](https://twitter.com/iota/status/1389882631458787328?s=20)
-6. Markus Söder sagt: "Wir haben ja in Bayern das Altöttinger Modell gewählt, das ist übrigens auch die Vorlage für das Bundesmodell. D.h. es wird nicht mehr lange auf sich warten lassen..."
+6. Markus Söder: "Wir haben ja in Bayern das Altöttinger Modell gewählt, das ist übrigens auch die Vorlage für das Bundesmodell. D.h. es wird nicht mehr lange auf sich warten lassen..." [RTL Nachtjournal ab 6:40](https://www.tvnow.de/shows/rtl-nachtjournal-290/2021-05/episode-85-sendung-vom-05-05-2021-4049374?utm_source=rtl&utm_medium=owned&utm_campaign=right_rail&utm_term=rtl-nachtjournal)
 7. TangleBay mit [neuem Tutorial](https://tanglebay.com/swarm/) für swarm, einem All-Inklusiv Hornet Node Instaler
 8. [Neues Drama](https://www.reddit.com/r/IOTAmarkets/comments/n4wj00/yikes_dom_i_want_to_keep_holding_iota_but_youre/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) weil Leute mit Coins auf der Börse nicht entscheidnen können, ob sie IOTA AS unterstützen. Dom reagiert da etwas ungünstig...
 9. Holger Köther macht Druck bei [Markus Söder](https://twitter.com/HolgerKoether/status/1389839813046644739?s=20) und bei der [Stadt München](https://twitter.com/HolgerKoether/status/1389841658741657603?s=20)
