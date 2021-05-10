@@ -28,3 +28,14 @@
 26. IOTA stellt ein: [Adrian Grassl](https://blog.iota.org/welcome-adrian-grassl-to-the-iota-foundation/) der übrigens vorher bei Bosch war...
 27. IOTA Treasury Fund: Wie läuft das mit dem Fork und mit dem DAO? Wer hat die Macht? Nodes, Tokenholder oder David?
 28. [DEXES Youtube IOTA Gelaber](https://www.youtube.com/watch?v=U9jCIDC3FJA&feature=youtu.be): U.a. über David Lee Interview mit Dom und Hans Moog Vorstellung
+29. [IOTA AMA with the Expert: Nectar & Coordicide - Billy Sanders](https://www.youtube.com/watch?v=DZHrl6Md0fc)
+30. [Evrthing promoted IOTA via Twitter](https://twitter.com/EVRYTHNG/status/1390615390145978372?s=20)
+31. [Roadmap upgedate](https://roadmap.iota.org/)
+32. Neuer [FAQ Blogpost bezüglich Unclaimed Token, Community Treasury and IOTA AS](https://blog.iota.org/unclaimed-tokens-community-treasury-and-iota-as-faq/) und [hier auf deutsch](https://iota-einsteiger-guide.de/iota-unclaimed-tokens-faq.html)
+33. Es geht weiter mit Intel, Dell und Projekt Alvarium: [Tweet der IF](https://twitter.com/iota/status/1390706752824483841?s=20) über diesne Bericht: [Project Alvarium and The Rise of Data Confidence](https://www.cio.com/article/3617917/project-alvarium-and-the-rise-of-data-confidence.html)
+34. [IOTA Pollen v.0.5.8](https://twitter.com/AngeloCapossele/status/1390710916996599808?s=19) ist raus
+35. Interessanter Bericht über DLT und IOTA: [The Chirping Machine](https://b0rg.medium.com/the-chirping-machine-4c73269c2871)
+36. IOTA Community arbeitet and PHP Libary und Antonio Narella ruft [auf Twitter auf](https://twitter.com/antonionardella/status/1391392206980886537?s=19) daran mitzuarbeiten
+37. Update zu "How to install an IOTA node on a Jelastic VPS in 10 minutes" (https://twitter.com/IotaSonic/status/1391370897559273475?s=19)
+38. Pay to Node: NO8Ody hat sich bereit erklärt Hornet Nodes für unerfahrene Leute aufzusetzen. 
+39. Neues [Paper](https://arxiv.org/pdf/2104.13813.pdf) mit 15x IOTA (https://twitter.com/_iotaarchive/status/1391639893261099008?s=19)
