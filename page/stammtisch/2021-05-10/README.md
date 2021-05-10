@@ -27,7 +27,7 @@
 25. Am Donnerstag ist IOTA in einer Stunde um 12% gestiegen: [Tweet](https://twitter.com/Vrom14286662/status/1390402351920472066?s=20)
 26. IOTA stellt ein: [Adrian Grassl](https://blog.iota.org/welcome-adrian-grassl-to-the-iota-foundation/) der übrigens vorher bei Bosch war...
 27. IOTA Treasury Fund: Wie läuft das mit dem Fork und mit dem DAO? Wer hat die Macht? Nodes, Tokenholder oder David?
-28. [DEXES Youtube IOTA Gelaber](https://www.youtube.com/watch?v=U9jCIDC3FJA&feature=youtu.be): U.a. über David Lee Interview mit Dom und Hans Moog Vorstellung
+28. [DEXES Youtube IOTA Gelaber](https://www.youtube.com/watch?v=U9jCIDC3FJA&feature=youtu.be): U.a. über David Lee Interview mit Dom und Hans Moog Vorstellung und noch ein [Video am Montag](https://www.youtube.com/watch?v=WA1yq72yug4)
 29. [IOTA AMA with the Expert: Nectar & Coordicide - Billy Sanders](https://www.youtube.com/watch?v=DZHrl6Md0fc)
 30. [Evrthing promoted IOTA via Twitter](https://twitter.com/EVRYTHNG/status/1390615390145978372?s=20)
 31. [Roadmap upgedate](https://roadmap.iota.org/)
