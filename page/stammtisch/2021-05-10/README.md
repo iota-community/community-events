@@ -20,7 +20,7 @@
 18. Neuigkeitnen von den Exchanges: Es gab wohl last minutes probleme die jetzt gefixed werden; [Charley Varley aut Twitter](https://twitter.com/c_varley/status/1390352767596863491?s=19)
 19. Neues [Erklärvideo von EverythingTangl über Chrysalis](https://www.youtube.com/watch?v=4X6TqN6lQhs)
 20. Steve Todd redet über [Can People Become Data Silos?](https://www.youtube.com/watch?v=rsQedZUmWd0) und wie Dell IOTA verwendet
-21. Dave Lee interview mit Dom Schiener(https://www.youtube.com/watch?v=OoSCIf1Q_Q8)
+21. [Dave Lee interview mit Dom Schiener](https://www.youtube.com/watch?v=OoSCIf1Q_Q8)
 22. Dom hat den Telegram Channel vom IOTA Cafe verlassen. Wahrscheinlich zu viel Rumgejammer von neuen Leuten in letzter Zeit...
 23. Schach Turnier ab jetzt jeden Donnerstag auf lichess.com für die IOTA Community. Mommoth#3769 organisiert das: [Tweet](https://twitter.com/Vrom14286662/status/1390573700890734598?s=19)
 24. Hans Moog vielleicht bald bei Lex Friedman: [Tweet](https://twitter.com/Vrom14286662/status/1390410823479222289?s=20)
