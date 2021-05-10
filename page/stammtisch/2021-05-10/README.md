@@ -47,4 +47,3 @@
 45. Dan Simerman spricht bei der [BlackArrowBlockchain Series](https://www.blackarrowconferences.com/bib.html). Das ist scheinbar so eine Banken Konferenz: [Tweet](https://twitter.com/DanSimerman/status/1391737234148179970?s=20) Sein Thema: Blockchain in Banking
 46. UBIRCH Blockchain on a Sim Lösung: [Tweet](https://twitter.com/ubirch_trust/status/1391656742988263425?s=21) Hat das was mit IOTA zu tun?
 47. [IOTA Identity Beta release](https://blog.iota.org/iota-identity-beta-release) und [auf deutsch](https://iota-einsteiger-guide.de/iota-identity-beta.html)
-48. 
