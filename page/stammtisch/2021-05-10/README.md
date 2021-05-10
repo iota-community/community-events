@@ -36,7 +36,7 @@
 34. [IOTA Pollen v.0.5.8](https://twitter.com/AngeloCapossele/status/1390710916996599808?s=19) ist raus
 35. Interessanter Bericht über DLT und IOTA: [The Chirping Machine](https://b0rg.medium.com/the-chirping-machine-4c73269c2871)
 36. IOTA Community arbeitet and PHP Libary und Antonio Narella ruft [auf Twitter auf](https://twitter.com/antonionardella/status/1391392206980886537?s=19) daran mitzuarbeiten
-37. Update zu "How to install an IOTA node on a Jelastic VPS in 10 minutes" (https://twitter.com/IotaSonic/status/1391370897559273475?s=19)
+37. Update zu "How to install an IOTA node on a Jelastic VPS in 10 minutes": [Tweet](https://twitter.com/IotaSonic/status/1391370897559273475?s=19)
 38. Pay to Node: NO8Ody hat sich bereit erklärt Hornet Nodes für unerfahrene Leute aufzusetzen. 
 39. Neues [Paper](https://arxiv.org/pdf/2104.13813.pdf) mit 15x IOTA: [Tweet von IOTAArchive](https://twitter.com/_iotaarchive/status/1391639893261099008?s=19)
 40. [IOTATalks Wochenrückblick](https://www.iota-talk.com/index.php?article/87-wochenr%C3%BCckblick-vom-2-bis-8-mai-2021/)
