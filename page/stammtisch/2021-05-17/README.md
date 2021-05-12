@@ -15,3 +15,5 @@
 13. LEGALTECH Innovation panel mit Mike Bennett [IF], Standards Coordinator: [Tweet](https://twitter.com/FINTECHCircle/status/1382620547335487490?s=20)
 14. ZEDEDA bei Innovation Showcase: [Tweet1](https://twitter.com/ZededaEdge/status/1385682500635213825?s=20); [Tweet2](https://twitter.com/telecomcouncil/status/1389630917971488768?s=20)
 15. Chrysalis: Das neue IOTA Update einfach erklärt (by EverythingTangle), [HelloIOTA Übersetzung](https://www.youtube.com/watch?v=Tr9FaekUtIg)
+16. Was machen die Börsen? Bitpanda, Binance, Bitfinex, Omoku, ...
+
