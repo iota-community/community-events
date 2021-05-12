@@ -10,3 +10,4 @@
 8. GoShimmer v.0.5.9 release: [Tweet mit screenshot](https://twitter.com/Vrom14286662/status/1392090553899159557?s=20)
 9. Elon Musk frägt ober Tesla Doge akzeptieren soll: [Tweet](https://twitter.com/elonmusk/status/1392030108274159619?s=20)
 10. Nectar release scheint kurz befor zu stehen, allerdings soll das doch ein gradueller Prozess sein: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1392058292696977408?s=20)
+11. Das einfachIOTA Magazin Nr.2 ist bald bestellbar: [Tweet](https://twitter.com/einfachIOTA/status/1392384983055089667?s=20)
