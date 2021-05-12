@@ -11,3 +11,7 @@
 9. Elon Musk frägt ober Tesla Doge akzeptieren soll: [Tweet](https://twitter.com/elonmusk/status/1392030108274159619?s=20)
 10. Nectar release scheint kurz befor zu stehen, allerdings soll das doch ein gradueller Prozess sein: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1392058292696977408?s=20)
 11. Das einfachIOTA Magazin Nr.2 ist bald bestellbar: [Tweet](https://twitter.com/einfachIOTA/status/1392384983055089667?s=20)
+12. Schönes Video über [IOTA, Dell und Intel Partnerschaft](https://www.youtube.com/watch?v=iWp9Ddb1WHk)
+13. LEGALTECH Innovation panel mit Mike Bennett [IF], Standards Coordinator: [Tweet](https://twitter.com/FINTECHCircle/status/1382620547335487490?s=20)
+14. ZEDEDA bei Innovation Showcase: [Tweet1](https://twitter.com/ZededaEdge/status/1385682500635213825?s=20); [Tweet2](https://twitter.com/telecomcouncil/status/1389630917971488768?s=20)
+15. Chrysalis: Das neue IOTA Update einfach erklärt (by EverythingTangle), [HelloIOTA Übersetzung](https://www.youtube.com/watch?v=Tr9FaekUtIg)
