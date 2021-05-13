@@ -3,7 +3,7 @@
 1. [IOTA Quicktakes](https://www.youtube.com/watch?v=EMewMjJnp9k)
 2. IOTA Treasury Fund: Wir hatten da letzte Woche im Stammtisch erste Überlegungen wie so etwas aussehen könnte. Vielleicht sollten wir darüber nochmal reden
 3. Mark Zuckerberg postet über Bitcoin auf facebook: [Tweet](https://twitter.com/Vrom14286662/status/1392064301620412416?s=20)
-4. IF stellt ein: [Tom Janson für Legal](https://blog.iota.org/welcome-tom-jansson-to-the-iota-foundation/)
+4. IF stellt ein: [Tom Janson für Legal](https://blog.iota.org/welcome-tom-jansson-to-the-iota-foundation/); [Valerie Grappendorf fürs Communication Team](https://blog.iota.org/welcome-valerie-grappendorf-to-the-iota-foundation/)
 5. IOT2Tangle hat ihren Hub auf Chrysalis upgedated: [Tweet](https://twitter.com/iot2tangle/status/1392116859898667009)
 6. Object Management Group hat [getweetet](https://twitter.com/ObjectMgmtGroup/status/1392124592530022404?s=20) über ihr Q1 Technical Committee Meeting (TCM); [Video](https://www.brighttalk.com/webcast/12231/479877) und [Präsi](http://public2.brighttalk.com/resource/core/337241/omg-2021q1-plenary-update-for-march-followup-webcast-slides_739079.pdf)
 7. Auf SatoshiStreetBets wurde [OTA Pumpamentals veröffentlicht](https://www.reddit.com/r/SatoshiStreetBets/comments/n9yafo/iota_pumponomics_from_outer_space_literally_no/?utm_source=share&utm_medium=web2x&context=3) Interessant dass er sich das incentivierte Testnetzt als Airdrop für das Nectar Netz vorstellt..
@@ -16,4 +16,6 @@
 14. ZEDEDA bei Innovation Showcase: [Tweet1](https://twitter.com/ZededaEdge/status/1385682500635213825?s=20); [Tweet2](https://twitter.com/telecomcouncil/status/1389630917971488768?s=20)
 15. Chrysalis: Das neue IOTA Update einfach erklärt (by EverythingTangle), [HelloIOTA Übersetzung](https://www.youtube.com/watch?v=Tr9FaekUtIg)
 16. Was machen die Börsen? Bitpanda, Binance, Bitfinex, Omoku, ...
+17. Vitalik Buterin verschenkt seine Shiba Inu Coins im Wert von 1 Milliarde Doller an Indien Covid Fund: [Bericht](https://www.vox.com/recode/2021/5/12/22433113/vitalik-buterlin-cryptocurrency-india-shiba-inu-coin-philanthropy)
+18. Elon Musk tweetet, dass Tesla kein Bitcoin mehr akzeptiert wegen Energieverschwendung beim Mining: [Tweet](https://twitter.com/elonmusk/status/1392602041025843203?s=20) und wird danach natürlich mit IOTA zugespamt: [Dom Tweet](https://twitter.com/DomSchiener/status/1392605628124868614?s=20); [Holger Köther](https://twitter.com/HolgerKoether/status/1392730340549144577?s=20); [Mat Yarger mit Wegbeschreibung für Elon](https://twitter.com/Mat_Yarger/status/1392641997882728457?s=20) und ich hab mal versucht den Frank Thelen zu triggern [vrom Tweet](https://twitter.com/Vrom14286662/status/1392729382750507008?s=20)
 
