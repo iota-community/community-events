@@ -19,4 +19,10 @@
 17. Vitalik Buterin verschenkt seine Shiba Inu Coins im Wert von 1 Milliarde Doller an Indien Covid Fund: [Bericht](https://www.vox.com/recode/2021/5/12/22433113/vitalik-buterlin-cryptocurrency-india-shiba-inu-coin-philanthropy)
 18. Elon Musk tweetet, dass Tesla kein Bitcoin mehr akzeptiert wegen Energieverschwendung beim Mining: [Tweet](https://twitter.com/elonmusk/status/1392602041025843203?s=20) und wird danach natürlich mit IOTA zugespamt: [Dom Tweet](https://twitter.com/DomSchiener/status/1392605628124868614?s=20); [Holger Köther](https://twitter.com/HolgerKoether/status/1392730340549144577?s=20); [Mat Yarger mit Wegbeschreibung für Elon](https://twitter.com/Mat_Yarger/status/1392641997882728457?s=20) und ich hab mal versucht den Frank Thelen zu triggern [vrom Tweet](https://twitter.com/Vrom14286662/status/1392729382750507008?s=20)
 19. Neues Paper mit 35x IOTA: [IOTAarciev Tweet](https://twitter.com/_iotaarchive/status/1392740646767767552?s=19); [Paper](https://www.researchgate.net/publication/351133979_A_Privacy_Preserving_Hybrid_Blockchain_based_Announcement_Scheme_for_Vehicular_Energy_Network)
+20. Nächster Elon Musk Tweet: ["Working with Doge devs to improve system transaction efficiency. Potentially promising"](https://twitter.com/elonmusk/status/1392974251011895300?s=20) Meint der das ernst?
+21. Ebay steigt offenbar in den NFT Mark ein: [Bericht](https://t3n.de/news/nft-ebay-kaufen-1378475/)
+22. [Dev Status Update](https://blog.iota.org/dev-status-update-may-2021/) -> "A big part of the focus of the team will now also be shifted towards the next great milestone - Coordicide."
+23. Schach Turnier ab jetzt jeden Dienstag um 19:00 Uhr CET: [Tweet](https://twitter.com/Vrom14286662/status/1393111727781384192?s=20)
+24. XTeams feiert Geburtstag[Tweet](https://twitter.com/IOTAXTeams/status/1393110551388098562?s=20)
+25. Stefen Wolfram [tweetet](https://twitter.com/stephen_wolfram/status/1392995218417401865?s=20) über ein [Event](https://www.wolfram.com/events/distributed-consensus/) bei dem auch IOTA zur Sprache kommt
 
