@@ -23,6 +23,6 @@
 21. Ebay steigt offenbar in den NFT Mark ein: [Bericht](https://t3n.de/news/nft-ebay-kaufen-1378475/)
 22. [Dev Status Update](https://blog.iota.org/dev-status-update-may-2021/) -> "A big part of the focus of the team will now also be shifted towards the next great milestone - Coordicide."
 23. Schach Turnier ab jetzt jeden Dienstag um 19:00 Uhr CET: [Tweet](https://twitter.com/Vrom14286662/status/1393111727781384192?s=20)
-24. XTeams feiert Geburtstag[Tweet](https://twitter.com/IOTAXTeams/status/1393110551388098562?s=20)
+24. XTeams feiert Geburtstag [Tweet](https://twitter.com/IOTAXTeams/status/1393110551388098562?s=20)
 25. Stefen Wolfram [tweetet](https://twitter.com/stephen_wolfram/status/1392995218417401865?s=20) über ein [Event](https://www.wolfram.com/events/distributed-consensus/) bei dem auch IOTA zur Sprache kommt
 
