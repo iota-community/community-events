@@ -12,3 +12,4 @@
 - [2021-04-26](./stammtisch/2021-04-26/README.md)
 - [2021-05-03](./stammtisch/2021-05-03/README.md)
 - [2021-05-10](./stammtisch/2021-05-10/README.md)
+- [2021-05-17](./stammtisch/2021-05-17/README.md)
