@@ -25,4 +25,6 @@
 23. Schach Turnier ab jetzt jeden Dienstag um 19:00 Uhr CET: [Tweet](https://twitter.com/Vrom14286662/status/1393111727781384192?s=20)
 24. XTeams feiert Geburtstag [Tweet](https://twitter.com/IOTAXTeams/status/1393110551388098562?s=20)
 25. Stefen Wolfram [tweetet](https://twitter.com/stephen_wolfram/status/1392995218417401865?s=20) über ein [Event](https://www.wolfram.com/events/distributed-consensus/) bei dem auch IOTA zur Sprache kommt
+26. IOTA in [Forbes Brazil](https://forbes.com.br/forbes-money/2021/05/6-criptos-que-demandam-menos-energia-que-o-bitcoin-para-a-tesla/)
+27. Dom fängt an IOTA 2.0 zu shillen: [Tweet](https://twitter.com/DomSchiener/status/1393155261590814724?s=20)
 
