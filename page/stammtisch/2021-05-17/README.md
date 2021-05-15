@@ -30,6 +30,6 @@
 28. Sehr gutes neues [Erklärvideo zu IOTA Mana und Co](https://www.youtube.com/watch?app=desktop&v=Sl0JrQ04_uk)
 29. [IOTA Energy Benchmark Blobpost](https://blog.iota.org/internal-energy-benchmarks-for-iota/) von Schmucklos [auf deutsch](https://iota-einsteiger-guide.de/iota_chrysalis-energie-benchmarks.html) übersetzt.
 30. Danach gab es einen regelrechten Tweetstorm der IF zum Thema Umweltfreundlich mit IOTA: [Tweet 1 über bIOTAsphere](https://twitter.com/iota/status/1393196093601628164?s=20); [Tweet 2 über smart Agriculture](https://twitter.com/iota/status/1393196091030470668?s=20); [Tweet 3 über Climate KIC](https://twitter.com/iota/status/1393196087926837252?s=20); [Tweet 4 über ZEBRA](https://twitter.com/iota/status/1393196085443694592?s=20); [Tweet 4 über Norway Powerhouse](https://twitter.com/iota/status/1393196082935517191?s=20); [Tweet 5 über ClimateCHECK](https://twitter.com/iota/status/1393196079693303819?s=20); 
-31. Dom Schiener hat sich [zu Wort gemeldet](https://twitter.com/DomSchiener/status/1393207777162665985?s=20) nach dem [Tweetstorm von Panthos zu IOTA](https://twitter.com/PantosIO/status/1393195744144904195?s=20)
-32. 
+31. Dom Schiener hat sich bezüglich Ethereum Bridge [zu Wort gemeldet](https://twitter.com/DomSchiener/status/1393207777162665985?s=20) nach dem [Tweetstorm von Panthos zu IOTA](https://twitter.com/PantosIO/status/1393195744144904195?s=20)
+32. Neues zum IOTA NFT Marketplace - Launch wohl schon Ende Juni: [Tweet](https://twitter.com/NFTIOTA/status/1393194612299272192?s=19)
 
