@@ -3,7 +3,7 @@
 1. [IOTA Quicktakes](https://www.youtube.com/watch?v=EMewMjJnp9k)
 2. IOTA Treasury Fund: Wir hatten da letzte Woche im Stammtisch erste Überlegungen wie so etwas aussehen könnte. Vielleicht sollten wir darüber nochmal reden
 3. Mark Zuckerberg postet über Bitcoin auf facebook: [Tweet](https://twitter.com/Vrom14286662/status/1392064301620412416?s=20)
-4. IF stellt ein: [Tom Janson für Legal](https://blog.iota.org/welcome-tom-jansson-to-the-iota-foundation/); [Valerie Grappendorf fürs Communication Team](https://blog.iota.org/welcome-valerie-grappendorf-to-the-iota-foundation/)
+4. IF stellt ein: [Tom Janson für Legal](https://blog.iota.org/welcome-tom-jansson-to-the-iota-foundation/); [Valerie Grappendorf fürs Communication Team](https://blog.iota.org/welcome-valerie-grappendorf-to-the-iota-foundation/); Firefly Team stellt ein [Tweet](https://twitter.com/c_varley/status/1393251105971314690?s=20) und noch ein [Tweet der IF über Stellenausschreibungen](https://twitter.com/iota/status/1393144099608346627?s=20)
 5. IOT2Tangle hat ihren Hub auf Chrysalis upgedated: [Tweet](https://twitter.com/iot2tangle/status/1392116859898667009)
 6. Object Management Group hat [getweetet](https://twitter.com/ObjectMgmtGroup/status/1392124592530022404?s=20) über ihr Q1 Technical Committee Meeting (TCM); [Video](https://www.brighttalk.com/webcast/12231/479877) und [Präsi](http://public2.brighttalk.com/resource/core/337241/omg-2021q1-plenary-update-for-march-followup-webcast-slides_739079.pdf)
 7. Auf SatoshiStreetBets wurde [OTA Pumpamentals veröffentlicht](https://www.reddit.com/r/SatoshiStreetBets/comments/n9yafo/iota_pumponomics_from_outer_space_literally_no/?utm_source=share&utm_medium=web2x&context=3) Interessant dass er sich das incentivierte Testnetzt als Airdrop für das Nectar Netz vorstellt..
@@ -27,4 +27,9 @@
 25. Stefen Wolfram [tweetet](https://twitter.com/stephen_wolfram/status/1392995218417401865?s=20) über ein [Event](https://www.wolfram.com/events/distributed-consensus/) bei dem auch IOTA zur Sprache kommt
 26. IOTA in [Forbes Brazil](https://forbes.com.br/forbes-money/2021/05/6-criptos-que-demandam-menos-energia-que-o-bitcoin-para-a-tesla/)
 27. Dom fängt an IOTA 2.0 zu shillen: [Tweet](https://twitter.com/DomSchiener/status/1393155261590814724?s=20)
+28. Sehr gutes neues [Erklärvideo zu IOTA Mana und Co](https://www.youtube.com/watch?app=desktop&v=Sl0JrQ04_uk)
+29. [IOTA Energy Benchmark Blobpost](https://blog.iota.org/internal-energy-benchmarks-for-iota/)
+30. Danach gab es einen regelrechten Tweetstorm der IF zum Thema Umweltfreundlich mit IOTA: [Tweet 1 über bIOTAsphere](https://twitter.com/iota/status/1393196093601628164?s=20); [Tweet 2 über smart Agriculture](https://twitter.com/iota/status/1393196091030470668?s=20); [Tweet 3 über Climate KIC](https://twitter.com/iota/status/1393196087926837252?s=20); [Tweet 4 über ZEBRA](https://twitter.com/iota/status/1393196085443694592?s=20)
+31. Dom Schiener hat sich [zu Wort gemeldet](https://twitter.com/DomSchiener/status/1393207777162665985?s=20) nach dem [Tweetstorm von Panthos zu IOTA](https://twitter.com/PantosIO/status/1393195744144904195?s=20)
+32. 
 
