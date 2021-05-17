@@ -8,9 +8,9 @@
 6. Object Management Group hat [getweetet](https://twitter.com/ObjectMgmtGroup/status/1392124592530022404?s=20) über ihr Q1 Technical Committee Meeting (TCM); [Video](https://www.brighttalk.com/webcast/12231/479877) und [Präsi](http://public2.brighttalk.com/resource/core/337241/omg-2021q1-plenary-update-for-march-followup-webcast-slides_739079.pdf)
 7. Auf SatoshiStreetBets wurde [OTA Pumpamentals veröffentlicht](https://www.reddit.com/r/SatoshiStreetBets/comments/n9yafo/iota_pumponomics_from_outer_space_literally_no/?utm_source=share&utm_medium=web2x&context=3) Interessant dass er sich das incentivierte Testnetzt als Airdrop für das Nectar Netz vorstellt..
 8. GoShimmer v.0.5.9 release: [Tweet mit screenshot](https://twitter.com/Vrom14286662/status/1392090553899159557?s=20)
-9. Elon Musk frägt ober Tesla Doge akzeptieren soll: [Tweet](https://twitter.com/elonmusk/status/1392030108274159619?s=20)
+9. Elon Musk frägt ob Tesla Doge akzeptieren soll: [Tweet](https://twitter.com/elonmusk/status/1392030108274159619?s=20)
 10. Nectar release scheint kurz befor zu stehen, allerdings soll das doch ein gradueller Prozess sein: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1392058292696977408?s=20)
-11. Das einfachIOTA Magazin Nr.2 ist bald bestellbar: [Tweet](https://twitter.com/einfachIOTA/status/1392384983055089667?s=20)
+11. Das einfachIOTA Magazin Nr.2 ist bald bestellbar: [Tweet1](https://twitter.com/einfachIOTA/status/1392384983055089667?s=20); [Tweet2](https://twitter.com/einfachIOTA/status/1393534426282344449?s=20)
 12. Schönes Video über [IOTA, Dell und Intel Partnerschaft](https://www.youtube.com/watch?v=iWp9Ddb1WHk)
 13. LEGALTECH Innovation panel mit Mike Bennett [IF], Standards Coordinator: [Tweet](https://twitter.com/FINTECHCircle/status/1382620547335487490?s=20)
 14. ZEDEDA bei Innovation Showcase: [Tweet1](https://twitter.com/ZededaEdge/status/1385682500635213825?s=20); [Tweet2](https://twitter.com/telecomcouncil/status/1389630917971488768?s=20)
@@ -32,4 +32,8 @@
 30. Danach gab es einen regelrechten Tweetstorm der IF zum Thema Umweltfreundlich mit IOTA: [Tweet 1 über bIOTAsphere](https://twitter.com/iota/status/1393196093601628164?s=20); [Tweet 2 über smart Agriculture](https://twitter.com/iota/status/1393196091030470668?s=20); [Tweet 3 über Climate KIC](https://twitter.com/iota/status/1393196087926837252?s=20); [Tweet 4 über ZEBRA](https://twitter.com/iota/status/1393196085443694592?s=20); [Tweet 4 über Norway Powerhouse](https://twitter.com/iota/status/1393196082935517191?s=20); [Tweet 5 über ClimateCHECK](https://twitter.com/iota/status/1393196079693303819?s=20); 
 31. Dom Schiener hat sich bezüglich Ethereum Bridge [zu Wort gemeldet](https://twitter.com/DomSchiener/status/1393207777162665985?s=20) nach dem [Tweetstorm von Panthos zu IOTA](https://twitter.com/PantosIO/status/1393195744144904195?s=20)
 32. Neues zum IOTA NFT Marketplace - Launch wohl schon Ende Juni: [Tweet](https://twitter.com/NFTIOTA/status/1393194612299272192?s=19)
+33. Elon Musk vs. Bitcoin posts: [Hier gings los mit dem Tweet von Peter McCormack](https://twitter.com/PeterMcCormack/status/1393971202738302986?s=20): [Elon darauf hin sauer und überlegt All-In in Doge zu gehen](https://twitter.com/elonmusk/status/1393979913624072194?s=20);   [Bitcoin highely centralized Tweet](https://twitter.com/elonmusk/status/1393993975019749382?s=20); [Ich habe PayPal erfunden Tweet](https://twitter.com/elonmusk/status/1393995872413888518?s=20); [Tesla hat nicht verkauft Tweet](https://twitter.com/elonmusk/status/1394170030741413888?s=20)
+34. Wir müssen über Layer 1 und Layer 2 smart contracts reden! Hans Moog hatte da mehrere Tweets ([Tweet 1](https://twitter.com/hus_qy/status/1393866664073125890?s=20) ; [Tweet2](https://twitter.com/hus_qy/status/1393878875327930375?s=20)) gepostet über die sich [Strnadl sehr gefreut hat](https://twitter.com/archimate/status/1393875467321716737?s=20)
+35. Hans sein Multivers hat es jetzt offenbar schon sehr weit ins Coordicide Netzwerk geschafft. fehlt nur noch FPC und das geht einfach laut [Hans Moog Tweet](https://twitter.com/hus_qy/status/1394050918274973702?s=20)
+36. 
 
