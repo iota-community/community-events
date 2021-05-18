@@ -4,5 +4,5 @@
 Maneuver Control for Autonomous Vehicles](https://www.corealis.eu/wp-content/uploads/2021/03/Secure_Multi_access_Edge_Computing_assisted_Maneuver_Control_for_autonomous_vehicles.pdf)
 3. Dan Simerman Event: [Blockchain Investing: Questions and Answers From The Front Lines Of The Industry](https://events.flaia.org/events/blockchain-investing-questions-and-answers-from-the-front-lines-of-the-industry-with-dan-simerman)
 4. Die IF [tweetet](https://twitter.com/iota/status/1394593638152347650?s=20) über ["The Problem of Distributed Consensus" von Stefen Wolfram](https://writings.stephenwolfram.com/2021/05/the-problem-of-distributed-consensus/)
-5. DEXES mit Spezial IOTA Folge: [#61 Crypto Meetup - #GREENCRYPTO - ist IOTA die Lösung?](https://www.youtube.com/watch?v=2UVf0FGAY0k)
+5. DEXES mit Spezial-IOTA-Folge: [#61 Crypto Meetup - #GREENCRYPTO - ist IOTA die Lösung?](https://www.youtube.com/watch?v=2UVf0FGAY0k)
 
