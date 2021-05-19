@@ -10,5 +10,5 @@ Maneuver Control for Autonomous Vehicles](https://www.corealis.eu/wp-content/upl
 8. ZEBRA veröffentlicht Video: [Vaccination Certification & Verification, powered by Zebra Technologies](https://www.youtube.com/watch?v=TTfxu9xDaRU)
 9. R/CC Reddit post: [IOTA - Explained from the perspective of someone who works in the data industry](https://www.reddit.com/r/CryptoCurrency/comments/nfghhc/iota_explained_from_the_perspective_of_someone/?utm_medium=android_app&utm_source=share)
 10. Es gibt jetzt ne Bitcoin Pizza, die man aber nicht mit Bitcoin kaufen kann: [Tweet von Pomp](https://twitter.com/APompliano/status/1394638990247088129?s=20)
-11. Kryptomarkt crashed: BTC jetzt 40% unterm ATH
-
+11. Kryptomarkt crashed: BTC jetzt 44% unterm ATH, ist teilweise um 20% in der Stunde gefallen; IOTA 35% in einer Stunde
+12. GoShimmer V.0.6.1 release: [Github](https://github.com/iotaledger/goshimmer/releases/tag/v0.6.1)
