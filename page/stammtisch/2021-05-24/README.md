@@ -22,5 +22,6 @@ Die aktualisierte deutsche Blockchain-Strategie und die damit verbundene politis
 19. Prof B. Buchana freut sich in seinem [Tweet](https://twitter.com/billatnapier/status/1395647718773637128?s=20) über die Arbeit seines Studenten: [A COVID Vaccination Passport Scheme Based on IOTA](https://crossleydan.medium.com/a-covid-vaccination-passport-scheme-based-on-iota-3ab9581bdf08). Auch Dom lobt das mit [seinem Tweet](https://twitter.com/DomSchiener/status/1395650192729329671?s=20)
 20. Sascha ist begeistert über die Ethereum Virtual Machine EVM auf IOTA: [Tweet 1](https://twitter.com/sascha1337/status/1395469344071569408?s=20); [Tweet 2](https://twitter.com/sascha1337/status/1395514161673555971?s=20); [Tweet 3](https://twitter.com/sascha1337/status/1395649962063527938?s=20)
 21. [HelloIOTA Roundup #87](https://www.youtube.com/watch?v=jU9BRKQ4OI0)
+22. [Update zum Pantos-Projekt: Cross-Blockchain Konsens]https://medium.com/pantos/update-zum-pantos-projekt-cross-blockchain-konsens-75721077814 "Betrachten wir nun den Fall, dass ein PAN-Holder eine Menge an PAN, von einem Ledger stammend, an einen anderen PAN-Holder auf einem anderen Ledger senden möchte. Nennen wir die PAN-Holder Michael und Susanne und die Ledger Ethereum und BSC. In diesem Beispiel verwenden wir IOTAs Tangle als Übertragungskanal."
 
 
