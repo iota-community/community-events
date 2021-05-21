@@ -23,5 +23,6 @@ Die aktualisierte deutsche Blockchain-Strategie und die damit verbundene politis
 20. Sascha ist begeistert über die Ethereum Virtual Machine EVM auf IOTA: [Tweet 1](https://twitter.com/sascha1337/status/1395469344071569408?s=20); [Tweet 2](https://twitter.com/sascha1337/status/1395514161673555971?s=20); [Tweet 3](https://twitter.com/sascha1337/status/1395649962063527938?s=20)
 21. [HelloIOTA Roundup #87](https://www.youtube.com/watch?v=jU9BRKQ4OI0)
 22. [Update zum Pantos-Projek: Cross-Blockchain Konsens](https://medium.com/pantos/update-zum-pantos-projekt-cross-blockchain-konsens-75721077814) "Betrachten wir nun den Fall, dass ein PAN-Holder eine Menge an PAN, von einem Ledger stammend, an einen anderen PAN-Holder auf einem anderen Ledger senden möchte. Nennen wir die PAN-Holder Michael und Susanne und die Ledger Ethereum und BSC. In diesem Beispiel verwenden wir IOTAs Tangle als Übertragungskanal."
+23. Jelle Milenar und Wilfried Pimenta bei der DIN Foundation(https://twitter.com/iota/status/1395409412005715984?s=20)?!? Heißt aber Digital Identitet Norden... [Hier die Agenda](https://docs.google.com/document/d/1JmPh7X1-MNl_EuIVUodf1hWHTrt4vLvFT1N_lAjfoEQ/edit#)
 
 
