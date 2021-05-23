@@ -12,7 +12,7 @@ Maneuver Control for Autonomous Vehicles](https://www.corealis.eu/wp-content/upl
 10. Es gibt jetzt ne Bitcoin Pizza, die man aber nicht mit Bitcoin kaufen kann: [Tweet von Pomp](https://twitter.com/APompliano/status/1394638990247088129?s=20)
 11. Kryptomarkt crashed: BTC jetzt 44% unterm ATH, ist teilweise um 20% in der Stunde gefallen; IOTA 35% in einer Stunde; Am nächsten Tag wieder 50% hoch... Es gab Gerüchte von Absprachen: [Tweet](https://twitter.com/crypto_birb/status/1395042808856301575?s=20)
 12. GoShimmer V.0.6.1 release: [Github](https://github.com/iotaledger/goshimmer/releases/tag/v0.6.1)
-13. Die IF stellt ein: [Sercan Toku für Finanzteam](https://blog.iota.org/welcome-sercan-toku-to-the-iota-foundation/amp/?__twitter_impression=true)
+13. Die IF stellt ein: [Sercan Toku für Finanzteam](https://blog.iota.org/welcome-sercan-toku-to-the-iota-foundation/amp/?__twitter_impression=true); [Christian Saur Market Adoption Team](https://blog.iota.org/welcome-christian-saur-to-the-iota-foundation/)
 14. Byte5digitalMedia veröffentlicht ein [IOTA whitepaper](https://www.byte5.de/iota/iota-whitepaper/) und tweetet davon(https://twitter.com/byte5/status/1395312875724546050?s=20); Schmucklos findet es gut[Tweet](https://twitter.com/Schmucklos_/status/1395344574361620483?s=20)
 15. Paper mit 9x Tangle/IOTA: [Tweet IOTAarchive]https://twitter.com/_iotaarchive/status/1395276859022192640?s=20)
 16. ZT Global Coinbetter launched unter anderem IOTA: [Tweet](https://twitter.com/Coinbetter_ZT/status/1395287918181163009?s=21); [Blogpost](https://support.clfxpx.com/hc/en-001/articles/900006215426-Announcement-on-the-launch-of-ADA-IOTA-XTZ-on-ZT-Innovation-Board)
@@ -25,6 +25,11 @@ Die aktualisierte deutsche Blockchain-Strategie und die damit verbundene politis
 22. [Update zum Pantos-Projek: Cross-Blockchain Konsens](https://medium.com/pantos/update-zum-pantos-projekt-cross-blockchain-konsens-75721077814) "Betrachten wir nun den Fall, dass ein PAN-Holder eine Menge an PAN, von einem Ledger stammend, an einen anderen PAN-Holder auf einem anderen Ledger senden möchte. Nennen wir die PAN-Holder Michael und Susanne und die Ledger Ethereum und BSC. In diesem Beispiel verwenden wir IOTAs Tangle als Übertragungskanal."
 23. Jelle Milenar und Wilfried Pimenta bei der DIN Foundation(https://twitter.com/iota/status/1395409412005715984?s=20)?!? Heißt aber Digital Identitet Norden... [Hier die Agenda](https://docs.google.com/document/d/1JmPh7X1-MNl_EuIVUodf1hWHTrt4vLvFT1N_lAjfoEQ/edit#)
 24. Stefan Braun [schreibt auf Twitter](https://twitter.com/SourCL_Stefan/status/1395368528904077323?s=20): "Hard work to implement the crypto lib for #IOTA.#PHP, but i think i did it"
-25. 
+25. Hat sich der Papst jetzt auch noch in die Bitcoin Energieverschwendung Thematik eingeschaltet? [Tweet vom Pontifex](https://twitter.com/Pontifex/status/1394993742226939905?s=19)
+26. IOTA X Teams machen jetzt offenbar ein IOTA Wiki: [Tweet](https://twitter.com/IOTAXTeams/status/1395758230442291203?s=20)
+27. Was geht da mit Nestle? [Michael Nati Tweet](https://twitter.com/michelenati/status/1395812372166610949?s=20) und hier direkt [bei LinkedIN](https://www.linkedin.com/feed/update/urn:li:share:6801577996865069056) Ibukun Onitiju, der "Head of Digital, Nestlé CWAR" war offenbar begeistert und verweißt auf iota.org...
+28. IOTA Außendarstellung: Savemoon mit 800K Follower, IF nicht mal 200K... [Awareness nur 0,45 von 10 Punkten](https://isthiscoinascam.com/check/iota) Soll die IF auf TicTok und Co mehr "Werbung" machen? Influenzer bezahlen, Coin Listings bezahlen? Durch Donations oder durch Treassury Fund? 
+29. [IOTATalks Wochenrückblick](https://www.iota-talk.com/index.php?article/89-wochenr%C3%BCckblick-vom-16-bis-22-mai-2021/)
+30. [IOTA Kalender](https://kalender.digital/e89078088266c4429634): Nächste Woche mit 3 wichtigen Events: [Mike Bennet Event](https://twitter.com/iota/status/1395771774512553985); [Holger Köther Event](https://twitter.com/IOTplus_Network/status/1394592849409228803?s=20); [Zignar Event](https://www.linkedin.com/posts/alessandromorales_blockrockets-monthly-startup-pitch-may-activity-6801221670993498112-rRhg) und [Stephen Wolfram](https://twitter.com/stephen_wolfram/status/1392995218417401865?s=20)
 
 
