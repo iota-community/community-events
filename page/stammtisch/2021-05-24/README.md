@@ -33,5 +33,6 @@ Die aktualisierte deutsche Blockchain-Strategie und die damit verbundene politis
 30. [Phylo veröffentlicht](https://twitter.com/Phylo79288735/status/1396694461523005441?s=20) sein 2. Hornet Tutorial powerd by X-Teams: [A step by step tutorial for beginners (part 2) managing your node](https://phyloiota.medium.com/iota-hornet-node-installation-2-8f2639e04d1d); Hier nochmal das erste: [A step by step tutorial for beginners (part 1) setting up your node](https://phyloiota.medium.com/iota-hornet-node-installation-81747de28338)
 31. [IOTATalks Wochenrückblick](https://www.iota-talk.com/index.php?article/89-wochenr%C3%BCckblick-vom-16-bis-22-mai-2021/)
 32. [IOTA Kalender](https://kalender.digital/e89078088266c4429634): Nächste Woche mit 4 wichtigen Events: [Mike Bennet Event](https://twitter.com/iota/status/1395771774512553985); [Holger Köther Event](https://twitter.com/IOTplus_Network/status/1394592849409228803?s=20); [Zignar Event](https://www.linkedin.com/posts/alessandromorales_blockrockets-monthly-startup-pitch-may-activity-6801221670993498112-rRhg) und [Stephen Wolfram](https://twitter.com/stephen_wolfram/status/1392995218417401865?s=20)
+33. TangleHub mit 10K MPS auf private Tangle... [Tweet](https://twitter.com/Tanglehub_eu/status/1396800318986493956?s=20); [Link auf LinkedIN](https://www.linkedin.com/feed/update/urn:li:share:6802565944611807232)
 
 
