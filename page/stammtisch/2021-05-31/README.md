@@ -8,5 +8,5 @@
 6. Billi Sanders spricht beim Wolfram Event über den Cellular Automata und den Fast Probabilistic Consensus (FPC) von IOTA: [Ankündigungs-Tweet der IF](https://twitter.com/iota/status/1397123158239584266)
 7. IOTA.c lib v0.1.0-beta beta release: [GitHub](https://github.com/iotaledger/iota.c/releases/tag/v0.1.0-beta)
 8. IOT und Blockchain Kaffee mit Holger Köther und Ubirch: [Ankündigungs-Tweet der IF](https://twitter.com/iota/status/1397221113277603841)
-9. Dave Lee frägt in [seinem Tweet](https://twitter.com/heydave7/status/1396949202622586881?s=20) Elon Musk was er u.a. von IOTA hält: [Elon Musks Antwort](https://twitter.com/elonmusk/status/1397064185222078467?s=20): "Doge has dogs & memes, whereas the others do not" 
+9. [Dave Lee frägt im Tweet](https://twitter.com/heydave7/status/1396949202622586881?s=20) Elon Musk was er u.a. von IOTA hält: [Elon Musks Antwort](https://twitter.com/elonmusk/status/1397064185222078467?s=20): "Doge has dogs & memes, whereas the others do not" 
 10. Ledger Integration dauert wohl noch bis in den Juni: [Tweet von Charley Varley](https://twitter.com/c_varley/status/1397211470023348224?s=20)
