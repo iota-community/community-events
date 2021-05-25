@@ -10,3 +10,4 @@
 8. IOT und Blockchain Kaffee mit Holger Köther und Ubirch: [Ankündigungs-Tweet der IF](https://twitter.com/iota/status/1397221113277603841)
 9. [Dave Lee frägt im Tweet](https://twitter.com/heydave7/status/1396949202622586881?s=20) Elon Musk was er u.a. von IOTA hält: [Elon Musks Antwort](https://twitter.com/elonmusk/status/1397064185222078467?s=20): "Doge has dogs & memes, whereas the others do not" 
 10. Ledger Integration dauert wohl noch bis in den Juni hinein: [Tweet von Charley Varley](https://twitter.com/c_varley/status/1397211470023348224?s=20)
+11. [HelloIOTA wird 2 Jahre alt](https://twitter.com/ChrisMuellerHI/status/1397104535030599680?s=20)
