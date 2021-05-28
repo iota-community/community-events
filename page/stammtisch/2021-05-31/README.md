@@ -33,4 +33,4 @@
 31. Towards Full Decentralization with IOTA 2.0: [IF Blogpost](https://blog.iota.org/path-towards-full-decentralization-with-iota-2-0/); [IF Tweet](https://twitter.com/iota/status/1398310675617832961?s=20)
 32. Youtube: [DEXES über Projekt Alvarium](https://www.youtube.com/watch?v=KhBmeVJRxHU); UnCoined: [#24 IOTA's GoShimmer and ICCA](https://www.youtube.com/watch?v=5p-XfmPOyao); Die Dame hat noch viel mehr Videos über IOTA
 33. [Dom im +3 Magazin](https://viewer.joomag.com/-3-magazin-mai-2021/0197391001622036406?short&); [Tweet der IF](https://twitter.com/iota/status/1398331691253616642?s=20)
-34. EU macht scheinbar zentrale Datenbank für den digitalen EUR. [Strnadl regt sich auf Twitter darüber auf](https://twitter.com/archimate/status/1398350507551465475?s=20)
+34. EU macht scheinbar zentrale Datenbank für den digitalen EUR: [Bericht von t3n](https://t3n.de/news/konzept-digital-euro-ezb-1381149/). [Strnadl regt sich auf Twitter darüber auf](https://twitter.com/archimate/status/1398350507551465475?s=20)
