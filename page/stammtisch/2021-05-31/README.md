@@ -36,3 +36,4 @@
 34. EU macht scheinbar zentrale Datenbank für den digitalen EUR: [Bericht von t3n](https://t3n.de/news/konzept-digital-euro-ezb-1381149/); Strnadl regt sich auf [Twitter darüber auf](https://twitter.com/archimate/status/1398350507551465475?s=20)
 35. [Bundesfinanzministerium mit neuem Gesetztesvorhaben für Kryptowährungen](https://www.bundesfinanzministerium.de/Content/DE/Gesetzestexte/Gesetze_Gesetzesvorhaben/Abteilungen/Abteilung_VII/19_Legislaturperiode/2021-05-26-Kryptowertetransfer-Verordnung/0-Gesetz.html)
 36. Nectar heißt jetzt IOTA 2.0 DevNet und Honey Incentiviced IOTA 2.0 DevNet? (It das wie bei: Raider heißt jetzt Twix, sonst ändert sich nix?)
+37. Pollen v0.6.4 release mit Chat Funktion: [Tweet von Angelo Caposele](https://twitter.com/AngeloCapossele/status/1398605462082306049?s=20); [GitHub](https://github.com/iotaledger/goshimmer/releases/tag/v0.6.4)
