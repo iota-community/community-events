@@ -34,3 +34,4 @@
 32. Youtube: [DEXES über Projekt Alvarium](https://www.youtube.com/watch?v=KhBmeVJRxHU); UnCoined: [#24 IOTA's GoShimmer and ICCA](https://www.youtube.com/watch?v=5p-XfmPOyao); Die Dame hat noch viel mehr [Videos über IOTA](https://www.youtube.com/channel/UCtpz9oCJlMzviwSksDMNBLw)
 33. [Dom im +3 Magazin](https://viewer.joomag.com/-3-magazin-mai-2021/0197391001622036406?short&); [Tweet der IF](https://twitter.com/iota/status/1398331691253616642?s=20) dazu
 34. EU macht scheinbar zentrale Datenbank für den digitalen EUR: [Bericht von t3n](https://t3n.de/news/konzept-digital-euro-ezb-1381149/); Strnadl regt sich auf [Twitter darüber auf](https://twitter.com/archimate/status/1398350507551465475?s=20)
+35. [Bundesfinanzministerium mit neuem Gesetztesvorhaben für Kryptowährungen](https://www.bundesfinanzministerium.de/Content/DE/Gesetzestexte/Gesetze_Gesetzesvorhaben/Abteilungen/Abteilung_VII/19_Legislaturperiode/2021-05-26-Kryptowertetransfer-Verordnung/0-Gesetz.html)
