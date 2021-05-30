@@ -39,3 +39,4 @@
 37. Pollen v0.6.4 release mit Chat Funktion: [Tweet von Angelo Caposele](https://twitter.com/AngeloCapossele/status/1398605462082306049?s=20); [GitHub](https://github.com/iotaledger/goshimmer/releases/tag/v0.6.4)
 38. Kritikpunkte von Vitalik Buterin von damals wurden alle behoben: [Tweet](https://twitter.com/outbreeak/status/1398328549967286273?s=20)
 39. Es gab ein Hornet Update (Version 1.0.2): [Tweet mit screenshots](https://twitter.com/Vrom14286662/status/1398699973647216643?s=20)
+40. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/90-wochenr%C3%BCckblick-vom-23-bis-29-mai-2021/&article%2F90-wochenr%C3%BCckblick-vom-23-bis-29-mai-2021%2F=&__twitter_impression=true)
