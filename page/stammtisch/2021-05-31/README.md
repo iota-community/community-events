@@ -44,5 +44,6 @@
 42. INATBA tweetet(https://twitter.com/INATBA_org/status/1399320167054819329?s=20) "Our Executive Director 
 @blocktav presented 10 #supplychain applications and use cases from our valued members! The Supply Chain WG will be launching a position paper to build out this work, to be shared with government stakeholders."
 43. [News zu MOBI](https://twitter.com/dltMOBI/status/1399374781879930884?s=20) FSCC standard wird noch diesen Monat released...
+44. A (mostly) non-technical introduction to IOTA’s mana(https://blog.iota.org/mana-parallels-to-human-voting-systems-and-ingenious-concepts/amp/?__twitter_impression=true)
 
 
