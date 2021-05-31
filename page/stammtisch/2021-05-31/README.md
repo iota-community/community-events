@@ -43,5 +43,6 @@
 41. Jelle Millenar Präsentation bei der DIN Foundation wurde von Sasha live gestreamt(https://twitter.com/sascha1337/status/1399352951114670082?s=20); Hier der direkte Link zum Video(https://www.pscp.tv/w/1BdxYYQbEezxX)
 42. INATBA tweetet(https://twitter.com/INATBA_org/status/1399320167054819329?s=20) "Our Executive Director 
 @blocktav presented 10 #supplychain applications and use cases from our valued members! The Supply Chain WG will be launching a position paper to build out this work, to be shared with government stakeholders."
+43. News zu MOBI(https://twitter.com/dltMOBI/status/1399374781879930884?s=20) FSCC standard wird noch diesen Monat released...
 
 
