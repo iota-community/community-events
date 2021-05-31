@@ -40,3 +40,4 @@
 38. Kritikpunkte von Vitalik Buterin von damals wurden alle behoben: [Tweet](https://twitter.com/outbreeak/status/1398328549967286273?s=20)
 39. Es gab ein Hornet Update (Version 1.0.2): [Tweet mit screenshots](https://twitter.com/Vrom14286662/status/1398699973647216643?s=20)
 40. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/90-wochenr%C3%BCckblick-vom-23-bis-29-mai-2021/&article%2F90-wochenr%C3%BCckblick-vom-23-bis-29-mai-2021%2F=&__twitter_impression=true)
+41. Jelle Millenar Präsentation wurde von Sasha live gestreamt(https://twitter.com/sascha1337/status/1399352951114670082?s=20); Hier der direkte Link zum Video(https://www.pscp.tv/w/1BdxYYQbEezxX)
