@@ -40,4 +40,8 @@
 38. Kritikpunkte von Vitalik Buterin von damals wurden alle behoben: [Tweet](https://twitter.com/outbreeak/status/1398328549967286273?s=20)
 39. Es gab ein Hornet Update (Version 1.0.2): [Tweet mit screenshots](https://twitter.com/Vrom14286662/status/1398699973647216643?s=20)
 40. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/90-wochenr%C3%BCckblick-vom-23-bis-29-mai-2021/&article%2F90-wochenr%C3%BCckblick-vom-23-bis-29-mai-2021%2F=&__twitter_impression=true)
-41. Jelle Millenar Präsentation wurde von Sasha live gestreamt(https://twitter.com/sascha1337/status/1399352951114670082?s=20); Hier der direkte Link zum Video(https://www.pscp.tv/w/1BdxYYQbEezxX)
+41. Jelle Millenar Präsentation bei der DIN Foundation wurde von Sasha live gestreamt(https://twitter.com/sascha1337/status/1399352951114670082?s=20); Hier der direkte Link zum Video(https://www.pscp.tv/w/1BdxYYQbEezxX)
+42. INATBA tweetet(https://twitter.com/INATBA_org/status/1399320167054819329?s=20) "Our Executive Director 
+@blocktav presented 10 #supplychain applications and use cases from our valued members! The Supply Chain WG will be launching a position paper to build out this work, to be shared with government stakeholders."
+
+
