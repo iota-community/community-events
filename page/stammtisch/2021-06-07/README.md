@@ -8,3 +8,4 @@
 6. [Blackpin in der regionalen Zeitung](https://twitter.com/BLACKPIN_GmbH/status/1399706627213774852) "zeigt Haschka Helmer den Zuschauern auf, was IOTA und was ein Tangle sind" => vogelwild...
 7. IF Blogpost [Towards Full Decentralization with IOTA 2.0](https://blog.iota.org/path-towards-full-decentralization-with-iota-2-0/) auf [deutsch](https://iota-kurs.de/auf-dem-weg-zur-vollstaendigen-dezentralisierung-mit-iota-2-0/)
 8. Hans Moog erklärt Optimierungen nach Coordicide: [The Trust Machine — Part1: Sybil Protection](https://husqy.medium.com/the-trust-machine-part1-sybil-protection-1799861fa56); Schmucklos [deutsche Übersetzung](https://iota-einsteiger-guide.de/iota-die-vertrauensmaschine-teil1-sybil-schutz.html)
+9. Charley Varley klopft bei Exodus and(https://twitter.com/c_varley/status/1400039406824738820?s=20) und Dom unsterstütz ihn mit [seinem Tweet](https://twitter.com/DomSchiener/status/1400040051610955777?s=20)
