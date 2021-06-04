@@ -25,3 +25,4 @@
 24. oopsmonk [tweetet](https://twitter.com/oops_monk/status/1400381731958448131?s=20) über IOTA wallet auf ESP32-C3; Hier der [GiHub Code](https://github.com/oopsmonk/iota_esp32_wallet/tree/dev_chrysalis)
 25. Holger Köther und Ubirch: [IoT+ Coffee Break: Blockchain / DLT with IOTA, IOT Tribe and UBIRCH](https://www.youtube.com/watch?v=7sC6P12uQgg)
 26. Peter Bush freut sich [auf LinkedIN](https://www.linkedin.com/posts/peter-busch-18286923_today-we-propose-to-offer-europeans-a-new-activity-6806466385703653376-HWss) über die Aussage von U. von der Leyen über: [Eurpeen Commission proposes a trusted and secure Digital Identity for all Europeans](https://ec.europa.eu/commission/presscorner/detail/en/IP_21_2663)
+27. Crypto News Flasch: [Hat IOTA gerade das Blockchain-Trilemma gelöst?](https://www.crypto-news-flash.com/de/hat-iota-gerade-das-blockchain-trilemma-geloest/)
