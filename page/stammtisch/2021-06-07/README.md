@@ -26,4 +26,4 @@
 25. Holger Köther und Ubirch: [IoT+ Coffee Break: Blockchain / DLT with IOTA, IOT Tribe and UBIRCH](https://www.youtube.com/watch?v=7sC6P12uQgg)
 26. Peter Bush freut sich [auf LinkedIN](https://www.linkedin.com/posts/peter-busch-18286923_today-we-propose-to-offer-europeans-a-new-activity-6806466385703653376-HWss) über die Aussage von U. von der Leyen über: [Eurpeen Commission proposes a trusted and secure Digital Identity for all Europeans](https://ec.europa.eu/commission/presscorner/detail/en/IP_21_2663)
 27. Crypto News Flasch: [Hat IOTA gerade das Blockchain-Trilemma gelöst?](https://www.crypto-news-flash.com/de/hat-iota-gerade-das-blockchain-trilemma-geloest/)
-28. Elon Musk [tweetet ein Meme zu Bitoin](https://twitter.com/elonmusk/status/1400620080090730501?s=20) und der Kurs fällt um 8%
+28. Elon Musk [tweetet ein Meme zu Bitoin](https://twitter.com/elonmusk/status/1400620080090730501?s=20) und der Kurs fällt um 10%
