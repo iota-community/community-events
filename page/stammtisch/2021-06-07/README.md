@@ -27,4 +27,10 @@
 26. Holger Köther und Ubirch: [IoT+ Coffee Break: Blockchain / DLT with IOTA, IOT Tribe and UBIRCH](https://www.youtube.com/watch?v=7sC6P12uQgg)
 27. Peter Bush freut sich [auf LinkedIN](https://www.linkedin.com/posts/peter-busch-18286923_today-we-propose-to-offer-europeans-a-new-activity-6806466385703653376-HWss) über die Aussage von U. von der Leyen über: [Eurpeen Commission proposes a trusted and secure Digital Identity for all Europeans](https://ec.europa.eu/commission/presscorner/detail/en/IP_21_2663)
 28. Crypto News Flasch: [Hat IOTA gerade das Blockchain-Trilemma gelöst?](https://www.crypto-news-flash.com/de/hat-iota-gerade-das-blockchain-trilemma-geloest/)
-29. Elon Musk [tweetet ein Meme zu Bitoin](https://twitter.com/elonmusk/status/1400620080090730501?s=20) und der Kurs fällt um 10%
+29. Elon Musk [tweetet ein Meme zu Bitoin](https://twitter.com/elonmusk/status/1400620080090730501?s=20) und der Kurs fällt um 10%; Er [tweetet positiv](https://twitter.com/elonmusk/status/1401091921746006017?s=20) von Vitalik Interview mit Lex Friedmans (wo ja bald auch Hans Moog sein wird... [Siehe Tweet von H. Moog](https://twitter.com/hus_qy/status/1400605170162143235?s=20))
+30. UnCoined [Youtube Video über IOTA 2.0 devNet](https://www.youtube.com/watch?v=5U0kKrYr-3M)
+31. Börse [Bitrue supports IOTA Chrysalis](https://twitter.com/BitrueOfficial/status/1401094468799922178?s=20)
+32. Die [IF tweetet](https://twitter.com/iota/status/1400773652384190465?s=20) über STMicroelectronics und deren [Blogpost zum Chrysalis Update](https://blog.st.com/x-cube-iota1/amp/?__twitter_impression=true)
+33. [IOTA 2.0 Research Specifications](https://blog.iota.org/iota-2-0-research-specifications/)
+34. Billy Sanders mit dem Blogpost [Fully decentralized IOTA 2.0 explained in under 3 minutes](https://blog.iota.org/fully-decentralized-iota-explained-in-under-3-minutes/) und hier [auf deutsch von Schmucklos](https://iota-einsteiger-guide.de/vollstaendig-dezentralisiertes-iota-2-0.html)
+35. 
