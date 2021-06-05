@@ -32,5 +32,6 @@
 31. Börse [Bitrue supports IOTA Chrysalis](https://twitter.com/BitrueOfficial/status/1401094468799922178?s=20)
 32. Die [IF tweetet](https://twitter.com/iota/status/1400773652384190465?s=20) über STMicroelectronics und deren [Blogpost zum Chrysalis Update](https://blog.st.com/x-cube-iota1/amp/?__twitter_impression=true)
 33. [IOTA 2.0 Research Specifications](https://blog.iota.org/iota-2-0-research-specifications/)
-34. Billy Sanders mit dem Blogpost [Fully decentralized IOTA 2.0 explained in under 3 minutes](https://blog.iota.org/fully-decentralized-iota-explained-in-under-3-minutes/) und hier [auf deutsch von Schmucklos](https://iota-einsteiger-guide.de/vollstaendig-dezentralisiertes-iota-2-0.html)
-35. 
+34. Villiam Sanders mit dem Blogpost [Fully decentralized IOTA 2.0 explained in under 3 minutes](https://blog.iota.org/fully-decentralized-iota-explained-in-under-3-minutes/) und hier [auf deutsch von Schmucklos](https://iota-einsteiger-guide.de/vollstaendig-dezentralisiertes-iota-2-0.html)
+35. Was geht da diese Woche mit MOBI? [Tweet von MOBI](https://twitter.com/dltMOBI/status/1400996544355123201?s=20)
+36. [Bitcoin Konferenz in Miami](Bitcoin 2021 Livestream - Day 1) mit ein paar verrückten Szenen: [Michael Saylor Einlauf vergleichbar mit Bitconnect](https://twitter.com/c4chaos/status/1401094537112526853?s=20) einer war [Altcoiner und wurde ausgepfiffen](https://twitter.com/stonecoldpat0/status/1400892305868001284?s=20) Jack Dorsey der CEO von Twitter hat sich wohl auch geäußert [Dercrypt schreibt darüber](https://decrypt.co/72797/jack-dorsey-all-in-bitcoin-altcoins-ethereum-dogecoin?utm_source=twitter&utm_medium=social&utm_campaign=auto)
