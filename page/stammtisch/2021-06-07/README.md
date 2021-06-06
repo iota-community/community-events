@@ -20,7 +20,7 @@
 19. Noch besser liest sich der [Hans Moog Tweetstorm hier](https://threadreaderapp.com/thread/1400218573700833284.html)
 20. MOBI über digitale Identitäten und Co: [Rebuilding the web of trust](https://www.youtube.com/watch?v=8vWLcxAXWUQ) "MOBI Netzwerk starts soon"... IOTA inside?
 21. IOTA AS: Die Zeit ist abgelaufen das IOTA AS Netzwerk wurde von keinem Node unterstützt [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1400389055729315845?s=20)
-22. STMicroeclectronics shillt IOTA mit [Tweet und Video](https://twitter.com/ST_World/status/1400391942521950208?s=19) wo es sogar IOTA coins regnet...
+22. STMicroelectronics shillt IOTA mit [Tweet und Video](https://twitter.com/ST_World/status/1400391942521950208?s=19) wo es sogar IOTA coins regnet...
 23. [IOTA Talks mit Dom Schiener](https://youtu.be/VxUZW2OrWsE) Spezialfolge zum Release von IOTA 2.0 und digital Assets
 24. oopsmonk [tweetet](https://twitter.com/oops_monk/status/1400381731958448131?s=20) über IOTA wallet auf ESP32-C3; Hier der [GiHub Code](https://github.com/oopsmonk/iota_esp32_wallet/tree/dev_chrysalis)
 25. DEXES mit 2 Videos zu IOTA: [Wird #IOTA den kompletten #Cryptospace übernehmen?](https://www.youtube.com/watch?v=WXd-1KWSjPI&t=4s); [#67 Crypto Meetup IOTA 2.0 Devnet Realease - Der Tag danach](https://www.youtube.com/watch?v=R4jJQFTXYKM)
