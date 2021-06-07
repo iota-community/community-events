@@ -40,10 +40,11 @@
 40. Wir sollten uns in diesem Zusammenhang auch nochmal mit Strike beschäftigen [Businesswire feiert das](https://www.businesswire.com/news/home/20210605005045/en/Strike-Drives-Bitcoin-Forward-as-El-Salvador-Becomes-World%E2%80%99s-First-Country-to-Adopt-Bitcoin-as-Legal-Tender) ohne auf die Nachteile einzugehen. Aber ist Strike nicht zentralisiert?
 41. Siemens Erlangen sucht wohl IOTA Programmierer [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1400761499145191424?s=20)
 42. Dom Schiener will sich für Klimaschutz einsetzen und drückt das mit seinem [Tweet](https://twitter.com/DomSchiener/status/1401263257881649157?s=20) aus
-43. Erster Stromzähler auf Blockchaintechnologis (Tangle): [link](https://www.emu-metering.de/data/import/Dokument/DB%20EMU%20Professional%20II%20d.pdf)
+43. Erster Stromzähler auf Blockchaintechnologie (Tangle): [link](https://www.emu-metering.de/data/import/Dokument/DB%20EMU%20Professional%20II%20d.pdf)
 44. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/91-wochenr%C3%BCckblick-vom-30-mai-bis-5-juni-2021/)
 45. Zum Thema DAO gibt es wohl was neues: [Community Call with Dom on June 12th - community Questions](https://github.com/iota-community/Community-Governance/discussions/31)
 46. [ITSA International Token Standardisation Association stuft IOTA neu ein](https://twitter.com/itsa_global/status/1401842373794091008?s=20)
 47. Send messages to Tangle via JavaScript sehr einfach: [Tweet](https://twitter.com/karuma303/status/1401835488911282176?s=20); [Webseite PoC](https://iota-react.vercel.app/)
-48. 
+48. Nach regen Diskussionen in der Konsens Nonsens Gruppe u.a zwischen Hans Moog und Blocktrainer geht [Hans Moog kurz live auf Sendung](https://www.twitch.tv/videos/1048155332?t=0h45m30s)
+49. Kein IOTA aber vielleicht interessant:[Bosch Halbleiterfabrik in Dresden: Live Eröffnungsfeier](https://www.bosch-presse.de/pressportal/de/de/live-eroeffnungsfeier-halbleiterfabrik-dresden.html)
 
