@@ -42,3 +42,6 @@
 42. Dom Schiener will sich für Klimaschutz einsetzen und drückt das mit seinem [Tweet](https://twitter.com/DomSchiener/status/1401263257881649157?s=20) aus
 43. Erster Stromzähler auf Blockchaintechnologis (Tangle): [link](https://www.emu-metering.de/data/import/Dokument/DB%20EMU%20Professional%20II%20d.pdf)
 44. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/91-wochenr%C3%BCckblick-vom-30-mai-bis-5-juni-2021/)
+45. Zum Thema DAO gibt es wohl was neues: [Community Call with Dom on June 12th - community Questions](https://github.com/iota-community/Community-Governance/discussions/31)
+46. [IOTA ITSA Gloabal Standard](https://twitter.com/itsa_global/status/1401842373794091008?s=19)
+47. Send messages to Tangle via JavaScript sehr einfach: [Tweet](https://twitter.com/karuma303/status/1401835488911282176?s=20); [Webseite PoC](https://iota-react.vercel.app/)
