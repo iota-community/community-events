@@ -13,7 +13,7 @@
 11. Hat Cointelegraph gerade den Release von IOTA 2.0 Devnet vorweg genommen?!? [Tweet](https://cointelegraph.com/news/iota-2-0-nectar-devnet-goes-live-to-achieve-full-decentralization). Die Freundin von Dom hat das [getweetet](https://twitter.com/AyeletNoff/status/1400063315347398659?s=20)... Und Dom macht auch Fomo mit seinem [Tweet "Today we see full spectrum"](https://twitter.com/DomSchiener/status/1400055095853731845?s=20)
 12. [IOTA 2.0 Devnet release](https://blog.iota.org/iotav2devnet/); Node aufsetzten: [Code](https://github.com/iotaledger/goshimmer/releases); Lern: [Research Spezifications](https://github.com/iotaledger/IOTA-2.0-Research-Specifications); [Neue Webseite zu IOTA 2.0 Devnet](https://v2.iota.org/); [Tangle Explorer](https://v2.iota.org/visualizer); [Developer Dokumentation](http://goshimmer.docs.iota.org/tutorials/setup.html)
 13. Twitter Reaktionen zum Release: [IOTA Foundation](https://twitter.com/iota/status/1400070431441358859?s=20); [Dom Schiener](https://twitter.com/DomSchiener/status/1400075861462822918?s=20); [Mat Yarger](https://twitter.com/Mat_Yarger/status/1400087097504153603?s=20); [Charlie Varley](https://twitter.com/c_varley/status/1400083583902130179?s=20)
-14. Coinmarketcap hat die [Beschreibung von IOTA geupdated](https://coinmarketcap.com/alexandria/article/a-deep-dive-into-iota); Geschrieben von Jakub Cech
+14. Coinmarketcap hat die [Beschreibung von IOTA geupdated](https://coinmarketcap.com/alexandria/article/a-deep-dive-into-iota); Geschrieben von Jakub Cech; Die [IF tweetet](https://twitter.com/iota/status/1401841402502430723?s=20) auch darüber
 16. IF Blogpost: [IOTA Native Digital Assets - DevNet Version](https://blog.iota.org/iota-native-digital-assets-devnet/): Dazu der [Tweet der IF](https://twitter.com/iota/status/1400091401078153219?s=20); Hier das [Neue Wallet](https://github.com/iotaledger/IOTA-2.0-DevNet-wallet/releases/tag/v0.7.0) und die [Developer Dokumentation](http://goshimmer.docs.iota.org/tutorials/wallet.html)
 17. Hier die [Research Spezifikations für IOTA 2.0](https://github.com/iotaledger/IOTA-2.0-Research-Specifications)
 18. Hans Moog [tweetet](https://twitter.com/hus_qy/status/1400218573700833284?s=19) über IOTAs finale Lösung: "I believe that there is just a single sweet spot in the whole crypto space that allows this additional level of freedom and I believe that there will ultimately not be a single design decision in the whole IOTA protocol that will in any way be questionable." ... "I am very confident that we are very very close to reach that goal of creating the best DLT humans could possibly ever build." 
@@ -43,5 +43,7 @@
 43. Erster Stromzähler auf Blockchaintechnologis (Tangle): [link](https://www.emu-metering.de/data/import/Dokument/DB%20EMU%20Professional%20II%20d.pdf)
 44. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/91-wochenr%C3%BCckblick-vom-30-mai-bis-5-juni-2021/)
 45. Zum Thema DAO gibt es wohl was neues: [Community Call with Dom on June 12th - community Questions](https://github.com/iota-community/Community-Governance/discussions/31)
-46. [IOTA ITSA Gloabal Standard](https://twitter.com/itsa_global/status/1401842373794091008?s=19)
+46. [ITSA International Token Standardisation Association stuft IOTA neu ein](https://twitter.com/itsa_global/status/1401842373794091008?s=20)
 47. Send messages to Tangle via JavaScript sehr einfach: [Tweet](https://twitter.com/karuma303/status/1401835488911282176?s=20); [Webseite PoC](https://iota-react.vercel.app/)
+48. 
+
