@@ -47,4 +47,5 @@
 47. Send messages to Tangle via JavaScript sehr einfach: [Tweet](https://twitter.com/karuma303/status/1401835488911282176?s=20); [Webseite PoC](https://iota-react.vercel.app/)
 48. Nach regen Diskussionen in der Konsens Nonsens Gruppe u.a zwischen Hans Moog und Blocktrainer geht [Hans Moog kurz live auf Sendung](https://www.twitch.tv/videos/1048155332?t=0h45m30s)
 49. Kein IOTA aber vielleicht interessant: [Bosch Halbleiterfabrik in Dresden: Live Eröffnungsfeier](https://www.bosch-presse.de/pressportal/de/de/live-eroeffnungsfeier-halbleiterfabrik-dresden.html)
+50. Peter Altmaier informiert sich beim Gaiax Parnter [51nodes.io](https://www.51nodes.io/) über die Self Soreign Identity und shillt die deutschen Startups zu dem Thema im [Tweet vom Bundesministerium für Wirtschaft und Energie](https://twitter.com/BMWi_Bund/status/1400835784735965192?s=20)
 
