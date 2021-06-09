@@ -12,3 +12,5 @@
 10. Die IF [tweetet](https://twitter.com/iota/status/1402250615170945027?s=20) über das [Autopeering Modul](https://v2.iota.org/how-it-works/module3) mit einem Gif. Warum haben die Punkte da eigentlich nur 2 Nachbarn?
 11. Neues Paper mit 48x Tangle/IOTA: [Tweet von IOTAarchive](https://twitter.com/_iotaarchive/status/1402529649331249154?s=20); [PDF download](https://t.co/rdCOnQUcTn?amp=1)
 12. Jelle Millenar mit [Tweetstorm](https://twitter.com/JelleFm/status/1402531849356857347?s=20) über die [Pressebericht der EU zum Thema Digitale Identität](https://ec.europa.eu/commission/presscorner/detail/en/IP_21_2663)
+13. Ein Event bei Bosch wo der DellTech CEO über digital trust redet... [Tweet](https://twitter.com/Bosch_IO/status/1397836238413914113?s=20)
+
