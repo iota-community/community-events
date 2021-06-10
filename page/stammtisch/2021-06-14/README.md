@@ -21,4 +21,5 @@
 19. IOTA in einer Zeitschrift: [IF Tweet](https://twitter.com/iota/status/1402687068749369345?s=19); [Artikel S.20-23](https://issuu.com/pmmimediagroup/docs/juneaw2021?fr=sNmYwNzM0MzgzODA); lese ich da was von Siemens und Datenmarktplatz am Ende?
 20. EU Comission Horizon 2020: [SECurity And privacy protectioN in Internet of Things devices](https://cordis.europa.eu/project/id/101019645); IF bekommt 235000EUR
 21. NFT Marketplace auf IOTA: Der Plan war "End of June" [siehe Tweet1](https://twitter.com/NFTIOTA/status/1393194612299272192?s=20); Jetzt heißt es alles nach Plan [Tweet 2](https://twitter.com/NFTIOTA/status/1402866903870283780?s=20)
+22. Donnerstag um 12 Uhr: CovPass-Projektmanager Ronald Fritz (@IBMDACH) gibt informationen zum Start des #CovPass-App bekannt: [Tweet](https://twitter.com/BMG_Bund/status/1402915832280322051?s=20)
 
