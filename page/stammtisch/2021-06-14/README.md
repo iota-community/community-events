@@ -1,7 +1,7 @@
 ## Stammtischthemen für Montag den 14.06.2021
 
 1. IOTA Quicktakes [deutsch](https://www.youtube.com/watch?v=HIVhfvG6yTk); [englisch](https://www.youtube.com/watch?v=HIVhfvG6yTk&t=1s)
-2. IOTA DAO Governance Besprechung mit Dom am Samstag [Fragen](https://github.com/iota-community/Community-Governance/discussions/31)
+2. IOTA DAO Governance Besprechung mit Dom am Samstag [Fragen](https://github.com/iota-community/Community-Governance/discussions/31); [Video](https://www.youtube.com/watch?v=SOY3reRHus4)
 3. Michele Nati bei Fireware Event: [IF Tweet](https://twitter.com/iota/status/1402188688768090114?s=20); Link zum [Event: "Usecases Blockchain"](https://www.fiware.org/events/use-cases-blockchain/)
 4. Neues Whitepaper vom World Economic Forum über DeFI: [Decentralized Finance (DeFi) Policy-Maker Toolkit](http://www3.weforum.org/docs/WEF_DeFi_Policy_Maker_Toolkit_2021.pdf)
 5. El Salvador hat den [Bitcoin Gesetzesvorschlag veröffentlicht](https://twitter.com/DocumentingBTC/status/1402448396171067392?s=19) der schon ziemlich weit geht. Wurde eine Tag später umgesetzt siehe [Tweet vom Präsident](https://twitter.com/nayibbukele/status/1402507224916836352?s=21); Hier hat der [Präsident sich bei einem Bitcointalk erklärt](https://soundcloud.com/user-78867804-972462309/btc-legal-tender?ref=clipboard&p=a&c=0&utm_campaign=social_sharing&utm_medium=text&utm_source=clipboard)
@@ -23,4 +23,8 @@
 21. NFT Marketplace auf IOTA: Der Plan war "End of June" [siehe Tweet1](https://twitter.com/NFTIOTA/status/1393194612299272192?s=20); Jetzt heißt es alles nach Plan [Tweet 2](https://twitter.com/NFTIOTA/status/1402866903870283780?s=20)
 22. Donnerstag um 12 Uhr: CovPass-Projektmanager Ronald Fritz (@IBMDACH) gibt informationen zum Start des #CovPass-App bekannt: [Tweet](https://twitter.com/BMG_Bund/status/1402915832280322051?s=20)
 23. IOTA-client major(!) version 1.0.0 of the official #IOTA client library was just release: [Tweet](https://twitter.com/karuma303/status/1403298732246982659?s=20); [Link zu crates.io](https://crates.io/crates/iota-client/versions)
+24. Supllychain für Wein: Tweet der IF(https://twitter.com/iota/status/1403290977025105921?s=20); Video: [Zebra Technologies and IOTA - The Value of Asset Visibility & Traceability](https://www.youtube.com/watch?v=eAvJ5Xk8Lyk)
+25. Es gab ein Apple Event und Tesla hat das neue Model S Plain veröffentlicht [krasse Beschleunigung](https://www.youtube.com/watch?v=xHLQHO5Uc40), falls darüber jemand reden will...
+26. Youtube Newcomer: [Uncoined über IOTA Healthcare](https://www.youtube.com/watch?v=LupXzwUQrYI); [DEXES über IOTA + Fetch.ai](https://www.youtube.com/watch?v=KJBCiOcNqXo)
+27. Bundestag beschließt Lieferkettengesetz (Es geht um Einhaltung von Menschenrechten und Umweltstandards bei ihren Zulieferern achten). Könnte gut für IOTA sein...
 
