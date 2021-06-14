@@ -39,4 +39,5 @@
 37. Kein Stammtisch ohne Elon Musk Themen... Wenn Bitcoin 50% renewable verkauft er wieder Teslas mit BTC: [Coindesk Bericht](https://www.coindesk.com/tesla-will-resume-taking-bitcoin-as-payment-once-miners-go-50-green-musk-says)
 38. IOTA.PHP wurde von Stefan veröffentlicht: [Tweet](https://twitter.com/SourCL_Stefan/status/1404398267262291978?s=20); [PHP library](https://github.com/iota-community/iota.php) to use IOTA REST API to help node management and tangle queries; Dazu noch eine [Help Seite](https://github.com/iota-community/iota.php/blob/main/help/000_index.md)
 39. MOBI meldet sich nochmal zum Thema Supplychain und taggged dabei IOTA: [Tweet1](https://twitter.com/dltMOBI/status/1404447249392975873?s=20); Hier findet man das Paper zum neuen [Standard MOBI Supply Chain](https://dlt.mobi/standards/)
-
+40. Dom Schiener bei Greentech Fest: [Tweet der IF](https://twitter.com/iota/status/1404495199812861961?s=20)
+41. Hans Moog vs. Nano: [Tweetstorm](https://twitter.com/hus_qy/status/1404472818402799617?s=20)
