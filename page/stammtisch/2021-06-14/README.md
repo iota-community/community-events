@@ -8,7 +8,7 @@
 6. Die Tweets der IF werden immer selbstbewuster: [Dom Schiener Tweet](https://twitter.com/DomSchiener/status/1402340126903185409?s=209); [Mat Yarger](https://twitter.com/Mat_Yarger/status/1401899441473429510?s=20); [Holger Köther](https://twitter.com/HolgerKoether/status/1402557908588564480?s=20)
 7. Neues Kapitel im Avalanche Drama: [Tweetstorm von Hans Moog](https://twitter.com/hus_qy/status/1402333347913900034?s=20)
 8. MOBI's Finance, Securitization, and Smart Contracts (FSSC) Standards: [Tweets](https://twitter.com/dltMOBI/status/1402265941820510218?s=20); [Webseite mit papers](https://dlt.mobi/standards/)
-9. Die IF stellt ein: [Nora Mooney als Social Media Manager](https://blog.iota.org/welcome-nora-mooney-to-the-iota/)
+9. Die IF stellt ein: [Nora Mooney als Social Media Manager](https://blog.iota.org/welcome-nora-mooney-to-the-iota/); [David Phillips für Communication team](https://blog.iota.org/welcome-david-phillips-to-the-iota-foundation/)
 10. Die IF [tweetet](https://twitter.com/iota/status/1402250615170945027?s=20) über das [Autopeering Modul](https://v2.iota.org/how-it-works/module3) mit einem Gif. Warum haben die Punkte da eigentlich nur 2 Nachbarn?
 11. Neues Paper mit 48x Tangle/IOTA: [Tweet von IOTAarchive](https://twitter.com/_iotaarchive/status/1402529649331249154?s=20); [PDF download](https://t.co/rdCOnQUcTn?amp=1)
 12. Jelle Millenar mit [Tweetstorm](https://twitter.com/JelleFm/status/1402531849356857347?s=20) über die [Pressebericht der EU zum Thema Digitale Identität](https://ec.europa.eu/commission/presscorner/detail/en/IP_21_2663); [Dom ist auch begeistert](https://twitter.com/DomSchiener/status/1402543659044724739?s=20) und die [IF tweetet](https://twitter.com/iota/status/1402603906052628481?s=20) darüber
@@ -17,7 +17,7 @@
 15. Holger Köther [tweetet](https://twitter.com/HolgerKoether/status/1402582722854404097?s=09) darüber, dass er am 25.Juni einen Vortrag bei der Uni Heilbronn macht mit Senseering EDAG und Honda
 16. einfachIOTA sucht Leute die über IOTA Greentech etwas schreiben wollen im 4. eiMag: [Tweet](https://twitter.com/einfachIOTA/status/1402564041583779840?s=20)
 17. Hans Moog hat einen [Thread](https://twitter.com/MZietzke/status/1384201848047824904) geteilt, der Miner Extractable Value (MEV) und Lightning als schlechte Kombination ansieht (vielleicht will er uns das genauer erklären)
-18. Fetch AI + IOTA: [IF Blogpost](https://blog.iota.org/fetch-ai-and-the-iota-foundation-collaborate-to-offer-autonomous-economic-agents-on-the-tangle/), hier [auf deutsch](https://iota-einsteiger-guide.de/iota-kuenstliche-intelligenz-ki.html) und von Fetch.ai kamen auch einige Tweets: [Tweet1](https://twitter.com/Fetch_ai/status/1402657536378085377?s=20); [Tweetstorm](https://twitter.com/Fetch_ai/status/1402657553918611461?s=20)
+18. Fetch AI + IOTA: [IF Blogpost](https://blog.iota.org/fetch-ai-and-the-iota-foundation-collaborate-to-offer-autonomous-economic-agents-on-the-tangle/), hier [auf deutsch](https://iota-einsteiger-guide.de/iota-kuenstliche-intelligenz-ki.html) und von Fetch.ai kamen auch einige Tweets: [Tweet1](https://twitter.com/Fetch_ai/status/1402657536378085377?s=20); [Tweetstorm](https://twitter.com/Fetch_ai/status/1402657553918611461?s=20); Youtube Video: [Fetch.AI and IOTA "network" partnership](https://www.youtube.com/watch?v=KjwYTpF6KA0)
 19. IOTA in einer Zeitschrift: [IF Tweet](https://twitter.com/iota/status/1402687068749369345?s=19); [Artikel S.20-23](https://issuu.com/pmmimediagroup/docs/juneaw2021?fr=sNmYwNzM0MzgzODA); lese ich da was von Siemens und Datenmarktplatz am Ende?
 20. EU Comission Horizon 2020: [SECurity And privacy protectioN in Internet of Things devices](https://cordis.europa.eu/project/id/101019645); IF bekommt 235000EUR
 21. NFT Marketplace auf IOTA: Der Plan war "End of June" [siehe Tweet1](https://twitter.com/NFTIOTA/status/1393194612299272192?s=20); Jetzt heißt es alles nach Plan [Tweet 2](https://twitter.com/NFTIOTA/status/1402866903870283780?s=20)
@@ -26,5 +26,7 @@
 24. Supllychain für Wein: Tweet der IF(https://twitter.com/iota/status/1403290977025105921?s=20); Video: [Zebra Technologies and IOTA - The Value of Asset Visibility & Traceability](https://www.youtube.com/watch?v=eAvJ5Xk8Lyk)
 25. Es gab ein Apple Event und Tesla hat das neue Model S Plain veröffentlicht [krasse Beschleunigung](https://www.youtube.com/watch?v=xHLQHO5Uc40), falls darüber jemand reden will...
 26. Youtube Newcomer: [Uncoined über IOTA Healthcare](https://www.youtube.com/watch?v=LupXzwUQrYI); [DEXES über IOTA + Fetch.ai](https://www.youtube.com/watch?v=KJBCiOcNqXo)
-27. Bundestag beschließt Lieferkettengesetz (Es geht um Einhaltung von Menschenrechten und Umweltstandards bei ihren Zulieferern achten). Könnte gut für IOTA sein...
+27. [Bundestag beschließt Lieferkettengesetz](https://lieferkettengesetz.de/aktuelles/) (Es geht um Einhaltung von Menschenrechten und Umweltstandards bei ihren Zulieferern achten). Könnte gut für IOTA sein...
+28. TradeMark East Africa Event am 15-16 Juni: [Tweet 1](https://twitter.com/TradeMarkEastA/status/1402872908658184194?s=20); [Tweet 2](https://twitter.com/TradeMarkEastA/status/1403254901036232709?s=20); Event [Register here](https://eudevdays.eu/community/)
+29. 
 
