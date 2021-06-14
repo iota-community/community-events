@@ -17,3 +17,4 @@
 - [2021-05-31](./stammtisch/2021-05-31/README.md)
 - [2021-06-07](./stammtisch/2021-06-07/README.md)
 - [2021-06-14](./stammtisch/2021-06-14/README.md)
+- [2021-06-21](./stammtisch/2021-06-21/README.md)
