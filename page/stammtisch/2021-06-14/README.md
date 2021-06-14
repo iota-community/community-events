@@ -35,4 +35,5 @@
 33. Florian Doebler von der IF hat bei Climate Ledger über #IOTA’s transparency, governance, and regulation within the #EU, as well as, #DLTs for #climateaction", geschrieben.[Tweet der IF](https://twitter.com/iota/status/1403698731829108738?s=20); Nur die [3 Seiten vom Interview](https://www.climateledger.org/resources/Florian-Doebler-Interview.pdf); Und hier der [gesamte Bericht](https://www.climateledger.org/resources/CLI_Report_2020_state-and-trends.pdf)
 34. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/92-wochenr%C3%BCckblick-vom-6-bis-12-juni-2021/&article%2F92-wochenr%C3%BCckblick-vom-6-bis-12-juni-2021%2F=&__twitter_impression=true)
 35. [Patent mit 24x IOTA](https://twitter.com/_iotaarchive/status/1404325491448991746?s=20)
+36. did:IOTA wurde im [Register von w3.org](https://www.w3.org/TR/did-spec-registries/#did-methods) aufgenommen: [Tweet von Jelle Millenar](https://twitter.com/JelleFm/status/1404334582955130882?s=20). Es gibt dort auch did:tangle
 
