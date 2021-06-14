@@ -36,4 +36,5 @@
 34. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/92-wochenr%C3%BCckblick-vom-6-bis-12-juni-2021/&article%2F92-wochenr%C3%BCckblick-vom-6-bis-12-juni-2021%2F=&__twitter_impression=true)
 35. [Patent mit 24x IOTA](https://twitter.com/_iotaarchive/status/1404325491448991746?s=20)
 36. did:IOTA wurde im [Register von w3.org](https://www.w3.org/TR/did-spec-registries/#did-methods) aufgenommen: [Tweet von Jelle Millenar](https://twitter.com/JelleFm/status/1404334582955130882?s=20). Es gibt dort auch did:tangle von Biilabs
+37. Kein Stammtisch ohne Elon Musk Themen... Wenn Bitcoin 50% renewable verkauft er wieder Tesla mit BTC: [Coindesk Bericht](https://www.coindesk.com/tesla-will-resume-taking-bitcoin-as-payment-once-miners-go-50-green-musk-says)
 
