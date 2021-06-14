@@ -28,7 +28,7 @@
 26. Youtube Newcomer: [Uncoined über IOTA Healthcare](https://www.youtube.com/watch?v=LupXzwUQrYI); [Uncoined über Fetch.ai](https://www.youtube.com/watch?v=J81-8iDG_K4); [DEXES über IOTA + Fetch.ai](https://www.youtube.com/watch?v=KJBCiOcNqXo)
 27. [Bundestag beschließt Lieferkettengesetz](https://lieferkettengesetz.de/aktuelles/) (Es geht um Einhaltung von Menschenrechten und Umweltstandards bei ihren Zulieferern achten). Könnte gut für IOTA sein...
 28. TradeMark East Africa Event am 15-16 Juni: [Tweet 1](https://twitter.com/TradeMarkEastA/status/1402872908658184194?s=20); [Tweet 2](https://twitter.com/TradeMarkEastA/status/1403254901036232709?s=20); Event [Register here](https://eudevdays.eu/community/); [Tweet 3](https://twitter.com/TradeMarkEastA/status/1404324546723909633?s=20)
-29. [Das letzte?!? HelloIOTA Roundup: IOTA, Bosch und Fetch.AI @Fetch.AI](https://www.youtube.com/watch?v=-CSnRtNUkZg) nein aber in Zukunft nur noch Chris Müller ohne HelloIOTA
+29. [Das letzte?!? HelloIOTA Roundup: IOTA, Bosch und Fetch.AI @Fetch.AI](https://www.youtube.com/watch?v=-CSnRtNUkZg) -> Nein, aber in Zukunft nur noch Chris Müller ohne HelloIOTA
 30. [1. IOTA DAO Governement Meeting](https://www.youtube.com/watch?v=SOY3reRHus4) und hier eine [schriftliche Zusammenfassung](https://medium.com/@jamesjdsutton/iota-to-burn-or-to-build-81de0b572eb5)
 31. STMicroelectronics shillt IOTA(https://twitter.com/ST_World/status/1403691140881211393?s=20)
 32. Drama wegen [Bild mit Partnerships](https://twitter.com/TheDLTimes/status/1403404865355792387?s=20); Holger Köther hatte das [kommentiert](https://twitter.com/HolgerKoether/status/1403618311410270209?s=20); Daraufhin gab es nochmal ein [Update](https://twitter.com/TheDLTimes/status/1403829868773662727?s=20)
