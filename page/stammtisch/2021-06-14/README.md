@@ -41,3 +41,4 @@
 39. MOBI meldet sich nochmal zum Thema Supplychain und taggged dabei IOTA: [Tweet1](https://twitter.com/dltMOBI/status/1404447249392975873?s=20); Hier findet man das Paper zum neuen [Standard MOBI Supply Chain](https://dlt.mobi/standards/)
 40. Dom Schiener bei Greentech Fest: [Tweet der IF](https://twitter.com/iota/status/1404495199812861961?s=20)
 41. Hans Moog vs. Nano: [Tweetstorm](https://twitter.com/hus_qy/status/1404472818402799617?s=20)
+42. [Tangleswap macht eine DEX](https://twitter.com/TangIeSwap/status/1403441532892557313?s=20)
