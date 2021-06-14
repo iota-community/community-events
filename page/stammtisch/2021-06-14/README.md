@@ -25,8 +25,14 @@
 23. IOTA-client major(!) version 1.0.0 of the official #IOTA client library was just release: [Tweet](https://twitter.com/karuma303/status/1403298732246982659?s=20); [Link zu crates.io](https://crates.io/crates/iota-client/versions)
 24. Supllychain für Wein: Tweet der IF(https://twitter.com/iota/status/1403290977025105921?s=20); Video: [Zebra Technologies and IOTA - The Value of Asset Visibility & Traceability](https://www.youtube.com/watch?v=eAvJ5Xk8Lyk)
 25. Es gab ein Apple Event und Tesla hat das neue Model S Plain veröffentlicht [krasse Beschleunigung](https://www.youtube.com/watch?v=xHLQHO5Uc40), falls darüber jemand reden will...
-26. Youtube Newcomer: [Uncoined über IOTA Healthcare](https://www.youtube.com/watch?v=LupXzwUQrYI); [DEXES über IOTA + Fetch.ai](https://www.youtube.com/watch?v=KJBCiOcNqXo)
+26. Youtube Newcomer: [Uncoined über IOTA Healthcare](https://www.youtube.com/watch?v=LupXzwUQrYI); [Uncoined über Fetch.ai](https://www.youtube.com/watch?v=J81-8iDG_K4); [DEXES über IOTA + Fetch.ai](https://www.youtube.com/watch?v=KJBCiOcNqXo)
 27. [Bundestag beschließt Lieferkettengesetz](https://lieferkettengesetz.de/aktuelles/) (Es geht um Einhaltung von Menschenrechten und Umweltstandards bei ihren Zulieferern achten). Könnte gut für IOTA sein...
-28. TradeMark East Africa Event am 15-16 Juni: [Tweet 1](https://twitter.com/TradeMarkEastA/status/1402872908658184194?s=20); [Tweet 2](https://twitter.com/TradeMarkEastA/status/1403254901036232709?s=20); Event [Register here](https://eudevdays.eu/community/)
-29. 
+28. TradeMark East Africa Event am 15-16 Juni: [Tweet 1](https://twitter.com/TradeMarkEastA/status/1402872908658184194?s=20); [Tweet 2](https://twitter.com/TradeMarkEastA/status/1403254901036232709?s=20); Event [Register here](https://eudevdays.eu/community/); [Tweet 3](https://twitter.com/TradeMarkEastA/status/1404324546723909633?s=20)
+29. [Das letzte?!? HelloIOTA Roundup: IOTA, Bosch und Fetch.AI @Fetch.AI](https://www.youtube.com/watch?v=-CSnRtNUkZg) nein aber in Zukunft nur noch Chris Müller ohne HelloIOTA
+30. [1. IOTA DAO Governement Meeting](https://www.youtube.com/watch?v=SOY3reRHus4) und hier eine [schriftliche Zusammenfassung](https://medium.com/@jamesjdsutton/iota-to-burn-or-to-build-81de0b572eb5)
+31. STMicroelectronics shillt IOTA(https://twitter.com/ST_World/status/1403691140881211393?s=20)
+32. Drama wegen [Bild mit Partnerships](https://twitter.com/TheDLTimes/status/1403404865355792387?s=20); Holger Köther hatte das [kommentiert](https://twitter.com/HolgerKoether/status/1403618311410270209?s=20); Daraufhin gab es nochmal ein [Update](https://twitter.com/TheDLTimes/status/1403829868773662727?s=20)
+33. Florian Doebler von der IF hat bei Climate Ledger über #IOTA’s transparency, governance, and regulation within the #EU, as well as, #DLTs for #climateaction", geschrieben.[Tweet der IF](https://twitter.com/iota/status/1403698731829108738?s=20); Nur die [3 Seiten vom Interview](https://www.climateledger.org/resources/Florian-Doebler-Interview.pdf); Und hier der [gesamte Bericht](https://www.climateledger.org/resources/CLI_Report_2020_state-and-trends.pdf)
+34. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/92-wochenr%C3%BCckblick-vom-6-bis-12-juni-2021/&article%2F92-wochenr%C3%BCckblick-vom-6-bis-12-juni-2021%2F=&__twitter_impression=true)
+35. [Patent mit 24x IOTA](https://twitter.com/_iotaarchive/status/1404325491448991746?s=20)
 
