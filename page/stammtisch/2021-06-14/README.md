@@ -38,5 +38,5 @@
 36. did:IOTA wurde im [Register von w3.org](https://www.w3.org/TR/did-spec-registries/#did-methods) aufgenommen: [Tweet von Jelle Millenar](https://twitter.com/JelleFm/status/1404334582955130882?s=20). Es gibt dort auch did:tangle von Biilabs
 37. Kein Stammtisch ohne Elon Musk Themen... Wenn Bitcoin 50% renewable verkauft er wieder Teslas mit BTC: [Coindesk Bericht](https://www.coindesk.com/tesla-will-resume-taking-bitcoin-as-payment-once-miners-go-50-green-musk-says)
 38. IOTA.PHP wurde von Stefan veröffentlicht: [Tweet](https://twitter.com/SourCL_Stefan/status/1404398267262291978?s=20); [PHP library](https://github.com/iota-community/iota.php) to use IOTA REST API to help node management and tangle queries; Dazu noch eine [Help Seite](https://github.com/iota-community/iota.php/blob/main/help/000_index.md)
-39. MOBI meldet sich nochmal zum Thema Supplychain und taggged dabei IOTA: [Tweet1](https://twitter.com/dltMOBI/status/1404447249392975873?s=20)
+39. MOBI meldet sich nochmal zum Thema Supplychain und taggged dabei IOTA: [Tweet1](https://twitter.com/dltMOBI/status/1404447249392975873?s=20); Hier findet man das Paper zum neuen [Standard MOBI Supply Chain](https://dlt.mobi/standards/)
 
