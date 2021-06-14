@@ -23,7 +23,7 @@
 21. NFT Marketplace auf IOTA: Der Plan war "End of June" [siehe Tweet1](https://twitter.com/NFTIOTA/status/1393194612299272192?s=20); Jetzt heißt es alles nach Plan [Tweet 2](https://twitter.com/NFTIOTA/status/1402866903870283780?s=20)
 22. Donnerstag um 12 Uhr: CovPass-Projektmanager Ronald Fritz (@IBMDACH) gibt informationen zum Start des #CovPass-App bekannt: [Tweet](https://twitter.com/BMG_Bund/status/1402915832280322051?s=20)
 23. IOTA-client major(!) version 1.0.0 of the official #IOTA client library was just release: [Tweet](https://twitter.com/karuma303/status/1403298732246982659?s=20); [Link zu crates.io](https://crates.io/crates/iota-client/versions)
-24. Supllychain für Wein: Tweet der IF(https://twitter.com/iota/status/1403290977025105921?s=20); Video: [Zebra Technologies and IOTA - The Value of Asset Visibility & Traceability](https://www.youtube.com/watch?v=eAvJ5Xk8Lyk)
+24. Supllychain für Wein: [Tweet der IF](https://twitter.com/iota/status/1403290977025105921?s=20); Video: [Zebra Technologies and IOTA - The Value of Asset Visibility & Traceability](https://www.youtube.com/watch?v=eAvJ5Xk8Lyk)
 25. Es gab ein Apple Event und Tesla hat das neue Model S Plain veröffentlicht [krasse Beschleunigung](https://www.youtube.com/watch?v=xHLQHO5Uc40), falls darüber jemand reden will...
 26. Youtube Newcomer: [Uncoined über IOTA Healthcare](https://www.youtube.com/watch?v=LupXzwUQrYI); [Uncoined über Fetch.ai](https://www.youtube.com/watch?v=J81-8iDG_K4); [DEXES über IOTA + Fetch.ai](https://www.youtube.com/watch?v=KJBCiOcNqXo)
 27. [Bundestag beschließt Lieferkettengesetz](https://lieferkettengesetz.de/aktuelles/) (Es geht um Einhaltung von Menschenrechten und Umweltstandards bei ihren Zulieferern achten). Könnte gut für IOTA sein...
