@@ -10,3 +10,4 @@ https://dlt.mobi/blockchain-applications-to-increase-efficiency-and-transparency
 7.  Neue [Wallpapers und Designes](https://files.iota.org/media/IOTA_2_0_DevNet_Nectar_Image_Pack2.zip) von IOTA 2.0 DevNet
 8.  IOTA auf YouTube: KryptoReport:[IOTA vor Revolution? Das Wichtigste zu IOTA 2.0](https://www.youtube.com/watch?v=ricquJW7LAw); MonetenDave:[Kryptowährung IOTA mit bahnbrechenden Neuigkeiten & Partnern !](https://www.youtube.com/watch?v=sID89zc4YyM); 
 9.  Werkzeugmaschinenlabor WZL der RWTH Aachen: Neues Promo-Video zum 30.Aachener Werkzeugmaschinen-Kolloquium [Der Digitale Zwilling im Production Cycle](https://www.youtube.com/watch?v=uH7y62KPcxk) mit Tangle inside
+10.  "A Data Marketplace System for Prediction and Statistical Analysis over Sensitive Data", mentioning #IOTA/Tangle (27x) [IOTAarchiev Tweet](https://twitter.com/_iotaarchive/status/1405059820705755139?s=20)
