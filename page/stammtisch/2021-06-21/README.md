@@ -22,6 +22,6 @@ https://dlt.mobi/blockchain-applications-to-increase-efficiency-and-transparency
 Analysis over Sensitive Data"
 19. [Patent von Intel](https://twitter.com/_iotaarchive/status/1405413652228939783?s=19) mit 2xIOTA
 20. Luka Stanisic Medium post: ["My take on IOTA’s Community Treasury"](https://luka99.medium.com/my-take-on-iotas-community-treasury-f40deb7b56ba)
-21. Dom Schiener live on stage beim Greentech Fest: [Livestream](https://www.youtube.com/watch?v=ZMQJ78mCORk)
+21. Dom Schiener kurzer Auftritt beim Greentech Fest: [Tweet1](https://twitter.com/iotatokennews/status/1405451756839055364?s=20)
 22. [DailyCoin mit gutem Artikel](https://dailycoin.com/iotas-answer-to-the-blockchain-distributed-ledger-technology-scaled-globally/) über IOTA
 
