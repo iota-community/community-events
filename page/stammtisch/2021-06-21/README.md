@@ -20,6 +20,8 @@ https://dlt.mobi/blockchain-applications-to-increase-efficiency-and-transparency
 17.  Shiba Inu steigt um 30% wegen [Coinbase Listung](https://www.crypto-news-flash.com/de/shiba-inu-schiesst-um-30-hoch-nach-coinbase-notierung/?feed_id=818&_unique_id=60c9e5b950251)
 18.  Neues Paper von der Uni Yachay Tech mit 27 x IOTA/Tangle: [Tweet von IOTAarchiev](https://twitter.com/_iotaarchive/status/1405059820705755139?s=20); [PDF download](https://201.159.223.86/bitstream/123456789/307/1/ECMC0050.pdf) Titel: "A Data Marketplace System for Prediction and Statistical
 Analysis over Sensitive Data"
-19. Luka Stanisic Medium post: ["My take on IOTA’s Community Treasury"](https://luka99.medium.com/my-take-on-iotas-community-treasury-f40deb7b56ba)
-20. Dom Schiener live on stage beim Greentech Fest: [Livestream](https://www.youtube.com/watch?v=ZMQJ78mCORk)
+19. [Patent von Intel](https://twitter.com/_iotaarchive/status/1405413652228939783?s=19) mit 2xIOTA
+20. Luka Stanisic Medium post: ["My take on IOTA’s Community Treasury"](https://luka99.medium.com/my-take-on-iotas-community-treasury-f40deb7b56ba)
+21. Dom Schiener live on stage beim Greentech Fest: [Livestream](https://www.youtube.com/watch?v=ZMQJ78mCORk)
+22. [DailyCoin mit gutem Artikel](https://dailycoin.com/iotas-answer-to-the-blockchain-distributed-ledger-technology-scaled-globally/) über IOTA
 
