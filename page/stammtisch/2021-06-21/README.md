@@ -26,4 +26,7 @@ Analysis over Sensitive Data"
 22. [DailyCoin mit gutem Artikel](https://dailycoin.com/iotas-answer-to-the-blockchain-distributed-ledger-technology-scaled-globally/) über IOTA
 23. Automation Worlkd berichtet über ["The Machine-To-Machine Marketplace"](https://www.automationworld.com/factory/robotics/article/21485606/evolution-of-machine-autonomy-in-factory-transactions)
 24. IOTABeeliever startet [iotatalk.org](https://iotatalk.org/); Hier [sein Tweet](https://twitter.com/IOTABeeliever/status/1405486404453478402?s=20)
+25. Hans Moog glaubt also nicht nur an den Coordicide sondern auch an UFOs ;-). [Tweet](https://twitter.com/hus_qy/status/1405661433275289601?s=20)
+26. [Blogpost vom dRNG X-teams](https://blog.iota.org/drng-commitee-x-team/)
+27. IOTA Roundup heißen jetzt IOTA Weekly: [Tweet](https://twitter.com/IotaWeekly/status/1405784416903995393?s=20)
 
