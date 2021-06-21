@@ -24,9 +24,12 @@ Analysis over Sensitive Data"
 20. Luka Stanisic Medium post: ["My take on IOTA’s Community Treasury"](https://luka99.medium.com/my-take-on-iotas-community-treasury-f40deb7b56ba)
 21. Dom Schiener kurzer Auftritt beim Greentech Fest: [Tweet1](https://twitter.com/iotatokennews/status/1405451756839055364?s=20)
 22. [DailyCoin mit gutem Artikel](https://dailycoin.com/iotas-answer-to-the-blockchain-distributed-ledger-technology-scaled-globally/) über IOTA
-23. Automation Worlkd berichtet über ["The Machine-To-Machine Marketplace"](https://www.automationworld.com/factory/robotics/article/21485606/evolution-of-machine-autonomy-in-factory-transactions)
+23. Automation Worlkd berichtet über ["The Machine-To-Machine Marketplace"](https://www.automationworld.com/factory/robotics/article/21485606/evolution-of-machine-autonomy-in-factory-transactions))
 24. IOTABeeliever startet [iotatalk.org](https://iotatalk.org/); Hier [sein Tweet](https://twitter.com/IOTABeeliever/status/1405486404453478402?s=20)
 25. Hans Moog glaubt also nicht nur an den Coordicide sondern auch an UFOs ;-). [Tweet](https://twitter.com/hus_qy/status/1405661433275289601?s=20)
 26. [Blogpost vom dRNG X-teams](https://blog.iota.org/drng-commitee-x-team/)
 27. IOTA Roundup heißen jetzt IOTA Weekly: [Tweet](https://twitter.com/IotaWeekly/status/1405784416903995393?s=20)
+28. Video: [3 Years of IOTA Development - 6 Pinned Repositories of IOTA on GitHub](https://www.youtube.com/watch?v=grLt41wPOYA)
+29. Senseering mit neuem Blogpost über [Putting a price tag on date](https://medium.com/senseering/putting-a-price-tag-on-data-e846477ace2e)
+30. IOTA Plugin für WordPress: [Blogpost : IOTA Pay – Plugin für Spenden, PayWall und WooCommerce](https://short-aktien.de/iota-pay-wordpress-plugin-spenden-woocommerce/); [Tweet1 von Alexander](https://twitter.com/shortaktien/status/1406250454384885763?s=20); [Tweet2](https://twitter.com/shortaktien/status/1406580043636170754?s=20)
 
