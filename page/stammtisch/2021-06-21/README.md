@@ -41,5 +41,6 @@ Analysis over Sensitive Data"
 37. Microstrategie kauft fleißig weiter Bticoin: [Tweet](https://twitter.com/michael_saylor/status/1406946140344442882?s=20); [Details](https://www.microstrategy.com/en/investor-relations/press/microstrategy-acquires-additional-bitcoins-and-now-holds-over-105000-bitcoins-in-total_06-21-2021)
 38. Hans Moog veröffentlicht Part-2 seiner Blog-Reihe: ["The Trust Machine — Part2: A model of the entire DLT space"
 Designing humanities trust layer for the digital world](https://husqy.medium.com/the-trust-machine-part2-a-model-of-the-entire-dlt-space-f169fe527c75)
+39. Hans Moog verrät uns was los war mit der Ledger Integration: [Tweet](https://twitter.com/hus_qy/status/1406987167423815682?s=20) Ein Ledger Update hat die alte App kaputt gemacht...
 
 
