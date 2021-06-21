@@ -37,6 +37,6 @@ Analysis over Sensitive Data"
 33. Dom Schiener Artiekel im Cointelegraph: [Decentralized identity can bring the analog world into the digital one](https://cointelegraph.com/news/decentralized-identity-can-bring-the-analog-world-into-the-digital-one)
 34. [Patent](https://worldwide.espacenet.com/patent/search/family/075647484/publication/CN112751915A?q=pn%3DCN112751915A) mit 9xIOTA: [Tweet von IOTAarchiev](https://twitter.com/_iotaarchive/status/1406861694828175360)
 35. UnCoined mit neuem Video:[#28 IOTA beyond IoT](https://www.youtube.com/watch?v=rIYtFQpHw-U)
-36. Miner Ban in China? Hashrate sinkt um fast 50%
+36. Miner Ban in China? Hashrate sinkt um fast 50%: [CNBC Report](https://www.cnbc.com/2021/06/15/chinas-bitcoin-miner-exodus-.html)
 
 
