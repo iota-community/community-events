@@ -36,5 +36,5 @@ Analysis over Sensitive Data"
 32. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/93-wochenr%C3%BCckblick-vom-13-bis-19-juni-2021/&article%2F93-wochenr%C3%BCckblick-vom-13-bis-19-juni-2021%2F=&__twitter_impression=true)
 33. Dom Schiener Artiekel im Cointelegraph: [Decentralized identity can bring the analog world into the digital one](https://cointelegraph.com/news/decentralized-identity-can-bring-the-analog-world-into-the-digital-one)
 34. [Patent](https://worldwide.espacenet.com/patent/search/family/075647484/publication/CN112751915A?q=pn%3DCN112751915A) mit 9xIOTA: [Tweet von IOTAarchiev](https://twitter.com/_iotaarchive/status/1406861694828175360)
-35. 
+35. UnCoined mit neuem Video:[#28 IOTA beyond IoT](https://www.youtube.com/watch?v=rIYtFQpHw-U)
 
