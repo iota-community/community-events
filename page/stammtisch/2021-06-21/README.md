@@ -25,7 +25,7 @@ Analysis over Sensitive Data"
 21. Luka Stanisic Medium post: ["My take on IOTA’s Community Treasury"](https://luka99.medium.com/my-take-on-iotas-community-treasury-f40deb7b56ba)
 22. Dom Schiener kurzer Auftritt beim Greentech Fest: [Tweet1](https://twitter.com/iotatokennews/status/1405451756839055364?s=20)
 23. [DailyCoin mit gutem Artikel](https://dailycoin.com/iotas-answer-to-the-blockchain-distributed-ledger-technology-scaled-globally/) über IOTA
-24. Automation Worlkd berichtet über ["The Machine-To-Machine Marketplace"](https://www.automationworld.com/factory/robotics/article/21485606/evolution-of-machine-autonomy-in-factory-transactions))
+24. Automation World berichtet über ["The Machine-To-Machine Marketplace"](https://www.automationworld.com/factory/robotics/article/21485606/evolution-of-machine-autonomy-in-factory-transactions))
 25. IOTABeeliever startet [iotatalk.org](https://iotatalk.org/); Hier [sein Tweet](https://twitter.com/IOTABeeliever/status/1405486404453478402?s=20)
 26. Hans Moog glaubt also nicht nur an den Coordicide sondern auch an UFOs ;-). [Tweet](https://twitter.com/hus_qy/status/1405661433275289601?s=20)
 27. [Blogpost vom dRNG X-teams](https://blog.iota.org/drng-commitee-x-team/)
