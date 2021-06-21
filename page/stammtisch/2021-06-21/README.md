@@ -38,5 +38,8 @@ Analysis over Sensitive Data"
 34. [Patent](https://worldwide.espacenet.com/patent/search/family/075647484/publication/CN112751915A?q=pn%3DCN112751915A) mit 9xIOTA: [Tweet von IOTAarchiev](https://twitter.com/_iotaarchive/status/1406861694828175360)
 35. UnCoined mit neuem Video:[#28 IOTA beyond IoT](https://www.youtube.com/watch?v=rIYtFQpHw-U)
 36. Miner Ban in China? Hashrate sinkt um fast 50%: [CNBC Report](https://www.cnbc.com/2021/06/15/chinas-bitcoin-miner-exodus-.html)
+37. Microstrategie kauft fleißig weiter Bticoin: [Tweet](https://twitter.com/michael_saylor/status/1406946140344442882?s=20); [Details](https://www.microstrategy.com/en/investor-relations/press/microstrategy-acquires-additional-bitcoins-and-now-holds-over-105000-bitcoins-in-total_06-21-2021)
+38. Hans Moog veröffentlicht Part-2 seiner Blog-Reihe: ["The Trust Machine — Part2: A model of the entire DLT space"
+Designing humanities trust layer for the digital world](https://husqy.medium.com/the-trust-machine-part2-a-model-of-the-entire-dlt-space-f169fe527c75)
 
 
