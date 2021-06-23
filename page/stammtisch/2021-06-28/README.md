@@ -9,4 +9,5 @@
 7. Bitcoin crashed am Dienstag auf 29.000$ und IOTA auf 0,62$... Ist das mal wieder das Ende? Verkaufen alle Chinesen wegen dem Chinaban?)
 8. Charlie Varley entschuldigt sich für [Verzug bei Ledger Integration](https://iotatalk.org/blog/21-charlie-varley-apologizes-for-lack-of-communication-and-delays-on-ledger-update)
 9. DAO meeting am Donnerstag[Tweet](https://twitter.com/Phylo79288735/status/1407612875825287168?s=20)
-10. Alfred: One of Germany's largest publicly funded roadside infrastructure project will utilize the IOTA protocol as core technology. [Tweet](https://twitter.com/EtoGruppe/status/1407657717603373058?s=20); [Blogpost](https://www.etogruppe.com/en/news/news-from-eto/project-alfried-will-be-built-on-iota-chrysalis.html)
+10. Alfred: One of Germany's largest publicly funded roadside infrastructure project will utilize the IOTA protocol as core technology. [Tweet](https://twitter.com/EtoGruppe/status/1407657717603373058?s=20); [Blogpost](https://www.etogruppe.com/en/news/news-from-eto/project-alfried-will-be-built-on-iota-chrysalis.html) und Filancore GmBH liefert offenbar die Identity Lösung basierend auf IOTA dafür: [Tweet](https://twitter.com/FilancoreGmbH/status/1407667642555568129?s=20) mit eigenem [Pressebericht](https://filancoregmbh.medium.com/press-release-alfried-smart-delineators-7b1a76c9e556)
+11. 
