@@ -8,3 +8,4 @@
 6. Kitstrong hat einen Blogpost "How to pay for the other article"(https://blog.f-node.de/how-to-pay-for-the-other-article/) geschrieben, der eigentlich ein Tutorial ist wie man sein Ghost Plugin für "Pay per Read" ausprobieren kann. [Sein Tweet](https://twitter.com/KIT_strong_WING/status/1407251973569712129?s=20) dazu.
 7. Bitcoin crashed am Dienstag auf 29.000$ und IOTA auf 0,62$... Ist das mal wieder das Ende? Verkaufen alle Chinesen wegen dem Chinaban?)
 8. Charlie Varley entschuldigt sich für [Verzug bei Ledger Integration](https://iotatalk.org/blog/21-charlie-varley-apologizes-for-lack-of-communication-and-delays-on-ledger-update)
+9. DAO meeting am Donnerstag[Tweet](https://twitter.com/Phylo79288735/status/1407612875825287168?s=20)
