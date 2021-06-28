@@ -15,7 +15,7 @@
 13. Die IF [tweetet](https://twitter.com/iota/status/1408002099162529792?s=20) über den Bericht "Distributed ledger technology based
 robust access control and real-time"(https://peerj.com/articles/cs-566.pdf) aus dem Science Magazin
 synchronization for consumer electronics
-14. EU funded project Orchestra: Blogpost der IF(https://blog.iota.org/orchestra-consortium-and-iota/); Foundation bekommt 250.000 EUR; Hier [auf deutsch](https://iota-einsteiger-guide.de/iota-orchestra-Konsortium.html); Uncoined macht ein [Video über Orchestra](https://www.youtube.com/watch?v=EDZw1KcKCsE)
+14. EU funded project Orchestra: [Blogpost der IF](https://blog.iota.org/orchestra-consortium-and-iota/); Foundation bekommt 250.000 EUR; Hier [auf deutsch](https://iota-einsteiger-guide.de/iota-orchestra-Konsortium.html); Uncoined macht ein [Video über Orchestra](https://www.youtube.com/watch?v=EDZw1KcKCsE)
 15. [Master Thesis](https://files.ifi.uzh.ch/CSG/staff/scheid/extern/theses/MA-R-Hy.pdf) mit 57x IOTA: [Tweet von IOTAarchive](https://twitter.com/_iotaarchive/status/1407964460841570304?s=20)
 16. ThomasQV mit guten [Tweetstorm](https://twitter.com/TVstedal/status/1407900884848218116?s=20) zur IOTA Adoption
 17. IOTA Community Governance Meeting: [Recorded Video](https://www.youtube.com/watch?v=9udv6iPO8Xk)
