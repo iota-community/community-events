@@ -24,10 +24,10 @@ synchronization for consumer electronics
 20. TMForum [tweetet](https://twitter.com/tmforumorg/status/1408379877447905283?s=20) über ein [Video: "TM Forum Catalyst trailer - Ecosoft eHealth"](https://www.youtube.com/watch?v=PcOEuzGs7uk) wo sie IOTA und Nokianetwork taggen
 21. John McAfee ist tot oder umgebracht worden? [Bericht in der NYPost](https://nypost.com/2021/06/23/john-mcafee-dies-by-suicide-inside-prison-in-barcelona/amp/)
 22. MOBI mit [Video über "Blockchain Applications for the Mobility Supply Chain"](https://www.youtube.com/watch?v=GteArwhRUSQ)
-23. IOTAWeekly 002: [IOTA, Digitale Identitäten und die Automobil-Industrie](https://www.youtube.com/watch?v=bka-z4nQRHU)
-24. DEPOSY 2.0 Chrysalis update offenbar gelungen: [Tweet](https://twitter.com/deposyproject/status/1408472639350390788?s=20)
+23. Chris Müller mit IOTAWeekly 002: [IOTA, Digitale Identitäten und die Automobil-Industrie](https://www.youtube.com/watch?v=bka-z4nQRHU)
+24. DEPOSY 2.0: Das Chrysalis update ist offenbar gelungen: [Tweet](https://twitter.com/deposyproject/status/1408472639350390788?s=20)
 25. Raspihive (Node software für RaspberryPi) update: [Tweet](https://twitter.com/raspihive/status/1408810788605804556?s=20)
-26. Jonas Ehnle mit langem Bericht (45min. Lesezeit) zu ["An introduction to DLT concepts and why I think IOTAs Tangle is superior to Blockchains"](https://jonas-ehnle.medium.com/an-introduction-to-dlt-concepts-and-why-i-think-iotas-tangle-is-superior-to-blockchains-550b69ec86d6)
+26. Jonas Ehnle (Community Member of the week) mit langem Bericht (45min. Lesezeit) zu ["An introduction to DLT concepts and why I think IOTAs Tangle is superior to Blockchains"](https://jonas-ehnle.medium.com/an-introduction-to-dlt-concepts-and-why-i-think-iotas-tangle-is-superior-to-blockchains-550b69ec86d6)
 27. Neue Webseite: [IOTA-memes](https://iotamemes.com/)
 28. Aufruf zur Unterstützung beim [IOTA Wiki auf Github](https://github.com/iota-community/iota-wiki)
 29. IOTA wurde auf Platz 4 gehyped beim Ranking [The Best Cryptocurrency Of All Time](https://www.ranker.com/list/best-cryptocurrency/ranker-tech9)
