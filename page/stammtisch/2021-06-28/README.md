@@ -12,8 +12,8 @@
 10. DAO meeting am Donnerstag [Tweet](https://twitter.com/Phylo79288735/status/1407612875825287168?s=20)
 11. Alfred: One of Germany's largest publicly funded roadside infrastructure project will utilize the IOTA protocol as core technology. [Tweet](https://twitter.com/EtoGruppe/status/1407657717603373058?s=20); [Blogpost](https://www.etogruppe.com/en/news/news-from-eto/project-alfried-will-be-built-on-iota-chrysalis.html) und Filancore GmBH liefert offenbar die Identity Lösung basierend auf IOTA dafür: [Tweet](https://twitter.com/FilancoreGmbH/status/1407667642555568129?s=20) mit eigenem [Pressebericht](https://filancoregmbh.medium.com/press-release-alfried-smart-delineators-7b1a76c9e556)
 12. Holger Köther beim "IOTA" Event von der Hochschule Heilbronn: Noch keine Videoaufzeichnung bekannt... [Tweet](https://twitter.com/HolgerKoether/status/1402582722854404097?s=20)
-13. Die IF [tweetet](https://twitter.com/iota/status/1408002099162529792?s=20) über den Bericht "Distributed ledger technology based
-robust access control and real-time"(https://peerj.com/articles/cs-566.pdf) aus dem Science Magazin
+13. Die IF [tweetet](https://twitter.com/iota/status/1408002099162529792?s=20) über den Bericht ["Distributed ledger technology based
+robust access control and real-time"](https://peerj.com/articles/cs-566.pdf) aus dem Science Magazin
 synchronization for consumer electronics
 14. EU funded project Orchestra: [Blogpost der IF](https://blog.iota.org/orchestra-consortium-and-iota/); Foundation bekommt 250.000 EUR; Hier [auf deutsch](https://iota-einsteiger-guide.de/iota-orchestra-Konsortium.html); Uncoined macht ein [Video über Orchestra](https://www.youtube.com/watch?v=EDZw1KcKCsE)
 15. [Master Thesis](https://files.ifi.uzh.ch/CSG/staff/scheid/extern/theses/MA-R-Hy.pdf) mit 57x IOTA: [Tweet von IOTAarchive](https://twitter.com/_iotaarchive/status/1407964460841570304?s=20)
