@@ -31,7 +31,7 @@ synchronization for consumer electronics
 27. Aufruf zur Unterstützung beim [IOTA Wiki auf Github](https://github.com/iota-community/iota-wiki)
 28. IOTA wurde auf Platz 4 gehyped beim Ranking [The Best Cryptocurrency Of All Time](https://www.ranker.com/list/best-cryptocurrency/ranker-tech9)
 29. Hans Moog will Benchmarktest für Blockchains: [Tweet](https://twitter.com/hus_qy/status/1408945984617562116?s=20); Mike Bennett bestätigt, dass die Industrie das braucht: [Tweet](https://twitter.com/MikeHypercube/status/1409221613862670340?s=20)
-30. IOTAshops hat die T-shirts von Chrysalis geliefert [Tweet der IF](https://twitter.com/iota/status/1408069164191809549?s=20)
+30. IOTAshops hat die T-shirts von Chrysalis geliefert [Tweet der IF](https://twitter.com/iota/status/1408069164191809549?s=20); So sehen sie aus: [Tweet](https://twitter.com/2779530283Mi/status/1409088629935427585?s=20)
 31. Bitcoin2Go hat ein neues Video zur Steuerthematik (10 Jahre Haltefrist bei Staking) gemacht mit: [KRYPTO STEUER UPDATE - 10 Jahre Haltefrist für Staking & Co.?](https://www.youtube.com/watch?v=zdh5mDUtKt0)
 32. TangleBay hat neue Node Operatoren für die Community Node gesucht und gefunden: [Tweet](https://twitter.com/TANGLEBAY/status/1409207565284741126?s=20)
 33. Neue IOTA.PHP lib in the [Λlpha Version 0.1.0](https://github.com/iota-community/iota.php) wurde released: [Tweet von Stefan Braun](https://twitter.com/IOTAphp/status/1409468438721011714?s=20)
