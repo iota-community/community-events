@@ -41,3 +41,6 @@ synchronization for consumer electronics
 37. Mulitivers heißt jetzt offenbar [On Tangle Voting](https://iota.cafe/t/on-tangle-voting-with-fpcs/1218); Hans meinte auch sie wechseln von FPC zu OTVFPCS. Interessant dazu auf [IOTA.Cafe](https://iota.cafe/t/race-otv/1217)
 38. Vielleicht erzählt und Hans ja auch was er damit meinte: "Bitcoin hat triple entry bookeeping eingeführt, IOTA wird quadriple entry bookeeping einführen"
 39. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/94-wochenr%C3%BCckblick-vom-20-bis-26-juni-2021/)
+40. Michele Nati gratuliert den Gewinnern von ZEBRA Technologies Hackaton: [Tweet](https://twitter.com/michelenati/status/1409446845395374082?s=20)
+41. Coinbase hat Lizenz in Deutschland bekommen: ["BaFin erteilt erste Erlaubnis zum Erbringen des Kryptoverwahrgeschäfts"](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Meldung/2021/meldung_2021_06_28_Coinbase_Germany_Kryptoerlaubnis.html;jsessionid=FB7D64F0F13990706943611242B931E7.1_cid503)
+42. Binance in UK teilweise verboten: Bericht im Manager Magazin: ["Handel verboten - Briten greifen gegen Kryptobörse Binance durch"](https://www.manager-magazin.de/finanzen/boerse/binance-britische-finanzaufsicht-fca-geht-gegen-boerse-fuer-kryptowaehrungen-vor-a-056c306f-721c-4a33-9ca7-820a6b2a89ed-amp)
