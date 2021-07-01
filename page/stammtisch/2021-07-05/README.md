@@ -16,3 +16,4 @@
 14. Neues stabiles alpha von dem IOTA ghost PayPerContent Gateway: [Tweet](https://twitter.com/KIT_strong_WING/status/1410540669295382530?s=20); [Github Link](https://github.com/F-Node-Karlsruhe/ghost-iota-pay)
 15. Youtube: UnCoined mit einem [Video über IOTA Greentech](https://youtu.be/ODtF-BzRG00)
 16. Die IF [tweetet](https://twitter.com/iota/status/1410584081612558342?s=20) über die Trademark East Africa Supply Chain Partnerschaft
+17. Hans Moog: Sie bauen "the king of DLT for all eternity" [Tweet](https://twitter.com/hus_qy/status/1410594592064380936?s=20)
