@@ -14,3 +14,5 @@
 12. Die Deutsche Börse kauft die Mehrheit am Schweizer Kryptobroker und Vermögensverwalter Crypto Finance AG: [Bericht im Manager Magazin](https://www.manager-magazin.de/unternehmen/tech/bitoin-und-co-deutsche-boerse-kauft-mehrheit-an-crypto-finance-ag-a-4f13a7eb-3115-4cd1-9e8b-0a9162587d30); Die Crypto Finance AG hat aber auch ne Partnerschaft mit IOTA: [IF Blogpost vom April](https://blog.iota.org/crypto-finance-ag-and-iota/)
 13. DOGE wird mal wieder von [Elon Musk gepushed](https://twitter.com/elonmusk/status/1410529698497630212?s=20)
 14. Neues stabiles alpha von dem IOTA ghost PayPerContent Gateway: [Tweet](https://twitter.com/KIT_strong_WING/status/1410540669295382530?s=20); [Github Link](https://github.com/F-Node-Karlsruhe/ghost-iota-pay)
+15. Youtube: UnCoined mit einem [Video über IOTA Greentech](https://youtu.be/ODtF-BzRG00)
+16. Die IF [tweetet](https://twitter.com/iota/status/1410584081612558342?s=20) über die Trademark East Africa Supply Chain Partnerschaft
