@@ -17,3 +17,5 @@
 15. Youtube: UnCoined mit einem [Video über IOTA Greentech](https://youtu.be/ODtF-BzRG00)
 16. Die IF [tweetet](https://twitter.com/iota/status/1410584081612558342?s=20) über die Trademark East Africa Supply Chain Partnerschaft
 17. Hans Moog: Sie bauen "the king of DLT for all eternity" [Tweet](https://twitter.com/hus_qy/status/1410594592064380936?s=20)
+18. Hans Moog war auch im Spec Channel aktiv. [Chatverlauf](https://iotatalk.org/hans-on-spec.html) Zusammenfassung: Er glaubt IOTA wird zum Layer für Finanzen und trusted Daten mindestens für die nächsten 100 Jahre; Hornet Team arbeitet jetzt bei GoShimmer mit; Aktuell wird "the shit out of it" jedes einzelne Modul optimiert; Der Code wird immer einfacher und eleganter; Dreadlocks sind ab; Lex Friedman hat angefragt, aber er muss noch geimpft werden; Er macht ein paar Wochen Urlaub im schwedischen Sommer danach "Full steam ahead"; Es wird offensichtlich sein, dass IOTA der beste mögliche DLT sein wird; "0% chance that coordicide will fail"; 
+19. Multi mit neuem Artikel:[How IOTA creates the ultimate lock-in effect](https://multifolio.medium.com/how-iota-creates-the-ultimate-lock-in-effect-983378d34056)
