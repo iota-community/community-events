@@ -22,3 +22,4 @@
 20. [Tweet von Phylo](https://twitter.com/Phylo79288735/status/1410967271544029185?s=19) zum DAO Meeting; [Meeting nodes auf GitHub](https://github.com/iota-community/Community-Governance/blob/main/meetings/notes_01.07.md)
 21. [IOTA Weekly - IOTA alles Scam?](https://www.youtube.com/watch?v=w8AnoXkOhJ8) war richtig gut diese Woche
 22. [Fragen](https://www.reddit.com/r/Iota/comments/oc7r2b/ama_with_dominik_schiener_06072021/) für das IOTA AMA mit Dom Schiener am Dienstag
+23. Das Problem vom [Miner Extractable Value](https://www.youtube.com/watch?v=Wd0at2Pu6xY), kann laut Hans Moog nur IOTA lösen
