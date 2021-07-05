@@ -35,7 +35,7 @@
 33. Ivan on Tech will Hans Moog interviewen: [Tweet1](https://twitter.com/IvanOnTech/status/1411606010318438402?s=20); [Tweet2](https://twitter.com/IvanOnTech/status/1411606581532368901?s=19)
 34. Im RU Hackathon wurde Safe Cred entwickelt, eine App als digital identity Lösung für Covid 19 mit Zebra Technologie; Hier das [Video](https://www.youtube.com/watch?v=eMokZs1D20c) dazu
 35. Es gab ein Hornet Update. Problem: "An internal process caused a new signing key to be released on the COO before nodes were able to validate the new signature set provided in milestones. "
-36. Byte5 mi einem Video über IOTA(https://twitter.com/byte5/status/1410867926337474561?s=20); Hier die [Webseite von Byte5](https://www.byte5.de/iota/) mit IOTAinside
+36. Byte5 mit einem kurzen [Video über IOTA](https://twitter.com/byte5/status/1410867926337474561?s=20); Hier die [Webseite von Byte5](https://www.byte5.de/iota/) mit IOTAinside
 37. Im Odyssey Momentum Hackathon: Huhn hat ein paar Tweets dazu abgesetzt: [Tweet1](https://twitter.com/huhn511/status/1410951286665658371?s=20); [Tweet2](https://twitter.com/huhn511/status/1411292939205103618?s=20); Tweet[3](https://twitter.com/OdysseyMomentum/status/1411690787197308934?s=20); [Tweet4](https://twitter.com/huhn511/status/1411702055207583750?s=20); Und hier das [Video vom Finale von IdentiTree](https://youtu.be/-fM5VBzv1Dc?t=4039) mit IOTAinside
 38. Sharding whitepaper soon? [Tweet](https://twitter.com/hus_qy/status/1410698364224741382?s=20) Und was ist eigentlich mit dem Tokenomics paper?!?
 39. Heute startet die SummerSchool Blockchain in der Uni Zürich mit IOTAinside: [Tweet1](https://twitter.com/uzh_blockchain/status/1380105871498346497?s=20)
