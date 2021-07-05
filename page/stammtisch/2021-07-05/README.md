@@ -32,7 +32,7 @@
 30. Dom will auch das Ökosystem helfen und lästert mit seinem [Tweet](https://twitter.com/DomSchiener/status/1410941256566464516?s=20) über "startup accelerators or incubators"
 31. ["The Moneyfesto Hypothesis" auf r/IOTA](https://www.reddit.com/r/Iota/comments/odejqy/the_moneyfesto_hypothesis_crosspost_because_after/) weil es auf r/CC gelöscht wurde...
 32. Firefly Ledger Integration wird jetzt getestet: [Tweet](https://twitter.com/iota/status/1411596149190967296)
-33. Ivan on Tech will Hans Moog interviewen: [Tweet1](https://twitter.com/IvanOnTech/status/1411606010318438402?s=20); [Tweet2](https://twitter.com/IvanOnTech/status/1411606581532368901?s=19)
+33. Ivan on Tech will Hans Moog interviewen: [Tweet1](https://twitter.com/IvanOnTech/status/1411606010318438402?s=20); [Tweet2](https://twitter.com/IvanOnTech/status/1411606581532368901?s=19); Ist wohl jetzt fix: [Tweet von H.Moog](https://twitter.com/hus_qy/status/1411958591301509121?s=20)
 34. Im RU Hackathon wurde Safe Cred entwickelt, eine App als digital identity Lösung für Covid 19 mit Zebra Technologie; Hier das [Video](https://www.youtube.com/watch?v=eMokZs1D20c) dazu
 35. Es gab ein Hornet Update. Problem: "An internal process caused a new signing key to be released on the COO before nodes were able to validate the new signature set provided in milestones. "
 36. Byte5 mit einem kurzen [Video über IOTA](https://twitter.com/byte5/status/1410867926337474561?s=20); Hier die [Webseite von Byte5](https://www.byte5.de/iota/) mit IOTAinside
