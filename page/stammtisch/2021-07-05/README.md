@@ -23,8 +23,8 @@
 21. [Tweet von Phylo](https://twitter.com/Phylo79288735/status/1410967271544029185?s=19) zum DAO Meeting; [Meeting nodes auf GitHub](https://github.com/iota-community/Community-Governance/blob/main/meetings/notes_01.07.md)
 22. Es gab ein [Interview zwischen Frank Thelen, Blocktrainer und Co über PoS vs. PoW](https://www.youtube.com/watch?v=Qo9ee-QLvuE&t=814s) in dem er auch IOTA erwähnt
 23. [IOTA Weekly - IOTA alles Scam?](https://www.youtube.com/watch?v=w8AnoXkOhJ8) war richtig gut diese Woche
-24. [Fragen](https://www.reddit.com/r/Iota/comments/oc7r2b/ama_with_dominik_schiener_06072021/) für das IOTA AMA mit Dom Schiener am Dienstag
-25. Das Problem vom [Miner Extractable Value](https://www.youtube.com/watch?v=Wd0at2Pu6xY), kann laut Hans Moog nur IOTA lösen
+24. [Fragen](https://www.reddit.com/r/Iota/comments/oc7r2b/ama_with_dominik_schiener_06072021/) für das IOTA AMA mit Dom Schiener am Dienstag und hier wird das [Video auf Youtube](https://www.youtube.com/watch?v=wfS0WXqWShk) gezeigt
+25. Das Problem vom [Miner Extractable Value](https://www.youtube.com/watch?v=Wd0at2Pu6xY), kann laut Hans Moog nur IOTA lösen; [Hans Moog Tweetdiskussion](https://twitter.com/hus_qy/status/1411384333785612290?s=20)
 26. [On Tanlge Voting im Einsteiger Guide](https://iota-einsteiger-guide.de/iota-on-tangle-voting-multiverse.html)
 27. Raspihive veröffentlicht Raspihive 2.2: [Tweet](https://twitter.com/raspihive/status/1411253654179520516?s=19) (Man kann mit Raspihive ganz einfach eine IOTA Node auf dem Raspberry Pi installieren)
 28. Dom [tweetet](https://twitter.com/DomSchiener/status/1411610404963459074?s=20) über das "Wheel of Oportunities". Hier nochmal ein [Tweet](https://twitter.com/DomSchiener/status/1411722678944382983?s=20) darüber was er mit "Building Blocks" meint
@@ -32,7 +32,6 @@
 30. ["The Moneyfesto Hypothesis" auf r/IOTA](https://www.reddit.com/r/Iota/comments/odejqy/the_moneyfesto_hypothesis_crosspost_because_after/) weil es auf r/CC gelöscht wurde...
 31. Firefly Ledger Integration wird jetzt getestet: [Tweet](https://twitter.com/iota/status/1411596149190967296)
 32. Ivan on Tech will Hans Moog interviewen: [Tweet1](https://twitter.com/IvanOnTech/status/1411606010318438402?s=20); [Tweet2](https://twitter.com/IvanOnTech/status/1411606581532368901?s=19)
-33. Miner Extractable Value (MEV): [Hans Moog Tweetdiskussion](https://twitter.com/hus_qy/status/1411384333785612290?s=20)
-34. Sharding whitepaper soon? [Tweet](https://twitter.com/hus_qy/status/1410698364224741382?s=20) Und was ist eigentlich mit dem Tokenomics paper?!?
-35. Dom macht am Dienstag ein AMA: Hier kann man Fragen stellen [auf Reddit](https://www.reddit.com/r/Iota/comments/oc7r2b/ama_with_dominik_schiener_06072021/?utm_source=share&utm_medium=web2x&context=3) und hier wird das [Video auf Youtube](https://www.youtube.com/watch?v=wfS0WXqWShk) gezeigt
-36. [IOTA-Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/95-wochenr%C3%BCckblick-vom-28-juni-bis-3-juli-2021/&article%2F95-wochenr%C3%BCckblick-vom-28-juni-bis-3-juli-2021%2F=&__twitter_impression=true)
+33. Sharding whitepaper soon? [Tweet](https://twitter.com/hus_qy/status/1410698364224741382?s=20) Und was ist eigentlich mit dem Tokenomics paper?!?
+34. Heute startet die SummerSchool Blockchain in der Uni Zürich mit IOTAinside: [Tweet1](https://twitter.com/uzh_blockchain/status/1380105871498346497?s=20)
+35. [IOTA-Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/95-wochenr%C3%BCckblick-vom-28-juni-bis-3-juli-2021/&article%2F95-wochenr%C3%BCckblick-vom-28-juni-bis-3-juli-2021%2F=&__twitter_impression=true)
