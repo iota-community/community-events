@@ -32,6 +32,8 @@
 30. ["The Moneyfesto Hypothesis" auf r/IOTA](https://www.reddit.com/r/Iota/comments/odejqy/the_moneyfesto_hypothesis_crosspost_because_after/) weil es auf r/CC gelöscht wurde...
 31. Firefly Ledger Integration wird jetzt getestet: [Tweet](https://twitter.com/iota/status/1411596149190967296)
 32. Ivan on Tech will Hans Moog interviewen: [Tweet1](https://twitter.com/IvanOnTech/status/1411606010318438402?s=20); [Tweet2](https://twitter.com/IvanOnTech/status/1411606581532368901?s=19)
-33. Sharding whitepaper soon? [Tweet](https://twitter.com/hus_qy/status/1410698364224741382?s=20) Und was ist eigentlich mit dem Tokenomics paper?!?
-34. Heute startet die SummerSchool Blockchain in der Uni Zürich mit IOTAinside: [Tweet1](https://twitter.com/uzh_blockchain/status/1380105871498346497?s=20)
-35. [IOTA-Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/95-wochenr%C3%BCckblick-vom-28-juni-bis-3-juli-2021/&article%2F95-wochenr%C3%BCckblick-vom-28-juni-bis-3-juli-2021%2F=&__twitter_impression=true)
+33. Im RU Hackathon wurde Safe Cred entwickelt, eine App als digital identity Lösung für Covid 19 mit Zebra Technologie; Hier das [Video](https://www.youtube.com/watch?v=eMokZs1D20c) dazu
+34. Im Odyssey Momentum Hackathon: Huhn hat ein paar Tweets dazu abgesetzt: [Tweet1](https://twitter.com/huhn511/status/1410951286665658371?s=20); Tweet2](https://twitter.com/huhn511/status/1411292939205103618?s=20); Tweet[3](https://twitter.com/OdysseyMomentum/status/1411690787197308934?s=20); Tweet4](https://twitter.com/huhn511/status/1411702055207583750?s=20); Und hier das [Video vom Finale](Sovereign Nature Initiative Hackathon 2021, Teams' Pitches & Demos)
+35. Sharding whitepaper soon? [Tweet](https://twitter.com/hus_qy/status/1410698364224741382?s=20) Und was ist eigentlich mit dem Tokenomics paper?!?
+36. Heute startet die SummerSchool Blockchain in der Uni Zürich mit IOTAinside: [Tweet1](https://twitter.com/uzh_blockchain/status/1380105871498346497?s=20)
+37. [IOTA-Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/95-wochenr%C3%BCckblick-vom-28-juni-bis-3-juli-2021/&article%2F95-wochenr%C3%BCckblick-vom-28-juni-bis-3-juli-2021%2F=&__twitter_impression=true)
