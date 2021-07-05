@@ -35,4 +35,4 @@
 33. Miner Extractable Value (MEV): [Hans Moog Tweetdiskussion](https://twitter.com/hus_qy/status/1411384333785612290?s=20)
 34. Sharding whitepaper soon? [Tweet](https://twitter.com/hus_qy/status/1410698364224741382?s=20) Und was ist eigentlich mit dem Tokenomics paper?!?
 35. Dom macht am Dienstag ein AMA: Hier kann man Fragen stellen [auf Reddit](https://www.reddit.com/r/Iota/comments/oc7r2b/ama_with_dominik_schiener_06072021/?utm_source=share&utm_medium=web2x&context=3) und hier wird das [Video auf Youtube](https://www.youtube.com/watch?v=wfS0WXqWShk) gezeigt
-36. IOTA-Talk Wochenrückblick(https://www.iota-talk.com/index.php?article-amp/95-wochenr%C3%BCckblick-vom-28-juni-bis-3-juli-2021/&article%2F95-wochenr%C3%BCckblick-vom-28-juni-bis-3-juli-2021%2F=&__twitter_impression=true)
+36. [IOTA-Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/95-wochenr%C3%BCckblick-vom-28-juni-bis-3-juli-2021/&article%2F95-wochenr%C3%BCckblick-vom-28-juni-bis-3-juli-2021%2F=&__twitter_impression=true)
