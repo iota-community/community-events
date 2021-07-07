@@ -10,4 +10,4 @@
 8. Zignar Technologies mit [Blogpost](https://blog.zignar.tech/research-collaboration-agreement-196051f3c3e6) und [Tweet](https://twitter.com/zignartech/status/1412494695826038784?s=20) zur Research Kollaboration mit Integrated Agriculture Technology Centre (IATC) 
 9. Neues von Tangleswap.finance: [Tweet](https://twitter.com/TangleSwapDeFi/status/1412499282654121987?s=19)
 10. IF [tweetet](https://twitter.com/iota/status/1412501705871216641?s=20) über den neuen [Blogpost](https://blog.iota.org/iota-powered-smart-grid-infrastructure/) "IOTA-Powered Smart Grid Infrastructure" natürlich gleich wieder von Schmucklos [übersetzt](https://iota-einsteiger-guide.de/smart-grid-infrastruktur.html)
-11. 
+11. Binance akzeptiert keine Überweisungen mehr aus Europa?!? [Bericht NTV](https://www.n-tv.de/wirtschaft/der_boersen_tag/Kryptoboerse-Binance-geht-s-an-den-Kragen-SEPA-Zahlungen-ausgesetzt-article22666480.html); [Bericht BTC Echo](https://www.btc-echo.de/news/schock-bei-binance-bitcoin-boerse-nimmt-keine-euro-einlagen-mehr-an-121937/)
