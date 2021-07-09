@@ -21,4 +21,6 @@
 19. [IOTA Research Status Update](https://blog.iota.org/iota-research-status-update-july-2021/); Hier [auf deutsch](https://iota-kurs.de/iota-forschungsstatus-update-juli-2021/)
 20. [Verwaltungsschale Vernetzt](https://vwsvernetzt.de/) mit IOTAinside; HIer ein [Video](https://www.youtube.com/watch?v=rwcsa8489RY&t=1s) dazu; Es geht um digitale Zwillinge für Industry 2.0; Mit Siemens, Hitachi, SAP, Fraunhofer, Eclass und vielen anderen an Board... "Deutschlandweiter Demonstrator"
 21. DevNet Problem ist gefunden und mit Release von 0.7.4 offenbar behoben: [Tweet mit Screenshots](https://twitter.com/Vrom14286662/status/1413126710409629699?s=20)
-22. 
+22. Elon Musk [twittert](https://twitter.com/elonmusk/status/1413396249546563586?s=20) darüber dass ETH und BTC zu langsam und nicht skalierbar sind... Dogeupdate soon...
+23. Olaf van Wijk veröffentlicht(https://twitter.com/ovanwijk/status/1413216971127066626?s=20) Nihilium mit einem [Blogpost](https://medium.com/coinmonks/introducing-nihilium-752227497a45): Es geht irgendwie darum seine Passwörter/private keys noch sicherer zu machen... Hat auch was mit IOTA zu tun: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1413481543687880704?s=20)
+24. 
