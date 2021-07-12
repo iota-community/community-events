@@ -40,3 +40,4 @@
 38. Coordicide kommt wohl mit OnTangleVoting [OTVFPC](https://iota.cafe/t/on-tangle-voting-with-fpcs/1218). Wann wird das eigentlich mal ganz offiziell verkündet? Verschiebt sich dadurch alles?
 39. INATBA Event: Blcokchain for social impact: [IF Tweet](https://twitter.com/iota/status/1414519978716540930?s=20); [Zoom-Event](https://inatba.org/events-calendar/blockchain-for-social-impact/); INATBA [retweetet](https://twitter.com/INATBA_org/status/1414520567114477575?s=20) das auch (soon mehr dazu)
 40. IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/100-wochenr%C3%BCckblick-vom-5-bis-10-juli-2021/&article%2F100-wochenr%C3%BCckblick-vom-5-bis-10-juli-2021%2F=&__twitter_impression=true)
+41. IOTA [NFT Marketplace wurde released](https://twitter.com/NFTIOTA/status/1414633582987993091?s=20) (MVP): [Blogpost](https://blog.iota.org/iota-the-most-accessible-dlt-network-for-nfts/)
