@@ -23,4 +23,9 @@
 21. DevNet Problem ist gefunden und mit Release von 0.7.4 offenbar behoben: [Tweet mit Screenshots](https://twitter.com/Vrom14286662/status/1413126710409629699?s=20)
 22. Elon Musk [twittert](https://twitter.com/elonmusk/status/1413396249546563586?s=20) darüber dass ETH und BTC zu langsam und nicht skalierbar sind... Dogeupdate soon...
 23. Olaf van Wijk veröffentlicht(https://twitter.com/ovanwijk/status/1413216971127066626?s=20) Nihilium mit einem [Blogpost](https://medium.com/coinmonks/introducing-nihilium-752227497a45): Es geht irgendwie darum seine Passwörter/private keys noch sicherer zu machen... Hat auch was mit IOTA zu tun: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1413481543687880704?s=20)
-24. 
+24. IOTAWeekly 004: [Floodgates öffnen sich - wird IOTA bald abheben?](https://www.youtube.com/watch?v=i66BM4T-GgU); in [english](https://www.youtube.com/watch?v=HFDSRSivqmo)
+25. Neuer Artikel über: [Industry & NDE 4.0 — The benefits from DLT and the IOTA protocol](https://chrissgq.medium.com/industry-nde-4-0-the-benefits-from-dlt-and-the-iota-protocol-6889b897ec0a)
+26. Senseering tweetet über diesen Artikel auf OVHCloud (europäische Marktführer im Cloud-Bereich): [Skalierbare und datensouveräne Public Cloud als Basis eines IoT-Datenmarktplatzes](https://www.ovhcloud.com/de/case-studies/senseering/)
+27. Es gab ein Geldregen für iotamemes Artists: [Tweet von vrom](https://twitter.com/Vrom14286662/status/1414473803707596801?s=20)
+28. CZ Binance will Crypto jetzt auch grüner machen: [Tweet](https://twitter.com/cz_binance/status/1414399000258617345?s=20)
+29. IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/100-wochenr%C3%BCckblick-vom-5-bis-10-juli-2021/&article%2F100-wochenr%C3%BCckblick-vom-5-bis-10-juli-2021%2F=&__twitter_impression=true)
