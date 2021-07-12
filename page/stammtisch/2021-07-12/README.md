@@ -29,5 +29,5 @@
 27. Es gab ein Geldregen für iotamemes Artists: [Tweet von vrom](https://twitter.com/Vrom14286662/status/1414473803707596801?s=20)
 28. CZ Binance will Crypto jetzt auch grüner machen: [Tweet](https://twitter.com/cz_binance/status/1414399000258617345?s=20)
 29. Gitrade [tweetet](https://twitter.com/gitrade1/status/1414222580320456706?s=20) darüber, dass sie "Investing in Open Source Projects using @iota" bauen wollen; Hier die [Webseite von Gitrade](https://my-environment.outsystemscloud.com/Gitrade/)
-30. 
+30. Coordicide kommt wohl mit [OTVFPC](https://iota.cafe/t/on-tangle-voting-with-fpcs/1218). Wann wird das eigentlich mal ganz offiziell verkündet?
 31. IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/100-wochenr%C3%BCckblick-vom-5-bis-10-juli-2021/&article%2F100-wochenr%C3%BCckblick-vom-5-bis-10-juli-2021%2F=&__twitter_impression=true)
