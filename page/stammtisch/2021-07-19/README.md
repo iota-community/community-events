@@ -16,3 +16,7 @@
 14. Es gab bei Reddit IOTAmarkets einen langen Post mit [kritischen Bemerkungen auf die Charly Varley einzenlnd eingegangen ist](https://www.reddit.com/r/IOTAmarkets/comments/ojmqe3/the_legitimate_case_for_20_cent_iota/h536op2/?utm_source=share&utm_medium=web2x&context=3)
 15. EZB startet Großprojekt: [Der digitale Euro soll kommen](https://www.handelsblatt.com/finanzen/neue-digitalwaehrung-ezb-startet-grossprojekt-der-digitale-euro-soll-kommen/27418362.html) "EZB-Chefin Christine Lagarde erklärte: „Mit unserer Arbeit wollen wir sicherstellen, dass Bürger und Unternehmen auch im digitalen Zeitalter Zugang zur sichersten Form des Geldes, dem Zentralbankgeld, haben.“  Lol "sicherste Form"... weiß sie doch gar nicht wenn die technik noch nichtmal klar ist...
 16. Ledger und Binance Integration: Immer ein Thema im Stammtisch...
+17. [SmartFactory-KL LIVE: Die Zukunft der Verwaltungsschale](https://www.youtube.com/watch?v=XM-2BozePeM)
+18. Hans Moog sieht 5000$ in 10 Jahren möglich: [Tweet](https://twitter.com/hus_qy/status/1415454790788726787?s=20) "why would you invest in anything but the best?" 
+19. Michele Nati hat ein [Video auf italienisch](https://twitter.com/michelenati/status/1415599289355669504?s=20) veröffentlicht wo er ein Vorgeschmack gibt auf das was er auf so einem Event im Oktober erzählen will
+20. Die IF [tweetet](https://twitter.com/iota/status/1415598152544030720?s=20) über ein Paper: [Access Control for Distributed Ledgers in the Internet of Things: A Networking Approach](https://arxiv.org/abs/2005.07778) Hat das jemand gelesen?
