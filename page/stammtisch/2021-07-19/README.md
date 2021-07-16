@@ -24,5 +24,4 @@
 22. Dom Schiener Interview: [IOTA: Creating value vs hype in crypto, sustainability, and real-world adoption | Part 1 | DailyCoin](https://www.youtube.com/watch?v=-GZhO_ocMCk)
 23. ZEDEDA ist Partnerschaft mit googlecloud eingegangen. Den Tweet dazu [retweetet](https://twitter.com/iota/status/1415716364757651456?s=20) die IOTA Foundation und freut sich drüber. Es gibt auch einen [Bericht in Busienesswire](https://www.businesswire.com/news/home/20210715005165/en/ZEDEDA-Joins-Initiative-to-Deliver-Applications-to-the-Distributed-Edge-with-Google-Cloud-and-Anthos) darüber
 24. Hans Moog kommentiert die Aussagen von Blocktrainer zu IOTA in der Konsens Nonsens Telegramgruppe (Den Text findet man in der einfachIOTA Discord #Kneipe -> 16.Juli 12:46)
-25. 
-
+25. IOTAWeekly 005: [NFT Marktplatz, TÜV, Zededa Partnerschaft und vieles mehr!](https://www.youtube.com/watch?v=htP3bs25Ct8); [englisch](https://www.youtube.com/watch?v=tEUUVKcyVho)
