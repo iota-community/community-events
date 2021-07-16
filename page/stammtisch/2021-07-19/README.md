@@ -20,3 +20,9 @@
 18. Hans Moog sieht 5000$ in 10 Jahren möglich: [Tweet](https://twitter.com/hus_qy/status/1415454790788726787?s=20) "why would you invest in anything but the best?" 
 19. Michele Nati hat ein [Video auf italienisch](https://twitter.com/michelenati/status/1415599289355669504?s=20) veröffentlicht wo er ein Vorgeschmack gibt auf das was er auf so einem Event im Oktober erzählen will
 20. Die IF [tweetet](https://twitter.com/iota/status/1415598152544030720?s=20) über ein Paper: [Access Control for Distributed Ledgers in the Internet of Things: A Networking Approach](https://arxiv.org/abs/2005.07778) Hat das jemand gelesen?
+21. Hans Moog beruhigt mal wieder die Kritiker mit seinen [Tweets](https://twitter.com/hus_qy/status/1415823972952944647?s=20) zum Thema FPC und OTV.... "very very close to ultimate goal"
+22. Dom Schiener Interview: [IOTA: Creating value vs hype in crypto, sustainability, and real-world adoption | Part 1 | DailyCoin](https://www.youtube.com/watch?v=-GZhO_ocMCk)
+23. ZEDEDA ist Partnerschaft mit googlecloud eingegangen. Den Tweet dazu [retweetet](https://twitter.com/iota/status/1415716364757651456?s=20) die IOTA Foundation und freut sich drüber. Es gibt auch einen [Bericht in Busienesswire](https://www.businesswire.com/news/home/20210715005165/en/ZEDEDA-Joins-Initiative-to-Deliver-Applications-to-the-Distributed-Edge-with-Google-Cloud-and-Anthos) darüber
+24. Hans Moog kommentiert die Aussagen von Blocktrainer zu IOTA in der Konsens Nonsens Telegramgruppe (Den Text findet man in der einfachIOTA Discord #Kneipe -> 16.Juli 12:46)
+25. 
+
