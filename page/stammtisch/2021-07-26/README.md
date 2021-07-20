@@ -6,3 +6,5 @@
 4. Word Press Plugin ist fertig: [Tweet von Alexander](https://twitter.com/shortaktien/status/1417497504703209486?s=19); [Wordpress-Plugin](https://wordpress.org/plugins/pay-with-iota/), Das schreit nach Community Hero der Woche...
 5. Laut Dom ist die IOTA Foundation nicht mehr von dem Verkauf von IOTA Token abhängig: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1417557160540745737?s=20)
 6. MicroHash spricht davon, dass IOTA nicht nur einzelne dApps von Ethereum kopieren, sondern gleich das komplette Ecosystem leapfroggen (Bochspringen/Entwicklungsschritte Überspringen) will: [Tweet](https://twitter.com/micro_hash/status/1417397728359944192?s=20)
+7. Das IOTAXTeam für DiD läuft scheinbar gut und hat eine Überraschung für die Community: [Tweet von Huhn](https://twitter.com/huhn511/status/1417198956057092096?s=20)
+8. Tangle.swap hat diese Woche wohl auch noch eine Überraschung: [Tweet](https://twitter.com/TangleSwapE/status/1417441342720983042?s=20)
