@@ -10,4 +10,5 @@
 8. Tangle.swap hat diese Woche wohl auch noch eine Überraschung: [Tweet](https://twitter.com/TangleSwapE/status/1417441342720983042?s=20)
 9. Hans Moog Blogpost über die Vergangenheit: [Answer to the criticism of “Groovy” on Twitter](https://husqy.medium.com/answer-to-the-criticism-of-groovy-on-twitter-ca5f1355d3c3)
 10. TangleBay update von swarm auf v0.6.0: [Tweet](https://twitter.com/TANGLEBAY/status/1417620928872292358?s=20); [GitHub](https://github.com/tanglebay/swarm)
-11. 
+11. Läuft nicht so reccht mit dem Kurs, seit DOGE auf Coinbase ist: [Tweet](https://twitter.com/ttvCrypt0Jack/status/1417346708946702359?s=20) 
+12. 
