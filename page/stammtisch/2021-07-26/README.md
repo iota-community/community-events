@@ -35,4 +35,5 @@
 33. Charley Varley kommt langsam aus der Deckung und shillt IOTA mit mehreren Tweets: [Tweet 1](https://twitter.com/c_varley/status/1419106461322465288?s=20); [Tweet2](https://twitter.com/c_varley/status/1419246327104409600?s=20); Und er [verteidigt Firefly in diesem Tweet](https://twitter.com/c_varley/status/1419115787399348232?s=20)
 34. Holger Köther [beantwortet](https://twitter.com/HolgerKoether/status/1419206219286392838?s=20) eine Frage zu "Bigger than Coinbase" und auch [Navin meldet sich dazu zu Wort](https://twitter.com/navinram999/status/1419262772282601474?s=20)
 35. [IOTA.PHP Λlpha Version 0.3.0 wurde released](https://twitter.com/IOTAphp/status/1419300373756526596?s=20); Hier der [GitHub Code](https://github.com/iota-community/iota.php)
-36. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/105-week-in-review-july-18th-to-24th-2021/&article%2F105-week-in-review-july-18th-to-24th-2021%2F=&__twitter_impression=true)
+36. Elon Musk scheint keinen großen Einfluss mehr zu haben auf den Markt. Sein [Tweet über Doge](https://twitter.com/elonmusk/status/1419151233739378689?s=20) bewirkt nix mehr.
+37. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/105-week-in-review-july-18th-to-24th-2021/&article%2F105-week-in-review-july-18th-to-24th-2021%2F=&__twitter_impression=true)
