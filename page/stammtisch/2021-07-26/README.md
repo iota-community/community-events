@@ -42,3 +42,4 @@
 40. Bitcoin pumpt um 12% in 24h. Liegt das vielleicht an den [Amazon Gerüchten](https://www.cityam.com/amazon-definitely-lining-up-bitcoin-payments-and-token-confirms-insider/)?
 41. DWPBank sucht [digitalisierungs Manager Blockchain](https://dwpbank.softgarden.io/job/11168658?l=de) mit "Sehr gutes Verständnis gängiger Plattformen, Architekturen und Protokollen, wie z.B. Bitcoin, Ethereum, Hyperledger, Corda oder IOTA"
 42. Die IOTA DEX TangleSee schreibt das [1. Kapitel einer Geschichte vom kleinen Tangler](https://t.co/CztPVGL1kF?amp=1) der "der Auserwählte sein soll, der Wächter des Tangles, der, der den Schwarm aus den Tiefen der Tangle Sea, hin zu den ertragreichen Gewässern der florierenden Tangler-Kolonie führen soll"
+43. Uniswap, die dezentrale Exchange macht zentrale Entscheidungen im Frontend und delistet Token wegen USA Regulatorien: [Zusammenfassung Bitcoin2Go](https://bitcoin-2go.de/uniswap-labs-schrankt-tokenzugang-ein/)
