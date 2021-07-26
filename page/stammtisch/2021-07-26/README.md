@@ -45,4 +45,4 @@
 43. Uniswap, die dezentrale Exchange macht zentrale Entscheidungen im Frontend und delistet Token wegen USA Regulatorien: [Zusammenfassung Bitcoin2Go](https://bitcoin-2go.de/uniswap-labs-schrankt-tokenzugang-ein/)
 44. Cardano hat wohl auch nicht geliefert. Mit dem [Blocktrainer Tweet](https://twitter.com/blocktrainer/status/1419546587479543809?s=20) wird sich jetzt wohl auch die Cardano Community von ihm abwenden... [C. Hoskinson freut sich zumindest auf die next 2 month](https://twitter.com/IOHK_Charles/status/1419059934734417921?s=20), also die würde ich nicht abschreiben...
 45. Holger Köther [tweetet](https://twitter.com/HolgerKoether/status/1419612608047484930?s=20) über ein neues Promo-Video von Chaise: [Blockchain Skills for Europe - An introduction to the CHAISE project](https://www.youtube.com/watch?v=v9dy5Tmwr1Q) 
-46. Unser Professor shillt IOTAs security model: [Tweet von Prof Bill Buchanan](https://twitter.com/billatnapier/status/1419659120890814465?s=20)
+46. Unser Professor shillt IOTAs security model: [Tweet von Prof Bill Buchanan](https://twitter.com/billatnapier/status/1419659120890814465?s=20) als besser als Bitcoin
