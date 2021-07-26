@@ -37,3 +37,8 @@
 35. [IOTA.PHP Λlpha Version 0.3.0 wurde released](https://twitter.com/IOTAphp/status/1419300373756526596?s=20); Hier der [GitHub Code](https://github.com/iota-community/iota.php)
 36. Elon Musk scheint keinen großen Einfluss mehr zu haben auf den Markt. Sein [Tweet über Doge](https://twitter.com/elonmusk/status/1419151233739378689?s=20) bewirkt nix mehr.
 37. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/105-week-in-review-july-18th-to-24th-2021/&article%2F105-week-in-review-july-18th-to-24th-2021%2F=&__twitter_impression=true)
+38. Fetch Ai hat heute am Montag 16:30 CEST ein [Update zu IOTA Crowdcast](https://www.crowdcast.io/e/fetch-ai-iota-project-update/register) gemacht
+39. Hans Moog (vs.) Radix [Tweets](https://twitter.com/hus_qy/status/1419430660360613890?s=20); Der [Mainnet launch](https://www.radixdlt.com/post/radix-olympia-mainnet-is-coming) ist wohl am 28.7. Aber ist wohl auch erstmal nur ne abgespeckte Version mit 100 nodes 50 TPS keine smart contracts und Defi aber wohl schon Staking und Colored Coins.
+40. Bitcoin pumpt um 12% in 24h. Liegt das vielleicht an den [Amazon Gerüchten](https://www.cityam.com/amazon-definitely-lining-up-bitcoin-payments-and-token-confirms-insider/)?
+41. DWPBank sucht [digitalisierungs Manager Blockchain](https://dwpbank.softgarden.io/job/11168658?l=de) mit "Sehr gutes Verständnis gängiger Plattformen, Architekturen und Protokollen, wie z.B. Bitcoin, Ethereum, Hyperledger, Corda oder IOTA"
+42. TangleSee mit mit dem [1. Kapitel einer Geschichte vom kleinen Tangler](https://t.co/CztPVGL1kF?amp=1) der "der Auserwählte sein soll, der Wächter des Tangles, der, der den Schwarm aus den Tiefen der Tangle Sea, hin zu den ertragreichen Gewässern der florierenden Tangler-Kolonie führt..."
