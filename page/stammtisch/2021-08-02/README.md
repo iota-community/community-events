@@ -9,3 +9,4 @@ Wie schafft eine IOTA NFT Plattform diesen Vorsprung an Netzwerkeffekt einzuhole
 6. Trademark East Afrika: [DEXES Jungs auf Youtube](https://www.youtube.com/watch?v=6HDnx4BtXyw); Neuer [Tweet von TEA](https://twitter.com/TradeMarkEastA/status/1420386955762835462?s=20) mit IOTAinside über: [TradeMark East Africa and UK’s Institute of Export ink agreement to boost UK – Kenya Trade](https://www.trademarkea.com/press-release/trademark-east-africa-and-uks-institute-of-export-ink-agreement-to-boost-uk-kenya-trade/)
 7. [IOTA Standardization Update July](https://blog.iota.org/standards-update-july-2021/)
 8. UnCoined mit neuem Video: [#33 July Updates for IOTA](https://www.youtube.com/watch?v=6XlSWANdxew)
+9. Governance Community Call war am Donnerstag 28.7: [Ankündigungs Tweet](https://twitter.com/Phylo79288735/status/1420392081168605189?s=20)
