@@ -8,3 +8,4 @@ Wie schafft eine IOTA NFT Plattform diesen Vorsprung an Netzwerkeffekt einzuhole
 5. Hans Moog vs. Radix: [Tweet](https://twitter.com/hus_qy/status/1420100723577131014?s=20)
 6. Trademark East Afrika: [DEXES Jungs auf Youtube](https://www.youtube.com/watch?v=6HDnx4BtXyw)
 7. [IOTA Standardization Update July](https://blog.iota.org/standards-update-july-2021/)
+8. UnCoined mit neuem Video: [#33 July Updates for IOTA](https://www.youtube.com/watch?v=6XlSWANdxew)
