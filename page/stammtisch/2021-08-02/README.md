@@ -7,4 +7,4 @@ Wie schafft eine IOTA NFT Plattform diesen Vorsprung an Netzwerkeffekt einzuhole
 4. Luigi Vigneri [erklärt](https://twitter.com/VekkioKonio/status/1419954154869506073?s=20) dass ihr Paper [Fast Generation of RSA Keys using Smooth Integers](https://ieeexplore.ieee.org/document/9478259) zur Publikation akzeptiert wurde für "IEEE Transactions on Computers"; Die IF [tweetet](https://twitter.com/iota/status/1420323185061507073) auch darüber
 5. Hans Moog vs. Radix: [Tweet](https://twitter.com/hus_qy/status/1420100723577131014?s=20)
 6. Trademark East Afrika: [DEXES Jungs auf Youtube](https://www.youtube.com/watch?v=6HDnx4BtXyw)
-7. 
+7. [IOTA Standardization Update July](https://blog.iota.org/standards-update-july-2021/)
