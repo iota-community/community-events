@@ -10,3 +10,5 @@ Wie schafft eine IOTA NFT Plattform diesen Vorsprung an Netzwerkeffekt einzuhole
 7. [IOTA Standardization Update July](https://blog.iota.org/standards-update-july-2021/)
 8. UnCoined mit neuem Video: [#33 July Updates for IOTA](https://www.youtube.com/watch?v=6XlSWANdxew)
 9. Governance Community Call war am Donnerstag 28.7: [Ankündigungs Tweet](https://twitter.com/Phylo79288735/status/1420392081168605189?s=20)
+10. Buffy stellt mal wieder alles in Frage: [Tweet 1](https://twitter.com/fudsfuddy/status/1420388053701611522?s=20); [Tweet 2](https://twitter.com/fudsfuddy/status/1420490121422405634?s=20) und Hans Moog antwortet sachlich in mehreren [Tweets](https://twitter.com/hus_qy/status/1420475769495638024?s=20). Auf [die Frage nach konkreten Problem vom Coordicide Consensus](https://twitter.com/hus_qy/status/1420499834285576193?s=20) kommt nicht mehr viel...
+11. 
