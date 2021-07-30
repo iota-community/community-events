@@ -16,4 +16,4 @@ Wie schafft eine IOTA NFT Plattform diesen Vorsprung an Netzwerkeffekt einzuhole
 13. IF Blogpost: [Improvements to the IOTA 2.0 Consensus Mechanism](https://blog.iota.org/improvements-to-the-iota-2-0-consensus-mechanism/); auf [deutsch](https://iota-einsteiger-guide.de/verbesserungen-des-konsens-mechanismus.html)
 14. => Coordicide nicht mehr in 2021
 15. Blockchain Drenthe mit einem [Tweet](https://twitter.com/BclDrenthe/status/1420712137366855682?s=19) über ihren schicken Demonstrator "pay with IOTA and get kWh over #LoraWAN / WiFi"  für ihre IT-Studenten von NHL Stenden um Pay-per-Use business model Anwendungen mit IOTA Tangle/Cryptocurrency umzusetzen; Wurde auch auf [LinkedIN gepostet](https://www.linkedin.com/feed/update/urn:li:activity:6826463180974297088/)
-16. 
+16. Artikel auf DailyCoin [IOTA: The New Competitive Advantage… Is Not Competing?](https://dailycoin.com/iota-the-new-competitive-advantage-is-not-competing/)
