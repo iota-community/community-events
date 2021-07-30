@@ -11,4 +11,9 @@ Wie schafft eine IOTA NFT Plattform diesen Vorsprung an Netzwerkeffekt einzuhole
 8. UnCoined mit neuem Video: [#33 July Updates for IOTA](https://www.youtube.com/watch?v=6XlSWANdxew)
 9. Governance Community Call war am Donnerstag 28.7: [Ankündigungs Tweet](https://twitter.com/Phylo79288735/status/1420392081168605189?s=20)
 10. Buffy stellt mal wieder alles in Frage: [Tweet 1](https://twitter.com/fudsfuddy/status/1420388053701611522?s=20); [Tweet 2](https://twitter.com/fudsfuddy/status/1420490121422405634?s=20) und Hans Moog antwortet sachlich in mehreren [Tweets](https://twitter.com/hus_qy/status/1420475769495638024?s=20). Auf [die Frage nach konkreten Problem vom Coordicide Consensus](https://twitter.com/hus_qy/status/1420499834285576193?s=20) kommt nicht mehr viel...
-11. 
+11. Youtube: DEXES: [Warum wir an IOTA glauben](https://www.youtube.com/watch?v=7Zdl6bYUQ34)
+12. Byte mit eigenem [IOTA Whitepaper zum downloaden](https://www.byte5.de/iota/iota-whitepaper/)?!? "Laden Sie unser Whitepaper herunter und erfahren Sie, wie Sie Ihr Unternehmen mit IOTA zukunftssicher machen können!"
+13. IF Blogpost: [Improvements to the IOTA 2.0 Consensus Mechanism](https://blog.iota.org/improvements-to-the-iota-2-0-consensus-mechanism/); auf [deutsch](https://iota-einsteiger-guide.de/verbesserungen-des-konsens-mechanismus.html)
+14. => Coordicide nicht mehr in 2021
+15. Blockchain Drenthe mit einem [Tweet](https://twitter.com/BclDrenthe/status/1420712137366855682?s=19) über ihren schicken Demonstrator "pay with IOTA and get kWh over #LoraWAN / WiFi"  für ihre IT-Studenten von NHL Stenden um Pay-per-Use business model Anwendungen mit IOTA Tangle/Cryptocurrency umzusetzen; Wurde auch auf [LinkedIN gepostet](https://www.linkedin.com/feed/update/urn:li:activity:6826463180974297088/)
+16. 
