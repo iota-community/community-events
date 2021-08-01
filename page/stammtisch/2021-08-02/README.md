@@ -24,4 +24,9 @@ Wie schafft eine IOTA NFT Plattform diesen Vorsprung an Netzwerkeffekt einzuhole
 21. Replay ist verfügbar von [Fetch.ai - IOTA: Project Update](https://www.crowdcast.io/e/fetch-ai-iota-project-update/register); Die [IF hatte das getweetet](https://twitter.com/iota/status/1421229143442796546?s=20) mit dem Satz: ".. about the outstanding progress we’ve made on offering autonomous economic agents on the Tangle!"
 22. IOTA.php mit einem soon announcement: [Tweet](https://twitter.com/IOTAphp/status/1421121565836578819?s=20)
 23. Angelo Capossele hat etwas über den Progress bei GoShimmer erzählt: [Tweet mit Screenshots](https://twitter.com/Vrom14286662/status/1420598380443602950?s=20)
-24. 
+24. Sehr guter [Reddit Post über den Leaderlosen IOTA Consensus](https://www.reddit.com/r/CryptoCurrency/comments/ov8v7z/reality_as_a_social_construct_how_iotas_radical/?utm_medium=android_app&utm_source=share); Der Beitrag wurde sogar von Schmucklos im Einsteigerguide übersetzt:[IOTAs führerloser Konsens](https://iota-einsteiger-guide.de/iota-fuehrerloser-konsens.html)
+25. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/106-wochenr%C3%BCckblick-vom-25-bis-31-juli-2021/&article%2F106-wochenr%C3%BCckblick-vom-25-bis-31-juli-2021%2F=&__twitter_impression=true)
+26. Swift Doc ein "nationaler Health provider von Australien" setzt offenbar auf "#iota tangle for secure identity, data transfer (medical notes, blood results, e-prescriptions  imaging), smart contracts for subscription payments and one off payments for bookings"; Hier der ganze [Tweet](https://twitter.com/SwiftDoc_/status/1421549635403845636?s=20)
+27. Neues von der Ledger Integration: [Tweet von Charley Varley](https://twitter.com/c_varley/status/1421508011282026496?s=20); Der erste Release Kandidat wir ofenbar aktuell getestet; Charley antwortet dann noch mit [6 Tweets](https://twitter.com/c_varley/status/1421532812373602307?s=20) auf Buffy the IOTA Fudster
+28. 
+
