@@ -37,4 +37,5 @@ Wie schafft eine IOTA NFT Plattform diesen Vorsprung an Netzwerkeffekt einzuhole
 34. Heute 2.8.21 ist ja [ein neues Gesetz](https://www.bundesfinanzministerium.de/Content/DE/Gesetzestexte/Gesetze_Gesetzesvorhaben/Abteilungen/Abteilung_VII/19_Legislaturperiode/2021-06-10-FoStoG/0-Gesetz.html) in Kraft getreten, dass es Institutionen erlaubt 20% ihres Vermögens in Crypto zu stecken: [Bericht auf Bloomberg](https://www.bloomberg.com/news/articles/2021-07-30/germany-to-allow-institutional-funds-to-hold-up-to-20-in-crypto)
 35. IF Blogpost: [The IOTA Tangle selected as core technology for SUSEE to enable large scale sensor networks](https://blog.iota.org/the-iota-tangle-selected-as-core-technology-for-susee-to-enable-large-scale-sensor-networks/) und hier in [deutsch](https://iota-einsteiger-guide.de/susee-gross-angelegte-sensornetzwerke.html)
 36. Limo ist zurück! [Mit neuem Blog](https://iota.vision/blog/f/the-true-value-of-feeless)
+37. Dan Simmerman über "on chain privacy": [Tweet](https://twitter.com/DanSimerman/status/1422156954625921026?s=20) Was meint er wohl damit?
 
