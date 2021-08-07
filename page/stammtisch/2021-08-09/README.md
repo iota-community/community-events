@@ -17,3 +17,4 @@
 14. Am Freitag war [IOTA Stammtisch in München](https://www.meetup.com/de-DE/IOTA-Muc/events/hxtrlsycclbjb/)
 15. Guter Artikel von der International Business Times auf den selbst die IF hinweist: [The Block is Getting Greener: Top Environmentally Aware Blockchain and Crypto Projects](https://www.ibtimes.com/block-getting-greener-top-environmentally-aware-blockchain-crypto-projects-3267537)
 16. Die IF sucht einen Recruter: [IF Tweet](https://twitter.com/iota/status/1423575123781636096?s=19); [Stellenbeschreibung](https://iota.bamboohr.com/jobs/view.php?id=164&source=aWQ9NA%3D%3D)
+17. Dan Simmerman sucht Leute die etwas mit ISCP (our upcoming DAG based smart contract platform) bauen: [Tweet](https://twitter.com/DanSimerman/status/1423958862026010624?s=20)
