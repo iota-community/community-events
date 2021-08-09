@@ -29,4 +29,5 @@
 26. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/109-week-in-review-august-1th-to-7th-2021/)
 27. Untrschiedliche VM in einer Chain. Wie genau meint  Eric Hop das? [Tweet mit Screenshot](https://twitter.com/Schmucklos_/status/1424726553812930563?s=20) und noch eine [Erklärung](https://twitter.com/Schmucklos_/status/1424732177359687684?s=20) dazu
 28. Am Wochenende war eine deutsche Bitcoin Veranstaltung: Bitcoin Citadelle die [Blocktrainer](https://www.youtube.com/channel/UCG6KtMc5WYB-ppxwpaX5CFw) mitgeschnitten hat und in der auch [Andreas Aantonop zu Gast war](https://twitter.com/aantonop/status/1424323142982438912?s=20). Vielleicht hat das jemand gesehen und will davon berichten...
+29. Tangleswap mit neuer Roadmap [Tweet](https://twitter.com/TangleSwapE/status/1424777734224588801?s=20) und hier mehr Details wie die DEX aufgebaut werden soll: [Tweet](https://twitter.com/TangleSwapE/status/1424777740142661636?s=20)
 
