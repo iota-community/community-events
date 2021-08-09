@@ -27,4 +27,5 @@
 24. Die USA entscheiden heute über das Infrastructure Bill “Crypto Tax Reporting” zu dem sich [Brian Armstrong von Coinbase](https://twitter.com/brian_armstrong/status/1423744994444206092?s=20), [Elon Musk](https://twitter.com/elonmusk/status/1423780661639344131?s=20) und [Jack von Twitter](https://twitter.com/jack/status/1424219725626814465?s=20) geäußert haben von wegen: Macht jetzt keine Fehler... Es dazu auch einen [IOTA Reddit Beitrag](https://www.reddit.com/r/Iota/comments/oz3te2/us_infrastructure_bill_how_would_iota_be_affected/)
 25. Man kann natürlich auch noch über Olympia reden, über die neue [Monster-Rakete von Elon Musk](https://twitter.com/elonmusk/status/1423659261452709893?s=20) oder die Waldbrände im Süden...
 26. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/109-week-in-review-august-1th-to-7th-2021/)
+27. Untrschiedliche VM in einer Chain. Wie genau meint  Eric Hop das? [Tweet mit Screenshot](https://twitter.com/Schmucklos_/status/1424726553812930563?s=20) und noch eine [Erklärung](https://twitter.com/Schmucklos_/status/1424732177359687684?s=20) dazu
 
