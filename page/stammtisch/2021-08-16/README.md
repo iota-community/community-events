@@ -9,3 +9,5 @@
 7. CFB macht Drama mit seinem [Tweet](https://twitter.com/c___f___b/status/1425110806203703298?s=20). Es geht um irgendein "imaginäres?!?" Gerichtsverfahren zwischen David, IOTA Foundation und ihm?!? Buffy springt natürlich auch gleich an mit dem [Tweet](https://twitter.com/fudsfuddy/status/1425140933276884992?s=20)
 8. IOTA Quicktakes [auf englisch](https://www.youtube.com/watch?v=cNO5JgJe-7o)
 9. Es gab wohl den größten Defi Hack aller Zeiten mit 610 Millionen: [Tweet](https://twitter.com/Dogetoshi/status/1425082481963900930?s=20); Das Poly Network [tweetet](https://twitter.com/PolyNetwork2/status/1425123153009803267?s=20) ihren Brief an den Hacker er soll doch bitte alles zurück geben...
+10. US Bitcoin Gesetz wurde abgelehnt, weil ein Senator das als Druckmittel verwendet hat
+11.  
