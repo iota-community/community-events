@@ -13,4 +13,6 @@
 11. Hans Moog freut sich über den Fortschritt in seiner Abwesenheit: [Tweet](https://twitter.com/hus_qy/status/1425213563661062152?s=20)
 12. Dom Schieners Xayn hat ordentlich Funding bekommen: 10Milliionen EUR [Artikel](https://www.eu-startups.com/2021/08/berlin-based-xayn-lands-e10-1-million-to-grow-its-search-and-discovery-internet-browser-app/)
 13. Linus Naumann mit einer [Unpopular opinion: Bitcoin did not get rid of the middle-man](https://www.reddit.com/r/CryptoCurrency/comments/p2bmz6/unpopular_opinion_bitcoin_did_not_get_rid_of_the/) auf Reddit mit IOTA als evtl. Lösung ;-)
-14. 
+14. Am Do. 12.8. war ein DAO Meeting im IOTA Discord: Ankündigungs [Tweet](https://twitter.com/Phylo79288735/status/1425456575641096195?s=20)
+15. IOTA knackt die 1$ und DEXES machen darüber ein Video: [IOTA knackt die 1 $ - Grund zur Freude?](https://www.youtube.com/watch?v=PWzZmYnv63E)
+16. Die [IF tweetet](https://twitter.com/iota/status/1425476037924827136) darüber, dass ein neues akademisches Paper [Committee Selection in DAG Distributed Ledgers and Applications](https://link.springer.com/chapter/10.1007/978-3-030-80126-7_59) publiziert wurde.
