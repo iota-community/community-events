@@ -19,3 +19,5 @@
 17. IoTeX macht 200% an einem Tag. Punp and Dump oder steckt was dahinter?
 18. ADA geht steigt auch ordentlich, weil am Fr. den 13.8. ein Termin für smartcontracts bekannt gegeben werden soll: [Tweet von Hoskinson]()
 19. Ethereum  burnt erstmals mehr in Fees als neue Coins dazu kommen wegen [London Hard Fork "EIP-1559 "](https://dailycoin.com/ethereum-has-burnt-67-3-million-in-transaction-fees-since-the-london-hard-fork/)
+20. Die Tagesschau [tweetet](https://twitter.com/tagesschau/status/1425438736876285955?s=20) darüber das Coinbase Deutschland erobern will und Taged dabei die Deutsche Telekom?!?
+21. 
