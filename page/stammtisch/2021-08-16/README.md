@@ -8,7 +8,7 @@
 6. Die [IF tweetet](https://twitter.com/iota/status/1425118037544476676?s=20) über den neuen Blogpost: [The IOTA Identity Actor Explained](https://blog.iota.org/the-iota-identity-actor-explained/) oder [auf deutsch](https://iota-einsteiger-guide.de/iota-identity-actor.html); Jelle Milenar hat sich dazu auch geäußert mit einem [Tweet](https://twitter.com/JelleFm/status/1425119618440613897?s=20)
 7. CFB macht Drama mit seinem [Tweet](https://twitter.com/c___f___b/status/1425110806203703298?s=20). Es geht um irgendein "imaginäres?!?" Gerichtsverfahren zwischen David, IOTA Foundation und ihm?!? Buffy springt natürlich auch gleich an mit dem [Tweet](https://twitter.com/fudsfuddy/status/1425140933276884992?s=20)
 8. IOTA Quicktakes [auf englisch](https://www.youtube.com/watch?v=cNO5JgJe-7o)
-9. Es gab wohl den größten Defi Hack aller Zeiten mit 610 Millionen: [Tweet](https://twitter.com/Dogetoshi/status/1425082481963900930?s=20); Das Poly Network [tweetet](https://twitter.com/PolyNetwork2/status/1425123153009803267?s=20) ihren Brief an den Hacker er soll doch bitte alles zurück geben...
+9. Es gab wohl den größten Defi Hack aller Zeiten mit 610 Millionen: [Tweet](https://twitter.com/Dogetoshi/status/1425082481963900930?s=20); Das Poly Network [tweetet](https://twitter.com/PolyNetwork2/status/1425123153009803267?s=20) ihren Brief an den Hacker er soll doch bitte alles zurück geben... Es gibt auch einen [Christoph Bergmann Artikel](https://bitcoinblog.de/2021/08/11/der-teuerster-hack-aller-zeiten-poly-netzwerk-hacker-erbeutet-611-millionen-dollar/) darüber
 10. US Bitcoin Gesetz wurde abgelehnt, weil ein Senator das als Druckmittel verwendet hat um Militärausgaben zu sichern; Blocktrainer hat das gut [zusammengefasst](https://www.blocktrainer.de/antrag-abgelehnt-usa/)
 11. Hans Moog freut sich über den Fortschritt in seiner Abwesenheit: [Tweet](https://twitter.com/hus_qy/status/1425213563661062152?s=20)
 12. Dom Schieners Xayn hat ordentlich Funding bekommen: 10Milliionen EUR [Artikel](https://www.eu-startups.com/2021/08/berlin-based-xayn-lands-e10-1-million-to-grow-its-search-and-discovery-internet-browser-app/)
@@ -16,3 +16,6 @@
 14. Am Do. 12.8. war ein DAO Meeting im IOTA Discord: Ankündigungs [Tweet](https://twitter.com/Phylo79288735/status/1425456575641096195?s=20)
 15. IOTA knackt die 1$ und DEXES machen darüber ein Video: [IOTA knackt die 1 $ - Grund zur Freude?](https://www.youtube.com/watch?v=PWzZmYnv63E)
 16. Die [IF tweetet](https://twitter.com/iota/status/1425476037924827136) darüber, dass ein neues akademisches Paper [Committee Selection in DAG Distributed Ledgers and Applications](https://link.springer.com/chapter/10.1007/978-3-030-80126-7_59) publiziert wurde.
+17. IoTeX macht 200% an einem Tag. Punp and Dump oder steckt was dahinter?
+18. ADA geht steigt auch ordentlich, weil am Fr. den 13.8. ein Termin für smartcontracts bekannt gegeben werden soll: [Tweet von Hoskinson]()
+19. Ethereum  burnt erstmals mehr in Fees als neue Coins dazu kommen wegen [London Hard Fork "EIP-1559 "](https://dailycoin.com/ethereum-has-burnt-67-3-million-in-transaction-fees-since-the-london-hard-fork/)
