@@ -17,7 +17,7 @@
 15. IOTA knackt die 1$ und DEXES machen darüber ein Video: [IOTA knackt die 1 $ - Grund zur Freude?](https://www.youtube.com/watch?v=PWzZmYnv63E)
 16. Die [IF tweetet](https://twitter.com/iota/status/1425476037924827136) darüber, dass ein neues akademisches Paper [Committee Selection in DAG Distributed Ledgers and Applications](https://link.springer.com/chapter/10.1007/978-3-030-80126-7_59) publiziert wurde.
 17. IoTeX macht 200% an einem Tag. Punp and Dump oder steckt was dahinter?
-18. ADA geht steigt auch ordentlich, weil am Fr. den 13.8. ein Termin für smartcontracts bekannt gegeben werden soll: [Tweet von Hoskinson]()
+18. ADA steigt auch ordentlich, weil am Fr. den 13.8. ein Termin für smartcontracts bekannt gegeben werden soll. -> 16.8, oder?
 19. Ethereum  burnt erstmals mehr in Fees als neue Coins dazu kommen wegen [London Hard Fork "EIP-1559 "](https://dailycoin.com/ethereum-has-burnt-67-3-million-in-transaction-fees-since-the-london-hard-fork/)
 20. Die Tagesschau [tweetet](https://twitter.com/tagesschau/status/1425438736876285955?s=20) darüber das Coinbase Deutschland erobern will und Taged dabei die Deutsche Telekom?!?
 21. Daniel Trauth [tweetet](https://twitter.com/DanielTrauth/status/1425760636546453507?s=20) über sein Buch: Monetarisierung von
