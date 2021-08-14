@@ -22,7 +22,7 @@
 20. Die Tagesschau [tweetet](https://twitter.com/tagesschau/status/1425438736876285955?s=20) darüber das Coinbase Deutschland erobern will und Taged dabei die Deutsche Telekom?!?
 21. Daniel Trauth [tweetet](https://twitter.com/DanielTrauth/status/1425760636546453507?s=20) über sein Buch: Monetarisierung von
 technischen Daten - Innovationen aus Industrie und Forschung und veröffentlicht die [Inhaltsangabe mit Grußwort von Dorothee Baer und Minister Prof. Dr. Andreas Pinkwart](https://link.springer.com/content/pdf/bfm%3A978-3-662-62915-4%2F1.pdf)
-22. Youtube:[IOTA Governance Community Call on 12.08.2021](https://www.youtube.com/watch?v=P1sw7SMeTu4) und es gibt auch eine [GitHub Zusammenfassung](https://github.com/iota-community/Community-Governance/blob/main/meetings/Community_call_notes_02.08.21.md)
+22. Youtube:[IOTA Governance Community Call on 12.08.2021](https://www.youtube.com/watch?v=P1sw7SMeTu4) und es gibt auch eine [GitHub Zusammenfassung](https://github.com/iota-community/Community-Governance/blob/main/meetings/Community_call_notes_02.08.21.md); Es gibt auch [Lob von Dom](https://twitter.com/DomSchiener/status/1426164496167575556?s=20)
 23. Mat Yarger wird am 13.Sept bei einem Oil and Gas Event in Houston teilnehmen: [Tweet](https://twitter.com/iota/status/1425819462712774678); Event: [5th Annual Blockchain
 in Oil & Gas Conference](https://blockchain-oilandgas.energyconferencenetwork.com/bcog2021/944256)
 24. Die Börse Online wählt IOTA zum [Hot Coin der Woche: IOTA könnte weiter nach oben ausbrechen](https://www.boerse-online.de/amp/nachrichten/hot-coin-der-woche-iota-koennte-weiter-nach-oben-ausbrechen-1030724942) und [tweetet](https://twitter.com/boerseonline/status/1426144026198151173?s=20) das auch
@@ -33,3 +33,4 @@ in Oil & Gas Conference](https://blockchain-oilandgas.energyconferencenetwork.co
 29. Binance CEO frägt [auf Twitter was sie schlecht machen](https://twitter.com/cz_binance/status/1426001464443346953?s=20) und wird mit "IOTA" bombadiert
 30. Elon Musk lacht "über?" Laschet(https://www.youtube.com/watch?v=KZNrNwQ92ys). Zumindest über Wasserstoffautos (0:22) und darüber, dass es nicht genug Wasser gibt(2:10)
 31. Rodamap Update von IOTA mal wieder überfällig... Firefly/smart contracts letztes Update 7.May... [https://roadmap.iota.org/](https://roadmap.iota.org/)
+32. Michele Nati hat [getweetet](https://twitter.com/michelenati/status/1425430635422826498?s=20) zum Thema: "community started to use Ensuresec_eu IOTA ecommerce tools and develop services" und zeigt ein Video von einem UI für digitale Identitäten
