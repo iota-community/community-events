@@ -34,3 +34,7 @@ in Oil & Gas Conference](https://blockchain-oilandgas.energyconferencenetwork.co
 30. Elon Musk lacht "über?" Laschet(https://www.youtube.com/watch?v=KZNrNwQ92ys). Zumindest über Wasserstoffautos (0:22) und darüber, dass es nicht genug Wasser gibt(2:10)
 31. Rodamap Update von IOTA mal wieder überfällig... Firefly/smart contracts letztes Update 7.May... [https://roadmap.iota.org/](https://roadmap.iota.org/)
 32. Michele Nati hat [getweetet](https://twitter.com/michelenati/status/1425430635422826498?s=20) zum Thema: "community started to use Ensuresec_eu IOTA ecommerce tools and develop services" und zeigt ein Video von einem UI für digitale Identitäten
+33. Linus Nauman mit dem nächsten Artikel: [A future day with IOTA](https://www.reddit.com/r/CryptoCurrency/comments/p46tqq/a_future_day_with_iota/)
+34. Youtube American Gangsta IOTA Hype: [The Most Advanced Cryptocurrency Since Bitcoin That They Don't Want You To Know About](https://www.youtube.com/watch?v=KfAA0hpRuAk)
+35. Mat Yarger [tweetet](https://twitter.com/Mat_Yarger/status/1351214821358923776?s=20) dass die Jaguar Partnerschaft noch "still very active" ist und in 1-2 Quartern kommt ein Update...
+36. 
