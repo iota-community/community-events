@@ -43,4 +43,4 @@ in Oil & Gas Conference](https://blockchain-oilandgas.energyconferencenetwork.co
 39. Taliban nehmen in 10 Tagen Afghanistan ein... Wird sicher auch ein Thema beim Stammtisch...
 40. [IOTA durchbricht 1 EUR](https://www.blockchaincenter.net/)
 41. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/111-week-in-review-august-8th-to-14th-2021/&article%2F111-week-in-review-august-8th-to-14th-2021%2F=&__twitter_impression=true)
-42. Jelle Millenar schreibt in [15 Tweets](https://twitter.com/JelleFm/status/1427202784491941891?s=19) was die IOTA Foundation alles neben dem Coordicide machen muss
+42. Jelle Millenar schreibt in [15 Tweets](https://threadreaderapp.com/thread/1427202784491941891.html) was die IOTA Foundation alles neben dem Coordicide machen muss
