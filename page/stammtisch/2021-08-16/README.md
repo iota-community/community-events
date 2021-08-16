@@ -40,4 +40,5 @@ in Oil & Gas Conference](https://blockchain-oilandgas.energyconferencenetwork.co
 36. Daniel Trauth [freut sich](https://twitter.com/DanielTrauth/status/1426784114645114883?s=20) auf ein Demo vom Datenmarktplatz NRW das am Mittwoch vorgestellt wird
 37. IOTA Wiki von der Community bzw. vom X-Team: Navin R. [tweetet](https://twitter.com/navinram999/status/1426988973780578308?s=19) darüber; Hier die Seite: [wiki.iota.org](https://wiki.iota.org/) und der Announcement [Blogpost](https://wiki.iota.org/blog/) von Dr-Electron; [Dom S. lobt die Community](https://twitter.com/DomSchiener/status/1426993220924452867?s=20)
 38. Binance geht wohl wieder, zumindest die Deposits...
-39. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/111-week-in-review-august-8th-to-14th-2021/&article%2F111-week-in-review-august-8th-to-14th-2021%2F=&__twitter_impression=true)
+39. [IOTA durchbricht 1 EUR](https://www.blockchaincenter.net/)
+40. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/111-week-in-review-august-8th-to-14th-2021/&article%2F111-week-in-review-august-8th-to-14th-2021%2F=&__twitter_impression=true)
