@@ -37,4 +37,7 @@ in Oil & Gas Conference](https://blockchain-oilandgas.energyconferencenetwork.co
 33. Linus Nauman mit dem nächsten Artikel: [A future day with IOTA](https://www.reddit.com/r/CryptoCurrency/comments/p46tqq/a_future_day_with_iota/)
 34. Youtube American Gangsta IOTA Hype: [The Most Advanced Cryptocurrency Since Bitcoin That They Don't Want You To Know About](https://www.youtube.com/watch?v=KfAA0hpRuAk)
 35. Mat Yarger [tweetet](https://twitter.com/Mat_Yarger/status/1351214821358923776?s=20) dass die Jaguar Partnerschaft noch "still very active" ist und in 1-2 Quartern kommt ein Update...
-36. 
+36. Daniel Trauth [freut sich](https://twitter.com/DanielTrauth/status/1426784114645114883?s=20) auf ein Demo vom Datenmarktplatz NRW das am Mittwoch vorgestellt wird
+37. IOTA Wiki von der Community bzw. vom X-Team: Navin R. [tweetet](https://twitter.com/navinram999/status/1426988973780578308?s=19) darüber; Hier die Seite: [wiki.iota.org](https://wiki.iota.org/) und der Announcement [Blogpost](https://wiki.iota.org/blog/) von Dr-Electron; [Dom S. lobt die Community](https://twitter.com/DomSchiener/status/1426993220924452867?s=20)
+38. Binance geht wohl wieder, zumindest die Deposits...
+39. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/111-week-in-review-august-8th-to-14th-2021/&article%2F111-week-in-review-august-8th-to-14th-2021%2F=&__twitter_impression=true)
