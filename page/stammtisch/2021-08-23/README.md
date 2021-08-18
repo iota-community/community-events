@@ -5,3 +5,5 @@
 3. Neue [IOTA Pay Per Content Webseite](https://pay-per-content.com/)
 4. Mit swarm kann man jetzt auch eine GoShimmer Node aufsetzen: [Tweet](https://twitter.com/TANGLEBAY/status/1427615608926003206?s=20)
 5. Neues [IOTA Track & Trace Ledger APIs 101 Tutorial : Device Events](https://iotaledger.github.io/gtsc-track-trace/tutorial/track-trace-ledger-api-tutorial-101.html)
+6. Die Selv Demo wurde upgedated
+7. 
