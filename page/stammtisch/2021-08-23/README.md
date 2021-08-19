@@ -10,3 +10,5 @@
 8. ZEDEDA Panel Diskussion mit Mat Yarger: [Tweet](https://twitter.com/Mat_Yarger/status/1428091101345370117?s=20) Sie wurde aufgezeichnet und ist "in a few weeks" auf [ZEDEDA.com](https://zededa.com/transform/) online [Sagt der Tweet](https://twitter.com/defshepherd/status/1428102678132019202?s=20)
 9. Die Roadmap wurde upgedated: [roadmap.iota.org](https://roadmap.iota.org/)
 10. [Paris Hilton erklärt NFTs in Late Night Show](https://twitter.com/FallonTonight/status/1427849296506880002?s=20); U-Today [berichtet](https://u.today/paris-hilton-endorses-nfts-on-the-tonight-show-with-jimmy-fallon) auch darüber
+11. [Dev Status Update](https://blog.iota.org/dev-status-update-august-2021/) von der IOTA Foundation: [IF Tweet](https://twitter.com/iota/status/1428344498053173253?s=19)
+12. IOTA Weekly [auf deutsch](https://www.youtube.com/watch?v=uDQHy2Ro9QA&feature=youtu.be) und [auf englisch](https://www.youtube.com/watch?v=Ji77n4noZs0)
