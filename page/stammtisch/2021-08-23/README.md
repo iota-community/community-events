@@ -9,3 +9,4 @@
 7. Linus Nauman mit neuem Medium Artikel: [Parallel realities and IOTAs breakthrough “Multiverse consensus”](https://t.co/9Sx1bstI50?amp=1)den ihr auch [bei Reddit](https://www.reddit.com/r/CryptoCurrency/comments/p6qk3h/parallel_realities_and_iotas_breakthrough/) findet
 8. ZEDEDA Panel Diskussion mit Mat Yarger: [Tweet](https://twitter.com/Mat_Yarger/status/1428091101345370117?s=20) Sie wurde aufgezeichnet und ist "in a few weeks" auf [ZEDEDA.com](https://zededa.com/transform/) online [Sagt der Tweet](https://twitter.com/defshepherd/status/1428102678132019202?s=20)
 9. Die Roadmap wurde upgedated: [roadmap.iota.org](https://roadmap.iota.org/)
+10.[Paris Hilton erklärt NFTs in Late Night Show](https://twitter.com/FallonTonight/status/1427849296506880002?s=20)
