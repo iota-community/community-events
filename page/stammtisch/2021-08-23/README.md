@@ -21,3 +21,4 @@
 19. Die IF [tweetet](https://twitter.com/iota/status/1428648332767944709?s=20) auch darüber und veröffentlicht einen eigenen [IF Blogpost](https://blog.iota.org/iota-foundation-collaborates-with-de-volksbank-to-create-reusable-kyc-poc-on-selv/amp/?__twitter_impression=true) zum SELV PoC mit de Volksbank; Hier [auf deutsch](https://iota-einsteiger-guide.de/iota-selv-de-volksbank.html)
 20. Jelle Milenar [tweetet](https://twitter.com/JelleFm/status/1428651484523159553?s=20) über Selv und darüber, dass es eine neue [Selv Homepage](https://selv.iota.org/) gibt
 21. Smart Contracts und Native Assets kommen jetzt doch schon ins Chrysalis Netzwerk, also noch vor dem Coordicide: [IF Tweet](https://twitter.com/iota/status/1428704497992413185?s=20)
+22. Binance Auszahlungen sind jetzt wohl auch möglich
