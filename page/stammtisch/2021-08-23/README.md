@@ -13,6 +13,7 @@
 11. [Dev Status Update](https://blog.iota.org/dev-status-update-august-2021/) von der IOTA Foundation: [IF Tweet](https://twitter.com/iota/status/1428344498053173253?s=19)
 12. IOTA Weekly [auf deutsch](https://www.youtube.com/watch?v=uDQHy2Ro9QA&feature=youtu.be) und [auf englisch](https://www.youtube.com/watch?v=Ji77n4noZs0)
 13. Sabo aus der Community will AAVE nachbauen: Seine Plattform soll LendeXe heißen "Finance a Decentralized Liquidity Algorithmic on IOTA Smart Contract Protocol". Er sucht noch Mitstreiter
-14. Binance macht ernst mit KYC: [](https://www.binance.com/en/amp/support/announcement/51bf294e26324211a4731ca998e110ca) "Withdraw Only" für nicht KYC verifizierte...
-15. Daniel Trauths neues Buch scheint sich gut zu verkaufen: [Tweet](https://twitter.com/DanielTrauth/status/1428608916158623748?s=20)
-16. Beim amerkianischen Stammtisch hat Dave scheinbar den neuen On Tangle Voting Consensus gut erklärt. Es gibt auch ein [schematisches Bild](https://twitter.com/adam_unchained/status/1428552989644574722?s=20) davon und [Mud Kevin hat alles mitgeschrieben](https://twitter.com/MudKevin/status/1428528852540616706?s=20)
+14. IF Blogpost: [Exploring the Properties and Benefits of Native Assets](https://blog.iota.org/exploring-the-properties-and-benefits-of-native-assets/), Im Einsteigerguide [auf deutsch](https://iota-einsteiger-guide.de/iota-native-assets-eigenschaften-und-vorteile.html)
+15. Binance macht ernst mit KYC: [](https://www.binance.com/en/amp/support/announcement/51bf294e26324211a4731ca998e110ca) "Withdraw Only" für nicht KYC verifizierte...
+16. Daniel Trauths neues Buch scheint sich gut zu verkaufen: [Tweet](https://twitter.com/DanielTrauth/status/1428608916158623748?s=20)
+17. Beim amerkianischen Stammtisch hat Dave scheinbar den neuen On Tangle Voting Consensus gut erklärt. Es gibt auch ein [schematisches Bild](https://twitter.com/adam_unchained/status/1428552989644574722?s=20) davon und [Mud Kevin hat alles mitgeschrieben](https://twitter.com/MudKevin/status/1428528852540616706?s=20)
