@@ -15,4 +15,4 @@
 13. Sabo aus der Community will AAVE nachbauen: Seine Plattform soll LendeXe heißen "Finance a Decentralized Liquidity Algorithmic on IOTA Smart Contract Protocol". Er sucht noch Mitstreiter
 14. Binance macht ernst mit KYC: [](https://www.binance.com/en/amp/support/announcement/51bf294e26324211a4731ca998e110ca) "Withdraw Only" für nicht KYC verifizierte...
 15. Daniel Trauths neues Buch scheint sich gut zu verkaufen: [Tweet](https://twitter.com/DanielTrauth/status/1428608916158623748?s=20)
-16. Bei Amerkianischen Stammtisch hat Dave scheinbar den neuen on Tangle Voting Consensus gut erklärt. Es gibt auch ein [schematisches Bild](https://twitter.com/adam_unchained/status/1428552989644574722?s=20) davon und [Mud Kevin hat alles mitgeschrieben](https://twitter.com/MudKevin/status/1428528852540616706?s=20)
+16. Beim amerkianischen Stammtisch hat Dave scheinbar den neuen On Tangle Voting Consensus gut erklärt. Es gibt auch ein [schematisches Bild](https://twitter.com/adam_unchained/status/1428552989644574722?s=20) davon und [Mud Kevin hat alles mitgeschrieben](https://twitter.com/MudKevin/status/1428528852540616706?s=20)
