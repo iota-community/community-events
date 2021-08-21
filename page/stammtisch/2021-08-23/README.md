@@ -20,5 +20,10 @@
 18. de Volksbank [tweetet](https://twitter.com/devolksbank/status/1428640785830981637?s=20) über ihr [Announcement](https://innovatie.devolksbank.nl/cases/de-volksbank-werkt-aan-een-eerlijkere-data-economie-met-de-demo-selv/) das sie mit der IF ein Selv KYC Proof of Concept machen.
 19. Die IF [tweetet](https://twitter.com/iota/status/1428648332767944709?s=20) auch darüber und veröffentlicht einen eigenen [IF Blogpost](https://blog.iota.org/iota-foundation-collaborates-with-de-volksbank-to-create-reusable-kyc-poc-on-selv/amp/?__twitter_impression=true) zum SELV PoC mit de Volksbank; Hier [auf deutsch](https://iota-einsteiger-guide.de/iota-selv-de-volksbank.html)
 20. Jelle Milenar [tweetet](https://twitter.com/JelleFm/status/1428651484523159553?s=20) über Selv und darüber, dass es eine neue [Selv Homepage](https://selv.iota.org/) gibt
-21. Smart Contracts und Native Assets kommen jetzt doch schon ins Chrysalis Netzwerk, also noch vor dem Coordicide: [IF Tweet](https://twitter.com/iota/status/1428704497992413185?s=20)
-22. Binance Auszahlungen sind jetzt wohl auch möglich
+21. Smart Contracts und Native Assets kommen jetzt doch schon ins Chrysalis Netzwerk, also noch vor dem Coordicide: [IF Tweet](https://twitter.com/iota/status/1428704497992413185?s=20) siehe auch Punkt 14 was dadurch müglich wird
+22. Binance Auszahlungen sind jetzt wohl auch möglich?!?
+23. Bitcoin in El Salvador müsste doch bald los gehen...[Zentralbank informiert – Diese Regeln für den Bitcoin-Handel gelten in El Salvador](https://www.btc-echo.de/news/zentralbank-diese-regeln-fuer-den-bitcoin-handel-gelten-in-el-salvador-124354/)
+24. CFB macht wieder Drama... [Tweet 1](https://twitter.com/c___f___b/status/1428718228075909122?s=20);[Tweet 2](https://twitter.com/c___f___b/status/1428744210740617221?s=20); [Tweet 3](https://twitter.com/c___f___b/status/1428980119704645637?s=20)
+25. News von adamski zu [NFTiota.org](https://nftiota.org/): [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1428962807735885828?s=20)
+26. Elon Musk's [Tesla AI Day - Livestream](https://www.youtube.com/watch?v=11QXiJ8ORe8); Kurze [Video Zusammenfassung](https://www.youtube.com/watch?v=FRLEDCtgR6k)
+27. Interessante Geschichte: [Sweden’s Government Forced to Return $1.5M in Bitcoin to Drug Dealer: Report](https://www.coindesk.com/swedens-government-forced-to-return-1-5m-in-bitcoin-to-drug-dealer-report) weil der Wert der gefreeezten Bitcoins so gestiegen ist.
