@@ -28,3 +28,4 @@
 26. Elon Musk's [Tesla AI Day - Livestream](https://www.youtube.com/watch?v=11QXiJ8ORe8); Kurze [Video Zusammenfassung](https://www.youtube.com/watch?v=FRLEDCtgR6k)
 27. Interessante Geschichte: [Sweden’s Government Forced to Return $1.5M in Bitcoin to Drug Dealer: Report](https://www.coindesk.com/swedens-government-forced-to-return-1-5m-in-bitcoin-to-drug-dealer-report) weil der Wert der gefreeezten Bitcoins so gestiegen ist.
 28. Hans Moog erklärt "gossip of conflicts" bei IOTA in seinen [Tweets](https://twitter.com/hus_qy/status/1429215837701947397?s=19)  und warum das eigentlich nicht mehr besser gemacht werden kann
+29. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/112-wochenr%C3%BCckblick-vom-15-bis-21-august-2021/&article%2F112-wochenr%C3%BCckblick-vom-15-bis-21-august-2021%2F=&__twitter_impression=true) 
