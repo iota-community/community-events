@@ -30,5 +30,5 @@
 28. Hans Moog erklärt "gossip of conflicts" bei IOTA in seinen [Tweets](https://twitter.com/hus_qy/status/1429215837701947397?s=19)  und warum das eigentlich nicht mehr besser gemacht werden kann
 29. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/112-wochenr%C3%BCckblick-vom-15-bis-21-august-2021/&article%2F112-wochenr%C3%BCckblick-vom-15-bis-21-august-2021%2F=&__twitter_impression=true) in [english](https://www.iota-talk.com/index.php?article-amp/113-week-in-review-august-15th-to-21th-2021/&article%2F113-week-in-review-august-15th-to-21th-2021%2F=&__twitter_impression=true)
 30. Wir müssen nochmal über NFT reden... [Tweet 1](https://twitter.com/justinsuntron/status/1429346110405890048?s=19); [Tweet 2](https://twitter.com/Buddyloveless/status/1429490033975832579?s=19)
-31. Hans Moog vs. Ethereum/Blockchain[Tweet 1](https://twitter.com/hus_qy/status/1429561099419009026?s=19); [Tweet 2] (https://twitter.com/hus_qy/status/1429561144302313477?s=19)
+31. Hans Moog vs. Ethereum/Blockchain[Tweet 1](https://twitter.com/hus_qy/status/1429561099419009026?s=19); [Tweet 2](https://twitter.com/hus_qy/status/1429561144302313477?s=19)
 32. Noch mehr Hans Moog hype: [Tweet 1](https://twitter.com/hus_qy/status/1429450711943745545?s=19); [Tweet 2](https://twitter.com/hus_qy/status/1429450228629921797?s=19) 
