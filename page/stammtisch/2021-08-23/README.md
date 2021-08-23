@@ -43,4 +43,4 @@
 41. Chrysalis Migration bei 62%: [Status Page](https://chrysalis.iota.org/status)
 42. Visa macht jetzt auf NFT... [Tweet](https://twitter.com/VisaNews/status/1429745230023208969?s=19); [U-Today Bericht darüber](https://u.today/visa-head-of-crypto-crypto-addresses-might-become-as-important-as-mailing-address?amp&__twitter_impression=true) 
 43. [8 Neue Research Videos von der IF](https://youtube.com/c/IOTAFoundation) 
-45. Blogpost der IF zum IOTA Research Symposium](https://blog.iota.org/iota-research-symposium-2021/) 
+45. [Blogpost der IF zum IOTA Research Symposium](https://blog.iota.org/iota-research-symposium-2021/) 
