@@ -41,3 +41,4 @@
 39. Dom Schiener, Michele Nati und JENS LUND-NIELSEN sind auf der [Speakerliste](https://agri-d.org/#speaker) von der Konferenz "The International Online Conference & Exhibition Dedicated to Blockchain & DLT in Agriculture & the Food Supply Chain" am 12. November. Auch dabei ZEBRA, Zignar...
 40. Dan Simmerman macht Werbung für IOTA NFTs beim Dinner: [Tweet](https://twitter.com/DanSimerman/status/1429329223202877451?s=20) und nach "Bigger than Coinbase" schreibt er jetzt ["#IOTA community really buzzing"](https://twitter.com/DanSimerman/status/1428831679787974668?s=20) (buzzing = surrend, schwirrend, geschäftig, Gemurmel) und macht sich einen Spaß mit dem Google Gerücht: [Tweet](https://twitter.com/DanSimerman/status/1429581632495816711?s=20)
 41. Chrysalis Migration bei 62%: [Status Page](https://chrysalis.iota.org/status)
+42. Visa macht jetzt auf NFT... [Tweet](https://twitter.com/VisaNews/status/1429745230023208969?s=19) 
