@@ -21,7 +21,7 @@
 19. FBC hat Hans Moog nie gefallen, aber es hat gedauert bis er die IF überzeugen konnte: [Tweet](https://twitter.com/hus_qy/status/1430561672415096844?s=20)
 20. Und noch zwei schöne Hype Tweets von Hans Moog: [Tweet 1](https://twitter.com/hus_qy/status/1430530455237976068?s=20); [Tweet 2](https://twitter.com/hus_qy/status/1430530493758558216?s=20)
 21. Die IF hat jetzt 50.000 Discord Mitglieder und 200.000 Follower auf Twitter
-22. Am Donnerstag war ein Community Call im IOTA Discord [Tweet](https://twitter.com/Phylo79288735/status/1430536140898009089?s=20)
+22. Am Donnerstag war ein Community Call im IOTA Discord bzgl. DAO [Tweet](https://twitter.com/Phylo79288735/status/1430536140898009089?s=20); Phylo jetzt übrigens bei der IF.. Gut für die IF, schlecht für den DAO? 
 23. Neuer IOTA Meme Contest: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1430532193101692928?s=20)
 24. Es kommen Gerüchte auf [hier](https://twitter.com/SenfdaTzu/status/1430570813363740678?s=20) und [hier](https://twitter.com/wiredutch/status/1430061218975428632?s=20), dass IOTA bei dem Paper der German Banking Commitee: [Europe needs new money – an
 ecosystem of CBDC, tokenised commercial bank money and trigger solutions](https://die-dk.de/media/files/20210625_DK_Ergebnisdokument_EN.pdf) eine gewisse Rolle spielt...
