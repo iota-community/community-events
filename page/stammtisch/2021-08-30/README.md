@@ -26,3 +26,4 @@
 24. Es kommen [Gerüchte auf](https://twitter.com/SenfdaTzu/status/1430570813363740678?s=20), dass IOTA bei dem Paper der German Banking Commitee: [Europe needs new money – an
 ecosystem of CBDC, tokenised commercial bank money and trigger solutions](https://die-dk.de/media/files/20210625_DK_Ergebnisdokument_EN.pdf) eine gewisse Rolle spielt...
 25. Der Tweet wurde zwar wieder gelöscht, aber wir sollten vielleicht nochmal über das Holger Köther Drama sprechen nach dem letzten Stammtisch. Von wegen "Wir sind alle rekt weil die IF keine Promo macht und nicht für Tokenlistings zahlt..." Navin Ramachandran hat sich dazu auch [auf Twitter gemeldet](https://twitter.com/Vrom14286662/status/1430276817093595142?s=20)
+26. Blocktrainer mit [klarem Statement](https://twitter.com/blocktrainer/status/1430652864288985100?s=20): Crypto = Bitcoin alles andere ist zentralisierter Bullshit
