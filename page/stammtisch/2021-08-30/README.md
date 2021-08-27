@@ -32,3 +32,4 @@ ecosystem of CBDC, tokenised commercial bank money and trigger solutions](https:
 29. IOTA conservation project (https://medium.com/@asacc008/the-iota-conservation-43b928dbf1c0) "The IOTA conservation is a community-based conservation effort with the goal of benefitting the world through planting trees, preserving forests, protecting endangered species, and more."
 30. Fetch Ai Event in München mit Bosch, Jaguar und BMW... [Tweet](https://twitter.com/Fetch_ai/status/1431219746897383429?s=19) 
 31. Wir können ja mal [vroms Soon-Liste](https://twitter.com/Vrom14286662/status/1431152161669398528?s=19) durchgehen auf was wir uns freuen können... 
+32. Es gab diese Woche lauter Twitter Abstimmungen die IOTA gewinnen konnte: [EToro Tweet](https://twitter.com/eToroDE/status/1430485373327716357?s=19) ;[Real Vision Tweet](https://twitter.com/RealVision/status/1430891365806743556?s=19) 
