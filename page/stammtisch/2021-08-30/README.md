@@ -34,3 +34,4 @@ ecosystem of CBDC, tokenised commercial bank money and trigger solutions](https:
 31. Wir können ja mal [vroms Soon-Liste](https://twitter.com/Vrom14286662/status/1431152161669398528?s=19) durchgehen auf was wir uns freuen können... 
 32. Es gab diese Woche lauter Twitter Abstimmungen die IOTA gewinnen konnte: [EToro Tweet](https://twitter.com/eToroDE/status/1430485373327716357?s=19) ;[Real Vision Tweet](https://twitter.com/RealVision/status/1430891365806743556?s=19)
 33. Es gibt ne NFT Serie mit Chrysalis Schmetterlingen auf [opensea.io](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/2789607291071995738164880481125140258345785270878309300203345385914818887681/) mit verschiedenen Begriffen aus dem IOTA Ökosystem 
+34. Es gab ein ETH Bug [Ethereum Blockchain Splits as Software Bug Affects More Than Half the Network](https://decrypt.co/79597/ethereum-blockchain-splits-software-bug-network) 
