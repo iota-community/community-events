@@ -31,3 +31,4 @@ ecosystem of CBDC, tokenised commercial bank money and trigger solutions](https:
 28. Linus Nauman erklärt den DAO:[Attention all IOTA-holders: Your vote will control what happens to around 60 Ti (~ $50 mil.) — BUILD or BURN!](https://medium.com/@linus.naumann/attention-all-iota-holders-your-vote-will-control-what-happens-to-around-60-ti-50-mil-10b265b1356c) 
 29. IOTA conservation project (https://medium.com/@asacc008/the-iota-conservation-43b928dbf1c0) "The IOTA conservation is a community-based conservation effort with the goal of benefitting the world through planting trees, preserving forests, protecting endangered species, and more."
 30. Fetch Ai Event in München mit Bosch, Jaguar und BMW... [Tweet](https://twitter.com/Fetch_ai/status/1431219746897383429?s=19) 
+31. Wir können ja mal [vroms Soon-Liste](https://twitter.com/Vrom14286662/status/1431152161669398528?s=19) durchgehen auf was wir uns freuen können... 
