@@ -1,6 +1,6 @@
 ## Stammtischthemen 30.08.2021
 
-1. IOTA Quicktakes
+1. IOTA Quicktakes gab's nicht oder? 
 2. IOTA Foundation [Research Summit Blogpost](https://blog.iota.org/iota-research-symposium-2021/)
 3. Die IF mit kurzem verständlichen Video zum Thema Native Assets: [Tweet](https://twitter.com/iota/status/1430215621430726663?s=20)
 4. 1. Vortrag von Stefan Schulte, Associate Professor at TU Wien: [DLT Interoperability: Relays and Other Solutions - IOTA Research Symposium 2021](https://www.youtube.com/watch?v=ihmaDzNg08I)
