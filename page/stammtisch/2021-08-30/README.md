@@ -40,4 +40,4 @@ ecosystem of CBDC, tokenised commercial bank money and trigger solutions](https:
 37. Schon 2026: [Dramatische Prognose: Quantencomputer können Bitcoin und Co mit Leichtigkeit zerstören](https://t3n.de/news/quantencomputer-zerstoert-bitcoin-1401594/) Welchen Plan hätte IOTA? 
 38. Exodus möchte wohl IOTA integrieren: [Tweet](https://twitter.com/exodus_io/status/1431687716958318593?s=19) 
 39. Dom ruft zum ISCP Hackathon auf und Evaldas redet von Bitcoin Ethereum Bridge: [Tweet mit Screenshots](https://twitter.com/Vrom14286662/status/1431565786603302913?s=19) 
-40. LA Mongreal Rugbee team bald mit IOTA shirt und [Sabri will beim Design helfen](https://twitter.com/sabrigoldberg/status/1431867696606552069?s=19) 
+40. LA Mongreal Rugby team bald mit IOTA shirt und [Sabri will beim Design helfen](https://twitter.com/sabrigoldberg/status/1431867696606552069?s=19) 
