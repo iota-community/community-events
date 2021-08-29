@@ -42,3 +42,4 @@ ecosystem of CBDC, tokenised commercial bank money and trigger solutions](https:
 39. Dom ruft zum ISCP Hackathon auf und Evaldas redet von Bitcoin Ethereum Bridge: [Tweet mit Screenshots](https://twitter.com/Vrom14286662/status/1431565786603302913?s=19) 
 40. LA Mongreal Rugby team bald mit IOTA shirt und [Sabri will beim Design helfen](https://twitter.com/sabrigoldberg/status/1431867696606552069?s=19) 
 41. Dan Simmerman hat den [Reddit Post über Flash Loans](https://www.reddit.com/r/CryptoCurrency/comments/pcumpk/flash_loans_a_dive_into_defis_most_bizarre/?utm_medium=android_app&utm_source=share) auf [Twitter geshared](https://twitter.com/DanSimerman/status/1431369772692873218?s=19). Bekommt IOTA das etwa auch hin nur ohne Gebühren? 
+42. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/114-wochenr%C3%BCckblick-vom-22-bis-28-august-2021/&article%2F114-wochenr%C3%BCckblick-vom-22-bis-28-august-2021%2F=&__twitter_impression=true) 
