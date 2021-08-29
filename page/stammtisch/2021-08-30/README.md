@@ -38,3 +38,5 @@ ecosystem of CBDC, tokenised commercial bank money and trigger solutions](https:
 35. Jack der CEO von Twitter will eine Bitcoin DEX bauen: [https://u.today/twitter-ceo-building-decentralized-bitcoin-exchange?amp&__twitter_impression=true](https://u.today/twitter-ceo-building-decentralized-bitcoin-exchange?amp&__twitter_impression=true) 
 36. Hans Moog veröffentlicht [The Trust Machine — Part3: Quadruple entry accounting](https://husqy.medium.com/the-trust-machine-part3-quadruple-entry-accounting-6da022f5e832) mit seinem [Tweet](https://twitter.com/hus_qy/status/1431700310150483969?s=20)
 37. Schon 2026: [Dramatische Prognose: Quantencomputer können Bitcoin und Co mit Leichtigkeit zerstören](https://t3n.de/news/quantencomputer-zerstoert-bitcoin-1401594/) Welchen Plan hätte IOTA? 
+38. Exodus möchte wohl IOTA integrieren: [Tweet](https://twitter.com/exodus_io/status/1431687716958318593?s=19) 
+39. Dom ruft zum ISCP Hackathon auf und Evaldas redet von Bitcoin Ethereum Bridge: [Tweet mit Screenshots](https://twitter.com/Vrom14286662/status/1431565786603302913?s=19) 
