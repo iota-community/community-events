@@ -45,4 +45,6 @@ ecosystem of CBDC, tokenised commercial bank money and trigger solutions](https:
 42. [IOTA Talk Wochenrückblick in deutsch](https://www.iota-talk.com/index.php?article-amp/114-wochenr%C3%BCckblick-vom-22-bis-28-august-2021/&article%2F114-wochenr%C3%BCckblick-vom-22-bis-28-august-2021%2F=&__twitter_impression=true) und auf [english](https://www.iota-talk.com/index.php?article-amp/115-week-in-review-august-22th-to-28th-2021/&article%2F115-week-in-review-august-22th-to-28th-2021%2F=&__twitter_impression=true) 
 43. Dom war im #tocenomics channel aktiv. Er spricht von ATOI Token in einem Community driven Testnet... Kennt sich da jemand aus? 
 44. [SenfDa Tzu](https://twitter.com/SenfdaTzu/status/1432036055012847621?s=19) hat seine Gedanken zu IOTA auf Papier gebracht: [Warum IOTA innerhalb von nur 5 Jahren vom ungeliebten Kryptokind zur Nr. 1 aufsteigen wird](https://medium.com/@SenfdaTzu/warum-iota-innerhalb-von-nur-5-jahren-vom-ungeliebten-kryptokind-zur-nr-1-aufsteigen-wird-b8509ccc854d)
-45. Gunnar Stenzel von der IF hat über 35 Blogposts in den nächsten 4 Wochen gesprochen... Normal sind 15/Monat 
+45. Gunnar Stenzel von der IF hat über 35 Blogposts in den nächsten 4 Wochen und eine dreistellige Anzahl in diesem Jahr gesprochen... Normal sind 15/Monat 
+46. Neuer Artikel: [Our path to a Crypto World — IOTA
+](https://medium.com/@gwerneckpaiva/the-path-to-a-cryptoworld-iota-b7cb433e2cac) 
