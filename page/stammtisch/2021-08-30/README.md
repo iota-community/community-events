@@ -54,4 +54,4 @@ ecosystem of CBDC, tokenised commercial bank money and trigger solutions](https:
 51. Noch ein interessanter [Tweet von Hans Moog](https://twitter.com/hus_qy/status/1432277687393980417?s=20) "planning to introduce a few completely new ideas ... I think that they will turn the cryptospace upside down."
 52. Xayn (Doms Invest) jetzt mit [Desktop Version Beta](https://search.xayn.com/#/) von ihrer privaten Suchmaschine mit IOTA inside, oder? [Tweet](https://twitter.com/XaynHQ/status/1432329962430808068?s=20); [Blogpost](https://www.xayn.com/press/xayn-launches-web-version-of-its-private-search-and-discovery-engine)
 53. IOTA und GAIA-X: [IF Tweet](https://twitter.com/iota/status/1432347297334108160?s=20); [IF Blogpost](https://blog.iota.org/iota-foundation-joins-the-gaia-x-community/) 
-54. TanlgeBulls mit Reddit Post[7 reasons why you should look into IOTA](https://www.reddit.com/user/TangleBulls)
+54. TanlgeBulls mit Reddit Post: [7 reasons why you should look into IOTA](https://www.reddit.com/user/TangleBulls)
