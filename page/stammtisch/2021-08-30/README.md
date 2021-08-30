@@ -48,3 +48,4 @@ ecosystem of CBDC, tokenised commercial bank money and trigger solutions](https:
 45. Gunnar Stenzel von der IF hat über 35 Blogposts in den nächsten 4 Wochen und eine dreistellige Anzahl in diesem Jahr gesprochen... Normal sind 15/Monat 
 46. Neuer Artikel: [Our path to a Crypto World — IOTA](https://medium.com/@gwerneckpaiva/the-path-to-a-cryptoworld-iota-b7cb433e2cac) 
 47. Pay with IOTA Plugin wohl bald auch für Joomla verfügbar: [Tweet](https://twitter.com/shortaktien/status/1432219027099815939?s=20) (Joomla! ist bekannt als leistungsfähiges Content Management System (CMS) auf Open-Source-Basis) 
+48. Was hat es mit [verkle Tree](https://github.com/lunfardo314/verkle) auf sich das [Evaldas implementiert hat](https://twitter.com/lunfardo314/status/1432008541787893762?s=20)? Sasha mein "better than zkSnarks" in seinem [tweet](https://twitter.com/sascha1337/status/1432254428950585345?s=20)
