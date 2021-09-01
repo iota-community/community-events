@@ -10,3 +10,4 @@
 8. Auf Twitter wurde eine sehr interessante Idee zum incetiviced Testnetz [geshared](https://twitter.com/finance_funny/status/1432710351125164038?s=20). Hier der Artikel: [Incentivizing the IOTA 2.0 Testnet – Thoughts from a TangleAccountant](https://funnymanfinance.com/incentivizing-the-iota-2-0-testnet-thoughts-from-a-tangleaccountant/)
 9. Charley Varley sucht einen Sound Designer in seinem [Tweet](https://twitter.com/c_varley/status/1432724873495908363?s=20)
 10. Die Präsentation "Deep Dive into Blockchain Summer school" bei der University Zürich ist online: [IOTA: A Ledger for the Internet of Things von Michele Nati und Luigi Vigneri](https://files.iota.org/media/IOTA-UZH_Deep_dive_blockchain_summer_school_-July2021.pdf)
+11. Twitter mit Strike Lightning Bot soon? [Tweet](https://twitter.com/BitcoinMagazine/status/1433032351777492992?s=20)
