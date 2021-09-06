@@ -36,4 +36,5 @@
 34. Dan nochmal mit 2 interessanten Tweets über Privacy: ["Privacy is the next great frontier"](https://twitter.com/DanSimerman/status/1434600556056784898?s=20) und ["Will Ai let us break the rules](https://twitter.com/DanSimerman/status/1434674530736353284?s=20)
 35. Guter Post auf r/CC: [For everyone new to IOTA!](https://www.reddit.com/r/CryptoCurrency/comments/phc108/for_everyone_new_to_iota/?utm_medium=android_app&utm_source=share)
 36. [IOTA.php Λlpha Version 0.4.0](https://github.com/iota-community/iota.php) mit IOTA DID (create/manipulate/verify IOTA Identity).  Hier der [Tweet dazu von Stephan Braun](https://twitter.com/IOTAphp/status/1434788140691165185?s=20)
-37. Türkische Exchange ParibuCom listet heute (6.9.21) um 14 Uhr IOTA: [Tweet](https://twitter.com/ParibuCom/status/1434804307518496770?s=20) 
+37. Türkische Exchange ParibuCom listet heute (6.9.21) um 14 Uhr IOTA: [Tweet](https://twitter.com/ParibuCom/status/1434804307518496770?s=20) ; [Dom heißt die türkischen Freunde willkommen](https://twitter.com/DomSchiener/status/1434836183406858240?s=20) und [schreibt den CEO von FTX an](https://twitter.com/DomSchiener/status/1434838868457664514?s=20) es ihnen gleich zu tun oder sogar schneller zu sein als 2 Wochen..
+38. IOTA Access Mana Markt auf Layer 1?: [Tweet von Luka Stanisic](https://twitter.com/lukastanisic99/status/1434861234860478465?s=20)
