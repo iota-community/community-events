@@ -35,3 +35,4 @@
 33. Die Tagesschaut erklärt [Inflation auf Istagram](https://www.instagram.com/p/CTcUh2nooTH/?utm_medium=share_sheet); Das ist schon frech: Weil mehr Nachfrage besteht und weniger produziert wird... Von Geld drucken ist da keine Rede
 34. Dan nochmal mit 2 interessanten Tweets über Privacy: ["Privacy is the next great frontier"](https://twitter.com/DanSimerman/status/1434600556056784898?s=20) und ["Will Ai let us break the rules](https://twitter.com/DanSimerman/status/1434674530736353284?s=20)
 35. Guter Post auf r/CC: [For everyone new to IOTA!](https://www.reddit.com/r/CryptoCurrency/comments/phc108/for_everyone_new_to_iota/?utm_medium=android_app&utm_source=share)
+36. [IOTA.php Λlpha Version 0.4.0](https://github.com/iota-community/iota.php) mit IOTA DID (create/manipulate/verify IOTA Identity).  Hier der [Tweet dazu von Stephan Braun](https://twitter.com/IOTAphp/status/1434788140691165185?s=20)
