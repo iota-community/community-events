@@ -11,3 +11,6 @@ Es gab viele interessante Tweets: [Charlex Varley 1/5](https://twitter.com/c_var
 8. Am Dienstag ist Bitcoin in El Salvador gestartet. Ging aber gleich mal nicht so gut los.. [Tweet](https://twitter.com/nayibbukele/status/1435481125741289472?t=TtAFEnahwGedm3RZfdqACA&s=19) 
 9. Ebenfalls am Dienstag. Cryptocrash! Hängt das irgendwie zusammen?
 10. Coinbase hat Probleme mit der SEC weil sie Cryptolending anbieten wollen: [Tweet vom CEO](https://twitter.com/brian_armstrong/status/1435439291715358721?s=20) 
+11. Die [IF tweetet](https://twitter.com/iota/status/1435558718893133824?s=20) über den [Identity Resolver](https://explorer.iota.org/mainnet/identity-resolver/)
+12. IOTAWeekly 009: [EU-Blockchain auf #IOTA (?), Banken, Smart Contracts und vieles mehr!](https://www.youtube.com/watch?v=s8tgxv2HDLM)
+13. 
