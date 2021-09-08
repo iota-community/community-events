@@ -1,7 +1,7 @@
 ## Stammtischthemen für Montag den 13.9.21
 
 1. IOTA Quicktakes 6.9. [in englisch](https://www.youtube.com/watch?v=h2bGyp1PwfU)
-2. IOTA Defi Akademy(https://iotadefi.academy/iota-americas-meetup-defi-talk/) (Zusammenfassung von dem Video: [Iota Americas Livestream - Yield, Defi and ISCP Smart Contracts](https://www.youtube.com/watch?v=LJmdnR6QDcM)
+2. [IOTA Defi Academy](https://iotadefi.academy/iota-americas-meetup-defi-talk/) (Zusammenfassung von dem Video: [Iota Americas Livestream - Yield, Defi and ISCP Smart Contracts](https://www.youtube.com/watch?v=LJmdnR6QDcM)
 3. Michele Nati wird bei der european identity and cloud conference in München mitmachen: [Tweet der IF](https://twitter.com/iota/status/1435157016708780038?s=20); [Event](https://www.kuppingercole.com/events/eic2021#tickets)
 4. Stephen Curry ein US-Basketballer mit 15 Millionen Followern [will mit crypto starten](https://twitter.com/StephenCurry30/status/1435047716950667264?s=20) und die Cryptogemeinde shillt ihre Bags drunter...
 5. Scheinbar wechseln die Shorts die Börse [Reddit Post: IOTA: Hidden Shorts (Shorters realized they were being tracked)](https://www.reddit.com/r/SatoshiStreetBets/comments/pj5o3z/iota_hidden_shorts_shorters_realized_they_were/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
@@ -13,4 +13,5 @@ Es gab viele interessante Tweets: [Charlex Varley 1/5](https://twitter.com/c_var
 10. Coinbase hat Probleme mit der SEC weil sie Cryptolending anbieten wollen: [Tweet vom CEO](https://twitter.com/brian_armstrong/status/1435439291715358721?s=20) 
 11. Die [IF tweetet](https://twitter.com/iota/status/1435558718893133824?s=20) über den [Identity Resolver](https://explorer.iota.org/mainnet/identity-resolver/)
 12. IOTAWeekly 009: [EU-Blockchain auf #IOTA (?), Banken, Smart Contracts und vieles mehr!](https://www.youtube.com/watch?v=s8tgxv2HDLM)
-13. 
+13. Panthos [tweetet](https://twitter.com/PantosIO/status/1435584195586297859?s=20) über die IOTA Ethereum Bridge
+14. 
