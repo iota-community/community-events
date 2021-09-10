@@ -24,4 +24,10 @@ Es gab viele interessante Tweets: [Charlex Varley 1/5](https://twitter.com/c_var
 21. INATBA mit neuem Report vom social impact team: [Blockchain for social impact](https://inatba.org/reports/blockchain-for-social-impact/); Hier der ganze 19 seitige Report(https://unctad.org/system/files/official-document/ecn162021d3_en.pdf); Auch die [IF tweetet](https://twitter.com/iota/status/1435889495975550978?s=20) darüber
 22. Tom Brady mit 2Mio Followern [tweetet](https://twitter.com/TomBrady/status/1435634036274352129?s=19) über FTX Werbung (Crypto Exchange); Dom hatte die ja auch mal angeschrieben mit "Schafft ihr es auch in 2 Wochen IOTA zu launchen?": [Tweet](https://twitter.com/DomSchiener/status/1434838868457664514?s=20)
 23. Hans Moog über Zero-Point Energy: [Tweet](https://twitter.com/hus_qy/status/1435953441264836611?s=20) und sein [Eli5 Tweet](https://twitter.com/hus_qy/status/1436077100285497347?s=20) dazu; Wissenschaft oder Hokuspokus? Visionär oder hoffnungsloser Optimist? [Für Buffy ist die Sache natürlich klar](https://twitter.com/fudsfuddy/status/1436001481279348743?s=20); Die Community denkt wohl eher so: [Tweet](https://twitter.com/eavesdropperle/status/1436097576080748546?s=20)
-24. 
+24. [IOTA Research Status Update September 2021](https://blog.iota.org/iota-research-status-update-september-2021/)
+25. Neuer Tweet(https://twitter.com/ProjectAlvarium/status/1436316726023569410?s=20) von Project Alvarium über: [roject Alvarium and The Rise of Data Confidence](https://www.cio.com/article/3617917/project-alvarium-and-the-rise-of-data-confidence.html?linkId=119757425) 
+26. Neues [Video von KupKrush](https://www.youtube.com/watch?v=bWWfKNBTikc)
+27. [MicroHash sucht dAPP Ideen](https://twitter.com/micro_hash/status/1436298529920725010?s=20); IoTerry hat darüber [getweetet](https://twitter.com/io_terry/status/1436345989883912210?s=20)
+28. Dom macht wieder ein AMA: [AMA IOTA Talks with Dominik Schiener - 17.09.2021](https://www.youtube.com/watch?v=Pl_V8fPc_dM)
+29. IOTA up ist online: [Webseite](https://iotaup.com/)
+30. Neues Twich Video von der IF(https://www.twitch.tv/iotadev)
