@@ -18,7 +18,7 @@ Es gab viele interessante Tweets: [Charlex Varley 1/5](https://twitter.com/c_var
 15. Hans Moog Aussagen: "..superior to all existing solutions/ ..you will never be able to build a more robust, more scalable, more secure and more efficient consensus mechanism.": [Tweet mit Screenshots](https://twitter.com/Vrom14286662/status/1435855676983681027?s=20); Hier der ganze [Tweetstorm von Hans](https://twitter.com/hus_qy/status/1435696942965735431?s=20)
 16. Die Software AG arbeitet wohl noch an einer 3. News [(Tweet)](https://twitter.com/archimate/status/1435575816868573188?s=20) neben #2 EBSI und #1Gaia-X? Hier nochmal [einfachIOTA Interview mit C. Strnadl](https://www.youtube.com/watch?v=4TwfcaQlCzQ) in dem er das erzählt hatte
 17. Hans Moog nochmal zu Cardano vs. IOTA bzüglich smart contracts auf UTXO Basis: [Tweet](https://twitter.com/hus_qy/status/1435713580297564160?s=20)
-18. IOTA Treasury Governance call war am Donnerstag: [Tweet](https://twitter.com/Phylo79288735/status/1435612304033288199?s=20)
+18. IOTA Treasury Governance call war am Donnerstag: [Tweet](https://twitter.com/Phylo79288735/status/1435612304033288199?s=20) Hier die [Zusammenfasung bzw. das Protokoll](https://github.com/iota-community/Community-Governance/blob/main/meetings/Community_Call_notes_09.09.21.md)
 19. Einführung von Blocks/Bundles im IOTA Tangle -> [Flash loans](https://www.youtube.com/watch?v=BcLmDRyk4IU&feature=youtu.be) möglich? [Tweet mit H.Moog Screenshot](https://twitter.com/Vrom14286662/status/1435524842607022080?s=20)
 20. Fetch-Ai und Bosch auf der IAA präsentieren [ihre Lösung für Deep Parking](https://assets.bosch.com/media/global/research/eot/bosch-eot-ai-blockchain-parking-iaa_en.pdf) an einem Jaguar... [Bosch dazu auf LinkedIN](https://www.linkedin.com/posts/bosch-mobility-solutions_iaa-mobility-21-fetchai-activity-6841299475097522177-aw65/)
 21. INATBA mit neuem Report vom social impact team: [Blockchain for social impact](https://inatba.org/reports/blockchain-for-social-impact/); Hier der ganze 19 seitige Report(https://unctad.org/system/files/official-document/ecn162021d3_en.pdf); Auch die [IF tweetet](https://twitter.com/iota/status/1435889495975550978?s=20) darüber
@@ -31,8 +31,12 @@ Es gab viele interessante Tweets: [Charlex Varley 1/5](https://twitter.com/c_var
 28. Dom macht wieder ein AMA: [AMA IOTA Talks with Dominik Schiener - 17.09.2021](https://www.youtube.com/watch?v=Pl_V8fPc_dM)
 29. IOTA up ist online: [Webseite](https://iotaup.com/) 
 30. Neues Twitch Video von der IF(https://www.twitch.tv/iotadev)
-31. Wir könnten mal über DAO reden. Das scheint nach dem NFT Hype der nächste zu sein: [Artikel: The Rise of Micro-Economies](https://coopahtroopa.mirror.xyz/gWY6Kfebs9wHdfoZZswfiLTBVzfKiyFaIwNf2q8JpgI)
+31. Wir könnten mal über DAO reden. Das scheint nach dem NFT Hype der nächste Hype zu werden: [Artikel: The Rise of Micro-Economies](https://coopahtroopa.mirror.xyz/gWY6Kfebs9wHdfoZZswfiLTBVzfKiyFaIwNf2q8JpgI)
 32. Am Sonntag 11.09.21 sollen die Cardano Smart Contracts live gehen: [Tweet](https://twitter.com/InputOutputHK/status/1436325831199141888?s=20); Cardano muss aber auch mit FUD kämpfen: [Is Cardano A Scam Even Bigger Than Tether?](https://medium.datadriveninvestor.com/is-cardano-a-scam-even-bigger-than-tether-40ea0a5c3a4c)
-33. Satoshi Stree Bets will am Montag den Coin shillen der am meisten erwähnt wird unter ihrem [Tweet](https://twitter.com/SatoshiStBets/status/1436416999178055683?s=20) (in meiner Filterblase müsste IOTA Haushoch gewinnen...
-34. Frank the fish will eine library for #IOTA Node's Web Api bauen und sucht Anregungen was gewünscht ist: [Tweet](https://twitter.com/FrankTheFish8/status/1436231516506443777?s=20)
-35. 
+33. Satoshi Stree Bets will am Montag den Coin shillen der am meisten erwähnt wird unter ihrem [Tweet](https://twitter.com/SatoshiStBets/status/1436416999178055683?s=20) (in meiner Filterblase müsste IOTA haushoch gewinnen...
+34. Für das Montags shillen ist IOTA wohl zu groß ([Tweet](https://twitter.com/SatoshiStBets/status/1436716711189827592?s=20)), aber es gibt am 14. Sept. ein AMA im SatoshiStreetbets Discord wo man auf Reddit(https://www.reddit.com/r/SatoshiStreetBets/comments/pmddqb/iota_ama_on_our_discord_tuesday_14th_september/) die Fragen stellen kann
+35. Frank the fish will eine library for #IOTA Node's Web Api bauen und sucht Anregungen was gewünscht ist: [Tweet](https://twitter.com/FrankTheFish8/status/1436231516506443777?s=20)
+36. Die ZANIGROUP hat ein Patent für Tiefbau Flutwasserauffangsystem bekommen und freut sich auf [Twitter](https://twitter.com/GroupZanni/status/1436626896591142913) darüber mit #iota
+37. Am 15.9 spricht MOBI über digital Identities und Jelle Milenar hat meine [Tweet-Spekulation](https://twitter.com/Vrom14286662/status/1436592402681241600?s=20) zumindest mal geliked...
+38. Was macht Mat Yarger wohl in Deutschland/Frankfurt Airport? [Tweet](https://twitter.com/Mat_Yarger/status/1436946006713659398?s=20) -> Vielleicht zwischenstopp? IAA wahr ja in München...
+39. 
