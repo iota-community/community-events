@@ -46,3 +46,4 @@ Es gab viele interessante Tweets: [Charlex Varley 1/5](https://twitter.com/c_var
 43. Bee Node 0.2.0 release: [Github](https://github.com/iotaledger/bee/releases/tag/v0.2.0) und Tanglebay hat swarm daraufhin auch aktualisiert: [Tweet](https://twitter.com/TANGLEBAY/status/1437349972576460802?s=20)
 44. Die IF [tweetet](https://twitter.com/iota/status/1437402641269678082?s=20) über INATBA und diesen Blogpost der IF: [INATBA Report Showcases the Potential of IOTA and Other DLTs to Achieve the UN's SDGs](https://blog.iota.org/inatba-report-showcases-the-potential-of-iota-and-other-dlts-to-achieve-the-sdgs/]
 45. MOBI [tweetet](https://twitter.com/dltMOBI/status/1437449064006799370?s=20) über MOBITrustedTrip mit IOTAinside..
+46. Was war da heute bei Litecoin los? Angeblich Partnerschaft mit Wallmarkt und dann revidiert => 40% hoch und wieder runter der Kurs...
