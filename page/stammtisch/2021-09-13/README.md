@@ -43,3 +43,4 @@ Es gab viele interessante Tweets: [Charlex Varley 1/5](https://twitter.com/c_var
 40. Dan Simmerman mit einigen verwirrenden Tweets: 2x über Metavers: [Tweet 1](https://twitter.com/DanSimerman/status/1435061481767329792?s=20); [Tweet 2](https://twitter.com/DanSimerman/status/1436817266637746177?s=20); 1x über "What comes after being a degen? Asking for a fren." [Tweet 3](https://twitter.com/DanSimerman/status/1435675433740259329?s=20) und Tesla [Tweet](https://twitter.com/DanSimerman/status/1437144958461485064?s=20)
 41. [Hans Moog Kommentar zu Radix](https://twitter.com/hus_qy/status/1437174230089617415?s=20)
 42. Xayn App 2.0 ist raus: [Tweet](https://twitter.com/XaynHQ/status/1437341293370281987?s=20) Dom Schiener liked das...
+43. Bee Node 0.2.0 release: [Github](https://github.com/iotaledger/bee/releases/tag/v0.2.0) und Tanglebay hat swarm daraufhin auch aktualisiert: [Tweet](https://twitter.com/TANGLEBAY/status/1437349972576460802?s=20)
