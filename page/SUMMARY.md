@@ -39,3 +39,4 @@
 - [2021-08-30](./stammtisch/2021-08-30/README.md)
 - [2021-09-06](./stammtisch/2021-09-06/README.md)
 - [2021-09-13](./stammtisch/2021-09-13/README.md)
+- [2021-09-20](./stammtisch/2021-09-20/README.md)
