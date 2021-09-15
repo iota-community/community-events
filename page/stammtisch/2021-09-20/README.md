@@ -8,3 +8,4 @@
 6. Google und Daper Labs NFT: [Google Takes Giant Step To Powering Web 3 With Dapper Labs NFT Deal](https://www.forbes.com/sites/michaeldelcastillo/2021/09/14/google-takes-giant-step-to-powering-web-3-with-dapper-labs-nft-deal/?utm_campaign=sprinklrForbesCrypto&utm_content=5480603221&utm_medium=social&utm_source=TWITTER)
 7. Tangle Bay hat swarm geupdated: [Tweet](https://twitter.com/TANGLEBAY/status/1437774150924476416?s=20)
 8. [AMA mit Dom und Dave bei SatoshiStreetbets](https://www.youtube.com/watch?v=EJqqTyX2_JU)
+9. IOTA bei Coinbase: Charlie hat einiges preis gegeben. Sie arbeiten wohl dran. Tweets mit Screenshot: [Tweet 1](https://twitter.com/rohstee/status/1437894345366061066?s=20); [Tweet 2](https://twitter.com/rohstee/status/1437895838945234945?s=20); [Tweet 3](https://twitter.com/rohstee/status/1437898968831307782?s=20)
