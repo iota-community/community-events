@@ -13,3 +13,6 @@
 11. Hans Moog zum Zusammenspiel zwischen Mana und Sharding: [2 Tweets](https://twitter.com/hus_qy/status/1437756191459971075?s=20)
 12. Michele Nati hat einen Vortrag bei der "European Identity and Cloud Conference 2021" gemacht, über den getweetet wurde: [Tweet 1](https://twitter.com/joergresch/status/1437759022644477959?s=20); [Tweet 2](https://twitter.com/joergresch/status/1437779646557392901?s=20) war besonders interessant: "We at [kuppingercole](https://www.kuppingercole.com/) rate IOTA's success potential as very high"
 13. Firefly development wird offener: [Tweet von C. Varley](https://twitter.com/c_varley/status/1437783945865744390?s=20)
+14. Die IF [tweetet](https://twitter.com/iota/status/1438140864526786567?s=20) über Projekt Alvarium und ein neues [Video mit Mat Yarger: Facilitating Data Confidence with Trust Fabrics - ZEDEDA Transform 2021 (Day 1)](https://www.youtube.com/watch?v=RIew8SqqT10)
+15. Vote für Asvin.iot: [Tweet mit #IOTA](https://twitter.com/mirko_ross/status/1438137837820555264?s=20)
+16. 
