@@ -14,5 +14,6 @@
 12. Michele Nati hat einen Vortrag bei der "European Identity and Cloud Conference 2021" gemacht, über den getweetet wurde: [Tweet 1](https://twitter.com/joergresch/status/1437759022644477959?s=20); [Tweet 2](https://twitter.com/joergresch/status/1437779646557392901?s=20) war besonders interessant: "We at [kuppingercole](https://www.kuppingercole.com/) rate IOTA's success potential as very high"
 13. Firefly development wird offener: [Tweet von C. Varley](https://twitter.com/c_varley/status/1437783945865744390?s=20)
 14. Die IF [tweetet](https://twitter.com/iota/status/1438140864526786567?s=20) über Projekt Alvarium und ein neues [Video mit Mat Yarger: Facilitating Data Confidence with Trust Fabrics - ZEDEDA Transform 2021 (Day 1)](https://www.youtube.com/watch?v=RIew8SqqT10)
-15. Vote für Asvin.iot: [Tweet mit #IOTA](https://twitter.com/mirko_ross/status/1438137837820555264?s=20)
-16. 
+15. Vote für Asvin.iot: [Tweet mit #IOTA](https://twitter.com/mirko_ross/status/1438137837820555264?s=20); Hier ein Live Showcase: [Tweet mit#IOTA](https://twitter.com/mirko_ross/status/1438182354879664148?s=20)
+16. Frank the fish hat ein broadcast plugin gemerged into #IOTA 's goshimmer development branch: [Tweet](https://twitter.com/FrankTheFish8/status/1438134185906950146?s=19)
+17. 
