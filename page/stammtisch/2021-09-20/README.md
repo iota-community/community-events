@@ -18,3 +18,5 @@
 16. Frank the fish hat ein broadcast plugin gemerged into #IOTA 's goshimmer development branch: [Tweet](https://twitter.com/FrankTheFish8/status/1438134185906950146?s=19)
 17. Mat Yarger begeistert über IOTA Streams und Identity: [Tweetstorm](https://twitter.com/Mat_Yarger/status/1438241211362516998?s=20)
 18. 2 Faktor Authentifizierung notwendig für [github.com/iota-community](https://github.com/iota-community]: [Tweet](https://twitter.com/antonionardella/status/1438408389944565761?s=20); Hier die [Anleitung zur GitHub 2FA Authentifizierung](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
+19. Was ist Alph Zero X @Hans Moog? [Tweet](https://twitter.com/hus_qy/status/1438501395745759234?s=20)
+20. AMA mit Dom: [Tweet](https://twitter.com/iota/status/1438503295903879180?s=20); Fragen [hier](https://www.reddit.com/r/Iota/comments/plhof5/ama_with_dominik_schiener_17092021/); Und hier die [AMA Aufzeichnung](https://www.youtube.com/watch?v=Pl_V8fPc_dM)
