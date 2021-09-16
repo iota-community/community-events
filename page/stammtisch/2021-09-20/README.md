@@ -17,4 +17,4 @@
 15. Vote für Asvin.iot: [Tweet mit #IOTA](https://twitter.com/mirko_ross/status/1438137837820555264?s=20); Hier ein Live Showcase: [Tweet mit#IOTA](https://twitter.com/mirko_ross/status/1438182354879664148?s=20)
 16. Frank the fish hat ein broadcast plugin gemerged into #IOTA 's goshimmer development branch: [Tweet](https://twitter.com/FrankTheFish8/status/1438134185906950146?s=19)
 17. Mat Yarger begeistert über IOTA Streams und Identity: [Tweetstorm](https://twitter.com/Mat_Yarger/status/1438241211362516998?s=20)
-18. 
+18. 2 Faktor Authentifizierung notwendig für [github.com/iota-community](https://github.com/iota-community]: [Tweet](https://twitter.com/antonionardella/status/1438408389944565761?s=20); Hier die [Anleitung zur GitHub 2FA Authentifizierung](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
