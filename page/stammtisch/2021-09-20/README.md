@@ -26,3 +26,4 @@
 24. Dr. Achim Klein mit gutem Artikel: [Exploring IOTA 2.0 Smart Contracts in a Private Network: Developing a Prediction Market](https://medium.com/51nodes/exploring-iota-2-0-smart-contracts-in-a-private-network-developing-a-prediction-market-c2d81988f75e)
 25. Serguei Popov will über Smart Contracts reden... am 22.Sept: [Tweet](https://twitter.com/iota/status/1438518360203923459?s=20)
 26. Schmucklos Einsteigerguide Update: [INATBA-Bericht zeigt das Potenzial von IOTA](https://iota-einsteiger-guide.de/iota-potenzial-von-iota.html)
+27. CZ Binance spricht im Interview darüber, dass IOTA sehr kompliziert war zu integrieren: [Tweet mit Ausschnitt](https://twitter.com/CryptoDog_Blog/status/1438554704280162316?s=20)
