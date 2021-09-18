@@ -19,7 +19,7 @@
 17. Mat Yarger begeistert über IOTA Streams und Identity: [Tweetstorm](https://twitter.com/Mat_Yarger/status/1438241211362516998?s=20)
 18. 2 Faktor Authentifizierung notwendig für [github.com/iota-community](https://github.com/iota-community]: [Tweet](https://twitter.com/antonionardella/status/1438408389944565761?s=20); Hier die [Anleitung zur GitHub 2FA Authentifizierung](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
 19. Was ist Alph Zero X @Hans Moog? [Hans Tweet](https://twitter.com/hus_qy/status/1438501395745759234?s=20); Hier das [Whitepaper von AlphZero](https://alephzero.org/wp-content/uploads/2021/06/A0_BWP_06_2021.pdf)
-20. AMA mit Dom: [Tweet](https://twitter.com/iota/status/1438503295903879180?s=20); Fragen [hier](https://www.reddit.com/r/Iota/comments/plhof5/ama_with_dominik_schiener_17092021/); Und hier die [AMA Aufzeichnung](https://www.youtube.com/watch?v=Pl_V8fPc_dM)
+20. AMA mit Dom: [Tweet](https://twitter.com/iota/status/1438503295903879180?s=20); Fragen [hier](https://www.reddit.com/r/Iota/comments/plhof5/ama_with_dominik_schiener_17092021/); Und hier die [AMA Aufzeichnung](https://www.youtube.com/watch?v=Pl_V8fPc_dM); Und [hier 29:10](https://youtu.be/Pl_V8fPc_dM?t=1685) sagt Dom, dass das incentivierte Testnetzt nicht mehr dieses Jahr kommt
 21. Hans Moog released Multivers?!? [Tweet 1/6](https://twitter.com/hus_qy/status/1438643732723736579?s=20)  "say hello to the first multi-threaded version of our "quadruple entry accounting ledger"; "for me this marks one of the most important milestones"; "feels like everything just "falls into it's place" and even the rejected parts of our research surprisingly turn into something that holds value after all (more on that that soon)"
 22. SatoshiStreetbets [twittert](https://twitter.com/SatoshiStBets/status/1438557468280426501?s=20) erneut über IOTA mit "Why I'm bullish on #IOTA:"...
 23. [IOTA America Roundtable](https://www.youtube.com/watch?v=-6ModxcJrv4)
@@ -27,3 +27,8 @@
 25. Serguei Popov will über Smart Contracts reden... am 22.Sept: [Tweet](https://twitter.com/iota/status/1438518360203923459?s=20)
 26. Schmucklos Einsteigerguide Update: [INATBA-Bericht zeigt das Potenzial von IOTA](https://iota-einsteiger-guide.de/iota-potenzial-von-iota.html)
 27. CZ Binance spricht im Interview darüber, dass IOTA sehr kompliziert war zu integrieren: [Tweet mit Ausschnitt](https://twitter.com/CryptoDog_Blog/status/1438554704280162316?s=20)
+28. IOTA wekkly 10: [IOTAWeekly 010: Sind Kryptowährungen realitätsfern? #IOTA nicht!](https://www.youtube.com/watch?v=BRFsyR70VJo)
+29. Neuer Youtuber der sehr positiv über IOTA berichtet: [IOTA | Part of a $1.5 trillion Sector by 2025. Introduction - 
+WhalesOfWallStreet Channel](https://www.youtube.com/watch?v=AvPGpXn0sgk); Freut sich auf Twitter über die Unterstützung: [Tweet 1](https://twitter.com/Whales0fWallSt/status/1438863936644915203?s=20); [Tweet 2](https://twitter.com/Whales0fWallSt/status/1439011377457270790?s=20); 
+30. DEXES macht ein Video über: [IOTA und die EU - too big to fail?!?!](https://www.youtube.com/watch?v=UB32EN4S7xw)
+31. 
