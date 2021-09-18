@@ -32,3 +32,4 @@
 WhalesOfWallStreet Channel](https://www.youtube.com/watch?v=AvPGpXn0sgk); Freut sich auf Twitter über die Unterstützung: [Tweet 1](https://twitter.com/Whales0fWallSt/status/1438863936644915203?s=20); [Tweet 2](https://twitter.com/Whales0fWallSt/status/1439011377457270790?s=20); 
 30. DEXES macht ein Video über: [IOTA und die EU - too big to fail?!?!](https://www.youtube.com/watch?v=UB32EN4S7xw)
 31. Evaldas von der IF [lobt](https://twitter.com/lunfardo314/status/1438820117467500545?s=20) nochmal den Artikel über SmartContracts: [Exploring IOTA 2.0 Smart Contracts in a Private Network: Developing a Prediction Market](https://medium.com/51nodes/exploring-iota-2-0-smart-contracts-in-a-private-network-developing-a-prediction-market-c2d81988f75e)
+32. IOTA steigt am Freitag um 10% während fast alle anderen Cryptos rot sind: [Tweet](https://twitter.com/Vrom14286662/status/1438935269588316162?s=20)
