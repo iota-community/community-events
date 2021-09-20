@@ -39,3 +39,4 @@ WhalesOfWallStreet Channel](https://www.youtube.com/watch?v=AvPGpXn0sgk); Freut 
 36. Dom Schiener schreibt, dass Deutschland mit IOTA eine Vorreiterrolle übernehemn sollte bezüglich Digitalisierung: [Tweet](https://twitter.com/DomSchiener/status/1439631886846939136?s=20)
 37. IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/120-wochenr%C3%BCckblick-vom-12-bis-18-september-2021/&article%2F120-wochenr%C3%BCckblick-vom-12-bis-18-september-2021%2F=&__twitter_impression=true)
 38. IOTA Commits sind #1 über das Jahr gesehen und #3 über den Monat gesehen. Aber das bedeutet nicht nicht wie man an den Kommentaren erkennen kann im [Reddit Post](https://www.reddit.com/r/Iota/comments/pp2uex/iota_3_in_monthly_commits_and_1_in_yearly_commits/)
+39. Es steht einiges an im [IOTA Kalender](https://kalender.digital/e89078088266c4429634)
