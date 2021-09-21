@@ -5,4 +5,5 @@
 3. Neue Börse [Mandala Exchange](https://trade.mandala.exchange/en/trade/basic/IOTA_BTC) listet IOTA: [Tweet](https://twitter.com/MandalaEx/status/1440112938677903360?s=20)
 4. Im Stammtisch wurde gesagt, wir müssen uns nochmal über IOTAidentity unterhalten
 5. Interessante Überlegungen zu IOTA Smart Contracts: [Tweet 1/9](https://twitter.com/Rob_Daykin/status/1440023393043193860?s=20)
-6. Die IF stellt ein: [Tweet](https://twitter.com/iota/status/1440285029628665869?s=20); [Stellenbeschreibung](https://iota.bamboohr.com/jobs/view.php?id=169&source=aWQ9NA%3D%3D) (Technical Analyst & Project Lead Market Adoption Bereich: Automotive); Und hier [alle offene Stellen][https://iota.bamboohr.com/jobs/)
+6. Die IF stellt ein: [Tweet](https://twitter.com/iota/status/1440285029628665869?s=20); [Stellenbeschreibung](https://iota.bamboohr.com/jobs/view.php?id=169&source=aWQ9NA%3D%3D) (Technical Analyst & Project Lead Market Adoption Bereich: Automotive); Und hier [alle offene Stellen](https://iota.bamboohr.com/jobs/)
+7. EDAG City Bot gewinnt den ABC Preis as “Best of Best” in the “Smart & Digital” category: [Tweet](https://twitter.com/EDAGGroup/status/1440317403108282368?s=20)
