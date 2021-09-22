@@ -10,3 +10,4 @@
 8. Hans Moog meldet sich zum aktuellen Stand: [Tweet 1](https://twitter.com/hus_qy/status/1440264643721662480?s=20); [Tweet 2](https://twitter.com/hus_qy/status/1440264702160818181?s=20)
 9. Popov Event über smart contracts
 10. Eric Hop beim Americas Round Table
+11. Neues Video von der IF auf Twitch
