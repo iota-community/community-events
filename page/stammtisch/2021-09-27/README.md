@@ -13,4 +13,4 @@
 11. Neues Video von der IF auf Twitch
 12. Frank will wohl 40 Tweets über IOTA machen: [Tweetstorm](https://twitter.com/2779530283Mi/status/1440241364084477954?s=20)
 13. Michael Saylor [tweetet](https://twitter.com/michael_saylor/status/1440661794884763648?s=20): "Bitcoin is triple entry accounting"; Hans Moog spricht ja schon von quadruple entry accounting: [Part 3](https://husqy.medium.com/the-trust-machine-part3-quadruple-entry-accounting-6da022f5e832)
-14. 
+14. CFB will mal wieder Qubic bauen... [Tweet](https://twitter.com/c___f___b/status/1440420940752379916?s=19) 
