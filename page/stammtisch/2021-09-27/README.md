@@ -17,3 +17,4 @@
 15. Robinhood baut Cryptowallet: [Artikel](https://cryptobriefing.com/robinhood-to-launch-crypto-wallet-in-2022/) 
 16. Dell Artikel über IOTA/QA mit Mat Yarger: [Tackling climate change with blockchain](https://www.delltechnologies.com/en-us/perspectives/tackling-climate-change-with-blockchain/) 
 17. Elon Musk macht wieder einen DOGE [Tweet](https://twitter.com/elonmusk/status/1440780474662543370?s=20), Kurs bleibt aber endlich relativ unbeeindruckt
+18. Twitter führt offenbar Bitcoin ein über Strike und Lightning [ Blogpost](https://blog.twitter.com/en_us/topics/product/2021/bringing-tips-to-everyone) 
