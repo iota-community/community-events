@@ -15,3 +15,4 @@
 13. Michael Saylor [tweetet](https://twitter.com/michael_saylor/status/1440661794884763648?s=20): "Bitcoin is triple entry accounting"; Hans Moog spricht ja schon von quadruple entry accounting: [Part 3](https://husqy.medium.com/the-trust-machine-part3-quadruple-entry-accounting-6da022f5e832)
 14. CFB will mal wieder Qubic bauen... [Tweet](https://twitter.com/c___f___b/status/1440420940752379916?s=19) 
 15. Robinhood baut Cryptowallet: [Artikel](https://cryptobriefing.com/robinhood-to-launch-crypto-wallet-in-2022/) 
+16. Dell Artikel über IOTA/QA mit Mat Yarger: [Tackling climate change with blockchain](https://www.delltechnologies.com/en-us/perspectives/tackling-climate-change-with-blockchain/) 
