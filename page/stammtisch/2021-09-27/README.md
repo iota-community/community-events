@@ -17,4 +17,9 @@
 15. Robinhood baut Cryptowallet: [Artikel](https://cryptobriefing.com/robinhood-to-launch-crypto-wallet-in-2022/) 
 16. Dell Artikel über IOTA/QA mit Mat Yarger: [Tackling climate change with blockchain](https://www.delltechnologies.com/en-us/perspectives/tackling-climate-change-with-blockchain/) 
 17. Elon Musk macht wieder einen DOGE [Tweet](https://twitter.com/elonmusk/status/1440780474662543370?s=20), Kurs bleibt aber endlich relativ unbeeindruckt
-18. Twitter führt offenbar Bitcoin ein über Strike und Lightning [ Blogpost](https://blog.twitter.com/en_us/topics/product/2021/bringing-tips-to-everyone) 
+18. Twitter führt offenbar Bitcoin ein über Strike und Lightning [Blogpost](https://blog.twitter.com/en_us/topics/product/2021/bringing-tips-to-everyone), [Tweet Jack Mallers](https://twitter.com/jackmallers/status/1441089090628177933?s=19) 
+19. Dev Status Update: [IF Tweet](https://twitter.com/iota/status/1441045102789529600?s=19); [Blogpost](https://blog.iota.org/dev-status-update-september-2021/amp/?__twitter_impression=true) 
+20. Binance US offen? 
+21. IOTA Community Government Meetup: [Videoaufzeichnung](https://youtu.be/z8JgMD_6K0Y) 
+22. Holger Köther stellt IOTA für die Blockchains kills for Europe kurz vor: [Tweet](https://twitter.com/CHAISE_EU/status/1441015207741038593?s=19) 
+
