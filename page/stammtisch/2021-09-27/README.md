@@ -21,5 +21,6 @@
 19. Dev Status Update: [IF Tweet](https://twitter.com/iota/status/1441045102789529600?s=19); [Blogpost](https://blog.iota.org/dev-status-update-september-2021/amp/?__twitter_impression=true) 
 20. Binance US offen? 
 21. IOTA Community Government Meetup: [Videoaufzeichnung](https://youtu.be/z8JgMD_6K0Y) 
-22. Holger Köther stellt IOTA für die Blockchains kills for Europe kurz vor: [Tweet](https://twitter.com/CHAISE_EU/status/1441015207741038593?s=19) 
+22. Holger Köther stellt IOTA für die Blockchains Skills for Europe kurz vor: [Tweet](https://twitter.com/CHAISE_EU/status/1441015207741038593?s=19) 
+23. 
 
