@@ -5,7 +5,7 @@
 3. Neue Börse [Mandala Exchange](https://trade.mandala.exchange/en/trade/basic/IOTA_BTC) listet IOTA: [Tweet](https://twitter.com/MandalaEx/status/1440112938677903360?s=20)
 4. Im Stammtisch wurde gesagt, wir müssen uns nochmal über IOTAidentity unterhalten
 5. Interessante Überlegungen zu IOTA Smart Contracts: [Tweet 1/9](https://twitter.com/Rob_Daykin/status/1440023393043193860?s=20)
-6. Die IF stellt ein: [Tweet](https://twitter.com/iota/status/1440285029628665869?s=20); [Stellenbeschreibung](https://iota.bamboohr.com/jobs/view.php?id=169&source=aWQ9NA%3D%3D) (Technical Analyst & Project Lead Market Adoption Bereich: Automotive); Und hier [alle offene Stellen](https://iota.bamboohr.com/jobs/)
+6. Die IF stellt ein: [Tweet 1](https://twitter.com/iota/status/1440285029628665869?s=20) [Tweet 2](https://twitter.com/iota/status/1440949254554624000?s=20); [Stellenbeschreibung](https://iota.bamboohr.com/jobs/view.php?id=169&source=aWQ9NA%3D%3D) (Technical Analyst & Project Lead Market Adoption Bereich: Automotive); Und hier [alle offene Stellen](https://iota.bamboohr.com/jobs/)
 7. EDAG City Bot gewinnt den ABC Preis as “Best of Best” in the “Smart & Digital” category: [Tweet](https://twitter.com/EDAGGroup/status/1440317403108282368?s=20)
 8. Hans Moog meldet sich zum aktuellen Stand: [Tweet 1](https://twitter.com/hus_qy/status/1440264643721662480?s=20); [Tweet 2](https://twitter.com/hus_qy/status/1440264702160818181?s=20)
 9. Popov Event über smart contracts
@@ -13,6 +13,7 @@
 11. Neues Video von der IF auf Twitch
 12. Frank will wohl 40 Tweets über IOTA machen: [Tweetstorm](https://twitter.com/2779530283Mi/status/1440241364084477954?s=20)
 13. Michael Saylor [tweetet](https://twitter.com/michael_saylor/status/1440661794884763648?s=20): "Bitcoin is triple entry accounting"; Hans Moog spricht ja schon von quadruple entry accounting: [Part 3](https://husqy.medium.com/the-trust-machine-part3-quadruple-entry-accounting-6da022f5e832); Hans [antwortet](https://twitter.com/hus_qy/status/1440695139307974659?s=19) ihm auch
-14. CFB will mal wieder Qubic bauen... [Tweet](https://twitter.com/c___f___b/status/1440420940752379916?s=19) 
+14. CFB will mal wieder Qubic bauen... [Tweet](https://twitter.com/c___f___b/status/1440420940752379916?s=19) und macht dem Sonstebo ärger: [Tweet](https://twitter.com/c___f___b/status/1440928388559089666?s=20) 
 15. Robinhood baut Cryptowallet: [Artikel](https://cryptobriefing.com/robinhood-to-launch-crypto-wallet-in-2022/) 
 16. Dell Artikel über IOTA/QA mit Mat Yarger: [Tackling climate change with blockchain](https://www.delltechnologies.com/en-us/perspectives/tackling-climate-change-with-blockchain/) 
+17. Elon Musk macht wieder einen DOGE [Tweet](https://twitter.com/elonmusk/status/1440780474662543370?s=20), Kurs bleibt aber endlich relativ unbeeindruckt
