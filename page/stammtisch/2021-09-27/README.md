@@ -23,4 +23,5 @@
 21. IOTA Community Government Meetup: [Videoaufzeichnung](https://youtu.be/z8JgMD_6K0Y) 
 22. Holger Köther stellt IOTA für die Blockchains Skills for Europe kurz vor: [Tweet](https://twitter.com/CHAISE_EU/status/1441015207741038593?s=19) 
 23. Blocktrainer Youtube ban: [Tweet](https://twitter.com/blocktrainer/status/1441106762610868231?s=19) 
+24. [Exclusive interview with Dominik Schiener](https://coinful.net/exclusive-interview-with-dominik-schiener-co-founder-of-iota/) 
 
