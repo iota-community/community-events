@@ -25,4 +25,5 @@
 23. Blocktrainer Youtube ban: [Tweet](https://twitter.com/blocktrainer/status/1441106762610868231?s=19) 
 24. [Exclusive interview with Dominik Schiener](https://coinful.net/exclusive-interview-with-dominik-schiener-co-founder-of-iota/) 
 25. Die IF [tweetet](https://twitter.com/iota/status/1441009743699513350?s=19) über KupKrash und frägt nach Greentech use cases 
+26. IOTA GoShimmer v0.7.6 release: [Github](https://github.com/iotaledger/goshimmer/releases/tag/v0.7.6) 
 
