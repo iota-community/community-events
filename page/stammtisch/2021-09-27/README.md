@@ -26,4 +26,6 @@
 24. [Exclusive interview with Dominik Schiener](https://coinful.net/exclusive-interview-with-dominik-schiener-co-founder-of-iota/) 
 25. Die IF [tweetet](https://twitter.com/iota/status/1441009743699513350?s=19) über KupKrash und frägt nach Greentech use cases 
 26. IOTA GoShimmer v0.7.6 release: [Github](https://github.com/iotaledger/goshimmer/releases/tag/v0.7.6) 
+29. Neuer Artikel von Lukas Stanisic über ISCP: [My opinion on IOTA Smart Contract Protocol (ISCP) — security improvement proposal
+](https://luka99.medium.com/my-opinion-on-iota-smart-contract-protocol-iscp-security-improvement-proposal-c6ca3ca3df23) 
 
