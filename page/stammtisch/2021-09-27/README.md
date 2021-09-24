@@ -28,5 +28,6 @@
 26. IOTA GoShimmer v0.7.6 release: [Github](https://github.com/iotaledger/goshimmer/releases/tag/v0.7.6) 
 29. Neuer Artikel von Lukas Stanisic über ISCP: [My opinion on IOTA Smart Contract Protocol (ISCP) — security improvement proposal
 ](https://luka99.medium.com/my-opinion-on-iota-smart-contract-protocol-iscp-security-improvement-proposal-c6ca3ca3df23) 
-30. IOTA weekly über [IOTA Coordicide: Wann und wie] (https://youtu.be/jcp9H3y_DOY) 
+30. IOTA weekly über [IOTA Coordicide: Wann und wie](https://youtu.be/jcp9H3y_DOY) 
+31. China banned mal wieder Bitcoin: [Artikel](https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/breaking-alles-illegal-china-hammer-bringt-bitcoin-co-unter-druck-20237803.html) 
 
