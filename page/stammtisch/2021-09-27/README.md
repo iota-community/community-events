@@ -24,4 +24,5 @@
 22. Holger Köther stellt IOTA für die Blockchains Skills for Europe kurz vor: [Tweet](https://twitter.com/CHAISE_EU/status/1441015207741038593?s=19) 
 23. Blocktrainer Youtube ban: [Tweet](https://twitter.com/blocktrainer/status/1441106762610868231?s=19) 
 24. [Exclusive interview with Dominik Schiener](https://coinful.net/exclusive-interview-with-dominik-schiener-co-founder-of-iota/) 
+25. Die IF [tweetet](https://twitter.com/iota/status/1441009743699513350?s=19) über KupKrash und frägt nach Greentech use cases 
 
