@@ -31,4 +31,4 @@
 30. IOTA weekly über [IOTA Coordicide: Wann und wie](https://youtu.be/jcp9H3y_DOY) 
 31. China banned mal wieder Bitcoin: [Artikel](https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/breaking-alles-illegal-china-hammer-bringt-bitcoin-co-unter-druck-20237803.html) 
 32. Mehr Details zu KupKrash: [Tweet](https://twitter.com/io_terry/status/1441551998323773442?s=19) 
-
+33. Artikel: [Chinesischer Megakonzern Evergrande reißt wichtige Zahlungsfrist](https://www.spiegel.de/wirtschaft/unternehmen/evergrande-chinesischer-mega-immobilien-konzern-reisst-wichtige-zahlungsfrist-a-339e08aa-cc3e-48f4-ae46-fdb948d652b6-amp?__twitter_impression=true) 
