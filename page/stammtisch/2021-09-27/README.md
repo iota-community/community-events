@@ -34,3 +34,4 @@
 33. Artikel: [Chinesischer Megakonzern Evergrande reißt wichtige Zahlungsfrist](https://www.spiegel.de/wirtschaft/unternehmen/evergrande-chinesischer-mega-immobilien-konzern-reisst-wichtige-zahlungsfrist-a-339e08aa-cc3e-48f4-ae46-fdb948d652b6-amp?__twitter_impression=true) 
 34. Cardano Summit: [Weltgrößte Blockchain Konferenz](https://de.beincrypto.com/cardano-summit-weltgroesste-gruene-blockchain-kuendigt-grosses-community-event-an/?utm_source=telegram&utm_medium=social) 
 35. Dom Schiener regt sich über den aktuellen Login Prozess auf: [Tweet](https://twitter.com/DomSchiener/status/1441810467647803393?s=19) "Crypto and identity wallets will solve that" 
+36. 7% Token migriert: 
