@@ -36,3 +36,4 @@
 35. Dom Schiener regt sich über den aktuellen Login Prozess auf: [Tweet](https://twitter.com/DomSchiener/status/1441810467647803393?s=19) "Crypto and identity wallets will solve that" 
 36. 75% der Token sind migriert: [Chrysalis.iota.org](https://chrysalis.iota.org/status) 
 37. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/122-wochenr%C3%BCckblick-vom-19-bis-25-september-2021/&article%2F122-wochenr%C3%BCckblick-vom-19-bis-25-september-2021%2F=&__twitter_impression=true) 
+38. Offenbar ein Mitglied des taiwanesischen Parlaments hat über #IOTA [getweetet](https://twitter.com/augama/status/1441930165987147779?s=19) 
