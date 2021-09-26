@@ -35,3 +35,4 @@
 34. Cardano Summit: [Weltgrößte Blockchain Konferenz](https://de.beincrypto.com/cardano-summit-weltgroesste-gruene-blockchain-kuendigt-grosses-community-event-an/?utm_source=telegram&utm_medium=social) 
 35. Dom Schiener regt sich über den aktuellen Login Prozess auf: [Tweet](https://twitter.com/DomSchiener/status/1441810467647803393?s=19) "Crypto and identity wallets will solve that" 
 36. 75% der Token sind migriert: [Chrysalis.iota.org](https://chrysalis.iota.org/status) 
+37. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/122-wochenr%C3%BCckblick-vom-19-bis-25-september-2021/&article%2F122-wochenr%C3%BCckblick-vom-19-bis-25-september-2021%2F=&__twitter_impression=true) 
