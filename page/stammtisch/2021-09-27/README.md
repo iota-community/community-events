@@ -39,3 +39,4 @@
 38. Offenbar hat ein Mitglied des taiwanesischen Parlaments hat #IOTA [getweetet](https://twitter.com/augama/status/1441930165987147779?s=19) 
 39. Interessanter [Tweet mit Screenshots](https://twitter.com/Vrom14286662/status/1442353672361545728?s=19) zum Thema ERC20 auf dem Tangle mit L1 security 
 40. Youtube: Crypto Clear mit 300K Followern mit gutem Beitrag: [IOTA I want that](https://youtu.be/sQS6XQmX_MM) 
+41. Artikel: [Bitfinex just spent $23.7 million in fees to make a single Ethereum transaction](https://www.theblockcrypto.com/amp/post/118753/bitfinex-just-spent-23-7-million-in-fees-to-make-one-ethereum-transaction?__twitter_impression=true) 
