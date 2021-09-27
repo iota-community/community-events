@@ -38,3 +38,4 @@
 37. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/122-wochenr%C3%BCckblick-vom-19-bis-25-september-2021/&article%2F122-wochenr%C3%BCckblick-vom-19-bis-25-september-2021%2F=&__twitter_impression=true) 
 38. Offenbar hat ein Mitglied des taiwanesischen Parlaments hat #IOTA [getweetet](https://twitter.com/augama/status/1441930165987147779?s=19) 
 39. Interessanter [Tweet mit Screenshots](https://twitter.com/Vrom14286662/status/1442353672361545728?s=19) zum Thema ERC20 auf dem Tangle mit L1 security 
+40. Youtube: Crypto Clear mit 300K Followern mit gutem Beitrag: [IOTA I want that](https://youtu.be/sQS6XQmX_MM) 
