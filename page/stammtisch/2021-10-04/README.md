@@ -10,4 +10,6 @@ Crypto Clear (30K Follower): [IOTA I WANT THAT](https://www.youtube.com/watch?v=
 Crypto Class (130K Follower): [IOTA | DATA & VALUE TRANSFER PROTOCOL | OPEN | FEELESS | REENGINEERED DLT TECHNOLOGY](https://www.youtube.com/watch?v=A1ApBpxsuuo)
 6. Kappy sucht interessante Dapps, die auf EVM (Ethereum Virtual Machine) laufen und mit ISCP ganz einfach nachgebaut werden könnte:  [Tweet](https://twitter.com/Rob_Daykin/status/1442955272872366081?s=20)
 7. Am Freitag ist/war IOTA Stammtisch in München: [Meetup Event](https://www.meetup.com/de-DE/IOTA-Muc/events/280010135)
+8. ID Wallet von der Bundesregierung. Was ist da wieder falsch gelaufen?: [ID Wallet: Digitale Brieftasche der Bundesregierung liegt auf Eis](https://www.mobiflip.de/shortnews/id-wallet-digitale-brieftasche-der-bundesregierung-liegt-auf-eis/); [Digitaler Führerschein nicht mehr im Appstore](https://www.golem.de/news/id-wallet-digitaler-fuehrerschein-nicht-mehr-im-appstore-2109-159950.html)
+9. Die IF [tweetet](https://twitter.com/iota/status/1443229748017123334?s=20) über den neuen Blobpost [An Introduction into the Business Ecosystem of IOTA](https://blog.iota.org/an-intro-to-the-iota-ecosystem/)
 
