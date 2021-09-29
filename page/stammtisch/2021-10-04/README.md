@@ -12,4 +12,5 @@ Crypto Class (130K Follower): [IOTA | DATA & VALUE TRANSFER PROTOCOL | OPEN | FE
 7. Am Freitag ist/war IOTA Stammtisch in München: [Meetup Event](https://www.meetup.com/de-DE/IOTA-Muc/events/280010135)
 8. ID Wallet von der Bundesregierung. Was ist da wieder falsch gelaufen?: [ID Wallet: Digitale Brieftasche der Bundesregierung liegt auf Eis](https://www.mobiflip.de/shortnews/id-wallet-digitale-brieftasche-der-bundesregierung-liegt-auf-eis/); [Digitaler Führerschein nicht mehr im Appstore](https://www.golem.de/news/id-wallet-digitaler-fuehrerschein-nicht-mehr-im-appstore-2109-159950.html)
 9. Die IF [tweetet](https://twitter.com/iota/status/1443229748017123334?s=20) über den neuen Blobpost [An Introduction into the Business Ecosystem of IOTA](https://blog.iota.org/an-intro-to-the-iota-ecosystem/)
+10. Michele Nati hatte einen Auftritt bei [IOThingsWorld](https://iothings.world/events/global-scenarios/) und das war sein [Fazit](https://twitter.com/michelenati/status/1443236388573519881?s=20)
 
