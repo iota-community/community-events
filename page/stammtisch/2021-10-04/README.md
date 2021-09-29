@@ -8,4 +8,5 @@
 Whiteboard Crypto (100K Follower): [What is IOTA’s Tangle? mIOTA Explained with Animations](https://www.youtube.com/watch?v=3K9DD5phJEY);
 Crypto Clear (30K Follower): [IOTA I WANT THAT](https://www.youtube.com/watch?v=sQS6XQmX_MM);
 Crypto Class (130K Follower): [IOTA | DATA & VALUE TRANSFER PROTOCOL | OPEN | FEELESS | REENGINEERED DLT TECHNOLOGY](https://www.youtube.com/watch?v=A1ApBpxsuuo)
+6. Kappy sucht interessante Dapps, die auf EVM (Ethereum Virtual Machine) laufen und mit ISCP ganz einfach nachgebaut werden könnte:  [Tweet](https://twitter.com/Rob_Daykin/status/1442955272872366081?s=20)
 
