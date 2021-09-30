@@ -11,6 +11,11 @@ Crypto Class (130K Follower): [IOTA | DATA & VALUE TRANSFER PROTOCOL | OPEN | FE
 6. Kappy sucht interessante Dapps, die auf EVM (Ethereum Virtual Machine) laufen und mit ISCP ganz einfach nachgebaut werden könnte:  [Tweet](https://twitter.com/Rob_Daykin/status/1442955272872366081?s=20)
 7. Am Freitag ist/war IOTA Stammtisch in München: [Meetup Event](https://www.meetup.com/de-DE/IOTA-Muc/events/280010135)
 8. ID Wallet von der Bundesregierung. Was ist da wieder falsch gelaufen?: [ID Wallet: Digitale Brieftasche der Bundesregierung liegt auf Eis](https://www.mobiflip.de/shortnews/id-wallet-digitale-brieftasche-der-bundesregierung-liegt-auf-eis/); [Digitaler Führerschein nicht mehr im Appstore](https://www.golem.de/news/id-wallet-digitaler-fuehrerschein-nicht-mehr-im-appstore-2109-159950.html)
-9. Die IF [tweetet](https://twitter.com/iota/status/1443229748017123334?s=20) über den neuen Blobpost [An Introduction into the Business Ecosystem of IOTA](https://blog.iota.org/an-intro-to-the-iota-ecosystem/)
+9. Neuer Blogpost [An Introduction into the Business Ecosystem of IOTA](https://blog.iota.org/an-intro-to-the-iota-ecosystem/); Und hier [der Tweet dazu](https://twitter.com/iota/status/1443229748017123334?s=20) von der IOTA Foundation
 10. Michele Nati hatte einen Auftritt bei [IOThingsWorld](https://iothings.world/events/global-scenarios/) und das war sein [Fazit](https://twitter.com/michelenati/status/1443236388573519881?s=20)
+11. Es gibt einen neuen [One-Pager von IOTA](https://files.iota.org/media/IOTA_Business_Ecosystem.pdf)
+12. IOTA Americas Meetup mit Eric Hop
+13. Antonio Nardella war auf einem Hackathon in Südtirol: [Tweet](https://twitter.com/antonionardella/status/1441295890631692288?s=20)
+14. Den [Tweet](https://twitter.com/Vrom14286662/status/1442353672361545728?s=20) mit Screenshot über smart contracts, EVM, ERC-20, ERC-721,... hat Evaldas [kommentiert](https://twitter.com/lunfardo314/status/1442413780072386560?s=20) mit "not just theoretical" (Mit "Theoretically any ERC contract could run on the EVM on an ISCP chain..." ging der Screenshot los)
+15. Hans Moog war wieder auf Telegram (Konsens Nonsens) aktiv. Es vielen Sätze wie: "Satoshis ideen waren bahnbrechend. Aber es hat sich nie jemand die Zeit genommen diese wirklich zu analysieren. Ich glaube selbst Satoshi hat nicht wirklich "verstanden" was er da abgeliefert hat"; "IOTA is going to be so simple that it hurts"; "But I am 10000000% sure that it works. I would even bet my live on it."
 
