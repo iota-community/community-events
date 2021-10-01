@@ -24,5 +24,7 @@ Crypto Class (130K Follower): [IOTA | DATA & VALUE TRANSFER PROTOCOL | OPEN | FE
 19. Gman sucht developer für smart contracts: [Tweet](https://twitter.com/gregmart/status/1443556146929750019?s=20) "We have fun stuff cocking" #Metavers...
 20. In Buxtehude wird über IOTA berichtet: [Kreiszeitung Wochenblatt - Alles, was Sie vor der Investition in IOTA wissen müssen](https://www.kreiszeitung-wochenblatt.de/buxtehude/c-service/alles-was-sie-vor-der-investition-in-iota-wissen-muessen_a214728/amp?__twitter_impression=true)
 21. Chairman of the Federal Reserve, “We have no intent to ban cryptocurrency” : [Tweet](https://twitter.com/DocumentingBTC/status/1443628603938332672?s=20)
-22. 
+22. IOTA Wiki ist jetzt (https://twitter.com/Dr_Electron/status/1443635328376508433?s=20) Vorzeigeprojekt von dem [Docusaurus Showcase](https://docusaurus.io/showcase)
+23. Die [IF tweetet](https://twitter.com/iota/status/1443546457034924044?s=20) über [DigitalMRV (provides cohesive data confidence)](https://www.digitalmrv.earth/)
+24. Es gab ein [IOTA Experience Identity Meeting](https://www.youtube.com/watch?v=m9vD0tC9qSU) (Aufzeichnung vom 30.8.21) das auch Dom nochmal als "must watch" [promoted](https://twitter.com/DomSchiener/status/1443826586755686400?s=20
 
