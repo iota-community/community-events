@@ -15,7 +15,7 @@ Crypto Class (130K Follower): [IOTA | DATA & VALUE TRANSFER PROTOCOL | OPEN | FE
 10. Michele Nati hatte einen Auftritt bei [IOThingsWorld](https://iothings.world/events/global-scenarios/) und das war sein [Fazit](https://twitter.com/michelenati/status/1443236388573519881?s=20)
 11. Michele Nati Interview: [Dr. Michele Nati: The Decentralized E-Commerce Story | Frontier Talk #7](https://www.youtube.com/watch?v=bTF1j9PPdl4)
 12. Es gibt einen neuen [One-Pager von IOTA](https://files.iota.org/media/IOTA_Business_Ecosystem.pdf)
-13. IOTA Americas Meetup mit Eric Hop
+13. IOTA Americas Meetup mit Eric Hop: [IOTA Americas Live Stream - Sept. 30th 2021](https://www.youtube.com/watch?v=2U3yFtQMA30&feature=youtu.be)
 14. Antonio Nardella war auf einem Hackathon in Südtirol: [Tweet](https://twitter.com/antonionardella/status/1441295890631692288?s=20)
 15. Den [Tweet](https://twitter.com/Vrom14286662/status/1442353672361545728?s=20) mit Screenshot über smart contracts, EVM, ERC-20, ERC-721,... hat Evaldas [kommentiert](https://twitter.com/lunfardo314/status/1442413780072386560?s=20) mit "not just theoretical" (Mit "Theoretically any ERC contract could run on the EVM on an ISCP chain..." ging der Screenshot los)
 16. Hans Moog war wieder auf Telegram (Konsens Nonsens) aktiv. Es vielen Sätze wie: "Satoshis ideen waren bahnbrechend. Aber es hat sich nie jemand die Zeit genommen diese wirklich zu analysieren. Ich glaube selbst Satoshi hat nicht wirklich "verstanden" was er da abgeliefert hat"; "IOTA is going to be so simple that it hurts"; "But I am 10000000% sure that it works. I would even bet my live on it."
