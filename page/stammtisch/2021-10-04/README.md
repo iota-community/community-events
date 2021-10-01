@@ -21,5 +21,8 @@ Crypto Class (130K Follower): [IOTA | DATA & VALUE TRANSFER PROTOCOL | OPEN | FE
 16. Hans Moog war wieder auf Telegram (Konsens Nonsens) aktiv. Es vielen Sätze wie: "Satoshis ideen waren bahnbrechend. Aber es hat sich nie jemand die Zeit genommen diese wirklich zu analysieren. Ich glaube selbst Satoshi hat nicht wirklich "verstanden" was er da abgeliefert hat"; "IOTA is going to be so simple that it hurts"; "But I am 10000000% sure that it works. I would even bet my live on it."
 17. Holger Köther [tweetet 1/3](https://twitter.com/HolgerKoether/status/1443503392257609733?s=20) über Neoception die auf dem jährlichen E-Class-Standard Member Congress eine Präsentation zu digitalen Zwillingen und IOTA gehalten haben. Man soll auch für die [abstimmen](https://www.smart-production.de/specials/industrie-40/industrie-40-innovation-award-voting-2021)
 18. Die IF stellt ein: [Tweet](https://twitter.com/iota/status/1443519594849783808?s=20); Stellebeschreibung: [People Operations Administrator](https://iota.bamboohr.com/jobs/view.php?id=173&source=aWQ9NA%3D%3D)
-19. 
+19. Gman sucht developer für smart contracts: [Tweet](https://twitter.com/gregmart/status/1443556146929750019?s=20) "We have fun stuff cocking" #Metavers...
+20. In Buxtehude wird über IOTA berichtet: [Kreiszeitung Wochenblatt - Alles, was Sie vor der Investition in IOTA wissen müssen](https://www.kreiszeitung-wochenblatt.de/buxtehude/c-service/alles-was-sie-vor-der-investition-in-iota-wissen-muessen_a214728/amp?__twitter_impression=true)
+21. Chairman of the Federal Reserve, “We have no intent to ban cryptocurrency” : [Tweet](https://twitter.com/DocumentingBTC/status/1443628603938332672?s=20)
+22. 
 
