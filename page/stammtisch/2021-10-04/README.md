@@ -26,5 +26,6 @@ Crypto Class (130K Follower): [IOTA | DATA & VALUE TRANSFER PROTOCOL | OPEN | FE
 21. Chairman of the Federal Reserve, “We have no intent to ban cryptocurrency” : [Tweet](https://twitter.com/DocumentingBTC/status/1443628603938332672?s=20)
 22. IOTA Wiki ist jetzt (https://twitter.com/Dr_Electron/status/1443635328376508433?s=20) Vorzeigeprojekt von dem [Docusaurus Showcase](https://docusaurus.io/showcase)
 23. Die [IF tweetet](https://twitter.com/iota/status/1443546457034924044?s=20) über [DigitalMRV (provides cohesive data confidence)](https://www.digitalmrv.earth/)
-24. Es gab ein [IOTA Experience Identity Meeting](https://www.youtube.com/watch?v=m9vD0tC9qSU) (Aufzeichnung vom 30.8.21) das auch Dom nochmal als "must watch" [promoted](https://twitter.com/DomSchiener/status/1443826586755686400?s=20
+24. Es gab ein [IOTA Experience Identity Meeting](https://www.youtube.com/watch?v=m9vD0tC9qSU) (Aufzeichnung vom 30.8.21) das auch Dom nochmal als "must watch" [promoted](https://twitter.com/DomSchiener/status/1443826586755686400?s=20) wurde
+25. DEXES haben die Buiseness Folien von der IF (von Holger Köther) [besprochen](https://www.youtube.com/watch?v=Hp43YH5Fg4c)
 
