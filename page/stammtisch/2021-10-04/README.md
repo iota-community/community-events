@@ -28,8 +28,9 @@ Crypto Class (130K Follower): [IOTA | DATA & VALUE TRANSFER PROTOCOL | OPEN | FE
 23. Die [IF tweetet](https://twitter.com/iota/status/1443546457034924044?s=20) über [DigitalMRV (provides cohesive data confidence)](https://www.digitalmrv.earth/)
 24. Es gab ein [IOTA Experience Identity Meeting](https://www.youtube.com/watch?v=m9vD0tC9qSU) (Aufzeichnung vom 30.8.21) das auch Dom nochmal als "must watch" [promoted](https://twitter.com/DomSchiener/status/1443826586755686400?s=20) wurde
 25. DEXES haben die Buiseness Folien von der IF (von Holger Köther) [besprochen](https://www.youtube.com/watch?v=Hp43YH5Fg4c)
-26. Hans Moog mit Part 4: [The Trust Machine — Part4: The Tangle — a generalized voting protocol](https://husqy.medium.com/the-trust-machine-part4-the-tangle-a-generalized-voting-protocol-38c57f0eb7c)
+26. Hans Moog [veröffentlicht](https://twitter.com/hus_qy/status/1443899031995002880?s=20): [The Trust Machine — Part4: The Tangle — a generalized voting protocol](https://husqy.medium.com/the-trust-machine-part4-the-tangle-a-generalized-voting-protocol-38c57f0eb7c); Lukas Stanisic und Linus Naumann finden die Erklärung auf jeden Fall gut: [Tweet Lukas](https://twitter.com/lukastanisic99/status/1443907004272193546?s=20) [Tweet Linus](https://twitter.com/LinusNaumann/status/1443973929467617299?s=20)
 27. [IOTAWeekly 012: Smart Contracts und das IOTA Business Ecosystem](https://www.youtube.com/watch?v=_JeIEkwDbEo)
 28. Jede Menge neue Leute bei der IF: [Welcome to the IOTA Foundation - October 2021](https://blog.iota.org/welcome-to-the-iota-foundation-october-2021/)
 29. Die IF [tweetet](https://twitter.com/iota/status/1443889871341432835?s=20) über Trademark East Afrika und verlinkt das [Video mit der Dame (Dep Commissioner for Customs of the Kenya Revenue Authority)](https://www.youtube.com/watch?v=V7UhnAWfVew&t=2504s); Gunnar Stenzel sieht darin ein "Projekt mit massivem Impact": [Tweet 1/5](https://twitter.com/Gunnar_Stenzel/status/1443891059705135105?s=20)
+30. Michele Nati beim tmForum Event: [Tweet](https://twitter.com/michelenati/status/1443958887808258050?s=20)
 
