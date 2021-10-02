@@ -33,4 +33,6 @@ Crypto Class (130K Follower): [IOTA | DATA & VALUE TRANSFER PROTOCOL | OPEN | FE
 28. Jede Menge neue Leute bei der IF: [Welcome to the IOTA Foundation - October 2021](https://blog.iota.org/welcome-to-the-iota-foundation-october-2021/)
 29. Die IF [tweetet](https://twitter.com/iota/status/1443889871341432835?s=20) über Trademark East Afrika und verlinkt das [Video mit der Dame (Dep Commissioner for Customs of the Kenya Revenue Authority)](https://www.youtube.com/watch?v=V7UhnAWfVew&t=2504s); Gunnar Stenzel sieht darin ein "Projekt mit massivem Impact": [Tweet 1/5](https://twitter.com/Gunnar_Stenzel/status/1443891059705135105?s=20)
 30. Michele Nati beim tmForum Event: [Tweet](https://twitter.com/michelenati/status/1443958887808258050?s=20)
+31. Die IF tweetet über SUSE und einige Artikel werden darüber geschrieben: [BTC Manager](https://btcmanager.com/iota-tangle-core-technology-susee-large-scale-sensor-networks/amp/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost&__twitter_impression=true); [U-Today](https://u.today/iotas-tangle-chosen-as-platform-for-revolutionary-smart-energy-project?amp&__twitter_impression=true) 
+32. MOBI [tweetet](https://twitter.com/dltMOBI/status/1443989916313133064?s=19) über IOTA und die EU Blockchain und die mögliche Blockchain Adoption 
 
