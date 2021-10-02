@@ -24,7 +24,7 @@ Crypto Class (130K Follower): [IOTA | DATA & VALUE TRANSFER PROTOCOL | OPEN | FE
 19. Gman sucht developer für smart contracts: [Tweet](https://twitter.com/gregmart/status/1443556146929750019?s=20) "We have fun stuff cocking" #Metavers...
 20. In Buxtehude wird über IOTA berichtet: [Kreiszeitung Wochenblatt - Alles, was Sie vor der Investition in IOTA wissen müssen](https://www.kreiszeitung-wochenblatt.de/buxtehude/c-service/alles-was-sie-vor-der-investition-in-iota-wissen-muessen_a214728/amp?__twitter_impression=true)
 21. Chairman of the Federal Reserve, “We have no intent to ban cryptocurrency” : [Tweet](https://twitter.com/DocumentingBTC/status/1443628603938332672?s=20)
-22. IOTA Wiki ist jetzt (https://twitter.com/Dr_Electron/status/1443635328376508433?s=20) Vorzeigeprojekt von dem [Docusaurus Showcase](https://docusaurus.io/showcase)
+22. IOTA Wiki ist laut dem [Tweet](https://twitter.com/Dr_Electron/status/1443635328376508433?s=20) ein Vorzeigeprojekt von dem [Docusaurus Showcase](https://docusaurus.io/showcase)
 23. Die [IF tweetet](https://twitter.com/iota/status/1443546457034924044?s=20) über [DigitalMRV (provides cohesive data confidence)](https://www.digitalmrv.earth/)
 24. Es gab ein [IOTA Experience Identity Meeting](https://www.youtube.com/watch?v=m9vD0tC9qSU) (Aufzeichnung vom 30.8.21) das auch Dom nochmal als "must watch" [promoted](https://twitter.com/DomSchiener/status/1443826586755686400?s=20) wurde
 25. DEXES haben die Buiseness Folien von der IF (von Holger Köther) [besprochen](https://www.youtube.com/watch?v=Hp43YH5Fg4c)
@@ -33,6 +33,6 @@ Crypto Class (130K Follower): [IOTA | DATA & VALUE TRANSFER PROTOCOL | OPEN | FE
 28. Jede Menge neue Leute bei der IF: [Welcome to the IOTA Foundation - October 2021](https://blog.iota.org/welcome-to-the-iota-foundation-october-2021/)
 29. Die IF [tweetet](https://twitter.com/iota/status/1443889871341432835?s=20) über Trademark East Afrika und verlinkt das [Video mit der Dame (Dep Commissioner for Customs of the Kenya Revenue Authority)](https://www.youtube.com/watch?v=V7UhnAWfVew&t=2504s); Gunnar Stenzel sieht darin ein "Projekt mit massivem Impact": [Tweet 1/5](https://twitter.com/Gunnar_Stenzel/status/1443891059705135105?s=20)
 30. Michele Nati beim tmForum Event: [Tweet](https://twitter.com/michelenati/status/1443958887808258050?s=20)
-31. Die IF tweetet über SUSE und einige Artikel werden darüber geschrieben: [BTC Manager](https://btcmanager.com/iota-tangle-core-technology-susee-large-scale-sensor-networks/amp/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost&__twitter_impression=true); [U-Today](https://u.today/iotas-tangle-chosen-as-platform-for-revolutionary-smart-energy-project?amp&__twitter_impression=true) 
+31. Die IF [tweetet](https://twitter.com/iota/status/1444029576020119555?s=19) über SUSE und einige Artikel werden darüber geschrieben: [BTC Manager](https://btcmanager.com/iota-tangle-core-technology-susee-large-scale-sensor-networks/amp/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost&__twitter_impression=true); [U-Today](https://u.today/iotas-tangle-chosen-as-platform-for-revolutionary-smart-energy-project?amp&__twitter_impression=true) 
 32. MOBI [tweetet](https://twitter.com/dltMOBI/status/1443989916313133064?s=19) über IOTA und die EU Blockchain und die mögliche Blockchain Adoption 
 
