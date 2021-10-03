@@ -39,4 +39,5 @@ Crypto Class (130K Follower): [IOTA | DATA & VALUE TRANSFER PROTOCOL | OPEN | FE
 34. Bitvavo erlaufbt jetzt offenbar wieder IOTA Abhebungen: [Reddit post](https://www.reddit.com/r/Iota/comments/pzblnv/bitvavo_finally_open_for_iota_withdrawal/?utm_source=ifttt)
 35. Zignartech hat ihre Software für eine Wasp node (IOTA Node für smart contracts) veröffentlich mit diesem [Tweet](https://twitter.com/hassping/status/1444057911383101440?s=20); Hier geht's zum [docker image file](https://hub.docker.com/r/zignartech/wasp)
 36. Es gibt jetzt auch eine IOTA NFT Affen: [Tweet](https://twitter.com/geekz0ne_/status/1443958863884169219?s=20) den Dom Schiener wohl gerne hätte: [Tweet](https://twitter.com/DomSchiener/status/1443959437295771650?s=20)
+37. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/124-wochenr%C3%BCckblick-vom-27-september-bis-2-oktober-2021/&article%2F124-wochenr%C3%BCckblick-vom-27-september-bis-2-oktober-2021%2F=&__twitter_impression=true) 
 
