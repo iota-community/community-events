@@ -7,7 +7,8 @@
 5. Youtuber über IOTA: 
 Whiteboard Crypto (100K Follower): [What is IOTA’s Tangle? mIOTA Explained with Animations](https://www.youtube.com/watch?v=3K9DD5phJEY);
 Crypto Clear (30K Follower): [IOTA I WANT THAT](https://www.youtube.com/watch?v=sQS6XQmX_MM);
-Crypto Class (130K Follower): [IOTA | DATA & VALUE TRANSFER PROTOCOL | OPEN | FEELESS | REENGINEERED DLT TECHNOLOGY](https://www.youtube.com/watch?v=A1ApBpxsuuo)
+Crypto Class (130K Follower): [IOTA | DATA & VALUE TRANSFER PROTOCOL | OPEN | FEELESS | REENGINEERED DLT TECHNOLOGY](https://www.youtube.com/watch?v=A1ApBpxsuuo);
+Tech Hustler (80K Follower): [Iota Will Change The World | The Ecosystem Powering The Internet Of Things | What Is IOTA?](https://www.youtube.com/watch?v=qYr-_5vOK0A)
 6. Kappy sucht interessante Dapps, die auf EVM (Ethereum Virtual Machine) laufen und mit ISCP ganz einfach nachgebaut werden könnte:  [Tweet](https://twitter.com/Rob_Daykin/status/1442955272872366081?s=20)
 7. Am Freitag ist/war IOTA Stammtisch in München: [Meetup Event](https://www.meetup.com/de-DE/IOTA-Muc/events/280010135)
 8. ID Wallet von der Bundesregierung. Was ist da wieder falsch gelaufen?: [ID Wallet: Digitale Brieftasche der Bundesregierung liegt auf Eis](https://www.mobiflip.de/shortnews/id-wallet-digitale-brieftasche-der-bundesregierung-liegt-auf-eis/); [Digitaler Führerschein nicht mehr im Appstore](https://www.golem.de/news/id-wallet-digitaler-fuehrerschein-nicht-mehr-im-appstore-2109-159950.html); [Heise.de](https://www.heise.de/news/Digitaler-Fuehrerschein-hatte-keinen-Schutz-vor-Identitaetsdiebstahl-6204574.html)
@@ -40,4 +41,8 @@ Crypto Class (130K Follower): [IOTA | DATA & VALUE TRANSFER PROTOCOL | OPEN | FE
 35. Zignartech hat ihre Software für eine Wasp node (IOTA Node für smart contracts) veröffentlich mit diesem [Tweet](https://twitter.com/hassping/status/1444057911383101440?s=20); Hier geht's zum [docker image file](https://hub.docker.com/r/zignartech/wasp)
 36. Es gibt jetzt auch eine IOTA NFT Affen: [Tweet](https://twitter.com/geekz0ne_/status/1443958863884169219?s=20) den Dom Schiener wohl gerne hätte: [Tweet](https://twitter.com/DomSchiener/status/1443959437295771650?s=20)
 37. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/124-wochenr%C3%BCckblick-vom-27-september-bis-2-oktober-2021/&article%2F124-wochenr%C3%BCckblick-vom-27-september-bis-2-oktober-2021%2F=&__twitter_impression=true) 
+38. [IOTAWeekly Spezial: Hat IOTA geliefert? Warum reagiert der Preis nicht?](https://www.youtube.com/watch?v=W0SIAee7ecg)
+39. Piota [tweetet](https://twitter.com/p_iota/status/1444649617698721793?s=20) über das neue Tutorial [Tutorial zur Installation einer IOTA-Fullnode mit SWARM](https://iota-industrie-4-0.blogspot.com/2021/10/tutorial-zur-installation-einer-iota.html)
+40. Panama- bzw. Pandora Ppaper Skandal mit "fragwürdigem Offshore-Geschäften von 35 ehemaligen und aktuellen Staats- und Regierungschefs": [Tagesschau - Die geheimen Reichtümer politischer Eliten](https://www.tagesschau.de/investigativ/ndr-wdr/pandora-datenleck-schattenfinanzplaetze-101.html)
+41. 
 
