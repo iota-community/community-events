@@ -48,5 +48,5 @@ Tech Hustler (80K Follower): [Iota Will Change The World | The Ecosystem Powerin
 42. IF stellt ein: [Tweet](https://twitter.com/iota/status/1444965600384651273?t=HzVibZPtvyao1KgPpwJSBQ&s=19); [Stellenbeschreibung: Social Media Copywriter](https://iota.bamboohr.com/jobs/view.php?id=172&source=aWQ9NQ%3D%3D)
 43. Events für nächste Woche: [IOTA Kalender](https://kalender.digital/e89078088266c4429634) u.a mit Intel und IOTA bei EDAG und WOFexpo mit Jens Lund-Nielsen
 44. Changelly eine "non-custodial instant cryptocurrency exchange with 200+ digital assets" [tweetet](https://twitter.com/Changelly_team/status/1445043872002940929?s=20) über ihren IOTA Artikel: [What is IOTA](https://changelly.com/blog/what-is-iota-miota-about/amp/)
-45. Heute war/ist Facebook, Instagram und WhatsApp down! Was ist da los? 
+45. Heute war/ist Facebook, Instagram und WhatsApp down! Was ist da los? [Artikel](https://www.theverge.com/platform/amp/2021/10/4/22708989/instagram-facebook-outage-messenger-whatsapp-error?__twitter_impression=true) 
 
