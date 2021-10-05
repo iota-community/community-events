@@ -3,4 +3,5 @@
 1.  IOTA Quicktakes
 2.  Am Montag war im Discord ein Vortrag über „How to win a Hackathon": [Tweet](https://twitter.com/IOTAXTeams/status/1445039733420314626)
 3.  Zwei Seiten von der IF über [IOTA x EBSI](https://ec.europa.eu/newsroom/dae/redirection/document/79732)
-4.  
+4.  Wir sollten nochmal über den Facebook/WhatsApp/nstagram-Shutdown reden...
+5.  Was geht da beim tmForum und dem digitalen Buiseness Marketplace mit IOTA? [Tweet von vrom](https://twitter.com/Vrom14286662/status/1445212978920493057?s=20); Webseite vom [Digital Business Marketplace](https://dbm4.net/)
