@@ -10,4 +10,5 @@
 8.  IOTA.php release: [Tweet von Stefan Braun](https://twitter.com/IOTAphp/status/1445393444025901070?s=20); [GitHub](https://github.com/iota-community/iota.php)
 9.  TM forum [tweetet](https://twitter.com/tmforumorg/status/1445238578158702594?s=20) über IOTA in E-Health und macht Werbung für dieses [E-Health Catalyst Program](https://myaccount.tmforum.org/networks/9176/index.html)
 10.  Die Europäische Commission mit neuem news Artikel (vom 2. Oktober) über die 7 verbleibenden Technologien für die Blockchaininitiative: [Shaping Europe’s digital future - European Blockchain Pre-Commercial Procurement](https://digital-strategy.ec.europa.eu/en/news/european-blockchain-pre-commercial-procurement); Dazu hatte die IF ja die zwei Seiten Vorstellung [IOTA x EBSI](https://ec.europa.eu/newsroom/dae/redirection/document/79732) erstellt
-11.  
+11.  Die [Roadmap von IOTA](https://roadmap.iota.org/) wurde upgedated
+12.  Am 5.-7.Nov ist ein [IOTA & Hyperledger Agri-D Food Hackathon](https://hack.agri-d.org/docs/about-the-hack/)
