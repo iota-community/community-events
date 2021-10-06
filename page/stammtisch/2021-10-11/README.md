@@ -15,3 +15,5 @@
 13.  [Die Federal Reserve Bank will ISO® 20022 message format für den Fedwire® Funds Service einführen](https://www.federalreserve.gov/newsevents/pressreleases/other20211004a.htm) -> Gut für IOTA? Da gab es doch mal ein [DEXES Video](https://www.youtube.com/watch?v=QUBVWOZb9xY&t=1811s) dazu und eine [Fake?!-Screeenshot](https://twitter.com/777Libertas/status/1445320506261921795?s=20) über die Verflechtungen
 14.  Die IF [tweetet](https://twitter.com/iota/status/1445664364745297929?s=20) über den Bericht aus Punkt 7: [Enterpreneur Europe - How Emerging Fintech Companies Can Leverage a Borderless Future for European Business](https://www.entrepreneur.com/article/386166)
 15.  Hans Moog über "no-cloning theorem": [Tweet](https://twitter.com/hus_qy/status/1445646886950432769?s=20)
+16.  Dom [liked](https://twitter.com/DomSchiener/status/1445732546373881856?s=20) den [Tweet](https://twitter.com/PastryEth/status/1445565755534184452?s=20) über "Bank of America released a 141 page research report on the digital asset ecosystem titled: “Digital Assets Primer: Only the first inning”
+17.  
