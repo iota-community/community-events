@@ -12,3 +12,5 @@
 10.  Die Europäische Commission mit neuem news Artikel (vom 2. Oktober) über die 7 verbleibenden Technologien für die Blockchaininitiative: [Shaping Europe’s digital future - European Blockchain Pre-Commercial Procurement](https://digital-strategy.ec.europa.eu/en/news/european-blockchain-pre-commercial-procurement); Dazu hatte die IF ja die zwei Seiten Vorstellung [IOTA x EBSI](https://ec.europa.eu/newsroom/dae/redirection/document/79732) erstellt
 11.  Die [Roadmap von IOTA](https://roadmap.iota.org/) wurde upgedated
 12.  Am 5.-7.Nov ist ein [IOTA & Hyperledger Agri-D Food Hackathon](https://hack.agri-d.org/docs/about-the-hack/)
+13.  [Die Federal Reserve Bank will ISO® 20022 message format für den Fedwire® Funds Service einführen](https://www.federalreserve.gov/newsevents/pressreleases/other20211004a.htm) -> Gut für IOTA? Da gab es doch mal ein [DEXES Video](https://www.youtube.com/watch?v=QUBVWOZb9xY&t=1811s) dazu und eine Fake?!-Screeenshot über die Verflechtungen
+14.  
