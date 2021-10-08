@@ -19,3 +19,12 @@
 17.  Kaum ist der Kurs von BTC gestigen (1 Trillion $ Marketcap!) lässt sich Präsident von El Salvador natürlich feiern... [Tweet](https://twitter.com/nayibbukele/status/1445770218597326856?s=20). Am 3. Oktober nutzten bereits 3 Millionen (von 6,5 Millionen) Einwohner in El Salvador nutzen bereits das Chivo Wallet: [Tweet](https://twitter.com/nayibbukele/status/1444775650292899840?s=20)
 18.  [iota.c](https://github.com/iotaledger/iota.c/releases/tag/v0.3.0) release: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1445875422114185216?s=20); Neue [Wallet API Reference](https://iota-c-client.readthedocs.io/en/latest/api/wallet.html#c.mnemonic_to_seed)
 19.  Türkischer "Frank Thelen" mit 270K Followern [tweetet](https://twitter.com/ErkinSahinoz/status/1445600592890515456?s=20) über IOTA
+20.  Volks Mythika mit einem "soon more infos"-[Tweeet](https://twitter.com/volksmythica/status/1445040482577440779?s=20) und den Hashtags #GamingNFT #PlayToEarn #IOTA #volks #mythica 
+21.  Autopeering gibt es jetzt auch für die Amazon-One-Click Hornet Nodes: [Tweet der IF](https://twitter.com/iota/status/1446106319476330505?s=20)
+22.  Die [IF tweetet](https://twitter.com/iota/status/1446022611037790208?s=20) über einen Ted Talk zum Thema: [Why the passport needs an update](https://www.ted.com/talks/karoli_hindriks_why_the_passport_needs_an_upgrade?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare#t-3188)
+23.  Die [IF tweetet](https://twitter.com/iota/status/1445781178498179073?s=20) über das TLIP Programm in East Africa zum Thema: Efizienzsteigerung durch apierlosen internationalen Handel; Sie verlinken diesen paywall Artikel: [How to unlock international trade with distributed ledger technology](https://apolitical.co/solution-articles/en/how-to-unlock-international-trade-with-distributed-ledger-technology)
+24.  Es gab ein IOTA DAO Governements Meeting: [Tweet](https://twitter.com/gregmart/status/1445770650681950212?s=20). Wer kann davon berichten?
+25.  Es gab eine [PODIUMSDISKUSSION MIT EDAG UND IOTA "COMPUTER ON WHEELS"](https://www.edag.com/de/iaa-tech-talks#c22452). Hat die jemand angeschaut?
+26.  
+27.  
+
