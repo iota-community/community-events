@@ -28,5 +28,5 @@
 26.  Die [IF tweetet](https://twitter.com/iota/status/1446448508391862273?s=20) über ein PFD vom Institut für den öffentlichen Sektor: [Blockchain im öffentlichen Sektor](https://publicgovernance.de/media/PolicyPaper_Blockchain.pdf)
 27.  Die [IF tweetet](https://twitter.com/iota/status/1446445557124407297?s=20) über NFTs und ihren alten Blogpost [Exploring the Properties and Benefits of Native Assets](https://blog.iota.org/exploring-the-properties-and-benefits-of-native-assets/); Will sie jetzt Vereine überzeugen ihr Ticketsystem darauf zu bauen?
 28.  Die Software AG [tweetet](https://twitter.com/softwareag_d/status/1446099492793683968?s=28) über den Artikel: [Vertrauen ist gut, Kontrolle ist besser: Mit Distributed Ledger in die Zukunft](https://www.sysbus.eu/?p=19609)
-29.  Neues Video über den Evarest Marktplatz von der Software AG: [Wie funktioniert der EVAREST Marktplatz?](https://www.youtube.com/watch?v=LGvG5GMEfrI&t=6s)
+29.  Neues Video über den Evarest Marktplatz von der Software AG: [Wie funktioniert der EVAREST Marktplatz?](https://www.youtube.com/watch?v=LGvG5GMEfrI&t=6s); Das Video wurde glaube ich in diesem [Tweet](https://twitter.com/GabrieleStrobel/status/1446418084844253188?s=20) veröffentlicht.
 
