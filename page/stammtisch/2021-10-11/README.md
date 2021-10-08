@@ -25,6 +25,8 @@
 23.  Die [IF tweetet](https://twitter.com/iota/status/1445781178498179073?s=20) über das TLIP Programm in East Africa zum Thema: Efizienzsteigerung durch apierlosen internationalen Handel; Sie verlinken diesen paywall Artikel: [How to unlock international trade with distributed ledger technology](https://apolitical.co/solution-articles/en/how-to-unlock-international-trade-with-distributed-ledger-technology)
 24.  Es gab ein IOTA DAO Governements Meeting: [Tweet](https://twitter.com/gregmart/status/1445770650681950212?s=20). Wer kann davon berichten?
 25.  Es gab eine [PODIUMSDISKUSSION MIT EDAG UND IOTA "COMPUTER ON WHEELS"](https://www.edag.com/de/iaa-tech-talks#c22452). Hat die jemand angeschaut?
-26.  
-27.  
+26.  Die [IF tweetet](https://twitter.com/iota/status/1446448508391862273?s=20) über ein PFD vom Institut für den öffentlichen Sektor: [Blockchain im öffentlichen Sektor](https://publicgovernance.de/media/PolicyPaper_Blockchain.pdf)
+27.  Die [IF tweetet](https://twitter.com/iota/status/1446445557124407297?s=20) über NFTs und ihren alten Blogpost [Exploring the Properties and Benefits of Native Assets](https://blog.iota.org/exploring-the-properties-and-benefits-of-native-assets/); Will sie jetzt Vereine überzeugen ihr Ticketsystem darauf zu bauen?
+28.  Die Software AG [tweetet](https://twitter.com/softwareag_d/status/1446099492793683968?s=28) über den Artikel: [Vertrauen ist gut, Kontrolle ist besser: Mit Distributed Ledger in die Zukunft](https://www.sysbus.eu/?p=19609)
+29.  Neues Video über den Evarest Marktplatz von der Software AG: [Wie funktioniert der EVAREST Marktplatz?](https://www.youtube.com/watch?v=LGvG5GMEfrI&t=6s)
 
