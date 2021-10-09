@@ -30,4 +30,5 @@
 28.  Die Software AG [tweetet](https://twitter.com/softwareag_d/status/1446099492793683968?s=28) über den Artikel: [Vertrauen ist gut, Kontrolle ist besser: Mit Distributed Ledger in die Zukunft](https://www.sysbus.eu/?p=19609)
 29.  Neues Video über den Evarest Marktplatz von der Software AG: [Wie funktioniert der EVAREST Marktplatz?](https://www.youtube.com/watch?v=LGvG5GMEfrI&t=6s); Das Video wurde glaube ich in diesem [Tweet](https://twitter.com/GabrieleStrobel/status/1446418084844253188?s=20) veröffentlicht.
 30. Tmforum [Tweet] (https://twitter.com/Schmucklos_/status/1446415882700443652?t=6HkaohX_dPKLs5tyE3xhnw&s=19) 
+31. Tesla Hauptsitz nach Texas: [Bericht von Reuters](https://www.reuters.com/business/autos-transportation/tesla-moving-headquarters-austin-texas-says-ceo-musk-2021-10-07/) und am Samstag war [Gigaparty in Grünheide](https://plus.tagesspiegel.de/berlin/gigaparty-mit-chef-tesla-feiert-tag-der-offenen-tuer-in-gruenheide-273070.html?s=09) 
 
