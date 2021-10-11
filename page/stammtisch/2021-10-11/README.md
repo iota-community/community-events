@@ -42,4 +42,5 @@
 40. Sasha hat einen langen [Tweet 1/21](https://twitter.com/sascha1337/status/1446759657674997760?s=20) abgesetzt zum Thema: NFT, agriculture, local foods, P2P, DEX,... 
 41. [IOTA Weekly Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/126-wochenr%C3%BCckblick-vom-3-bis-9-oktober-2021/)
 42. Neuer Reddit Post von [Twittername: Rost](https://twitter.com/rostcrypto/status/1447460965549756417?s=20): [Companies building on IOTA](https://www.reddit.com/r/Iota/comments/q56wtj/companies_building_on_iota/?utm_medium=android_app&utm_source=share)
+43. 75% der Token sind migriert: [Tweet von C. Varley](https://twitter.com/c_varley/status/1447610203394936834?s=20); [Chrysalis Status page](https://chrysalis.iota.org/statusd)
 
