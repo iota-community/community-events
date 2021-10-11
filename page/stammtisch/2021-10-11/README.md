@@ -41,4 +41,5 @@
 39. Shags Moon spricht von einem "#IOTA #DigitalID #DID Name Service #DidNS" in seinem [Tweet](https://twitter.com/bodlandhodl/status/1446582879299923971?s=20) was Charley Varley in seinem [Tweet](https://twitter.com/c_varley/status/1447185968067457028?s=20) sehr begrüßt => charley.iota: Hans Moog hat dazu [geschrieben](https://twitter.com/hus_qy/status/1446826085426020357?s=20), dass er dazu im nächsten Blogpost einen wichtiger Building Block erklären will
 40. Sasha hat einen langen [Tweet 1/21](https://twitter.com/sascha1337/status/1446759657674997760?s=20) abgesetzt zum Thema: NFT, agriculture, local foods, P2P, DEX,... 
 41. [IOTA Weekly Wochenrückblick](https://www.iota-talk.com/index.php?article-amp/126-wochenr%C3%BCckblick-vom-3-bis-9-oktober-2021/)
+42. Neuer Reddit Post von [Twittername: Rost](https://twitter.com/rostcrypto/status/1447460965549756417?s=20): [Companies building on IOTA](https://www.reddit.com/r/Iota/comments/q56wtj/companies_building_on_iota/?utm_medium=android_app&utm_source=share)
 
