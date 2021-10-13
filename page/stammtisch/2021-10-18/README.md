@@ -11,4 +11,5 @@
 9. Dom gratuliert Celsius mit seinem [Tweet](https://twitter.com/DomSchiener/status/1447980185190547459?s=20)
 10. IOTA wird zum Copy Paste Weltmeister: [Hans M. Tweet 1](https://twitter.com/hus_qy/status/1448051558806130696?s=20); [Hans M. Tweet 2](https://twitter.com/hus_qy/status/1448052069580034049?s=20); [Hans M. Tweet 3](https://twitter.com/hus_qy/status/1448052704081846287?s=20)
 11. Team von Volks Mythica wird "vorgestellt": [Tweet](https://twitter.com/volksmythica/status/1447945215927635978?s=20) über die [Webseite](https://www.kamilabs.io/)
-12. 
+12. Spendenaufruf von Senseering: [Tweet]()
+13. EDAG Tech Talk: [Podiumsdiskussion zum Thema Computer On Wheels, in der Experten von EDAG und IOTA folgende Leitfragen rund um die digitale Transformation](https://www.youtube.com/watch?v=989Z-xBXmsY)
