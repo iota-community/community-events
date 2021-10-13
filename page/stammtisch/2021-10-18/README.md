@@ -13,3 +13,6 @@
 11. Team von Volks Mythica wird "vorgestellt": [Tweet](https://twitter.com/volksmythica/status/1447945215927635978?s=20) über die [Webseite](https://www.kamilabs.io/)
 12. Spendenaufruf von Senseering: [Tweet]()
 13. EDAG Tech Talk: [Podiumsdiskussion zum Thema Computer On Wheels, in der Experten von EDAG und IOTA folgende Leitfragen rund um die digitale Transformation](https://www.youtube.com/watch?v=989Z-xBXmsY)
+14. CFB mit Regenbogen Qubic FAQ: [Tweet](https://twitter.com/c___f___b/status/1448319785004150795?t=ZWQVZZoq5LmK3xyL63zvWg&s=19) 
+15. Mesut Özil [frägt auf Twitter](https://twitter.com/MesutOzil1088/status/1447929473513500674?t=TTQcQc0FP1GTlBPJISygGg&s=19): Bitcoin oder Ethereum? 
+16. Coinbase [announced](https://twitter.com/coinbase/status/1448049855541100545?t=RTSJ7c0rU47i7YYQHwcceA&s=19) Coinbase NFT 
