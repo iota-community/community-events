@@ -16,3 +16,8 @@
 14. CFB mit Regenbogen Qubic FAQ: [Tweet](https://twitter.com/c___f___b/status/1448319785004150795?t=ZWQVZZoq5LmK3xyL63zvWg&s=19) 
 15. Mesut Özil [frägt auf Twitter](https://twitter.com/MesutOzil1088/status/1447929473513500674?t=TTQcQc0FP1GTlBPJISygGg&s=19): Bitcoin oder Ethereum? 
 16. Coinbase [announced](https://twitter.com/coinbase/status/1448049855541100545?t=RTSJ7c0rU47i7YYQHwcceA&s=19) Coinbase NFT 
+17. AlephZero hat sich zu [IOTA vs. AZERO geäußert](https://twitter.com/AlephSuper/status/1447815860765302786?s=20) woraufhin sich eine [Diskussion ergeben hat zwischen Hans Moog und Luka Stanisic](https://twitter.com/hus_qy/status/1448555900126515204?s=20)
+18. Apple Event am 18. Oktober: [Tweet](https://twitter.com/Apple/status/1448052114895216640?s=20)
+19. Popov auf der großen Bühne ([Tweet 1](https://twitter.com/saeed_shokuhi/status/1448531300210597888?s=20); [Tweet 2](https://twitter.com/Dianadidi2828/status/1448533385857622019?s=20)) beim World Blockchain Summit; Hier wird das wahrscheinlich bald hoch geladen: [Youtube](https://www.youtube.com/c/WorldBlockchainSummit/videos)
+20. IOTA in Indien? [IF Tweet](https://twitter.com/iota/status/1448256276572655617?s=20) über diesen Bericht: [Top 5 eco-friendly cryptocurrencies](https://timesofindia.indiatimes.com/business/cryptocurrency/blockchain/top-5-eco-friendly-cryptocurrencies/articleshow/86405007.cms?from=mdr)
+21. Dom ist wohl auch bei der Agri-D Convention, dem Hyperledger IOTA Hackathon Anfang November: [Tweet](https://twitter.com/DomSchiener/status/1448320954686447617?s=20)
