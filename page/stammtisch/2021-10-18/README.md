@@ -25,3 +25,4 @@
 23. Es gab wohl ein Americas Meeting über "All things DAO": [Tweet](https://twitter.com/gregmart/status/1448631152965664769?s=20)
 24. War das ein Pre Announcement von Mat Yarger? [Tweet](https://twitter.com/Mat_Yarger/status/1448741406609219584?s=20) "The most stressful and satisfying thing you can do, is to take something from an idea to reality."
 25. Die [IF tweetet](https://twitter.com/iota/status/1448679238513668102?s=20) über ein neues Paper: [Impact of delay classes on the data structure in IOTA](https://arxiv.org/abs/2110.06003)
+26. PropOps mit IOTA inside: [Tweet von Schmucklos](https://twitter.com/Schmucklos_/status/1448752515110027270?s=20); [Webseite](https://www.notion.so/Changelog-357a8a808a7041a9960ff4b9f60f1615)
