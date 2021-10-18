@@ -11,7 +11,7 @@
 9. Dom gratuliert Celsius mit seinem [Tweet](https://twitter.com/DomSchiener/status/1447980185190547459?s=20) zu ner erfolgreichen Fundingrunde
 10. IOTA wird zum Copy Paste Weltmeister: [Hans M. Tweet 1](https://twitter.com/hus_qy/status/1448051558806130696?s=20); [Hans M. Tweet 2](https://twitter.com/hus_qy/status/1448052069580034049?s=20); [Hans M. Tweet 3](https://twitter.com/hus_qy/status/1448052704081846287?s=20)
 11. Team von Volks Mythica wird "vorgestellt": [Tweet](https://twitter.com/volksmythica/status/1447945215927635978?s=20) über die [Webseite](https://www.kamilabs.io/)
-12. Spendenaufruf von Senseering: [Tweet]()
+12. Spendenaufruf von Senseering: [Tweet](https://twitter.com/senseering/status/1448237446387441666?s=20)
 13. EDAG Tech Talk: [Podiumsdiskussion zum Thema Computer On Wheels, in der Experten von EDAG und IOTA folgende Leitfragen rund um die digitale Transformation](https://www.youtube.com/watch?v=989Z-xBXmsY)
 14. CFB mit Regenbogen Qubic FAQ: [Tweet](https://twitter.com/c___f___b/status/1448319785004150795?t=ZWQVZZoq5LmK3xyL63zvWg&s=19) ; Er [lästert](https://twitter.com/c___f___b/status/1449745564770390019?s=20) auch wieder über IOTA "liefert nix" und das "Coordicide noch nichtmal in DEV net läuft"[Tweet](https://twitter.com/c___f___b/status/1449786788428587013?s=20)
 15. Mesut Özil [frägt auf Twitter](https://twitter.com/MesutOzil1088/status/1447929473513500674?t=TTQcQc0FP1GTlBPJISygGg&s=19): Bitcoin oder Ethereum? 
@@ -39,7 +39,7 @@
 37. Bitcoin Allzeithoch... zumindest in EUR
 38. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/128-wochenr%C3%BCckblick-vom-10-bis-16-oktober-2021/)
 39. Navin R. bestätigt nochmal, dass Smart Contracts und Tokenized Assets in chrysalis kommen: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1449987694835208192?s=20)
-40. Tanlge Bay / N0B0dy -> Community Hero der Woche! [Tweet](https://twitter.com/TANGLEBAY/status/1449824177477853188?s=20)
+40. Tanlge Bay / NO8ODY -> Community Hero der Woche! [Tweet](https://twitter.com/TANGLEBAY/status/1449824177477853188?s=20)
 41. Bitcoin ETF genemigt [PROSHARES BITCOIN FUTURES ETF TO LAUNCH ON NEW YORK STOCK EXCHANGE TUESDAY](https://bitcoinmagazine.com/business/proshares-bitcoin-futures-etf-to-launch-on-new-york-stock-exchange-tuesday) oder auf deutsch [Erster Bitcoin-ETF genehmigt – Preis erreicht eine Art neues Allzeithoch](https://bitcoinblog.de/2021/10/18/erster-bitcoin-etf-genehmigt-preis-erreicht-eine-art-neues-allzeithoch/)
 42. Dom Schiener mit ein bisschen Hopium für das Volk: [Tweet](https://twitter.com/DomSchiener/status/1450066521045274627?s=20)
 43. Und Hans Moog mit mit noch mehr Hopium für das Volk: [Tweet](https://twitter.com/hus_qy/status/1450078662812962826?s=20) Er musste vor Freude weinen als es geklappt hat...
