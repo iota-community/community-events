@@ -40,3 +40,4 @@
 38. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/128-wochenr%C3%BCckblick-vom-10-bis-16-oktober-2021/)
 39. Navin R. bestätigt nochmal, dass Smart Contracts und Tokenized Assets in chrysalis kommen: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1449987694835208192?s=20)
 40. Tanlge Bay / N0B0dy -> Community Hero der Woche! [Tweet](https://twitter.com/TANGLEBAY/status/1449824177477853188?s=20)
+41. Bitcoin ETF genemigt [PROSHARES BITCOIN FUTURES ETF TO LAUNCH ON NEW YORK STOCK EXCHANGE TUESDAY](https://bitcoinmagazine.com/business/proshares-bitcoin-futures-etf-to-launch-on-new-york-stock-exchange-tuesday) oder auf deutsch [Erster Bitcoin-ETF genehmigt – Preis erreicht eine Art neues Allzeithoch](https://bitcoinblog.de/2021/10/18/erster-bitcoin-etf-genehmigt-preis-erreicht-eine-art-neues-allzeithoch/)
