@@ -35,7 +35,7 @@
 33. Neues [Interview mit Hans Moog](https://www.youtube.com/watch?v=LH00jHNq8RY) auch wenn ein altes Video als Hintergrund läuft...
 34. Crypto Guro schreibt einen Artikel: [MIT DIESEN PRODUKTEN MÖCHTE IOTA KÜNFTIG ÜBERZEUGEN!](https://krypto-guru.de/news/mit-diesen-produkten-moechte-iota-kuenftig-ueberzeugen/)
 35. [Video von Hans Moog auf der CryptoRockstarsCruise](https://www.youtube.com/watch?v=pUihIIdE9os) wo er über die einfache, zweifache und dreifache Buchführung spricht. Die vierfache lässt er leider "noch" aus... Darüber spricht er auch nicht beim anderen Interview (punkt 32. Im Video hanz am Ende geht es um das gleiche Thema, nur kürzer). 
-36. Am 15. Oktober war Mariana de la Roche [von der IF] bei der European Social Economy Week 2021 wo sie über IOTA gerdet hat: [Tweet von der IF](https://twitter.com/iota/status/1448574397787299840?s=20); Hier mehr [Details zu dem Event](https://actse.eu/)
+36. Am 15. Oktober war Mariana de la Roche [von der IF] bei der European Social Economy Week 2021 wo sie über IOTA geredet hat: [Tweet von der IF](https://twitter.com/iota/status/1448574397787299840?s=20); Hier mehr [Details zu dem Event](https://actse.eu/)
 37. Bitcoin Allzeithoch... zumindest in EUR
 38. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/128-wochenr%C3%BCckblick-vom-10-bis-16-oktober-2021/)
 39. Navin R. bestätigt nochmal, dass Smart Contracts und Tokenized Assets in chrysalis kommen: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1449987694835208192?s=20)
