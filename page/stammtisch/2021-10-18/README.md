@@ -42,3 +42,4 @@
 40. Tanlge Bay / N0B0dy -> Community Hero der Woche! [Tweet](https://twitter.com/TANGLEBAY/status/1449824177477853188?s=20)
 41. Bitcoin ETF genemigt [PROSHARES BITCOIN FUTURES ETF TO LAUNCH ON NEW YORK STOCK EXCHANGE TUESDAY](https://bitcoinmagazine.com/business/proshares-bitcoin-futures-etf-to-launch-on-new-york-stock-exchange-tuesday) oder auf deutsch [Erster Bitcoin-ETF genehmigt – Preis erreicht eine Art neues Allzeithoch](https://bitcoinblog.de/2021/10/18/erster-bitcoin-etf-genehmigt-preis-erreicht-eine-art-neues-allzeithoch/)
 42. Dom Schiener mit ein bisschen Hopium für das Volk: [Tweet](https://twitter.com/DomSchiener/status/1450066521045274627?s=20)
+43. Und Hans Moog mit mit noch mehr Hopium für das Volk: [Tweet](https://twitter.com/hus_qy/status/1450078662812962826?s=20) Er musste vor Freude weinen als es geklappt hat...
