@@ -22,18 +22,21 @@
 20. IOTA in Indien? [IF Tweet](https://twitter.com/iota/status/1448256276572655617?s=20) über diesen Bericht: [Top 5 eco-friendly cryptocurrencies](https://timesofindia.indiatimes.com/business/cryptocurrency/blockchain/top-5-eco-friendly-cryptocurrencies/articleshow/86405007.cms?from=mdr)
 21. Dom ist wohl auch bei der Agri-D Convention, dem Hyperledger IOTA Hackathon Anfang November: [Tweet](https://twitter.com/DomSchiener/status/1448320954686447617?s=20)
 22. Hans Moog schreibt, dass sie wohl einen letzten entscheidenden Bug gefunden haben: [Tweet 1](https://twitter.com/hus_qy/status/1448668163596603400?s=20); Testnet soon? [-> Tweet 2](https://twitter.com/hus_qy/status/1448680416311918594?s=20)
-23. Es gab wohl ein Americas Meeting über "All things DAO": [Tweet](https://twitter.com/gregmart/status/1448631152965664769?s=20) -> siehe Punkt 28
+23. Es gab wohl ein Americas Meeting über "All things DAO": [Tweet](https://twitter.com/gregmart/status/1448631152965664769?s=20) -> siehe Punkt 29
 24. War das ein Pre Announcement von Mat Yarger? [Tweet](https://twitter.com/Mat_Yarger/status/1448741406609219584?s=20) "The most stressful and satisfying thing you can do, is to take something from an idea to reality."
 25. Mat Yarger ist ja in Dubai und hat dort 3 Panel Diskussionen: [Tweet](https://twitter.com/Mat_Yarger/status/1449099773714239492?t=1G4XP167SkPoA63ctzLIuA&s=19); Panel 1 ist heute am 18.10: [Tweet](https://twitter.com/SkeyNetwork/status/1446554794886377472?s=20)
-26. Die [IF tweetet](https://twitter.com/iota/status/1448679238513668102?s=20) über ein neues Paper: [Impact of delay classes on the data structure in IOTA](https://arxiv.org/abs/2110.06003)
-27. PropOps mit IOTA inside: [Tweet von Schmucklos](https://twitter.com/Schmucklos_/status/1448752515110027270?s=20); [Webseite](https://www.notion.so/Changelog-357a8a808a7041a9960ff4b9f60f1615)
-28. IOTA Americas Meetup über "ISCP Smart Contracts update" und "All Things DAO - Phylo": [IOTA Americas Meeting October 14th 2021 DAO Discussion](https://www.youtube.com/watch?v=hajbIvM0SWY)
-29. oopsmonk [tweetet](https://twitter.com/oops_monk/status/1448937507593150464?s=20) über "Mnemonic is supported on esp32-client-sdk now!" -> [GitHub](https://github.com/iotaledger/esp32-client-sdk/pull/1)
-30. [IOTAWeekly 014 - Soros, Iso 20022 und IOTA](https://www.youtube.com/watch?v=Z0h1EtDWMBA)
-31. ZANIGROUP Hochwasserschutz mit IOTA inside: [Webseite](https://www.zanni.group/News/index.php/;focus=STRATP_cm4all_com_widgets_News_22634089&path=?m=d&a=20211015164056-7385&cp=1#STRATP_cm4all_com_widgets_News_22634089)
-32. Neues [Interview mit Hans Moog](https://www.youtube.com/watch?v=LH00jHNq8RY) auch wenn ein altes Video als Hintergrund läuft...
-33. Crypto Guro schreibt einen Artikel: [MIT DIESEN PRODUKTEN MÖCHTE IOTA KÜNFTIG ÜBERZEUGEN!](https://krypto-guru.de/news/mit-diesen-produkten-moechte-iota-kuenftig-ueberzeugen/)
-34. [Video von Hans Moog auf der CryptoRockstarsCruise](https://www.youtube.com/watch?v=pUihIIdE9os) wo er über die einfache, zweifache und dreifache Buchführung spricht. Die vierfache lässt er leider "noch" aus... Darüber spricht er auch nicht beim anderen Interview (punkt 32. Im Video hanz am Ende geht es um das gleiche Thema, nur kürzer). 
-35. Am 15. Oktober war Mariana de la Roche [von der IF] bei der European Social Economy Week 2021 wo sie über IOTA gerdet hat: [Tweet von der IF](https://twitter.com/iota/status/1448574397787299840?s=20); Hier mehr [Details zu dem Event](https://actse.eu/)
-36. Bitcoin Allzeithoch... zumindest in EUR
-37. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/128-wochenr%C3%BCckblick-vom-10-bis-16-oktober-2021/)
+26. Dell und Intel sind auch in Dubai... [Tweet](https://twitter.com/DigitalDubai/status/1449028917222858754?s=20)
+27. Die [IF tweetet](https://twitter.com/iota/status/1448679238513668102?s=20) über ein neues Paper: [Impact of delay classes on the data structure in IOTA](https://arxiv.org/abs/2110.06003)
+28. PropOps mit IOTA inside: [Tweet von Schmucklos](https://twitter.com/Schmucklos_/status/1448752515110027270?s=20); [Webseite](https://www.notion.so/Changelog-357a8a808a7041a9960ff4b9f60f1615)
+29. IOTA Americas Meetup über "ISCP Smart Contracts update" und "All Things DAO - Phylo": [IOTA Americas Meeting October 14th 2021 DAO Discussion](https://www.youtube.com/watch?v=hajbIvM0SWY)
+30. oopsmonk [tweetet](https://twitter.com/oops_monk/status/1448937507593150464?s=20) über "Mnemonic is supported on esp32-client-sdk now!" -> [GitHub](https://github.com/iotaledger/esp32-client-sdk/pull/1)
+31. [IOTAWeekly 014 - Soros, Iso 20022 und IOTA](https://www.youtube.com/watch?v=Z0h1EtDWMBA)
+32. ZANIGROUP [tweeet](https://twitter.com/GroupZanni/status/1449031236417118209?s=20) über ihr Hochwasserschutz mit IOTA inside: [Webseite](https://www.zanni.group/News/index.php/;focus=STRATP_cm4all_com_widgets_News_22634089&path=?m=d&a=20211015164056-7385&cp=1#STRATP_cm4all_com_widgets_News_22634089)
+33. Neues [Interview mit Hans Moog](https://www.youtube.com/watch?v=LH00jHNq8RY) auch wenn ein altes Video als Hintergrund läuft...
+34. Crypto Guro schreibt einen Artikel: [MIT DIESEN PRODUKTEN MÖCHTE IOTA KÜNFTIG ÜBERZEUGEN!](https://krypto-guru.de/news/mit-diesen-produkten-moechte-iota-kuenftig-ueberzeugen/)
+35. [Video von Hans Moog auf der CryptoRockstarsCruise](https://www.youtube.com/watch?v=pUihIIdE9os) wo er über die einfache, zweifache und dreifache Buchführung spricht. Die vierfache lässt er leider "noch" aus... Darüber spricht er auch nicht beim anderen Interview (punkt 32. Im Video hanz am Ende geht es um das gleiche Thema, nur kürzer). 
+36. Am 15. Oktober war Mariana de la Roche [von der IF] bei der European Social Economy Week 2021 wo sie über IOTA gerdet hat: [Tweet von der IF](https://twitter.com/iota/status/1448574397787299840?s=20); Hier mehr [Details zu dem Event](https://actse.eu/)
+37. Bitcoin Allzeithoch... zumindest in EUR
+38. [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/128-wochenr%C3%BCckblick-vom-10-bis-16-oktober-2021/)
+39. Navin R. bestätigt nochmal, dass Smart Contracts und Tokenized Assets in chrysalis kommen: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1449987694835208192?s=20)
+40. Tanlge Bay / N0B0dy -> Community Hero der Woche! [Tweet](https://twitter.com/TANGLEBAY/status/1449824177477853188?s=20)
