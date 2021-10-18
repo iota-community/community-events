@@ -24,7 +24,7 @@
 22. Hans Moog schreibt, dass sie wohl einen letzten entscheidenden Bug gefunden haben: [Tweet 1](https://twitter.com/hus_qy/status/1448668163596603400?s=20); Testnet soon? [-> Tweet 2](https://twitter.com/hus_qy/status/1448680416311918594?s=20)
 23. Es gab wohl ein Americas Meeting über "All things DAO": [Tweet](https://twitter.com/gregmart/status/1448631152965664769?s=20) -> siehe Punkt 29
 24. War das ein Pre Announcement von Mat Yarger? [Tweet](https://twitter.com/Mat_Yarger/status/1448741406609219584?s=20) "The most stressful and satisfying thing you can do, is to take something from an idea to reality."
-25. Mat Yarger ist ja in Dubai und hat dort 3 Panel Diskussionen: [Tweet](https://twitter.com/Mat_Yarger/status/1449099773714239492?t=1G4XP167SkPoA63ctzLIuA&s=19); Panel 1 ist heute am 18.10: [Tweet](https://twitter.com/SkeyNetwork/status/1446554794886377472?s=20)
+25. Mat Yarger ist ja in Dubai und hat dort 3 Panel Diskussionen: [Tweet](https://twitter.com/Mat_Yarger/status/1449099773714239492?t=1G4XP167SkPoA63ctzLIuA&s=19); Panel 1 ist heute am 18.10: [Tweet](https://twitter.com/SkeyNetwork/status/1446554794886377472?s=20); [Tweet](https://twitter.com/SkeyNetwork/status/1450039413891682307?s=20)
 26. Dell und Intel sind auch in Dubai... [Tweet](https://twitter.com/DigitalDubai/status/1449028917222858754?s=20)
 27. Die [IF tweetet](https://twitter.com/iota/status/1448679238513668102?s=20) über ein neues Paper: [Impact of delay classes on the data structure in IOTA](https://arxiv.org/abs/2110.06003)
 28. PropOps mit IOTA inside: [Tweet von Schmucklos](https://twitter.com/Schmucklos_/status/1448752515110027270?s=20); [Webseite](https://www.notion.so/Changelog-357a8a808a7041a9960ff4b9f60f1615)
@@ -41,3 +41,4 @@
 39. Navin R. bestätigt nochmal, dass Smart Contracts und Tokenized Assets in chrysalis kommen: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1449987694835208192?s=20)
 40. Tanlge Bay / N0B0dy -> Community Hero der Woche! [Tweet](https://twitter.com/TANGLEBAY/status/1449824177477853188?s=20)
 41. Bitcoin ETF genemigt [PROSHARES BITCOIN FUTURES ETF TO LAUNCH ON NEW YORK STOCK EXCHANGE TUESDAY](https://bitcoinmagazine.com/business/proshares-bitcoin-futures-etf-to-launch-on-new-york-stock-exchange-tuesday) oder auf deutsch [Erster Bitcoin-ETF genehmigt – Preis erreicht eine Art neues Allzeithoch](https://bitcoinblog.de/2021/10/18/erster-bitcoin-etf-genehmigt-preis-erreicht-eine-art-neues-allzeithoch/)
+42. Dom Schiener mit ein bisschen Hopium für das Volk: [Tweet](https://twitter.com/DomSchiener/status/1450066521045274627?s=20)
