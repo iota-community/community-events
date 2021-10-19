@@ -44,3 +44,4 @@
 - [2021-10-04](./stammtisch/2021-10-04/README.md)
 - [2021-10-11](./stammtisch/2021-10-11/README.md)
 - [2021-10-18](./stammtisch/2021-10-18/README.md)
+- [2021-10-25](./stammtisch/2021-10-25/README.md)
