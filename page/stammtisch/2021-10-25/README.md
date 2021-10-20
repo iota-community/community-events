@@ -10,4 +10,4 @@
 8. Bitcoin erreicht neues ATH 
 9. Auf Reddit IOTAmarkets gab es einige kritische IOTA Stimmen (mit wenig likes, aber ausfühlrlich beschrieben): [This is it!](https://www.reddit.com/r/IOTAmarkets/comments/qa90d8/this_is_it/?utm_medium=android_app&utm_source=share); [Warning](https://www.reddit.com/r/IOTAmarkets/comments/qa30ys/warning/?utm_source=share&utm_medium=web2x&context=3)
 10. BLACKPIN war auf dem Bosch Campus und [tweetet](https://twitter.com/BLACKPIN_GmbH/status/1450087290777350151?s=20) davon mit dem #IOTA
-11. 
+11. IOTA auf Youtube: <br> Erstaunlich gutes Video mit dem Titel:[IOTA PRICE PREDICTION 2025 | HOW IOTA COIN WILL MAKE YOU A MILLIONAIRE BY 2025](https://www.youtube.com/watch?v=VsPy3y-MUu8); 
