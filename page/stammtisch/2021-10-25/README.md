@@ -26,6 +26,6 @@ Blockchain & The Digital Twin](https://www.constructionblockchain.org/conference
 23. Neues Paper: ["Next generation stock exchange: Recurrent neural learning model for distributed ledger transactions"](https://www.sciencedirect.com/science/article/abs/pii/S1389128621001183); Basiert wohl auf IOTA: [Tweet von IOTATalk](https://twitter.com/Iota_Talk_/status/1450714467801649152?s=20); [Tweet von vrom](https://twitter.com/Vrom14286662/status/1450726670558801923?s=20)
 24. Wer die Blocktrainer Bitcoin-Only-Predigt von der CryptoRockstarsCruise sehen will über das letzte Woche geredet wurde: [Video](https://twitter.com/RomanReher/status/1450795842407895048)
 25. WAGMI (We're all gonna make it) hat mit [Dom Schiener Tweet](https://twitter.com/DomSchiener/status/1449318309611061251?s=20) gestartet und auch Dan Simmerman tweetet](https://twitter.com/DomSchiener/status/1449318309611061251?s=20) "WAGMI"; Dazu passend vielleicht der [Tweet von Holger Köther](https://twitter.com/HolgerKoether/status/1450917865138360328?s=20) -> Calm before the storm?
-26. 
+26. Cardano FUD vom Bitcoinblog? [Cardano (ADA) erreicht Transaktionslimit – obwohl kaum etwas passiert](https://bitcoinblog.de/2021/10/20/cardano-ada-erreicht-transaktionslimit-obwohl-kaum-etwas-passiert/)
 
 
