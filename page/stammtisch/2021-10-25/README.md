@@ -40,5 +40,6 @@ Blockchain & The Digital Twin](https://www.constructionblockchain.org/conference
 37. Fabian Schmidt (Head of Software Engineering in Manufacturing bei der [Sick AG (Sensor Inteligence...)](https://www.sick.com/de/en/)) hat einen Artikel geschrieben: [Will Data Confidence Fabrics Unlock Smart Factories?](https://homo-digitalis.net/will-data-confidence-fabrics-unlock-smart-factories/)
 38. Michele Nati hatte einen Talk mit KuppingerCole: [Tweet](https://twitter.com/michelenati/status/1451243856821899271?s=20); Nächste Wcohe geht's weiter: [Tweet](https://twitter.com/michelenati/status/1451244515939995657?s=20); hier das [Event](https://www.kuppingercole.com/events/2021/10/securing-industry-4-0#agenda_begin)
 39. Hans Moog bei Ivan on Tech: [Soon Tweet von Ivan on Tech](https://twitter.com/IvanOnTech/status/1451500200367898627?s=20)
+40. Nachdem es oft Thema war im Stammtisch: [Ein Anwalt zum Thema Mittelherkunftsnachweis bei Bitpanda](https://www.anwalt.de/rechtstipps/mittelherkunftsnachweis-von-bitpanda-gefordert-was-tun-189162.html)
 
 
