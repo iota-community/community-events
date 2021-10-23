@@ -48,5 +48,5 @@ Blockchain & The Digital Twin](https://www.constructionblockchain.org/conference
 45. Peter Okwara hatte einen Vortrag über "Creating immutable references with #ipfs and #iota" with @BitcoinKE and @Filecoin #FilecoinOrbit" : [Tweet](https://twitter.com/PeterOkwara/status/1451853831470526464?s=20); Phylo [kommentiert](https://twitter.com/Phylo79288735/status/1451868126526664711?s=20) das und verlinkt [https://ipfs.iota.org](https://ipfs.iota.org)
 46. Die [IF tweetet](https://twitter.com/iota/status/1451843979847348226?s=20) darüber, das The Daily Telegraph [laut Holger Köther](https://twitter.com/HolgerKoether/status/1451859565184753671?s=20) für 675K Leute einen Artikel über IOTA und ensuresec geschrieben hat
 47. Neues Video: [IOT visibility enabled by decentralised ledger technology](https://www.youtube.com/watch?v=fb4Cef_znjo) mit Jens Mund Lund-Nielson
-
+48. Dom Schiener hat sich zu Ethereum geäußert[Twweet](https://twitter.com/DomSchiener/status/1451609249969328132?s=20) "We are no Ethereum killer"
 
