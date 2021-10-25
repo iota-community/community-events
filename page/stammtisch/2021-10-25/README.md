@@ -53,4 +53,5 @@ Blockchain & The Digital Twin](https://www.constructionblockchain.org/conference
 50. Linus Nauman mit neuem Artikel: [Layer 0 — The real reason why Dominik Schiener (Co-founder IOTA Foundation) said “IOTA is NOT an Ethereum killer”](https://medium.com/@linus.naumann/layer-0-the-real-reason-why-dominik-schiener-co-founder-iota-foundation-said-iota-is-not-an-61109cc038f4) 
 51. Dan Simmerman verrät, dass die Community an einer Curve Anwendung arbeitet: [Tweet](https://twitter.com/DanSimerman/status/1452313483001974794?t=9AyL48e9Qirm3w-PjSjNBQ&s=19) 
 52. Idiotischer [Tweet](https://twitter.com/IOTAFanClub/status/1452205428675424259?t=QvCR_hMjjIXxfh7Me-wdOw&s=19) mit "Was macht Dan?" wird von [Narvin Ramachandran kommentiert](https://twitter.com/navinram999/status/1452306917959901198?t=IICa_d8YrphgEUVI3-Cbgg&s=19) werden
+53. Elon Musk hat keine Shiba Inu ([Tweet](https://twitter.com/elonmusk/status/1452334458066149377?t=nrVPQMK8ay1FmDGHjhnL3g&s=19)) und der Kurs rauscht ab
 
