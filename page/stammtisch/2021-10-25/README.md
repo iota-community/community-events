@@ -56,4 +56,5 @@ Blockchain & The Digital Twin](https://www.constructionblockchain.org/conference
 53. Elon Musk hat keine Shiba Inu ([Tweet](https://twitter.com/elonmusk/status/1452334458066149377?t=nrVPQMK8ay1FmDGHjhnL3g&s=19)) und der Kurs rauscht ab
 54. IOTA weekly mit neuen Artikel:[..More than moon](https://medium.com/@IotaWeekly/crypto-currencies-more-than-moon-90c16ff1a947) 
 55. U-Today hat ein Interview mit Dom geführt: [IOTA's Dominik Schiener Talks Smart Contract Launch, NFTs and Dogecoin in Exclusive Interview](https://u.today/iotas-dominik-schiener-talks-smart-contract-launch-nfts-and-dogecoin-in-exclusive)
+56. Mike Tha Investor [tweetet](https://twitter.com/MikeThaInvestor/status/1452313103941652483?s=20) darüber, dass er am Montag Abend ein [Interview mit Dan Simmerman](https://www.youtube.com/watch?v=1xrIbwYFWBE) macht
 
