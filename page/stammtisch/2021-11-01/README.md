@@ -20,3 +20,4 @@
 18. Evrythng [tweetet](https://twitter.com/EVRYTHNG/status/1453331911074529290?s=20) über EBCIS und den [Blogpost dazu von der IF](https://blog.iota.org/epcis-2-0-a-global-standard-to-build-trusted-and-decentralized-supply-chains-with-iota/)
 19. Die [IF tweetet](https://twitter.com/iota/status/1453330977284149248?s=20) über ein neues smart contract tutorial: [IOTA Smart Contracts Tutorial - WASP Chain Setup](https://www.youtube.com/watch?v=3mLpV_neB6I)
 20. Und noch ein smart contract Tutorial: [Tweet](https://twitter.com/kranirudha/status/1453277390155747330?s=20) Zu sehen auf [Twitch](https://www.twitch.tv/iotadev)
+21. Flashcrash am Mittwoch. IOTA -11%, Bitcoin -7%. Was war da los?
