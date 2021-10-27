@@ -24,3 +24,4 @@
 22. Hans Moog [tweetet](https://twitter.com/hus_qy/status/1453134441518358534?s=20), dass Mana doch nciht mehr abhängig ist von der Zeit?!?
 23. Microhash ist zurück und begeistert von IOTA smart contracts: [Tweet](https://twitter.com/micro_hash/status/1452977455619321863?s=20)
 24. Was meint Dom mit Community Manifesto? [Tweet](https://twitter.com/DomSchiener/status/1453339853895213057?s=20)
+25. SmartContracts AMA: [IF Ankündigungs-Tweet](https://twitter.com/iota/status/1453346051881111556?s=20); [[Special Session IOTA Smart Contracts] - AMA IOTA Talks with Dominik Schiener - 28.10.2021](https://www.youtube.com/watch?v=fJDNWWfBvTI)
