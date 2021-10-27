@@ -14,4 +14,4 @@
 12. IF auf Youtube: [Smart Contracts Tutorial - WASP Node Setup](https://www.youtube.com/watch?v=G889YQDeYPo)
 13. Die [IF tweetet](https://twitter.com/iota/status/1453013650936111111?s=20) über "off-ledger requests to WASP nodes through an API"
 14. Mike Bennett meldet sich zum Thema IOTA Standard: [Tweet](https://twitter.com/MikeHypercube/status/1453162077913223172?s=20)
-15. Antonio Nardella sucht jemanden der die IOTA LIve integration für den Ledger baut: [Tweee](https://twitter.com/antonionardella/status/1453199549569318912?s=20)
+15. Antonio Nardella sucht jemanden der die Ledger Live integration für IOTA baut: [Tweet](https://twitter.com/antonionardella/status/1453199549569318912?s=20)
