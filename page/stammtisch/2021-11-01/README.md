@@ -21,3 +21,5 @@
 19. Die [IF tweetet](https://twitter.com/iota/status/1453330977284149248?s=20) über ein neues smart contract tutorial: [IOTA Smart Contracts Tutorial - WASP Chain Setup](https://www.youtube.com/watch?v=3mLpV_neB6I)
 20. Und noch ein smart contract Tutorial: [Tweet](https://twitter.com/kranirudha/status/1453277390155747330?s=20) Zu sehen auf [Twitch](https://www.twitch.tv/iotadev)
 21. Flashcrash am Mittwoch. IOTA -11%, Bitcoin -7%. Was war da los?
+22. Hans Moog [tweetet](https://twitter.com/hus_qy/status/1453134441518358534?s=20), dass Mana doch nciht mehr abhängig ist von der Zeit?!?
+23. Microhash ist zurück und begeistert von IOTA smart contracts: [Tweet](https://twitter.com/micro_hash/status/1452977455619321863?s=20)
