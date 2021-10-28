@@ -34,5 +34,7 @@ In dem Projekt ging es um Einsatzmöglichkeiten von IOTA 2.0 für verschiedene U
 31: sitcom ein Unternehmen für Netzwerk- und Infrastrukturlösungen schreibt über ihren IOTA Anwendungsfall: [Insight DLTs - A first step to tamper-proof documents based on Distributed Ledger Technologies. A practical use case to understand DLT technology using the IOTA tangle.](https://www.siticom.online/tangle-dlt-5g-part-ii); Hier der [Tweet von sitcom](https://twitter.com/Siticom_GmbH/status/1453701940823666690?s=20)
 32. Es gab die Anfrage dass wir mal über atomic composability reden können
 33. Und ob smart contracts immer etwas kosten müssen: [H.Moog Tweet 1](https://twitter.com/hus_qy/status/1453696954832232457?s=20) sagt "ja bei öffentlichen smart contracts" und [Tweet 2](https://twitter.com/hus_qy/status/1453700058390609924?s=20) sagt "nein wenn sich das Konsortium daruaf einigt"
-34. 
+34. Huhn hat ein PoC auf der IOTA Smart Contracts EVM gebaut: [Tweet](https://twitter.com/huhn511/status/1453713547901509634?s=20) "mint, sell and transfer your NFT without any fees"
+35. Artikel: [Beschlagnahmte Kryptowährung Justiz versteigert Bitcoin deutlich über Kurswert](https://www.spiegel.de/netzwelt/web/bitcoin-justiz-versteigert-beschlagnahmte-kryptowaehrung-deutlich-ueber-kurswert-a-1bb47f75-d61b-46c4-b050-2b98e320cd3d)
+36. Frank hat mit seinem [Monster Tweetstorm über IOTAs Ökosystem](https://twitter.com/2779530283Mi/status/1440241364084477954?s=20) den Community Award der Woche gewonnen würde ich sagen
 
