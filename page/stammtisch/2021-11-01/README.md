@@ -7,7 +7,7 @@
 5. Ivan on Tech Interview mit Hans Moog: [IOTA BIG INTERVIEW 2021 - Past Failures, Latest Developments, Future Plan - Hans Moog](https://www.youtube.com/watch?v=jIghp3MnXIg)
 6. Youtuber Chico Crypto mit 287K Follower: [ALERT!! The United States Has Picked It’s #1 Altcoin!!!!](https://youtu.be/kSonbhQkq_o?t=388)
 7. Die [IF tweetet](https://twitter.com/iota/status/1453059032021934086?t=LVY1ndCGXSQRBPXgJRiDPA&s=19) über SmartContracts und [verlinkt Wiki IOTA](https://wiki.iota.org/learn/future/smart-contracts/smart-contracts-chains) 
-8. TangleSea.com mir dem [5/7 Tweet](https://twitter.com/TangleSeaDeFi/status/1452938051026661379?s=20) "Liquidity Pool IOTA/PEARL successfully created!"; [6/7 Tweet](https://twitter.com/TangleSeaDeFi/status/1453300447754784775?s=20) "LP Token deployed in test farm to earn reward token!"; Dan Simmerman kommentiert das mit "First example of Yield Farming": [Tweet](https://twitter.com/DanSimerman/status/1453330267867918337?s=20)
+8. TangleSea.com mir dem [5/7 Tweet](https://twitter.com/TangleSeaDeFi/status/1452938051026661379?s=20) "Liquidity Pool IOTA/PEARL successfully created!"; [6/7 Tweet](https://twitter.com/TangleSeaDeFi/status/1453300447754784775?s=20) "LP Token deployed in test farm to earn reward token!"; Dan Simmerman kommentiert das mit "First example of Yield Farming": [Tweet](https://twitter.com/DanSimerman/status/1453330267867918337?s=20); [7/7 Tweet](https://twitter.com/TangleSeaDeFi/status/1453662832470409226?s=20) -> "Test staking pool successfully deployed to stake and earn reward token!"
 9. Daniel Trauth sucht Mitarbeiter: [Tweet](https://twitter.com/DanielTrauth/status/1452915904967323650?s=20)
 10. Die [IF tweetet](https://twitter.com/iota/status/1452979255009333250?s=20) über ein Event mit ZEBRA 3.-5. November: [ZEBRA DevCon 2021](https://events.zebra.com/devcon_2021_registration)
 11. SkylaDB auf Youtube: [How IOTA Foundation uses Scylla to store unbounded flow](https://www.youtube.com/watch?v=DURsnCOZBrQ=)
@@ -26,4 +26,9 @@
 24. Was meint Dom mit Community Manifesto? [Tweet](https://twitter.com/DomSchiener/status/1453339853895213057?s=20)
 25. SmartContracts AMA: [[Special Session IOTA Smart Contracts] - AMA IOTA Talks with Dominik Schiener - 28.10.2021](https://www.youtube.com/watch?v=fJDNWWfBvTI)
 26. Gunnar Stenzel (Director of Communications bei der IF) mit interessanten Gedanken zu IOTA Smart contracts: [Tweet 1/10](https://twitter.com/Gunnar_Stenzel/status/1453625790621437954?s=20)
-27. 
+27. Blackpin auf dem Blockchaindialog Tag in Baden Würtemberg: [Tweet mit #IOTA](https://twitter.com/BLACKPIN_GmbH/status/1453668239167434760?t=qQfx4Vjwe6VDScZSX446uw&s=19)
+28. Die IF ruft startups auf bei dem German Blockchain Award 2021 mitzumachen: [Tweet](https://twitter.com/iota/status/1453617606049607682?s=20); Hier merh Details: [German Blockchain Award 2021 — The most anticipated blockchain competition of the year](https://medium.com/@blockrocket/german-blockchain-award-2021-the-most-anticipated-blockchain-competition-of-the-year-b5e7716b12b8)
+29. Smart Contracts Team Update von der IF: [Smart Contract Team Updates - Week 43, 2021](https://github.com/iotaledger/wasp/blob/v0.2.1/teamupdates/update-43-2021.md)
+30. Das Team von 51nodes baut etwas zusammen mit dem Deep-Tech-Startup "Swarm Logistics Technologies": Das "Fleet Control"-Systeme für die Machine Economy im Logistik-Bereich...
+In dem Projekt ging es um Einsatzmöglichkeiten von IOTA 2.0 für verschiedene Use Cases im Logistik-Bereich, unter anderem einer Ledger-abgesicherten Proof of Delivery Methode unter Nutzung dezentraler Identitäten und digitaler Signaturen; [Link zu 51nodes](https://www.linkedin.com/posts/51nodes_enabling-the-crypto-economy-51nodes-die-activity-6858283830772568064-w7hw)
+
