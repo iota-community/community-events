@@ -25,3 +25,5 @@
 23. Microhash ist zurück und begeistert von IOTA smart contracts: [Tweet](https://twitter.com/micro_hash/status/1452977455619321863?s=20)
 24. Was meint Dom mit Community Manifesto? [Tweet](https://twitter.com/DomSchiener/status/1453339853895213057?s=20)
 25. SmartContracts AMA: [[Special Session IOTA Smart Contracts] - AMA IOTA Talks with Dominik Schiener - 28.10.2021](https://www.youtube.com/watch?v=fJDNWWfBvTI)
+26. Gunnar Stenzel (Director of Communications bei der IF) mit interessanten Gedanken zu IOTA Smart contracts: [Tweet 1/10](https://twitter.com/Gunnar_Stenzel/status/1453625790621437954?s=20)
+27. 
