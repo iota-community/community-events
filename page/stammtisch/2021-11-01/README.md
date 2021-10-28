@@ -13,7 +13,7 @@
 11. SkylaDB auf Youtube: [How IOTA Foundation uses Scylla to store unbounded flow](https://www.youtube.com/watch?v=DURsnCOZBrQ=)
 12. IF auf Youtube: [Smart Contracts Tutorial - WASP Node Setup](https://www.youtube.com/watch?v=G889YQDeYPo)
 13. Die [IF tweetet](https://twitter.com/iota/status/1453013650936111111?s=20) über "off-ledger requests to WASP nodes through an API"
-14. Mike Bennett meldet sich zum Thema IOTA Standard: [Tweet](https://twitter.com/MikeHypercube/status/1453162077913223172?s=20)
+14. Mike Bennett meldet sich mal wieder zum Thema IOTA Standard: [Tweet](https://twitter.com/MikeHypercube/status/1453162077913223172?s=20)
 15. Antonio Nardella sucht jemanden der die Ledger Live integration für IOTA baut: [Tweet](https://twitter.com/antonionardella/status/1453199549569318912?s=20)
 16. TangleBay: Swarm 0.9.8 release [Tweet](https://twitter.com/TANGLEBAY/status/1452932665146019851?s=20)
 17. Navin Ramachandran mit Hopium fürs Volk [Tweet](https://twitter.com/navinram999/status/1453306559753297927?s=20) und noch einer hinterher: [Tweet](https://twitter.com/navinram999/status/1453317710079725570?s=20)
@@ -31,4 +31,8 @@
 29. Smart Contracts Team Update von der IF: [Smart Contract Team Updates - Week 43, 2021](https://github.com/iotaledger/wasp/blob/v0.2.1/teamupdates/update-43-2021.md)
 30. Das Team von 51nodes baut etwas zusammen mit dem Deep-Tech-Startup "Swarm Logistics Technologies": Das "Fleet Control"-Systeme für die Machine Economy im Logistik-Bereich...
 In dem Projekt ging es um Einsatzmöglichkeiten von IOTA 2.0 für verschiedene Use Cases im Logistik-Bereich, unter anderem einer Ledger-abgesicherten Proof of Delivery Methode unter Nutzung dezentraler Identitäten und digitaler Signaturen; [Link zu 51nodes](https://www.linkedin.com/posts/51nodes_enabling-the-crypto-economy-51nodes-die-activity-6858283830772568064-w7hw)
+31: sitcom ein Unternehmen für Netzwerk- und Infrastrukturlösungen schreibt über ihren IOTA Anwendungsfall: [Insight DLTs - A first step to tamper-proof documents based on Distributed Ledger Technologies. A practical use case to understand DLT technology using the IOTA tangle.](https://www.siticom.online/tangle-dlt-5g-part-ii); Hier der [Tweet von sitcom](https://twitter.com/Siticom_GmbH/status/1453701940823666690?s=20)
+32. Es gab die Anfrage dass wir mal über atomic composability reden können
+33. Und ob smart contracts immer etwas kosten müssen: [H.Moog Tweet 1](https://twitter.com/hus_qy/status/1453696954832232457?s=20) sagt "ja bei öffentlichen smart contracts" und [Tweet 2](https://twitter.com/hus_qy/status/1453700058390609924?s=20) sagt "nein wenn sich das Konsortium daruaf einigt"
+34. 
 
