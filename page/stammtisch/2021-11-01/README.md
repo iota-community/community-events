@@ -40,4 +40,5 @@ In dem Projekt ging es um Einsatzmöglichkeiten von IOTA 2.0 für verschiedene U
 37. TM forum [tweetet](https://twitter.com/tmforumorg/status/1453706080291336198?s=20) über E-health mit #IOTA; Interessant auch die Firmen im [Tweet mit Screenshot](https://twitter.com/wupperrunner/status/1453732540242558981?s=20)
 38. Der Shiba Inu Run (teilweise +70% in 24h während alles andere rot war) hat interessante Auswirkungen, wenn man daran denkt wieviel Geld Vitalik Buterin verschenkt hat: [Tweet](https://twitter.com/rohmeo_de/status/1453665980845019145?s=20)
 39. Facebook rebranding to Meta: ... und wenig überraschend geht der [Meta Coin (rang #3100 auf coinmarketcap)](https://coinmarketcap.com/de/currencies/metaverse-miner/) durch die Decke...
+40. Am 12.11. ist IOTA Stammtisch in München: [Tweet](https://twitter.com/IotaMunchen/status/1453970669868236800?s=20); Hier geht's zum [Event auf Meetup.com](https://www.meetup.com/de-DE/IOTA-Muc/events/hfcdpsyccpbhb/)
 
