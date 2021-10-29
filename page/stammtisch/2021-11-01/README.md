@@ -44,4 +44,5 @@ In dem Projekt ging es um Einsatzmöglichkeiten von IOTA 2.0 für verschiedene U
 41. X-Teams Meeting für IOTA Streams: [IF Tweet](https://twitter.com/iota/status/1453995108005818371?s=20); Youtube: [2021-10-27 IOTA Experience Team Streams meeting](https://www.youtube.com/watch?v=QrKHZQa0OZ0)
 42. IOTA Weekly [auf deutsch](https://www.youtube.com/watch?v=rfF8EgI3C58); auf [englisch](https://www.youtube.com/watch?v=2IHx8VY-sqg)
 43. Holger Köther [pitched IOTA auf Twitter](https://twitter.com/HolgerKoether/status/1454087177818841096?s=20)
+44. IOTA Morons (NFT Künstler) [tweeten](https://twitter.com/iotamorons/status/1454072894225518592?s=20) über ihre neue Webseite und den Artikel: [We are Morons](https://iotamorons.art/we-are-morons/)
 
