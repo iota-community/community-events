@@ -37,5 +37,7 @@ In dem Projekt ging es um Einsatzmöglichkeiten von IOTA 2.0 für verschiedene U
 34. Huhn hat ein PoC auf der IOTA Smart Contracts EVM gebaut: [Tweet](https://twitter.com/huhn511/status/1453713547901509634?s=20) "mint, sell and transfer your NFT without any fees"
 35. Artikel: [Beschlagnahmte Kryptowährung Justiz versteigert Bitcoin deutlich über Kurswert](https://www.spiegel.de/netzwelt/web/bitcoin-justiz-versteigert-beschlagnahmte-kryptowaehrung-deutlich-ueber-kurswert-a-1bb47f75-d61b-46c4-b050-2b98e320cd3d)
 36. Frank hat mit seinem [Monster Tweetstorm über IOTAs Ökosystem](https://twitter.com/2779530283Mi/status/1440241364084477954?s=20) den Community Award der Woche gewonnen würde ich sagen
-37. TM forum [tweetet](https://twitter.com/tmforumorg/status/1453706080291336198?s=20) über E-health mit #IOTA
+37. TM forum [tweetet](https://twitter.com/tmforumorg/status/1453706080291336198?s=20) über E-health mit #IOTA; Interessant auch die Firmen im [Tweet mit Screenshot](https://twitter.com/wupperrunner/status/1453732540242558981?s=20)
+38. Der Shiba Inu Run (teilweise +70% in 24h während alles andere rot war) hat interessante Auswirkungen, wenn man daran denkt wieviel Geld Vitalik Buterin verschenkt hat: [Tweet](https://twitter.com/rohmeo_de/status/1453665980845019145?s=20)
+39. Facebook rebranding to Meta: ... und wenig überraschend geht der [Meta Coin (rang #3100 auf coinmarketcap)](https://coinmarketcap.com/de/currencies/metaverse-miner/) durch die Decke...
 
