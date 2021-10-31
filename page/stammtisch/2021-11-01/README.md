@@ -52,4 +52,5 @@ In dem Projekt ging es um Einsatzmöglichkeiten von IOTA 2.0 für verschiedene U
 49. Es gab einige Hopium fürs Volk Tweets von Hans Moog unterhalb des Dom Schiener [Hype-Zug-Tweets](https://twitter.com/DomSchiener/status/1454446619626250246?s=20). Er äußert sich über Coordicide im Testnetz (next week) und seine finale real world Identity Lösung (Angriff auf Bitcoin als SoV weil sicherer): 
 50. Die Kurse sehen mal wieder bulllish aus in einigen Kursmalereien... [Tweet 1](https://twitter.com/bitcoinagile/status/1454366453113790468?s=20); [Tweet 2](https://twitter.com/THE_FLASH_G/status/1454493255723360258?s=20)
 51. RaspiHive mit Update: [Tweet](https://twitter.com/raspihive/status/1454451167535288321?t=FkMx1e_a4jGsLYWOyyRwhg&s=19)
+52. IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/133-week-in-review-from-24th-to-october-30nd-2021/) 
 
