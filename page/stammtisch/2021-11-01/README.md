@@ -53,4 +53,5 @@ In dem Projekt ging es um Einsatzmöglichkeiten von IOTA 2.0 für verschiedene U
 50. Die Kurse sehen mal wieder bulllish aus in einigen Kursmalereien... [Tweet 1](https://twitter.com/bitcoinagile/status/1454366453113790468?s=20); [Tweet 2](https://twitter.com/THE_FLASH_G/status/1454493255723360258?s=20)
 51. RaspiHive mit Update: [Tweet](https://twitter.com/raspihive/status/1454451167535288321?t=FkMx1e_a4jGsLYWOyyRwhg&s=19)
 52. IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/133-week-in-review-from-24th-to-october-30nd-2021/) 
+53. Celodi[Celody And Stakedy Colored IOTA Token On DevNet](https://stakedy.com/long/celody-and-stakedy-colored-iota-token-on-devnet.html) 
 
