@@ -58,4 +58,5 @@ Blockchain & The Digital Twin](https://www.constructionblockchain.org/conference
 55. U-Today hat ein Interview mit Dom geführt: [IOTA's Dominik Schiener Talks Smart Contract Launch, NFTs and Dogecoin in Exclusive Interview](https://u.today/iotas-dominik-schiener-talks-smart-contract-launch-nfts-and-dogecoin-in-exclusive)
 56. Mike Tha Investor [tweetet](https://twitter.com/MikeThaInvestor/status/1452313103941652483?s=20) darüber, dass er am Montag Abend ein [Interview mit Dan Simmerman](https://www.youtube.com/watch?v=1xrIbwYFWBE) macht
 57. Smart Contract Tutorial: [Tweet der IF](https://twitter.com/iota/status/1452605969326911492?s=20); [Video Tutorial](https://twitter.com/iota/status/1452605969326911492?s=20)
+58. Diskussion ob MIOTA auf den Exchanges nicht auf IOTA geändert werden sollte: [Tweet 1](https://twitter.com/SenfdaTzu/status/1454757809460072448?t=swWlbiet63iDJgfr_-CwxQ&s=19); [Tweet 2](https://twitter.com/Vrom14286662/status/1454828957312983042?t=vliWcIPgFF6Bc02v27z-9A&s=19); [Tweet 3](https://twitter.com/c4chaos/status/1454824048798535681?t=m7a3DRGHLaDXkSCI-KYnbw&s=19)
 
