@@ -61,3 +61,4 @@ In dem Projekt ging es um Einsatzmöglichkeiten von IOTA 2.0 für verschiedene U
 58. Muxxer und viele weitere Personen wurden announced als Mitarbeiter bei der IF: [IOTA Foundation Welcome to the IOTA Foundation - November 2021](https://blog.iota.org/welcome-new-team-members-to-the-iota-foundation-november-2021/) 
 59. Die IF [tweetet](https://twitter.com/iota/status/1455097795594100736?t=ckqyfxOdOMiiUOBHmJTboQ&s=19) darüber, daß sie bei dem [PlusCity Newsletter](https://cityxchange.eu/the-current-issue-01-october-2021/) erwähnt wurden
 60. Die IF [tweetet](https://twitter.com/iota/status/1455104846437179398?t=HLOmVeW81UHz63n4T6SaRA&s=19) über [IOTA Identity Beta 2](https://wiki.iota.org/identity.rs/specs/didcomm/overview) release 
+61. Squid Game Token über die alle diese Woche geredet haben machen Exit Scam? [Tweet mit Live Video beim Kurssturz](https://twitter.com/imBagsy/status/1455143081033048068?t=gfgjrTANTiOEWC9C626kSQ&s=19) 
