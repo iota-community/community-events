@@ -64,3 +64,4 @@ In dem Projekt ging es um Einsatzmöglichkeiten von IOTA 2.0 für verschiedene U
 61. Squid Game Token über die alle diese Woche geredet haben (wegen heftigem Kursanstieg) machen Exit Scam? [Tweet mit Live Video beim Kurssturz](https://twitter.com/imBagsy/status/1455143081033048068?t=gfgjrTANTiOEWC9C626kSQ&s=19) 
 62. Die [IF tweetet](https://twitter.com/iota/status/1455158141520384007?s=20) über neues [IOTA Smart Contracts Tutorial - EVM Chain Setup](https://www.youtube.com/watch?v=JbUGX-9BTSo)
 63. Elon Musk will/soll 2% zahlen (6 Milliarden $) um den Welthunger zu stillen: [Tweet E.Musk](https://twitter.com/elonmusk/status/1454808104256737289?s=20)
+64. IOTABots NFT Airdrop soon... [Tweet](https://twitter.com/iotabots/status/1455175824559296527?t=PAjtABy7Zaov7I1xu5CCtw&s=19)
