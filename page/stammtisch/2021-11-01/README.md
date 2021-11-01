@@ -45,7 +45,7 @@ In dem Projekt ging es um Einsatzmöglichkeiten von IOTA 2.0 für verschiedene U
 42. IOTA Weekly [auf deutsch](https://www.youtube.com/watch?v=rfF8EgI3C58); auf [englisch](https://www.youtube.com/watch?v=2IHx8VY-sqg)
 43. Holger Köther [pitched IOTA auf Twitter](https://twitter.com/HolgerKoether/status/1454087177818841096?s=20)
 44. IOTA Morons (NFT Künstler) [tweeten](https://twitter.com/iotamorons/status/1454072894225518592?s=20) über ihre neue Webseite und den Artikel: [We are Morons](https://iotamorons.art/we-are-morons/); Sie verschenken auch welche: [Tweet](https://twitter.com/iotamorons/status/1454429630652428289?s=20)
-45. Multi ruft eine neue Ära aus die am Sonntag beginnt: [Tweet](https://twitter.com/multifolio/status/1454496937500106758?s=20)
+45. Multi ruft eine neue Ära aus die am Sonntag beginnt: [Tweet](https://twitter.com/multifolio/status/1454496937500106758?s=20); Update: Er veröffentlcht in seinen [Tweets](https://twitter.com/multifolio/status/1454728105105543171?s=20) ein Video: [6 Wege mit IOTA Geld zu verdienen - So einfach geht's!](https://www.youtube.com/watch?v=CM1Ca7vGMxU); Und eine [Pay Per Content Webseite](https://iota-oekonomie.de/) -> Allerdings will er 500 Miota für den zweiten Artikel!!! Der erste Artikel kostet 1 Miota: [Wie Du einen Blog wie Iota Ökonomie aufsetzen kannst](https://iota-oekonomie.de/verdienen/wie-du-einen-blog-wie-iota-oekonomie-aufsetzen-kannst/)
 46. Am Samstag gibt es einen Kurssprung bei IOTA: [Tweet](https://twitter.com/Vrom14286662/status/1454495174546149380?s=20)
 47. Die IOTA DeFi ACADEMY startet ich glaube mit diesem [Tweet](https://twitter.com/AzanyahM/status/1454309785587830787?s=20); Hier die [Webseite](https://iotadefi.academy/) und hier gleich schöne Gedanken zum [Einstieg in die Welt von DeFi](https://iotadefi.academy/the-3-elements-to-jumpstart-defi-on-iota/)
 48. Kappy, der schon einen schönen [Tweetstorm 1/9](https://twitter.com/Rob_Daykin/status/1440023393043193860?s=20) über DeFi bei IOTA geschrieben hat, hilft wohl auch mit bei der IOTA DeFi ACADEMY: [Tweet](https://twitter.com/Rob_Daykin/status/1454208171199897601?s=20)
@@ -54,4 +54,7 @@ In dem Projekt ging es um Einsatzmöglichkeiten von IOTA 2.0 für verschiedene U
 51. RaspiHive mit Update: [Tweet](https://twitter.com/raspihive/status/1454451167535288321?t=FkMx1e_a4jGsLYWOyyRwhg&s=19)
 52. IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/133-week-in-review-from-24th-to-october-30nd-2021/) 
 53. Celodi[Celody And Stakedy Colored IOTA Token On DevNet](https://stakedy.com/long/celody-and-stakedy-colored-iota-token-on-devnet.html) 
+54. TangleSea [tweetet](https://twitter.com/TangleSeaDeFi/status/1454887169408094213?s=20) über ihren neuen Blogpost: [TangleSea ISCP Beta Week](https://tanglesea.medium.com/tanglesea-iscp-beta-week-98f82d62080b)
+55. Die [IF tweetet](https://twitter.com/iota/status/1454735002911100928?s=20) über NFTs und diesen PayWall Artikel [The market for non-fungible tokens is evolving](https://www.economist.com/finance-and-economics/the-market-for-non-fungible-tokens-is-evolving/21805856)
+56. Neues von Society2.com: [Tweet](https://twitter.com/society2/status/1454958321098756103?s=20) "We're aiming for a basic product demo of Flow (our framework that anyone can implement as the base layer for a social media application) later this quarter."
 
