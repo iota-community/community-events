@@ -57,4 +57,5 @@ In dem Projekt ging es um Einsatzmöglichkeiten von IOTA 2.0 für verschiedene U
 54. TangleSea [tweetet](https://twitter.com/TangleSeaDeFi/status/1454887169408094213?s=20) über ihren neuen Blogpost: [TangleSea ISCP Beta Week](https://tanglesea.medium.com/tanglesea-iscp-beta-week-98f82d62080b)
 55. Die [IF tweetet](https://twitter.com/iota/status/1454735002911100928?s=20) über NFTs und diesen PayWall Artikel [The market for non-fungible tokens is evolving](https://www.economist.com/finance-and-economics/the-market-for-non-fungible-tokens-is-evolving/21805856)
 56. Neues von Society2.com: [Tweet](https://twitter.com/society2/status/1454958321098756103?s=20) "We're aiming for a basic product demo of Flow (our framework that anyone can implement as the base layer for a social media application) later this quarter."
+57. Neben der Miota IOTA Diskussion kommt auch nochmal Staking Rewards auf den Tisch: [Hans Moog Tweet](https://twitter.com/hus_qy/status/1455118732783767559?s=19) 
 
