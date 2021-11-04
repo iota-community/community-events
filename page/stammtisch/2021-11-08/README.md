@@ -16,4 +16,4 @@
 14. IOTA Firefly Mobile Open Source Developement: [IF Tweet](https://twitter.com/iota/status/1455918746724352006?s=20); [Blogpost](https://blog.iota.org/firefly-mobile-development-update/)
 15. DAO Pioneer working group hat begonnen: [Tweet](https://twitter.com/antonionardella/status/1455891734244827142?s=20)
 16. Die [IF tweetet](https://twitter.com/iota/status/1455927929607802880?s=20) über den Release von der Webseite: [Secure Digital INfrastructure](https://www.iota.org/solutions/secure-digital-infrastructure)
-17. 
+17. dlt.green bietet einen neuen Service für Node Besitzer ([](https://twitter.com/dlt_green/status/1455402146820763650?s=20)). Sie bekommen von ihm eine eigene Subdomain mit ...dlt.green. Man muss ihm nur eine e-mail Adresse geben: [Tweet von vrom](https://twitter.com/Vrom14286662/status/1456179607481245696?s=20)
