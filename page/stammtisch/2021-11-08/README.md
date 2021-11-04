@@ -17,3 +17,9 @@
 15. DAO Pioneer working group hat begonnen: [Tweet](https://twitter.com/antonionardella/status/1455891734244827142?s=20)
 16. Die [IF tweetet](https://twitter.com/iota/status/1455927929607802880?s=20) über den Release von der Webseite: [Secure Digital INfrastructure](https://www.iota.org/solutions/secure-digital-infrastructure)
 17. dlt.green bietet einen neuen Service für Node Besitzer ([](https://twitter.com/dlt_green/status/1455402146820763650?s=20)). Sie bekommen von ihm eine eigene Subdomain mit ...dlt.green. Man muss ihm nur eine e-mail Adresse geben: [Tweet von vrom](https://twitter.com/Vrom14286662/status/1456179607481245696?s=20)
+18. Neues Paper von der IF: [IF Tweet](https://twitter.com/iota/status/1456201841277116419); Free public paper: [Salt-based autopeering for DLT-networks](https://files.iota.org/papers/Salt_based_neighbor_selection.pdf) 
+19. [IOTA Smart Contracts Weekly Update](https://github.com/iotaledger/wasp/blob/develop/teamupdates/update-44-2021.md)
+20. Crypto.com listet IOTA aber nur wrapped IOTA als ERC20 Token auf der Binance chain: [Tweet von Crypto.com](https://twitter.com/cryptocom/status/1456164473585029122?s=20); Dom Schiener will sie [auf Twitter überreden](https://twitter.com/DomSchiener/status/1456181191493754885?s=20) den antive IOTA coin zu integrieren
+21. Der IOTA Argentinien Hub meldet sich auf [Twitter](https://twitter.com/carpclash/status/1456019934320996358?s=20) mit "Big things comming in the next few weeks"
+22. Sabo von [LendeXe finance](https://twitter.com/LendeXeFinance/status/1451181838299385860?s=20) hat ein wenig [geplaudert auf Telegram](https://t.me/IOTA_DACH/426552): Er meinte, da sie 100% Revenue an die Community auszahlen werden die Zinsen mit hoher Wahrscheinlichkeit die "höchsten" sein, die man auf einem Lending Protokoll bekommen kann.
+23. 
