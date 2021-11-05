@@ -33,4 +33,5 @@
 31. SOMNIUM (feed the world global) gibt bekannt, auf IOTA zu bauen: [Tweet](https://twitter.com/FTWGToken/status/1456218400573820930?s=20)
 32. Neue [Open Collaboration on Next Generation Digital Solutions to Transform Climate Actions and Sustainability](https://www.climate-check.com/open-collaboration): [Tweet Tom Bauman dazu](https://twitter.com/TomTC4TC/status/1456277338543460355?s=20) -> verlinkt auf [LinkedIN](https://www.linkedin.com/pulse/open-collaboration-next-generation-digital-solutions-tom-baumann-%E5%8C%85%E8%AD%BD%E6%96%87?trk=public_post-content_share-article); [Tweet von Mat Yarger](https://twitter.com/Mat_Yarger/status/1456291411419148301?s=20)
 33. Mr. Mining hat sich nach der Crypto Rockstars Cruise (wegen vrom) 2 Wochen eingearbeitet bei IOTA und daraufhin ein Video gemacht: [IOTA DAS MEGA PROJEKT 🚀 Preis Prognose 🚀 Mehr Community ARBEIT nötig? Listen on Kraken & Coinbase](https://www.youtube.com/watch?v=WRGP-vp3H_M) -> "Fazit: Eierlegende Wollmilchsau aber zu wenige Exchanges"
-34. 
+34. [IF Blogpost zum Thema Sharding](https://blog.iota.org/sharding-throughput-scalability-and-why-we-need-them/)
+35. [GoShimmer v.0.8 release](https://github.com/iotaledger/goshimmer/releases/tag/v0.8.0)
