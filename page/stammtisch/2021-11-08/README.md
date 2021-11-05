@@ -28,7 +28,7 @@
 26. Die IF [tweetet](https://twitter.com/iota/status/1456297693962248201?s=20) darüber, dass es einen neuen Ledger Output Type geben wird um Multiassets zu ermöglichen
 27. Die IF [tweetet](https://twitter.com/iota/status/1455822093480759296?s=20) über ein INATBA Event wo Marianna de la Roche [IF] Co-Chair von SIWG mitgeredet hat:  [Day 4: UN Climate Change Global Innovation Hub Pavillon @COP26](https://youtu.be/GuHWLdYiKV4?t=27091)
 28. Reaktionen zum Token Framework: [Jelle Milenar](https://twitter.com/JelleFm/status/1456325169899876362?s=20); [Hans Moog](https://twitter.com/hus_qy/status/1456298802659348488?s=20); [Dom Schiener](https://twitter.com/DomSchiener/status/1456313498816888834?s=20); [Jeff Riseden](https://twitter.com/_JeffR/status/1456376558151630852?s=20); Linus Nauman(https://twitter.com/LinusNaumann/status/1456390879246225419?s=20); [Io_Terry](https://twitter.com/io_terry/status/1456346056879398918?s=20); [Vrom mit Erklär-Screenshots](https://twitter.com/Vrom14286662/status/1456479811560423425?s=20)
-29. Reaktionen in den Medien: [Coinrivet](https://coinrivet.com/iota-outlines-new-tokenisation-framework-for-its-mainnet/)
+29. Reaktionen in den Medien: [Coinrivet](https://coinrivet.com/iota-outlines-new-tokenisation-framework-for-its-mainnet/); [BTC Echo](https://www.btc-echo.de/news/iota-transformiert-zum-multi-asset-ledger-129009/)
 30. Navin Ramachandran [tweetet](https://twitter.com/navinram999/status/1456400210989568000?s=20) über Muxxers neue [Dust Protection](https://github.com/muXxer/protocol-rfcs/blob/master/text/0039-dust-protection-based-on-byte-costs/0039-dust-protection-based-on-byte-costs.md); Reaktionen: [Linus N.](https://twitter.com/LinusNaumann/status/1456377635991400448?s=20)
 31. Neues AMA am 8.11.: [IF Announcement Tweet](https://twitter.com/iota/status/1456335547912396805?s=20); Fragen stellen [auf Reddit](https://www.reddit.com/r/Iota/comments/qmo0i0/ama_with_dominik_schiener_the_team_about_the/)
 32. SOMNIUM (feed the world global) gibt bekannt, auf IOTA zu bauen: [Tweet](https://twitter.com/FTWGToken/status/1456218400573820930?s=20)
@@ -37,5 +37,10 @@
 35. [IF Blogpost zum Thema Sharding](https://blog.iota.org/sharding-throughput-scalability-and-why-we-need-them/)
 36. [GoShimmer v.0.8 release](https://github.com/iotaledger/goshimmer/releases/tag/v0.8.0)
 37. Phylo [tweetet](https://twitter.com/Phylo79288735/status/1456623521556275211?s=20) über sein Tutorial: [IOTA Github and Wiki Overview | Agri-D Food Hack](https://www.youtube.com/watch?v=Rtd-Q1ZN0SY)
-38. [IOTA Identity Exclusive Workshop with Jelle Millenaar, Lead, IOTA Identity | Agri-D Food Hack
-](https://www.youtube.com/watch?v=OGRYIU-8uMg)
+38. Neue Katzen NFTs? [Tweet](https://twitter.com/IOTABeeliever/status/1456611506225696772?s=20)
+39. [IOTA Identity Exclusive Workshop with Jelle Millenaar, Lead, IOTA Identity | Agri-D Food Hack](https://www.youtube.com/watch?v=OGRYIU-8uMg)
+40. Die IF [tweetet](https://twitter.com/iota/status/1456624065016434702?s=20) über [Sharding: Throughput, Scalability and Why We Need Them](https://blog.iota.org/sharding-throughput-scalability-and-why-we-need-them/)
+41. Mit diesem [Tweet](https://twitter.com/hus_qy/status/1456640350517407748?s=20) announced Hans Moog OTV im DevNet und hier gibts das [DevNet Wallet](https://github.com/iotaledger/IOTA-2.0-DevNet-wallet/releases/tag/v0.8.0)
+42. Die [IF tweetet](https://twitter.com/iota/status/1456654176969240589?s=20) auch darüber
+43. Linus Nauman wieder mit starkem Artikel über [IOTAs multi-asset multiverse is coming! Huge implications for its tokenomics](https://medium.com/@linus.naumann/iotas-multi-asset-multiverse-is-coming-huge-implications-for-its-tokenomics-454bfb1f1de1)
+44. 
