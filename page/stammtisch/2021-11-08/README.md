@@ -36,6 +36,6 @@
 34. Mr. Mining hat sich nach der Crypto Rockstars Cruise (wegen vrom) 2 Wochen eingearbeitet bei IOTA und daraufhin ein Video gemacht: [IOTA DAS MEGA PROJEKT 🚀 Preis Prognose 🚀 Mehr Community ARBEIT nötig? Listen on Kraken & Coinbase](https://www.youtube.com/watch?v=WRGP-vp3H_M) -> "Fazit: Eierlegende Wollmilchsau aber zu wenige Exchanges"
 35. [IF Blogpost zum Thema Sharding](https://blog.iota.org/sharding-throughput-scalability-and-why-we-need-them/)
 36. [GoShimmer v.0.8 release](https://github.com/iotaledger/goshimmer/releases/tag/v0.8.0)
-37. [IOTA Github and Wiki Overview | Agri-D Food Hack](https://www.youtube.com/watch?v=Rtd-Q1ZN0SY)
+37. Phylo [tweetet](https://twitter.com/Phylo79288735/status/1456623521556275211?s=20) über sein Tutorial: [IOTA Github and Wiki Overview | Agri-D Food Hack](https://www.youtube.com/watch?v=Rtd-Q1ZN0SY)
 38. [IOTA Identity Exclusive Workshop with Jelle Millenaar, Lead, IOTA Identity | Agri-D Food Hack
 ](https://www.youtube.com/watch?v=OGRYIU-8uMg)
