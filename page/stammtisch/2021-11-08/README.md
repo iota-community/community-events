@@ -37,3 +37,5 @@
 35. [IF Blogpost zum Thema Sharding](https://blog.iota.org/sharding-throughput-scalability-and-why-we-need-them/)
 36. [GoShimmer v.0.8 release](https://github.com/iotaledger/goshimmer/releases/tag/v0.8.0)
 37. [IOTA Github and Wiki Overview | Agri-D Food Hack](https://www.youtube.com/watch?v=Rtd-Q1ZN0SY)
+38. [IOTA Identity Exclusive Workshop with Jelle Millenaar, Lead, IOTA Identity | Agri-D Food Hack
+](https://www.youtube.com/watch?v=OGRYIU-8uMg)
