@@ -39,7 +39,7 @@
 37. Phylo [tweetet](https://twitter.com/Phylo79288735/status/1456623521556275211?s=20) über sein Tutorial: [IOTA Github and Wiki Overview | Agri-D Food Hack](https://www.youtube.com/watch?v=Rtd-Q1ZN0SY)
 38. Neue Katzen NFTs? [Tweet](https://twitter.com/IOTABeeliever/status/1456611506225696772?s=20)
 39. [IOTA Identity Exclusive Workshop with Jelle Millenaar, Lead, IOTA Identity | Agri-D Food Hack](https://www.youtube.com/watch?v=OGRYIU-8uMg)
-40. Die IF [tweetet](https://twitter.com/iota/status/1456624065016434702?s=20) über [Sharding: Throughput, Scalability and Why We Need Them](https://blog.iota.org/sharding-throughput-scalability-and-why-we-need-them/)
+40. Die IF [tweetet](https://twitter.com/iota/status/1456624065016434702?s=20) über [Sharding: Throughput, Scalability and Why We Need Them](https://blog.iota.org/sharding-throughput-scalability-and-why-we-need-them/); Hier [auf deutsch](https://iota-einsteiger-guide.de/iota-sharding-durchsatz-skalierbarkeit.html)
 41. Mit diesem [Tweet](https://twitter.com/hus_qy/status/1456640350517407748?s=20) announced Hans Moog OTV im DevNet und hier gibts das [DevNet Wallet](https://github.com/iotaledger/IOTA-2.0-DevNet-wallet/releases/tag/v0.8.0)
 42. Die [IF tweetet](https://twitter.com/iota/status/1456654176969240589?s=20) auch darüber
 43. Linus Nauman wieder mit starkem Artikel über [IOTAs multi-asset multiverse is coming! Huge implications for its tokenomics](https://medium.com/@linus.naumann/iotas-multi-asset-multiverse-is-coming-huge-implications-for-its-tokenomics-454bfb1f1de1)
