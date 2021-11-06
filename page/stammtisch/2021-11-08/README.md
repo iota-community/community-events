@@ -45,4 +45,4 @@
 43. Linus Nauman wieder mit starkem Artikel über [IOTAs multi-asset multiverse is coming! Huge implications for its tokenomics](https://medium.com/@linus.naumann/iotas-multi-asset-multiverse-is-coming-huge-implications-for-its-tokenomics-454bfb1f1de1)
 44. [Screenshot](https://twitter.com/Vrom14286662/status/1456868308884590592?s=20) von Hans Moog Aussagen aus dem Discord zur Evolution von IOTA
 45. Die [IF spricht](https://twitter.com/iota/status/1456654176969240589?s=20) jetzt auch schon von "Nakamoto Consensus on a DAG" und [tweetet](https://twitter.com/iota/status/1456654179192262657?s=20) über Part 4 von Hans Moog Blogpost mit "Nodes vote on transactions via the Tangle without any additional overhead."
-46. 
+46. Die [IF stellt ein](https://twitter.com/iota/status/1456939558004797440?s=20): [UX Designer Stellenbeschreibung](https://iota.bamboohr.com/jobs/view.php?id=179&source=aWQ9NA%3D%3D)
