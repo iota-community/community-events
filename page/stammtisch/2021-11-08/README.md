@@ -34,13 +34,15 @@
 32. SOMNIUM (feed the world global) gibt bekannt, auf IOTA zu bauen: [Tweet](https://twitter.com/FTWGToken/status/1456218400573820930?s=20)
 33. Neue [Open Collaboration on Next Generation Digital Solutions to Transform Climate Actions and Sustainability](https://www.climate-check.com/open-collaboration): [Tweet Tom Bauman dazu](https://twitter.com/TomTC4TC/status/1456277338543460355?s=20) -> verlinkt auf [LinkedIN](https://www.linkedin.com/pulse/open-collaboration-next-generation-digital-solutions-tom-baumann-%E5%8C%85%E8%AD%BD%E6%96%87?trk=public_post-content_share-article); [Tweet von Mat Yarger](https://twitter.com/Mat_Yarger/status/1456291411419148301?s=20)
 34. Mr. Mining hat sich nach der Crypto Rockstars Cruise (wegen vrom) 2 Wochen eingearbeitet bei IOTA und daraufhin ein Video gemacht: [IOTA DAS MEGA PROJEKT 🚀 Preis Prognose 🚀 Mehr Community ARBEIT nötig? Listen on Kraken & Coinbase](https://www.youtube.com/watch?v=WRGP-vp3H_M) -> "Fazit: Eierlegende Wollmilchsau aber zu wenige Exchanges"
-35. [IF Blogpost zum Thema Sharding](https://blog.iota.org/sharding-throughput-scalability-and-why-we-need-them/)
+35. [IF Blogpost zum Thema Sharding](https://blog.iota.org/sharding-throughput-scalability-and-why-we-need-them/) Hier [aus deutsch](https://iota-einsteiger-guide.de/iota-sharding-durchsatz-skalierbarkeit.html)
 36. [GoShimmer v.0.8 release](https://github.com/iotaledger/goshimmer/releases/tag/v0.8.0)
 37. Phylo [tweetet](https://twitter.com/Phylo79288735/status/1456623521556275211?s=20) über sein Tutorial: [IOTA Github and Wiki Overview | Agri-D Food Hack](https://www.youtube.com/watch?v=Rtd-Q1ZN0SY)
-38. Neue Katzen NFTs? [Tweet](https://twitter.com/IOTABeeliever/status/1456611506225696772?s=20)
+38. Neue Katzen NFTs? [Tweet](https://twitter.com/IOTABeeliever/status/1456611506225696772?s=20) und die Robots 2. Runde kommen auch: [Tweet](https://twitter.com/iotabots/status/1456762008871784457?s=20)
 39. [IOTA Identity Exclusive Workshop with Jelle Millenaar, Lead, IOTA Identity | Agri-D Food Hack](https://www.youtube.com/watch?v=OGRYIU-8uMg)
 40. Die IF [tweetet](https://twitter.com/iota/status/1456624065016434702?s=20) über [Sharding: Throughput, Scalability and Why We Need Them](https://blog.iota.org/sharding-throughput-scalability-and-why-we-need-them/); Hier [auf deutsch](https://iota-einsteiger-guide.de/iota-sharding-durchsatz-skalierbarkeit.html)
 41. Mit diesem [Tweet](https://twitter.com/hus_qy/status/1456640350517407748?s=20) announced Hans Moog OTV im DevNet und hier gibts das [DevNet Wallet](https://github.com/iotaledger/IOTA-2.0-DevNet-wallet/releases/tag/v0.8.0)
 42. Die [IF tweetet](https://twitter.com/iota/status/1456654176969240589?s=20) auch darüber
 43. Linus Nauman wieder mit starkem Artikel über [IOTAs multi-asset multiverse is coming! Huge implications for its tokenomics](https://medium.com/@linus.naumann/iotas-multi-asset-multiverse-is-coming-huge-implications-for-its-tokenomics-454bfb1f1de1)
-44. 
+44. [Screenshot](https://twitter.com/Vrom14286662/status/1456868308884590592?s=20) von Hans Moog Aussagen aus dem Discord zur Evolution von IOTA
+45. Die [IF spricht](https://twitter.com/iota/status/1456654176969240589?s=20) jetzt auch schon von "Nakamoto Consensus on a DAG" und [tweetet](https://twitter.com/iota/status/1456654179192262657?s=20) über Part 4 von Hans Moog Blogpost mit "Nodes vote on transactions via the Tangle without any additional overhead."
+46. 
