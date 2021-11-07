@@ -16,7 +16,7 @@
 14. IOTA Firefly Mobile Open Source Developement: [IF Tweet](https://twitter.com/iota/status/1455918746724352006?s=20); [Blogpost](https://blog.iota.org/firefly-mobile-development-update/)
 15. DAO Pioneer working group hat begonnen: [Tweet](https://twitter.com/antonionardella/status/1455891734244827142?s=20)
 16. Die [IF tweetet](https://twitter.com/iota/status/1455927929607802880?s=20) über den Release von der Webseite: [Secure Digital INfrastructure](https://www.iota.org/solutions/secure-digital-infrastructure)
-17. dlt.green bietet einen neuen Service für Node Besitzer ([](https://twitter.com/dlt_green/status/1455402146820763650?s=20)). Sie bekommen von ihm eine eigene Subdomain mit ...dlt.green. Man muss ihm nur eine e-mail Adresse geben: [Tweet von vrom](https://twitter.com/Vrom14286662/status/1456179607481245696?s=20)
+17. dlt.green bietet einen neuen Service für Node Besitzer ([](https://twitter.com/dlt_green/status/1455402146820763650?s=20)). Sie bekommen von ihm eine eigene Subdomain mit ...dlt.green. Man muss ihm nur eine e-mail Adresse geben: [Tweet von vrom](https://twitter.com/Vrom14286662/status/1456179607481245696?s=20); Hier noch ein [Tweet](https://twitter.com/Vrom14286662/status/1457276416865751042?s=20). Er hat das noch erweitert. 
 18. Neues Paper von der IF: [IF Tweet](https://twitter.com/iota/status/1456201841277116419); Free public paper: [Salt-based autopeering for DLT-networks](https://files.iota.org/papers/Salt_based_neighbor_selection.pdf) 
 19. [IOTA Smart Contracts Weekly Update](https://github.com/iotaledger/wasp/blob/develop/teamupdates/update-44-2021.md)
 20. Crypto.com listet IOTA aber nur wrapped IOTA als ERC20 Token auf der Binance chain: [Tweet von Crypto.com](https://twitter.com/cryptocom/status/1456164473585029122?s=20); Dom Schiener will sie [auf Twitter überreden](https://twitter.com/DomSchiener/status/1456181191493754885?s=20) den antive IOTA coin zu integrieren
@@ -48,4 +48,4 @@
 46. Die [IF stellt ein](https://twitter.com/iota/status/1456939558004797440?s=20): [UX Designer Stellenbeschreibung](https://iota.bamboohr.com/jobs/view.php?id=179&source=aWQ9NA%3D%3D)
 47. Navin Ramachandran mit interessanten [Tweetstorm](https://twitter.com/navinram999/status/1456400210989568000?s=20) über die Dustprotection
 48. Dom [retweetet](https://twitter.com/DomSchiener/status/1456926603745890313?s=20) den [Tweet von Karuma](https://twitter.com/karuma303/status/1456913134736773125?s=20)
-49. IOTA weekly [Wochenrückblick](https://www.iota-talk.com/index.php?article/135-week-in-review-from-1th-to-6nd-november-2021/) 
+49. Dan Simmerman Interview [im Tweet mit Video](https://twitter.com/BennyTW87/status/1456927472679886849?s=20) bei 5:41:00
