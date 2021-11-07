@@ -48,3 +48,4 @@
 46. Die [IF stellt ein](https://twitter.com/iota/status/1456939558004797440?s=20): [UX Designer Stellenbeschreibung](https://iota.bamboohr.com/jobs/view.php?id=179&source=aWQ9NA%3D%3D)
 47. Navin Ramachandran mit interessanten [Tweetstorm](https://twitter.com/navinram999/status/1456400210989568000?s=20) über die Dustprotection
 48. Dom [retweetet](https://twitter.com/DomSchiener/status/1456926603745890313?s=20) den [Tweet von Karuma](https://twitter.com/karuma303/status/1456913134736773125?s=20)
+49. IOTA weekly [Wochenrückblick](https://www.iota-talk.com/index.php?article/135-week-in-review-from-1th-to-6nd-november-2021/) 
