@@ -53,3 +53,4 @@
 51. Facebook scheint das Metavers verstanden zu haben: [Interview mit Zuckerberb](https://twitter.com/LUKACACIC/status/1456189899225374722?t=cQXt4681Ikq3R_38sIcNLQ&s=09)
 52. Neues Tutorial: [IOTA Smart Contracts Tutorials - Deploy Solidity Contracts with Hardhat](https://www.youtube.com/watch?v=zfc4ENTQkDE)
 53. Dom Schiener AMA: [AMA Tokenization Framework Specs](https://www.youtube.com/watch?v=dXgqslmgzec)
+54. IOTA DAO Learning Group: [IOTA DAO Pioneers session 1](https://www.youtube.com/watch?v=gqDWyYOgi90)
