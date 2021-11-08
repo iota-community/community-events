@@ -54,3 +54,4 @@
 52. Neues Tutorial: [IOTA Smart Contracts Tutorials - Deploy Solidity Contracts with Hardhat](https://www.youtube.com/watch?v=zfc4ENTQkDE)
 53. Dom Schiener AMA: [AMA Tokenization Framework Specs](https://www.youtube.com/watch?v=dXgqslmgzec)
 54. IOTA DAO Learning Group: [IOTA DAO Pioneers session 1](https://www.youtube.com/watch?v=gqDWyYOgi90)
+55. IOTA Link Liste von der IF veröffentlicht von [Domguinard auf Twitter](https://twitter.com/domguinard/status/1457737854017232899?s=20)
