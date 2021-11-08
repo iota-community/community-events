@@ -50,3 +50,4 @@
 48. Dom [retweetet](https://twitter.com/DomSchiener/status/1456926603745890313?s=20) den [Tweet von Karuma](https://twitter.com/karuma303/status/1456913134736773125?s=20)
 49. Dan Simmerman Interview [im Tweet mit Video](https://twitter.com/BennyTW87/status/1456927472679886849?s=20) bei 5:41:00
 50. Solana FUD oder Wahrheit? [A long series of lies, fraud & deception by SOL](https://www.reddit.com/r/CryptoCurrency/comments/qos9un/a_long_series_of_lies_fraud_deception_by_sol/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+51. Facebook scheint das Metavers verstanden zu haben: [Interview mit Zuckerberb](https://twitter.com/LUKACACIC/status/1456189899225374722?t=cQXt4681Ikq3R_38sIcNLQ&s=09)
