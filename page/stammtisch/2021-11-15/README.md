@@ -8,3 +8,4 @@
 6. IOTA DAO Pioneer: [IOTA DAO Pioneers Kick-off session 08/11/2021](https://www.youtube.com/watch?v=gqDWyYOgi90)
 7. Apple interessiert sich für Krypto... [Tim Cook says he owns cryptocurrency and he’s been ‘interested in it for a while’](https://www.cnbc.com/2021/11/09/apple-ceo-tim-cook-says-he-owns-cryptocurrency.html
 8. Videos vom Agri-D Convention Food Hack: [Agri-D Convention](https://www.youtube.com/channel/UCnNBxurOmcvcTwiFbfPAaeQ)
+9. Limo verabschiedet sich für eine Weile: [Tweet](https://twitter.com/42_paradox/status/1458169675947421696?s=20)
