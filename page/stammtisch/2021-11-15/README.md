@@ -7,3 +7,4 @@
 5. Hans [tweetet](https://twitter.com/hus_qy/status/1458007366054592513?s=20) über 3,5ms resolving time und  [nennt den neuen Consensus "passive consensus](https://twitter.com/hus_qy/status/1458007809690320898?s=20) weil man keine votes mehr austauschen muss
 6. IOTA DAO Pioneer: [IOTA DAO Pioneers Kick-off session 08/11/2021](https://www.youtube.com/watch?v=gqDWyYOgi90)
 7. Apple interessiert sich für Krypto... [Tim Cook says he owns cryptocurrency and he’s been ‘interested in it for a while’](https://www.cnbc.com/2021/11/09/apple-ceo-tim-cook-says-he-owns-cryptocurrency.html
+8. Videos vom Agri-D Convention Food Hack: [Agri-D Convention](https://www.youtube.com/channel/UCnNBxurOmcvcTwiFbfPAaeQ)
