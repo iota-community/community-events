@@ -25,3 +25,5 @@
 23. DLTTimes macht einen [Monstertweet 1/87](https://twitter.com/TheDLTimes/status/1458813290876911623?s=20) über IOTAs Vergangenheit und Zukunft
 24. Come from Beyond blamiert sich mal wieder mit seinen [Tweets](https://twitter.com/c___f___b/status/1458574767603204097?t=ZIUHCb_QW6nXjwotiusdHA&s=19)
 25. Chinas Evergrande zieht mal wieder alles runter: [China’s Evergrande officially defaulted, DMSA prepares to file bankruptcy](https://insiderpaper.com/chinas-evergrande-officially-defaulted/)
+26. deebo hat ein IOTA Hilfe Zentrum in irgendeiner 3D Welt gebaut: [Tweet](https://twitter.com/Yap_Chief/status/1458583644688330762?s=20) und Antonio hat ihn im Metavers besucht: [Tweet](https://twitter.com/antonionardella/status/1458756360082972672?s=20)
+27. Bei [munkiilabs](https://twitter.com/munkiilab) sind bald die NFT Affen los...
