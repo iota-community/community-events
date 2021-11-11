@@ -6,7 +6,7 @@
 4. Sehr zu empfehlen: [AMA Tokenization Framework Specs | IOTA Talks with Dominik Schiener - 08.11.2021](https://www.youtube.com/watch?v=dXgqslmgzec&feature=youtu.be)
 5. Hans [tweetet](https://twitter.com/hus_qy/status/1458007366054592513?s=20) über 3,5ms resolving time und  [nennt den neuen Consensus "passive consensus](https://twitter.com/hus_qy/status/1458007809690320898?s=20) weil man keine votes mehr austauschen muss
 6. IOTA DAO Pioneer: [IOTA DAO Pioneers Kick-off session 08/11/2021](https://www.youtube.com/watch?v=gqDWyYOgi90)
-7. Apple interessiert sich für Krypto... [Tim Cook says he owns cryptocurrency and he’s been ‘interested in it for a while’](https://www.cnbc.com/2021/11/09/apple-ceo-tim-cook-says-he-owns-cryptocurrency.html
+7. Apple interessiert sich für Krypto... [Tim Cook says he owns cryptocurrency and he’s been ‘interested in it for a while’](https://www.cnbc.com/2021/11/09/apple-ceo-tim-cook-says-he-owns-cryptocurrency.html)
 8. Videos vom Agri-D Convention Food Hack: [Agri-D Convention](https://www.youtube.com/channel/UCnNBxurOmcvcTwiFbfPAaeQ)
 9. Limo verabschiedet sich für eine Weile: [Tweet 1](https://twitter.com/42_paradox/status/1458169675947421696?s=20); [Tweet 2](https://twitter.com/42_paradox/status/1458517005334683651?s=20)
 10. Tanglepay [Webseite](https://tanglepay.com/): [Tweet awailable soon](https://twitter.com/tanglepaycom/status/1458263667418406915?s=20); [Tweet 2 - AMA soon](https://twitter.com/tanglepaycom/status/1458277791703568384?s=20); 
@@ -14,7 +14,7 @@
 12. IOTABots: [Next NFT Drop so0on tweet](https://twitter.com/iotabots/status/1458030553098293250?s=20=) ... [ging erst nicht gescheit](https://twitter.com/iotabots/status/1458452749822144515?s=20) und dann [rasend schnell alle weg](https://twitter.com/iotabots/status/1458460737874059266?s=20)... Selbst die IF hat mitgemacht: [Tweet 1](https://twitter.com/HolgerKoether/status/1458470248819142661?s=20), [Tweet 2](https://twitter.com/c_varley/status/1458459444786999300?s=20)
 13. "The Fans Together" baut eine DAO auf IOTA: [Tweet](https://twitter.com/TheFansTogether/status/1458133739146461188?s=20)
 14. Am Freitag ist/war [IOTA Stammtisch in München](https://www.meetup.com/de-DE/IOTA-Muc/events/hfcdpsyccpbhb/)
-15. Neuer Artikel mit IOTA inside: [The Emerging Layer of Trust in the Metaverse](https://smallwoventhreads.medium.com/the-emerging-layer-of-trust-in-the-metaverse-7982dfb080fd)
+15. Neuer Artikel mit IOTA inside: [The Emerging Layer of Trust in the Metaverse](https://smallwoventhreads.medium.com/the-emerging-layer-of-trust-in-the-metaverse-7982dfb080fd) zu dem auch [Hans Moog etwas zu sagen hat](https://twitter.com/hus_qy/status/1458726533607182339?s=20) -> "Instead of trying to build a "world computer", IOTA builds a "universe" in which you can run multiple "world computers" in parallel ..." Und Dom Schiener gefällt der Artikel auch: [Tweet](https://twitter.com/DomSchiener/status/1458736617544421377?s=20)
 16. Die [IF tweetet](https://twitter.com/iota/status/1458424859441172486?s=20) über das neue Smart Contracts Whitepaper: [IOTA Smart Contracts - Evaldas Drąsutis](https://files.iota.org/papers/ISC_WP_Nov_10_2021.pdf)
 17. Hans Moog hat ein blaues Auge: [Tweet](https://twitter.com/hus_qy/status/1458421924598538242?s=20); Beim Aufwachen aus dem KnockOut hat er noch schnell eine neue Idee aufgeschrieben: [Tweet](https://twitter.com/hus_qy/status/1458424724489482240?s=20)
 18. IOTA jetzt auf NOWPayments: [Tweet](https://twitter.com/NOWPayments_io/status/1458550893176135680?s=20)
