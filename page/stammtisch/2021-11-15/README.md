@@ -8,13 +8,16 @@
 6. IOTA DAO Pioneer: [IOTA DAO Pioneers Kick-off session 08/11/2021](https://www.youtube.com/watch?v=gqDWyYOgi90)
 7. Apple interessiert sich für Krypto... [Tim Cook says he owns cryptocurrency and he’s been ‘interested in it for a while’](https://www.cnbc.com/2021/11/09/apple-ceo-tim-cook-says-he-owns-cryptocurrency.html
 8. Videos vom Agri-D Convention Food Hack: [Agri-D Convention](https://www.youtube.com/channel/UCnNBxurOmcvcTwiFbfPAaeQ)
-9. Limo verabschiedet sich für eine Weile: [Tweet](https://twitter.com/42_paradox/status/1458169675947421696?s=20)
+9. Limo verabschiedet sich für eine Weile: [Tweet 1](https://twitter.com/42_paradox/status/1458169675947421696?s=20); [Tweet 2](https://twitter.com/42_paradox/status/1458517005334683651?s=20)
 10. Tanglepay [Webseite](https://tanglepay.com/): [Tweet awailable soon](https://twitter.com/tanglepaycom/status/1458263667418406915?s=20); [Tweet 2 - AMA soon](https://twitter.com/tanglepaycom/status/1458277791703568384?s=20); 
 11. [IOTAWeekly 017: Interessiert an #IOTA? Warum JEDER aufhorchen sollte (Alles was man wissen muss)](https://www.youtube.com/watch?v=LvR_7sQLOgs)
-12. IOTABots: [Next NFT Drop so0on tweet](https://twitter.com/iotabots/status/1458030553098293250?s=20=) ... ging erst nicht und dann rasend schnell alle weg...
-13. The Fans Together DAO baut auf IOTA: [Tweet](https://twitter.com/TheFansTogether/status/1458133739146461188?s=20)
+12. IOTABots: [Next NFT Drop so0on tweet](https://twitter.com/iotabots/status/1458030553098293250?s=20=) ... [ging erst nicht gescheit](https://twitter.com/iotabots/status/1458452749822144515?s=20) und dann [rasend schnell alle weg](https://twitter.com/iotabots/status/1458460737874059266?s=20)... Selbst die IF hat mitgemacht: [Tweet 1](https://twitter.com/HolgerKoether/status/1458470248819142661?s=20), [Tweet 2](https://twitter.com/c_varley/status/1458459444786999300?s=20)
+13. "The Fans Together" baut eine DAO auf IOTA: [Tweet](https://twitter.com/TheFansTogether/status/1458133739146461188?s=20)
 14. Am Freitag ist/war [IOTA Stammtisch in München](https://www.meetup.com/de-DE/IOTA-Muc/events/hfcdpsyccpbhb/)
 15. Neuer Artikel mit IOTA inside: [The Emerging Layer of Trust in the Metaverse](https://smallwoventhreads.medium.com/the-emerging-layer-of-trust-in-the-metaverse-7982dfb080fd)
 16. Die [IF tweetet](https://twitter.com/iota/status/1458424859441172486?s=20) über das neue Smart Contracts Whitepaper: [IOTA Smart Contracts - Evaldas Drąsutis](https://files.iota.org/papers/ISC_WP_Nov_10_2021.pdf)
-17. Hans Moog hat ein blaues Auge: [Tweet](https://twitter.com/hus_qy/status/1458421924598538242?s=20)
-18. 
+17. Hans Moog hat ein blaues Auge: [Tweet](https://twitter.com/hus_qy/status/1458421924598538242?s=20); Beim Aufwachen aus dem KnockOut hat er noch schnell eine neue Idee aufgeschrieben: [Tweet](https://twitter.com/hus_qy/status/1458424724489482240?s=20)
+18. IOTA jetzt auf NOWPayments: [Tweet](https://twitter.com/NOWPayments_io/status/1458550893176135680?s=20)
+19. Der Bug wurde scheinbar gefunden von dem Hans letzte Woche erzählt hat: [Tweet](https://twitter.com/Vrom14286662/status/1458488796425695233?s=20)
+20. Auf [Tanglebay.com/icns/](https://tanglebay.com/icns/) kann man sich eine IOTA Node mieten 
+21. WernerderChamp hat einen Artikel über die Dust Protection geschrieben: [Dust protection on the IOTA Network — an ELI12](https://medium.com/@wernerderchamp/dust-protection-on-the-iota-network-an-eli12-d8ca567a2d36)
