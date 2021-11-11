@@ -21,3 +21,4 @@
 19. Der Bug wurde scheinbar gefunden von dem Hans letzte Woche erzählt hat: [Tweet](https://twitter.com/Vrom14286662/status/1458488796425695233?s=20)
 20. Auf [Tanglebay.com/icns/](https://tanglebay.com/icns/) kann man sich eine IOTA Node mieten 
 21. WernerderChamp hat einen Artikel über die Dust Protection geschrieben: [Dust protection on the IOTA Network — an ELI12](https://medium.com/@wernerderchamp/dust-protection-on-the-iota-network-an-eli12-d8ca567a2d36)
+22. [IOTA Standardization Update November 2021](https://blog.iota.org/iota-standardization-update-november-2021/)
