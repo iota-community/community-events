@@ -21,9 +21,12 @@
 19. Der Bug wurde scheinbar gefunden von dem Hans letzte Woche erzählt hat: [Tweet](https://twitter.com/Vrom14286662/status/1458488796425695233?s=20)
 20. Auf [Tanglebay.com/icns/](https://tanglebay.com/icns/) kann man sich eine IOTA Node mieten 
 21. WernerderChamp hat einen Artikel über die Dust Protection geschrieben: [Dust protection on the IOTA Network — an ELI12](https://medium.com/@wernerderchamp/dust-protection-on-the-iota-network-an-eli12-d8ca567a2d36)
-22. [IOTA Standardization Update November 2021](https://blog.iota.org/iota-standardization-update-november-2021/)
+22. [IOTA Standardization Update November 2021](https://blog.iota.org/iota-standardization-update-november-2021/); [Mike Bennett](https://twitter.com/MikeHypercube/status/1458832722353348608?s=20) hat das geschrieben
 23. DLTTimes macht einen [Monstertweet 1/87](https://twitter.com/TheDLTimes/status/1458813290876911623?s=20) über IOTAs Vergangenheit und Zukunft
 24. Come from Beyond blamiert sich mal wieder mit seinen [Tweets](https://twitter.com/c___f___b/status/1458574767603204097?t=ZIUHCb_QW6nXjwotiusdHA&s=19)
 25. Chinas Evergrande zieht mal wieder alles runter: [China’s Evergrande officially defaulted, DMSA prepares to file bankruptcy](https://insiderpaper.com/chinas-evergrande-officially-defaulted/)
 26. deebo hat ein IOTA Hilfe Zentrum in irgendeiner 3D Welt gebaut: [Tweet](https://twitter.com/Yap_Chief/status/1458583644688330762?s=20) und Antonio hat ihn im Metavers besucht: [Tweet](https://twitter.com/antonionardella/status/1458756360082972672?s=20)
 27. Bei [munkiilabs](https://twitter.com/munkiilab) sind bald die NFT Affen los...
+28. GoShimmer v0.8.1 wurde [veröffentlicht](https://twitter.com/hus_qy/status/1458882709145726977) und es soll jetzt in kurzen Abständen immer neue Versionen released werden
+29. Pomp spricht auf einmal davon, dass Nakamoto Premine bei Bitcoin gemacht hat: [Tweet](https://twitter.com/APompliano/status/1458946708054892545?s=20). Ist da was dran?
+30. Die [IF tweetet](https://twitter.com/iota/status/1459114277864882177?s=20) über Defi und ihren neuen Blogpost: [Decentralized Exchanges and IOTA: A Beginner’s Guide](https://blog.iota.org/decentralized-exchanges-and-iota-a-beginners-guide/)
