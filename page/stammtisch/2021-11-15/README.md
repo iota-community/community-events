@@ -30,3 +30,4 @@
 28. GoShimmer v0.8.1 wurde [veröffentlicht](https://twitter.com/hus_qy/status/1458882709145726977) und es soll jetzt in kurzen Abständen immer neue Versionen released werden
 29. Pomp spricht auf einmal davon, dass Nakamoto Premine bei Bitcoin gemacht hat: [Tweet](https://twitter.com/APompliano/status/1458946708054892545?s=20). Ist da was dran?
 30. Die [IF tweetet](https://twitter.com/iota/status/1459114277864882177?s=20) über Defi und ihren neuen Blogpost: [Decentralized Exchanges and IOTA: A Beginner’s Guide](https://blog.iota.org/decentralized-exchanges-and-iota-a-beginners-guide/)
+31. Die [IF mit einem Staking-Soon-Tweet](https://twitter.com/iota/status/1459159239956611079?s=20)
