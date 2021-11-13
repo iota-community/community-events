@@ -15,7 +15,7 @@
 13. "The Fans Together" baut eine DAO auf IOTA: [Tweet](https://twitter.com/TheFansTogether/status/1458133739146461188?s=20); Es gibt auch ein Airdrop: [Tweet](https://twitter.com/TheFansTogether/status/1458763530669379588?t=feIlGXgMqTnx_EurePOlBQ&s=19); [Whitepaper soon](https://twitter.com/TheFansTogether/status/1459139755019542528?s=20)
 14. Am Freitag ist/war [IOTA Stammtisch in München](https://www.meetup.com/de-DE/IOTA-Muc/events/hfcdpsyccpbhb/); [Tweet mit Bildern](https://twitter.com/IotaMunchen/status/1459291103350374414?s=20)
 15. Neuer Artikel mit IOTA inside: [The Emerging Layer of Trust in the Metaverse](https://smallwoventhreads.medium.com/the-emerging-layer-of-trust-in-the-metaverse-7982dfb080fd) zu dem auch [Hans Moog etwas zu sagen hat](https://twitter.com/hus_qy/status/1458726533607182339?s=20) -> "Instead of trying to build a "world computer", IOTA builds a "universe" in which you can run multiple "world computers" in parallel ..." Und Dom Schiener gefällt der Artikel auch: [Tweet](https://twitter.com/DomSchiener/status/1458736617544421377?s=20)
-16. Die [IF tweetet](https://twitter.com/iota/status/1458424859441172486?s=20) über das neue Smart Contracts Whitepaper: [IOTA Smart Contracts - Evaldas Drąsutis](https://files.iota.org/papers/ISC_WP_Nov_10_2021.pdf)
+16. Die [IF tweetet](https://twitter.com/iota/status/1458424859441172486?s=20) über das neue Smart Contracts Whitepaper: [IOTA Smart Contracts - Evaldas Drąsutis](https://files.iota.org/papers/ISC_WP_Nov_10_2021.pdf); Hier in diesem [Tweet](https://twitter.com/bohl_oliver/status/1459545447836565505?s=20) auf deutsch
 17. Hans Moog hat ein blaues Auge: [Tweet](https://twitter.com/hus_qy/status/1458421924598538242?s=20); Beim Aufwachen aus dem KnockOut hat er noch schnell eine neue Idee aufgeschrieben: [Tweet](https://twitter.com/hus_qy/status/1458424724489482240?s=20); [Adamsky will das benutzen](https://twitter.com/c4rt0gr4ph3r/status/1458756138137268224?s=20)
 18. IOTA jetzt auf NOWPayments: [Tweet](https://twitter.com/NOWPayments_io/status/1458550893176135680?s=20)
 19. Der Bug wurde scheinbar gefunden von dem Hans letzte Woche erzählt hat: [Tweet](https://twitter.com/Vrom14286662/status/1458488796425695233?s=20)
@@ -38,4 +38,5 @@
 36. [IOTA Americas Group Nov.11th 2021](https://www.youtube.com/watch?v=4EN-oOCwPm4)
 37. [DAO Pioneer Meetup](https://www.youtube.com/watch?v=0WQ7Aj52DVE)
 38. Dom mit mit [Hype Tweet](https://twitter.com/DomSchiener/status/1459504251290492930?s=20) "Much much more than just standardization"
-39. 
+39. Bei Bitcoin wird Taproot aktiviert: [TAPROOT ACTIVATION IS UPON US](https://bitcoinmagazine.com/technical/why-bitcoin-taproot-activation-is-exciting)
+40. TVstedal macht auf SoonLabs aufmerksam... [Tweet](https://twitter.com/TVstedal/status/1459545401091100676?s=20)
