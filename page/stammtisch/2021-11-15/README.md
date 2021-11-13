@@ -37,3 +37,5 @@
 35. Zum Thema IOTA und Staking wird wild spekuliert: [Linus Nauman](https://twitter.com/LinusNaumann/status/1459275959002095625?s=20)
 36. [IOTA Americas Group Nov.11th 2021](https://www.youtube.com/watch?v=4EN-oOCwPm4)
 37. [DAO Pioneer Meetup](https://www.youtube.com/watch?v=0WQ7Aj52DVE)
+38. Dom mit mit [Hype Tweet](https://twitter.com/DomSchiener/status/1459504251290492930?s=20) "Much much more than just standardization"
+39. 
