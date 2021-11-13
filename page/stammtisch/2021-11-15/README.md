@@ -33,5 +33,7 @@
 31. Die [IF mit einem Staking-Soon-Tweet](https://twitter.com/iota/status/1459159239956611079?s=20)
 32. Am Samstag war das SFSCon Event mit IOTA inide: [Tweet 1](https://twitter.com/kranirudha/status/1457266022898036738?s=20); [Tweet 2](https://twitter.com/SFScon/status/1459204349196791810?s=20); [Tweet](https://twitter.com/iota/status/1455807122894204928?s=20)
 33. SFCon [IOTA Track auf Youtube](https://www.youtube.com/watch?v=k599nUInKsE); Und hier die [Präsentation Slides](https://t.co/0tASNtc6bI?amp=1) von Kumar Anirudha
-34. Prof Buchanan [freut sich](https://twitter.com/billatnapier/status/1459292926870175749?s=20) darüber, dass IOTA weiter an der Verifiable Delay Funktion forscht
-35. 
+34. Prof Buchanan [freut sich](https://twitter.com/billatnapier/status/1459292926870175749?s=20) darüber, dass IOTA weiter an der [Verifiable Delay Funktion] forscht. Er hat da einen Artikel geschrieben: [how-can-i-get-you-to-do-a-difficult-piece-of-maths](https://medium.com/asecuritysite-when-bob-met-alice/how-can-i-get-you-to-do-a-difficult-piece-of-maths-432173470269)
+35. Zum Thema IOTA und Staking wird wild spekuliert: [Linus Nauman](https://twitter.com/LinusNaumann/status/1459275959002095625?s=20)
+36. [IOTA Americas Group Nov.11th 2021](https://www.youtube.com/watch?v=4EN-oOCwPm4)
+37. [DAO Pioneer Meetup](https://www.youtube.com/watch?v=0WQ7Aj52DVE)
