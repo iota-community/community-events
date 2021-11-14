@@ -45,3 +45,5 @@
 43. IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/136-wochenr%C3%BCckblick-7-bis-13-november-2021/) 
 44. Da hat jemand eine Smart Contracts Agency gegründet: [Tweet](https://twitter.com/bobajunior91/status/1459921897819447296?s=20)
 45. Chris Müller shared ein witziges [Meme-Video auf Twitter](https://twitter.com/ChrisMuellerHI/status/1459919933647765513?s=20)
+46. Kappy mit [Tweet über MEV und Flash Loans](https://twitter.com/Rob_Daykin/status/1459943052013940747?s=20) und welche Vorteile IOTA mit sich bringt
+47. 
