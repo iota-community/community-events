@@ -40,3 +40,5 @@
 38. Dom mit mit [Hype Tweet](https://twitter.com/DomSchiener/status/1459504251290492930?s=20) "Much much more than just standardization"
 39. Bei Bitcoin wird Taproot aktiviert: [TAPROOT ACTIVATION IS UPON US](https://bitcoinmagazine.com/technical/why-bitcoin-taproot-activation-is-exciting)
 40. TVstedal macht auf SoonLabs aufmerksam... [Tweet](https://twitter.com/TVstedal/status/1459545401091100676?s=20)
+41. Neuer [Tweet](https://twitter.com/iotamorons/status/1459899105199673351?s=20) von den IOTAMoron Tradingcards
+42. Dom Schiener denkt über die beste Möglichkeit eines NFT Airdrops nach auf [Twitter](https://twitter.com/DomSchiener/status/1459852415973400581?s=20)
