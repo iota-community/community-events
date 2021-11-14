@@ -43,3 +43,5 @@
 41. Neuer [Tweet](https://twitter.com/iotamorons/status/1459899105199673351?s=20) von den IOTAMoron Tradingcards
 42. Dom Schiener denkt über die beste Möglichkeit eines NFT Airdrops nach auf [Twitter](https://twitter.com/DomSchiener/status/1459852415973400581?s=20)
 43. IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/136-wochenr%C3%BCckblick-7-bis-13-november-2021/) 
+44. Da hat jemand eine Smart Contracts Agency gegründet: [Tweet](https://twitter.com/bobajunior91/status/1459921897819447296?s=20)
+45. Chris Müller shared ein witziges [Meme-Video auf Twitter](https://twitter.com/ChrisMuellerHI/status/1459919933647765513?s=20)
