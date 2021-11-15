@@ -52,3 +52,4 @@
 50. Neuer Artikel: [IOTA and Stellar – Among the Less Harmful Coins to the Environment: Research](https://www.cryptomak.co.uk/iota-and-stellar-among-the-less-harmful-coins-to-the-environment-research/?utm_source=dlvr.it&utm_medium=twitter&utm_campaign=iota-and-stellar-among-the-less-harmful-coins-to-the-environment-research)
 51. Neuer Artikel von Linus Nauman: [A vision of IOTA´s future ecosystem — The DAO-landscape](https://medium.com/@linus.naumann/a-vision-of-iota-s-future-ecosystem-the-dao-landscape-b93688d8acee)
 52. Michele Nati war heute beim Future Identity Festival als Speaker: [Tweet](https://twitter.com/michelenati/status/1460212799930572809?s=20)
+53. Joseph George schreibt über [Robo payments - The rise of M2M Autonomous payment](https://www.linkedin.com/pulse/robo-payments-rise-m2m-autonomous-payment-joseph-george) mit IOTA inside...
