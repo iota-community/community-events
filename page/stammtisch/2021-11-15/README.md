@@ -1,9 +1,9 @@
 ## Stammtischthemen für Montag den 15.11.2021
 
 1. IOTA Quicktakes [auf englisch](https://www.youtube.com/watch?v=14ZN4O8gloA)
-2. Dom Schiener AMA: [AMA Tokenization Framework Specs](https://www.youtube.com/watch?v=dXgqslmgzec)
-3. Die Woche startet mit ein bisschen Hopium fürs Volk: [Hans Moog Tweetstorm](https://twitter.com/hus_qy/status/1457776545389441029?s=20) mit Sätzen wie"OTA has the goal to create the most efficient and secure DLT that you could possibly ever build ";  " the biggest thing happening in crypto right now ". Und hier noch ein wichtiger [Hans Moog Tweet](https://twitter.com/hus_qy/status/1457811079707471879?s=20): "We just delivered the fastests and most efficient consensus in the world."
-4. Sehr zu empfehlen: [AMA Tokenization Framework Specs | IOTA Talks with Dominik Schiener - 08.11.2021](https://www.youtube.com/watch?v=dXgqslmgzec&feature=youtu.be)
+2. DLT.green weist nochmal darauf hin, dass er Https domains (https://xxx.dlt.green) verschenkt für Leute die eine Node aufsetzen wollen. [Tweet](https://twitter.com/dlt_green/status/1459457698672562176?s=20); vrom hat das auch gemacht: [Tweet](https://twitter.com/Vrom14286662/status/1458899296791801857?s=20); sieht dann so aus: [https://vrom.dlt.green/visualizer](https://vrom.dlt.green/visualizer)
+3. Die Woche startet mit ein bisschen Hopium fürs Volk: [Hans Moog Tweetstorm](https://twitter.com/hus_qy/status/1457776545389441029?s=20) mit Sätzen wie "IOTA has the goal to create the most efficient and secure DLT that you could possibly ever build ";  " the biggest thing happening in crypto right now ". Und hier noch ein wichtiger [Hans Moog Tweet](https://twitter.com/hus_qy/status/1457811079707471879?s=20): "We just delivered the fastests and most efficient consensus in the world."
+4. Sehr zu empfehlen: [AMA Tokenization Framework Specs | IOTA Talks with Dominik Schiener - 08.11.2021](https://www.youtube.com/watch?v=dXgqslmgzec&feature=youtu.be) (AMA mit Dom Schiener und Levente Pap von der IF)
 5. Hans [tweetet](https://twitter.com/hus_qy/status/1458007366054592513?s=20) über 3,5ms resolving time und  [nennt den neuen Consensus "passive consensus](https://twitter.com/hus_qy/status/1458007809690320898?s=20) weil man keine votes mehr austauschen muss
 6. IOTA DAO Pioneer: [IOTA DAO Pioneers Kick-off session 08/11/2021](https://www.youtube.com/watch?v=gqDWyYOgi90)
 7. Apple interessiert sich für Krypto... [Tim Cook says he owns cryptocurrency and he’s been ‘interested in it for a while’](https://www.cnbc.com/2021/11/09/apple-ceo-tim-cook-says-he-owns-cryptocurrency.html)
@@ -39,11 +39,14 @@
 37. [DAO Pioneer Meetup](https://www.youtube.com/watch?v=0WQ7Aj52DVE)
 38. Dom mit mit [Hype Tweet](https://twitter.com/DomSchiener/status/1459504251290492930?s=20) "Much much more than just standardization"
 39. Bei Bitcoin wird Taproot aktiviert: [TAPROOT ACTIVATION IS UPON US](https://bitcoinmagazine.com/technical/why-bitcoin-taproot-activation-is-exciting)
-40. TVstedal macht auf SoonLabs aufmerksam... [Tweet](https://twitter.com/TVstedal/status/1459545401091100676?s=20)
+40. TVstedal macht auf SoonLabs aufmerksam... [Tweet](https://twitter.com/TVstedal/status/1459545401091100676?s=20); SoonLabs release das erste von drei Modulen mit [diesem Tweet](https://twitter.com/soon_labs/status/1459966653131755520?s=20; Und ein [Hype Tweet](https://twitter.com/DaveRL6/status/1459979284634750981?s=20) von Dave für die anderen beiden Modulen
 41. Neuer [Tweet](https://twitter.com/iotamorons/status/1459899105199673351?s=20) von den IOTAMoron Tradingcards
 42. Dom Schiener denkt über die beste Möglichkeit eines NFT Airdrops nach auf [Twitter](https://twitter.com/DomSchiener/status/1459852415973400581?s=20)
 43. IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/136-wochenr%C3%BCckblick-7-bis-13-november-2021/) 
 44. Da hat jemand eine Smart Contracts Agency gegründet: [Tweet](https://twitter.com/bobajunior91/status/1459921897819447296?s=20)
-45. Chris Müller shared ein witziges [Meme-Video auf Twitter](https://twitter.com/ChrisMuellerHI/status/1459919933647765513?s=20)
+45. Chris Müller shared ein witziges Meme-Video auf Twitter: [Teil 1](https://twitter.com/ChrisMuellerHI/status/1459919933647765513?s=20); [Teil 2](https://twitter.com/ChrisMuellerHI/status/1459919968942927877?s=20)
 46. Kappy mit [Tweet über MEV und Flash Loans](https://twitter.com/Rob_Daykin/status/1459943052013940747?s=20) und welche Vorteile IOTA mit sich bringt
-47. 
+47. Navin Ramachandra hat beim Blingathon von Blockchancenter Drenthe [ein Interview](https://youtu.be/03m__dFMULc?t=26678) gegeben. Mehr Infos under [More info on: https://blingathon.eu/](https://blingathon.eu/)
+48. Tokenized Wiki meldet sich bei [Twitter](https://twitter.com/tokenizedkiwi/status/1459898673182224388?s=20) mit "Hello World! Amerika auf dem GlobusKiwi #IOTA"; Hier deren Webseite: [https://tokenized.kiwi/](https://tokenized.kiwi/); Die haben wohl das IOTAMorons Projekt mit den physikalischen Moron Karten gestemmt: [Tweet](https://twitter.com/tokenizedkiwi/status/1459899225408512012?s=20)
+49. Bennnni mit einem [Tweet](https://twitter.com/CryptoTruthsee1/status/1459856924380442628?s=20) über [Amit Kumar der auf LInked Inn](https://www.linkedin.com/posts/amit-kumar-5828a623_blockchain-internetofthings-sharedeconomy-ugcPost-6864782069747220480-gArR) den Artikel [Blockchain, Internet of Things and Shared Economy](https://www.linkedin.com/pulse/blockchain-internet-things-shared-economy-amit-kumar?trk=public_post-content_share-article) verlinkt
+50. 
