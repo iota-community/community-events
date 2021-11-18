@@ -16,4 +16,7 @@
 14. Neue Video Tutorial: [IOTA Smart Contracts Tutorial - Creating Smart Contracts using AssemblyScript](https://www.youtube.com/watch?v=P5HMgmY3DMM&feature=youtu.be)
 15. Shimmer sucht ein Symbol für die Währung: [Tweet](https://twitter.com/shimmernet/status/1460895526497488903?s=20)
 16. Charley Varley hat erklärt wie das Staking in Firefly aussehen wird: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1460904778632941571?s=20)
-17. 
+17. Neuer [Hype Tweet "more to come"](https://twitter.com/DomSchiener/status/1461124104833093633?s=20) von auch von [Mat Yarger](https://twitter.com/Mat_Yarger/status/1456348888097558528?s=20): "There are so many dots that are yet to be connected too"
+18. Daniel De Michele [tweetet](https://twitter.com/carpclash/status/1460978455378645003?s=20) über ihr "The IOTA Request for Comments #1 is our approach to an ERC721-like standard built completely with wasm to mint and transfer non-fungible tokens at #IOTA L2. e will open-source all the code soon"
+19. ENSURESEC (ein Horizon 2020 Projekt der EU), das digitales Handeln in Europa mit Hilfe von IOTA sicherer machen will, hat einen wichtigen Meilenstein erreicht: [Tweet](https://twitter.com/ensuresec_eu/status/1460993675404750856?s=20) "We finished the delivery of the tools for our @ENSURESEC platform"
+20. 
