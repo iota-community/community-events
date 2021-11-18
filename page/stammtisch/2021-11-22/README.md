@@ -19,4 +19,8 @@
 17. Neuer [Hype Tweet "more to come"](https://twitter.com/DomSchiener/status/1461124104833093633?s=20) von auch von [Mat Yarger](https://twitter.com/Mat_Yarger/status/1456348888097558528?s=20): "There are so many dots that are yet to be connected too"
 18. Daniel De Michele [tweetet](https://twitter.com/carpclash/status/1460978455378645003?s=20) über ihr "The IOTA Request for Comments #1 is our approach to an ERC721-like standard built completely with wasm to mint and transfer non-fungible tokens at #IOTA L2. e will open-source all the code soon"
 19. ENSURESEC (ein Horizon 2020 Projekt der EU), das digitales Handeln in Europa mit Hilfe von IOTA sicherer machen will, hat einen wichtigen Meilenstein erreicht: [Tweet](https://twitter.com/ensuresec_eu/status/1460993675404750856?s=20) "We finished the delivery of the tools for our @ENSURESEC platform"
-20. 
+20. IOTA DAO [Governement Meeting](https://www.youtube.com/watch?v=Jv2Z7whQJOE) war am Donnerstag
+21. Diese Woche will ein Steuerberater im Stammtisch Fragen beantworten im IOTA Stammtisch. Zumindest laut einem Telegram User aus der IOTA Dach Gruppe
+22. Michele Nati hat wohl eine Art Schulung gegeben für NEXSOFT S.p.A.: [Tweet](https://twitter.com/michelenati/status/1461337262206115850?s=20)
+23. IOTA Node in 10min erstellt auf [CloudJiffy](https://cloudjiffy.com/). [Tweet](https://twitter.com/IotaSonic/status/1460560597700026371?s=20)
+24. 
