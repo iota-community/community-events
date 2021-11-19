@@ -33,3 +33,4 @@
 31. Ein Video von den IOTAMorons NFT-Karten wurde veröffentlich mit [diesem Tweet](https://twitter.com/iotamorons/status/1461348759019798528?s=20)
 32. Das Staples Center in Los Angeles wird für $700 Millionen zur Crypto.com Arena... [The Crypto Company Behind the Renaming of the Los Angeles Staples Center](https://www.nytimes.com/2021/11/18/technology/crypto-staples-center-la.html)
 33. Holger Köther will Binance überreden, die Binance Chain auf das IOTA 2.0 DevNet zu bringen: [Tweet](https://twitter.com/HolgerKoether/status/1461427945894035464?s=20)
+34. Viele Börsen hatten Auszahlungen gestoppt als IOTA +20% an einen Tag gemacht hat. Jetzt gibt es dazu eine Stellungnahme von Bitpanda: [Tweet 1/5](https://twitter.com/bitpanda/status/1461676155078127619?s=20)
