@@ -35,3 +35,4 @@
 33. Holger Köther will Binance überreden, die Binance Chain auf das IOTA 2.0 DevNet zu bringen: [Tweet](https://twitter.com/HolgerKoether/status/1461427945894035464?s=20)
 34. Viele Börsen hatten Auszahlungen gestoppt als IOTA +20% an einen Tag gemacht hat. Jetzt gibt es dazu eine Stellungnahme von Bitpanda: [Tweet 1/5](https://twitter.com/bitpanda/status/1461676155078127619?s=20)
 35. [IOTAWeekly 018: IOTA staking - price up?](https://www.youtube.com/watch?v=q5CIMXh2UuU); [IOTAWeekly 018: IOTA staking - Preis hoch?](https://www.youtube.com/watch?v=sx2yaI5fzfk)
+36. Dan Simerman (Shillerman) mal wieder mit einem kryptischen [Hype Tweet](https://twitter.com/DanSimerman/status/1461962259241000964?s=20); drunter antwortet er zu "Bigger than coinbas?" mit "Yes"
