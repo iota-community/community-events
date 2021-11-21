@@ -36,3 +36,9 @@
 34. Viele Börsen hatten Auszahlungen gestoppt als IOTA +20% an einen Tag gemacht hat. Jetzt gibt es dazu eine Stellungnahme von Bitpanda: [Tweet 1/5](https://twitter.com/bitpanda/status/1461676155078127619?s=20)
 35. [IOTAWeekly 018: IOTA staking - price up?](https://www.youtube.com/watch?v=q5CIMXh2UuU); [IOTAWeekly 018: IOTA staking - Preis hoch?](https://www.youtube.com/watch?v=sx2yaI5fzfk)
 36. Dan Simerman (Shillerman) mal wieder mit einem kryptischen [Hype Tweet](https://twitter.com/DanSimerman/status/1461962259241000964?s=20); drunter antwortet er zu "Bigger than coinbas?" mit "Yes"
+37. TangleSwap [twittert](https://twitter.com/TangleSwapE/status/1462179282910801924?s=20) über ihren ersten Medium Artikel: [Introducing the $VOID ⚫
+An exclusive TangleSwap utility token](https://tangleswap.medium.com/introducing-the-void-45f7b44bbba0) 
+38. Die "Blockchain skills for Europe" Initiative veröffentlicht eine [zwei seitigen Übersicht zu Chaise] (https://chaise-blockchainskills.eu/wp-content/uploads/2021/09/DE_Brochure_German-2021.pdf)
+39. Holger Köther [tweetet](https://twitter.com/holgerkoether/status/1461355568614940681?s=21), dass die [IOTA DevNet Visualisierung](https://v2.iota.org/visualizer) wieder zu sehen ist
+40. Die [IF tweetet](https://twitter.com/iota/status/1461366478217695240?s=20) über einen Artikel von PC & Mobile: [How to Research a Cryptocurrency Before Investing](https://www.makeuseof.com/how-research-cryptocurrency/)
+41. El Salvador will eine Bitcoin City bauen; CoinDesk Artikel: [El Salvador to Create ‘Bitcoin City,’ Use $500M of Planned $1B Bond Offering to Buy More Crypto](https://www.coindesk.com/business/2021/11/21/el-salvador-to-create-bitcoin-city-use-500m-of-planned-1b-bond-offering-to-buy-more-crypto/)
