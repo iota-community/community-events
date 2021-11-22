@@ -35,7 +35,7 @@
 33. Holger Köther will Binance überreden, die Binance Chain auf das IOTA 2.0 DevNet zu bringen: [Tweet](https://twitter.com/HolgerKoether/status/1461427945894035464?s=20)
 34. Viele Börsen hatten Auszahlungen gestoppt als IOTA +20% an einen Tag gemacht hat. Jetzt gibt es dazu eine Stellungnahme von Bitpanda: [Tweet 1/5](https://twitter.com/bitpanda/status/1461676155078127619?s=20)
 35. Chris Müller: [IOTAWeekly 018: IOTA staking - price up?](https://www.youtube.com/watch?v=q5CIMXh2UuU); [IOTAWeekly 018: IOTA staking - Preis hoch?](https://www.youtube.com/watch?v=sx2yaI5fzfk)
-36. Dan Simerman (Shillerman) mal wieder mit einem kryptischen [Hype Tweet](https://twitter.com/DanSimerman/status/1461962259241000964?s=20); drunter antwortet er zu "Bigger than coinbas?" mit "Yes"
+36. Dan Simerman (Shillerman) mal wieder mit einem kryptischen [Hype Tweet](https://twitter.com/DanSimerman/status/1461962259241000964?s=20); drunter antwortet er zu "Bigger than coinbas?" mit "Yes"; Und am Montag kam noch ein [Tweet](https://twitter.com/DanSimerman/status/1462800285420691462?s=20) "Gm fam - we’re just getting started #IOTA #Shimmer @shimmernet"
 37. TangleSwap [twittert](https://twitter.com/TangleSwapE/status/1462179282910801924?s=20) über ihren ersten Medium Artikel: [Introducing the $VOID ⚫
 An exclusive TangleSwap utility token](https://tangleswap.medium.com/introducing-the-void-45f7b44bbba0) 
 38. Die "Blockchain skills for Europe-Initiative" veröffentlicht eine [zwei seitigen Übersicht zu Chaise](https://chaise-blockchainskills.eu/wp-content/uploads/2021/09/DE_Brochure_German-2021.pdf)
@@ -51,3 +51,7 @@ An exclusive TangleSwap utility token](https://tangleswap.medium.com/introducing
 48. Linus Nauman auf r/CC: [A vision of IOTA´s future ecosystem — The DAO-landscape](https://www.reddit.com/r/CryptoCurrencies/comments/qucu92/a_vision_of_iotas_future_ecosystem_the/)
 49. [IOTA Talk Wochenrueckblick](https://www.iota-talk.com/index.php?article/139-week-in-review-from-14th-to-20nd-november-2021/)
 50. IOTA FOMO: Am Montag 22.11. steigt der IOTA Kurs ordentlich 20%
+51. Panthos [tweetet](https://twitter.com/PantosIO/status/1462731791220064268?s=20) über ihr neues Research Paper [(A Voting-Based Blockchain Interoperability Oracle)](https://arxiv.org/pdf/2111.10091.pdf) mit IOTA inside
+52. IOTAshops mit [Soon-Tweet](https://twitter.com/iotashop/status/1462783611825008647?s=20) wahrscheinlich zu einem neuen Sternstunden Meetup
+53. Shimmer [tweetet](https://twitter.com/shimmernet/status/1462825664848007175?s=20) über den Blogpost: [Shimmer Genesis NFTs](https://blog.shimmer.network/shimmer-genesis-nfts/)
+54. Bitpanda promoted IOTA und Shimer mit ihrem [Tweet](https://twitter.com/BitpandaPro/status/1462723222361759744?s=20) 
