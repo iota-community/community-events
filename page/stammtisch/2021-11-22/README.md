@@ -50,3 +50,4 @@ An exclusive TangleSwap utility token](https://tangleswap.medium.com/introducing
 47. Dom hat sich zu den 8% Staking in Shimmer und unstoppable domains auf IOTA geäußert: [Tweet mit Screeenshots](https://twitter.com/Vrom14286662/status/1462303950942744580?s=20)
 48. Linus Nauman auf r/CC: [A vision of IOTA´s future ecosystem — The DAO-landscape](https://www.reddit.com/r/CryptoCurrencies/comments/qucu92/a_vision_of_iotas_future_ecosystem_the/)
 49. [IOTA Talk Wochenrueckblick](https://www.iota-talk.com/index.php?article/139-week-in-review-from-14th-to-20nd-november-2021/)
+50. IOTA FOMO: Am Montag 22.11. steigt der IOTA Kurs ordentlich 20%
