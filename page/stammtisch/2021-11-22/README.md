@@ -53,5 +53,5 @@ An exclusive TangleSwap utility token](https://tangleswap.medium.com/introducing
 50. IOTA FOMO: Am Montag 22.11. steigt der IOTA Kurs ordentlich 20%
 51. Panthos [tweetet](https://twitter.com/PantosIO/status/1462731791220064268?s=20) über ihr neues Research Paper [(A Voting-Based Blockchain Interoperability Oracle)](https://arxiv.org/pdf/2111.10091.pdf) mit IOTA inside
 52. IOTAshops mit [Soon-Tweet](https://twitter.com/iotashop/status/1462783611825008647?s=20) wahrscheinlich zu einem neuen Sternstunden Meetup
-53. Shimmer [tweetet](https://twitter.com/shimmernet/status/1462825664848007175?s=20) über den Blogpost: [Shimmer Genesis NFTs](https://blog.shimmer.network/shimmer-genesis-nfts/)
+53. Shimmer [tweetet](https://twitter.com/shimmernet/status/1462825664848007175?s=20) über den Blogpost: [Shimmer Genesis NFTs](https://blog.shimmer.network/shimmer-genesis-nfts/); Und gleich noch ein [Hype-Tweet](https://twitter.com/shimmernet/status/1462830651439210496?s=20) hinterher
 54. Bitpanda promoted IOTA und Shimer mit ihrem [Tweet](https://twitter.com/BitpandaPro/status/1462723222361759744?s=20) 
