@@ -7,3 +7,5 @@
 5. Die Shimmer NFT-T-Shirts sind bereits auf der [Webseite](https://store.shimmer.network/collections/shimmer-collection)
 6. Elon Musk legt sich mit Binance an, wegen withdraw Problemen bei Doge: [Tweet 1](https://twitter.com/elonmusk/status/1463085111600205825?s=20); [Tweet 2](https://twitter.com/elonmusk/status/1463096278171148290?s=20)
 7. Neue Webseite [Trusted Digital Identity](https://individni.net/) basiert auf IOTA
+8. Avalanche jetzt offenbar auch schon mit Transaction Fees von 20$: [Tweet](https://twitter.com/econoar/status/1462983727747788801?s=20)
+9. Neue Ideen sprießen aus dem Boden wie man Shimmer finanzieren könnte: [Suggestion for an alternative DAO/ecosystem funding.](https://github.com/iota-community/Shimmer-Governance/discussions/5#discussion-3700871); [Shimmer NFT launch - proposals to optimize the approach](https://github.com/iota-community/Shimmer-Governance/discussions/4)
