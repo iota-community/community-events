@@ -5,4 +5,4 @@
 3. David Sonstebo [meldet sich unzufrieden auf Twitter](https://twitter.com/DavidSonstebo/status/1462873954725642246?s=20) zu dem Thema
 4. MudKevin hat auf [Twitter](https://twitter.com/MudKevin/status/1463049267648495620?s=20) seine [schriftliche Zusammenfassung](https://docs.google.com/document/d/1xyjc61o6Y0s9G33BGEIJVzwiitsG8lf-CKH-jiCxTT0/edit?usp=sharing) von dem [AMA mit Dom und Hans Moog](https://www.youtube.com/watch?v=RNEPZ3_0TeE&t=1886s)
 5. Die Shimmer NFT-T-Shirts sind bereits auf der [Webseite](https://store.shimmer.network/collections/shimmer-collection)
-6. Elon Musk legt sich mit Binance an wegen withdraw Problemen bei Doge: [Tweet](https://twitter.com/elonmusk/status/1463085111600205825?s=20)
+6. Elon Musk legt sich mit Binance an, wegen withdraw Problemen bei Doge: [Tweet 1](https://twitter.com/elonmusk/status/1463085111600205825?s=20); [Tweet 2](https://twitter.com/elonmusk/status/1463096278171148290?s=20)
