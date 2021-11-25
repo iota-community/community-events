@@ -25,4 +25,5 @@
 23. Am 3.Dez ist die IF bei der Blockchain-in-Use Conference: [Tweet]https://twitter.com/ber_chain/status/1463498170588188681?s=20 ; Dort sind auch einige VIPs...
 24. Die [IF tweetet](https://twitter.com/iota/status/1463462495415320579?s=20) mit einem schönen neuen Video um die cross-chain interoperability darzustellen
 25. Michele Nati [tweetet](https://twitter.com/michelenati/status/1463875692119175170?s=20) über [IOTA Webinar by Dr. Michele Nati from IOTA Foundation](https://www.youtube.com/watch?v=6swzmcLmlms&t=4418s)
-26. Hype [Tweet](https://twitter.com/c_varley/status/1463869178432180228?s=20) von Charley Varley: "The #IOTA show is about to begin. Please take your seats."
+26. Hype [Tweet](https://twitter.com/c_varley/status/1463869178432180228?s=20) von Charley Varley: "The #IOTA show is about to begin. Please take your seats." ; Später begründet er ihn dann nochmal mit diesen [Tweets 1/4](https://twitter.com/c_varley/status/1463879818970386432?s=20)
+27. 
