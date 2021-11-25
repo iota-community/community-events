@@ -13,4 +13,4 @@
 11. Die IOTA Foundation [tweetet](https://twitter.com/iota/status/1463178701567401985?s=20) über ihren neuen Blogpost: [SECANT and IOTA - An International EU Collaboration To Support Health Organizations in the Fight Against Cyber Threats](https://blog.iota.org/secant-uses-iota-for-iot-and-data-infrastructure-in-europes-health-industry/)
 12. Die [IF tweetet](https://twitter.com/iota/status/1463160747681275907) über eine neue Smart Contract Tutorial Folge: [Untangling IOTA]()
 13. Neues Drama weil man die NFTs nicht mit IOTA bezahlen kann: [Tweet](https://twitter.com/dennisnagpal1/status/1463294447605723142?s=20)
-14. 
+14. Hans Moog vs. AVAX: [Tweet](https://twitter.com/hus_qy/status/1463480074418761736?t=KZGlxgkDaBRyZpRWu0V7JA&s=19) 
