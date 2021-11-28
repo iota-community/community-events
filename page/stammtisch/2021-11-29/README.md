@@ -46,3 +46,7 @@
 44. TanglePay macht ein AMA am Montag: [Tweet](https://twitter.com/tanglepaycom/status/1464933899314757633?s=20); Hier der [Youtube link: TanglePay AMA Nov.29th 14:00 CET](https://www.youtube.com/watch?v=aWMCLQkZZf4)
 45. [IOTA Talk Weekly Review](https://www.iota-talk.com/index.php?article/141-week-in-review-from-21th-to-27nd-november-2021/)
 46. TangleSee Story [Chapter 3: The barter is born](https://medium.com/@tangleseastory/chapter-3-the-barter-is-born-ded777bf5df6)
+47. Digidus will eine Shimmer Trade . Fee Free Trading bauen. [Tweet 1](https://twitter.com/DigidusPrime/status/1464384446828666883?s=20); [Tweet 2](https://twitter.com/DigidusPrime/status/1464620633250144259?s=20) und sucht Marketing Firma: [Tweet 3](https://twitter.com/DigidusPrime/status/1465071392601169925?s=20)
+48. Vielleicht passt dazu die [Aussage von Dom S.](https://twitter.com/iotatokennews/status/1465030593650085898?t=4NDnNQkcYhWdeTkFOa8T5g&s=09); "Bridges between Shimmer and IOTA are already being build..."
+49. Neues Interview mit Dom Schiener und türkischem Youtuber: [Which Major Developments Are Coming to IOTA? Interview with IOTA founder Dominik Schiener](https://www.youtube.com/watch?v=bNb7M3aCCC4)
+50. Noch ein Youtube Video: [IOTA verändert die Welt🗂️ Massive IOTA PARTNERSCHAFT🤝 [Krypto News]](https://www.youtube.com/watch?v=aQ89KnxHzlU)
