@@ -41,3 +41,7 @@
 39. IOTA weekly #19 [auf deutsch](https://www.youtube.com/watch?v=RSqMoEruth0); [auf englisch](https://www.youtube.com/watch?v=l5YWoUyM390)
 40. Jede Menge IOTA Moroons Karten NFTs wurden gedruckt: [Tweet](https://twitter.com/iotamorons/status/1464286532253241355?s=20)
 41. Luca spricht von einem neuen Output Type der "Trustless Swaps on Layer 1 without fees" ermöglicht: [Tweet mit Screenshot](https://twitter.com/Schmucklos_/status/1464653355213598726?s=20)
+42. Dom sucht ein neues Wort für "trustless" und "trustless bridge": [Tweet](https://twitter.com/DomSchiener/status/1464884973828202498?s=20)
+43. Es gibt eine ["List of NFT and Metaverse Projects on IOTA"](https://iotaguide.notion.site/List-of-NFT-and-Metaverse-Projects-on-IOTA-4678428b23ce436289cce45a724f80c0)
+44. TanglePay macht ein AMA am Montag: [Tweet](https://twitter.com/tanglepaycom/status/1464933899314757633?s=20); Hier der [Youtube link: TanglePay AMA Nov.29th 14:00 CET](https://www.youtube.com/watch?v=aWMCLQkZZf4)
+45. [IOTA Talk Weekly Review](https://www.iota-talk.com/index.php?article/141-week-in-review-from-21th-to-27nd-november-2021/)
