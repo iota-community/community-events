@@ -35,7 +35,7 @@
 33. DAO Meeting: [IOTA DAO Pioneers Session 3 meeting](https://www.youtube.com/watch?v=9BDKT8BjYMY)
 34. Es gibt ein neues RFCs zum Thema [Trustless Exchange of Native Assets](https://github.com/iotaledger/protocol-rfcs/discussions/42); Dom Schiener [tweetet](https://twitter.com/DomSchiener/status/1464192310485434387?s=20) auch darüber
 35. Angelo Caposele [tweetet](https://twitter.com/AngeloCapossele/status/1464289469071249413?s=20) darüber, dass es ein neues [IOTA2.0 DEVnet](https://v2.iota.org/) release gibt:
-36. Kappy mit schönen [Tweets 1/10](https://twitter.com/Rob_Daykin/status/1464336084062588941?s=20) zum Thema IOTA smart contracts
+36. Kappy mit schönen [Tweets 1/10](https://twitter.com/Rob_Daykin/status/1464336084062588941?s=20) zum Thema IOTA smart contracts und dann noch [ein Tweet](https://twitter.com/Rob_Daykin/status/1464810084928671751?s=20) in dem er schreibt, dass IOTA "token generation event (#TGE) liquidity sniping bot issues" löst
 37. Zum Thema DAO hat Antonio seine ersten Eindrücke in einem [Tweetstorm 1/10](https://twitter.com/antonionardella/status/1464161236241817600?s=20) zusammengefasst
 38. Und Guild (= Authorization Layer for Web3 - No code tool for token-gated Discord), will sich IOTA genauer anschauen: [Tweet](https://twitter.com/guildxyz/status/1464232994508623874?s=20)
 39. IOTA weekly #19 [auf deutsch](https://www.youtube.com/watch?v=RSqMoEruth0); [auf englisch](https://www.youtube.com/watch?v=l5YWoUyM390)
