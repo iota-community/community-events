@@ -45,3 +45,4 @@
 43. Es gibt eine ["List of NFT and Metaverse Projects on IOTA"](https://iotaguide.notion.site/List-of-NFT-and-Metaverse-Projects-on-IOTA-4678428b23ce436289cce45a724f80c0)
 44. TanglePay macht ein AMA am Montag: [Tweet](https://twitter.com/tanglepaycom/status/1464933899314757633?s=20); Hier der [Youtube link: TanglePay AMA Nov.29th 14:00 CET](https://www.youtube.com/watch?v=aWMCLQkZZf4)
 45. [IOTA Talk Weekly Review](https://www.iota-talk.com/index.php?article/141-week-in-review-from-21th-to-27nd-november-2021/)
+46. TangleSee Story [Chapter 3: The barter is born](https://medium.com/@tangleseastory/chapter-3-the-barter-is-born-ded777bf5df6)
