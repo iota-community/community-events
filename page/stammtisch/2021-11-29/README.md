@@ -51,3 +51,4 @@
 49. Neues Interview mit Dom Schiener und türkischem Youtuber auf englisch: [Which Major Developments Are Coming to IOTA? Interview with IOTA founder Dominik Schiener](https://www.youtube.com/watch?v=bNb7M3aCCC4)
 50. Noch ein Youtube Video auf deutsch: [IOTA verändert die Welt🗂️ Massive IOTA PARTNERSCHAFT🤝 [Krypto News]](https://www.youtube.com/watch?v=aQ89KnxHzlU)
 51. Joseph Skewes mit schönem [Tweetstorm 1/14](https://twitter.com/josephskewes/status/1465259096735584259?s=20) warum IOTA besser ist als Blockchain
+52. IOTA auf [Rosetta - Build Once. Integrate Your Blockchain Everywhere.](https://www.rosetta-api.org/): Hier der [GitHub Link - Integrate IOTA easily, quickly and reliably!](https://github.com/iotaledger/rosetta-iota)
