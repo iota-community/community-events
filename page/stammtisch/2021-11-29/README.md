@@ -50,3 +50,4 @@
 48. Vielleicht passt dazu die [Aussage von Dom S.](https://twitter.com/iotatokennews/status/1465030593650085898?t=4NDnNQkcYhWdeTkFOa8T5g&s=09); "Bridges between Shimmer and IOTA are already being build..."
 49. Neues Interview mit Dom Schiener und türkischem Youtuber auf englisch: [Which Major Developments Are Coming to IOTA? Interview with IOTA founder Dominik Schiener](https://www.youtube.com/watch?v=bNb7M3aCCC4)
 50. Noch ein Youtube Video auf deutsch: [IOTA verändert die Welt🗂️ Massive IOTA PARTNERSCHAFT🤝 [Krypto News]](https://www.youtube.com/watch?v=aQ89KnxHzlU)
+51. Joseph Skewes mit schönem [Tweetstorm 1/14](https://twitter.com/josephskewes/status/1465259096735584259?s=20) warum IOTA besser ist als Blockchain
