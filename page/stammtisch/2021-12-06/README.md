@@ -7,5 +7,7 @@
 5. Goin.io mit einem [Soon-Tweetet](https://twitter.com/govs_io/status/1465442403670802433?s=20) "A simple way to connect smart contracts to physical sensors in the real world is coming soon." ; Später [tweeten](https://twitter.com/govs_io/status/1465669350803787776?s=20) sie nochmal mit "Dezember" auf die Wen-Frage
 6. Am 3.Dezember ist die [Blockchain in Use 2021 online conference - Sustainability Track](https://www.eventbrite.co.uk/e/blockchain-in-use-sustainability-track-tickets-201600210657) kündigt die IF mit [diesem Tweet](https://twitter.com/iota/status/1465636903848497158?t=Wvh8WOOs0OsHr65adh4zSw&s=19) an
 7. Am Freitag ist/war IOTA Stammtisch in München [Tweet](https://twitter.com/IotaMunchen/status/1465384391027347461?s=20); Hier das [Event auf Meetup.de](https://www.meetup.com/de-DE/IOTA-Muc/events/282385057/)
-8. IF Announcement: [Making Smart Cities Smarter](https://blog.iota.org/making-smart-cities-smarter/)
+8. IF Announcement: [Making Smart Cities Smarter](https://blog.iota.org/making-smart-cities-smarter/); Schmucklos hat das [auf deutsch](https://iota-einsteiger-guide.de/smart-cities-smarter-machen.html) übersetzt
 9. Dom Schiener mit "Wen more" [Hype Tweet](https://twitter.com/DomSchiener/status/1465691677910134788?s=20)
+10. Luca [tweetet](https://twitter.com/lukastanisic99/status/1465699476538990609?s=20) dass soon ein data sharding whitepaper veröffentlicht wird
+11. INATBA [tweetet]https://twitter.com/INATBA_org/status/1465585284142317570?s=20 über das Event: [INATBA Members Champion Blockchain Applications at COP26](https://inatba.org/news/cop-26/); Ein Video von dem Event ist online: [Digital solutions as an enabler for climate action](https://www.youtube.com/watch?v=HExyMmmzNIQ)
