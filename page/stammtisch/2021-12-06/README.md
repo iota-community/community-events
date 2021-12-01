@@ -16,5 +16,5 @@
 14. Die IF Roadmap wurde upgedated: [roadmap.iota.org](https://roadmap.iota.org/)
 15. Treassurry Governements meeting: [Announcement-Tweet](https://twitter.com/PhyloIota/status/1466004294558109702)
 16. Neues Untangling IOTA Video Tutorial: [Announcement-Tweet](https://twitter.com/iota/status/1465697594798002193?s=20)
-17. Die [IF tweetet](https://twitter.com/iota/status/1466045892415430662?s=20) ein Video ohne Kommentar. Schneeflocke? Shimmer? Geschachtelte NFTs?!?
-18. 
+17. Die [IF tweetet](https://twitter.com/iota/status/1466045892415430662?s=20) ein Video ohne Kommentar und die Community dreht durch vor Aufregung. Schneeflocke? Shimmer? Geschachtelte NFTs?!?
+18. Neues von den IOTA Tarot Karten: [Tweet von pxdg](https://twitter.com/pxdg3/status/1466045216478089227?s=20)
