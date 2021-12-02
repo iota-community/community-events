@@ -24,3 +24,4 @@
 22. Langer Medium Hype Post: [IOTA, why I think they have crossed the chasm, we will see a PAMP with the coming announcement, and proof they have reinvented themselves! This is the new IOTA Foundation and new IOTA Token.](https://medium.com/@jamesjdsutton/iota-why-i-think-they-have-crossed-the-chasm-we-will-see-a-pamp-with-the-coming-announcement-1581d860db34)
 23. IOTA in den Medien: [Cryptoticker](https://cryptoticker.io/de/3-spannende-iota-weiterentwicklungen-die-das-netzwerk-wieder-auf-die-karte-bringen/)
 24. Phylo [tweetet](https://twitter.com/PhyloIota/status/1466365854434529284?s=20) über die neue Videoaufzwichnung von dem DAO Meeting: [IOTA DAO Pioneers meet Coordinape](https://www.youtube.com/watch?v=Su481AyhOl0)
+25. Der Twitter Account wurde geleacked von [Assembly_Net](https://twitter.com/assembly_net)
