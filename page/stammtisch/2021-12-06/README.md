@@ -18,3 +18,8 @@
 16. Neues Untangling IOTA Video Tutorial: [Announcement-Tweet](https://twitter.com/iota/status/1465697594798002193?s=20)
 17. Die [IF tweetet](https://twitter.com/iota/status/1466045892415430662?s=20) ein Video ohne Kommentar und die Community dreht durch vor Aufregung. Schneeflocke? Shimmer? Geschachtelte NFTs?!?
 18. Neues von den IOTA Tarot Karten: [Tweet von pxdg](https://twitter.com/pxdg3/status/1466045216478089227?s=20)
+19. Twitter wird langsam auf IOTA aufmerksam... [CryptoWizard mit 300K Followern](https://twitter.com/CryptoWizardd/status/1466230395964477448?s=20); [LilMoonLambo 150K Follower](https://twitter.com/LilMoonLambo/status/1466174022765457413?s=20)
+20. Mr.Mining mit etwas entäuschendem Video über IOTA ["Das IOTA Syndrom! Haben wir die ALTCOIN Really verpasst? DEZEMBER 2021!"](https://www.youtube.com/watch?v=sYH7w0qScfQ) nachdem vrom ihm IOTA 2h lang erklärt hatte: [Tweet](https://twitter.com/Vrom14286662/status/1466106154141077513?s=20)
+21. Erster Hinweis, dass das IF Video evtl. etwas mit Sharding zu tun hat? [Tween von Navin R.](https://twitter.com/navinram999/status/1466309223931863043?s=20) "Trinangle > Block"
+22. Langer Medium Hype Post: [IOTA, why I think they have crossed the chasm, we will see a PAMP with the coming announcement, and proof they have reinvented themselves! This is the new IOTA Foundation and new IOTA Token.](https://medium.com/@jamesjdsutton/iota-why-i-think-they-have-crossed-the-chasm-we-will-see-a-pamp-with-the-coming-announcement-1581d860db34)
+23. IOTA in den Medien: [Cryptoticker](https://cryptoticker.io/de/3-spannende-iota-weiterentwicklungen-die-das-netzwerk-wieder-auf-die-karte-bringen/)
