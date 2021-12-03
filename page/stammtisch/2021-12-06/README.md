@@ -38,3 +38,4 @@
 36. Es gibt wieder ein Jahresend Meetup: [Tweet von IOTAshops](https://twitter.com/iotashop/status/1466696906629955587?s=20); Hier geht's [direkt zum Event](https://www.meetup.com/de-DE/IOTA-meetup-workshop/events/282428979)
 37. Angelo arbeitet an einem "secret project on shimmer": [Tweet](https://twitter.com/AngeloCapossele/status/1466720646243753991?s=20) "Ready to play?"
 38. LDCapital scheint die erste öffentlich bekannte Venture Capital Firma zu sein die in Assembly investeirt hat: [ldlap.com](http://ldcap.com/); Die shillen Assembly auch gleich mit ihrem [Tweet](https://twitter.com/LD_Capital/status/1466472981618700289?s=20)
+39. IOTAweekly #20: [Wann kommt das IOTA Staking? Und wozu braucht es den MIOTA token noch?](https://www.youtube.com/watch?v=-i8VosW5Fms); auf [englisch](https://www.youtube.com/watch?v=xW3zz97aZ8Q)
