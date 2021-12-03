@@ -25,3 +25,7 @@
 23. IOTA in den Medien: [Cryptoticker](https://cryptoticker.io/de/3-spannende-iota-weiterentwicklungen-die-das-netzwerk-wieder-auf-die-karte-bringen/)
 24. Phylo [tweetet](https://twitter.com/PhyloIota/status/1466365854434529284?s=20) über die neue Videoaufzwichnung von dem DAO Meeting: [IOTA DAO Pioneers meet Coordinape](https://www.youtube.com/watch?v=Su481AyhOl0)
 25. Der Twitter Account wurde geleacked von [Assembly_Net](https://twitter.com/assembly_net)
+26. Es ist soweit: IOTA führt permissionless smart contracts ein! Mit diesem 1. [Tweet](https://twitter.com/assembly_net/status/1466409192303042562?s=20) von Assembly_Net
+27. Hier der Blogpost zu Assembly: [Announcing Assembly and the ASMB Token](https://blog.assembly.sc/announcing-assembly-and-the-asmb-token/); Hier [auf deutsch](https://iota-einsteiger-guide.de/iota-assembly-multi-chain-network.html?s=09) im Einsteigerguide
+28. Chris Müller hat dazu ein IOTAWeekly Spezial Video gemacht: [IOTA Assembly - alle Informationen - ELI5](https://www.youtube.com/watch?v=OgRDNt5QIFE); auf englisch: [IOTA Assembly - everything you need to know - ELI5](https://www.youtube.com/watch?v=RO_teEuNuts)
+29. Soonlabs will am 5.Dezember ein "big reveal" machen: [Tweet](https://twitter.com/soon_labs/status/1466668384934715395?s=20)
