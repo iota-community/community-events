@@ -43,3 +43,4 @@
 41. Youtube: [Think it Crypto - IOTA steigt ins METAVERSE ein & IOTA HOLDER können jetzt schon profitieren😱 [IOTA News]](https://www.youtube.com/watch?v=2Z3iZruIwIo&feature=youtu.be)
 42. [Screenshot Tweet](https://twitter.com/Vrom14286662/status/1467057293003042820?s=20) mit Dom Aussagen zu Assembly z.B. "Assembly <-> ETH/BSC Bridge"
 43. Bitcoin und Co sind am Samstag teilweise 25% abgestürzzt. Was war da los?  Und El Salvador bought the dip: [Tweet](https://twitter.com/nayibbukele/status/1467000621354135555?s=20)
+44. [Assembly veröffentlicht](https://twitter.com/assembly_net/status/1466771713795014657?s=20) eine Blogpostreihe: Part 1 von 4: [Meet Assembly 1: Your Key to Open and Decentralized Worlds](https://blog.assembly.sc/meet-assembly-1-your-key-to-open-and-decentralized-worlds/)
