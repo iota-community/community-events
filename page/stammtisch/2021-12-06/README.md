@@ -48,4 +48,10 @@
 46. Daniel deMichele und sein Team haben wohl den ERC721 standard für IOTA implementiert: [Tweet](https://twitter.com/carpclash/status/1466941989132374024?s=20); Ich glaub den braucht man für NFTs bei Ethereum, oder?
 47. Wer ist dieser [Arben Karne](https://twitter.com/arben) mit dem Dom Schiener die (SMART CONTRACTS TECHNOLOGIES AG in BERLIN)(https://www.northdata.de/Smart+Contracts+Technologies+AG,+Berlin/Amtsgericht+Charlottenburg+%28Berlin%29+HRB+230665+B) gegründet hat?
 48. Linus Nauman mit neuem Medium Bericht: [“Better than Coinbase” — IOTAs new Assembly network is the missing piece for Metaverse and Web3](https://medium.com/@linus.naumann/better-than-coinbase-why-the-new-iota-assembly-network-is-the-missing-piece-for-iota-based-f503420cc990)
-49. 
+49. Letztendlich soll/muss das die Community entscheiden, aber Dom will, dass der ASMB smart contract automatisch IOTA kauft und burned: [Tweet](https://twitter.com/DomSchiener/status/1467214634100867072?s=20); Hier noch ein [Screenshots-Tweet](https://twitter.com/Vrom14286662/status/1467359898946220035?s=20) dazu
+50. Luka Stanisic mit einer interessanten Idee: [IOTA the Ultimate Economic Model and Secure Scaling of Smart Contracts](https://luka99.medium.com/iota-the-ultimate-economic-model-and-secure-scaling-of-smart-contracts-2506ec4e619a)
+51. Oliver Bohl mit einem Video Tutorial für swarm von Tanglebay: [IOTA - NODE - Installation with SWARM script - HORNET - BEE - GoShimmer - WASP](https://www.youtube.com/watch?v=TBKsK3TwFvY)
+52. Voting und Staking wird offenbar im Comnet schon getestet... Swarm wurde dahingehend upgedated: [Tweet von Tanglebay](https://twitter.com/TANGLEBAY/status/1467097519880609793)
+53. Senseering schafft es in die "Automation World": [Tweet von Daniel Trauth](https://twitter.com/DanielTrauth/status/1467238255938752518?s=20); Hier der [Artikel](https://www.automationworld.com/business-intelligence/article/21808705/new-industrial-automation-technology-startups-to-watch)
+54. Digital trading cards soon: [Tweet](https://twitter.com/NFTiotacardz/status/1467085308995018753?s=20)
+55. [Screenshot-Tweet](https://twitter.com/Vrom14286662/status/1467221696184819713?s=20) von Evaldas. Es geht um Node incentives und das zusammenspiel von L1 und L2 Nodes
