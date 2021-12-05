@@ -54,4 +54,4 @@
 52. Voting und Staking wird offenbar im Comnet schon getestet... Swarm wurde dahingehend upgedated: [Tweet von Tanglebay](https://twitter.com/TANGLEBAY/status/1467097519880609793)
 53. Senseering schafft es in die "Automation World": [Tweet von Daniel Trauth](https://twitter.com/DanielTrauth/status/1467238255938752518?s=20); Hier der [Artikel](https://www.automationworld.com/business-intelligence/article/21808705/new-industrial-automation-technology-startups-to-watch)
 54. Digital trading cards soon: [Tweet](https://twitter.com/NFTiotacardz/status/1467085308995018753?s=20)
-55. [Screenshot-Tweet](https://twitter.com/Vrom14286662/status/1467221696184819713?s=20) von Evaldas. Es geht um Node incentives und das zusammenspiel von L1 und L2 Nodes
+55. [Screenshot-Tweet](https://twitter.com/Vrom14286662/status/1467221696184819713?s=20) von Evaldas. Es geht um Node incentives und das Zusammenspiel von L1 und L2 Nodes (Hornet/Bee und Wasp)
