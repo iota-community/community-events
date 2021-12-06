@@ -57,10 +57,11 @@
 55. [Screenshot-Tweet](https://twitter.com/Vrom14286662/status/1467221696184819713?s=20) von Evaldas. Es geht um Node incentives und das Zusammenspiel von L1 und L2 Nodes (Hornet/Bee und Wasp)
 56. Habt ihr schon vom: [Iota Indie Web of Trust DAO proposal](https://tangledust.com/iota_indie_web_of_trust_DAO.html) gehört?
 57. [IOTATalk Wochenrückblick](https://www.iota-talk.com/index.php?article/142-wochenr%C3%BCckblick-28-nov-bis-4-dezember-2021/)
-58. Mit diesem [Tweet](https://twitter.com/soon_labs/status/1467560155269111808?s=20) und diesem [Blogpost](https://soonlabs.medium.com/welcome-to-the-soonaverse-f41f409e6513) veröffentlicht SoonLabs das [soonavers.com](https://soonaverse.com/) mit großem Erfolg: [Tweet](https://twitter.com/soon_labs/status/1467670384103215108?s=20)
+58. Mit diesem [Tweet](https://twitter.com/soon_labs/status/1467560155269111808?s=20) und diesem [Blogpost](https://soonlabs.medium.com/welcome-to-the-soonaverse-f41f409e6513) veröffentlicht SoonLabs das [soonavers.com](https://soonaverse.com/) mit großem Erfolg: [Tweet](https://twitter.com/soon_labs/status/1467670384103215108?s=20); Auch die [IF retweetet](https://twitter.com/iota/status/1467808008856117261?s=20) den Tweet von SoonLabs
 59. Soonavers Tutorials: [Login Tutorial](https://www.youtube.com/watch?v=55AEymWsJ-I&t=61s); [Basic Concepts](https://www.youtube.com/watch?v=le8sqx2OlzQ)
 60. TanglePay jetzt auch für I-Phone: [Tweet](https://twitter.com/tanglepaycom/status/1467685601168150528)
 61. TangleSea heißt im Shimmer Testnetz jetzt wohl jetzt ShimmerSea: [Tweet](https://twitter.com/ShimmerSeaDefi/status/1467603418772643850?s=20); [Blogpost](https://medium.com/@shimmerseadefi/hello-shimmersea-78c759c8f088)
 62. Jacob Parse mit einem Medium Artikel: [Iota Bytes — Assembly Of Data The New Eco](https://medium.com/@parecejacob/iota-bytes-assembly-of-data-the-new-eco-5f413953660)
 63. kamilabs teasert #IOTA #Multivers soon: [Tweet](https://twitter.com/kamilabsstudio/status/1467539768024174596?s=20)
 64. Multi mit Kritik zur Dustprotection und wie sie in Firefly implementiert ist: [Tweet](https://twitter.com/multifolio/status/1467406750177501184?s=20)
+65. Meet Assembly Part 2 von 4: [Meet Assembly 2: Validators and Committees](https://blog.assembly.sc/meet-assembly-2-validators-and-committees/)
