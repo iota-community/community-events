@@ -65,3 +65,4 @@
 63. kamilabs teasert #IOTA #Multivers soon: [Tweet](https://twitter.com/kamilabsstudio/status/1467539768024174596?s=20)
 64. Multi mit Kritik zur Dustprotection und wie sie in Firefly implementiert ist: [Tweet](https://twitter.com/multifolio/status/1467406750177501184?s=20)
 65. Meet Assembly Part 2 von 4: [Meet Assembly 2: Validators and Committees](https://blog.assembly.sc/meet-assembly-2-validators-and-committees/)
+66. Jonas Ehnle mit neuem Artikel: [Why IOTA will disrupt the entire crypto space and become #1](https://jonas-ehnle.medium.com/why-iota-will-disrupt-the-entire-crypto-space-and-become-1-a2c37a9b74fa)
