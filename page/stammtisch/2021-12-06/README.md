@@ -63,3 +63,4 @@
 61. TangleSea heißt im Shimmer Testnetz jetzt wohl jetzt ShimmerSea: [Tweet](https://twitter.com/ShimmerSeaDefi/status/1467603418772643850?s=20); [Blogpost](https://medium.com/@shimmerseadefi/hello-shimmersea-78c759c8f088)
 62. Jacob Parse mit einem Medium Artikel: [Iota Bytes — Assembly Of Data The New Eco](https://medium.com/@parecejacob/iota-bytes-assembly-of-data-the-new-eco-5f413953660)
 63. kamilabs teasert #IOTA #Multivers soon: [Tweet](https://twitter.com/kamilabsstudio/status/1467539768024174596?s=20)
+64. Multi mit Kritik zur Dustprotection und wie sie in Firefly implementiert ist: [Tweet](https://twitter.com/multifolio/status/1467406750177501184?s=20)
