@@ -63,7 +63,7 @@
 61. TangleSea heißt im Shimmer Testnetz jetzt wohl jetzt ShimmerSea: [Tweet](https://twitter.com/ShimmerSeaDefi/status/1467603418772643850?s=20); [Blogpost](https://medium.com/@shimmerseadefi/hello-shimmersea-78c759c8f088)
 62. Jacob Parse mit einem Medium Artikel: [Iota Bytes — Assembly Of Data The New Eco](https://medium.com/@parecejacob/iota-bytes-assembly-of-data-the-new-eco-5f413953660)
 63. kamilabs teasert #IOTA #Multivers soon: [Tweet](https://twitter.com/kamilabsstudio/status/1467539768024174596?s=20)
-64. Multi mit Kritik zur Dustprotection und wie sie in Firefly implementiert ist: [Tweet](https://twitter.com/multifolio/status/1467406750177501184?s=20) und Antwort [Tweet](https://twitter.com/c_varley/status/1467836747975376897?t=DawR7WnquHwm7icRhYM8Jw&s=19) von Charley Barley
+64. Multi mit Kritik zur Dustprotection und wie sie in Firefly implementiert ist: [Tweet](https://twitter.com/multifolio/status/1467406750177501184?s=20) und Antwort [Tweet](https://twitter.com/c_varley/status/1467836747975376897?t=DawR7WnquHwm7icRhYM8Jw&s=19) von Charley Varley
 65. Meet Assembly Part 2 von 4: [Meet Assembly 2: Validators and Committees](https://blog.assembly.sc/meet-assembly-2-validators-and-committees/)
 66. Jonas Ehnle [tweetet](https://twitter.com/Jo_ehn/status/1467850891856330758?s=20) über seinen neuen Artikel: [Why IOTA will disrupt the entire crypto space and become #1](https://jonas-ehnle.medium.com/why-iota-will-disrupt-the-entire-crypto-space-and-become-1-a2c37a9b74fa)
 67. Dom und Dave AMA: [Ask me Assembly / AMA / Monday, December 6th at 6pm CET with Dominik Schiener and Dave de Fijter](https://www.youtube.com/watch?v=wbzOg-gNC9A)
