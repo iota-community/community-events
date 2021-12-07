@@ -15,3 +15,4 @@
 13. [Smart Contract White Paper](https://files.iota.org/papers/ISC_WP_Nov_10_2021.pdf) veröffentlicht von Assembly mit diesem [Tweet](https://twitter.com/assembly_net/status/1468233501422071811?s=20); Doms [Tweet](https://twitter.com/DomSchiener/status/1468234793255149582?s=20) dazu
 14. Die IF bei DigIt: [Tweet](https://twitter.com/iota/status/1468218886432690181?s=20)
 15. European Blockchain Initiative [tweetet](https://twitter.com/EUBLASORG/status/1468172107238551557?s=20) über ihre Digital ID Lösung und verlinkt diese [Webseite](https://europeanblockchainassociation.org/eba-working-group-self-sovereign-identity-eussi/)
+16. Was war da mit Hosp seiner Defi Chain los? [Tweet](https://twitter.com/julianhosp/status/1468267243595173891?s=20)
