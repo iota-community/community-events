@@ -12,6 +12,6 @@
 10. Hier noch das [Litepaper von Soonavers](https://docs.google.com/document/d/107AWznbIIz1CwsqRO2Jwj5vmqVdj_2g-eavnmCeTvd8/mobilebasic)
 11. Frank hat das t3n Magazin auf IOTA aufmerksam gemacht und sie haben [geantwortet](https://twitter.com/t3n/status/1468178600633540608?s=20) mit "Wir haben IOTA auf dem Schirm"; Holger Köther bietet seine Hilfe an: [Tweet](https://twitter.com/HolgerKoether/status/1468219613691498501?s=20)
 12. Rusti Robot Country Club mit [Soon-Tweet](https://twitter.com/RustyRobotCC/status/1468170176764039171?s=20)
-13. [Smart Contract White Paper](https://files.iota.org/papers/ISC_WP_Nov_10_2021.pdf) veröffentlicht von Assembly mit diesem [Tweet](https://twitter.com/assembly_net/status/1468233501422071811?s=20)
+13. [Smart Contract White Paper](https://files.iota.org/papers/ISC_WP_Nov_10_2021.pdf) veröffentlicht von Assembly mit diesem [Tweet](https://twitter.com/assembly_net/status/1468233501422071811?s=20); Doms [Tweet](https://twitter.com/DomSchiener/status/1468234793255149582?s=20) dazu
 14. Die IF bei DigIt: [Tweet](https://twitter.com/iota/status/1468218886432690181?s=20)
 15. European Blockchain Initiative [tweetet](https://twitter.com/EUBLASORG/status/1468172107238551557?s=20) über ihre Digital ID Lösung und verlinkt diese [Webseite](https://europeanblockchainassociation.org/eba-working-group-self-sovereign-identity-eussi/)
