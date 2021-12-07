@@ -9,3 +9,4 @@
 7. Navin Ramachandran [kommentiert](https://twitter.com/navinram999/status/1467867412791971843?s=20) Vitalik Buterins ["Endgame" Artikel](https://vitalik.ca/general/2021/12/06/endgame.html) mit "What if you could have one universal bridge instead of n-squared bridges? #IOTA #Assembly"
 8. Die ["List of NFT and Metavers Projects on IOTA"](https://iotaguide.notion.site/List-of-NFT-and-Metaverse-Projects-on-IOTA-4678428b23ce436289cce45a724f80c0) wird immer umfangreicher
 9. Zignar Technlogies [tweetet](https://twitter.com/zignartech/status/1468098660034494465?s=20) über ihre neue Open Source DiD API, die sie für die Universität von Oslo gemacht haben: [IOTA - Decentralized Identities API - Explained](https://www.youtube.com/watch?v=mY0If3JZmhc)
+10. Hier noch das [Litepaper von Soonavers](https://docs.google.com/document/d/107AWznbIIz1CwsqRO2Jwj5vmqVdj_2g-eavnmCeTvd8/mobilebasic)
