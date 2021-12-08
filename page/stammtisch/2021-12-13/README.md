@@ -30,3 +30,4 @@
 28. Am Mittwoch 8.12. um 22:30 Uhr kam der [Wirecard Skandal auf ARD](https://www.ardmediathek.de/video/dokus-im-ersten/wirecard-die-milliarden-luege/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3JlcG9ydGFnZSBfIGRva3VtZW50YXRpb24gaW0gZXJzdGVuL2NlMjQ0OWM4LTQ4YTUtNGIyNC1iMTdlLWNhOTNjMDQ5OTc4Zg/)
 29. Chris Müller hat offenbar Covid: [Tweet](https://twitter.com/ChrisMuellerHI/status/1468561610155479049?s=20)
 30. Man kann sein IOTA Projekt jetzt im Discord shillen unter #project-shilling (extra Rolle): [Tweet](https://twitter.com/antonionardella/status/1468601491543973900?s=20)
+31. Adamski hat sein DiD Projekt im Discord vorgestellt: [Ankündigung-Tweet-Screenshot](https://twitter.com/Vrom14286662/status/1468276533357944839?s=20)
