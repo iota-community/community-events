@@ -25,3 +25,4 @@
 23. Multivers NFT von Dom soon: [Tweet](https://twitter.com/Multiverse_Dom/status/1468320496374763522?s=20)
 24. Dtag [tweetet](https://twitter.com/hassping/status/1468205742620434439?s=20) über ein Spiel das sie entwickeln wollen: Im soonavers beschreiben sie das genauer: [DTag DAO](https://soonaverse.com/space/0x135f8d39d3c99ec3f7a75937bcff2bbaccdc2c97/overview)
 25. Everything [tweetet](https://twitter.com/TheEvvrything/status/1468424674296025090?s=20) über sein Projekt: "A social app built on #IOTA secured by the tangle. Think trends, blogs, NFT, connections & more. "; Im soonavers findet man vielleicht mehr Details: [Evvrything](https://soonaverse.com/space/0xdbb613dc074fb08c7d5d400844badb6d2d2e9747/overview)
+26. IOTA ist jetzt auf HotBit gelistet: [Tweet](https://twitter.com/Hotbit_news/status/1468472913896501248?s=20)
