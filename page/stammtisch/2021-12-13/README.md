@@ -46,7 +46,7 @@
 44. "dump money" mit einem Artikel über Coinsupply und Marketcap: [Is Coin Supply Misinterpreted in DeFi?](https://dumb-m0ney.medium.com/is-coin-supply-misinterpreted-in-defi-df12ad67d732)
 45. Assembly [tweetet](https://twitter.com/assembly_net/status/1469215412118339584?s=20) über ihr neues [Assembly Wiki](https://wiki.assembly.sc/)
 46. Assembly [veröffentlicht](https://twitter.com/assembly_net/status/1468942576296288261?s=20) Part 4/4 von ihrere Serie: [Meet Assembly 4: Interoperability and Composability](https://blog.assembly.sc/meet-assembly-4-interoperability-and-composability/)
-47. Solana schon wieder down? [Tweet](https://twitter.com/murphsicles/status/1468998047879340041?s=20); Hier noch ein [Erklärungstweet 1/22](https://twitter.com/EdnStuff/status/1457875177052643333?s=20) dazu
+47. Solana schon wieder down? [Tweet](https://twitter.com/murphsicles/status/1468998047879340041?s=20); Hier noch ein [Erklärungstweet 1/22](https://twitter.com/EdnStuff/status/1457875177052643333?s=20) dazu; Hans Moog hatte das am 30.August schon [vorrausgesagt](https://twitter.com/hus_qy/status/1432285808388710403?s=20)
 48. Schönes Video über die möglichen Preisaussichten für IOTA: [Iota (MIOTA) REALISTIC Price Prediction: Is a 14x actually possible?](https://www.youtube.com/watch?v=zp570crly84&feature=youtu.be)
 49. Zu dem Video von oben [schreibt Charley Varley](https://twitter.com/c_varley/status/1468996022747676679?s=20): "ppl need to stop saying “if iota deliver”    of course we’re gonna deliver"
 50. Adam (adamlj.eth) fasst in seinme [1/13 Tweet](https://twitter.com/admljhnsn/status/1469019040592982022?s=20) viele Sachen zusammen, die von der IF dieses Jahr geliefert wurden
@@ -58,3 +58,5 @@
 56. [IOTA Defining Moments Meetup](https://www.youtube.com/watch?v=HPHYwfkUKro)
 57. PropOps stellt bei ^Defining Moments ihr Produkt vor. Es geht um Gebäudemanagementgeschäfte die im Tangle gespeichert werden. Hier die Webseite: [https://propops.com/](https://propops.com/)
 58. [Metaversation.io](https://metaversation.io/) von TangleHub geht live
+59. [cromi.io](cromi.io) wird vorgestellt. Soll eine online Stickeralbum Plattform sein
+60. [Yenna Tech](https://yenna.tech/) wurde vorgestellt
