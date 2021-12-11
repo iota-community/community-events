@@ -63,3 +63,5 @@
 61. Dom Schiener mit einem [Hype-Tweet](https://twitter.com/DomSchiener/status/1469390468903546885?s=20) "How can you not be bullish looking at where #IOTA stands today? "
 62. Guido Lange versucht sich mit seinem [Tweet](https://twitter.com/GuidoLange/status/1469628940193087488?s=20) über IOTA und die VCs lustig zu machen "Not the A league of crypto investors though."
 63. Assembly [tweetet](https://twitter.com/assembly_net/status/1469335225264181249) über die Tokendistribution: [Assembly Fair Launch & Token Distribution](https://blog.assembly.sc/assembly-fair-launch-token-distribution/)
+64. Victor Huang mit einem interessanten [Tweetstorm](https://twitter.com/atheal9k/status/1469253636991512578?s=21) über die baldige IOTA Explosion...
+65. Das DAO Tutorial Projekt endet vorerst mit dem [5. IOTA DAO Learning Circle](https://www.youtube.com/watch?v=2s05pLYXTu0)
