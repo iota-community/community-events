@@ -62,4 +62,4 @@
 60. [Yenna Tech](https://yenna.tech/) wurde vorgestellt
 61. Dom Schiener mit einem [Hype-Tweet](https://twitter.com/DomSchiener/status/1469390468903546885?s=20) "How can you not be bullish looking at where #IOTA stands today? "
 62. Guido Lange versucht sich mit seinem [Tweet](https://twitter.com/GuidoLange/status/1469628940193087488?s=20) über IOTA und die VCs lustig zu machen "Not the A league of crypto investors though."
-63. 
+63. Assembly [tweetet](https://twitter.com/assembly_net/status/1469335225264181249) über die Tokendistribution: [Assembly Fair Launch & Token Distribution](https://blog.assembly.sc/assembly-fair-launch-token-distribution/)
