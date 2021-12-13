@@ -80,3 +80,5 @@
 78. Hans Moog mal wieder beim Nano Bashing: [Tweetstorm](https://twitter.com/hus_qy/status/1470201952306974724?s=20)
 79. Shimmer NFTs verschoben: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1470336307763232769?s=20)
 80. Neuer Artikel: [What is happening with IOTA? Will you soon earn money with IOTA Staking & free airdrops?](https://medium.com/coinmonks/what-is-happening-with-iota-will-you-soon-earn-money-with-iota-staking-free-airdrops-d6de39900453)
+81. Stimmt das? Korea verbietet private Krypto Wallets komplett? Schreibt zumindest der Bergman: [Die Freiheit stirbt auf der Reise – zuerst in Südkorea
+](https://bitcoinblog.de/2021/12/13/die-freiheit-stirbt-auf-der-reise-zuerst-in-suedkorea/)
