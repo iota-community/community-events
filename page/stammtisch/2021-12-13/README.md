@@ -77,3 +77,4 @@
 75. Hans Moog äußerst sich zu einem Problem beim Mergen des neuesten GoShimmer Zweigs, [Tweet](https://twitter.com/Vrom14286662/status/1470293341329936389?s=20), was aber jetzt letztendlich zu einer Verbesserung füht: Processing Time um 80% reduziert
 76. Handelskontor mit Artikel zu IOTA: [Risikokapitalgeber wittern Potenzial: IOTA-Projekt erhält Finanzspritze von 100 Millionen US-Dollar](https://handelskontor-news.de/news/risikokapitalgeber-wittern-potenzial-iota-projekt-erhaelt-finanzspritze-von-100-millionen-us-dollar/)
 77. Stern Artikel: [Sparkassen wollen ihren Kunden Bitcoin-Handel ermöglichen](https://www.stern.de/wirtschaft/news/sparkassen-wollen-ihren-kunden-bitcoin-handel-ermoeglichen-31408546.html)
+78. Hans Moog mal wieder beim Nano Bashing: [Tweetstorm](https://twitter.com/hus_qy/status/1470201952306974724?s=20)
