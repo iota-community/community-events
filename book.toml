@@ -3,6 +3,6 @@ authors = ["vromvonbeyond, huhn"]
 language = "en"
 multilingual = false
 src = "page"
-title = "IOTA Community Events"
+title = "IOTA Stammtisch Themen"
 [output.html]
 theme = "page/theme"
