@@ -79,4 +79,4 @@
 77. Stern Artikel: [Sparkassen wollen ihren Kunden Bitcoin-Handel ermöglichen](https://www.stern.de/wirtschaft/news/sparkassen-wollen-ihren-kunden-bitcoin-handel-ermoeglichen-31408546.html)
 78. Hans Moog mal wieder beim Nano Bashing: [Tweetstorm](https://twitter.com/hus_qy/status/1470201952306974724?s=20)
 79. Shimmer NFTs verschoben: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1470336307763232769?s=20)
-80. 
+80. Neuer Artikel: [What is happening with IOTA? Will you soon earn money with IOTA Staking & free airdrops?](https://medium.com/coinmonks/what-is-happening-with-iota-will-you-soon-earn-money-with-iota-staking-free-airdrops-d6de39900453)
