@@ -5,5 +5,5 @@
 3. [Govs.io](goves.io) [tweetet](https://twitter.com/govs_io/status/1470555429491163138?s=20), dass sie jetzt mit der IF zusammen arbeiten und dass man in der USA bald IOT Sensoren kaufen kann. "Connect smart contracts to real world use cases"; "Govs helps people and organization govern how their data is used to support smart contracts on blockchains, digital ledgers, or NFT use cases." Mat Yarger ist zumindest [begeistert](https://twitter.com/Mat_Yarger/status/1470604930687901702?s=20) davon
 4. UK Today news mit einem FUd Artikel über IOTA: [Is IOTA’s Shimmer of Hope Yet Another False Promise?](https://todayuknews.com/crypto-currency/is-iotas-shimmer-of-hope-yet-another-false-promise/)
 5. PropOps bestätigt(https://twitter.com/propops_cloud/status/1470537698477813767?s=20), dass alle Daten bereits per Default im Tangle gespeichert werden. Holger Köther hatte darüber [getweetet](https://twitter.com/HolgerKoether/status/1470438474549497865?s=20) und nochmal den [Link zum IF Blogpost](https://blog.iota.org/propops-tracks-real-estate-operations-on-the-tangle/)
-6. Raspihive update
-7. 
+6. Raspihive update: [Tweet](https://twitter.com/raspihive/status/1470647399265841152?s=20) und [Tutorial](https://iota-industrie-4-0.blogspot.com/2021/12/tutorial-zur-installation-und.html)
+7. [chromi.io](https://www.cromy.io/#) Webseite ist jetzt live
