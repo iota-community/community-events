@@ -14,3 +14,10 @@
 12. [Soon-Tweet](https://twitter.com/Sphere_Hub_io/status/1470639016349417473?s=20) von Sphere; Stichwort Multiers...
 13. Neues zur Java Schwachstelle: Tagesschau.de: [Große Sorgen wegen Log4j-Schwachstelle](https://www.tagesschau.de/inland/bsi-schadsoftware-103.html)
 14. swarm update: [Tweet](https://twitter.com/TANGLEBAY/status/1470771230835945499?s=20)
+15. Wurde Coinmarketcap gehackt? Hans Moog [Tweet mit Screenshot](https://twitter.com/hus_qy/status/1470870584032731136?s=20). Der Monsterpreisanstieg ist leider nicht real...
+16. STAGEHOLGERS, die Eventplattform fürs Multivers, wollen 70% der Token an die Community verteilen: [Tweet 1](https://twitter.com/stageholders/status/1470824446055301122?s=20); Sie suchen noch Künstler Performer und Aufmerksamkeit: [Tweet](https://twitter.com/stageholders/status/1470824653526650887?s=20); [Tweet](https://twitter.com/stageholders/status/1471036961045598208?s=20)
+17. Thorsten Kroke von eClass standards freut sich über eine chinesische Partnerschaft: [Tweet](https://twitter.com/KrokeThorsten/status/1471018725742624768?s=20); Mit diesem [Antwort-Tweet](https://twitter.com/KrokeThorsten/status/1471041318231199749?s=20) lässt er die IOTA Community auf soon IOTA inside hoffen
+18. Shelby (240K Followern) [tweetet](https://twitter.com/CryptoNewton/status/1470863966280761349?s=20) über IOTA; TheWizard (340K Follower) [tweetet](https://twitter.com/CryptoWizardd/status/1470890102519959555?s=20) über IOTA
+19. Crypto Banter spricht auf Youtube über den IOTA Airdrop: [3 BEST ALTCOINS FOR A CRYPTO MARKET RECOVERY!](https://youtu.be/8fi6UzphpGY?t=942)
+20. SoonLabs [tweetet](https://twitter.com/soon_labs/status/1470819688821112836?s=20) über die Userzahlen nach einer Woche
+21. Neues Video von Everything Tangle: [IOTA - Everything you need to know for 2022!](https://www.youtube.com/watch?v=RTZzPQz9IK4&feature=youtu.be)
