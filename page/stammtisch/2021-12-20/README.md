@@ -21,3 +21,4 @@
 19. Crypto Banter spricht auf Youtube über den IOTA Airdrop: [3 BEST ALTCOINS FOR A CRYPTO MARKET RECOVERY!](https://youtu.be/8fi6UzphpGY?t=942)
 20. SoonLabs [tweetet](https://twitter.com/soon_labs/status/1470819688821112836?s=20) über die Userzahlen nach einer Woche
 21. Neues Video von Everything Tangle: [IOTA - Everything you need to know for 2022!](https://www.youtube.com/watch?v=RTZzPQz9IK4&feature=youtu.be)
+22. Solana Probleme: [Solana Network Slows Down, TPS Drops Significantly, Here's Main Reason](https://u.today/solana-network-slows-down-tps-drops-significantly-heres-main-reason)
