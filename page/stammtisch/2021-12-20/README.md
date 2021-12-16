@@ -34,3 +34,6 @@
 32. Neue One-Pager Übersichtseite für alle aktuellen IOTA Netzwerke: [](https://www.docdroid.net/QvXt2Sc/overview-iota-pdf)
 33. Elon Musk tweetet über NFTs: [Tweet](https://twitter.com/elonmusk/status/1471338213549744130?s=20). Könnte das was mit Punkt 10 zu tun haben? Tesla NFTs die man mit Doge kaufen kann...
 34. Es war ein DAO Treassury Meeting im Discord: [Tweet](https://twitter.com/PhyloIota/status/1471445672628875264?s=20)
+35. [IOTA Smart Contracts Tutorial - WASP node Setup (updated)](https://www.youtube.com/watch?v=eV2AoV3QPC4)
+36. [TangleTunes Tweet](https://twitter.com/TangleTunes/status/1471503973550997516?s=20) mit soon Ankündigung: "..The first generative music #NFT project on #IOTA. Unique #synthwave tracks minted on the upcoming feeless IOTA ecosystem.."
+37. Trustfabric talk mit Dell Intel ZEBRA und IOTA: [ankündigungs-Tweet](https://twitter.com/ZededaEdge/status/1471534054512021504?s=20)
