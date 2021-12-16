@@ -22,3 +22,9 @@
 20. SoonLabs [tweetet](https://twitter.com/soon_labs/status/1470819688821112836?s=20) über die Userzahlen nach einer Woche
 21. Neues Video von Everything Tangle: [IOTA - Everything you need to know for 2022!](https://www.youtube.com/watch?v=RTZzPQz9IK4&feature=youtu.be)
 22. Solana Probleme: [Solana Network Slows Down, TPS Drops Significantly, Here's Main Reason](https://u.today/solana-network-slows-down-tps-drops-significantly-heres-main-reason)
+23. Kamilabs sucht für 100 Miota das beste "to the moon meme": [Tweet](https://twitter.com/kamilabsstudio/status/1471100026990604288?s=20)
+24. Moonaco Podcast soon: [Tweet](https://twitter.com/Moonaco5/status/1471366247510122500?s=20)
+25. Man kann seine IOTA auch nach den 90 Tagen weitere 21 Monate "staken" um ASMB zu bekommen: [Tweet](https://twitter.com/Vrom14286662/status/1471243771371216898?s=20) => Diskussionen in Telegramm ob das jetzt ein Rolling Airdrop oder echtes Staking ist...
+26. Kappy wieder mit einem interessanten [Tweetstorm 1/15](https://twitter.com/Rob_Daykin/status/1471216101132578822?s=20) zum Thema ob Shimmer und Assembly den Wert der IOTA Token verwässern
+27. Neuer Medium Artikel: [IOTA Token Value](https://medium.com/@bhwsvsjkx/iota-token-value-bcc20b54c703)
+28. Die IF [veröffentlicht](https://twitter.com/iota/status/1471149490174410754?s=20) einen neuen Blogpost zu den IOTA Shimmer Assembly Netzwerken: [IOTA x Shimmer x Assembly](https://blog.iota.org/iota-shimmer-assembly/)
