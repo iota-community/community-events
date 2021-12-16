@@ -28,3 +28,5 @@
 26. Kappy wieder mit einem interessanten [Tweetstorm 1/15](https://twitter.com/Rob_Daykin/status/1471216101132578822?s=20) zum Thema ob Shimmer und Assembly den Wert der IOTA Token verwässern
 27. Neuer Medium Artikel: [IOTA Token Value](https://medium.com/@bhwsvsjkx/iota-token-value-bcc20b54c703)
 28. Die IF [veröffentlicht](https://twitter.com/iota/status/1471149490174410754?s=20) einen neuen Blogpost zu den IOTA Shimmer Assembly Netzwerken: [IOTA x Shimmer x Assembly](https://blog.iota.org/iota-shimmer-assembly/)
+29. byte5 GmbH sucht IOTA Node JS Entwickler: [Tweet](https://twitter.com/byte5/status/1471404729876066306?s=20)
+30. Dom [tweetet](https://twitter.com/DomSchiener/status/1471166070488805386?s=20) ein Video mit regnenden Shimmer und Assembly coins zu Weihnachten... mit dem Satz: "Imagine you could stake your $IOTA to receive #Shimmer and #Assembly tokens for free, right for the holidays."
