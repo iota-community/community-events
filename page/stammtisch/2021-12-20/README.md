@@ -40,3 +40,6 @@
 38. Es gab ein Soonavers Update: [Tweet](https://twitter.com/soon_labs/status/1471568009894383621?s=20) "1st development sprint is done"
 39. Crypto Finance AG und Deutsch Börse: [Tweet 1](https://twitter.com/CryptoFinanceAG/status/1471424814208409600?s=20) über diesen Artikel: [Deutsche Börse Completes Acquisition of a Majority Stake in Crypto Finance](https://www.cryptofinance.ch/en/deutsche-boerse-acquires-a-majority-stake-in-crypto-finance/); Die Deutsche Börse Group [tweetet](https://twitter.com/DeutscheBoerse/status/1471411319492517889?s=20) auch darüber
 40. Das ist besonders spannend, weil am 26.4. die IF eine Partnershaft mit der Crypto Finance AG eingegenen ist: Blogpost der IF: [Crypto Finance AG and IOTA - The virtues of collaboration](https://blog.iota.org/crypto-finance-ag-and-iota/?s=09)
+41. Financen.net schreibt Artikel: [Nach Facebook - Auch IOTA will ins Metaverse vorstoßen](https://www.finanzen.net/nachricht/devisen/34-assembly-34-nach-facebook-auch-iota-will-ins-metaverse-vorstossen-10846580)
+42. Whales of Wallstreet kündigen ein AMA mit IOTA für nächste Woche an: [Tweet](https://twitter.com/Whales0fWallSt/status/1471550962833764362?s=20)
+43. Hans Moog mit [1/7 Tweets](https://twitter.com/hus_qy/status/1471663022049566725?s=20) über die Probleme die IOTA lösen will
