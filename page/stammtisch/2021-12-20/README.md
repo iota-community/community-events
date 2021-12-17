@@ -37,3 +37,6 @@
 35. [IOTA Smart Contracts Tutorial - WASP node Setup (updated)](https://www.youtube.com/watch?v=eV2AoV3QPC4)
 36. [TangleTunes Tweet](https://twitter.com/TangleTunes/status/1471503973550997516?s=20) mit soon Ankündigung: "..The first generative music #NFT project on #IOTA. Unique #synthwave tracks minted on the upcoming feeless IOTA ecosystem.."
 37. Trustfabric talk mit Dell Intel ZEBRA und IOTA: [ankündigungs-Tweet](https://twitter.com/ZededaEdge/status/1471534054512021504?s=20)
+38. Es gab ein Soonavers Update: [Tweet](https://twitter.com/soon_labs/status/1471568009894383621?s=20) "1st development sprint is done"
+39. Crypto Finance AG und Deutsch Börse: [Tweet 1](https://twitter.com/CryptoFinanceAG/status/1471424814208409600?s=20) über diesen Artikel: [Deutsche Börse Completes Acquisition of a Majority Stake in Crypto Finance](https://www.cryptofinance.ch/en/deutsche-boerse-acquires-a-majority-stake-in-crypto-finance/); Die Deutsche Börse Group [tweetet](https://twitter.com/DeutscheBoerse/status/1471411319492517889?s=20) auch darüber
+40. Das ist besonders spannend, weil am 26.4. die IF eine Partnershaft mit der Crypto Finance AG eingegenen ist: Blogpost der IF: [Crypto Finance AG and IOTA - The virtues of collaboration](https://blog.iota.org/crypto-finance-ag-and-iota/?s=09)
