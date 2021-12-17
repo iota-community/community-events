@@ -43,3 +43,4 @@
 41. Financen.net schreibt Artikel: [Nach Facebook - Auch IOTA will ins Metaverse vorstoßen](https://www.finanzen.net/nachricht/devisen/34-assembly-34-nach-facebook-auch-iota-will-ins-metaverse-vorstossen-10846580)
 42. Whales of Wallstreet kündigen ein AMA mit IOTA für nächste Woche an: [Tweet](https://twitter.com/Whales0fWallSt/status/1471550962833764362?s=20)
 43. Hans Moog mit [1/7 Tweets](https://twitter.com/hus_qy/status/1471663022049566725?s=20) über die Probleme die IOTA lösen will
+44. IOTA weekly mit Chris Müller: [auf deutsch](https://www.youtube.com/watch?v=EzpCuqaYJho); [auf englisch](https://www.youtube.com/watch?v=GrqeZk2xoeE)
