@@ -39,17 +39,18 @@
 37. Trustfabric talk mit Dell Intel ZEBRA und IOTA: [ankündigungs-Tweet](https://twitter.com/ZededaEdge/status/1471534054512021504?s=20)
 38. Es gab ein Soonavers Update: [Tweet](https://twitter.com/soon_labs/status/1471568009894383621?s=20) "1st development sprint is done"
 39. Crypto Finance AG und Deutsch Börse: [Tweet 1](https://twitter.com/CryptoFinanceAG/status/1471424814208409600?s=20) über diesen Artikel: [Deutsche Börse Completes Acquisition of a Majority Stake in Crypto Finance](https://www.cryptofinance.ch/en/deutsche-boerse-acquires-a-majority-stake-in-crypto-finance/); Die Deutsche Börse Group [tweetet](https://twitter.com/DeutscheBoerse/status/1471411319492517889?s=20) auch darüber; Interessant in dem Zusammenhang ist auch dieser Artikel: [Market deep dive: Analysis on BTC, ETH and Iota](https://www.cryptofinance.ch/en/market-deep-dive-analysis-on-btc-eth-and-iota/) geschrieben von Mike Schwitalla Senior Trader at Crypto Finance (Brokerage) AG
-40. Das ist besonders spannend, weil am 26.4. die IF eine Partnershaft mit der Crypto Finance AG eingegenen ist: Blogpost der IF: [Crypto Finance AG and IOTA - The virtues of collaboration](https://blog.iota.org/crypto-finance-ag-and-iota/?s=09)
-41. Financen.net schreibt Artikel: [Nach Facebook - Auch IOTA will ins Metaverse vorstoßen](https://www.finanzen.net/nachricht/devisen/34-assembly-34-nach-facebook-auch-iota-will-ins-metaverse-vorstossen-10846580)
-42. Whales of Wallstreet kündigen ein AMA mit IOTA für nächste Woche an: [Tweet](https://twitter.com/Whales0fWallSt/status/1471550962833764362?s=20)
-43. Hans Moog mit [1/7 Tweets](https://twitter.com/hus_qy/status/1471663022049566725?s=20) über die Probleme die IOTA lösen will
-44. IOTA weekly mit Chris Müller: [auf deutsch](https://www.youtube.com/watch?v=EzpCuqaYJho); [auf englisch](https://www.youtube.com/watch?v=GrqeZk2xoeE)
-45. IOTA Staking/Airdrop: Erstes Video von Firefly wie der Prozess aussehen wird: [Tweet](https://twitter.com/Moonshot7161969/status/1471933647288741891?s=20)
-46. Boba Junior hat eine Smart Contract Agency angemeldet um Leuten bei ihren Ideen zu IOTA SC zu helfen: [Tweet](https://twitter.com/bobajunior91/status/1459921897819447296?s=20)
-47. Adidas hat die erste [NFT Collection](https://twitter.com/adidasoriginals/status/1471909577658675204?s=20) heraus gebracht. Und einer hat es geschafft davon 330 mit einem Smart Contract und 165 SubSmart Contracts zu minten. Das hat ihn aber $104K an gas fees gekostet: [Tweet](https://twitter.com/Montana_Wong/status/1472023769518510081?s=20)
-48. Rusty Robot Country Club mit [Soon-Tweet](https://twitter.com/RustyRobotCC/status/1472126019830272001?s=20)
-49. Hey mit [Soon-Tweet](https://twitter.com/Heiartwork/status/1472144163554668545?s=20) zum Thema IOTA NFT Kunst(Art)
-50. Tokenized Kiwi ist jetzt ein offiziell eingetragenes Warenzeichen (Trademark): [Tweet](https://twitter.com/tokenizedkiwi/status/1472222180331171859?s=20) Es geht wohl darum echte Kunst mit digitaler Kunst zu verbinden. Hier die Webseite [tokenized.kiwi](https://tokenized.kiwi/)
-51. Das NFT Projekt [IOTA Pets auf Twitter](https://twitter.com/iotapets) haben eine [Webseite](https://www.iotapets.com/) die kurz online war...
-52. Elyzy, ein Cryptotrader mit 125K Followern, wird auf IOTA aufmerksam und [tweetet über den Chart](https://twitter.com/eliz883/status/1472338270956797955?s=20)
-53. Filancore [tweetet](https://twitter.com/FilancoreGmbH/status/1471808424388214784?s=20) über ihre digital Identity Lösung die für "devices (e.g. machines, sensors & cars), infrastructure and systems" gedacht ist und für die Industrie (OEMs, manufacturers of industrial components, system producers & #IoT operators)
+40. Die Tanglegang hatte wieder einen Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1471537612603236354?s=20)
+41. Das ist besonders spannend, weil am 26.4. die IF eine Partnershaft mit der Crypto Finance AG eingegenen ist: Blogpost der IF: [Crypto Finance AG and IOTA - The virtues of collaboration](https://blog.iota.org/crypto-finance-ag-and-iota/?s=09)
+42. Financen.net schreibt Artikel: [Nach Facebook - Auch IOTA will ins Metaverse vorstoßen](https://www.finanzen.net/nachricht/devisen/34-assembly-34-nach-facebook-auch-iota-will-ins-metaverse-vorstossen-10846580)
+43. Whales of Wallstreet kündigen ein AMA mit IOTA für nächste Woche an: [Tweet](https://twitter.com/Whales0fWallSt/status/1471550962833764362?s=20)
+44. Hans Moog mit [1/7 Tweets](https://twitter.com/hus_qy/status/1471663022049566725?s=20) über die Probleme die IOTA lösen will
+45. IOTA weekly mit Chris Müller: [auf deutsch](https://www.youtube.com/watch?v=EzpCuqaYJho); [auf englisch](https://www.youtube.com/watch?v=GrqeZk2xoeE)
+46. IOTA Staking/Airdrop: Erstes Video von Firefly wie der Prozess aussehen wird: [Tweet](https://twitter.com/Moonshot7161969/status/1471933647288741891?s=20)
+47. Boba Junior hat eine Smart Contract Agency angemeldet um Leuten bei ihren Ideen zu IOTA SC zu helfen: [Tweet](https://twitter.com/bobajunior91/status/1459921897819447296?s=20)
+48. Adidas hat die erste [NFT Collection](https://twitter.com/adidasoriginals/status/1471909577658675204?s=20) heraus gebracht. Und einer hat es geschafft davon 330 mit einem Smart Contract und 165 SubSmart Contracts zu minten. Das hat ihn aber $104K an gas fees gekostet: [Tweet](https://twitter.com/Montana_Wong/status/1472023769518510081?s=20)
+49. Rusty Robot Country Club mit [Soon-Tweet](https://twitter.com/RustyRobotCC/status/1472126019830272001?s=20)
+50. Hey mit [Soon-Tweet](https://twitter.com/Heiartwork/status/1472144163554668545?s=20) zum Thema IOTA NFT Kunst(Art)
+51. Tokenized Kiwi ist jetzt ein offiziell eingetragenes Warenzeichen (Trademark): [Tweet](https://twitter.com/tokenizedkiwi/status/1472222180331171859?s=20) Es geht wohl darum echte Kunst mit digitaler Kunst zu verbinden. Hier die Webseite [tokenized.kiwi](https://tokenized.kiwi/)
+52. Das NFT Projekt [IOTA Pets auf Twitter](https://twitter.com/iotapets) haben eine [Webseite](https://www.iotapets.com/) die kurz online war...
+53. Elyzy, ein Cryptotrader mit 125K Followern, wird auf IOTA aufmerksam und [tweetet über den Chart](https://twitter.com/eliz883/status/1472338270956797955?s=20)
+54. Filancore [tweetet](https://twitter.com/FilancoreGmbH/status/1471808424388214784?s=20) über ihre digital Identity Lösung die für "devices (e.g. machines, sensors & cars), infrastructure and systems" gedacht ist und für die Industrie (OEMs, manufacturers of industrial components, system producers & #IoT operators)
