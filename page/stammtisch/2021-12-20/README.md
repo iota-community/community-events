@@ -8,7 +8,7 @@
 6. ProbOps arbeitet mit Dussman Service zusammen: [Digitale Auftragssteuerung: Dussmann Service und PropOps schließen Systeme für digitales Scheckheft im Gebäudebetrieb zusammen](https://www.dussmann.com/dussmann-service/news/detail/article/digitale-auftragssteuerung-dussmann-service-und-propops-schliessen-systeme-fuer-digitales-scheckheft-im-gebaeudebetrieb-zusammen/); Holger Köther [tweetet](https://twitter.com/HolgerKoether/status/1470735242323443724?s=20) dazu; Es wird vom Kryptoguru auch auf deutsch darüber berichtet: [IOTA ZÜNDET LIVE-ANWENDUNG IN DER IMMOBILIENBRANCHE](https://krypto-guru.de/news/iota-immobilienbranche/)
 7. Raspihive update: [Tweet](https://twitter.com/raspihive/status/1470647399265841152?s=20) und [Tutorial](https://iota-industrie-4-0.blogspot.com/2021/12/tutorial-zur-installation-und.html)
 8. Die Webseite von [chromi.io](https://www.cromy.io/#) ist jetzt live
-9. pxdg will am 19.12. die Tarot Trading Cards über IOTAshops verkaufen: [Tweet](https://twitter.com/pxdg3/status/1470709922543329288?s=20); Die Details zu den Karten sind mittlerweile alle online auf [pixidoggy.com](https://pixeldoggy.com/iotarot)
+9. pxdg will am 19.12. die Tarot Trading Cards über IOTAshops verkaufen: [Tweet](https://twitter.com/pxdg3/status/1470709922543329288?s=20); Die Details zu den Karten sind mittlerweile alle online auf [pixidoggy.com](https://pixeldoggy.com/iotarot); Nach 15min war alles ausverkuaft: [Tweet](https://twitter.com/iotashop/status/1472591325434363912?s=20)
 10. Elon Musk will Doge im Tesla Merchandise Shop zulassen und alle drehen wieder durch/ Doge +25% in 1h.... [Tweet](https://twitter.com/elonmusk/status/1470703708677840896?s=20)
 11. Disentangle [tweetet 1/5](https://twitter.com/disentangleDNS/status/1470747203635494916?s=20) darüber, dass sie einen "#IOTA Name Service (INS) for gas-free, sapiens-friendly wallet & dApp addresses" bauen wollen.
 12. [Soon-Tweet](https://twitter.com/Sphere_Hub_io/status/1470639016349417473?s=20) von Sphere; Stichwort Multiers...
@@ -54,3 +54,9 @@
 52. Das NFT Projekt [IOTA Pets auf Twitter](https://twitter.com/iotapets) haben eine [Webseite](https://www.iotapets.com/) die kurz online war...
 53. Elyzy, ein Cryptotrader mit 125K Followern, wird auf IOTA aufmerksam und [tweetet über den Chart](https://twitter.com/eliz883/status/1472338270956797955?s=20)
 54. Filancore [tweetet](https://twitter.com/FilancoreGmbH/status/1471808424388214784?s=20) über ihre digital Identity Lösung die für "devices (e.g. machines, sensors & cars), infrastructure and systems" gedacht ist und für die Industrie (OEMs, manufacturers of industrial components, system producers & #IoT operators)
+55. TangleLabs [veröffentlicht](https://twitter.com/Tangle_Labs/status/1472579152033333255?s=20) ein Tamper-Proof Digital Ticketing System [tixit.cc](https://tixit.cc/)
+56. Neues Meerkats NFT Projekt: [Tweet mit #IOTA](https://twitter.com/CultOfMeerkat/status/1472585872944123919?s=20)
+57. Dom Schiener gibt einen Kommentar ab im [Cointelegraph - From DeFi year to decade: Is mass adoption here? Experts Answer, Part 1](https://cointelegraph.com/explained/from-defi-year-to-decade-is-mass-adoption-here-experts-answer-part-1?s=09)
+58. Und noch ein NFT Projekt: Life of fruits: [Tweet](https://twitter.com/Life_of_Fruits1/status/1472531461743992838?s=20)
+59. [Hei](https://twitter.com/Heiartwork) hat Dom Schiener gemalt: [Tweet](https://twitter.com/Heiartwork/status/1472503653575667712?s=20) und noch viel vor: "Digital Fine Artist | #NFT & #ART | #IOTA Lover" 
+60. Charley Varley [meldet sich auf Twitter](https://twitter.com/c_varley/status/1472618537495805956?s=20) zum Thema "Warum braucht man den IOTA Token?"
