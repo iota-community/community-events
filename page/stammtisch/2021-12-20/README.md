@@ -44,3 +44,12 @@
 42. Whales of Wallstreet kündigen ein AMA mit IOTA für nächste Woche an: [Tweet](https://twitter.com/Whales0fWallSt/status/1471550962833764362?s=20)
 43. Hans Moog mit [1/7 Tweets](https://twitter.com/hus_qy/status/1471663022049566725?s=20) über die Probleme die IOTA lösen will
 44. IOTA weekly mit Chris Müller: [auf deutsch](https://www.youtube.com/watch?v=EzpCuqaYJho); [auf englisch](https://www.youtube.com/watch?v=GrqeZk2xoeE)
+45. IOTA Staking/Airdrop: Erstes Video von Firefly wie der Prozess aussehen wird: [Tweet](https://twitter.com/Moonshot7161969/status/1471933647288741891?s=20)
+46. Boba Junior hat eine Smart Contract Agency angemeldet um Leuten bei ihren Ideen zu IOTA SC zu helfen: [Tweet](https://twitter.com/bobajunior91/status/1459921897819447296?s=20)
+47. Adidas hat die erste [NFT Collection](https://twitter.com/adidasoriginals/status/1471909577658675204?s=20) heraus gebracht. Und einer hat es geschafft davon 330 mit einem Smart Contract und 165 SubSmart Contracts zu minten. Das hat ihn aber $104K an gas fees gekostet: [Tweet](https://twitter.com/Montana_Wong/status/1472023769518510081?s=20)
+48. Rusty Robot Country Club mit [Soon-Tweet](https://twitter.com/RustyRobotCC/status/1472126019830272001?s=20)
+49. Hey mit [Soon-Tweet](https://twitter.com/Heiartwork/status/1472144163554668545?s=20) zum Thema IOTA NFT Kunst(Art)
+50. Tokenized Kiwi ist jetzt ein offiziell eingetragenes Warenzeichen (Trademark): [Tweet](https://twitter.com/tokenizedkiwi/status/1472222180331171859?s=20) Es geht wohl darum echte Kunst mit digitaler Kunst zu verbinden. Hier die Webseite [tokenized.kiwi](https://tokenized.kiwi/)
+51. Das NFT Projekt [IOTA Pets auf Twitter](https://twitter.com/iotapets) haben eine [Webseite](https://www.iotapets.com/) die kurz online war...
+52. Elyzy, ein Cryptotrader mit 125K Followern, wird auf IOTA aufmerksam und [tweetet über den Chart](https://twitter.com/eliz883/status/1472338270956797955?s=20)
+53. 
