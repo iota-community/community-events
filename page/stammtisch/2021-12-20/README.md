@@ -60,5 +60,5 @@
 58. Und noch ein NFT Projekt: Life of fruits: [Tweet](https://twitter.com/Life_of_Fruits1/status/1472531461743992838?s=20)
 59. [Hei](https://twitter.com/Heiartwork) hat Dom Schiener gemalt: [Tweet](https://twitter.com/Heiartwork/status/1472503653575667712?s=20) und noch viel vor: "Digital Fine Artist | #NFT & #ART | #IOTA Lover" 
 60. Charley Varley [meldet sich auf Twitter](https://twitter.com/c_varley/status/1472618537495805956?s=20) zum Thema "Warum braucht man den IOTA Token?"
-61. Issausus2020 hat eine Übersicht zu dem IOTA Ecosystem als One-Pager [veröffentlicht](https://twitter.com/Issaus2020/status/1472689487566225423?s=20)
+61. [Issausus2020](https://twitter.com/Issaus2020) hat eine Übersicht zum IOTA Ecosystem eine [One-Pager IOTA Übersicht veröffentlicht](https://twitter.com/Issaus2020/status/1472689487566225423?s=20)
 62. The Fans Together suchen Leute die sich für Sport und Crypto begeistern und die mitentwickeln wollen: [Tweet](https://twitter.com/TheFansTogether/status/1472635905382961154?s=20) 
