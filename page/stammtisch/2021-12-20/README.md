@@ -11,7 +11,7 @@
 9. [pxdg](https://twitter.com/pxdg3) will am 19.12. die Tarot Trading Cards über IOTAshops verkaufen: [Tweet](https://twitter.com/pxdg3/status/1470709922543329288?s=20); Die Details zu den Karten sind mittlerweile alle online auf [pixidoggy.com](https://pixeldoggy.com/iotarot); Update: Nach 15min war alles ausverkauft: [Tweet](https://twitter.com/iotashop/status/1472591325434363912?s=20)
 10. Elon Musk will Doge im Tesla Merchandise Shop zulassen und alle drehen wieder durch/ Doge +25% in 1h.... [Tweet](https://twitter.com/elonmusk/status/1470703708677840896?s=20)
 11. Disentangle [tweetet 1/5](https://twitter.com/disentangleDNS/status/1470747203635494916?s=20) darüber, dass sie einen "#IOTA Name Service (INS) for gas-free, sapiens-friendly wallet & dApp addresses" bauen wollen.
-12. [Soon-Tweet](https://twitter.com/Sphere_Hub_io/status/1470639016349417473?s=20) von Sphere; Stichwort Multiers... Und noch ein [Soon Tweet](https://twitter.com/Sphere_Hub_io/status/1472649881445715969?s=20)
+12. [Soon-Tweet](https://twitter.com/Sphere_Hub_io/status/1470639016349417473?s=20) von Sphere; Stichwort Multivers... Und noch ein [Soon Tweet](https://twitter.com/Sphere_Hub_io/status/1472649881445715969?s=20) von Sphere
 13. Neues zur Java Schwachstelle: Tagesschau.de: [Große Sorgen wegen Log4j-Schwachstelle](https://www.tagesschau.de/inland/bsi-schadsoftware-103.html)
 14. swarm update: [Tweet](https://twitter.com/TANGLEBAY/status/1470771230835945499?s=20)
 15. Wurde Coinmarketcap gehackt? Hans Moog [Tweet mit Screenshot](https://twitter.com/hus_qy/status/1470870584032731136?s=20). Der Monsterpreisanstieg ist leider nicht real...
