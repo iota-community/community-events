@@ -63,3 +63,4 @@
 61. [Issausus2020](https://twitter.com/Issaus2020) hat eine Übersicht zum IOTA Ecosystem eine [One-Pager IOTA Übersicht veröffentlicht](https://twitter.com/Issaus2020/status/1472689487566225423?s=20)
 62. The Fans Together suchen Leute die sich für Sport und Crypto begeistern und die mitentwickeln wollen: [Tweet](https://twitter.com/TheFansTogether/status/1472635905382961154?s=20) 
 63. Artikel: [Web 3.0 vs Metaverse: What’s the difference?](https://homo-digitalis.net/web-3-0-vs-metaverse-whats-the-difference/); Darin steht: "For a scalable new internet of massive depth and width we need next-generation DLTs. I see the projects IOTA or HEDERA as promising."
+64. 3min. [Video über IOTA Shimmer und Assembly auf deutsch](https://www.youtube.com/watch?v=bp4996spnxc&feature=youtu.be)
