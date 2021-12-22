@@ -17,5 +17,5 @@
 15. Sphere will bald ein Weihnachtsgeschenk releasen: [Tweet](https://twitter.com/Sphere_Hub_io/status/1473319443992395779?s=20)
 16. TangleBay ist mal wieder Community Hero der Woche! Seine Nodes haben das Staking gerettet... [Tweet](https://twitter.com/TANGLEBAY/status/1473483499092983811?s=20)
 17. Limo mit langem [Tweetstorm](https://twitter.com/42_paradox/status/1473297237191053323?s=20)
-18. Hans Moog mit einen paar Aussagen zum zuküftigen Trustmodel: [Tweet](https://twitter.com/hus_qy/status/1472974861261807625?s=20) "My grandma will always be my grandma and no attacker will ever be able to change that"
+18. Hans Moog mit ein paar Aussagen zum zuküftigen Trustmodel: [Tweet](https://twitter.com/hus_qy/status/1472974861261807625?s=20) "My grandma will always be my grandma and no attacker will ever be able to change that"
 19. 
