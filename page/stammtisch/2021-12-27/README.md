@@ -18,4 +18,5 @@
 16. TangleBay ist mal wieder Community Hero der Woche! Seine Nodes haben das Staking gerettet... [Tweet](https://twitter.com/TANGLEBAY/status/1473483499092983811?s=20)
 17. Limo mit langem [Tweetstorm](https://twitter.com/42_paradox/status/1473297237191053323?s=20)
 18. Hans Moog mit ein paar Aussagen zum zuküftigen Trustmodel: [Tweet](https://twitter.com/hus_qy/status/1472974861261807625?s=20) "My grandma will always be my grandma and no attacker will ever be able to change that"
-19. 
+19. Elon Musk macht sich über web3.0 lustig: [Tweet](https://twitter.com/elonmusk/status/1473165434518224896?s=20); Jack steigt auch gleich mit ein: [Tweet](https://twitter.com/jack/status/1473165759224463360?s=20); Hier das Thema zusammengefasst im [Artiekel von U.Today](https://u.today/elon-musk-and-dogecoin-creator-continuously-attacking-web3-posting-controversial-gifs)
+20. Auf der [Chrysalis Status Page](https://chrysalis.iota.org/status) sieht man jetzt auch die Staking Funds Prozente. Nach 24h bereits 20%
