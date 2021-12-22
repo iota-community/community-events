@@ -29,4 +29,5 @@
 27. Neues witziges IOTA Meme Video von Winmik: [Interstellar STAKING](https://www.youtube.com/watch?v=iT3bFw3Gamw&t=69s)
 28. Bitpanda Probleme mit IOTA Wallet... [Tweet](https://twitter.com/bitpanda/status/1473607720326553602?s=20); Bei Binance sind auch die withdraws disabled: [RedditPost](https://www.reddit.com/r/Iota/comments/rlhikw/withdrawing_from_binance_disabled_anyone_else/?utm_source=ifttt)
 29. Assembly bedankt sich mit diesem [Tweet](https://twitter.com/assembly_net/status/1473564092166193152?s=20) nochmal für die $100m Startkapital und LD Capital [antwortet](https://twitter.com/LD_Capital/status/1473650695543083011?s=20) mit "Congratulations on the $100 Million Ecosystem Funding, which we believe has only just begun!"
-30. 
+30. Donerstag IOTA Talk in der Tanglegang: [Tweet](https://twitter.com/GangTangleTalk/status/1473660906294980613?s=20)
+31. 
