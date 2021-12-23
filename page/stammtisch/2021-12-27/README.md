@@ -31,3 +31,8 @@
 29. Assembly bedankt sich mit diesem [Tweet](https://twitter.com/assembly_net/status/1473564092166193152?s=20) nochmal für die $100m Startkapital und LD Capital [antwortet](https://twitter.com/LD_Capital/status/1473650695543083011?s=20) mit "Congratulations on the $100 Million Ecosystem Funding, which we believe has only just begun!"
 30. Donerstag IOTA Talk in der Tanglegang: [Tweet](https://twitter.com/GangTangleTalk/status/1473660906294980613?s=20)
 31. Achtung Scammer sind unterwegs! [Tweet](https://twitter.com/karuma303/status/1473411172795928580?s=20)
+32. Moonaco Podcast mit Linus Nauman: [Episode 1 auf Spotify](https://open.spotify.com/episode/6Quu9uuNoaMxHcaytohmQI?si=1Ebo0jV6QJKxNjB0Fekhyw&nd=1)
+33. Daniel Trauth Artikel im digitalHUB Aachen: [So gelingt die Monetarisierung industrieller Daten](https://aachen.digital/blog/so-gelingt-die-monetarisierung-industrieller-daten/)
+34. Von Hans Moog wurde jetzt auch so ein Multivers NFT Kunstwerk mit 100ten Bildern gemacht: [Tweet](https://twitter.com/Multiverse_Hans/status/1473715260209180676?s=20)
+35. Ist das ein Hinweis von Mat Yarger? [Tweet](https://twitter.com/Mat_Yarger/status/1473830611777474561?s=20) "There is so much out there left to be seen."
+36. 
