@@ -36,9 +36,12 @@
 34. Von Hans Moog wurde jetzt auch so ein Multivers NFT Kunstwerk mit 100ten Bildern gemacht: [Tweet](https://twitter.com/Multiverse_Hans/status/1473715260209180676?s=20)
 35. Ist das ein Hinweis von Mat Yarger? [Tweet](https://twitter.com/Mat_Yarger/status/1473830611777474561?s=20) "There is so much out there left to be seen."
 36. Es war interessant die Wallets der Exchanges zu betrachten: Binance [cold wallet](https://explorer.iota.org/mainnet/addr/iota1qrw93e6mpj8s4uxg5rxecs44uw07rc2r0awegvc9k9zdxk38rx9vs7wu9r9) und [hot wallet](https://explorer.iota.org/mainnet/addr/iota1qrp7wn7ag964yh7r6csphg8l47q9ehlpxz8tukhad09x7avjj09s5qunq87); Bitpanda [hot wallet](https://explorer.iota.org/mainnet/addr/iota1qzuw4ppc0jjc4rtdttz99qqv7h8gldyqvzq80tfgn5n4cemc3500uh3unex); 2,65 Tiota waren nach 6h weg: [Tweet 1/4 von Schmucklos](https://twitter.com/Schmucklos_/status/1473911808595570692?s=20)
-37. TangleSea will eine Bridge bauen zwischen Ethereum Binance Shimmer und Assembly mit der Hilfe von der IF: [Tweet von TangleBridge](https://twitter.com/TangleBridge/status/1473971657354227720?s=20); Blogpost[von TangleBridge](https://t.co/I1QNhLl2cX)
+37. TangelBridge: TangleSea will eine Bridge bauen zwischen Ethereum, Binance, Shimmer und Assembly mit der Hilfe von der IF: [Tweet von TangleBridge](https://twitter.com/TangleBridge/status/1473971657354227720?s=20); Blogpost[von TangleBridge](https://t.co/I1QNhLl2cX)
 38. Sphere von IOTA+ [tweetet](https://twitter.com/Sphere_Hub_io/status/1474141106866692099?s=20) über ihr Metavers Projekt (Metasphere]: [https://sphere-hub.io/](https://sphere-hub.io/)
 39. IOTAqua [tweetet](https://twitter.com/IOTAqua/status/1474046709319745537?t=IFb5MlkK1D6TaJFfnFN_GA&s=19) über ihr Showcase aus dem Forschungsgewächshaus des Landesbetriebs Landwirtschaft Hessen: Über ein LoRa-Modul entwickelt von [peerOs](https://www.peeros.de/#/) werden Wasserzählerdaten über das #ttn Campus-Netz der #hsgeisenheim in den #Tangle von #IOTA geschickt; Holger Köther hat darüber auch [getweetet](https://twitter.com/HolgerKoether/status/1474085421080625153?s=20) und es als "lighthouse projects of agriculture" bezeichnet
 40. Jack ehem. Twitter CEO ranted über Ethereum [Tweet](https://twitter.com/jack/status/1473887809211711491?t=WbQFEHKUg0W8n4MdTWTXoA&s=19) und Elon Musk [schreibt drunter](https://twitter.com/elonmusk/status/1473914193527070770?t=5jUGOJZvbMTjgdkl0GllWA&s=19): "That's why I am pro Doge"
-41. 
-42. 
+41. TangleBay mit swarm update v1.0.6: [Tweet](https://twitter.com/TANGLEBAY/status/1474171525074980866)
+42. [TheTangle.org](https://thetangle.org/) ist wieder da und zeigt an, ob die Addresse gestaked hat oder nicht. Hier ein Beispiel von einer [Addresse mit 124 Tiota](https://thetangle.org/address/iota1qrwfnskm4f7utdrxqnkfntfqxehtpj8s0kf68zkcwm0yrhuemzjp5sjfw5v?s=08) die gestaked hat. Ist das vielleicht eine Börse?
+43. Antonio Nardella zahlt schon 500Miota für die IOTA Tarot Karten: [Tweet](https://twitter.com/antonionardella/status/1474263020318732290?s=20)
+44. Neues NFT Projekt: [IOTACribs Tweet](https://twitter.com/iotacribs/status/1474059538215182341?s=20)
+45. 
