@@ -47,4 +47,4 @@
 45. Dan Simmerman war beim [IOTA Americas Group December 23rd 2021](https://www.youtube.com/watch?v=HT6NOYzBOzw)
 46. IOTAMorons verrraten mehr zu ihrem Projekt als Weihnachtsgeschenk: [Tweet](https://twitter.com/iotamorons/status/1474372618253914113?s=20)
 47. Liste von Exchanges die IOTA gelistet haben, aber withdraws diabled: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1474656360843419650?s=20)
-48. The moon mit 900K Followern [tweetet](https://twitter.com/TheMoonCarl/status/1474417094129291286?s=20) über IOTA
+48. The Moon(https://twitter.com/TheMoonCarl) mit 900K Followern [tweetet](https://twitter.com/TheMoonCarl/status/1474417094129291286?s=20) über IOTA
