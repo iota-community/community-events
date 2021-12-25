@@ -44,4 +44,7 @@
 42. [TheTangle.org](https://thetangle.org/) ist wieder da und zeigt an, ob die Addresse gestaked hat oder nicht. Hier ein Beispiel von einer [Addresse mit 124 Tiota](https://thetangle.org/address/iota1qrwfnskm4f7utdrxqnkfntfqxehtpj8s0kf68zkcwm0yrhuemzjp5sjfw5v?s=08) die gestaked hat. Ist das vielleicht eine Börse?
 43. Antonio Nardella zahlt schon 500Miota für die IOTA Tarot Karten: [Tweet](https://twitter.com/antonionardella/status/1474263020318732290?s=20)
 44. Neues NFT Projekt: [IOTACribs Tweet](https://twitter.com/iotacribs/status/1474059538215182341?s=20)
-45. 
+45. Dan Simmerman war beim [IOTA Americas Group December 23rd 2021](https://www.youtube.com/watch?v=HT6NOYzBOzw)
+46. IOTAMorons verrraten mehr zu ihrem Projekt als Weihnachtsgeschenk: [Tweet](https://twitter.com/iotamorons/status/1474372618253914113?s=20)
+47. Liste von Exchanges die IOTA gelistet haben, aber withdraws diabled: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1474656360843419650?s=20)
+48. The moon mit 900K Followern [tweetet](https://twitter.com/TheMoonCarl/status/1474417094129291286?s=20) über IOTA
