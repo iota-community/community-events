@@ -52,7 +52,7 @@
 50. [IOTA Americas Group December 23rd 2021](https://www.youtube.com/watch?v=HT6NOYzBOzw) mit Phylo, Eric Hop und Dan Simmerman
 51. TangleBay mit nächstem Update: [Tweet](https://twitter.com/TANGLEBAY/status/1474171525074980866?s=20)
 52. IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/144-wochenr%C3%BCckblick-vom-22-bis-25-dezember-2021/)
-53. IOTACrips mit neuem NFT Projekt: [Tweet 1](https://twitter.com/iotacribs/status/1474059538215182341?s=20); [Tweet 2](https://twitter.com/iotacribs/status/1474741724991864832?s=20) und hier die [Soon-Webseite](https://iotacribs.io/#/)
+53. IOTACrips mit neuem NFT Projekt: [Tweet 1](https://twitter.com/iotacribs/status/1474059538215182341?s=20); [Tweet 2](https://twitter.com/iotacribs/status/1474741724991864832?s=20) und hier die [Soon-Webseite](https://iotacribs.io/#/); Jetzt auch gelistet auf [iota-nft.art](https://iota-nft.art/cribs)
 54. IOTA ShortSqueeze: [Tweet 1](https://twitter.com/Gtzman2/status/1474863318728953860?s=20); [Tweet 2](https://twitter.com/UlyssesCrypto/status/1474356355100254218?s=20); [Tweet 3](https://twitter.com/iotafi/status/1475056120204984324?s=20)
 55. [The Fans Together](https://twitter.com/TheFansTogether) mit Airdrop für Follower: [Tweet](https://twitter.com/TheFansTogether/status/1474818069855887363?s=20)
 56. IOTA Wiki hat jetzt offenbar einen Twitter Bot: [Tweet](https://twitter.com/IotaWiki/status/1474845516643151881?s=20)
