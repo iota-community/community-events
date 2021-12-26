@@ -56,4 +56,4 @@
 54. IOTA ShortSqueeze: [Tweet 1](https://twitter.com/Gtzman2/status/1474863318728953860?s=20); [Tweet 2](https://twitter.com/UlyssesCrypto/status/1474356355100254218?s=20); [Tweet 3](https://twitter.com/iotafi/status/1475056120204984324?s=20)
 55. [The Fans Together](https://twitter.com/TheFansTogether) mit Airdrop für Follower: [Tweet](https://twitter.com/TheFansTogether/status/1474818069855887363?s=20)
 56. IOTA Wiki hat jetzt offenbar einen Twitter Bot: [Tweet](https://twitter.com/IotaWiki/status/1474845516643151881?s=20)
-57. Binance will am 27.12. withdraws öffnen: [Reddit Post mit Screenshot](https://www.reddit.com/r/Iota/comments/ro3xku/hope_it_will_work_for_everybody/9
+57. Binance will am 27.12. withdraws öffnen: [Reddit Post mit Screenshot](https://www.reddit.com/r/Iota/comments/ro3xku/hope_it_will_work_for_everybody/9)
