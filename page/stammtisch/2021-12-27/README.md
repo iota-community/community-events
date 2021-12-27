@@ -62,3 +62,4 @@
 60. TangleSwap [tweetet](https://twitter.com/TangleSwapE/status/1475467280616243206?s=20), dass sie offenbar schon zu 85% fertig sind und [Beta Tester mit diesem GoogleFormular](https://docs.google.com/forms/d/e/1FAIpQLSdzEpSh1QIzFbUEjij3uGDeC_xZzfGUeq8wDlivYqUdBxGkSA/viewform) suchen
 61. TanglePay enabled offenbar staking mit ihrem Mobile Wallet: [Tweet](https://twitter.com/tanglepaycom/status/1475328814813048836?s=21); Aber seid besser vorsichtig! Das wäre mir noch zu heiß...
 62. Hat zwar nicht unbedingt etwas mit Punkt 61 zu tun, aber die [IF warnt vor Scammern](https://twitter.com/iota/status/1475401669038981120?s=20) die falsche Firefly Wallets anbieten
+63. SatoshiStreetBets (60K Follower) mit zwei Tweets zu IOTA diese Woche: [1. Tweet](https://twitter.com/SatoshiStBets/status/1475096209379545093?s=20) zum Thema Staking und [2. Tweet](https://twitter.com/SatoshiStBets/status/1475485851555663873?s=20) "sleeping giant"
