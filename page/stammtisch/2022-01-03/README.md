@@ -6,3 +6,8 @@ Binance [cold wallet Adresse](https://explorer.iota.org/mainnet/addr/iota1qrw93e
 3. Zum Beginn des Stakens sind mehr als 60% der Token für das Staking angemeldet. [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1475801963539226626?s=20); Hier der aktuelle [IOTA Chrysalis Status](https://chrysalis.iota.org/status)
 4. Hans Moog hat sich mit einem brasilianischn Professor angelegt auf [Twitter](https://twitter.com/hus_qy/status/1383766171736961033?s=20)
 5. TangleSwap stellt ihre Crew vor: [Meet the crew behind TangleSwap](https://tangleswap.medium.com/meet-the-crew-behind-tangleswap-1d85c21af876)
+6. [TheFansTogether](https://twitter.com/TheFansTogether) verteilen NFT-Hüte für die ersten 2000 Follower: [Tweet](https://twitter.com/TheFansTogether/status/1475890927478706177?s=20)
+7. Neuer Twitter FUDer IamNomad (140K Follower): [Tweet 1](https://twitter.com/IamNomad/status/1475900242474283009?s=20); [Tweet 2](https://twitter.com/IamNomad/status/1475900443247185930?s=20); [Tweet 3](https://twitter.com/IamNomad/status/1475927519585050636?s=20); [Tweet 4](https://twitter.com/IamNomad/status/1475932866743881728?s=20)
+8. David Sonstebo will immernoch in Play to Earn projekte basierend auf IOTA investieren: [Tweet von Sonstebo](https://twitter.com/DavidSonstebo/status/1475915881054154755?s=20)
+9. [IOTA Node Manager App](https://iota-node-manager.devster-hh.de/) für IOS und Android: [Tweet](https://twitter.com/marcel_pochert/status/1475850233607299083?s=20)
+10. SoonLabs mit einem [Soon-Tweet](https://twitter.com/soon_labs/status/1474329662352359426?s=20) "We've got some updates coming up SOON that will give the community even more tools to work with...this year! "
