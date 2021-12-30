@@ -19,3 +19,6 @@ Binance [cold wallet Adresse](https://explorer.iota.org/mainnet/addr/iota1qrw93e
 16. Cartesi mit alpha release für Cartesi Rollups: [Cartesi DApps are here - 5 steps to develop applications on the blockchain OS](https://medium.com/cartesi/cartesi-dapps-are-here-e07f358207d6): Hier der [Tweet von Cartesi](https://twitter.com/cartesiproject/status/1476342010734911491?s=20) den Luka Stanisic damit [kommentiert](https://twitter.com/lukastanisic99/status/1476456805622501376?s=20), dass er das für sein IOTA Projekt verwenden will
 17. Ein [Tweet](https://twitter.com/Deep_Sea_Iotan/status/1476311903580213249?s=20) in dem vieles niedergeschrieben ist, was dieses Jahr von der IF erreicht wurde
 18. Chris Müller will wohl ein neues Lied singen... [Tweet](https://twitter.com/ChrisMuellerHI/status/1476448799212060672?s=20)
+19. Neuer Artikel von Mariana de la Roche [IF]: [How to unlock international trade with distributed ledger technology](https://apolitical.co/solution-articles/en/how-to-unlock-international-trade-with-distributed-ledger-technology)
+20. Mat Yarger hatte eine Diskussion auf Twitter Spaces: [Green Consensu Scales](https://twitter.com/Mat_Yarger/status/1475994705229922307?t=LsAcNLAAVdvaaiBaWutZ1Q&s=19)
+21. KuCoin hat den Start nochmal verschoben: [Tweet](https://twitter.com/1otaK1ng/status/1476480253908463617?s=20)
