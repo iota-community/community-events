@@ -22,3 +22,6 @@ Binance [cold wallet Adresse](https://explorer.iota.org/mainnet/addr/iota1qrw93e
 19. Neuer Artikel von Mariana de la Roche [IF]: [How to unlock international trade with distributed ledger technology](https://apolitical.co/solution-articles/en/how-to-unlock-international-trade-with-distributed-ledger-technology)
 20. Mat Yarger hatte eine Diskussion auf Twitter Spaces: [Green Consensu Scales](https://twitter.com/Mat_Yarger/status/1475994705229922307?t=LsAcNLAAVdvaaiBaWutZ1Q&s=19)
 21. KuCoin hat den Start nochmal verschoben: [Tweet](https://twitter.com/1otaK1ng/status/1476480253908463617?s=20)
+22. Neuer Artikel: [Mit Distributed-Ledger-Technologie und IoT zur Industrie der Zukunft](https://www.industry-of-things.de/mit-distributed-ledger-technologie-und-iot-zur-industrie-der-zukunft-a-1080361/)
+23. Neuer Artikel: [Digital IDs - The New Nuclear Energy?](https://sefear.medium.com/digital-ids-the-new-nuclear-energy-b7c254e10ff6?source=social.tw)
+24. Hat sich Eric Wall da etwas positiv zum IOTA Coordicide [geäußert](https://twitter.com/ercwl/status/1476113446634676228?s=20)?
