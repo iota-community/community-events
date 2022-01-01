@@ -25,3 +25,7 @@ Binance [cold wallet Adresse](https://explorer.iota.org/mainnet/addr/iota1qrw93e
 22. Neuer Artikel: [Mit Distributed-Ledger-Technologie und IoT zur Industrie der Zukunft](https://www.industry-of-things.de/mit-distributed-ledger-technologie-und-iot-zur-industrie-der-zukunft-a-1080361/)
 23. Neuer Artikel: [Digital IDs - The New Nuclear Energy?](https://sefear.medium.com/digital-ids-the-new-nuclear-energy-b7c254e10ff6?source=social.tw)
 24. Hat sich Eric Wall da etwas positiv zum IOTA Coordicide [geäußert](https://twitter.com/ercwl/status/1476113446634676228?s=20)?
+25. Dom Schiener mit einem [Tweetstorm 1/17](https://twitter.com/DomSchiener/status/1476943083354959876?s=20) Jahresrückblick/-ausblick
+26. Die IF [tweetet](https://twitter.com/iota/status/1476916371145596971?s=20) über den Blogpost: [A Year of Transformation - 2021 in Review, 2022 in Preview](https://blog.iota.org/a-year-of-transformation/)
+27. Tutorial: [Creating your own token on IOTA smart contracts using Solidity (No programming required)](https://iotaguide.notion.site/Creating-your-own-token-on-IOTA-smart-contracts-using-Solidity-No-programming-required-d61aeff320324f2a9cb76c620aa0ace4)
+28. 
