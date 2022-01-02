@@ -40,3 +40,4 @@ Binance [cold wallet Adresse](https://explorer.iota.org/mainnet/addr/iota1qrw93e
 37. Goves.io [tweetet](https://twitter.com/govs_io/status/1477649314268782592?s=21) über ihre Partnerschaft mit der IF und wie sie in den USA das Vertrauen für IOTA erhöhen wollen
 38. Lending Rates für IOTA auf Bitfinex gestiegen: [Tweet](https://twitter.com/cryptoyields/status/1477551505171308544?s=20) Was bedeutet das?
 39. MissCrypto auf Youtube über ISO20022: [Crypto & ISO 20022 ? Hintergrund, Analyse & Zusammenhänge - Einfach Erklärt (Deutsch)](https://www.youtube.com/watch?v=hdM1oBxPvcc)
+40. TangleLabs mit [Soon-Tweet](https://twitter.com/Tangle_Labs/status/1477239855205736454?s=20) für Freitag
