@@ -42,3 +42,4 @@ Binance [cold wallet Adresse](https://explorer.iota.org/mainnet/addr/iota1qrw93e
 39. MissCrypto auf Youtube über ISO20022: [Crypto & ISO 20022 ? Hintergrund, Analyse & Zusammenhänge - Einfach Erklärt (Deutsch)](https://www.youtube.com/watch?v=hdM1oBxPvcc)
 40. TangleLabs mit [Soon-Tweet](https://twitter.com/Tangle_Labs/status/1477239855205736454?s=20) für Freitag
 41. Rusty Robot Country Club: Für 50Miota ist man wohl dabei: [Tweet](https://twitter.com/RustyRobotCC/status/1477209080758517761?s=20); Mehr dazu soon auf der [Webseite](https://rustyrobot.io/)
+42. Das IF Smart Contract Team hat wohl durchgearbeitet an Weihnachten und in der Ferien: [Tweetstorm](https://twitter.com/Deep_Sea_Iotan/status/1477695883961454594?s=20)
