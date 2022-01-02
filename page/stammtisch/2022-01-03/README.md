@@ -26,10 +26,14 @@ Binance [cold wallet Adresse](https://explorer.iota.org/mainnet/addr/iota1qrw93e
 23. Neuer Artikel: [Digital IDs - The New Nuclear Energy?](https://sefear.medium.com/digital-ids-the-new-nuclear-energy-b7c254e10ff6?source=social.tw)
 24. Hat sich Eric Wall da etwas positiv zum IOTA Coordicide [geäußert](https://twitter.com/ercwl/status/1476113446634676228?s=20)?
 25. Dom Schiener mit einem [Tweetstorm 1/17](https://twitter.com/DomSchiener/status/1476943083354959876?s=20) Jahresrückblick/-ausblick. Christoph Strnadl von der Software AG hat sich dazu auch positiv [geäußert](https://twitter.com/archimate/status/1476966378246651907?s=20)
-26. Die IF [tweetet](https://twitter.com/iota/status/1476916371145596971?s=20) über den Blogpost: [A Year of Transformation - 2021 in Review, 2022 in Preview](https://blog.iota.org/a-year-of-transformation/)
+26. Die IF [tweetet](https://twitter.com/iota/status/1476916371145596971?s=20) über den Blogpost: [A Year of Transformation - 2021 in Review, 2022 in Preview](https://blog.iota.org/a-year-of-transformation/); Hier [aufdeutsch](https://iota-kurs.de/ein-jahr-der-veraenderung/)
 27. Tutorial: [Creating your own token on IOTA smart contracts using Solidity (No programming required)](https://iotaguide.notion.site/Creating-your-own-token-on-IOTA-smart-contracts-using-Solidity-No-programming-required-d61aeff320324f2a9cb76c620aa0ace4)
-28. Vitalik Buterin mit einem persönlichen Rückblick auf Crypto: [Tweet 1/28](https://twitter.com/VitalikButerin/status/1477402749994156036?s=20)
+28. Vitalik Buterin mit einem persönlichen Rückblick auf Crypto: [Tweet 1/28](https://twitter.com/VitalikButerin/status/1477402749994156036?s=20); In einem Punkt gibt er zu, dass er völlig falsch lag in seiner Annahme wie lange es von einem PoC zum fertigen Produkt dauert: Holger Köther hat das [retweetet](https://twitter.com/HolgerKoether/status/1477615382718521345?s=20)
 29. Dom Schiener hatte ja auch etwas zum EU Projekt (EBSI) [getweetet](https://twitter.com/domschiener/status/1476943211511881730?s=21), woraufhin der Blocktrainer sich mal wieder ungünstig zu IOTA geäußert hat: [Tweet](https://twitter.com/blocktrainer/status/1477306401785483266?s=20)
 30. BKEX Global listet IOTA: [Tweet](https://twitter.com/IotaBullrun2020/status/1477257345965203459?s=20); Mehr dazu [hier](https://bkex.zendesk.com/hc/en-us/articles/4413542027289)
-31. 
-32. 
+31. Raspihive mit einem Breaking Change: [Tweet](https://twitter.com/raspihive/status/1477678650212368385?s=20)
+32. TangleBay mit Telegram Bot für swarm: [Artikel](https://tanglebay.com/article/4-swarm-watchdog-telegram-notifications/)
+33. IOTATalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/147-week-in-review-from-26th-december-2021-to-2nd-januar-2022/)
+34. Die Migrationsquote hat am Sonntag 88% erreicht: [Tweet](https://twitter.com/Vrom14286662/status/1477701370547523585?s=20)
+35. R. Brennan Kelly mit Artikelreihe zum Thema Multivers und IOTAs Interpretation vom Nakamoto Consensus <br>[Finality—Part 1: Two Generals](https://iologica.substack.com/p/two-generals) <br>[Finality—Part 2: Bookkeeping](https://iologica.substack.com/p/bookkeeping) <br>[Finality—Part 3: Total Order](https://iologica.substack.com/p/total-order) <br>[Finality—Part 4: Many Worlds](https://iologica.substack.com/p/many-worlds)
+36. 
