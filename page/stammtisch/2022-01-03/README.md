@@ -43,3 +43,7 @@ Binance [cold wallet Adresse](https://explorer.iota.org/mainnet/addr/iota1qrw93e
 40. TangleLabs mit [Soon-Tweet](https://twitter.com/Tangle_Labs/status/1477239855205736454?s=20) für Freitag
 41. Rusty Robot Country Club: Für 50Miota ist man wohl dabei: [Tweet](https://twitter.com/RustyRobotCC/status/1477209080758517761?s=20); Mehr dazu soon auf der [Webseite](https://rustyrobot.io/)
 42. Das IF Smart Contract Team hat wohl durchgearbeitet an Weihnachten und in der Ferien: [Tweetstorm](https://twitter.com/Deep_Sea_Iotan/status/1477695883961454594?s=20)
+43. Mit der neuen Hornetversion V1.3.2 [Tweet](https://twitter.com/2779530283Mi/status/1477758991572910086?s=20) ist TangleBay jetzt eine von 3 ofiziellen Nodes in Firefly: [Tweet](https://twitter.com/tanglebay/status/1477902581007536134?s=20)
+44. Navin R. mit interessanten [Tweets](https://twitter.com/navinram999/status/1477558272555106309?s=20) zum Tokenization Framework
+45. TangleTunes hat einen Sound-Tangleexplorer gebaut: [Tweet](https://twitter.com/TangleTunes/status/1477667816136454150?s=20); Hier geht's direkt zu [tangletunes.io](https://tangletunes.io/visualizer)
+46. Neuer Artikel: [The Fabric Of Computational Non-Duality](https://medium.com/@parecejacob/227b2daa6ba3)
