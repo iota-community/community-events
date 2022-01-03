@@ -47,3 +47,6 @@ Binance [cold wallet Adresse](https://explorer.iota.org/mainnet/addr/iota1qrw93e
 44. Navin R. mit interessanten [Tweets](https://twitter.com/navinram999/status/1477558272555106309?s=20) zum Tokenization Framework
 45. TangleTunes hat einen Sound-Tangleexplorer gebaut: [Tweet](https://twitter.com/TangleTunes/status/1477667816136454150?s=20); Hier geht's direkt zu [tangletunes.io](https://tangletunes.io/visualizer)
 46. Neuer Artikel: [The Fabric Of Computational Non-Duality](https://medium.com/@parecejacob/227b2daa6ba3)
+47. Die Stageholder Webseite ist online: [stageholder.net](https://stageholders.net/); Mit diesem [Tweet](https://twitter.com/stageholders/status/1477942698120290307?s=20) veröffentlicht
+48. Staked Funds sind heute (Montag) um 4% auf 68% gestiegen: [Tweet](https://twitter.com/CryptoTruthsee1/status/1477952072238698496?s=20)
+49. Artikel: [7 Cryptocurrencies That Can Triple Your Money in 2022](https://www.fool.com/investing/2022/01/01/7-cryptocurrencies-can-triple-your-money-in-2022/)
