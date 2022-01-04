@@ -8,3 +8,7 @@
 6. Es gibt eine neue ["ist of centralised exchanges that support IOTA"](https://iotaguide.notion.site/List-of-centralised-exchanges-that-support-IOTA-ad3772e3c30949dd9391c53dd3b0caac)
 7. Am Freitag ist/war IOTA Stammtisch in München ab 18 Uhr im Hans im Glück: [Tweet](https://twitter.com/IotaMunchen/status/1478287268372697089?s=20), [Meetup Event](https://www.meetup.com/de-DE/IOTA-Muc/events/282490433)
 8. TanglePay wurde upgedated: [Tweet](https://twitter.com/tanglepaycom/status/1478201682391871490?s=20); Und es gab Antworten zu Torsten Heisslers mit kritischen Fragen: [Tweet](https://twitter.com/theissler/status/1478243696197910530?s=20) die wir mal besprechen könnten
+9. Bitpanda [tweetet](https://twitter.com/bitpanda/status/1478324756243963904?s=20), dass sie das Staking bzw. den Airdrop soon unterstützen
+10. Melania Trump [tweetet](https://twitter.com/MELANIATRUMP/status/1478129577402765317?s=20) zum Bitcoin Geburtstag; Ozzy Osbourne macht NFTs: [Tweet](https://twitter.com/OzzyOsbourne/status/1478112053223067648?s=20), Paris Hilten mit ParisHilton.eth im [Twitter Namen](https://twitter.com/ParisHilton) und Eminem hat einen [NFT Affen als Profil Foto](https://twitter.com/Eminem). Sind wir im Mainstream angekommen?
+11. MicroHash meldet sich bei Twitter ab und will nur noch über seine decensoredApp Kommunizieren?!? [Twitter Lukas Tassanyi](https://twitter.com/micro_hash)
+12. 
