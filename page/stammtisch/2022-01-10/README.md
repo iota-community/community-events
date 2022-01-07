@@ -32,5 +32,5 @@
 30. [Tweet](https://twitter.com/banksybots/status/1478873385052610560?s=20) von neuem NFT Projekt: BanksyBot(https://banksybot.com/)
 31. [IOTA Americas Group Meeting](https://www.youtube.com/watch?v=rbeDT4NdcO8&feature=youtu.be) mit [Greg](https://twitter.com/gregmart/status/1478803689225609217) von [Govs.io](govs.io)
 32. [Inspyrd](https://inspyrd.io/) macht Lust auf crosschain NFT Marketplaces enabled by IOTA: [Tweet](https://twitter.com/inspyrdNFT/status/1478711454580846602?s=20)
-33. 
+33. TheFansTogether haben wohl ihr NFTs verteilt: [Tweet 1](https://twitter.com/TheFansTogether/status/1479231151629815809?s=20); [Tweet2](https://twitter.com/TheFansTogether/status/1479231660394745856?s=20)
 34. 
