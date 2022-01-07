@@ -35,3 +35,4 @@
 33. TheFansTogether haben wohl ihr NFTs verteilt: [Tweet 1](https://twitter.com/TheFansTogether/status/1479231151629815809?s=20); [Tweet2](https://twitter.com/TheFansTogether/status/1479231660394745856?s=20)
 34. Yoti NFT Airdrop soon? [Tweet](https://twitter.com/lexienft/status/1479427751748808711?s=20)
 35. Navin unterhält sich weiter mit dem brasilianischen Professor [auf Twitter](https://twitter.com/navinram999/status/1479455763223306240?s=20)
+36. Hans Moog vs Fantom: [Tweet](https://twitter.com/hus_qy/status/1479127185294254088?t=zUevkumfcPKco3ORONIRFQ&s=19)
