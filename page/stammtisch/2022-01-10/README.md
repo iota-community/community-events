@@ -1,6 +1,6 @@
 ## Stammtischthemen für den 10.01.2022
 
-1. Ghosti mit seinem ersten Youtube Video in dem es auch um Hans Moog, IOTA und um den Blocktrainer geht: [PoW vs PoS #0 - Maxis sind die Schlimmsten](https://www.youtube.com/watch?v=CYFMdQq2i1o)
+1. Ghosti mit seinem ersten Youtube Video in dem es auch um Hans Moog, IOTA und um den Blocktrainer geht: [PoW vs PoS #0 - Maxis sind die Schlimmsten](https://www.youtube.com/watch?v=CYFMdQq2i1o); Btw.: Sein zweites ist auch schon online: [PoW vs PoS #1 - Wie funktionieren Krypto-Netzwerke?](https://www.youtube.com/watch?v=0aTnNCEXUs8)
 2. NFT Marketplace renaming zu Pylon: [Tweet](https://twitter.com/NFTIOTA/status/1478106770555944965?s=20)
 3. TangleLabs [tweetet](https://twitter.com/Tangle_Labs/status/1478103812397219844?s=20) darüber, dass ihr whitelisting offen ist. Hier ein [How-to-Tutorial](https://nft.tanglelabs.io/info). 100 Miota kostet das NFT... 
 4. Hans Moog [kommentiert](https://twitter.com/hus_qy/status/1478122122857877507?s=20) den Wolfram Artikel: [The Fabric Of Computational Non-Duality](https://medium.com/@parecejacob/the-fabric-of-computational-non-duality-227b2daa6ba3)
@@ -27,4 +27,10 @@
 25. Multi kein Ti Holder mehr: [Tweet](https://twitter.com/multifolio/status/1479000533377564675?s=20)
 26. Wynt postet [ein Yat](https://y.at/☁💎🦋💎☁) zu IOTA: [Tweet](https://twitter.com/wynt_tnyw/status/1478796215164841987?s=20) ... Was immer das sein soll...
 27. Marco Besier [tweetet] was an IOTA so toll sein soll und bekommt jede Menge Antworten: [Holger Köther 1/4](https://twitter.com/HolgerKoether/status/1478994063064014850?s=20); [Navin R.](https://twitter.com/navinram999/status/1479013493076643842?s=20)
-28. 
+28. Navin spricht davon, dass IOTA zu einem CRDT System tendiert: [Tweet](https://twitter.com/navinram999/status/1479191058537926662?s=20) Das soll uns Hans Moog mal erklären...
+29. Mozilla hat offenbar einen shitstorm abbekommen weil sie crypto als Spenden akzeptiert haben: [Tweet](https://twitter.com/mozilla/status/1479143340159422468?s=20). Scheinbar wollen sie auf Ecofriendly Crypto setzen...
+30. [Tweet](https://twitter.com/banksybots/status/1478873385052610560?s=20) von neuem NFT Projekt: BanksyBot(https://banksybot.com/)
+31. [IOTA Americas Group Meeting](https://www.youtube.com/watch?v=rbeDT4NdcO8&feature=youtu.be) mit [Greg](https://twitter.com/gregmart/status/1478803689225609217) von [Govs.io](govs.io)
+32. [Inspyrd](https://inspyrd.io/) macht Lust auf crosschain NFT Marketplaces enabled by IOTA: [Tweet](https://twitter.com/inspyrdNFT/status/1478711454580846602?s=20)
+33. 
+34. 
