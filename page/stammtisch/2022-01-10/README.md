@@ -36,6 +36,9 @@
 34. Yoti NFT Airdrop soon? [Tweet](https://twitter.com/lexienft/status/1479427751748808711?s=20)
 35. Navin unterhält sich weiter mit dem brasilianischen Professor [auf Twitter](https://twitter.com/navinram999/status/1479455763223306240?s=20)
 36. Hans Moog vs Fantom: [Tweet](https://twitter.com/hus_qy/status/1479127185294254088?t=zUevkumfcPKco3ORONIRFQ&s=19)
-37. Der NFT drop von TangleLabs lief nicht ganz reibungslos... []Tweet 1](https://twitter.com/Tangle_Labs/status/1479519051206569988?s=20); [Tweet 2](https://twitter.com/Tangle_Labs/status/1479519322477318145?s=20); [Tweet 3](https://twitter.com/Tangle_Labs/status/1479524502656724993?s=20); [Tweet 4](https://twitter.com/Tangle_Labs/status/1479721163907547146?s=20)
-38. Julian Hosp seine Defi Chain hat wohl Probleme mit der Bafin: [JULIAN HOSP CEO CAKE DEFI STATEMENT ZUR BAFIN](https://www.youtube.com/watch?v=9kFcdgZzqio)
+37. Der NFT drop von TangleLabs lief nicht ganz reibungslos... []Tweet 1](https://twitter.com/Tangle_Labs/status/1479519051206569988?s=20); [Tweet 2](https://twitter.com/Tangle_Labs/status/1479519322477318145?s=20); [Tweet 3](https://twitter.com/Tangle_Labs/status/1479524502656724993?s=20); [Tweet 4](https://twitter.com/Tangle_Labs/status/1479721163907547146?s=20); [Twee5](https://twitter.com/Tangle_Labs/status/1479812170154233858?s=20)
+38. Julian Hosp seine Defi Chain hat wohl Probleme mit der Bafin: [JULIAN HOSP CEO CAKE DEFI STATEMENT ZUR BAFIN](https://www.youtube.com/watch?v=9kFcdgZzqio); Hintergrund: [cakedefi.com: BaFin ermittelt gegen die Cake Pte. Ltd.](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2022/meldung_220107_cakedefi.html)
 39. Solana mal wieder down: [Tweet](https://twitter.com/solanastatus/status/1479126136953053187?s=21)
+40. TheFansTogether mit einem [Soon-Tweet](https://twitter.com/Vrom14286662/status/1479807622853312515?s=20)
+41. Crypto Knights TCG stellt das ihr Projekt (Physical card game with #NFT rewards) auf Green-NFT vor: [Tweet](https://twitter.com/CryptoKnightTCG/status/1479766201412825093?s=20)
+42. 
