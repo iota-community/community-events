@@ -46,3 +46,4 @@
 44. IOTA wurde zum hottest Airdrop auf [airdrops.io](https://airdrops.io/hot/) gevoted durch diesen [Twitter Aufruf](https://twitter.com/Ktotanaut/status/1479467315603386369?s=20)
 45. Neue NFTCollection "cryptoice" am Freitag: [Tweet](https://twitter.com/MillionsSmart/status/1480133272172740613?s=20)
 46. IOTATalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/149-week-in-review-from-2th-to-8nd-january-2022/)
+47. VolksMythica mit einem [Hype-Tweet](https://twitter.com/volksmythica/status/1480083808267522049?s=20) für 2022
