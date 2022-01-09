@@ -45,3 +45,4 @@
 43. Moonaco Podacast mit [TangleSea](https://twitter.com/TangleSeaDeFi) und [Dr.Tangle](https://twitter.com/dr_tangle) in Folge 3: [Tweet](https://twitter.com/Moonaco5/status/1479850297174470658?s=20); Spotifiy Link(https://open.spotify.com/episode/0Brl6LG1xBx0Vx5JDmSlZg?si=WCf_vYJJRjmrWnPInhd6Nw&nd=1)
 44. IOTA wurde zum hottest Airdrop auf [airdrops.io](https://airdrops.io/hot/) gevoted durch diesen [Twitter Aufruf](https://twitter.com/Ktotanaut/status/1479467315603386369?s=20)
 45. Neue NFTCollection "cryptoice" am Freitag: [Tweet](https://twitter.com/MillionsSmart/status/1480133272172740613?s=20)
+46. IOTATalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/149-week-in-review-from-2th-to-8nd-january-2022/)
