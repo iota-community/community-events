@@ -41,5 +41,6 @@
 39. Solana mal wieder down: [Tweet](https://twitter.com/solanastatus/status/1479126136953053187?s=21)
 40. TheFansTogether mit einem [Soon-Tweet](https://twitter.com/Vrom14286662/status/1479807622853312515?s=20) und einem neuen [Airdrop-Tweet](https://twitter.com/TheFansTogether/status/1480009203938963457?s=20)
 41. Crypto Knights TCG stellt das ihr Projekt (Physical card game with #NFT rewards) auf Green-NFT vor: [Tweet](https://twitter.com/CryptoKnightTCG/status/1479766201412825093?s=20)
-42. Neues NFT Projekt? [IOTAPunks](https://twitter.com/SATISABI_71/status/1480118453516353538?s=20)
+42. Neues NFT Projekt? [IOTAPunks](https://twitter.com/SATISABI_71/status/1480118453516353538?s=20); Hier die [Webseite](https://iotapunks.store/)
 43. Moonaco Podacast mit [TangleSea](https://twitter.com/TangleSeaDeFi) und [Dr.Tangle](https://twitter.com/dr_tangle) in Folge 3: [Tweet](https://twitter.com/Moonaco5/status/1479850297174470658?s=20); Spotifiy Link(https://open.spotify.com/episode/0Brl6LG1xBx0Vx5JDmSlZg?si=WCf_vYJJRjmrWnPInhd6Nw&nd=1)
+44. IOTA wurde zum hottest Airdrop auf [airdrops.io](https://airdrops.io/hot/) gevoted durch diesen [Twitter Aufruf](https://twitter.com/Ktotanaut/status/1479467315603386369?s=20)
