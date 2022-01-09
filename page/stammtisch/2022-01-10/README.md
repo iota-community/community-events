@@ -39,6 +39,7 @@
 37. Der NFT drop von TangleLabs lief nicht ganz reibungslos... []Tweet 1](https://twitter.com/Tangle_Labs/status/1479519051206569988?s=20); [Tweet 2](https://twitter.com/Tangle_Labs/status/1479519322477318145?s=20); [Tweet 3](https://twitter.com/Tangle_Labs/status/1479524502656724993?s=20); [Tweet 4](https://twitter.com/Tangle_Labs/status/1479721163907547146?s=20); [Twee5](https://twitter.com/Tangle_Labs/status/1479812170154233858?s=20)
 38. Julian Hosp seine Defi Chain hat wohl Probleme mit der Bafin: [JULIAN HOSP CEO CAKE DEFI STATEMENT ZUR BAFIN](https://www.youtube.com/watch?v=9kFcdgZzqio); Hintergrund: [cakedefi.com: BaFin ermittelt gegen die Cake Pte. Ltd.](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2022/meldung_220107_cakedefi.html)
 39. Solana mal wieder down: [Tweet](https://twitter.com/solanastatus/status/1479126136953053187?s=21)
-40. TheFansTogether mit einem [Soon-Tweet](https://twitter.com/Vrom14286662/status/1479807622853312515?s=20)
+40. TheFansTogether mit einem [Soon-Tweet](https://twitter.com/Vrom14286662/status/1479807622853312515?s=20) und einem neuen [Airdrop-Tweet](https://twitter.com/TheFansTogether/status/1480009203938963457?s=20)
 41. Crypto Knights TCG stellt das ihr Projekt (Physical card game with #NFT rewards) auf Green-NFT vor: [Tweet](https://twitter.com/CryptoKnightTCG/status/1479766201412825093?s=20)
-42. 
+42. Neues NFT Projekt? [IOTAPunks](https://twitter.com/SATISABI_71/status/1480118453516353538?s=20)
+43. Moonaco Podacast mit [TangleSea](https://twitter.com/TangleSeaDeFi) und [Dr.Tangle](https://twitter.com/dr_tangle) in Folge 3: [Tweet](https://twitter.com/Moonaco5/status/1479850297174470658?s=20); Spotifiy Link(https://open.spotify.com/episode/0Brl6LG1xBx0Vx5JDmSlZg?si=WCf_vYJJRjmrWnPInhd6Nw&nd=1)
