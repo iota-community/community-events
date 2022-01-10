@@ -58,3 +58,4 @@
 56. PayPal will Stable Coin launchen: [Bloomberg](https://www.bloomberg.com/news/articles/2022-01-07/paypal-is-exploring-launch-of-own-stablecoin-in-crypto-push)
 57. Bitcoin sinkt heute auf unter $40K
 58. IOTACardz verschenkt NFTs: [Tweet](https://twitter.com/NFTiotacardz/status/1480563397855178754?s=20)
+59. OMG news soon: [Tweet](https://twitter.com/MikeHypercube/status/1480601356478173186?s=20)
