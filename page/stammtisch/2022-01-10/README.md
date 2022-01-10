@@ -55,3 +55,5 @@
 53. Hans Moog vergleicht IOTA mit runden Rädern, während Blockchain versucht eckige Räder rund zu machen: [Tweet](https://twitter.com/hus_qy/status/1480478969480765442?s=20)
 54. Neue Stellenausschreibung bei der IF: [Software Engineer - Identity, Tokenization and SC](https://iota.bamboohr.com/jobs/view.php?id=185&uid=b422327q)
 55. Blockchain Drenthe sind wohl kurz davor ihr Projekt in Emden auszurollen: [Tweet](https://twitter.com/BclDrenthe/status/1480516603859152903?s=20)
+56. PayPal will Stable Coin launchen: [Bloomberg](https://www.bloomberg.com/news/articles/2022-01-07/paypal-is-exploring-launch-of-own-stablecoin-in-crypto-push)
+57. Bitcoin sinkt heute auf unter $40K
