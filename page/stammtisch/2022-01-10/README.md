@@ -51,3 +51,6 @@
 49. In El Salvador wird wohl Algorand verwendet innerhalb der Chivo Wallet und nicht Bitcoin: [Tweet von Hans Moog](https://twitter.com/hus_qy/status/1480131539841298436?s=20)
 50. Schmucklos hört auf mit dem Einsteigerguide und auch der englische Beginners-Guide ist scheinbar schon offline. Was machen wir jetzt? einfachIOTA Schirmherr?
 51. IOTA Ecosystem Community Fund: [1. Enwurf/Proposal Paper](https://buidlassembly.com/iota_ecosystem_fund1.html)
+52. STAGEHOLDERS mit neuer [FAQ Seite](https://stageholders.net/chives_faq.html); Da steht aber nix mehr von IOTAinside...
+53. Hans Moog vergleicht IOTA mit runden Rädern, während Blockchain versucht eckige Räder rund zu machen: [Tweet](https://twitter.com/hus_qy/status/1480478969480765442?s=20)
+54. 
