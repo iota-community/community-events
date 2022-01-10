@@ -57,3 +57,4 @@
 55. Blockchain Drenthe sind wohl kurz davor ihr Projekt in Emden auszurollen: [Tweet](https://twitter.com/BclDrenthe/status/1480516603859152903?s=20)
 56. PayPal will Stable Coin launchen: [Bloomberg](https://www.bloomberg.com/news/articles/2022-01-07/paypal-is-exploring-launch-of-own-stablecoin-in-crypto-push)
 57. Bitcoin sinkt heute auf unter $40K
+58. IOTACardz verschenkt NFTs: [Tweet](https://twitter.com/NFTiotacardz/status/1480563397855178754?s=20)
