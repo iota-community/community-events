@@ -49,3 +49,4 @@
 47. VolksMythica mit einem [Hype-Tweet](https://twitter.com/volksmythica/status/1480083808267522049?s=20) für 2022
 48. IOTA Poker soon... [Reddit Post](https://www.reddit.com/r/Iota/comments/s03zqd/iota_poker_game_public_testing/?utm_source=ifttt) "Test phase 1 will last from Jan 9, 11 PM until Jan 12, 11 PM (GMT+01) (Sunday-Wednesday)...after test phase 1, I'll prepare a production release next week.."; [Tweet](https://twitter.com/th3b0y/status/1480400041596624898?s=20) von 2. Pokergame
 49. In El Salvador wird wohl Algorand verwendet innerhalb der Chivo Wallet und nicht Bitcoin: [Tweet von Hans Moog](https://twitter.com/hus_qy/status/1480131539841298436?s=20)
+50. Schmucklos hört auf mit dem Einsteigerguide und auch der englische Beginners-Guide ist scheinbar schon offline. Was machen wir jetzt? einfachIOTA Schirmherr?
