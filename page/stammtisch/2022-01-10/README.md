@@ -47,4 +47,4 @@
 45. Neue NFTCollection "cryptoice" am Freitag: [Tweet](https://twitter.com/MillionsSmart/status/1480133272172740613?s=20)
 46. IOTATalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/149-week-in-review-from-2th-to-8nd-january-2022/)
 47. VolksMythica mit einem [Hype-Tweet](https://twitter.com/volksmythica/status/1480083808267522049?s=20) für 2022
-48. IOTA Poker soon... [Reddit Post](https://www.reddit.com/r/Iota/comments/s03zqd/iota_poker_game_public_testing/?utm_source=ifttt) "Test phase 1 will last from Jan 9, 11 PM until Jan 12, 11 PM (GMT+01) (Sunday-Wednesday)...after test phase 1, I'll prepare a production release next week.."
+48. IOTA Poker soon... [Reddit Post](https://www.reddit.com/r/Iota/comments/s03zqd/iota_poker_game_public_testing/?utm_source=ifttt) "Test phase 1 will last from Jan 9, 11 PM until Jan 12, 11 PM (GMT+01) (Sunday-Wednesday)...after test phase 1, I'll prepare a production release next week.."; [Tweet](https://twitter.com/th3b0y/status/1480400041596624898?s=20) von 2. Pokergame
