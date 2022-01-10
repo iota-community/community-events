@@ -53,4 +53,4 @@
 51. IOTA Ecosystem Community Fund: [1. Enwurf/Proposal Paper](https://buidlassembly.com/iota_ecosystem_fund1.html)
 52. STAGEHOLDERS mit neuer [FAQ Seite](https://stageholders.net/chives_faq.html); Da steht aber nix mehr von IOTAinside...
 53. Hans Moog vergleicht IOTA mit runden Rädern, während Blockchain versucht eckige Räder rund zu machen: [Tweet](https://twitter.com/hus_qy/status/1480478969480765442?s=20)
-54. 
+54. Neue Stellenausschreibung bei der IF: [Software Engineer - Identity, Tokenization and SC](https://iota.bamboohr.com/jobs/view.php?id=185&uid=b422327q)
