@@ -56,3 +56,4 @@
 - [2021-12-27](./stammtisch/2021-12-27/README.md)
 - [2022-01-03](./stammtisch/2022-01-03/README.md)
 - [2022-01-10](./stammtisch/2022-01-10/README.md)
+- [2022-01-17](./stammtisch/2022-01-17/README.md)
