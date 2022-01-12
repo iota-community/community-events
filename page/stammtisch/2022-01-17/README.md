@@ -22,3 +22,4 @@
 20. [Society2](https://twitter.com/society2) und [Decensored](https://twitter.com/decensored_app) join forces? [Tweet](https://twitter.com/accretionist/status/1480941149485416448?s=20)
 21. Stellenausschreibung der IF: 1. [Software Engineer - Identity, Tokenization and SC](https://twitter.com/michelenati/status/1481182242194046978?s=20); 2. [(Junior) Software Developer](https://iota.bamboohr.com/jobs/view.php?id=187)
 22. Soon next fiveaway von IOTACARDZ: [Tweet](https://twitter.com/NFTiotacardz/status/1480856271712657413?s=20)
+23. Neues NFT Projekt mit IOTA Bienen? [https://twitter.com/UKNAWN1](https://twitter.com/UKNAWN1)
