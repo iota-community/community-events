@@ -14,7 +14,9 @@
 12. MOBI Parnterschaft mit EU für EU Pilotprojekt zum Thema digtale Identitäten... [Tweet](https://twitter.com/dltMOBI/status/1480978883834957831?s=20); Webseite: [mobiNET Decentralized Identity Scalability Pilot for 280 Million Vehicles - CO2 Emissions Tracking with EU Commission Joint Research Centre](https://dlt.mobi/eupilot/)
 13. Joseph Skewest sucht Designer und Künstler für IOTA social media banner backgrounds, die damit auch Geld verdienen können: [Tweet](https://twitter.com/josephskewes/status/1479093682632466434?s=20)
 14. [Surfyce](https://twitter.com/Surfyce) will Kinderbuch über IOTA schreiben: [Tweet](https://twitter.com/Surfyce/status/1480938351465099267?s=20)
-15. Neues NFT Projekt "Odyssey Phunks": [Tweet](https://twitter.com/0xVortex/status/1481008017596366853?s=20)
+15. Neues NFT Projekt "Odyssey Phunks": [Tweet mit IOTA Phunk](https://twitter.com/0xVortex/status/1481008017596366853?s=20); Aber sind wohl nicht auf IOTA: [Tweet](https://twitter.com/0xVortex/status/1481171499214061568?s=20)
 16. Thomas Christian hat offenbar ein IOTA Werbebanner in Österreich bezahlt: [Tweet](https://twitter.com/TC081180/status/1480971634643193858?s=20)
 17. EnOcean [tweetet](https://twitter.com/EnOcean/status/1480932938132955136) mit #IOTA. Am 31.Januar ist da offenbar eine Messe, vielleicht erfahren wir dann mehr...
-18. 
+18. Moonaco Podcast in den Top 10 in Deutschland: [Tweet](https://twitter.com/Moonaco5/status/1480893680319963144?s=20)
+19. Strike jetzt auch in Argentinien: [Tweet mit Jack Mallers Interview](https://twitter.com/saylor/status/1481107015824982017?t=x0R9lco7-8P8rjAXHLrzoA&s=19); [Coindesk Artikel](https://www.coindesk.com/business/2022/01/11/strike-launches-bitcoin-payment-services-in-argentina-to-kickstart-latin-american-expansion/)
+20. [Society2](https://twitter.com/society2) und [Decensored](https://twitter.com/decensored_app) join forces? [Tweet](https://twitter.com/accretionist/status/1480941149485416448?s=20)
