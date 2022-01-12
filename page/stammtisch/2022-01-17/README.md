@@ -29,3 +29,5 @@
 27. Assembly [tweetet](https://twitter.com/assembly_net/status/1481295223359774725?s=20) über [https://wiki.assembly.sc/](https://wiki.assembly.sc/)
 28. 17 Werbesprüche für IOTA: [Tweet 1/17](https://twitter.com/Legurp7/status/1481300359712804865?s=20)
 29. Govs startet das Beta Testing von einer App die IOTA Streams verwendet. Man soll damit Zustände/Ereignisse aus der Stadt melden: [Tweet](https://twitter.com/govs_io/status/1481308674480128003?s=20)
+30. Neue GoShimmer Version mit "congestion control" aber auch noch mit PoW: [Tweet](https://twitter.com/angelocapossele/status/1481327734236270597?s=21) 
+31. IOTA ist nicht mehr Beta auf StackExchange (Plattform für technische Fragen): [Tweet](https://twitter.com/iota/status/1481325284238540800?t=fEjtXO1E80ACURYTCPkq4g&s=19)
