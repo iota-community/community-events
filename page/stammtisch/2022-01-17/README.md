@@ -27,3 +27,5 @@
 25. Neuer IF Blogpost zu Punkt 11: [Building a Local Green Currency on IOTA](https://blog.iota.org/building-a-local-green-currency-on-iota/)
 26. [Decensored.app](https://decensored.app/) lässt sich jezt gitclonen: [Tweet](https://twitter.com/decensored_app/status/1481274541343227904?s=20)
 27. Assembly [tweetet](https://twitter.com/assembly_net/status/1481295223359774725?s=20) über [https://wiki.assembly.sc/](https://wiki.assembly.sc/)
+28. 17 Werbesprüche für IOTA: [Tweet 1/17](https://twitter.com/Legurp7/status/1481300359712804865?s=20)
+29. Govs startet das Beta Testing von einer App die IOTA Streams verwendet. Man soll damit Zustände/Ereignisse aus der Stadt melden: [Tweet](https://twitter.com/govs_io/status/1481308674480128003?s=20)
