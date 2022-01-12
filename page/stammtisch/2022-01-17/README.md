@@ -26,3 +26,4 @@
 24. Cryptoland Projekt: Meinen die das ernst? Zumindest das Video sieht sehr ausgereift aus... [Cryptoland - Cryptoinsel](https://peertube.social/w/8f7e61ed-47ab-4e82-a5c2-5a7d5e8bcb33)
 25. Neuer IF Blogpost zu Punkt 11: [Building a Local Green Currency on IOTA](https://blog.iota.org/building-a-local-green-currency-on-iota/)
 26. [Decensored.app](https://decensored.app/) lässt sich jezt gitclonen: [Tweet](https://twitter.com/decensored_app/status/1481274541343227904?s=20)
+27. Assembly [tweetet](https://twitter.com/assembly_net/status/1481295223359774725?s=20) über [https://wiki.assembly.sc/](https://wiki.assembly.sc/)
