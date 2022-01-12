@@ -9,4 +9,12 @@
 7. Die IF hat 7 neue Leute eingestellt: [Welcome to the IOTA Foundation - January 2022](https://blog.iota.org/welcome-to-the-iota-foundation-january-2022/)
 8. Die IF will einige DAOs finanziell fördern (Grant-Funding program worth 100.000 euros) mit ihrem Ideathon: [Ideathon (IF Proposal)](https://seemly-seer-d1b.notion.site/Ideathon-IF-Proposal-84ce3db6e6ee4c4da7a035478a69fe6e)
 9. Holger Köther [Tweet 1/3](https://twitter.com/HolgerKoether/status/1480618289902624769?s=20) über die Vorteile von IOTA
-10. 
+10. Neues NFT Projekt Tangle Cats stellt sich in diesem [Tweetstorm](https://twitter.com/tangle_cat/status/1480963550092922882?s=20) vor
+11. Blockchaindrenthe stellt die App für das Projekt in Emden vor: [Tweet](https://twitter.com/BclDrenthe/status/1481164909119516672?s=20); Mehr Details dazu auf der [Webseite](http://energieknip.nl/)
+12. MOBI Parnterschaft mit EU für EU Pilotprojekt zum Thema digtale Identitäten... [Tweet](https://twitter.com/dltMOBI/status/1480978883834957831?s=20); Webseite: [mobiNET Decentralized Identity Scalability Pilot for 280 Million Vehicles - CO2 Emissions Tracking with EU Commission Joint Research Centre](https://dlt.mobi/eupilot/)
+13. Joseph Skewest sucht Designer und Künstler für IOTA social media banner backgrounds, die damit auch Geld verdienen können: [Tweet](https://twitter.com/josephskewes/status/1479093682632466434?s=20)
+14. [Surfyce](https://twitter.com/Surfyce) will Kinderbuch über IOTA schreiben: [Tweet](https://twitter.com/Surfyce/status/1480938351465099267?s=20)
+15. Neues NFT Projekt "Odyssey Phunks": [Tweet](https://twitter.com/0xVortex/status/1481008017596366853?s=20)
+16. Thomas Christian hat offenbar ein IOTA Werbebanner in Österreich bezahlt: [Tweet](https://twitter.com/TC081180/status/1480971634643193858?s=20)
+17. EnOcean [tweetet](https://twitter.com/EnOcean/status/1480932938132955136) mit #IOTA. Am 31.Januar ist da offenbar eine Messe, vielleicht erfahren wir dann mehr...
+18. 
