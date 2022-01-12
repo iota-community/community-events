@@ -20,4 +20,5 @@
 18. Moonaco Podcast in den Top 10 in Deutschland: [Tweet](https://twitter.com/Moonaco5/status/1480893680319963144?s=20)
 19. Strike jetzt auch in Argentinien: [Tweet mit Jack Mallers Interview](https://twitter.com/saylor/status/1481107015824982017?t=x0R9lco7-8P8rjAXHLrzoA&s=19); [Coindesk Artikel](https://www.coindesk.com/business/2022/01/11/strike-launches-bitcoin-payment-services-in-argentina-to-kickstart-latin-american-expansion/)
 20. [Society2](https://twitter.com/society2) und [Decensored](https://twitter.com/decensored_app) join forces? [Tweet](https://twitter.com/accretionist/status/1480941149485416448?s=20)
-21. Stellenausschreibung der IF: [Software Engineer - Identity, Tokenization and SC](https://twitter.com/michelenati/status/1481182242194046978?s=20)
+21. Stellenausschreibung der IF: 1. [Software Engineer - Identity, Tokenization and SC](https://twitter.com/michelenati/status/1481182242194046978?s=20); 2. [(Junior) Software Developer](https://iota.bamboohr.com/jobs/view.php?id=187)
+22. Soon next fiveaway von IOTACARDZ: [Tweet](https://twitter.com/NFTiotacardz/status/1480856271712657413?s=20)
