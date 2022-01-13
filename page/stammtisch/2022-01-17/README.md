@@ -32,4 +32,7 @@
 30. Neue GoShimmer Version mit "congestion control" aber auch noch mit PoW: [Tweet](https://twitter.com/angelocapossele/status/1481327734236270597?s=21) 
 31. IOTA ist nicht mehr Beta auf StackExchange (Plattform für technische Fragen): [Tweet](https://twitter.com/iota/status/1481325284238540800?t=fEjtXO1E80ACURYTCPkq4g&s=19)
 32. Jack Dorsej mit Legal Devense Fund für Bitcoin Developer: [Artikel im Bitcoinmagazin](https://bitcoinmagazine.com/business/jack-dorsey-to-launch-bitcoin-legal-defense-fund)
-33. 
+33. IOTA Game von Crypto Knights TCG wird bereits play-getestet: [Tweet](https://twitter.com/CryptoKnightTCG/status/1481314294096670723?s=20)
+34. Das [Lernmaterial von den IOTA DAO Pioneers](https://github.com/iota-community/DAO-Pioneers) wurde auf GitHub von A. Nardella online gestellt
+35. Huobi hat offenbar endlich withdrwas enabled: [Tweet](https://twitter.com/bennnni_web3/status/1481542894561505286?s=20)
+36. Flexibler Energie Marketplace [Fleximar](https://www.fleximarex.com/) benutzt irgendwie IOTA: [Twee 1/13](https://twitter.com/LocalEnergyDAO/status/1481548920425783297?s=20)
