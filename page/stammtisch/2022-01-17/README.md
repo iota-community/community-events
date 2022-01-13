@@ -36,3 +36,5 @@
 34. Das [Lernmaterial von den IOTA DAO Pioneers](https://github.com/iota-community/DAO-Pioneers) wurde auf GitHub von A. Nardella online gestellt
 35. Huobi hat offenbar endlich withdrwas enabled: [Tweet](https://twitter.com/bennnni_web3/status/1481542894561505286?s=20)
 36. Flexibler Energie Marketplace [Fleximar](https://www.fleximarex.com/) benutzt irgendwie IOTA: [Twee 1/13](https://twitter.com/LocalEnergyDAO/status/1481548920425783297?s=20)
+37. IOTACARDZ NFT giveaway: [Tweet](https://twitter.com/NFTiotacardz/status/1481611397293350918?s=20)
+38. Bitpanda und Bitpanda Prp unterstützen den Airdrop: [SMR- & ASMB-Airdrops für IOTA-Halter auf Bitpanda und Bitpanda Pro](https://blog.bitpanda.com/de/smr-asmb-airdrops-fur-iota-halter-auf-bitpanda-und-bitpanda-pro)
