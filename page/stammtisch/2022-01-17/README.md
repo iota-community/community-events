@@ -38,5 +38,9 @@
 36. Flexibler Energie Marketplace [Fleximar](https://www.fleximarex.com/) benutzt irgendwie IOTA: [Twee 1/13](https://twitter.com/LocalEnergyDAO/status/1481548920425783297?s=20)
 37. IOTACARDZ NFT giveaway: [Tweet](https://twitter.com/NFTiotacardz/status/1481611397293350918?s=20)
 38. Bitpanda und Bitpanda Prp unterstützen den Airdrop: [SMR- & ASMB-Airdrops für IOTA-Halter auf Bitpanda und Bitpanda Pro](https://blog.bitpanda.com/de/smr-asmb-airdrops-fur-iota-halter-auf-bitpanda-und-bitpanda-pro)
-39. Neuer IF Blogpost: [IOTA Selected for Phase 2 of the EU Blockchain Pre-Commercial Procurement](https://blog.iota.org/phase-2-eu-blockchain-pre-commercial-procurement/?utm_source=dlvr.it&utm_medium=twitter)
-40. 
+39. Neuer IF Blogpost: [IOTA Selected for Phase 2 of the EU Blockchain Pre-Commercial Procurement](https://blog.iota.org/phase-2-eu-blockchain-pre-commercial-procurement/?utm_source=dlvr.it&utm_medium=twitter); Dom spricht von 400+ Millionen Mainstream Adoption: [Tweet](https://twitter.com/DomSchiener/status/1481656611739365376?s=20)
+40. Wer kann Assembly erklären? Sabri gibt ein NFT aus dafür... [Tweet](https://twitter.com/sabrigoldberg/status/1481610554456395781?s=20)
+41. Das türkische Auto ToGG wurde vorgestellt die ja mit EDAG zusammen arbeiten und einen DLT/IOTA Entwickler gesucht hatten... [Tweet](https://twitter.com/Iota_Godfather/status/1479238005491646468?s=20); Aber es gibt wohl auch eine AVALabs (AVAX) Partnerschaft: [Artikel Cointelegraph](https://cointelegraph.com/news/ava-labs-and-ev-maker-togg-to-build-smart-contract-based-mobility-services)
+42. Event bei der UN_Commission "Blockchain solutions for sustainable energy and climate"  am 19. Januar mit Mat Yarger, Software AG, DellTech: [Tweet](https://twitter.com/iota/status/1481657598046789636?s=20)
+43. Dom Schiener Interview beim ARD Podcast: [ARD Audiothek](https://www.ardaudiothek.de/episode/geld-machen-welt-retten/gibt-es-nachhaltiges-kryptogeld-oder-talk-mit-multimillionaer-dominik-schiener/dasding/95806178/); Überschrift: Gibt es nachhaltiges Kryptogeld? | Talk mit Multimillionär Dominik Schiener
+44. Tanglebay [tweetet](https://twitter.com/tanglebay/status/1481745584490954752?s=20), dass die Tanglebay Nodes ~ 7M-10M API requests per day haben, seit dem sie offiziel in Firefly gelistet sind
