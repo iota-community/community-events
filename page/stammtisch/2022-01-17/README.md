@@ -38,3 +38,4 @@
 36. Flexibler Energie Marketplace [Fleximar](https://www.fleximarex.com/) benutzt irgendwie IOTA: [Twee 1/13](https://twitter.com/LocalEnergyDAO/status/1481548920425783297?s=20)
 37. IOTACARDZ NFT giveaway: [Tweet](https://twitter.com/NFTiotacardz/status/1481611397293350918?s=20)
 38. Bitpanda und Bitpanda Prp unterstützen den Airdrop: [SMR- & ASMB-Airdrops für IOTA-Halter auf Bitpanda und Bitpanda Pro](https://blog.bitpanda.com/de/smr-asmb-airdrops-fur-iota-halter-auf-bitpanda-und-bitpanda-pro)
+39. Neuer IF Blogpost: [IOTA Selected for Phase 2 of the EU Blockchain Pre-Commercial Procurement](https://blog.iota.org/phase-2-eu-blockchain-pre-commercial-procurement/?utm_source=dlvr.it&utm_medium=twitter)
