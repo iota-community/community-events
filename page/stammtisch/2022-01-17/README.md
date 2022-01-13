@@ -19,7 +19,7 @@
 17. EnOcean [tweetet](https://twitter.com/EnOcean/status/1480932938132955136) mit #IOTA. Am 31.Januar ist da offenbar eine Messe, vielleicht erfahren wir dann mehr...
 18. Moonaco Podcast in den Top 10 in Deutschland: [Tweet](https://twitter.com/Moonaco5/status/1480893680319963144?s=20)
 19. Strike jetzt auch in Argentinien: [Tweet mit Jack Mallers Interview](https://twitter.com/saylor/status/1481107015824982017?t=x0R9lco7-8P8rjAXHLrzoA&s=19); [Coindesk Artikel](https://www.coindesk.com/business/2022/01/11/strike-launches-bitcoin-payment-services-in-argentina-to-kickstart-latin-american-expansion/)
-20. [Society2](https://twitter.com/society2) und [Decensored](https://twitter.com/decensored_app) join forces? [Tweet](https://twitter.com/accretionist/status/1480941149485416448?s=20)
+20. [Society2](https://twitter.com/society2) und [Decensored](https://twitter.com/decensored_app) join forces? [Tweet](https://twitter.com/accretionist/status/1480941149485416448?s=20); How it work [Tweet](https://twitter.com/decensored_app/status/1481635230641385473?s=20)
 21. Stellenausschreibung der IF: 1. [Software Engineer - Identity, Tokenization and SC](https://twitter.com/michelenati/status/1481182242194046978?s=20); 2. [(Junior) Software Developer](https://iota.bamboohr.com/jobs/view.php?id=187)
 22. Soon next fiveaway von IOTACARDZ: [Tweet](https://twitter.com/NFTiotacardz/status/1480856271712657413?s=20)
 23. Neues NFT Projekt mit IOTA Bienen? [https://twitter.com/UKNAWN1](https://twitter.com/UKNAWN1)
@@ -39,3 +39,4 @@
 37. IOTACARDZ NFT giveaway: [Tweet](https://twitter.com/NFTiotacardz/status/1481611397293350918?s=20)
 38. Bitpanda und Bitpanda Prp unterstützen den Airdrop: [SMR- & ASMB-Airdrops für IOTA-Halter auf Bitpanda und Bitpanda Pro](https://blog.bitpanda.com/de/smr-asmb-airdrops-fur-iota-halter-auf-bitpanda-und-bitpanda-pro)
 39. Neuer IF Blogpost: [IOTA Selected for Phase 2 of the EU Blockchain Pre-Commercial Procurement](https://blog.iota.org/phase-2-eu-blockchain-pre-commercial-procurement/?utm_source=dlvr.it&utm_medium=twitter)
+40. 
