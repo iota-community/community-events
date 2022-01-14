@@ -56,3 +56,4 @@
 53. Jelle Millenar ist sehr zufrieden mit dem Fortschritt vom digital identity code: [Tweet](https://twitter.com/JelleFm/status/1481969184682741760?s=20)
 54. Neue Social Media Plattform: [Tweet](https://twitter.com/TheEvvrything/status/1481973800035962880?s=20); [dev.evvrything.com](https://dev.evvrything.com/)
 55. Fiware mit IOTA Integration: [Tweet](https://twitter.com/HolgerKoether/status/1481978931112988675?s=20); Fiware auf [GitHub](https://github.com/FIWARE/tutorials.IoT-over-IOTA)
+56. Neuer IF Blogpost: [IOTA Standardization Update January 2022](https://blog.iota.org/standardization-update-january-2022/)
