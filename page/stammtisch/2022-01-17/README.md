@@ -49,3 +49,4 @@
 46. TangleLabs mit [Tweetstorm](https://twitter.com/Tangle_Labs/status/1481895617567858688?s=20) zur Aufklärung und aktuellem Stand bezüglich der 100Miota NFTs; Hier noch ein [Screenshot-Tweet](https://twitter.com/Vrom14286662/status/1481897937559076864?s=20) mit dem offiziellen Announcement auf Discord
 47. IOTAPunk NFT airdrop von 25 Stück: [Tweet](https://twitter.com/IotaPunks_71/status/1481915978141290499?s=20)
 48. Die IF stellt ein: [Project Manager - Market Adoption - Germany (Remote), Germany](https://iota.bamboohr.com/jobs/view.php?id=188)
+49. Dating Plattform Love to Tangle soon? [Twitter Account "Love to Tangle"](https://twitter.com/EM67854797)
