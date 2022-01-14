@@ -50,3 +50,4 @@
 47. IOTAPunk NFT airdrop von 25 Stück: [Tweet](https://twitter.com/IotaPunks_71/status/1481915978141290499?s=20)
 48. Die IF stellt ein: [Project Manager - Market Adoption - Germany (Remote), Germany](https://iota.bamboohr.com/jobs/view.php?id=188)
 49. Dating Plattform Love to Tangle soon? [Twitter Account "Love to Tangle"](https://twitter.com/EM67854797)
+50. Investing.com schreibt Artikel: [IOTA: Neues Projekt im Kampf gegen die Klimakrise gestartet](https://de.investing.com/news/cryptocurrency-news/iota-neues-projekt-im-kampf-gegen-die-klimakrise-gestartet-2200148)
