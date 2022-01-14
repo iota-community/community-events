@@ -47,3 +47,5 @@
 44. Tanglebay [tweetet](https://twitter.com/tanglebay/status/1481745584490954752?s=20), dass die Tanglebay Nodes ~ 7M-10M API requests per day haben, seit dem sie offiziel in Firefly gelistet sind
 45. Das Projekt in Emmen läuft gut an. Die Leute tauschen die Coins schon im Baumarkt: [Tweet 1](https://twitter.com/BclDrenthe/status/1481245856737148930?s=20); [Tweet 2](https://twitter.com/BclDrenthe/status/1481876924096036864?s=20)
 46. TangleLabs mit [Tweetstorm](https://twitter.com/Tangle_Labs/status/1481895617567858688?s=20) zur Aufklärung und aktuellem Stand bezüglich der 100Miota NFTs; Hier noch ein [Screenshot-Tweet](https://twitter.com/Vrom14286662/status/1481897937559076864?s=20) mit dem offiziellen Announcement auf Discord
+47. IOTAPunk NFT airdrop von 25 Stück: [Tweet](https://twitter.com/IotaPunks_71/status/1481915978141290499?s=20)
+48. Die IF stellt ein: [Project Manager - Market Adoption - Germany (Remote), Germany](https://iota.bamboohr.com/jobs/view.php?id=188)
