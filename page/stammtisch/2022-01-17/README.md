@@ -53,4 +53,5 @@
 50. Investing.com schreibt Artikel: [IOTA: Neues Projekt im Kampf gegen die Klimakrise gestartet](https://de.investing.com/news/cryptocurrency-news/iota-neues-projekt-im-kampf-gegen-die-klimakrise-gestartet-2200148)
 51. Neuer [Moonaco Pocast Episode 4](https://open.spotify.com/episode/79WZsRIdfMfNunsMsXMt1n?si=idb9Y1ZZTaOUs2_MsGZDUQ&utm_source=whatsapp) mit Adam and Alex "to talk about @kamilabsstudio @volksmythica and @inspyrdNFT"
 52. Rio de Janeiro will 1% in Bitcoin stecken und Bürger bekommen Rabatt wenn sie Steuern in BTC zahlen: [Following Miami, Brazil City ‘Rio de Janeiro’ Is Looking To Hold 1% Off City Reserves In Bitcoin And Pay Taxes With BTC](https://thecryptobasic.com/2022/01/14/following-miami-brazil-city-rio-de-janeiro-is-looking-to-hold-1-off-city-reserves-in-bitcoin-and-pay-taxes-in-btc/)
-53. 
+53. Jelle Millenar ist sehr zufrieden mit dem Fortschritt vom digital identity code: [Tweet](https://twitter.com/JelleFm/status/1481969184682741760?s=20)
+54. Neue Social Media Plattform: [Tweet](https://twitter.com/TheEvvrything/status/1481973800035962880?s=20); [dev.evvrything.com](https://dev.evvrything.com/)
