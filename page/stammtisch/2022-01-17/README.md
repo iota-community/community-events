@@ -28,7 +28,7 @@
 26. [Decensored.app](https://decensored.app/) lässt sich jezt gitclonen: [Tweet](https://twitter.com/decensored_app/status/1481274541343227904?s=20)
 27. Assembly [tweetet](https://twitter.com/assembly_net/status/1481295223359774725?s=20) über [https://wiki.assembly.sc/](https://wiki.assembly.sc/)
 28. 17 Werbesprüche für IOTA: [Tweet 1/17](https://twitter.com/Legurp7/status/1481300359712804865?s=20)
-29. Govs startet das Beta Testing von einer App die IOTA Streams verwendet. Man soll damit Zustände/Ereignisse aus der Stadt melden: [Tweet](https://twitter.com/govs_io/status/1481308674480128003?s=20)
+29. Govs startet das Beta Testing von einer App die IOTA Streams verwendet. Man soll damit Zustände/Ereignisse aus der Stadt melden: [Tweet](https://twitter.com/govs_io/status/1481308674480128003?s=20); Er hat dann sogar auch seinen IOTABot eingespielt: [Tweet](https://twitter.com/TC081180/status/1482762225848889351?s=20)
 30. Neue [GoShimmer Version](https://github.com/iotaledger/goshimmer) mit "congestion control" aber auch noch mit PoW: [Tweet](https://twitter.com/angelocapossele/status/1481327734236270597?s=21) 
 31. IOTA ist nicht mehr Beta auf StackExchange (Plattform für technische Fragen): [Tweet](https://twitter.com/iota/status/1481325284238540800?t=fEjtXO1E80ACURYTCPkq4g&s=19)
 32. Jack Dorsej mit Legal Devense Fund für Bitcoin Developer: [Artikel im Bitcoinmagazin](https://bitcoinmagazine.com/business/jack-dorsey-to-launch-bitcoin-legal-defense-fund)
@@ -72,3 +72,5 @@
 69. STAGEHOLDERS veröffentlichen "[stageholders-tokens-distribution-announcement](https://mailchi.mp/135cf4c0d870/stageholders-tokens-distribution-announcement)" und ab dem 28. Januar sollte man sich bei ihrer Webseite anmelden: [Tweet](https://twitter.com/STAGEannouncer/status/1482012137811816451?s=20)
 70. [IOTATalk Wochenrückblick](https://www.iota-talk.com/index.php?article/150-wochenr%C3%BCckblick-vom-9-bis-15-januar-2022/)
 71. Frank Schäffler von der FDP, der sich schon mit Holger Köther getroffen hat mit einem guten Artikel über Kryptoregulierung: [Kryptoregulierung muss modern sein und atmen](https://www.frankschaeffler.de/kryptoregulierung-muss-modern-sein-und-atmen/)
+72. Hans Moog [Tweet 1/11](https://twitter.com/hus_qy/status/1482496837873541123?s=20) zum Thema "node scaleability" und "randomized set of validators (elders)" bei IOTA
+73. 
