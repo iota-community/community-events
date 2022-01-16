@@ -46,14 +46,24 @@
 43. Dom Schiener Interview beim ARD Podcast: [ARD Audiothek](https://www.ardaudiothek.de/episode/geld-machen-welt-retten/gibt-es-nachhaltiges-kryptogeld-oder-talk-mit-multimillionaer-dominik-schiener/dasding/95806178/); Überschrift: Gibt es nachhaltiges Kryptogeld? | Talk mit Multimillionär Dominik Schiener
 44. Tanglebay [tweetet](https://twitter.com/tanglebay/status/1481745584490954752?s=20), dass die Tanglebay Nodes ~ 7M-10M API requests per day haben, seit dem sie offiziel in Firefly gelistet sind
 45. Das Projekt in Emmen läuft gut an. Die Leute tauschen die Coins schon im Baumarkt: [Tweet 1](https://twitter.com/BclDrenthe/status/1481245856737148930?s=20); [Tweet 2](https://twitter.com/BclDrenthe/status/1481876924096036864?s=20)
-46. TangleLabs mit [Tweetstorm](https://twitter.com/Tangle_Labs/status/1481895617567858688?s=20) zur Aufklärung und aktuellem Stand bezüglich der 100Miota NFTs; Hier noch ein [Screenshot-Tweet](https://twitter.com/Vrom14286662/status/1481897937559076864?s=20) mit dem offiziellen Announcement auf Discord
-47. IOTAPunk NFT airdrop von 25 Stück: [Tweet](https://twitter.com/IotaPunks_71/status/1481915978141290499?s=20)
+46. TangleLabs mit [Tweetstorm](https://twitter.com/Tangle_Labs/status/1481895617567858688?s=20) zur Aufklärung und aktuellem Stand bezüglich der 100 Miota NFTs; Hier noch ein [Screenshot-Tweet](https://twitter.com/Vrom14286662/status/1481897937559076864?s=20) mit dem offiziellen Announcement auf 
+47. IOTA NFT Projekt IOTAPunk mit NFT airdrops: [Tweet 1](https://twitter.com/IotaPunks_71/status/1481915978141290499?s=20); [Tweet 1/3](https://twitter.com/IotaPunks_71/status/1482604148407349250?s=20)
 48. Die IF stellt ein: [Project Manager - Market Adoption - Germany (Remote), Germany](https://iota.bamboohr.com/jobs/view.php?id=188)
-49. Dating Plattform Love to Tangle soon? [Twitter Account "Love to Tangle"](https://twitter.com/EM67854797)
+49. Dating Plattform Love to Tangle soon? [Twitter Account "Love to Tangle"](https://twitter.com/EM67854797); [Tweet 2](https://twitter.com/EM67854797/status/1482371803205013505?s=20); Webseite gestartet mit Blogpost auf detsch: [Eine goldene Morgendämmerung...](https://love2tangle.dating/)
 50. Investing.com schreibt Artikel: [IOTA: Neues Projekt im Kampf gegen die Klimakrise gestartet](https://de.investing.com/news/cryptocurrency-news/iota-neues-projekt-im-kampf-gegen-die-klimakrise-gestartet-2200148)
 51. Neuer [Moonaco Pocast Episode 4](https://open.spotify.com/episode/79WZsRIdfMfNunsMsXMt1n?si=idb9Y1ZZTaOUs2_MsGZDUQ&utm_source=whatsapp) mit Adam and Alex "to talk about @kamilabsstudio @volksmythica and @inspyrdNFT"
 52. Rio de Janeiro will 1% in Bitcoin stecken und Bürger bekommen Rabatt wenn sie Steuern in BTC zahlen: [Following Miami, Brazil City ‘Rio de Janeiro’ Is Looking To Hold 1% Off City Reserves In Bitcoin And Pay Taxes With BTC](https://thecryptobasic.com/2022/01/14/following-miami-brazil-city-rio-de-janeiro-is-looking-to-hold-1-off-city-reserves-in-bitcoin-and-pay-taxes-in-btc/)
 53. Jelle Millenar ist sehr zufrieden mit dem Fortschritt vom digital identity code: [Tweet](https://twitter.com/JelleFm/status/1481969184682741760?s=20)
-54. Neue Social Media Plattform: [Tweet](https://twitter.com/TheEvvrything/status/1481973800035962880?s=20); [dev.evvrything.com](https://dev.evvrything.com/)
+54. Neue Social Media Plattform von Society2: [Tweet 1](https://twitter.com/TheEvvrything/status/1481973800035962880?s=20); [Tweet 2](https://twitter.com/TheEvvrything/status/1482360658196791296?s=20); Webseite: [dev.evvrything.com](https://dev.evvrything.com/)
 55. Fiware mit IOTA Integration: [Tweet](https://twitter.com/HolgerKoether/status/1481978931112988675?s=20); Fiware auf [GitHub](https://github.com/FIWARE/tutorials.IoT-over-IOTA)
-56. Neuer IF Blogpost: [IOTA Standardization Update January 2022](https://blog.iota.org/standardization-update-january-2022/)
+56. Neuer IF Blogpost: [IOTA Standardization Update January 2022](https://blog.iota.org/standardization-update-january-2022/); Hier der [Blogpost auf deutsch](https://iota-kurs.de/iota-standardisierung-update-januar-2022/)
+57. SooLabs veröffentlicht die mobile Version von [soonavers.com](https://soonaverse.com/): [Tweet](https://twitter.com/soon_labs/status/1482149171364651009?t=QQY9-PLIMp4TBaRKbAwryQ&s=19)
+58. [Smart contracts weekly update](https://github.com/iotaledger/engineering-updates/discussions/13) von der IF
+59. IOTA weekly mit Chris Müller ist zurück: auf deutsch: [IOTAWeekly 023: #IOTA Ausblick auf 2022 + Web3](https://www.youtube.com/watch?v=REyWirQGFD8); auf englisch: [IOTAWeekly 023: What to expect from IOTA in 2022 + Web3 developments](https://www.youtube.com/watch?v=JPHUYgoAXA4)
+60. Neues Youtube Video von WhalesofWallstreat: [IOTA | Selected for the EU Phase 2 Blockchain Round & Chart Update](https://www.youtube.com/watch?v=zy4o4w-qa34)
+61. IOTA NFT Projekt IOTAPets mit [Soon Tweet](https://twitter.com/iotapets/status/1482366842844946432?s=20) und neuer Webseite: [nftgreenseal.com](https://nftgreenseal.com/)
+62. IOTA NFT Projekt Tangle Cat mit [Soon Tweet](https://twitter.com/tangle_cat/status/1482453652489003013?s=20)
+63. IOTA NFT Projekt The Fans Togehter mit [Soon Whitepaper Tweet](https://twitter.com/TheFansTogether/status/1479793102332350469?s=20)
+64. IOTA NFT Projekt Moon Morons mit [Soon Tweet](https://twitter.com/MoonMorons/status/1482487192081551361?s=20)
+65. Data sharding research paper soon... [Tweet](https://twitter.com/donky31187670/status/1482347771336269831?s=20)
+66. [IOTATalk Wochenrückblick](https://www.iota-talk.com/index.php?article/150-wochenr%C3%BCckblick-vom-9-bis-15-januar-2022/)
