@@ -71,3 +71,4 @@
 68. Data sharding research paper soon... [Tweet](https://twitter.com/donky31187670/status/1482347771336269831?s=20)
 69. STAGEHOLDERS veröffentlichen "[stageholders-tokens-distribution-announcement](https://mailchi.mp/135cf4c0d870/stageholders-tokens-distribution-announcement)" und ab dem 28. Januar sollte man sich bei ihrer Webseite anmelden: [Tweet](https://twitter.com/STAGEannouncer/status/1482012137811816451?s=20)
 70. [IOTATalk Wochenrückblick](https://www.iota-talk.com/index.php?article/150-wochenr%C3%BCckblick-vom-9-bis-15-januar-2022/)
+71. Frank Schäffler von der FDP, der sich schon mit Holger Köther getroffen hat mit einem guten Artikel über Kryptoregulierung: [Kryptoregulierung muss modern sein und atmen](https://www.frankschaeffler.de/kryptoregulierung-muss-modern-sein-und-atmen/)
