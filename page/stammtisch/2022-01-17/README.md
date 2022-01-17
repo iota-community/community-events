@@ -76,3 +76,4 @@
 73. Hans Moog vs. Bitcoin: [Tweet 1/n](https://twitter.com/hus_qy/status/1482872302983393281?s=20); Vielleicht will Hans ja auch dazu mal was sagen: [Tweetstorm](https://twitter.com/MorganTBennett/status/1482411627655933953?s=20) der behauptet Bitcoin wird weniger sicher
 74. [unbanked.com](https://unbanked.com/) will offenbar IOTA implementieren: [Tweet](https://twitter.com/UnbankedHQ/status/1482768072943587330?s=20)
 75. Intel mit neuem "12th Gen Intel Core Processor for IoT Announced": [auf intel.com](https://www.intel.com/content/www/us/en/newsroom/news/intels-1st-performance-hybrid-edge-architecture.html#gs.mnglh3)
+76. [servrox](https://twitter.com/servrox) macht gerade bei einem Hackathon mit und freut sich über feeless NFTs bei IOTA: [Tweet](https://twitter.com/servrox/status/1482960129112875011?s=20)
