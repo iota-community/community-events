@@ -78,3 +78,4 @@
 75. [unbanked.com](https://unbanked.com/) will offenbar IOTA implementieren: [Tweet](https://twitter.com/UnbankedHQ/status/1482768072943587330?s=20)
 76. Intel mit neuem "12th Gen Intel Core Processor for IoT Announced": [auf intel.com](https://www.intel.com/content/www/us/en/newsroom/news/intels-1st-performance-hybrid-edge-architecture.html#gs.mnglh3)
 77. [servrox](https://twitter.com/servrox) macht gerade bei einem Hackathon mit und freut sich über feeless NFTs bei IOTA: [Tweet](https://twitter.com/servrox/status/1482960129112875011?s=20)
+78. MoonMoron Meme Coin mit Details zum Coin Offering: [Tweet](https://twitter.com/MoonMorons/status/1483055755171450882?s=20)
