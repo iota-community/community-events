@@ -73,6 +73,6 @@
 70. [IOTATalk Wochenrückblick](https://www.iota-talk.com/index.php?article/150-wochenr%C3%BCckblick-vom-9-bis-15-januar-2022/)
 71. Frank Schäffler von der FDP, der sich schon mit Holger Köther getroffen hat mit einem guten Artikel über Kryptoregulierung: [Kryptoregulierung muss modern sein und atmen](https://www.frankschaeffler.de/kryptoregulierung-muss-modern-sein-und-atmen/)
 72. Hans Moog [Tweet 1/11](https://twitter.com/hus_qy/status/1482496837873541123?s=20) zum Thema "node scaleability" und "randomized set of validators (elders)" bei IOTA
-73. Hans Moog vs. Bitcoin: [Tweet 1/n](https://twitter.com/hus_qy/status/1482872302983393281?s=20)
+73. Hans Moog vs. Bitcoin: [Tweet 1/n](https://twitter.com/hus_qy/status/1482872302983393281?s=20); Vielleicht will Hans ja auch dazu mal was sagen: [Tweetstorm](https://twitter.com/MorganTBennett/status/1482411627655933953?s=20) der behauptet Bitcoin wird weniger sicher
 74. [unbanked.com](https://unbanked.com/) will offenbar IOTA implementieren: [Tweet](https://twitter.com/UnbankedHQ/status/1482768072943587330?s=20)
 75. Intel mit neuem "12th Gen Intel Core Processor for IoT Announced": [auf intel.com](https://www.intel.com/content/www/us/en/newsroom/news/intels-1st-performance-hybrid-edge-architecture.html#gs.mnglh3)
