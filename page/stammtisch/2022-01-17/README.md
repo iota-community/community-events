@@ -80,3 +80,4 @@
 77. [servrox](https://twitter.com/servrox) macht gerade bei einem Hackathon mit und freut sich über feeless NFTs bei IOTA: [Tweet](https://twitter.com/servrox/status/1482960129112875011?s=20)
 78. MoonMoron Meme Coin mit Details zum Coin Offering: [Tweet](https://twitter.com/MoonMorons/status/1483055755171450882?s=20)
 79. Cardano flipt Solana. Hat das was mir der [SundaeSwap](https://sundaeswap.finance/) zu tun die bald startet? In ihrem [Blogpost](https://sundaeswap-finance.medium.com/wen-sundae-thursday-9389e4439530) entschuldigen sie sich jetzt schon dafür, dass es nicht funktionieren wird: [Expectations, Congestion, & Mainnet Launch.](https://sundaeswap-finance.medium.com/expectations-congestion-mainnet-launch-e9da5abfd819)
+80. Kappy freut sich über den Random number generator bei IOTA: [Tweet](https://twitter.com/Rob_Daykin/status/1483114358544683013?s=20)
