@@ -10,7 +10,7 @@
 8. Die IF will einige DAOs finanziell fördern (Grant-Funding program worth 100.000 euros) mit ihrem Ideathon: [Ideathon (IF Proposal)](https://seemly-seer-d1b.notion.site/Ideathon-IF-Proposal-84ce3db6e6ee4c4da7a035478a69fe6e)
 9. Holger Köther [Tweet 1/3](https://twitter.com/HolgerKoether/status/1480618289902624769?s=20) über die Vorteile von IOTA
 10. Neues NFT Projekt Tangle Cats stellt sich in diesem [Tweetstorm](https://twitter.com/tangle_cat/status/1480963550092922882?s=20) vor; siehe auch Punkt 64
-11. Blockchaindrenthe stellt die App für das Projekt in Emden vor: [Tweet](https://twitter.com/BclDrenthe/status/1481164909119516672?s=20); Mehr Details dazu auf der [Webseite](http://energieknip.nl/)
+11. Blockchaindrenthe stellt die App für das Projekt in Emden vor: [Tweet](https://twitter.com/BclDrenthe/status/1481164909119516672?s=20); Mehr Details dazu auf der [Webseite](http://energieknip.nl/); Am Donnerstag wird darüber gesprochen: [Tweet](https://twitter.com/BclDrenthe/status/1483071136002981888?s=20)
 12. MOBI Parnterschaft mit EU für EU Pilotprojekt zum Thema digtale Identitäten... [Tweet](https://twitter.com/dltMOBI/status/1480978883834957831?s=20); Webseite: [mobiNET Decentralized Identity Scalability Pilot for 280 Million Vehicles - CO2 Emissions Tracking with EU Commission Joint Research Centre](https://dlt.mobi/eupilot/)
 13. [Joseph Skewest](https://twitter.com/josephskewes) sucht Designer und Künstler für IOTA social media banner backgrounds, die damit auch Geld verdienen können: [Tweet](https://twitter.com/josephskewes/status/1479093682632466434?s=20)
 14. [Surfyce](https://twitter.com/Surfyce) will Kinderbuch über IOTA schreiben: [Tweet](https://twitter.com/Surfyce/status/1480938351465099267?s=20)
