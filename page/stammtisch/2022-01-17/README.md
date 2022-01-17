@@ -68,12 +68,13 @@
 65. IOTA NFT Projekt "The Fans Togehter" mit [Soon Whitepaper Tweet](https://twitter.com/TheFansTogether/status/1479793102332350469?s=20)
 66. IOTA NFT Projekt "Moon Morons" mit [Soon Tweet](https://twitter.com/MoonMorons/status/1482487192081551361?s=20)
 67. IOTA NFT Projekt "IOTA Trading Cards" mit [Tweet](https://twitter.com/FranklMarkus/status/1482318155859046407?s=20)
-68. Data sharding research paper soon... [Tweet](https://twitter.com/donky31187670/status/1482347771336269831?s=20)
-69. STAGEHOLDERS veröffentlichen "[stageholders-tokens-distribution-announcement](https://mailchi.mp/135cf4c0d870/stageholders-tokens-distribution-announcement)" und ab dem 28. Januar sollte man sich bei ihrer Webseite anmelden: [Tweet](https://twitter.com/STAGEannouncer/status/1482012137811816451?s=20)
-70. [IOTATalk Wochenrückblick](https://www.iota-talk.com/index.php?article/150-wochenr%C3%BCckblick-vom-9-bis-15-januar-2022/)
-71. Frank Schäffler von der FDP, der sich schon mit Holger Köther getroffen hat mit einem guten Artikel über Kryptoregulierung: [Kryptoregulierung muss modern sein und atmen](https://www.frankschaeffler.de/kryptoregulierung-muss-modern-sein-und-atmen/)
-72. Hans Moog [Tweet 1/11](https://twitter.com/hus_qy/status/1482496837873541123?s=20) zum Thema "node scaleability" und "randomized set of validators (elders)" bei IOTA
-73. Hans Moog vs. Bitcoin: [Tweet 1/n](https://twitter.com/hus_qy/status/1482872302983393281?s=20); Vielleicht will Hans ja auch dazu mal was sagen: [Tweetstorm](https://twitter.com/MorganTBennett/status/1482411627655933953?s=20) der behauptet Bitcoin wird weniger sicher
-74. [unbanked.com](https://unbanked.com/) will offenbar IOTA implementieren: [Tweet](https://twitter.com/UnbankedHQ/status/1482768072943587330?s=20)
-75. Intel mit neuem "12th Gen Intel Core Processor for IoT Announced": [auf intel.com](https://www.intel.com/content/www/us/en/newsroom/news/intels-1st-performance-hybrid-edge-architecture.html#gs.mnglh3)
-76. [servrox](https://twitter.com/servrox) macht gerade bei einem Hackathon mit und freut sich über feeless NFTs bei IOTA: [Tweet](https://twitter.com/servrox/status/1482960129112875011?s=20)
+68. IOTA NFT Projekt "IOTA Mars" will community here cards erstellen: [Tweet](https://twitter.com/iotamars/status/1482786815132291072?s=20)
+69. Data sharding research paper soon... [Tweet](https://twitter.com/donky31187670/status/1482347771336269831?s=20)
+70. STAGEHOLDERS veröffentlichen "[stageholders-tokens-distribution-announcement](https://mailchi.mp/135cf4c0d870/stageholders-tokens-distribution-announcement)" und ab dem 28. Januar sollte man sich bei ihrer Webseite anmelden: [Tweet](https://twitter.com/STAGEannouncer/status/1482012137811816451?s=20)
+71. [IOTATalk Wochenrückblick](https://www.iota-talk.com/index.php?article/150-wochenr%C3%BCckblick-vom-9-bis-15-januar-2022/)
+72. Frank Schäffler von der FDP, der sich schon mit Holger Köther getroffen hat mit einem guten Artikel über Kryptoregulierung: [Kryptoregulierung muss modern sein und atmen](https://www.frankschaeffler.de/kryptoregulierung-muss-modern-sein-und-atmen/)
+73. Hans Moog [Tweet 1/11](https://twitter.com/hus_qy/status/1482496837873541123?s=20) zum Thema "node scaleability" und "randomized set of validators (elders)" bei IOTA
+74. Hans Moog vs. Bitcoin: [Tweet 1/n](https://twitter.com/hus_qy/status/1482872302983393281?s=20); Vielleicht will Hans ja auch dazu mal was sagen: [Tweetstorm](https://twitter.com/MorganTBennett/status/1482411627655933953?s=20) der behauptet Bitcoin wird weniger sicher
+75. [unbanked.com](https://unbanked.com/) will offenbar IOTA implementieren: [Tweet](https://twitter.com/UnbankedHQ/status/1482768072943587330?s=20)
+76. Intel mit neuem "12th Gen Intel Core Processor for IoT Announced": [auf intel.com](https://www.intel.com/content/www/us/en/newsroom/news/intels-1st-performance-hybrid-edge-architecture.html#gs.mnglh3)
+77. [servrox](https://twitter.com/servrox) macht gerade bei einem Hackathon mit und freut sich über feeless NFTs bei IOTA: [Tweet](https://twitter.com/servrox/status/1482960129112875011?s=20)
