@@ -14,4 +14,4 @@
 12. NFT Collection "Crypto Football League" mit virtuellem IOTA Fan Trikot: [Tweet](https://twitter.com/DLeagueNFTeams/status/1483653190570569731?s=20)
 13. IOTA NFT Colletion "IOTAPets" will 100 Mi/Unit: [Tweet](https://twitter.com/iotapets/status/1483551606813728772?s=20); Hier die [Webseite](https://iotapets.com/)
 14. Am 4.2. launchen die Rusti Robots: [Tweet](https://twitter.com/RustyRobotCC/status/1483478029800194054?s=20)
-15. Filancore ETO-Gruppe Projekt geht in die nächste Phase: [Tweet](https://twitter.com/FilancoreGmbH/status/1483787679414337543?s=20)
+15. Filancore ETO-Gruppe Projekt geht in die nächste Phase: [Tweet](https://twitter.com/FilancoreGmbH/status/1483787679414337543?s=20); Hintergrund zu dem Projekt aus der [Webseite von dem Bundesministerium für Forschung und Entwicklung](https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/trade)
