@@ -15,3 +15,5 @@
 13. IOTA NFT Colletion "IOTAPets" will 100 Mi/Unit: [Tweet](https://twitter.com/iotapets/status/1483551606813728772?s=20); Hier die [Webseite](https://iotapets.com/)
 14. Am 4.2. launchen die Rusti Robots: [Tweet](https://twitter.com/RustyRobotCC/status/1483478029800194054?s=20)
 15. Filancore ETO-Gruppe Projekt geht in die nächste Phase: [Tweet](https://twitter.com/FilancoreGmbH/status/1483787679414337543?s=20); Hintergrund zu dem Projekt aus der [Webseite von dem Bundesministerium für Forschung und Entwicklung](https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/trade)
+16. Moonaco Podcast jetzt auch auf Apple: [Tweet](https://twitter.com/Moonaco5/status/1483647481451843584?s=20)
+17. IOTADev mit neuer Tutorial Folge: [twitch.tv/iotadev](https://www.twitch.tv/iotadev)
