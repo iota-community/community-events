@@ -19,3 +19,5 @@
 17. IOTADev mit neuer Tutorial Folge: [twitch.tv/iotadev](https://www.twitch.tv/iotadev)
 18. IOTA will jetzt offenbar Projekte aus den Ökosystem mit Reichweite unterstützen: [Tweet](https://twitter.com/iota/status/1483801756438085639?s=20) "20 x cool reaktion" im Discord => publication on IOTA's social channels
 19. Der Youtube Patrick (TOBG) mit IOTA Pulli: Er ist immernoch ein IOTA Fan: [Tweet](https://twitter.com/Vrom14286662/status/1483800586956984325?s=20)
+20. Coinbase und Masercard machen jetzt NFTs: [Coinbase and Mastercard partner to revolutionize NFT purchase experience](https://blog.coinbase.com/coinbase-and-mastercard-partner-to-revolutionize-nft-purchase-experience-8e486a392c55)
+21. IOTA DevNet wird 10 Tage lang on off geschaltet: [Tweet](https://twitter.com/iota/status/1483831794256461826?s=20)
