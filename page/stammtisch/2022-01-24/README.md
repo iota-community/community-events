@@ -17,3 +17,5 @@
 15. Filancore ETO-Gruppe Projekt geht in die nächste Phase: [Tweet](https://twitter.com/FilancoreGmbH/status/1483787679414337543?s=20); Hintergrund zu dem Projekt aus der [Webseite von dem Bundesministerium für Forschung und Entwicklung](https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/trade)
 16. Moonaco Podcast jetzt auch auf Apple: [Tweet](https://twitter.com/Moonaco5/status/1483647481451843584?s=20)
 17. IOTADev mit neuer Tutorial Folge: [twitch.tv/iotadev](https://www.twitch.tv/iotadev)
+18. IOTA will jetzt offenbar Projekte aus den Ökosystem mit Reichweite unterstützen: [Tweet](https://twitter.com/iota/status/1483801756438085639?s=20) "20 x cool reaktion" im Discord => publication on IOTA's social channels
+19. Der Youtube Patrick (TOBG) mit IOTA Pulli: Er ist immernoch ein IOTA Fan: [Tweet](https://twitter.com/Vrom14286662/status/1483800586956984325?s=20)
