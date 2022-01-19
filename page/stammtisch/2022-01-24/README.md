@@ -8,4 +8,5 @@
 6. Die IF sucht Mitarbeiter: [Ecosystem Relations Lead (Assembly)](https://iota.bamboohr.com/jobs/view.php?id=183&source=other); [Software Engineer - Identity, Tokenization and SC](https://iota.bamboohr.com/jobs/view.php?id=185)
 7. SC-Tutorial: [Using the Iota EVM with Remix to run a Solidity Contract (2)](https://buidlassembly.com/iota_evm_remix_solidity_2.html)
 8. Umfrage: "Soll der IOTA und Assembly Discord wieder zusammenwachsen?" [Tweet](https://twitter.com/DomSchiener/status/1483406715718709250?s=20) 
-9. Popov wechselt in den Aufsichtsrat und schreibt Abschiedsworte: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1483464690864992262?s=20)
+9. Popov wechselt in den Aufsichtsrat und schreibt ein paar Abschiedsworte: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1483464690864992262?s=20)
+10. Popov tritt dem Supervisory Board bei: [IF Blogpost](https://blog.iota.org/serguei-popov-joins-the-iota-supervisory-board/); [auf deutsch](https://iota-kurs.de/serguei-popov-tritt-dem-aufsichtsrat-der-iota-foundation-bei/)
