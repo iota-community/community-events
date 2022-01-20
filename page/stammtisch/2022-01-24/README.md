@@ -4,7 +4,7 @@
 2. Dom Schiener geht auf die ETHDenver: [Tweet](https://twitter.com/DomSchiener/status/1483177914816507908?s=20); Die ist am 11.-20.02.: [ETHDenver.com](https://www.ethdenver.com/)
 3. ThomasQV mit einem [Monster-Tweet 1/n](https://twitter.com/TVstedal/status/1483324919219904513?s=20) über IOTA und die Partnerschaften gemacht
 4. Neues IOTA NFT Projekt: [Tweet](https://twitter.com/the48px/status/1483144542673158152?s=20); "Stay tuned, comming soon.." 
-5. Artikel über das Emmen Projekt von BlockchainDrenthe: [The Municipality of Emmen is tackling the climate crisis with the largest public blockchain in the Netherlands](https://www-nodenieuws-nl.translate.goog/de-gemeente-emmen-gaat-met-de-grootste-publieke-blockchain-van-nederland-de-klimaatcrisis-te-lijf/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp)
+5. Artikel über das Emmen Projekt von BlockchainDrenthe: [The Municipality of Emmen is tackling the climate crisis with the largest public blockchain in the Netherlands](https://www-nodenieuws-nl.translate.goog/de-gemeente-emmen-gaat-met-de-grootste-publieke-blockchain-van-nederland-de-klimaatcrisis-te-lijf/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp); Am Donnerstag war ein Meetup zu dem Thema: [IF Retweet](https://twitter.com/iota/status/1484108167386705924?s=20)
 6. Die IF sucht Mitarbeiter: [Ecosystem Relations Lead (Assembly)](https://iota.bamboohr.com/jobs/view.php?id=183&source=other); [Software Engineer - Identity, Tokenization and SC](https://iota.bamboohr.com/jobs/view.php?id=185); [Software Engineer - Identity, Tokenization and SC](https://iota.bamboohr.com/jobs/view.php?id=186)
 7. SC-Tutorial: [Using the Iota EVM with Remix to run a Solidity Contract (2)](https://buidlassembly.com/iota_evm_remix_solidity_2.html)
 8. Umfrage: "Soll der IOTA und Assembly Discord wieder zusammenwachsen?" [Tweet](https://twitter.com/DomSchiener/status/1483406715718709250?s=20) 
@@ -21,3 +21,10 @@
 19. Der Youtube Patrick (TOBG) mit IOTA Pulli: Er ist immernoch ein IOTA Fan: [Tweet](https://twitter.com/Vrom14286662/status/1483800586956984325?s=20)
 20. Coinbase und Masercard machen jetzt NFTs: [Coinbase and Mastercard partner to revolutionize NFT purchase experience](https://blog.coinbase.com/coinbase-and-mastercard-partner-to-revolutionize-nft-purchase-experience-8e486a392c55)
 21. IOTA DevNet wird 10 Tage lang on off geschaltet: [Tweet](https://twitter.com/iota/status/1483831794256461826?s=20)
+22. Changely Blog: [What is IOTA](https://changelly.com/blog/what-is-iota-miota-about/?utm_source=dlvr.it&utm_medium=twitter)
+23. sexypotato mit ausführlicher [Liste](https://docs.google.com/spreadsheets/d/16xbRbo5lF9fUSY5kaB38lN-5lB7vlaiKhHGMSitqW8A/edit#gid=0) zum IOTA Ökosystem: [Tweet](https://twitter.com/sexypotato_P/statu)s/1483888170601222144?s=20)
+24. Freitag um 5 Uhr will IOTA NFT Projekt "TheFansTogether" ein salem machen: [Tweet](https://twitter.com/TheFansTogether/status/1483920484395892738?s=20)
+25. [servrox solutions](https://twitter.com/servrox) [tweetet](https://twitter.com/servrox/status/1484065446789795841?s=20) über seine neue Webseite: [iota-nft.com](https://iota-nft.com/) die soon live geht...
+26. [UN Event](https://twitter.com/iota/status/1481657598046789636?s=20) mit Mat Yarger: Tom Bauman [tweetet](https://twitter.com/TomTC4TC/status/1483896185698062339?s=20) darüber und [auf LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:6889661810459348992) findet man auch 48 Seiten über das Projekt
+27. Die IF [tweetet](https://twitter.com/iota/status/1484118639406166017?s=20) über neue Tutorials für Developer: [Application Blueprints](https://wiki.iota.org/blueprints/introduction) auf wiki.iota.org
+28. 
