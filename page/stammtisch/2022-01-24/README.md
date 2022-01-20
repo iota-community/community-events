@@ -25,7 +25,11 @@
 23. sexypotato mit ausführlicher [Liste](https://docs.google.com/spreadsheets/d/16xbRbo5lF9fUSY5kaB38lN-5lB7vlaiKhHGMSitqW8A/edit#gid=0) zum IOTA Ökosystem: [Tweet](https://twitter.com/sexypotato_P/statu)s/1483888170601222144?s=20)
 24. Freitag um 5 Uhr will IOTA NFT Projekt "TheFansTogether" ein salem machen: [Tweet](https://twitter.com/TheFansTogether/status/1483920484395892738?s=20)
 25. [servrox solutions](https://twitter.com/servrox) [tweetet](https://twitter.com/servrox/status/1484065446789795841?s=20) über seine neue Webseite: [iota-nft.com](https://iota-nft.com/) die soon live geht...
-26. [UN Event](https://twitter.com/iota/status/1481657598046789636?s=20) mit Mat Yarger: Tom Bauman [tweetet](https://twitter.com/TomTC4TC/status/1483896185698062339?s=20) darüber und [auf LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:6889661810459348992) findet man auch 48 Seiten über das Projekt
+26. [UN Event](https://twitter.com/iota/status/1481657598046789636?s=20) mit Mat Yarger: Tom Bauman [tweetet](https://twitter.com/TomTC4TC/status/1483896185698062339?s=20) darüber und [auf LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:6889661810459348992) findet man auch [48 Seiten über das Projekt](http://www.socialalphafoundation.org/wp-content/uploads/2022/01/saf-blockchain-report-final-2022.pdf)
 27. Die IF [tweetet](https://twitter.com/iota/status/1484118639406166017?s=20) über neue Tutorials für Developer: [Application Blueprints](https://wiki.iota.org/blueprints/introduction) auf wiki.iota.org
 28. Die IF [beantwortet](https://twitter.com/iota/status/1484161786127560706?s=20) Fragen zum Staking auf Twitter
-29. 
+29. Facebook und Instagram steigen wohl ins NFT Geschäft ein: [Techcrunch Artikel](https://techcrunch.com/2022/01/20/facebook-and-instagram-may-help-you-create-and-sell-nfts/?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAI8SQxNJOfNYCDG8oZwyA__nrcN_4N2ij220M5Edp0d_KiqJprV4wXHtDob_QVZjhj9_-kJMxpse1cBq5T7lZLcNkd3Ox2SPj6H1KWlZz5a9lulOS2_zNPww2G1PbubfSTTskmWrGmuKOSBHakc794UbLe7nZ8qSDyGTnWsDskvu&guccounter=2)
+30. Google arbeitet wohl auch an Kryptowährungsintegration: [Binance Artikel](https://www.binance.com/en/news/top/6791335?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial)
+31. Präsident von El Salvador und Türkei treffen sich...
+32. Stephan Braun mit IOTA.php Update: [Tweet](https://twitter.com/IOTAphp/status/1484184009731035152?s=20)
+33. Bison App, die Cryptobörse der Börse Stuttgart, überlegt wohl weiterhin IOTA zu listen. Zumindest verfolgen sie die Entwicklung bei IOTA: [Tweet](https://twitter.com/bisonapp/status/1484187399303221253?s=20)
