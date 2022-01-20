@@ -27,4 +27,5 @@
 25. [servrox solutions](https://twitter.com/servrox) [tweetet](https://twitter.com/servrox/status/1484065446789795841?s=20) über seine neue Webseite: [iota-nft.com](https://iota-nft.com/) die soon live geht...
 26. [UN Event](https://twitter.com/iota/status/1481657598046789636?s=20) mit Mat Yarger: Tom Bauman [tweetet](https://twitter.com/TomTC4TC/status/1483896185698062339?s=20) darüber und [auf LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:6889661810459348992) findet man auch 48 Seiten über das Projekt
 27. Die IF [tweetet](https://twitter.com/iota/status/1484118639406166017?s=20) über neue Tutorials für Developer: [Application Blueprints](https://wiki.iota.org/blueprints/introduction) auf wiki.iota.org
-28. 
+28. Die IF [beantwortet](https://twitter.com/iota/status/1484161786127560706?s=20) Fragen zum Staking auf Twitter
+29. 
