@@ -29,7 +29,7 @@
 27. Die IF [tweetet](https://twitter.com/iota/status/1484118639406166017?s=20) über neue Tutorials für Developer: [Application Blueprints](https://wiki.iota.org/blueprints/introduction) auf wiki.iota.org
 28. Die IF [beantwortet](https://twitter.com/iota/status/1484161786127560706?s=20) Fragen zum Staking auf Twitter
 29. Facebook und Instagram steigen wohl ins NFT Geschäft ein: [Techcrunch Artikel](https://techcrunch.com/2022/01/20/facebook-and-instagram-may-help-you-create-and-sell-nfts/?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAI8SQxNJOfNYCDG8oZwyA__nrcN_4N2ij220M5Edp0d_KiqJprV4wXHtDob_QVZjhj9_-kJMxpse1cBq5T7lZLcNkd3Ox2SPj6H1KWlZz5a9lulOS2_zNPww2G1PbubfSTTskmWrGmuKOSBHakc794UbLe7nZ8qSDyGTnWsDskvu&guccounter=2)
-30. Google arbeitet wohl auch an Kryptowährungsintegration: [Binance Artikel](https://www.binance.com/en/news/top/6791335?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial)
+30. Google arbeitet wohl auch an Kryptowährungsintegration: [Binance Artikel](https://www.binance.com/en/news/top/6791335?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial); [Blockworks Artikel](https://blockworks.co/google-creates-blockchain-unit-hires-new-founding-leader/)
 31. Präsident von El Salvador und Türkei treffen sich...
 32. Stephan Braun mit IOTA.php Update: [Tweet](https://twitter.com/IOTAphp/status/1484184009731035152?s=20)
 33. Bison App, die Cryptobörse der Börse Stuttgart, überlegt wohl weiterhin IOTA zu listen. Zumindest verfolgen sie die Entwicklung bei IOTA: [Tweet](https://twitter.com/bisonapp/status/1484187399303221253?s=20)
