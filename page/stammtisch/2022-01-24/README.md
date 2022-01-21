@@ -40,5 +40,8 @@
 38. BlockchainLab Drenthe Videoaufzeichnung: [BlockchainLab Drenthe Monthly Meetup Jan. 20th 2022 19:00](https://www.youtube.com/watch?v=OIFxB4ouJ1o)
 39. Die [IF tweetet](https://twitter.com/iota/status/1484433778567258115?s=20), dass sie beim ersten Orchestra Meeting des Jahres mitgemacht haben; Hintergrund Orchestra: [Future of Transportation Infrastructure: ORCHESTRA Consortium and IOTA](https://blog.iota.org/orchestra-consortium-and-iota/)
 40. TangleLabs NFT Drop war am Freitag: Check out the [whitelist adresses](https://nft.tanglelabs.io/whitelist); 
+41. Moonacopodcast [tweetet](https://twitter.com/Moonaco5/status/1484513911860781057?s=20) über neue Folge mit Holger Köther[IF]
+42. IOTA Weekly: [IOTAWeekly 024: Standardisierung von IOTA](https://www.youtube.com/watch?app=desktop&v=7fEtZEYSS0g)
+43. 
 
 
