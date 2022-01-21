@@ -16,7 +16,7 @@
 14. Am 4.2. launchen die Rusti Robots: [Tweet](https://twitter.com/RustyRobotCC/status/1483478029800194054?s=20)
 15. Filancore ETO-Gruppe Projekt geht in die nächste Phase: [Tweet](https://twitter.com/FilancoreGmbH/status/1483787679414337543?s=20); Hintergrund zu dem Projekt aus der [Webseite von dem Bundesministerium für Forschung und Entwicklung](https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/trade)
 16. Moonaco Podcast jetzt auch auf Apple: [Tweet](https://twitter.com/Moonaco5/status/1483647481451843584?s=20)
-17. IOTADev mit neuer Tutorial Folge: [twitch.tv/iotadev](https://www.twitch.tv/iotadev)
+17. IOTADev mit neuer Tutorial Folge: [twitch.tv/iotadev](https://www.twitch.tv/iotadev); [IOTA Smart Contracts Tutorials - Deploy Solidity Contracts with Hardhat](https://www.youtube.com/watch?v=zfc4ENTQkDE)
 18. IOTA will jetzt offenbar Projekte aus den Ökosystem mit Reichweite unterstützen: [Tweet](https://twitter.com/iota/status/1483801756438085639?s=20) "20 x cool reaktion" im Discord => publication on IOTA's social channels
 19. Der Youtube Patrick (TOBG) mit IOTA Pulli: Er ist immernoch ein IOTA Fan: [Tweet](https://twitter.com/Vrom14286662/status/1483800586956984325?s=20)
 20. Coinbase und Masercard machen jetzt NFTs: [Coinbase and Mastercard partner to revolutionize NFT purchase experience](https://blog.coinbase.com/coinbase-and-mastercard-partner-to-revolutionize-nft-purchase-experience-8e486a392c55)
@@ -42,6 +42,7 @@
 40. TangleLabs NFT Drop war am Freitag: Check out the [whitelist adresses](https://nft.tanglelabs.io/whitelist); 
 41. Moonacopodcast [tweetet](https://twitter.com/Moonaco5/status/1484513911860781057?s=20) über neue Folge mit Holger Köther[IF]
 42. IOTA Weekly: [IOTAWeekly 024: Standardisierung von IOTA](https://www.youtube.com/watch?app=desktop&v=7fEtZEYSS0g)
-43. 
+43. Die IF [tweetet](https://twitter.com/iota/status/1484542590355709958?s=20) über ihre One-Click Tangle Node Lösung: [GitHub](https://github.com/iotaledger/one-click-tangle)
+44. 
 
 
