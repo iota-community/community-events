@@ -31,12 +31,12 @@
 29. Facebook und Instagram steigen wohl ins NFT Geschäft ein: [Techcrunch Artikel](https://techcrunch.com/2022/01/20/facebook-and-instagram-may-help-you-create-and-sell-nfts/?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAI8SQxNJOfNYCDG8oZwyA__nrcN_4N2ij220M5Edp0d_KiqJprV4wXHtDob_QVZjhj9_-kJMxpse1cBq5T7lZLcNkd3Ox2SPj6H1KWlZz5a9lulOS2_zNPww2G1PbubfSTTskmWrGmuKOSBHakc794UbLe7nZ8qSDyGTnWsDskvu&guccounter=2)
 30. Google arbeitet wohl auch an Kryptowährungsintegration: [Binance Artikel](https://www.binance.com/en/news/top/6791335?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial); [Blockworks Artikel](https://blockworks.co/google-creates-blockchain-unit-hires-new-founding-leader/)
 31. Präsident von El Salvador und Türkei treffen sich...
-32. Stephan Braun mit IOTA.php Update: [Tweet](https://twitter.com/IOTAphp/status/1484184009731035152?s=20)
+32. Stephan Braun mit IOTA.php Update: [Tweet](https://twitter.com/IOT)Aphp/status/1484184009731035152?s=20)
 33. Bison App, die Cryptobörse der Börse Stuttgart, überlegt wohl weiterhin IOTA zu listen. Zumindest verfolgen sie die Entwicklung bei IOTA: [Tweet](https://twitter.com/bisonapp/status/1484187399303221253?s=20)
-34. Schwarzer Freitag am Cryptomarkt. Bitcoin unter $39.000$ [Tweet](https://twitter.com/Vrom14286662/status/1484368775067561990?s=20)
+34. Schwarzer Freitag am Cryptomarkt. Bitcoin unter $39.000$ [Tweet](https://twitter.com/Vrom14286662/status/1484368775067561990?s=20); Gründe vielleicht: [Russische Zentralbank erwägt ein umfassendes Verbot von Kryptowährungen](https://www.handelsblatt.com/finanzen/geldpolitik/bitcoin-und-co-russische-zentralbank-erwaegt-ein-umfassendes-verbot-von-kryptowaehrungen/27994174.html?ticket=ST-2562933-B3gy4o4d60Gph4ga4JUU-ap3)
 35. IOTA Americas Meetup mit Eric Hop: [Announcement Tweet](https://twitter.com/gregmart/status/1484280406656442368?s=20)
 36. TangleGang Telegram Sprachchat war am Donnerstag: [Tweet](https://twitter.com/GangTangleTalk/status/1484211476952985607?s=20)
 37. IOTA Hispano [tweetet](https://twitter.com/IotaHispano/status/1484174710648688642?s=20) über ihre neue spanische Artikel-Serie über Smart Contracts: [Assembly series n° 1 – Smart Contracts](https://iotahispano.com/assembly-series-n-1-smart-contracts/)
-38. 
+38. Blockchain Drenthe Videoaufzeichnung: [BlockchainLab Drenthe Monthly Meetup Jan. 20th 2022 19:00](https://www.youtube.com/watch?v=OIFxB4ouJ1o)
 
 
