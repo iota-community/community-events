@@ -33,3 +33,10 @@
 31. Präsident von El Salvador und Türkei treffen sich...
 32. Stephan Braun mit IOTA.php Update: [Tweet](https://twitter.com/IOTAphp/status/1484184009731035152?s=20)
 33. Bison App, die Cryptobörse der Börse Stuttgart, überlegt wohl weiterhin IOTA zu listen. Zumindest verfolgen sie die Entwicklung bei IOTA: [Tweet](https://twitter.com/bisonapp/status/1484187399303221253?s=20)
+34. Schwarzer Freitag am Cryptomarkt. Bitcoin unter $39.000$ [Tweet](https://twitter.com/Vrom14286662/status/1484368775067561990?s=20)
+35. IOTA Americas Meetup mit Eric Hop: [Announcement Tweet](https://twitter.com/gregmart/status/1484280406656442368?s=20)
+36. TangleGang Telegram Sprachchat war am Donnerstag: [Tweet](https://twitter.com/GangTangleTalk/status/1484211476952985607?s=20)
+37. IOTA Hispano [tweetet](https://twitter.com/IotaHispano/status/1484174710648688642?s=20) über ihre neue spanische Artikel-Serie über Smart Contracts: [Assembly series n° 1 – Smart Contracts](https://iotahispano.com/assembly-series-n-1-smart-contracts/)
+38. 
+
+
