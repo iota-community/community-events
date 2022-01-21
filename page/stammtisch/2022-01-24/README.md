@@ -37,6 +37,6 @@
 35. IOTA Americas Meetup mit Eric Hop: [Announcement Tweet](https://twitter.com/gregmart/status/1484280406656442368?s=20)
 36. TangleGang Telegram Sprachchat war am Donnerstag: [Tweet](https://twitter.com/GangTangleTalk/status/1484211476952985607?s=20)
 37. IOTA Hispano [tweetet](https://twitter.com/IotaHispano/status/1484174710648688642?s=20) über ihre neue spanische Artikel-Serie über Smart Contracts: [Assembly series n° 1 – Smart Contracts](https://iotahispano.com/assembly-series-n-1-smart-contracts/)
-38. Blockchain Drenthe Videoaufzeichnung: [BlockchainLab Drenthe Monthly Meetup Jan. 20th 2022 19:00](https://www.youtube.com/watch?v=OIFxB4ouJ1o)
+38. BlockchainLab Drenthe Videoaufzeichnung: [BlockchainLab Drenthe Monthly Meetup Jan. 20th 2022 19:00](https://www.youtube.com/watch?v=OIFxB4ouJ1o)
 
 
