@@ -43,6 +43,7 @@
 41. Moonacopodcast [tweetet](https://twitter.com/Moonaco5/status/1484513911860781057?s=20) über neue Folge mit Holger Köther[IF]
 42. IOTA Weekly: [IOTAWeekly 024: Standardisierung von IOTA](https://www.youtube.com/watch?app=desktop&v=7fEtZEYSS0g)
 43. Die IF [tweetet](https://twitter.com/iota/status/1484542590355709958?s=20) über ihre One-Click Tangle Node Lösung: [GitHub](https://github.com/iotaledger/one-click-tangle)
-44. 
+44. Bitcoin crashed auf $35.000 am Samstag
+45. 
 
 
