@@ -56,5 +56,7 @@
 54. Dom S. spricht darüber, dass wir bald "all the Defi profits we will make on #IOTA, #Shimmer and #Assembly in the coming months" sinnvoll einsetzen sollen für ecofriendly DAOs: [Tweet](https://twitter.com/DomSchiener/status/1484977201430863873?s=20)
 55. Neues IOTA NFT Projekt "Miotaurs" wurde vorgestellt. Ist scheinbar von Iotapets: [Twitter Account](https://twitter.com/MIOTAURS); [miotaur.iotapets.com/](https://miotaur.iotapets.com/)
 56. Solana down: [Tweets von SolanaStatus](https://twitter.com/SolanaStatus/status/1484947431796219906?s=20)
+57. Hans Moog vs. Ethereum: [Tweet](https://twitter.com/hus_qy/status/1485384974085890061?s=20) "The biggest value proposition of IOTA compared to ETH will be its improved "security layer"."
+58. Neues IOTA NFT Projekt von Lexie Lynn: [Tweet](https://twitter.com/lexienft/status/1484823662201090049?s=20)
 
 
