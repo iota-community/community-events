@@ -40,10 +40,19 @@
 38. BlockchainLab Drenthe Videoaufzeichnung: [BlockchainLab Drenthe Monthly Meetup Jan. 20th 2022 19:00](https://www.youtube.com/watch?v=OIFxB4ouJ1o)
 39. Die [IF tweetet](https://twitter.com/iota/status/1484433778567258115?s=20), dass sie beim ersten Orchestra Meeting des Jahres mitgemacht haben; Hintergrund Orchestra: [Future of Transportation Infrastructure: ORCHESTRA Consortium and IOTA](https://blog.iota.org/orchestra-consortium-and-iota/)
 40. TangleLabs NFT Drop war am Freitag: Check out the [whitelist adresses](https://nft.tanglelabs.io/whitelist); 
-41. Moonacopodcast [tweetet](https://twitter.com/Moonaco5/status/1484513911860781057?s=20) über neue Folge mit Holger Köther[IF]
+41. Moonaco Podcast [tweetet](https://twitter.com/Moonaco5/status/1484513911860781057?s=20) über neue Folge mit Holger Köther[IF]
 42. IOTA Weekly: [IOTAWeekly 024: Standardisierung von IOTA](https://www.youtube.com/watch?app=desktop&v=7fEtZEYSS0g)
 43. Die IF [tweetet](https://twitter.com/iota/status/1484542590355709958?s=20) über ihre One-Click Tangle Node Lösung: [GitHub](https://github.com/iotaledger/one-click-tangle)
-44. Bitcoin crashed auf $35.000 am Samstag
-45. 
+44. Bitcoin crashed auf $35.000 am Samstag; Salvador Präsident trägts mit Humor (Neues Profilbild mit McD Cap): [Tweet](https://twitter.com/nayibbukele/status/1485031106982428677?s=20)
+45. IOTATalks Wochenrückblick [auf deutsch](https://www.iota-talk.com/index.php?article/152-wochenr%C3%BCckblick-vom-16-bis-22-januar-2022/&l=1) und [auf englisch](https://www.iota-talk.com/index.php?article/153-week-in-review-from-16th-to-22nd-january-2022/)
+46. Neues Video von EDAG und dem Citybot: [Accelerating Data Spaces Creation in Mobility and Logistic - EDAG Presentation @ FIWARE SMART FEST](https://www.youtube.com/watch?v=65JltOs3Jis)
+47. Neues [Iota poker game](https://iotapoker.app/); Video [How to withdraw tokens] https://youtu.be/O2u-wmnBt9w]; Video [How to deposit tokens](https://youtu.be/bO0GWaR6j9g); GitHub [Issues reporting:](https://github.com/smislav/iota-poker-issues/issues); [Roadmap](https://trello.com/b/0WNpbap7); [Twitter](https://twitter.com/iotapoker)
+48. Am 3.2. ist die IF (Regine Haschka-Helmer und Holger Köther) bei Eura AG [Tech Talk: Blockchain Technologien (DLT) für Produktion und Supply Chain](https://www.eura-ag.com/veranstaltung-tech-talk-blockchain-technologien-fuer-produktion-und-supply-chain)
+49. Erstes Play to Earn IOTA Game Digi Roket von Digimine "Soon im Google Playstore": [Webseite](https://www.digimine.de/digirocket/); [Twitter](https://twitter.com/DigiMine_)
+50. Neue Bilder (über Moonaco Podcast und IOTA Weekly) auf dem Werbebanner von Thomas Christian: [Tweet](https://twitter.com/TC081180/status/1485289058779770880?s=20) 
+51. IOTABots bald als physische Tradingcards: [Tweet](https://twitter.com/iotabots/status/1484860527251709957?s=20)
+52. Und auch von Markus gibt es bald Trading Cards: [Tweet](https://twitter.com/FranklMarkus/status/1485207762267160579?s=20)
+53. TangleLabs NFTs sold out: [Tweet](https://twitter.com/Tangle_Labs/status/1484882180606210055?s=20)
+54. 
 
 
