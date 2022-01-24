@@ -48,7 +48,7 @@
 46. Neues Video von EDAG und dem Citybot: [Accelerating Data Spaces Creation in Mobility and Logistic - EDAG Presentation @ FIWARE SMART FEST](https://www.youtube.com/watch?v=65JltOs3Jis)
 47. Neues [Iota poker game](https://iotapoker.app/); Video [How to withdraw tokens](https://youtu.be/O2u-wmnBt9w); Video [How to deposit tokens](https://youtu.be/bO0GWaR6j9g); GitHub [Issues reporting:](https://github.com/smislav/iota-poker-issues/issues); [Roadmap](https://trello.com/b/0WNpbap7); [Twitter](https://twitter.com/iotapoker)
 48. Am 3.2. ist die IF (Regine Haschka-Helmer und Holger Köther) bei Eura AG zum [Tech Talk: Blockchain Technologien (DLT) für Produktion und Supply Chain](https://www.eura-ag.com/veranstaltung-tech-talk-blockchain-technologien-fuer-produktion-und-supply-chain)
-49. Erstes Play to Earn IOTA Game Digi Rocket von Digimine "Soon im Google Playstore": [Webseite](https://www.digimine.de/digirocket/); [Twitter](https://twitter.com/DigiMine_)
+49. Erstes Play to Earn IOTA Game Digi Rocket von Digimine "Soon im Google Playstore": [Webseite](https://www.digimine.de/digirocket/); [Twitter](https://twitter.com/DigiMine_); Hier ein erstes Video davon: [Tweet](https://twitter.com/DigiMine_/status/1485576893663526914?s=20)
 50. Neue Animationen (über Moonaco Podcast und IOTA Weekly) auf dem Werbebanner von Thomas Christian: [Tweet](https://twitter.com/TC081180/status/1485289058779770880?s=20) 
 51. IOTABots gibt es bald als physische Trading Cards: [Tweet](https://twitter.com/iotabots/status/1484860527251709957?s=20)
 52. Und auch von Markus gibt es bald Trading Cards: [Tweet](https://twitter.com/FranklMarkus/status/1485207762267160579?s=20)
