@@ -58,5 +58,7 @@
 56. Solana down: [Tweets von SolanaStatus](https://twitter.com/SolanaStatus/status/1484947431796219906?s=20)
 57. Hans Moog vs. Ethereum: [Tweet](https://twitter.com/hus_qy/status/1485384974085890061?s=20) "The biggest value proposition of IOTA compared to ETH will be its improved "security layer"."
 58. Neues IOTA NFT Projekt von Lexie Lynn: [Tweet](https://twitter.com/lexienft/status/1484823662201090049?s=20)
+59. Holger Köther will Fragen zu IOTA, Shimmer und Assembly sammeln ([Tweet](https://twitter.com/HolgerKoether/status/1485602365889781765?s=20)) in folgendem [Google Formular](https://docs.google.com/forms/d/e/1FAIpQLSfNjHG2GdqbJ8KEeoG24lCaHPaCsa3ogBe_noXiWcW87Pl31w/viewform)
+60. Neues vom MoonMoron Meme Coin: [Tweet](https://twitter.com/MoonMorons/status/1485377119714742275?s=20)
 
 
