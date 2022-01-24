@@ -53,6 +53,8 @@
 51. IOTABots bald als physische Tradingcards: [Tweet](https://twitter.com/iotabots/status/1484860527251709957?s=20)
 52. Und auch von Markus gibt es bald Trading Cards: [Tweet](https://twitter.com/FranklMarkus/status/1485207762267160579?s=20)
 53. TangleLabs NFTs sold out: [Tweet](https://twitter.com/Tangle_Labs/status/1484882180606210055?s=20)
-54. 
+54. Dom S. spricht darüber, dass wir "all the Defi profits we will make on #IOTA, #Shimmer and #Assembly in the coming months" sinnvoll einsetzen sollen für ecofriendly DAOs: [Tweet](https://twitter.com/DomSchiener/status/1484977201430863873?s=20)
+55. Neues IOTA NFT Projekt "Miotaurs" scheinbar von Iotapets: [Twitter Account](https://twitter.com/MIOTAURS); [Webseite](https://miotaur.iotapets.com/)
+56. Solana down: [Tweets von SolanaStatus](https://twitter.com/SolanaStatus/status/1484947431796219906?s=20)
 
 
