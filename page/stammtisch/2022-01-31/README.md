@@ -7,4 +7,6 @@
 5. Grayscale [tweetet](https://twitter.com/Grayscale/status/1485735645142265857?s=20) darüber welche Coins sie beobachten und IOTA ist dabei: [Assets Under Consideration and Current Products](https://grayscale.com/assets-under-consideration-and-current-products/?utm_source=TWITTER&utm_medium=social&utm_term=product&utm_content=6232768218&utm_campaign=assets+under+exploration&linkId=149405992)
 6. Shimmer Inu: Meme Coin auf IOTA: [Tweet](https://twitter.com/shimmer_inu/status/1485691910907912197?s=20)
 7. Bitfinex will den Airdrop mit machen: [Tweet](https://twitter.com/bitfinex/status/1485945614080909318?s=20)
-8. 
+8. IOTA Foundation und ZEBRA Technologies: [Tweet](https://twitter.com/iota/status/1486021181723582472); Blogpost [Introducing the Zebra-IOTA Edge SDK](https://developer.zebra.com/blog/introducing-zebra-iota-edge-sdk)
+9. Discord Privilegien für TangleLabs NFT Hodler: [Tweet](https://twitter.com/Tangle_Labs/status/1486040804070203395?s=20)
+10. Zignar Mitarbeiter Gianfranco Campos [tweetet](https://twitter.com/hassping/status/1486046535020212226?s=20) über ihr neues Projekt: [The ZenTangle Ecosystem](https://blog.zignar.tech/the-zentangle-ecosystem-6fa445e390fb)
