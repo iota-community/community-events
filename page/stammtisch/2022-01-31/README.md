@@ -10,3 +10,8 @@
 8. IOTA Foundation und ZEBRA Technologies: [Tweet](https://twitter.com/iota/status/1486021181723582472); Blogpost [Introducing the Zebra-IOTA Edge SDK](https://developer.zebra.com/blog/introducing-zebra-iota-edge-sdk)
 9. Discord Privilegien für TangleLabs NFT Hodler: [Tweet](https://twitter.com/Tangle_Labs/status/1486040804070203395?s=20)
 10. Zignar Mitarbeiter Gianfranco Campos [tweetet](https://twitter.com/hassping/status/1486046535020212226?s=20) über ihr neues Projekt: [The ZenTangle Ecosystem](https://blog.zignar.tech/the-zentangle-ecosystem-6fa445e390fb)
+11. Neuer Tanglevisualizer soon: [Tweet](https://twitter.com/Jacob_Parece/status/1486010546826747905?s=20)
+12. Dennis Nagpal will auch einen Werbebanner in der Schweiz schalten: [Tweet](https://twitter.com/dennisnagpal1/status/1485930726923059202?s=20)
+13. The Fans Together mit [Soon-Whitepaper-Tweet](https://twitter.com/TheFansTogether/status/1486048343142936580?s=20)
+14. ZEDEDA mit einem [Tweet](https://twitter.com/ZededaEdge/status/1486049362136367104?s=20) darüber, dass sie mit Dell und IOTA an einem framework... arbeiten
+15. 
