@@ -14,4 +14,5 @@
 12. Dennis Nagpal will auch einen Werbebanner in der Schweiz schalten: [Tweet](https://twitter.com/dennisnagpal1/status/1485930726923059202?s=20)
 13. The Fans Together mit [Soon-Whitepaper-Tweet](https://twitter.com/TheFansTogether/status/1486048343142936580?s=20)
 14. ZEDEDA mit einem [Tweet](https://twitter.com/ZededaEdge/status/1486049362136367104?s=20) darüber, dass sie mit Dell und IOTA an einem framework... arbeiten
-15. 
+15. Dom macht Umfrage ob Berlin als strategischer Ort für die IF sinnvoll ist: [Tweet](https://twitter.com/DomSchiener/status/1486028132947828736?s=20)
+16. Rusti Robots am Freitag: [Tweet](https://twitter.com/RustyRobotCC/status/1486014821363503111?s=20)
