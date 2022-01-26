@@ -16,3 +16,9 @@
 14. ZEDEDA mit einem [Tweet](https://twitter.com/ZededaEdge/status/1486049362136367104?s=20) darüber, dass sie mit Dell und IOTA an einem framework... arbeiten
 15. Dom macht Umfrage ob Berlin als strategischer Ort für die IF sinnvoll ist: [Tweet](https://twitter.com/DomSchiener/status/1486028132947828736?s=20)
 16. Rusti Robots am Freitag: [Tweet](https://twitter.com/RustyRobotCC/status/1486014821363503111?s=20)
+17. GoShimmer - Sprint Planning Weeks 4-5, 2022: [GitHub](https://github.com/iotaledger/research-updates/discussions/1)
+18. Die IF sucht Mitarbeiter: [Software Engineer - Identity, Tokenization and SC](https://iota.bamboohr.com/jobs/view.php?id=186&source=other)
+19. Phylo [announced](https://twitter.com/PhyloIota/status/1486328976276881414?s=20) DAO Meeting: [Community Treasury  Governance call.]()
+20. Neues IOTA NFT Projekt ["TangleBees" auf Twitter](https://twitter.com/TangleBees) mit einem [Soon Tweet](https://twitter.com/TangleBees/status/1486307690452295684?s=20)
+21. Die Europäische Commission macht Werbung für ihre digitale Rights and Principles die gut zu IOTA passen würden... [Tweet](https://twitter.com/EU_Commission/status/1486295140285272064?s=20)
+22. IOTA Live Season on Twich: [Tweet](https://twitter.com/iota/status/1485990941848752134?s=20)
