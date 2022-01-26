@@ -22,3 +22,5 @@
 20. Neues IOTA NFT Projekt ["TangleBees" auf Twitter](https://twitter.com/TangleBees) mit einem [Soon Tweet](https://twitter.com/TangleBees/status/1486307690452295684?s=20)
 21. Die Europäische Commission macht Werbung für ihre digitale Rights and Principles die gut zu IOTA passen würden... [Tweet](https://twitter.com/EU_Commission/status/1486295140285272064?s=20)
 22. IOTA Live Season on Twich: [Tweet](https://twitter.com/iota/status/1485990941848752134?s=20)
+23. Neues vom BLACKPIN Messanger; Überschrift: Ein Messanger für Pflegeheime
+24. 
