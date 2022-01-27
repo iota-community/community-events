@@ -35,4 +35,4 @@
 33. Die IF [tweetet](https://twitter.com/iota/status/1486640158233571331?s=20) über einen neuen Bereich im wiki.iota.org für IOTA DID und Streams: [IOTA Integration Services implement a high-level API for common interactions with Decentralized Identities and Data Streams based on the IOTA Identity and IOTA Streams libraries](https://wiki.iota.org/integration-services/welcome)
 34. Putin wirbt für Bitcoin Mining in Russland: [PUTIN: RUSSIA HAS ‘ADVANTAGES’ IN BITCOIN MINING](https://bitcoinmagazine.com/markets/putin-russia-has-advantages-in-bitcoin-mining)
 35. IOTA Americas Meeting mit Eric Hop: [IOTA Americas Meeting - January 20th 2022](https://www.youtube.com/watch?v=L5Zj0Y3QhVY)
-36. 
+36. Die [IF tweetet](Picking Nr: TNT 218410885.) über den neuen Blogpost: [IOTA Community Treasury Vote](https://blog.iota.org/iota-community-treasury-vote/)
