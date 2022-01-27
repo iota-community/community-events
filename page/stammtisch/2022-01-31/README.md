@@ -31,3 +31,8 @@
 29. Die [IOTA Projekt Liste](https://docs.google.com/spreadsheets/d/1YVdj1iyclMZPoNFFPtEvVvIA4JmskuSfQ_B8cNxkOcw/edit#gid=0) von [Jean](https://twitter.com/Odd_Kesson) wächst
 30. Mat Yarger [äußert sich erst kritisch zu web3](https://twitter.com/Mat_Yarger/status/1486503537068625924?s=20) weil alles öffentlich ist, aber [tweetet](https://twitter.com/Mat_Yarger/status/1486535646244188170?s=20) dann, dass IOTA Lösungen anbietet; Hier noch ein [Tweet](https://twitter.com/Mat_Yarger/status/1486535313702936578?s=20) dazu
 31. IOTA Content Creator DAO neu auf [Twitter](https://twitter.com/IOTAcontentDAO/status/1486480960166109193?s=20); Hier der [Link zum DAO auf soonaverse.com](https://soonaverse.com/space/0x4d380b06a9ade18784f1832b7a59e9f7bbf18bf6/members)
+32. Martin Neubauer sucht Entwickler für seine Idee von einem digitalen Media Markt: [Tweet](https://twitter.com/neupi92/status/1486625387950006272?s=20)
+33. Die IF [tweetet](https://twitter.com/iota/status/1486640158233571331?s=20) über einen neuen Bereich im wiki.iota.org für IOTA DID und Streams: [IOTA Integration Services implement a high-level API for common interactions with Decentralized Identities and Data Streams based on the IOTA Identity and IOTA Streams libraries](https://wiki.iota.org/integration-services/welcome)
+34. Putin wirbt für Bitcoin Mining in Russland: [PUTIN: RUSSIA HAS ‘ADVANTAGES’ IN BITCOIN MINING](https://bitcoinmagazine.com/markets/putin-russia-has-advantages-in-bitcoin-mining)
+35. IOTA Americas Meeting mit Eric Hop: [IOTA Americas Meeting - January 20th 2022](https://www.youtube.com/watch?v=L5Zj0Y3QhVY)
+36. 
