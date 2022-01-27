@@ -21,6 +21,13 @@
 19. Phylo [announced](https://twitter.com/PhyloIota/status/1486328976276881414?s=20) DAO Meeting: [Community Treasury  Governance call.]()
 20. Neues IOTA NFT Projekt ["TangleBees" auf Twitter](https://twitter.com/TangleBees) mit einem [Soon Tweet](https://twitter.com/TangleBees/status/1486307690452295684?s=20)
 21. Die Europäische Commission macht Werbung für ihre digitale Rights and Principles die gut zu IOTA passen würden... [Tweet](https://twitter.com/EU_Commission/status/1486295140285272064?s=20)
-22. IOTA Live Season on Twich: [Tweet](https://twitter.com/iota/status/1485990941848752134?s=20)
-23. Neues vom BLACKPIN Messanger; Überschrift: Ein Messanger für Pflegeheime
-24. 
+22. Doms Investments sind fully IOTA related: [Tweet](https://twitter.com/DomSchiener/status/1486335015722098688?s=20)
+23. IOTA Live Season on Twich: [Tweet](https://twitter.com/iota/status/1485990941848752134?s=20)
+24. Neues vom BLACKPIN Messanger: [Tweet mit Zeitungsartikel](https://twitter.com/BLACKPIN_GmbH/status/1486358624339378176?s=20), Überschrift: Ein Messanger für Pflegeheime
+25. Engilada [tweetet](https://twitter.com/engilada/status/1486413027943628803?s=20) über ihre Webseite und ihr NFT-as-a-service plattform: [Build Web3 apps fast. With NFT-as-a-service. On IOTA.](https://engilada.io/); Wichtige Details auch im [Tweet von Phylo](https://twitter.com/thePYLONapp/status/1486416611502395395?s=20)
+26. Die Rusty Robots öffnen ihren Discord Server: [Tweet](https://twitter.com/RustyRobotCC/status/1486392813076029443?s=20) und im [Tweet 1/10 von Incognito](https://twitter.com/incognit0x24/status/1486415085845286913?s=20); Holger Köther kannte das wohl schon vorher: [Tweet](https://twitter.com/HolgerKoether/status/1486427458626891777?s=20); 
+27. Guido lange von Blockbuilders schreibt einen neutralen Bericht über IOTA: [IOTA: Bitfinex will Staking unterstützen, Grayscale prüft IOTA](https://block-builders.de/iota-bitfinex-will-staking-unterstuetzen-grayscale-prueft-iota/)
+28. The Fans Together [veröffentlichen](https://twitter.com/TheFansTogether/status/1486511946434334724?s=20) ihr [100 seitiges Whitepaper](https://heyzine.com/flip-book/fe8e93c84a.html)
+29. Die [IOTA Projekt Liste](https://docs.google.com/spreadsheets/d/1YVdj1iyclMZPoNFFPtEvVvIA4JmskuSfQ_B8cNxkOcw/edit#gid=0) von [Jean](https://twitter.com/Odd_Kesson) wächst
+30. Mat Yarger [äußert sich erst kritisch zu web3](https://twitter.com/Mat_Yarger/status/1486503537068625924?s=20) weil alles öffentlich ist, aber [tweetet](https://twitter.com/Mat_Yarger/status/1486535646244188170?s=20) dann, dass IOTA Lösungen anbietet; Hier noch ein [Tweet](https://twitter.com/Mat_Yarger/status/1486535313702936578?s=20) dazu
+31. IOTA Content Creator DAO neu auf [Twitter](https://twitter.com/IOTAcontentDAO/status/1486480960166109193?s=20); Hier der [Link zum DAO auf soonaverse.com](https://soonaverse.com/space/0x4d380b06a9ade18784f1832b7a59e9f7bbf18bf6/members)
