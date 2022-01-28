@@ -49,3 +49,4 @@
 47. Metaverse Trillionaires machen ne virtuelle IOTA/Assembly/Shimmer Party mit DJ für 50 Leute: [Tweet](https://twitter.com/metaversetns/status/1486996888276590594?s=20&t=Mx7W2GN-_5MRajAiIbL6RQ)
 48. Assembly sucht Mitarbeiter: [Tweet](https://twitter.com/assembly_net/status/1487002689217175554?s=20&t=NG3rVDo-eSmFU3kAbKTtZg)
 49. [Biden Administration To Regulate Bitcoin As A Matter Of National Security: Report](https://www.nasdaq.com/articles/biden-administration-to-regulate-bitcoin-as-a-matter-of-national-security%3A-report)
+50. [IOTAWeekly 025: IOTA, Grayscale und eine 50 Millionen Dollar Frage](https://www.youtube.com/watch?v=qaHMHul5Aog); auf [englisch](https://www.youtube.com/watch?v=FTsCZTfqWmQ&feature=youtu.be)
