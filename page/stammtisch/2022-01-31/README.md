@@ -48,4 +48,4 @@
 46. Mitarbeiter von der IF haben sich offenbar mit der Regierung (Ministry of Agriculture and Fisheries)in Uganda getroffen: [Tweet](https://twitter.com/iota/status/1486655245795135494?s=20&t=Mx7W2GN-_5MRajAiIbL6RQ) Es geht um "trust in global #supplychains" zusammen mit Trademark East Africa
 47. Metaverse Trillionaires machen ne virtuelle IOTA/Assembly/Shimmer Party mit DJ für 50 Leute: [Tweet](https://twitter.com/metaversetns/status/1486996888276590594?s=20&t=Mx7W2GN-_5MRajAiIbL6RQ)
 48. Assembly sucht Mitarbeiter: [Tweet](https://twitter.com/assembly_net/status/1487002689217175554?s=20&t=NG3rVDo-eSmFU3kAbKTtZg)
-49. 
+49. [Biden Administration To Regulate Bitcoin As A Matter Of National Security: Report](https://www.nasdaq.com/articles/biden-administration-to-regulate-bitcoin-as-a-matter-of-national-security%3A-report)
