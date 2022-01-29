@@ -55,4 +55,7 @@
 53. STAGEHOLDERS verschenken Token auf ihrer [Webseite](https://stageholders.net/): [Tweet 1/5](https://twitter.com/stageholders/status/1487091274255679496?s=20&t=tiwvr_4_7crpGL0yoenrPQ) -> einfach auf der Webseite registrieren und los geht's! Viele Twitter Follower => viele Token
 54. Am 16.02. ist ein ZebrTechnologies Event: [Tweet](https://twitter.com/iota/status/1487063194271158274) "learn how to use the Identity Enabler of the Zebra-#IOTA Edge SDK"
 55. TangleLabs kooperiert mit Early Adopter$: [Tweet](https://twitter.com/Tangle_Labs/status/1487060897998807045?s=20&t=0S-Cq3gj8kZA_ap1RjUGhQ); Es gab 500 whitelist Plätze für die 6666 skeletons (Genesis NFT collection)
-56. 
+56. IOTACARDZ mit neuem NFT Projekt "Firefl-Ei":[Tweet](https://twitter.com/NFTiotacardz/status/1487222235869986821?s=20&t=xRCmezT_CPWul9y5kRhoxA)
+57. Dom lobt einen Artikel über DAOs: [Ownership in Cryptonetworks](https://twitter.com/DomSchiener/status/1487356846449086469?s=20&t=xRCmezT_CPWul9y5kRhoxA) von [Papa-raw](https://twitter.com/papa_raw)
+58. Adam von Inspyrd hat offenbar ein iNFT proposal gemacht: [Tweet](https://twitter.com/inspyrdNFT/status/1487338590950805509?s=20&t=xRCmezT_CPWul9y5kRhoxA); [IOTA NFT Standards Proposal #59](https://github.com/iotaledger/tips/discussions/59)
+59. 
