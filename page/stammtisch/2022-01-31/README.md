@@ -39,7 +39,7 @@
 37. Die [IF tweetet](https://twitter.com/iota/status/1486690078143492103?s=20&t=lCpSilGtsTM0gb48IgKVZA) über den neuen Blogpost: [IOTA Community Treasury Vote](https://blog.iota.org/iota-community-treasury-vote/)
 38. Die [IF tweetet](https://twitter.com/iota/status/1486987435946901504?s=20&t=Mx7W2GN-_5MRajAiIbL6RQ) über Firefly Update: [Firefly Update - Week 4, 2022 🔥 #16](https://github.com/iotaledger/engineering-updates/discussions/16) => Firefly Mobile first beta soon und Firefly Web soon later...
 39. SoonLabs mit einem neuen Artikel: [The Future of DAOs?](https://soonlabs.medium.com/the-future-of-daos-d8a45efb6d93)
-40. Servox Solutions (NFT-as-a-service) [tweetet](https://twitter.com/servrox/status/1486962191475560452?s=20&t=Mx7W2GN-_5MRajAiIbL6RQ) über ihren neuen "Knowledge" Artikel [How to NFT with IOTA](https://iota-nft.com/knowledge) auf ihrer Webseite
+40. Servox Solutions (NFT-as-a-service) [tweetet](https://twitter.com/servrox/status/1486962191475560452?s=20&t=Mx7W2GN-_5MRajAiIbL6RQ) über ihren neuen "Knowledge" Artikel [How to NFT with IOTA](https://iota-nft.com/knowledge) auf ihrer Webseite; Und noch ein [Soon Tweet](https://twitter.com/servrox/status/1487341053594292226?s=20&t=Cu26OHFB61uXK6dgabOXeg)
 41. IOTA NFT Projekt "TangleBees" mit erstem Giveaway: [Tweet](https://twitter.com/TangleBees/status/1486980536832827395?s=20&t=Mx7W2GN-_5MRajAiIbL6RQ)
 42. Großer Erfolg von BlockchainDrenthe [Tweet](https://twitter.com/BclDrenthe/status/1486960776627826688?s=20&t=Mx7W2GN-_5MRajAiIbL6RQ); Nach 13 Tagen waren 100% der Gelder verteilt; Die [IF tweetet](https://twitter.com/iota/status/1486982578242527233?s=20&t=Mx7W2GN-_5MRajAiIbL6RQ) auch darüber und [Dom S. tweetet](https://twitter.com/DomSchiener/status/1486985317085323268?s=20&t=Mx7W2GN-_5MRajAiIbL6RQ) auch
 43. Dom Schiener [retweetet](https://twitter.com/DomSchiener/status/1486688049673248777?s=20&t=Mx7W2GN-_5MRajAiIbL6RQ) über EBSI und wie stolz sie sind dabei zu sein
@@ -50,7 +50,7 @@
 48. Assembly sucht Mitarbeiter: [Tweet](https://twitter.com/assembly_net/status/1487002689217175554?s=20&t=NG3rVDo-eSmFU3kAbKTtZg)
 49. [Biden Administration To Regulate Bitcoin As A Matter Of National Security: Report](https://www.nasdaq.com/articles/biden-administration-to-regulate-bitcoin-as-a-matter-of-national-security%3A-report); Mat Yager sieht das"Bearish for most, but bullish for IOTA.": [Tweet](https://twitter.com/Mat_Yarger/status/1487099340225196039?s=20&t=xRCmezT_CPWul9y5kRhoxA)
 50. [IOTAWeekly 025: IOTA, Grayscale und eine 50 Millionen Dollar Frage](https://www.youtube.com/watch?v=qaHMHul5Aog); auf [englisch](https://www.youtube.com/watch?v=FTsCZTfqWmQ&feature=youtu.be)
-51. Gianfranco Campos [announced](https://twitter.com/hassping/status/1487301670761472001?s=20&t=BU_jq7Ju7TtT_PaPandBpw) den [IOTA Alpha Developer DAO (IOTADD)](https://blog.zignar.tech/iota-alpha-developer-dao-add-3e20114ab4ab)
+51. Gianfranco Campos [announced](https://twitter.com/hassping/status/1487301670761472001?s=20&t=BU_jq7Ju7TtT_PaPandBpw) den [IOTA Alpha Developer DAO (IOTADD)](https://blog.zignar.tech/iota-alpha-developer-dao-add-3e20114ab4ab) von Zignar Tech
 52. Gesetzesentwurf in Arizona will Bitcoin als legal tender einführen: [Tweet von Pomp](https://twitter.com/APompliano/status/1487129347387535361?s=20&t=BU_jq7Ju7TtT_PaPandBpw) mit [Link zum Gesetzesentwurf](https://www.azleg.gov/legtext/55leg/2R/bills/SB1341P.pdf)
 53. STAGEHOLDERS verschenken Token auf ihrer [Webseite](https://stageholders.net/): [Tweet 1/5](https://twitter.com/stageholders/status/1487091274255679496?s=20&t=tiwvr_4_7crpGL0yoenrPQ) -> einfach auf der Webseite registrieren und los geht's! Viele Twitter Follower => viele Token
 54. Am 16.02. ist ein ZebrTechnologies Event: [Tweet](https://twitter.com/iota/status/1487063194271158274) "learn how to use the Identity Enabler of the Zebra-#IOTA Edge SDK"
@@ -58,4 +58,7 @@
 56. IOTACARDZ mit neuem NFT Projekt "Firefl-Ei":[Tweet](https://twitter.com/NFTiotacardz/status/1487222235869986821?s=20&t=xRCmezT_CPWul9y5kRhoxA)
 57. Dom lobt einen Artikel über DAOs: [Ownership in Cryptonetworks](https://twitter.com/DomSchiener/status/1487356846449086469?s=20&t=xRCmezT_CPWul9y5kRhoxA) von [Papa-raw](https://twitter.com/papa_raw)
 58. Adam von Inspyrd hat offenbar ein iNFT proposal gemacht: [Tweet](https://twitter.com/inspyrdNFT/status/1487338590950805509?s=20&t=xRCmezT_CPWul9y5kRhoxA); [IOTA NFT Standards Proposal #59](https://github.com/iotaledger/tips/discussions/59)
-59. 
+59. dlt.green mit einem "something is brewing" post zu seinem IOTA Node Pool: [Tweet](https://twitter.com/dlt_green/status/1487486840882044932?s=20&t=Cu26OHFB61uXK6dgabOXeg)
+60. Dom Schiener wendet sich auf Cointelegraph gegen Bitcoin und Mining: [Crypto mining won’t survive another round of environmental legislation](https://cointelegraph.com/news/crypto-mining-won-t-survive-another-round-of-environmental-legislation/amp)
+61. jasun HSU, Crypto Congressman Legislator Taiwan will evtl. bald im Moonaco Podcast auftreten: [Tweet](https://twitter.com/augama/status/1487550888332111872?s=20&t=Cu26OHFB61uXK6dgabOXeg)
+62. 
