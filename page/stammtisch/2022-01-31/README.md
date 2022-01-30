@@ -64,3 +64,6 @@
 62. IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/154-wochenr%C3%BCckblick-vom-23-bis-29-januar-2022/)
 63. Neues Video von MOBI: [MOBI’s Web3 Digital Infrastructure for the New Economy of Movement](https://www.youtube.com/watch?v=lcNDWc2jNu8)
 64. Justin Biber aped jetzt auch in den Board Ape Yachtclub mit 1,4 Millionen: [Tweet](https://twitter.com/Blockworks_/status/1487732061838495745?s=20&t=Cu26OHFB61uXK6dgabOXeg)
+65. Bosch Stellenausschreibung mit IOTA inside: [2022_BlockChainSolutionExpert_ETB1_COB](https://jobs.smartrecruiters.com/BoschGroup/743999790053450-2022-blockchainsolutionexpert-etb1-cob?trid=33221b55-7baa-4189-992e-a7fac0c08950)
+66. Neues IOTA NFT Projekt "little Pugs": [Tweet](https://twitter.com/Fernicha369/status/1487851237966024704?s=20&t=Cu26OHFB61uXK6dgabOXeg)
+67. 
