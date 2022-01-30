@@ -61,4 +61,5 @@
 59. dlt.green mit einem "something is brewing" post zu seinem IOTA Node Pool: [Tweet](https://twitter.com/dlt_green/status/1487486840882044932?s=20&t=Cu26OHFB61uXK6dgabOXeg)
 60. Dom Schiener wendet sich auf Cointelegraph gegen Bitcoin und Mining: [Crypto mining won’t survive another round of environmental legislation](https://cointelegraph.com/news/crypto-mining-won-t-survive-another-round-of-environmental-legislation/amp)
 61. jasun HSU, Crypto Congressman Legislator in Taiwan, will evtl. bald im Moonaco Podcast auftreten: [Tweet](https://twitter.com/augama/status/1487550888332111872?s=20&t=Cu26OHFB61uXK6dgabOXeg)
-62. 
+62. IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/154-wochenr%C3%BCckblick-vom-23-bis-29-januar-2022/)
+63. Neues Video von MOBI: [MOBI’s Web3 Digital Infrastructure for the New Economy of Movement](https://www.youtube.com/watch?v=lcNDWc2jNu8)
