@@ -71,3 +71,4 @@
 69. Die [IF tweetet](https://twitter.com/iota/status/1488111792274423814?s=20&t=V-SOLSFuEd9HOvWmiPSeqA) über Stronghold und über [Stronghold update week #4 2022 #17](https://github.com/iotaledger/engineering-updates/discussions/17)
 70. Neues IOTA NFT Projekt "IOTA Kitties": [Tweet](https://twitter.com/IOTA_Kitties/status/1487855780426620934?s=20&t=V-SOLSFuEd9HOvWmiPSeqA)
 71. Die IF stellt ein: [Art Director](https://iota.bamboohr.com/jobs/view.php?id=162)
+72. Dom [tweetet](https://twitter.com/DomSchiener/status/1488119728837115907?s=20&t=Qflq6OUqaHbKa9Kowbrniw) über Wonderlandscam und verlinkt den [Reddit-Post](https://www.reddit.com/r/CryptoCurrency/comments/sgwmnd/wonderland_time_a_smart_scam_disguised_as_a/) dazu
