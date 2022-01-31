@@ -74,3 +74,4 @@
 72. Dom [tweetet](https://twitter.com/DomSchiener/status/1488119728837115907?s=20&t=Qflq6OUqaHbKa9Kowbrniw) über Wonderlandscam und verlinkt den [Reddit-Post](https://www.reddit.com/r/CryptoCurrency/comments/sgwmnd/wonderland_time_a_smart_scam_disguised_as_a/) dazu
 73. Kumar Anirudha macht jetzt ne Smart Contract Sprechstunde für Assembly: [Tweet](https://twitter.com/assembly_net/status/1488152351018033162?s=20&t=hXb-0-2kkMJ2Gt2s5fjMfQ)
 74. Michele Nati ist morgen auf einem Event: [Tweet](https://twitter.com/michelenati/status/1488146721750274048?s=20&t=HT5zzlesl4N4p8p6GWQC-A)
+75. TangleBay hat jetzt wieder ein [IOTA-Forum](https://forum.tanglebay.com/thread/14-start-of-the-tangle-bay-community-forum/) gemacht
