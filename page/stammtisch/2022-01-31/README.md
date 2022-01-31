@@ -68,3 +68,4 @@
 66. Bosch Stellenausschreibung mit IOTA inside: [2022_BlockChainSolutionExpert_ETB1_COB](https://jobs.smartrecruiters.com/BoschGroup/743999790053450-2022-blockchainsolutionexpert-etb1-cob?trid=33221b55-7baa-4189-992e-a7fac0c08950)
 67. Neues IOTA NFT Projekt "little Pugs": [Tweet](https://twitter.com/Fernicha369/status/1487851237966024704?s=20&t=Cu26OHFB61uXK6dgabOXeg)
 68. MoonMoron Coins werden zu 80% an die IOTA Community ausgeschüttet: [Tweet 1/3](https://twitter.com/MoonMorons/status/1488094810581970945?s=20&t=V-SOLSFuEd9HOvWmiPSeqA)
+69. Die [IF tweetet](https://twitter.com/iota/status/1488111792274423814?s=20&t=V-SOLSFuEd9HOvWmiPSeqA) über Stronghold und über [Stronghold update week #4 2022 #17](https://github.com/iotaledger/engineering-updates/discussions/17)
