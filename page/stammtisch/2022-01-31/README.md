@@ -70,3 +70,4 @@
 68. MoonMoron Coins werden zu 80% an die IOTA Community ausgeschüttet: [Tweet 1/3](https://twitter.com/MoonMorons/status/1488094810581970945?s=20&t=V-SOLSFuEd9HOvWmiPSeqA)
 69. Die [IF tweetet](https://twitter.com/iota/status/1488111792274423814?s=20&t=V-SOLSFuEd9HOvWmiPSeqA) über Stronghold und über [Stronghold update week #4 2022 #17](https://github.com/iotaledger/engineering-updates/discussions/17)
 70. Neues IOTA NFT Projekt "IOTA Kitties": [Tweet](https://twitter.com/IOTA_Kitties/status/1487855780426620934?s=20&t=V-SOLSFuEd9HOvWmiPSeqA)
+71. Die IF stellt ein: [Art Director](https://iota.bamboohr.com/jobs/view.php?id=162)
