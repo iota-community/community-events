@@ -12,3 +12,5 @@
 10. Fidelity Krypto Report über Bitcoin: [BITCOIN FIRST - Why investors need to consider bitcoin separately from other digital assets](https://www.fidelitydigitalassets.com/bin-public/060_www_fidelity_com/documents/FDAS/bitcoin-first.pdf)
 11. Krypto Report auf Youtube: [IOTA: Neuer Turbo durch die EU?](https://www.youtube.com/watch?v=Yc1B7SEASyg)
 12. IOTA NFT Projekt "Life for Fruits" mit erstem Giveaway: [Tweet](https://twitter.com/Life_of_Fruits1/status/1488544652693278722?s=20&t=xVVDkUjqMjnrOGu8anNN5w)
+13. SoonLabs veröffentlicht Roadmap: [Tweet](https://twitter.com/soon_labs/status/1488542663691231232?s=20&t=xVVDkUjqMjnrOGu8anNN5w)
+14. 
