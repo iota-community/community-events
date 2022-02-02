@@ -21,3 +21,7 @@
 19. Es gibt eine neue Tangle Certification Organisation [auf Twitter](https://twitter.com/TangleOrg) und im [Soonaverse](https://soonaverse.com/space/0x9c699a904953d663d4a63abf30fe7bd3fa954f68/overview) ein neuer "DAO that aims to certify trustworthy ecosystem projects by analyzing a series of factors like communication, creators, time, and how open source they are"
 20. Für die einfachIOTA Mitglieder im Soonavers gibt es ein NFT drop: [Tweet](https://twitter.com/einfachIOTA/status/1488627966695383046?s=20&t=RXQWeCo6vT55qy0S-IcLYQ)
 21. Das Soonaverse wird bereits zugespammt um die wichtigsten DAO Namen zu sichern: [Tweet](https://twitter.com/Vrom14286662/status/1488626092554567680?s=20&t=V8hESbUzC0rtDC9PVVFkqg)
+22. Am Freitag war IOTA München Stammtisch: [Soon Tweet](https://twitter.com/IotaMunchen/status/1488816371026874368?s=20&t=rAwpgBoZOZMsdCEzGufwhA)
+23. Die [IF tweetet](https://twitter.com/iota/status/1488809969482874881?s=20&t=rAwpgBoZOZMsdCEzGufwhA) über [Protocol group - Week 4, 2022 #4](https://github.com/iotaledger/research-updates/discussions/4)
+24. Die [IF tweetet](https://twitter.com/iota/status/1488876119851995138?s=20&t=rAwpgBoZOZMsdCEzGufwhA) darüber, dass sie 9 neue Leute eingestellt haben: [Welcome to the IOTA Foundation - February 2022](https://blog.iota.org/welcome-to-the-iota-foundation-february-2022/)
+25. IOTA Shimmer Testnetz gestartet?!? [Tweet](https://twitter.com/unseriouscandle/status/1488880790469496832?s=20&t=rAwpgBoZOZMsdCEzGufwhA)
