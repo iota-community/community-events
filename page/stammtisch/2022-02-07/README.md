@@ -31,3 +31,7 @@
 29. [Govs.io](https://govs.io/) mit Datamarketplace for scale soon: [Tweet](https://twitter.com/govs_io/status/1488927008298090496?s=20&t=CvyyvR4x1hzoC2gnj_KbXA)
 30. Webseite von IOTA Trading Cards soon: [Tweet](https://twitter.com/FranklMarkus/status/1488989306249228294?s=20&t=mSC3ChFqK_UCnk8EUfuj_g); [https://www.iotatradingcards.com/](https://www.iotatradingcards.com/)
 31. Fisch oder Waal? Dafür gibt es jetzt einen neue Webseite [https://tanglerank.me/](https://tanglerank.me/) wo man seine IOTA Adresse eingeben kann: [Tweet](https://twitter.com/GM__INV/status/1489173076550078464?s=20&t=CvyyvR4x1hzoC2gnj_KbXA)
+32. Die [IF tweetet](https://twitter.com/iota/status/1489225028227014663?s=20&t=8eyF0guN5va3jZNzsvjfMg) über ihre 1 Millionen Unterstützung: [IOTA Foundation Awards Philanthropic Grant to the Imperial College London for Circular Economy Research](https://blog.iota.org/iota-awards-imperial-college-london-1-million-grant-circular-economy-research/); [IF Tweet 2](https://twitter.com/iota/status/1489268652847337479?s=20&t=8eyF0guN5va3jZNzsvjfMg); 
+33. Assembly [tweetet](https://twitter.com/assembly_net/status/1489252454428336132?s=20&t=8eyF0guN5va3jZNzsvjfMg) über Miner Extractable Value der bei Assembly nicht passieren kann
+34. PAnthos mit [Tweet 1/10](https://twitter.com/PantosIO/status/1489292294285103111?s=20&t=8eyF0guN5va3jZNzsvjfMg) über den Crosschain Hack und warum es dafür Research und Audits braucht
+35. 
