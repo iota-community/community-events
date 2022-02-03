@@ -30,4 +30,4 @@
 28. Neue Exchange XTexchange: [Tweet](https://twitter.com/XTexchange/status/1489083246088704002?s=20&t=CvyyvR4x1hzoC2gnj_KbXA) und da steht etwas von Gray Scale...
 29. [Govs.io](https://govs.io/) mit Datamarketplace for scale soon: [Tweet](https://twitter.com/govs_io/status/1488927008298090496?s=20&t=CvyyvR4x1hzoC2gnj_KbXA)
 30. Webseite von IOTA Trading Cards soon: [Tweet](https://twitter.com/FranklMarkus/status/1488989306249228294?s=20&t=mSC3ChFqK_UCnk8EUfuj_g); [https://www.iotatradingcards.com/](https://www.iotatradingcards.com/)
-31. 
+31. Fisch oder Waal? Dafür gibt es jetzt einen neue Webseite [https://tanglerank.me/](https://tanglerank.me/) wo man seine IOTA Adresse eingeben kann: [Tweet](https://twitter.com/GM__INV/status/1489173076550078464?s=20&t=CvyyvR4x1hzoC2gnj_KbXA)
