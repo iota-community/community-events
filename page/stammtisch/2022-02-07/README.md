@@ -21,7 +21,13 @@
 19. Es gibt eine neue Tangle Certification Organisation [auf Twitter](https://twitter.com/TangleOrg) und im [Soonaverse](https://soonaverse.com/space/0x9c699a904953d663d4a63abf30fe7bd3fa954f68/overview) ein neuer "DAO that aims to certify trustworthy ecosystem projects by analyzing a series of factors like communication, creators, time, and how open source they are"
 20. Für die einfachIOTA Mitglieder im Soonavers gibt es ein NFT drop: [Tweet](https://twitter.com/einfachIOTA/status/1488627966695383046?s=20&t=RXQWeCo6vT55qy0S-IcLYQ)
 21. Das Soonaverse wird bereits zugespammt um die wichtigsten DAO Namen zu sichern: [Tweet](https://twitter.com/Vrom14286662/status/1488626092554567680?s=20&t=V8hESbUzC0rtDC9PVVFkqg)
-22. Am Freitag war IOTA München Stammtisch: [Soon Tweet](https://twitter.com/IotaMunchen/status/1488816371026874368?s=20&t=rAwpgBoZOZMsdCEzGufwhA)
-23. Die [IF tweetet](https://twitter.com/iota/status/1488809969482874881?s=20&t=rAwpgBoZOZMsdCEzGufwhA) über [Protocol group - Week 4, 2022 #4](https://github.com/iotaledger/research-updates/discussions/4)
-24. Die [IF tweetet](https://twitter.com/iota/status/1488876119851995138?s=20&t=rAwpgBoZOZMsdCEzGufwhA) darüber, dass sie 9 neue Leute eingestellt haben: [Welcome to the IOTA Foundation - February 2022](https://blog.iota.org/welcome-to-the-iota-foundation-february-2022/)
-25. IOTA Shimmer Testnetz gestartet?!? [Tweet](https://twitter.com/unseriouscandle/status/1488880790469496832?s=20&t=rAwpgBoZOZMsdCEzGufwhA)
+22. Am Freitag war IOTA München Stammtisch: [Soon Tweet](https://twitter.com/IotaMunchen/status/1488816371026874368?s=20&t=rAwpgBoZOZMsdCEzGufwhA); Hans Moog kommt auch: [Tweet](https://twitter.com/hus_qy/status/1489033870251110401?s=20&t=CvyyvR4x1hzoC2gnj_KbXA)
+23. Solana Ethereum Bridge Wormhole: 300 Millionen gestohlen: [How it happened Tweet](https://twitter.com/kelvinfichter/status/1489041221947375616?s=20&t=CvyyvR4x1hzoC2gnj_KbXA); Hans Moog hat dazu auch etwas [getweetet](https://twitter.com/hus_qy/status/1488985033956339713?s=20&t=CvyyvR4x1hzoC2gnj_KbXA)
+24. Die [IF tweetet](https://twitter.com/iota/status/1488809969482874881?s=20&t=rAwpgBoZOZMsdCEzGufwhA) über [Protocol group - Week 4, 2022 #4](https://github.com/iotaledger/research-updates/discussions/4)
+25. Die [IF tweetet](https://twitter.com/iota/status/1488876119851995138?s=20&t=rAwpgBoZOZMsdCEzGufwhA) darüber, dass sie 9 neue Leute eingestellt haben: [Welcome to the IOTA Foundation - February 2022](https://blog.iota.org/welcome-to-the-iota-foundation-february-2022/)
+26. IOTA Shimmer Testnetz gestartet?!? [Tweet](https://twitter.com/unseriouscandle/status/1488880790469496832?s=20&t=rAwpgBoZOZMsdCEzGufwhA)
+27. Hans mit ein paar schönen 100% Tweets: [Tweet 1](https://twitter.com/hus_qy/status/1488987651680178176?s=20&t=mSC3ChFqK_UCnk8EUfuj_g); [Tweet 2](https://twitter.com/hus_qy/status/1489030343072100354?s=20&t=mSC3ChFqK_UCnk8EUfuj_g); [Tweet 3](https://twitter.com/hus_qy/status/1489030177732673547?s=20&t=mSC3ChFqK_UCnk8EUfuj_g)
+28. Neue Exchange XTexchange: [Tweet](https://twitter.com/XTexchange/status/1489083246088704002?s=20&t=CvyyvR4x1hzoC2gnj_KbXA) und da steht etwas von Gray Scale...
+29. [Govs.io](https://govs.io/) mit Datamarketplace for scale soon: [Tweet](https://twitter.com/govs_io/status/1488927008298090496?s=20&t=CvyyvR4x1hzoC2gnj_KbXA)
+30. Webseite von IOTA Trading Cards soon: [Tweet](https://twitter.com/FranklMarkus/status/1488989306249228294?s=20&t=mSC3ChFqK_UCnk8EUfuj_g); [https://www.iotatradingcards.com/](https://www.iotatradingcards.com/)
+31. 
