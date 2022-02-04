@@ -37,3 +37,6 @@
 35. SoonLabs mit [Soon Tweet](https://twitter.com/soon_labs/status/1489297638541324288?s=20&t=8eyF0guN5va3jZNzsvjfMg)
 36. STAGEHOLDERS verteilen ihre Token am 1.März: [Tweet](https://twitter.com/stageholders/status/1489516531377750017?s=20&t=idsys9s5dX6PwOk8a-F6Ew)
 37. [sexypotato tweetet](https://twitter.com/sexypotato_P/status/1489327199127846912?s=20&t=idsys9s5dX6PwOk8a-F6Ew) über seinen Artikel: [ELYSI. AN OPEN METAVERSE.](https://medium.com/@sexypotato/elysi-an-open-metaverse-c223e4a1f48e)
+38. IOTA NFT Projekt IOTA.Fireflies mit giveaway soon: [Tweet](https://twitter.com/IotaFireflies/status/1489370316329607169?s=20&t=7DUGo6rpY0gmjP7pWAFUCA)
+39. IOTA NFT Projekt Creamies mit [Soon-Tweet](https://twitter.com/iotacreamies/status/1489525964149252096?s=20&t=ZWTSTMoKKIg2y5Iau7mThw) und Updater der Webseite: [https://www.iotacreamies.com/gallery/](https://www.iotacreamies.com/gallery/)
+40. Bei Mesh+ kann man sich mit e-mail Adresse bei der whitelist eintragen für den ICO: [Webseite](https://meshplus.io/#ICO)
