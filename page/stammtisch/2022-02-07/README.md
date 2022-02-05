@@ -40,3 +40,6 @@
 38. IOTA NFT Projekt IOTA.Fireflies mit giveaway soon: [Tweet](https://twitter.com/IotaFireflies/status/1489370316329607169?s=20&t=7DUGo6rpY0gmjP7pWAFUCA)
 39. IOTA NFT Projekt Creamies mit [Soon-Tweet](https://twitter.com/iotacreamies/status/1489525964149252096?s=20&t=ZWTSTMoKKIg2y5Iau7mThw) und Updater der Webseite: [https://www.iotacreamies.com/gallery/](https://www.iotacreamies.com/gallery/)
 40. Bei Mesh+ kann man sich mit e-mail Adresse bei der whitelist eintragen für den ICO: [Webseite](https://meshplus.io/#ICO)
+41. Die EU Blockchain [tweetet](https://twitter.com/EUBlockchain/status/1489660029313732618?s=20&t=HMWB072yJOKzAo2dQfr66Q) über dieses Event: [Blockchain for social impact" workshop](https://www.youtube.com/watch?v=vLusljH6IX4) auf Youtube
+42. Neues IOTA Weekly [IOTAWeekly 026: Warum IOTA abheben wird](https://www.youtube.com/watch?v=OLS32ANcB9E&feature=youtu.be)
+43. 
