@@ -52,3 +52,6 @@
 50. Dave de Fijer mit [2 Tweets](https://twitter.com/fijter/status/1489725415115608068?s=20&t=HMWB072yJOKzAo2dQfr66Q) über Stardust
 51. Rusty Robots Minting war ein großer Erflog: [Tweet](https://twitter.com/RustyRobotCC/status/1489679182443560960?s=20&t=HMWB072yJOKzAo2dQfr66Q); [Tweet 2](https://twitter.com/RustyRobotCC/status/1489878595849887747?s=20&t=BWZzr7-3_HWzEI_GVVZBTQ)
 52. [Decensored.app](https://decensored.app/) mit neuen Features: [Tweet](https://twitter.com/decensored_app/status/1489704215878545416?s=20&t=HMWB072yJOKzAo2dQfr66Q)
+53. Auf den Tweet von [Reese Witherspoon](https://twitter.com/ReeseW/status/1489649508535394306?s=20&t=HMWB072yJOKzAo2dQfr66Q) reagieren [Holger Köther](https://twitter.com/HolgerKoether/status/1489866808291176448?s=20&t=HMWB072yJOKzAo2dQfr66Q) und [Navin Ramachandran](https://twitter.com/navinram999/status/1489749878175670272?s=20&t=HMWB072yJOKzAo2dQfr66Q) mit Tweetstorm
+54. Coinmarketcap.com mit Artikel: [Why The IOTA Foundation Donated £1M To The Imperial College](https://coinmarketcap.com/headlines/news/why-the-iota-foundation-donated-1m-to-the-imperial-college/)
+55. 
