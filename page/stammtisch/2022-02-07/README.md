@@ -56,3 +56,4 @@
 54. Coinmarketcap.com mit Artikel: [Why The IOTA Foundation Donated £1M To The Imperial College](https://coinmarketcap.com/headlines/news/why-the-iota-foundation-donated-1m-to-the-imperial-college/)
 55. IOTAbeliever mit neuem IOTA NFT Projekt: [Tweet](https://twitter.com/IOTABeeliever/status/1415958853641023492?s=20&t=HMWB072yJOKzAo2dQfr66Q)
 56. Neues IOTA NFT Projekt "IOTA Fish" von [Marcel Scherer](https://twitter.com/don_marcello)
+57. Baby Doge: Was ist denn da los? [TSG schließt eine Business Team- und NFT-Partnerschaft mit Baby Doge](https://www.tsg-hoffenheim.de/aktuelles/news/2022/02/tsg-schliesst-eine-business-team-und-nft-partnerschaft-mit-baby-doge/)
