@@ -39,7 +39,16 @@
 37. [sexypotato tweetet](https://twitter.com/sexypotato_P/status/1489327199127846912?s=20&t=idsys9s5dX6PwOk8a-F6Ew) über seinen Artikel: [ELYSI. AN OPEN METAVERSE.](https://medium.com/@sexypotato/elysi-an-open-metaverse-c223e4a1f48e)
 38. IOTA NFT Projekt IOTA.Fireflies mit giveaway soon: [Tweet](https://twitter.com/IotaFireflies/status/1489370316329607169?s=20&t=7DUGo6rpY0gmjP7pWAFUCA)
 39. IOTA NFT Projekt Creamies mit [Soon-Tweet](https://twitter.com/iotacreamies/status/1489525964149252096?s=20&t=ZWTSTMoKKIg2y5Iau7mThw) und Updater der Webseite: [https://www.iotacreamies.com/gallery/](https://www.iotacreamies.com/gallery/)
-40. Bei Mesh+ kann man sich mit e-mail Adresse bei der whitelist eintragen für den ICO: [Webseite](https://meshplus.io/#ICO)
+40. Bei Mesh+ kann man sich mit E-mail Adresse bei der Whitelist eintragen für ihren [ICO](https://meshplus.io/#ICO)
 41. Die EU Blockchain [tweetet](https://twitter.com/EUBlockchain/status/1489660029313732618?s=20&t=HMWB072yJOKzAo2dQfr66Q) über dieses Event: [Blockchain for social impact" workshop](https://www.youtube.com/watch?v=vLusljH6IX4) auf Youtube
-42. Neues IOTA Weekly [IOTAWeekly 026: Warum IOTA abheben wird](https://www.youtube.com/watch?v=OLS32ANcB9E&feature=youtu.be)
-43. 
+42. Neues [IOTAWeekly 026: Warum IOTA abheben wird](https://www.youtube.com/watch?v=OLS32ANcB9E&feature=youtu.be)
+43. Neue Moonaco Podcast [Episode 7: Charley Varley vom Firefly Team](https://open.spotify.com/episode/08xuXSAbUGOUjIohhyTT6P?si=FKA8PxHsSYmPQYSI1yZu0g&utm_source=whatsapp&nd=1)
+44. Nächsten Donnerstag kommt Dr. Tangle in den Telegram Voice Chat der TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1489854379725312002?t=FMm9Ddwb3x80UpCAAOspVA&s=19)
+45. Research Update von der [Networking group - Week 5, 2022 #7](https://github.com/iotaledger/research-updates/discussions/7)
+46. Neue Webseite [iotatradingcards.com](https://www.iotatradingcards.com/) öffnet mit diesem [Tweet von Markus](https://twitter.com/FranklMarkus/status/1489605486139826183) ihre Tore
+47. Die [IF tweetet](https://twitter.com/iota/status/1489593582252085251?t=8cSWKaK5LGPur530BPKVvA&s=19) darüber, dass IOTA in diesem Artikel erwähnt wird: [IoT Blockchain Revolution Is Here: Here's Why You Should Pay Attention](https://www.iotforall.com/iot-blockchain-revolution-is-here-heres-why-you-should-pay-attention)
+48. Dom Schienr mit einem Interview: [DeFi Isn’t all About Money — We Aren’t all Crypto Bros](https://beincrypto.com/defi-isnt-all-about-money-we-arent-all-crypto-bros/)
+49. Hans Moog war beim IOTA München Stammtisch: [Tweet mit Bildern](https://twitter.com/IotaMunchen/status/1489741776449638405?s=20&t=HMWB072yJOKzAo2dQfr66Q)
+50. Dave de Fijer mit [2 Tweets](https://twitter.com/fijter/status/1489725415115608068?s=20&t=HMWB072yJOKzAo2dQfr66Q) über Stardust
+51. Rusty Robots Minting war ein großer Erflog: [Tweet](https://twitter.com/RustyRobotCC/status/1489679182443560960?s=20&t=HMWB072yJOKzAo2dQfr66Q); [Tweet 2](https://twitter.com/RustyRobotCC/status/1489878595849887747?s=20&t=BWZzr7-3_HWzEI_GVVZBTQ)
+52. [Decensored.app](https://decensored.app/) mit neuen Features: [Tweet](https://twitter.com/decensored_app/status/1489704215878545416?s=20&t=HMWB072yJOKzAo2dQfr66Q)
