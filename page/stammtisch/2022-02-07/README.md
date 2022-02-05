@@ -54,4 +54,4 @@
 52. [Decensored.app](https://decensored.app/) mit neuen Features: [Tweet](https://twitter.com/decensored_app/status/1489704215878545416?s=20&t=HMWB072yJOKzAo2dQfr66Q)
 53. Auf den Tweet von [Reese Witherspoon](https://twitter.com/ReeseW/status/1489649508535394306?s=20&t=HMWB072yJOKzAo2dQfr66Q) reagieren [Holger Köther](https://twitter.com/HolgerKoether/status/1489866808291176448?s=20&t=HMWB072yJOKzAo2dQfr66Q) und [Navin Ramachandran](https://twitter.com/navinram999/status/1489749878175670272?s=20&t=HMWB072yJOKzAo2dQfr66Q) mit Tweetstorm
 54. Coinmarketcap.com mit Artikel: [Why The IOTA Foundation Donated £1M To The Imperial College](https://coinmarketcap.com/headlines/news/why-the-iota-foundation-donated-1m-to-the-imperial-college/)
-55. 
+55. IOTAbeliever mit neuem IOTA NFT Projekt: [Tweet](https://twitter.com/IOTABeeliever/status/1415958853641023492?s=20&t=HMWB072yJOKzAo2dQfr66Q)
