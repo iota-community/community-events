@@ -57,3 +57,4 @@
 55. IOTAbeliever mit neuem IOTA NFT Projekt: [Tweet](https://twitter.com/IOTABeeliever/status/1415958853641023492?s=20&t=HMWB072yJOKzAo2dQfr66Q)
 56. Neues IOTA NFT Projekt "IOTA Fish" von [Marcel Scherer](https://twitter.com/don_marcello)
 57. Baby Doge: Was ist denn da los? [TSG schließt eine Business Team- und NFT-Partnerschaft mit Baby Doge](https://www.tsg-hoffenheim.de/aktuelles/news/2022/02/tsg-schliesst-eine-business-team-und-nft-partnerschaft-mit-baby-doge/)
+58. SoonLabs [veröffentlicht](https://twitter.com/soon_labs/status/1490072965215494146?s=20&t=v6jPXuG4wenXzArQLUL2Xw) ein neues Feature: [Alliances and the Interoperability of DAOs](https://soonlabs.medium.com/alliances-and-the-interoperability-of-daos-73c7c010b037)
