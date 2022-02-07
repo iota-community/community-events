@@ -67,4 +67,6 @@
 65. IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/156-wochenr%C3%BCckblick-vom-30-januar-bis-5-februar-2022/)
 66. DigidusPrime hat eine neue Webseite ([http://tanglereport.com/](http://tanglereport.com/)) gebaut, wo man alle NFTs, ICOs und Whitelist Termine eintragen kann: [Tweet](https://twitter.com/DigidusPrime/status/1490466669247938562?s=20&t=RE4W0OlMi2admiBXxeawzQ)
 67. Der Dackel bellt: [Tweet](https://twitter.com/laserDackel/status/1490351396675366916?s=20&t=H0UfMYp0e3moIr7BwIzbJQ) "If #Iota does everything right and delivers as promised, the last step to take is to let the token die."...
-68. Avalanche Gründer: [Tweet](https://twitter.com/el33th4xor/status/1490386889685225474?s=20&t=KGBDjx9qe_JjuWxo_eazPA) "any chain that promises perpetually cheap transactions is broken."
+68. Avalanche Gründer: [Tweet](https://twitter.com/el33th4xor/status/1490386889685225474?s=20&t=KGBDjx9qe_JjuWxo_eazPA) "any chain that promises perpetually cheap transactions is broken."; Mit Vitalik Buterin hat er sich auch angelegt: [Tweet von Vitalik](https://twitter.com/VitalikButerin/status/1490688277174751237?s=20&t=_xUmkAEHJD8NqryKrBmlaw)
+69. pxtg mit [Soon Tweet](https://twitter.com/pxdg3/status/1490687542143815688?s=20&t=_xUmkAEHJD8NqryKrBmlaw)
+70. Top Tracks NFTs veröffentlichen mit diesem [Tweetstorm](https://twitter.com/ToptracksNFT/status/1490708819437047812?s=20&t=01J5NFwbVKmP8LuEaM_1nA) ihre Webseite: [toptracks.co/nft](https://www.toptracks.co/nft)
