@@ -59,7 +59,7 @@
 57. Coinmarketcap.com mit Artikel: [Why The IOTA Foundation Donated £1M To The Imperial College](https://coinmarketcap.com/headlines/news/why-the-iota-foundation-donated-1m-to-the-imperial-college/)
 58. Es gab ein ["Blockchain for social impact" workshop](https://www.youtube.com/watch?v=vLusljH6IX4)
 59. IOTAbeliever mit neuem IOTA NFT Projekt: [Tweet](https://twitter.com/IOTABeeliever/status/1415958853641023492?s=20&t=HMWB072yJOKzAo2dQfr66Q)
-60. Neues IOTA NFT Projekt "IOTA Fish" von [Marcel Scherer](https://twitter.com/don_marcello)
+60. Neues IOTA NFT Projekt "IOTA Fish" von [Marcel Scherer](https://twitter.com/don_marcello); Es gibt mittlerweile 9 Fische: [Tweet](https://twitter.com/don_marcello/status/1490359629259358210?s=20&t=RE4W0OlMi2admiBXxeawzQ)
 61. Baby Doge: Was ist denn da los? [TSG schließt eine Business Team- und NFT-Partnerschaft mit Baby Doge](https://www.tsg-hoffenheim.de/aktuelles/news/2022/02/tsg-schliesst-eine-business-team-und-nft-partnerschaft-mit-baby-doge/)
 62. SoonLabs [veröffentlicht](https://twitter.com/soon_labs/status/1490072965215494146?s=20&t=v6jPXuG4wenXzArQLUL2Xw) ein neues Feature: [Alliances and the Interoperability of DAOs](https://soonlabs.medium.com/alliances-and-the-interoperability-of-daos-73c7c010b037); Im nächsten Moonaco Podcast wird wohl das SoonLabs Team interviewed und es gibt ein Announcement: [Tweet](https://twitter.com/MoonacoPodcast/status/1490437316296458249?s=20&t=RE4W0OlMi2admiBXxeawzQ)
 63. Stefan Braun [tweetet](https://twitter.com/IOTAphp/status/1490248896219693058?s=20&t=5fgty_1BO3YOtIm0bmYM_w) darüber, dass er [IOTA.php V0.5.4 auf GitHub](https://github.com/iota-community/iota.php) released hat
