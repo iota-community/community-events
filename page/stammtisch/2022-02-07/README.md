@@ -67,3 +67,4 @@
 65. IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/156-wochenr%C3%BCckblick-vom-30-januar-bis-5-februar-2022/)
 66. DigidusPrime hat eine neue Webseite ([http://tanglereport.com/](http://tanglereport.com/)) gebaut, wo man alle NFTs, ICOs und Whitelist Termine eintragen kann: [Tweet](https://twitter.com/DigidusPrime/status/1490466669247938562?s=20&t=RE4W0OlMi2admiBXxeawzQ)
 67. Der Dackel bellt: [Tweet](https://twitter.com/laserDackel/status/1490351396675366916?s=20&t=H0UfMYp0e3moIr7BwIzbJQ) "If #Iota does everything right and delivers as promised, the last step to take is to let the token die."...
+68. Avalanche Gründer: [Tweet](https://twitter.com/el33th4xor/status/1490386889685225474?s=20&t=KGBDjx9qe_JjuWxo_eazPA) "any chain that promises perpetually cheap transactions is broken."
