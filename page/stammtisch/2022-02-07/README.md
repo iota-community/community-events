@@ -70,3 +70,5 @@
 68. Avalanche Gründer: [Tweet](https://twitter.com/el33th4xor/status/1490386889685225474?s=20&t=KGBDjx9qe_JjuWxo_eazPA) "any chain that promises perpetually cheap transactions is broken."; Mit Vitalik Buterin hat er sich auch angelegt: [Tweet von Vitalik](https://twitter.com/VitalikButerin/status/1490688277174751237?s=20&t=_xUmkAEHJD8NqryKrBmlaw)
 69. pxtg mit [Soon Tweet](https://twitter.com/pxdg3/status/1490687542143815688?s=20&t=_xUmkAEHJD8NqryKrBmlaw)
 70. Top Tracks NFTs veröffentlichen mit diesem [Tweetstorm](https://twitter.com/ToptracksNFT/status/1490708819437047812?s=20&t=01J5NFwbVKmP8LuEaM_1nA) ihre Webseite: [toptracks.co/nft](https://www.toptracks.co/nft)
+71. Holger Köther Interview: [Holger Köther: „Iota kann einer der Haupttreiber des Web3 werden“](https://t3n.de/news/holger-koether-iota-web3-blockchain-1448851/amp/)
+72. Dom mit [Soon Tweet](https://twitter.com/DomSchiener/status/1490751692123656192?s=20)
