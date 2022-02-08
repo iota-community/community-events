@@ -6,3 +6,4 @@
 4. STAGEHOLDERS wollen IOTA Identity implementieren: [Soon Tweet](https://twitter.com/stageholders/status/1490955439831351296?s=20&t=I-GX3mQaQarQsNDeEDd8DQ)
 5. Neuer Chrysalis Hoodie bei iotashops... [Tweet](https://twitter.com/iotashop/status/1491026647365025794?s=20&t=njbXrX-TYgGGnlfJ4p-WnA)
 6. pxtg mit neuem IOTA NFT Projekt "Shimmer Sheeps": [Tweet](https://twitter.com/pxdg3/status/1491012214727536642?s=20&t=njbXrX-TYgGGnlfJ4p-WnA)
+7. Interview: [At Epitech, Your Career in IT Starts During Your Studies – Interview with Thibault Martinez from IOTA Foundation](https://www.epitech-it.be/news-events/at-epitech-your-career-in-it-starts-during-your-studies-interview-with-thibault-martinez-from-iota-foundation/)
