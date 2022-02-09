@@ -11,3 +11,8 @@
 9. IOTApunks veröffentlichen mit diesem [Tweet](https://twitter.com/IotaPunks_71/status/1491295528906530817) ihre Webseite: [iotapunks.store/](https://iotapunks.store/)
 10. Kappy baut PancakeSwap nach?!? [Tweet 1](https://twitter.com/Rob_Daykin/status/1376121053441822724?s=20&t=MQ0cJsJbWTSpXA1CIODKTw); [Tweet 2](https://twitter.com/Rob_Daykin/status/1376192160480034817?s=20&t=MQ0cJsJbWTSpXA1CIODKTw)
 11. [Announcement der IF](https://twitter.com/iota/status/1491091144113111043?s=20&t=MQ0cJsJbWTSpXA1CIODKTw) über Govs.io: [DataGovs Launches GOVS to Support Data Governance on IOTA](https://blog.iota.org/datagovs-launches-govs-to-support-data-governance-on-iota/); Hier [auf deutsch](https://iota-kurs.de/datagovs-fuehrt-govs-zur-unterstuetzung-auf-iota-ein/)
+12. Russland will Bitcoin und Crypto als Währung behandeln: [Tweet](https://twitter.com/Blockworks_/status/1491313415557722117?s=20&t=MQ0cJsJbWTSpXA1CIODKTw)
+13. Dom kriegt kein Konto in der Schweiz: [Tweet](https://twitter.com/DomSchiener/status/1491346058882199552?s=20&t=YaKTzTzXEUf2gRoq1L_3tQ)
+14. Am Mittwoch war ein Event von ScyllaDB mit IOTAinside: [Tweet](https://twitter.com/ScyllaDB/status/1486006145114415111?s=20&t=DjzYA1brsz4EJcTeVelCsg); Wurde auch von der [IF angekündigt](https://twitter.com/iota/status/1491331072470433792?s=20&t=DjzYA1brsz4EJcTeVelCsg)
+15. Kraken zensiert IOTA Tweets: [Tweet von ThomasQv](https://twitter.com/ThomasQvOG/status/1491214826441678850?s=20&t=YaKTzTzXEUf2gRoq1L_3tQ)
+16. Heise Bericht: [Bitfinex-Hack: US-Ermittler beschlagnahmen 3,6 Milliarden US-Dollar in Bitcoin](https://www.heise.de/news/Milliarden-Fund-sechs-Jahre-nach-Bitfinex-Hack-6359890.html)
