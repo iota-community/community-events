@@ -18,3 +18,11 @@
 16. Heise Bericht: [Bitfinex-Hack: US-Ermittler beschlagnahmen 3,6 Milliarden US-Dollar in Bitcoin](https://www.heise.de/news/Milliarden-Fund-sechs-Jahre-nach-Bitfinex-Hack-6359890.html)
 17. Shimmer jerseys soon... [Tweet](https://twitter.com/DomSchiener/status/1491398587246575618?s=20&t=Rj27eJeMu6wmbIIHg9ut0w)
 18. Die [IF tweetet](https://twitter.com/iota/status/1491381706573688846?s=20&t=DjzYA1brsz4EJcTeVelCsg) über ein Treffen mit der "Uganda Tea Association" bezüglich einem Pilotprojekt "Tea export flow from #Uganda #Kenya #UK for a cross-border trade"
+19. IOTA DAO Treasury governance meeting: [Ankündigungs Tweet](https://twitter.com/PhyloIota/status/1491412641591750657?s=20&t=PFcRC3OD1IoeezcAHKLcqA)
+20. Die Sieger von dem DAO Ideathon stehen fest: [Announcement im Discord](https://discordapp.com/channels/397872799483428865/903220971828289546/940985865142952017); Gewinner: DePa International Pirate Party DAO; IOTA WAGMI Ecosystem investment fund; The Fans together
+21. Es gab einen spezial Stammtisch in München mit Hans Moog: [Tweet 1](https://twitter.com/Vrom14286662/status/1491521489044226048?s=20&t=PFcRC3OD1IoeezcAHKLcqA); [Tweet 2](https://twitter.com/Vrom14286662/status/1491520240253087755?s=20)
+22. DigiRocket Play to Earn IOTA mit [Preview-Tweet](https://twitter.com/DigiMine_/status/1491471451643330564?s=20)
+23. TanlgeBay mit swarm Update: [Tweet](https://twitter.com/tanglebay/status/1491529032256606208?s=20&t=PFcRC3OD1IoeezcAHKLcqA) u.a. jetzt mit Bee Autopeering
+24. Multi warnt im nächsten 1Miota Artikel vor den Rusty Robot NFTs: [Tweet](https://twitter.com/multifolio/status/1491462312955416579?s=20); [Antwort Tweets 1/7 von RRC](https://twitter.com/RustyRobotCC/status/1491518410290835456?s=20)
+25. Neue DEX auf IOTA [feeless.finance](https://feeless.finance/) will Tanglesea und Tangleswap Konkurenz machen
+26. 
