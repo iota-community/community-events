@@ -34,3 +34,4 @@
 32. sexypotato [tweetet](https://twitter.com/sexypotato_P/status/1491744995002535939?s=20&t=A7IxA1633M_r5GwxC03tuw) über seinen nächsten Artikel: [VOLKS MYTHICA. A P2E METAVERSE GAME.9](https://medium.com/@sexypotato/volks-mythica-a-p2e-metaverse-game-f871d1a65f3e)
 33. GoShimmer: [- Sprint Planning Weeks 6-7, 2022 #9](https://github.com/iotaledger/research-updates/discussions/9); Angelo C. ist begeistert: [Tweet](https://twitter.com/AngeloCapossele/status/1491792912769683458?s=20&t=A7IxA1633M_r5GwxC03tuw)
 34. AMA mit Dom: [AMA IOTA Talks with Dominik Schiener - 11.02.2022](https://www.youtube.com/watch?v=yeXgNucNstI)
+35. Wir der Assembly Token evtl. doch nicht gebraucht und war nur VC Marketing? [Tweet von Lukastanisic](https://twitter.com/lukastanisic99/status/1491669116385738758?s=20&t=U7yWkjwljH9zkbNB83O_Aw)
