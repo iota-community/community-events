@@ -31,4 +31,6 @@
 29. Inspyrd macht Lust auf ihre NFT Plattform ohne fees: [Tweet](https://twitter.com/inspyrdNFT/status/1491712175165124611?s=20&t=A7IxA1633M_r5GwxC03tuw)
 30. Die IF sucht einen [Senior Mobile App Developer (Hybrid) - Firefly Wallet](https://iota.bamboohr.com/jobs/view.php?id=151)
 31. Mesh+ [announced](https://twitter.com/iotaMESH/status/1491776215417450496?s=20&t=A7IxA1633M_r5GwxC03tuw) und Assembly [tweetet](https://twitter.com/assembly_net/status/1491774051400007681?s=20&t=A7IxA1633M_r5GwxC03tuw) über die neue Partnerschaft: [Mesh+ Becomes Nth-Tangled With Assembly and IOTA](https://blog.assembly.sc/mesh-becomes-nth-tangled-with-assembly-and-iota/)
-32. sexypotato [tweetet](https://twitter.com/sexypotato_P/status/1491744995002535939?s=20&t=A7IxA1633M_r5GwxC03tuw) über seinen nächsten Artikel: [VOLKS MYTHICA. A P2E METAVERSE GAME.9(https://medium.com/@sexypotato/volks-mythica-a-p2e-metaverse-game-f871d1a65f3e)
+32. sexypotato [tweetet](https://twitter.com/sexypotato_P/status/1491744995002535939?s=20&t=A7IxA1633M_r5GwxC03tuw) über seinen nächsten Artikel: [VOLKS MYTHICA. A P2E METAVERSE GAME.9](https://medium.com/@sexypotato/volks-mythica-a-p2e-metaverse-game-f871d1a65f3e)
+33. GoShimmer: [- Sprint Planning Weeks 6-7, 2022 #9](https://github.com/iotaledger/research-updates/discussions/9); Angelo C. ist begeistert: [Tweet](https://twitter.com/AngeloCapossele/status/1491792912769683458?s=20&t=A7IxA1633M_r5GwxC03tuw)
+34. AMA mit Dom: [AMA IOTA Talks with Dominik Schiener - 11.02.2022](https://www.youtube.com/watch?v=yeXgNucNstI)
