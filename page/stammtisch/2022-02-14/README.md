@@ -36,3 +36,4 @@
 34. AMA mit Dom: [AMA IOTA Talks with Dominik Schiener - 11.02.2022](https://www.youtube.com/watch?v=yeXgNucNstI)
 35. Wird durch ZKRollups der Assembly Token evtl. doch gar nicht gebraucht und war das alles nur Marketing um VCs anzulocken? [Tweet von Lukastanisic](https://twitter.com/lukastanisic99/status/1491669116385738758?s=20&t=U7yWkjwljH9zkbNB83O_Aw)
 36. Hans Moog, Ghosti und Holger Video soon... [Tweet](https://twitter.com/rohmeo_de/status/1491799498737086468?s=20&t=U7yWkjwljH9zkbNB83O_Aw)
+37. ManUnited macht Werbung für Tezos: [Tweet](https://twitter.com/ManUtd/status/1491743877690281987?s=20&t=U7yWkjwljH9zkbNB83O_Aw); Dom meint das ist Geld verbrennen: [Tweet](https://twitter.com/DomSchiener/status/1491798874838630415?s=20&t=U7yWkjwljH9zkbNB83O_Aw)
