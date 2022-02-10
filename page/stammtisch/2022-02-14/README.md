@@ -29,4 +29,5 @@
 27. SoonLabs und IOTABOTS: [Tweet](https://twitter.com/iotabots/status/1491702228121374721?s=20&t=A7IxA1633M_r5GwxC03tuw)
 28. Neues IOTA NFT/Metavers? Projekt "Shi Weas" mit coolem Video: [Tweet](https://twitter.com/Rawkala/status/1491706861447430146?s=20&t=A7IxA1633M_r5GwxC03tuw)
 29. Inspyrd macht Lust auf ihre NFT Plattform ohne fees: [Tweet](https://twitter.com/inspyrdNFT/status/1491712175165124611?s=20&t=A7IxA1633M_r5GwxC03tuw)
-30. 
+30. Die IF sucht einen [Senior Mobile App Developer (Hybrid) - Firefly Wallet](https://iota.bamboohr.com/jobs/view.php?id=151)
+31. 
