@@ -46,4 +46,5 @@
 44. Adam vom Soonaverse [tweetet](https://twitter.com/adam_unchained/status/1492069317365489664?s=20&t=qZpPPUvbjbWc2qfiQBrqOA) ein Video in dem man sieht wie man in Zukunft die IOTA Wallet Addresse mit seinem Account verbinden kann
 45. Assembly [tweetet](https://twitter.com/assembly_net/status/1492106497874141185?s=20&t=viJoYU7KdiLH-WpNzFDKKA) über den Wiki.assembly Artikel: [Assembly at Stake](https://wiki.assembly.sc/learn/assembly_at_stake/)
 46. Halbzeit beim IOTA Staking: [Tweet 1/3 der IF](https://twitter.com/iota/status/1492133859550539781?s=20&t=4rREiBwARTm3W2j97sZq3A)
-47. GoShimmer v0.8.6 release: [GitHub](https://github.com/iotaledger/goshimmer/blob/6305d0d5d6c08e4f9cbb6d2301136d783da1acb5/CHANGELOG.md)
+47. Die [IF tweetet](https://twitter.com/iota/status/1492166669762023430?s=20&t=39StabXJvQ02iKOXrsvP0A) vom GoShimmer v0.8.6 release: [GitHub](https://github.com/iotaledger/goshimmer/blob/6305d0d5d6c08e4f9cbb6d2301136d783da1acb5/CHANGELOG.md); Hier ein [Vizualizer](http://public-node-01.devnet.shimmer.iota.cafe:8061/visualizer)
+48. Blackpin [tweetet](https://twitter.com/BLACKPIN_GmbH/status/1486711542779244566?s=20&t=mDBLpCBTHqI99qZ-NXkywg) über ihr Spotify Interview: ["Das Leuchtturm-Startup Baden Württembergs"](https://open.spotify.com/episode/0x1hajuCtNzGIYUDbH18vG?si=rGD2-KrgTOGuaK2OrhBJEw&nd=1)
