@@ -48,3 +48,11 @@
 46. Halbzeit beim IOTA Staking: [Tweet 1/3 der IF](https://twitter.com/iota/status/1492133859550539781?s=20&t=4rREiBwARTm3W2j97sZq3A)
 47. Die [IF tweetet](https://twitter.com/iota/status/1492166669762023430?s=20&t=39StabXJvQ02iKOXrsvP0A) vom GoShimmer v0.8.6 release: [GitHub](https://github.com/iotaledger/goshimmer/blob/6305d0d5d6c08e4f9cbb6d2301136d783da1acb5/CHANGELOG.md); Hier ein [Vizualizer](http://public-node-01.devnet.shimmer.iota.cafe:8061/visualizer)
 48. Blackpin [tweetet](https://twitter.com/BLACKPIN_GmbH/status/1486711542779244566?s=20&t=mDBLpCBTHqI99qZ-NXkywg) über ihr Spotify Interview: ["Das Leuchtturm-Startup Baden Württembergs"](https://open.spotify.com/episode/0x1hajuCtNzGIYUDbH18vG?si=rGD2-KrgTOGuaK2OrhBJEw&nd=1)
+49. Neue Webseite [Welcome to The First Gallery of Galaxy Art DAO - PIONEERS OF TOKENIZED PHYSICAL ART](https://universegallery.io/); Hier deren [Twitter Account](https://twitter.com/UniverseGallery; Sie verkaufen NFT Collection [IOTA ADOPTION - EMPOWERING PEOPLE](https://medium.com/@universegallerynft/iota-adoption-empowering-people-bb88daf17a24)
+50. Wo fährt Mat Y. hin? [Tweet](https://twitter.com/Mat_Yarger/status/1492174498149380099?s=20&t=o1nkS7hQTI8A36VyVMe31Q)
+51. IOTA AMA mit Dom S. auf deutsch: [aus Youtube](https://www.youtube.com/watch?v=bqcCTPFDIjI)
+52. TheFansTogether TFT feiern ihren Erfolg (DAO Ideathon Gewinner) und wollen Club kaufen: [Tweet](https://twitter.com/TheFansTogether/status/1492182559459090435?s=20&t=DkzPPkB2uYRrjbvOccTbNA)
+53. Sebastian Kremer [tweetet](https://twitter.com/SebaKremer/status/1492162874596339721?s=20&t=DkzPPkB2uYRrjbvOccTbNA) über dieses Paper: [Enabling Secure Data Exchange through the IOTA Tangle for IoT Constrained Devices](https://t.co/PgJ2KVUuH4)
+54. Die IF sucht Mitarbeiter: [Software Engineer, Client libraries - Rust](https://iota.bamboohr.com/jobs/view.php?id=166)
+55. Youtube Webinar: [Itroduction to IOTA](https://www.youtube.com/watch?app=desktop&v=5qAUPIRzJO8&t=8s)
+56. 
