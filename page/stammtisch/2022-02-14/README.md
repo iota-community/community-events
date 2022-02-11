@@ -56,3 +56,6 @@
 54. Die IF sucht Mitarbeiter: [Software Engineer, Client libraries - Rust](https://iota.bamboohr.com/jobs/view.php?id=166)
 55. Youtube Webinar: [Introduction to IOTA (auf italienisch)](https://www.youtube.com/watch?app=desktop&v=5qAUPIRzJO8&t=8s)
 56. Neues NFT Projekt von Cryptoremeras: [Soon Tweet](https://twitter.com/Cryptoremeras/status/1492211746874007558?s=20&t=o1nkS7hQTI8A36VyVMe31Q)
+57. Govs.io veröffentlicht ihr [wiki.govs.io](https://wiki.govs.io/connectors/iota)
+58. Neuer Artikel: [What Is IOTA? A Well Engineered IOT Crypto in 2022](https://www.hodlcryptonite.com/what-is-iota/)
+59. Cryptocrash am Freitag: [CIA rechnet mit russischem Angriff kommende Woche](https://www.spiegel.de/politik/deutschland/krise-in-osteuropa-cia-rechnet-mit-russischem-angriff-kommende-woche-a-2e10a45f-b6eb-4b1a-b692-2edc64c04adf?d=1644608986&sara_ecid=app_upd_903PVrz5TZlGJuLWLqJDVijRko558t&sara_ecid=soci_upd_KsBF0AFjflf0DZCxpPYDCQgO1dEMph)
