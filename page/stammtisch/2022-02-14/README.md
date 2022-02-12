@@ -63,4 +63,4 @@
 61. Die[IF tweetet](https://twitter.com/iota/status/1492468606109630466?s=20) über [Smart contracts - Week 6, 2022 #19](https://github.com/iotaledger/engineering-updates/discussions/19)
 62. Bananu.iota [tweetet](https://twitter.com/CptBananu/status/1492461629505781762?s=20) über seine Moonaco Podcast Zusammenfassung: [The Moonaco Podcast — Episode 8 (ft. @soon_labs)](https://medium.com/@CptBananu/the-moonaco-podcast-episode-8-ft-soon-labs-cc3f1f9b36c)
 63. Govs.io und ZEBRA wollen wohl Zusammenarbeiten: [Tweet](https://twitter.com/govs_io/status/1492510377602650117?s=20)
-64. 
+64. Elysi Metavers ist wohl gestorben: [Tweet](https://twitter.com/ElysiMetaverse/status/1492538582250266624?s=20&t=mxJ3xRLRHjDcCRYpB-9NzA) aber Kamilabs will weiter BUIDLn am Metavers mit anderen Partnern: [Tweet](https://twitter.com/kamilabsstudio/status/1492539054453362689?s=20&t=mxJ3xRLRHjDcCRYpB-9NzA)
