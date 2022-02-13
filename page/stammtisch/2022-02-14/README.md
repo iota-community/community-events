@@ -72,3 +72,5 @@
 70. [IOTAtalk Wochenrückblick](https://www.iota-talk.com/index.php?article/158-wochenr%C3%BCckblick-vom-6-bis-12-februar-2022/)
 71. Es gibt Rusti Robot Caps nur für NFT-L Besitzer: [Tweet](https://twitter.com/RustyRobotCC/status/1492831278323884034?s=20)
 72. NFT Projekt "IOTA Kitties" veröffentlichen mit diesem [Tweet](https://twitter.com/IOTA_Kitties/status/1492918547999334410?s=20&t=5bhXEC2RITgYZVbmvvkRgg) ihre neue Webseite: [IOTA Kitties](https://iotakitties.com/)
+73. Neues IOTA NFT Projekt: [iotapes](https://twitter.com/iotapes/status/1492914378521391109?s=20&t=_UiUrT7wq80tbsXr3XQhkQ)
+74. Was meint Alexander mit dem Joomla Plugin? [Tweet](https://twitter.com/shortaktien/status/1492936851635810311?s=20&t=5bhXEC2RITgYZVbmvvkRgg)
