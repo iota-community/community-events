@@ -75,3 +75,4 @@
 73. Neues IOTA NFT Projekt: [iotapes](https://twitter.com/iotapes/status/1492914378521391109?s=20&t=_UiUrT7wq80tbsXr3XQhkQ)
 74. Was meint Alexander mit dem Joomla Plugin? [Tweet](https://twitter.com/shortaktien/status/1492936851635810311?s=20&t=5bhXEC2RITgYZVbmvvkRgg)
 75. Super Bowl wird zum Crypto Super Bowl: [Welcome to the crypto Super Bowl](https://edition.cnn.com/2022/02/09/investing/super-bowl-crypto-ads/index.html)
+76. IOTA Nigeria will einmal im Monat einen Twitter Space für Afrikaner organisieren: [Tweet](https://twitter.com/IotaNigeria/status/1492953048410472452?s=20&t=h0nJvjwT__SFcaDALl1STQ)
