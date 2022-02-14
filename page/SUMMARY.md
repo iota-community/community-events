@@ -61,3 +61,4 @@
 - [2022-01-31](./stammtisch/2022-01-31/README.md)
 - [2022-02-07](./stammtisch/2022-02-07/README.md)
 - [2022-02-14](./stammtisch/2022-02-14/README.md)
+- [2022-02-21](./stammtisch/2022-02-21/README.md)
