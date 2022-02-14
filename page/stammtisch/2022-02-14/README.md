@@ -82,3 +82,4 @@
 80. Neues IOTA NFT Projekt "IOTAholics" soon: [Tweet](https://twitter.com/iotaholics/status/1493090920639705090?s=20&t=5bhXEC2RITgYZVbmvvkRgg)
 81. Blockchainwelt schreibt einen IOTA Artikel: [Wird IOTA der Angelpunkt des Web3?](https://blockchainwelt.de/news/iota-angelpunkt-des-web3/)
 82. Youtuber BroggiBrothers erklärt NF3 von Soonaverse: [What is a NF3? IOTA NFT Revolution! #NF3 #IOTA](https://twitter.com/brian_armstrong/status/1493120213994258432?s=20&t=5bhXEC2RITgYZVbmvvkRgg)
+83. EBSI [tweetet](https://twitter.com/EU_EBSI/status/1493202283018035201?s=20&t=GHo3vvd4kWGzvlgUJFmwDw) darüber, dass ihre [neue Webseite](https://ec.europa.eu/digital-building-blocks/wikis/display/ebsi) live ist
