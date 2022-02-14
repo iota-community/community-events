@@ -78,3 +78,5 @@
 76. Super Bowl [Halbzeitshow](https://www.youtube.com/watch?v=t3hEItPzyo4), Werbung [von FTX](https://www.youtube.com/watch?v=4UvkmbugpvU), von [Crypto.com](https://www.youtube.com/watch?v=FUygWsIj_GU) und von [Coinbase](https://www.youtube.com/watch?v=oBT4g3RdN54), wobei Coinbase sich etwas blamiert hat weil die Webseite down war: [Tweet von Edwar Snowden dazu](https://twitter.com/Snowden/status/1493044881534640131?s=20&t=5bhXEC2RITgYZVbmvvkRgg)
 77. IOTA Nigeria will einmal im Monat einen Twitter Space für Afrikaner organisieren: [Tweet](https://twitter.com/IotaNigeria/status/1492953048410472452?s=20&t=h0nJvjwT__SFcaDALl1STQ)
 78. IOTAPunks wird es für 25 Miota auf Soonaverse geben: [Tweet](https://twitter.com/IotaPunks_71/status/1492643507504308226?s=20&t=5bhXEC2RITgYZVbmvvkRgg)
+79. MicroHash hört auf an decensored.com weiter zu entwickeln: [Tweet](https://twitter.com/decensored_app/status/1493018205110996994?s=20&t=h0nJvjwT__SFcaDALl1STQ]
+80. Neues IOTA NFT Projekt "IOTAholics" soon: [Tweet](https://twitter.com/iotaholics/status/1493090920639705090?s=20&t=5bhXEC2RITgYZVbmvvkRgg)
