@@ -16,4 +16,6 @@
 14. Lebenszeichen von LendeXe: [Tweet](https://twitter.com/LendeXeFinance/status/1493938418329477125?s=20&t=qxU22Z-dop-YRpxwKXMp6w)
 15. Sphere, ein IOTA Metavers Projekt, [twittert](https://twitter.com/Sphere_Hub_io/status/1493936588660912128?s=20&t=qxU22Z-dop-YRpxwKXMp6w) über die [Webseite auf der das 12 köpfige Team vorgestellt wird](https://sphere-hub.io/team/)
 16. TangleLabs collaborieren mit dem Content Creator DAO und spenden 10Gioat für eine Artikel Serie über digital Identity: [Tweet](https://twitter.com/Tangle_Labs/status/1493646193418723332?s=20&t=qxU22Z-dop-YRpxwKXMp6w)
+17. Tangle Cat mit [Introduction Tweetstorm](https://twitter.com/tangle_cat/status/1480963550092922882?s=20&t=qxU22Z-dop-YRpxwKXMp6w)
+18. DAO Treassurry Meeting: [Announcement Tweet](https://twitter.com/PhyloIota/status/1493969244026978312?s=20&t=qxU22Z-dop-YRpxwKXMp6w)
 
