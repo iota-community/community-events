@@ -1,7 +1,7 @@
 ## Stammtischthemen für Montag, den 21.2.2022
 
 1. IOTA Quicktakes
-2. Konsens Nonsens Folge mit Hans Moog: [Spotify](https://open.spotify.com/episode/5IDJ7oQiRoKSPuuRrgV1aO); Youtube [Konsens & Nonsens Folge 42: Junior Entwickler Hans Moog über sozialen Konsens, Fees, Specs und IOTA.](https://www.youtube.com/watch?v=4HNPlMsHQmw); Schön zusammen gefasst im [Tweetstorm](https://twitter.com/iota_penguin/status/1493644903900930053?s=20&t=qxU22Z-dop-YRpxwKXMp6w) von [IOTA Penguin](https://twitter.com/iota_penguin)
+2. Konsens Nonsens Folge mit Hans Moog: [Spotify](https://open.spotify.com/episode/5IDJ7oQiRoKSPuuRrgV1aO); Youtube [Konsens & Nonsens Folge 42: Junior Entwickler Hans Moog über sozialen Konsens, Fees, Specs und IOTA.](https://www.youtube.com/watch?v=4HNPlMsHQmw); Schön zusammen gefasst im [Tweetstorm](https://twitter.com/iota_penguin/status/1493644903900930053?s=20&t=qxU22Z-dop-YRpxwKXMp6w) von [IOTA Penguin](https://twitter.com/iota_penguin); Und Chris Müller hat das ganze [Interview auf englisch](https://www.youtube.com/watch?v=hIU2NVMJ7gg&t=16s) übersetzt
 3. TangleLabs [tweeten](https://twitter.com/Tangle_Labs/status/1493337349161472000?s=20&t=Cc16b8qZNYZgwprkTck_fA) über den GitHub Code von [IOTA Identity Provider](https://github.com/cambriota/iota-identity-provider) Stichtwort: Login with IOTA für web 2.0
 4. Canada Emerency Act wegen Corona Demos: [Canada's Emergencies Act to Target Crypto Transactions, amid Anti-Vaccination Protest](https://blockchain.news/news/canadas-emergencies-act-to-target-crypto-transactions-amid-anti-vaccination-protest); Sie können jetzt scheinbar Bankaccounts beliebig freezen: [Tweet mit Video](https://twitter.com/MartiniGuyYT/status/1493496975324598272?s=20&t=Cc16b8qZNYZgwprkTck_fA)
 5. IOTABots soon im Moonaco Podcast: [Tweet](https://twitter.com/MoonacoPodcast/status/1493575837584695307?s=20&t=59riyXmT0zcIpMPioj9mpA)
@@ -13,9 +13,16 @@
 11. Neues IOTA NFT Projekt "Bored Robots": [Tweet](https://twitter.com/BoredRobot_io/status/1493879795343634434?s=20&t=qxU22Z-dop-YRpxwKXMp6w)
 12. ZEBRA lädt zum DevTalk "..we'll review the new Zebra-IOTA Edge SDK" ein: [Tweet](https://twitter.com/ZebraDevs/status/1493677497979920385?s=20&t=qxU22Z-dop-YRpxwKXMp6w)
 13. Kryptogang macht ein Video zu IOTA (nicht so schlecht wie der Titel vermuten lässt): [DARUM ist IOTA nicht konkurrenzfähig ! | IOTA als WEB 3.0 König ?!](https://www.youtube.com/watch?v=1M_EE9WCuTk)
-14. Lebenszeichen von LendeXe: [Tweet](https://twitter.com/LendeXeFinance/status/1493938418329477125?s=20&t=qxU22Z-dop-YRpxwKXMp6w)
+14. Lebenszeichen von LendeXe: [Tweet 1](https://twitter.com/LendeXeFinance/status/1493938418329477125?s=20&t=qxU22Z-dop-YRpxwKXMp6w); [Tweet 2](https://twitter.com/LendeXeFinance/status/1494206731727118337?s=20&t=jCQs-YagX5fEOFo2Xyl5qQ)
 15. Sphere, ein IOTA Metavers Projekt, [twittert](https://twitter.com/Sphere_Hub_io/status/1493936588660912128?s=20&t=qxU22Z-dop-YRpxwKXMp6w) über die [Webseite auf der das 12 köpfige Team vorgestellt wird](https://sphere-hub.io/team/)
 16. TangleLabs collaborieren mit dem Content Creator DAO und spenden 10Gioat für eine Artikel Serie über digital Identity: [Tweet](https://twitter.com/Tangle_Labs/status/1493646193418723332?s=20&t=qxU22Z-dop-YRpxwKXMp6w)
 17. Tangle Cat mit [Introduction Tweetstorm](https://twitter.com/tangle_cat/status/1480963550092922882?s=20&t=qxU22Z-dop-YRpxwKXMp6w)
 18. DAO Treassurry Meeting: [Announcement Tweet](https://twitter.com/PhyloIota/status/1493969244026978312?s=20&t=qxU22Z-dop-YRpxwKXMp6w)
+19. IOTA NFT Projekt "IOTAHeads" [tweetet](https://twitter.com/IotaHeads/status/1494058680857374720?s=20&t=jCQs-YagX5fEOFo2Xyl5qQ) über ihre neue Webseite: [floatingheads.io](https://floatingheads.io/)
+20. Neues IOTA NFT Projekt "Nebula Tangle": [Tweet](https://twitter.com/NebulaTangle/status/1494017650380480519?s=20&t=jCQs-YagX5fEOFo2Xyl5qQ)
+21. Twitter führt Ethereum für Trinkgeldspenden (tips) ein: [Tweet](https://twitter.com/TwitterSupport/status/1494008973581856768); [How to guide](https://help.twitter.com/de/using-twitter/tips); Hier ein Artikel auf deutsch darüber: [Twitter-Trinkgelder jetzt auch mit Ethereum-Adresse](https://www.btc-echo.de/schlagzeilen/nach-bitcoin-twitter-trinkgelder-jetzt-mit-ethereum-135252/)
+22. TangleLabs mit einem neuen [Preview-Tweet](https://twitter.com/adam_unchained/status/1494216746491805696?s=20&t=jCQs-YagX5fEOFo2Xyl5qQ) wie das mit dem Bezahlen von NFTs geht
+23. INVEZZ.com mit Artikel über IOTA: [Veröffentlichung von 2.0 macht IOTA zur Top-Blockchain der Zukunft](https://invezz.com/de/news/2022/02/16/veroffentlichung-von-2-0-macht-iota-zur-top-blockchain-der-zukunft/)
+24. Am Donnerstag war TangleGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1494242801374187525?s=20)
+25. Dr. Tangler von TangleSea will im Stammtisch ab 20:30 Uhr auf unsere Fragen eingehen: [Tweet](https://twitter.com/Vrom14286662/status/1494217047013830658?s=20)
 
