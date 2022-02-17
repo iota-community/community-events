@@ -25,4 +25,7 @@
 23. INVEZZ.com mit Artikel über IOTA: [Veröffentlichung von 2.0 macht IOTA zur Top-Blockchain der Zukunft](https://invezz.com/de/news/2022/02/16/veroffentlichung-von-2-0-macht-iota-zur-top-blockchain-der-zukunft/)
 24. Am Donnerstag war TangleGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1494242801374187525?s=20)
 25. Dr. Tangler von TangleSea will im Stammtisch ab 20:30 Uhr auf unsere Fragen eingehen: [Tweet](https://twitter.com/Vrom14286662/status/1494217047013830658?s=20)
+26. LendeXe [tweetet](https://twitter.com/LendeXeFinance/status/1494261177165225985?s=20) über ihre neue Webseite: [https://www.lendexe.fi/](https://www.lendexe.fi/) und startet ihr Discord: [Tweet mit Link zum Discord](https://twitter.com/MoonacoPodcast/status/1494285624500760577?s=20)
+27. LendeXe ist im Moonaco Podcast: [Episode 9: Sabo from LendeXe](https://open.spotify.com/episode/12TuQQDyc0LKY7IWoDKuCH?si=AX4WCajrSuOFoBYGYAauug&nd=1) und in einer Woche am Donnerstag ist er bei der Tanglegang zu Gast: [Tweet](https://twitter.com/GangTangleTalk/status/1494283809897988103?s=20)
+28. Magic Meme Money macht IOTA NFT Projekt "Magic Voodoo Dolls": [Soon-Tweet](https://twitter.com/Magic_MemeMoney/status/1494184482903138308?s=20)
 
