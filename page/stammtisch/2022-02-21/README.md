@@ -28,4 +28,7 @@
 26. LendeXe [tweetet](https://twitter.com/LendeXeFinance/status/1494261177165225985?s=20) über ihre neue Webseite: [https://www.lendexe.fi/](https://www.lendexe.fi/) und startet ihr Discord: [Tweet mit Link zum Discord](https://twitter.com/MoonacoPodcast/status/1494285624500760577?s=20)
 27. LendeXe ist im Moonaco Podcast: [Episode 9: Sabo from LendeXe](https://open.spotify.com/episode/12TuQQDyc0LKY7IWoDKuCH?si=AX4WCajrSuOFoBYGYAauug&nd=1) und in einer Woche am Donnerstag ist er bei der Tanglegang zu Gast: [Tweet](https://twitter.com/GangTangleTalk/status/1494283809897988103?s=20)
 28. Magic Meme Money macht IOTA NFT Projekt "Magic Voodoo Dolls": [Soon-Tweet](https://twitter.com/Magic_MemeMoney/status/1494184482903138308?s=20)
+29. Assembly mit [Tweet 1/6](https://twitter.com/assembly_net/status/1494265540050927617?s=20&t=TMc6Q2ik2ZGSXyB9UkUcSg) über MEV (Miner Extractable Value)
+30. Neues Play to Earn Game [ZenTangle](https://zentangle.io/) wird von Gianfranco Campos [mit diesem Tweet](https://twitter.com/hassping/status/1494241307694231554?s=20&t=TMc6Q2ik2ZGSXyB9UkUcSg) veröffentlicht
+31. 
 
