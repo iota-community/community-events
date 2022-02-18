@@ -30,5 +30,10 @@
 28. Magic Meme Money macht IOTA NFT Projekt "Magic Voodoo Dolls": [Soon-Tweet](https://twitter.com/Magic_MemeMoney/status/1494184482903138308?s=20)
 29. Assembly mit [Tweet 1/6](https://twitter.com/assembly_net/status/1494265540050927617?s=20&t=TMc6Q2ik2ZGSXyB9UkUcSg) über MEV (Miner Extractable Value)
 30. Neues Play to Earn Game [ZenTangle](https://zentangle.io/) wird von Gianfranco Campos [mit diesem Tweet](https://twitter.com/hassping/status/1494241307694231554?s=20&t=TMc6Q2ik2ZGSXyB9UkUcSg) veröffentlicht
-31. 
+31. [Americas Group February 17th, 2022](https://www.youtube.com/watch?v=QTFdQ4epQSY)
+32. [SwiftDoc meldet sich auf Twitter](https://twitter.com/SwiftDoc_/status/1494364181151113216?s=20&t=RMGsgdYbFVUxL_Zi7bhLFA) mit "IOTA Doctors are ready"; Die hatten 2021 schon mal erwähnt wofür sie IOTA brauchen: [Tweet](https://twitter.com/SwiftDoc_/status/1421549635403845636?s=20&t=RMGsgdYbFVUxL_Zi7bhLFA)
+33. Wir haben ein ersten IOTA Soccer Team in Indien: [Tweet](https://twitter.com/IOTASoccerTeam/status/1494363520292380680?s=20&t=mY4s-fltAxrQYSpvxBj_3g)
+34. Soonaverse veröffentlicht Soonaverse Service Teams mit diesem Artikel: [Introducing Soonaverse Service Teams](https://soonlabs.medium.com/introducing-soonaverse-service-teams-f762196ebad7)
+35. Bankrun in Canada: [Kanadier stürmen Banken: WEF-Jünger Trudeau geht mit Kriegsrecht & Kontosperre baden](https://www.wochenblick.at/welt/kanadier-stuermen-banken-wef-juenger-trudeau-geht-mit-kriegsrecht-kontosperre-baden/?s=08)
+36. Gianfranco Campos will am 18. März die NFT Cards verkaufen, die später den ZEN Token erhalten. Es geht um ein Play to Earn Game ([Zentangle.io](https://zentangle.io/)), über das er auch im Americas Meeting (Punkt 31) spricht
 
