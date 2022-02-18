@@ -42,5 +42,6 @@
 40. Die IF [tweetet](https://twitter.com/iota/status/1494627792083902465) über wiki.iota Tutorial: [How to Run Iota Mainnet Hornet Nodes on a Kubernetes Environment](https://wiki.iota.org/chrysalis-docs/tutorials/mainnet_hornet_node_k8s)
 41. IOTA Weekly mit Chris Müller: [IOTAWeekly 028: IOTA Coordicide Kritik](https://www.youtube.com/watch?v=fqM5aTeh-iE&feature=youtu.be); Hier [auf englisch](https://www.youtube.com/watch?v=dx7aflxI570)
 42. Die NASDAQ Artikel: [3 Unique Cryptocurrencies That Can Turn $100,000 Into $300,000 by 2024](https://www.nasdaq.com/articles/3-unique-cryptocurrencies-that-can-turn-%24100000-into-%24300000-by-2024)
-43. 
+43. Mat Yarger reagiert auf einen Tweet in dem gefragt wurde ob er sich mit einigen dieser großen Firmen getroffen hat mit diesem [Tweet](https://twitter.com/Mat_Yarger/status/1492286740991815683?s=20): "Not this time. I’ve met with almost all of those companies previously though" 
+44. 
 
