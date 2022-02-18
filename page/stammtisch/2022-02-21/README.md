@@ -32,8 +32,12 @@
 30. Neues Play to Earn Game [ZenTangle](https://zentangle.io/) wird von Gianfranco Campos [mit diesem Tweet](https://twitter.com/hassping/status/1494241307694231554?s=20&t=TMc6Q2ik2ZGSXyB9UkUcSg) veröffentlicht
 31. [Americas Group February 17th, 2022](https://www.youtube.com/watch?v=QTFdQ4epQSY)
 32. [SwiftDoc meldet sich auf Twitter](https://twitter.com/SwiftDoc_/status/1494364181151113216?s=20&t=RMGsgdYbFVUxL_Zi7bhLFA) mit "IOTA Doctors are ready"; Die hatten 2021 schon mal erwähnt wofür sie IOTA brauchen: [Tweet](https://twitter.com/SwiftDoc_/status/1421549635403845636?s=20&t=RMGsgdYbFVUxL_Zi7bhLFA)
-33. Wir haben ein ersten IOTA Soccer Team in Indien: [Tweet](https://twitter.com/IOTASoccerTeam/status/1494363520292380680?s=20&t=mY4s-fltAxrQYSpvxBj_3g)
+33. Wir haben ein erstes IOTA Soccer Team in Indien: [Tweet](https://twitter.com/IOTASoccerTeam/status/1494363520292380680?s=20&t=mY4s-fltAxrQYSpvxBj_3g); Und die Webseite ist online: [iota.soccer](https://iota.soccer/)
 34. Soonaverse veröffentlicht Soonaverse Service Teams mit diesem Artikel: [Introducing Soonaverse Service Teams](https://soonlabs.medium.com/introducing-soonaverse-service-teams-f762196ebad7)
 35. Bankrun in Canada: [Kanadier stürmen Banken: WEF-Jünger Trudeau geht mit Kriegsrecht & Kontosperre baden](https://www.wochenblick.at/welt/kanadier-stuermen-banken-wef-juenger-trudeau-geht-mit-kriegsrecht-kontosperre-baden/?s=08)
-36. Gianfranco Campos will am 18. März die NFT Cards verkaufen, die später den ZEN Token erhalten. Es geht um ein Play to Earn Game ([Zentangle.io](https://zentangle.io/)), über das er auch im Americas Meeting (Punkt 31) spricht
+36. Gianfranco Campos will am 18. März die NFT Cards verkaufen, für die man später den ZEN Token erhält. Es geht um ein Play to Earn Game ([Zentangle.io](https://zentangle.io/)), über das er auch im Americas Meeting (Punkt 31) spricht. Interessant ist vor allem auch das Bieterverfahren das sie anwenden wollen. Man zahlt in IOTA und wenn einer mehr gezahlt hat bekommt man sein Geld automatisch zurück. 
+37. Gianfranco will am Montag im Stammtisch so ab 22:00 Uhr das Ganze genauer erklären und Fragen dazu beantworten
+38. DEXes mit neuen IOTA Video: [#DEFI & #IOTA 🤜🤛 Passiveinkommen durch leihen. 🦾Ist das die Zukunft?](https://www.youtube.com/watch?v=vGUZAxtgsnM&feature=youtu.be)
+39. Neues Demo Video von der IF und ZEBRA: [Demo Identity Enabler of the Zebra-IOTA Edge SDK](https://www.youtube.com/watch?v=UdYrlMgdy5g)
+40. Die IF [tweetet](https://twitter.com/iota/status/1494627792083902465) über wiki.iota Tutorial: [How to Run Iota Mainnet Hornet Nodes on a Kubernetes Environment](https://wiki.iota.org/chrysalis-docs/tutorials/mainnet_hornet_node_k8s)
 
