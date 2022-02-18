@@ -40,4 +40,7 @@
 38. DEXes mit neuen IOTA Video: [#DEFI & #IOTA 🤜🤛 Passiveinkommen durch leihen. 🦾Ist das die Zukunft?](https://www.youtube.com/watch?v=vGUZAxtgsnM&feature=youtu.be)
 39. Neues Demo Video von der IF und ZEBRA: [Demo Identity Enabler of the Zebra-IOTA Edge SDK](https://www.youtube.com/watch?v=UdYrlMgdy5g)
 40. Die IF [tweetet](https://twitter.com/iota/status/1494627792083902465) über wiki.iota Tutorial: [How to Run Iota Mainnet Hornet Nodes on a Kubernetes Environment](https://wiki.iota.org/chrysalis-docs/tutorials/mainnet_hornet_node_k8s)
+41. IOTA Weekly mit Chris Müller: [IOTAWeekly 028: IOTA Coordicide Kritik](https://www.youtube.com/watch?v=fqM5aTeh-iE&feature=youtu.be); Hier [auf englisch](https://www.youtube.com/watch?v=dx7aflxI570)
+42. Die NASDAQ Artikel: [3 Unique Cryptocurrencies That Can Turn $100,000 Into $300,000 by 2024](https://www.nasdaq.com/articles/3-unique-cryptocurrencies-that-can-turn-%24100000-into-%24300000-by-2024)
+43. 
 
