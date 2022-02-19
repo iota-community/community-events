@@ -32,7 +32,7 @@
 30. Neues Play to Earn Game [ZenTangle](https://zentangle.io/) wird von Gianfranco Campos [mit diesem Tweet](https://twitter.com/hassping/status/1494241307694231554?s=20&t=TMc6Q2ik2ZGSXyB9UkUcSg) veröffentlicht
 31. [Americas Group February 17th, 2022](https://www.youtube.com/watch?v=QTFdQ4epQSY)
 32. [SwiftDoc meldet sich auf Twitter](https://twitter.com/SwiftDoc_/status/1494364181151113216?s=20&t=RMGsgdYbFVUxL_Zi7bhLFA) mit "IOTA Doctors are ready"; Die hatten 2021 schon mal erwähnt wofür sie IOTA brauchen: [Tweet](https://twitter.com/SwiftDoc_/status/1421549635403845636?s=20&t=RMGsgdYbFVUxL_Zi7bhLFA)
-33. Wir haben ein erstes IOTA Soccer Team in Indien: [Tweet](https://twitter.com/IOTASoccerTeam/status/1494363520292380680?s=20&t=mY4s-fltAxrQYSpvxBj_3g); Und die Webseite ist online: [iota.soccer](https://iota.soccer/)
+33. Wir haben ein erstes IOTA Soccer Team in Indien: [Tweet](https://twitter.com/IOTASoccerTeam/status/1494363520292380680?s=20&t=mY4s-fltAxrQYSpvxBj_3g); Und die Webseite ist online: [iota.soccer](https://iota.soccer/); Es wird wohl auch 2779 NFTs zu kaufen geben: [Tweet](https://twitter.com/IOTASoccerTeam/status/1494905012358565890?s=20&t=CIr45hy-zn29AeP7l5dI1w)
 34. Soonaverse veröffentlicht Soonaverse Service Teams mit diesem Artikel: [Introducing Soonaverse Service Teams](https://soonlabs.medium.com/introducing-soonaverse-service-teams-f762196ebad7)
 35. Bankrun in Canada: [Kanadier stürmen Banken: WEF-Jünger Trudeau geht mit Kriegsrecht & Kontosperre baden](https://www.wochenblick.at/welt/kanadier-stuermen-banken-wef-juenger-trudeau-geht-mit-kriegsrecht-kontosperre-baden/?s=08)
 36. Gianfranco Campos will am 18. März die NFT Cards verkaufen, für die man später den ZEN Token erhält. Es geht um ein Play to Earn Game ([Zentangle.io](https://zentangle.io/)), über das er auch im Americas Meeting (Punkt 31) spricht. Interessant ist vor allem auch das Bieterverfahren das sie anwenden wollen. Man zahlt in IOTA und wenn einer mehr gezahlt hat bekommt man sein Geld automatisch zurück. 
@@ -43,5 +43,6 @@
 41. IOTA Weekly mit Chris Müller: [IOTAWeekly 028: IOTA Coordicide Kritik](https://www.youtube.com/watch?v=fqM5aTeh-iE&feature=youtu.be); Hier [auf englisch](https://www.youtube.com/watch?v=dx7aflxI570)
 42. Die NASDAQ Artikel: [3 Unique Cryptocurrencies That Can Turn $100,000 Into $300,000 by 2024](https://www.nasdaq.com/articles/3-unique-cryptocurrencies-that-can-turn-%24100000-into-%24300000-by-2024)
 43. Mat Yarger reagiert auf einen Tweet in dem gefragt wurde ob er sich mit einigen dieser großen Firmen getroffen hat mit diesem [Tweet](https://twitter.com/Mat_Yarger/status/1492286740991815683?s=20): "Not this time. I’ve met with almost all of those companies previously though" 
-44. 
+44. Dom hat mal wieder ein Keks gegessen mit "An optimistic outlook will take you far in the coming month": [Tweet](https://twitter.com/DomSchiener/status/1494776411227308035?s=20&t=kFXCAV8-SPErnqw0bFUB1Q)
+45. 
 
