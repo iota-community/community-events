@@ -47,4 +47,5 @@
 45. Neues IOTA NFT Projekt "IOTA robot club apes": [Tweet](https://twitter.com/IotaApes/status/1495112946841759756?s=20&t=KlVA6M1B-n2X_FbyeKqRmA)
 46. Neues IOTA NFT Projekt "PIPS": [Tweet](https://twitter.com/_illriz_/status/1494411315615612928?s=20&t=KlVA6M1B-n2X_FbyeKqRmA)
 47. Opensea.io hatte einen Bug: [OpenSea geht Gerüchten über NFT-Exploits im Wert von mehreren Millionen Dollar nach](https://www.kreuznacher-rundschau.de/opensea-geht-geruechten-ueber-nft-exploits-im-wert-von-mehreren-millionen-dollar-nach/)
+48. IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/160-wochenr%C3%BCckblick-vom-13-bis-19-februar-2022/)
 
