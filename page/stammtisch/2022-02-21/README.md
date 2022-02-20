@@ -44,5 +44,7 @@
 42. Die NASDAQ Artikel: [3 Unique Cryptocurrencies That Can Turn $100,000 Into $300,000 by 2024](https://www.nasdaq.com/articles/3-unique-cryptocurrencies-that-can-turn-%24100000-into-%24300000-by-2024)
 43. Mat Yarger reagiert auf einen Tweet in dem gefragt wurde ob er sich mit einigen dieser großen Firmen getroffen hat mit diesem [Tweet](https://twitter.com/Mat_Yarger/status/1492286740991815683?s=20): "Not this time. I’ve met with almost all of those companies previously though" 
 44. Dom hat mal wieder ein Keks gegessen mit "An optimistic outlook will take you far in the coming month": [Tweet](https://twitter.com/DomSchiener/status/1494776411227308035?s=20&t=kFXCAV8-SPErnqw0bFUB1Q)
-45. 
+45. Neues IOTA NFT Projekt "IOTA robot club apes": [Tweet](https://twitter.com/IotaApes/status/1495112946841759756?s=20&t=KlVA6M1B-n2X_FbyeKqRmA)
+46. Neues IOTA NFT Projekt "PIPS": [Tweet](https://twitter.com/_illriz_/status/1494411315615612928?s=20&t=KlVA6M1B-n2X_FbyeKqRmA)
+47. Opensea.io hatte einen Bug: [OpenSea geht Gerüchten über NFT-Exploits im Wert von mehreren Millionen Dollar nach](https://www.kreuznacher-rundschau.de/opensea-geht-geruechten-ueber-nft-exploits-im-wert-von-mehreren-millionen-dollar-nach/)
 
