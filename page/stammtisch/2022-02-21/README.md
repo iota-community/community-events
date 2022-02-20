@@ -49,4 +49,8 @@
 47. Opensea.io hatte einen Bug: [OpenSea geht Gerüchten über NFT-Exploits im Wert von mehreren Millionen Dollar nach](https://www.kreuznacher-rundschau.de/opensea-geht-geruechten-ueber-nft-exploits-im-wert-von-mehreren-millionen-dollar-nach/)
 48. IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/160-wochenr%C3%BCckblick-vom-13-bis-19-februar-2022/)
 49. ShimmerSea und IOTABots arbeiten jetzt zusammen: [Tweet](https://twitter.com/ShimmerSeaDefi/status/1495352530322145281?s=20&t=cq1VvW9FmROqR1l7rV5a2A)
+50. GreenNFT mit einem neuen NFT/Metavers Projekt: [Tweet](https://twitter.com/CastersOfGaia/status/1495356644611575812?s=20&t=CiijgEUKjv1t1WhaA4xWdw); Hier die [Webseite von Green NFT](https://greennfts.co.uk/)
+51. Vitalik Buterin mit Schlafanzug auf der ETH Denver: [Tweet](https://twitter.com/army_shiba/status/1495399132147630089?s=20&t=CiijgEUKjv1t1WhaA4xWdw)
+52. Interview mit Greg Martin von SoonLabs: [WAGMI Interviews – SoonLabs with Greg Martin](https://iotahispano.com/wagmi-interviews-soonlabs-with-greg-martin/)
+53. IOTACARDZ mit neuem NFT Projekt "IOTA Cards Punkz" auf [opensea](https://opensea.io/collection/iotacardz-punkz)
 
