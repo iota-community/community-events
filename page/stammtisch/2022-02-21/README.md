@@ -53,4 +53,5 @@
 51. Vitalik Buterin mit Schlafanzug auf der ETH Denver? [Tweet](https://twitter.com/army_shiba/status/1495399132147630089?s=20&t=CiijgEUKjv1t1WhaA4xWdw)
 52. Interview mit Greg Martin von SoonLabs: [WAGMI Interviews – SoonLabs with Greg Martin](https://iotahispano.com/wagmi-interviews-soonlabs-with-greg-martin/)
 53. IOTACARDZ mit neuem NFT Projekt "IOTA Cards Punkz" auf [opensea](https://opensea.io/collection/iotacardz-punkz)
+54. [Dlt.green](https://twitter.com/dlt_green) arbeitet fleißig an seinem Node Pool: [Tweet](https://twitter.com/dlt_green/status/1495367110339534849?s=20&t=CiijgEUKjv1t1WhaA4xWdw)
 
