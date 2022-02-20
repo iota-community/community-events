@@ -48,4 +48,5 @@
 46. Neues IOTA NFT Projekt "PIPS": [Tweet](https://twitter.com/_illriz_/status/1494411315615612928?s=20&t=KlVA6M1B-n2X_FbyeKqRmA)
 47. Opensea.io hatte einen Bug: [OpenSea geht Gerüchten über NFT-Exploits im Wert von mehreren Millionen Dollar nach](https://www.kreuznacher-rundschau.de/opensea-geht-geruechten-ueber-nft-exploits-im-wert-von-mehreren-millionen-dollar-nach/)
 48. IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/160-wochenr%C3%BCckblick-vom-13-bis-19-februar-2022/)
+49. ShimmerSea und IOTABots arbeiten jetzt zusammen: [Tweet](https://twitter.com/ShimmerSeaDefi/status/1495352530322145281?s=20&t=cq1VvW9FmROqR1l7rV5a2A)
 
