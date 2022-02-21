@@ -61,4 +61,5 @@
 59. STAGEHOLDERS vergeben 3 Soonaverse Awards für Leute die auf ihrer Webseite digitle IDs (auf Tangle Basis) erzeugen: [Tweet](https://twitter.com/einfachIOTA/status/1495751494414573571?s=20&t=g2RymnE1t95jLaNztrI-VA)
 60. GitHub: [Human Readable User Addresses in IOTA #64](https://github.com/iotaledger/tips/discussions/64)
 61. Tether und Lugano in der Schweiz wollen die Stadt zur europäischen Bitcoin Hauptstadt machen: [Tweet](https://twitter.com/Tether_to/status/1495709553010397185?s=20&t=FqLQQR-GHaJQ4pd2sp6yjQ)
+62. Es gab ein Update der Roadmap: [https://roadmap.iota.org/](https://roadmap.iota.org/)
 
