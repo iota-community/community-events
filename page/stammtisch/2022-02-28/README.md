@@ -7,4 +7,5 @@
 5. Moonaco Podcast mit IOTABots: [Spotify](https://open.spotify.com/episode/3VabodTvoQZocdKEpF8dUU?si=e84055ad49ea412c&nd=1); [Apple Podcast](https://podcasts.apple.com/at/podcast/the-moonaco-podcast/id1605887650?i=1000551868250)
 6. Assembly Office Hour: [Announcement-Tweet](https://twitter.com/assembly_net/status/1495775546499907586?s=20&t=zzIkvYSH_6MIbR7jTW5WlA)
 7. Marianna dela Roche [IF] war beim Event: “Women in Digital Governance” [Announcement-Tweet](https://twitter.com/iota/status/1495730280065376259?s=20&t=zzIkvYSH_6MIbR7jTW5WlA)
-8. 
+8. Cofounder und CEO von TenX hat wahrscheinlich damals den DAO Hack bei Ethereum gemacht: [Exclusive: Austrian Programmer And Ex Crypto CEO Likely Stole $11 Billion Of Ether](https://www.forbes.com/sites/laurashin/2022/02/22/exclusive-austrian-programmer-and-ex-crypto-ceo-likely-stole-11-billion-of-ether/?sh=7a3872e87f58); Julian Hosp [Tweet 1](https://twitter.com/julianhosp/status/1496086545086164993?s=20&t=zYG_cT_a0X4WX-sQyxzW5g) und [Tweet 2 (1/8)](https://twitter.com/julianhosp/status/1496112904705572865?s=20&t=zYG_cT_a0X4WX-sQyxzW5g)
+9. 
