@@ -11,3 +11,4 @@
 9. IOTABots öffnen ihren Discord Server: [Tweet](https://twitter.com/iotabots/status/1496148192131489806?s=20&t=CwU-V0xU6eIClf4huxUUVA)
 10. Merlo mit schönem NFT Projekt: [Tweet](https://twitter.com/MerloNFT/status/1389474877548158978?s=20&t=0O2LrgWzQltmQF_co8rOPg)
 11. Youtube: Jaytraiding mit [Iota 2.0 News | Vorteile KEINE Smart Contracts zu haben & Dust Protection](https://www.youtube.com/watch?v=uxmOOvmL9PQ)
+12. Kapy geht full time IOTA: [Tweet]
