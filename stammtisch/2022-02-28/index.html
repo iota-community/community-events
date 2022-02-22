@@ -1,0 +1,170 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>2022-02-28 - IOTA Stammtisch Themen</title>
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="../../">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../../stammtisch/welcome.html"><strong aria-hidden="true">1.</strong> Willkommen!</a></li><li class="chapter-item expanded "><a href="../../real_life/stammtisch/index.html"><strong aria-hidden="true">2.</strong> Real Life Stammtisch</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../real_life/stammtisch/berlin/index.html"><strong aria-hidden="true">2.1.</strong> Berlin</a></li><li class="chapter-item expanded "><a href="../../real_life/stammtisch/hamburg/index.html"><strong aria-hidden="true">2.2.</strong> Hamburg</a></li><li class="chapter-item expanded "><a href="../../real_life/stammtisch/mannheim/index.html"><strong aria-hidden="true">2.3.</strong> Mannheim</a></li><li class="chapter-item expanded "><a href="../../real_life/stammtisch/muenchen/index.html"><strong aria-hidden="true">2.4.</strong> München</a></li><li class="chapter-item expanded "><a href="../../real_life/stammtisch/saarbruecken/index.html"><strong aria-hidden="true">2.5.</strong> Saarbrücken</a></li><li class="chapter-item expanded "><a href="../../real_life/stammtisch/switzerland/index.html"><strong aria-hidden="true">2.6.</strong> Switzerland</a></li><li class="chapter-item expanded "><a href="../../real_life/stammtisch/south_tyrol/index.html"><strong aria-hidden="true">2.7.</strong> South Tyrol</a></li></ol></li><li class="chapter-item expanded "><a href="../../stammtisch/index.html"><strong aria-hidden="true">3.</strong> Virtual Stammtisch</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-03-01/index.html"><strong aria-hidden="true">4.</strong> 2021-03-01</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-03-08/index.html"><strong aria-hidden="true">5.</strong> 2021-03-08</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-03-15/index.html"><strong aria-hidden="true">6.</strong> 2021-03-15</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-03-22/index.html"><strong aria-hidden="true">7.</strong> 2021-03-22</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-03-29/index.html"><strong aria-hidden="true">8.</strong> 2021-03-29</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-04-05/index.html"><strong aria-hidden="true">9.</strong> 2021-04-05</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-04-12/index.html"><strong aria-hidden="true">10.</strong> 2021-04-12</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-04-19/index.html"><strong aria-hidden="true">11.</strong> 2021-04-19</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-04-26/index.html"><strong aria-hidden="true">12.</strong> 2021-04-26</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-05-03/index.html"><strong aria-hidden="true">13.</strong> 2021-05-03</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-05-10/index.html"><strong aria-hidden="true">14.</strong> 2021-05-10</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-05-17/index.html"><strong aria-hidden="true">15.</strong> 2021-05-17</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-05-24/index.html"><strong aria-hidden="true">16.</strong> 2021-05-24</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-05-31/index.html"><strong aria-hidden="true">17.</strong> 2021-05-31</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-06-07/index.html"><strong aria-hidden="true">18.</strong> 2021-06-07</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-06-14/index.html"><strong aria-hidden="true">19.</strong> 2021-06-14</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-06-21/index.html"><strong aria-hidden="true">20.</strong> 2021-06-21</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-06-28/index.html"><strong aria-hidden="true">21.</strong> 2021-06-28</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-07-05/index.html"><strong aria-hidden="true">22.</strong> 2021-07-05</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-07-12/index.html"><strong aria-hidden="true">23.</strong> 2021-07-12</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-07-19/index.html"><strong aria-hidden="true">24.</strong> 2021-07-19</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-07-26/index.html"><strong aria-hidden="true">25.</strong> 2021-07-26</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-08-02/index.html"><strong aria-hidden="true">26.</strong> 2021-08-02</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-08-09/index.html"><strong aria-hidden="true">27.</strong> 2021-08-09</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-08-16/index.html"><strong aria-hidden="true">28.</strong> 2021-08-16</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-08-23/index.html"><strong aria-hidden="true">29.</strong> 2021-08-23</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-08-30/index.html"><strong aria-hidden="true">30.</strong> 2021-08-30</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-09-06/index.html"><strong aria-hidden="true">31.</strong> 2021-09-06</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-09-13/index.html"><strong aria-hidden="true">32.</strong> 2021-09-13</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-09-20/index.html"><strong aria-hidden="true">33.</strong> 2021-09-20</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-09-27/index.html"><strong aria-hidden="true">34.</strong> 2021-09-27</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-10-04/index.html"><strong aria-hidden="true">35.</strong> 2021-10-04</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-10-11/index.html"><strong aria-hidden="true">36.</strong> 2021-10-11</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-10-18/index.html"><strong aria-hidden="true">37.</strong> 2021-10-18</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-10-25/index.html"><strong aria-hidden="true">38.</strong> 2021-10-25</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-11-01/index.html"><strong aria-hidden="true">39.</strong> 2021-11-01</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-11-08/index.html"><strong aria-hidden="true">40.</strong> 2021-11-08</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-11-15/index.html"><strong aria-hidden="true">41.</strong> 2021-11-15</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-11-22/index.html"><strong aria-hidden="true">42.</strong> 2021-11-22</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-11-29/index.html"><strong aria-hidden="true">43.</strong> 2021-11-29</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-12-06/index.html"><strong aria-hidden="true">44.</strong> 2021-12-06</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-12-13/index.html"><strong aria-hidden="true">45.</strong> 2021-12-13</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-12-20/index.html"><strong aria-hidden="true">46.</strong> 2021-12-20</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-12-27/index.html"><strong aria-hidden="true">47.</strong> 2021-12-27</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-01-03/index.html"><strong aria-hidden="true">48.</strong> 2022-01-03</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-01-10/index.html"><strong aria-hidden="true">49.</strong> 2022-01-10</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-01-17/index.html"><strong aria-hidden="true">50.</strong> 2022-01-17</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-01-24/index.html"><strong aria-hidden="true">51.</strong> 2022-01-24</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-01-31/index.html"><strong aria-hidden="true">52.</strong> 2022-01-31</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-02-07/index.html"><strong aria-hidden="true">53.</strong> 2022-02-07</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-02-14/index.html"><strong aria-hidden="true">54.</strong> 2022-02-14</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-02-21/index.html"><strong aria-hidden="true">55.</strong> 2022-02-21</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-02-28/index.html" class="active"><strong aria-hidden="true">56.</strong> 2022-02-28</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">IOTA Stammtisch Themen</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="2022-02-28"><a class="header" href="#2022-02-28">2022-02-28</a></h1>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../stammtisch/2022-02-21/index.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../stammtisch/2022-02-21/index.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        
+        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>
