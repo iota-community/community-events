@@ -11,6 +11,6 @@
 9. [NFT]: IOTABots öffnen ihren Discord Server: [Tweet](https://twitter.com/iotabots/status/1496148192131489806?s=20&t=CwU-V0xU6eIClf4huxUUVA)
 10. [NFT]: Merlo mit schönem NFT Projekt: [Tweet](https://twitter.com/MerloNFT/status/1389474877548158978?s=20&t=0O2LrgWzQltmQF_co8rOPg)
 11. [Youtube]: [Iota 2.0 News | Vorteile KEINE Smart Contracts zu haben & Dust Protection](https://www.youtube.com/watch?v=uxmOOvmL9PQ)
-12. Kapy geht full time IOTA: [Tweet](https://twitter.com/Rob_Daykin/status/1496192674981978116?s=20&t=76k9YvOb4-di-ENbh_dLCA)
+12. [IOTA-DEV]: Kapy geht full time IOTA: [Tweet](https://twitter.com/Rob_Daykin/status/1496192674981978116?s=20&t=76k9YvOb4-di-ENbh_dLCA)
 13. [DEX]: ShimmerSea announced, dass der Token von IOTABOTS der erste Community Token auf der DEX wird: [Tweet](https://twitter.com/ShimmerSeaDefi/status/1496379298961248259?s=20&t=KswbfpZuq2BEfJiQzAbaQQ)
 14. [Metaverse]: Sphere mit Teaser Video: [Tweet](https://twitter.com/Sphere_Hub_io/status/1496185591792345093?s=20&t=KswbfpZuq2BEfJiQzAbaQQ)
