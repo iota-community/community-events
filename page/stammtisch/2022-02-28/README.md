@@ -19,3 +19,4 @@
 17. **IOTA Ökosystem**: TangleEE working group von der Eclipse Foundation wird eingestellt wegen zu wenigem Engagement: [Tangle EE Working Group Termination Announcement](https://www.eclipse.org/lists/tangle.ee-wg/msg00087.html)
 18. **Crypto news**: [Affe weg, Klage da: Texaner zieht wegen Bored Ape-Bild vor Gericht](https://t3n.de/news/affe-weg-klage-da-texaner-zieht-1453955/)
 19. **Real World News**: [EU schafft Rechtssicherheit für die Datenwirtschaft – Die EU öffnet das Internet der Dinge](https://www.handelsblatt.com/politik/international/data-act-eu-schafft-rechtssicherheit-fuer-die-datenwirtschaft-die-eu-oeffnet-das-internet-der-dinge/28093682.html?utm_term=organisch&utm_campaign=standard&utm_medium=social&utm_content=ne&utm_source=Facebook&ticket=ST-55418-k2HfbSCamgJBM19eSO7w-ap4#Echobox=1645595332)
+20. **IOTA Adoption**: IOTA gelistet auf DigiFinex: [Tweet](https://twitter.com/DigiFinex/status/1496452929070706691?s=20&t=KswbfpZuq2BEfJiQzAbaQQ)
