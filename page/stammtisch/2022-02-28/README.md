@@ -47,3 +47,5 @@
 45. **YouTube**: DEXes [veröffentlichen](https://twitter.com/_DEXES_/status/1497148996166561808?s=20&t=N8YCNsTuXUbjhBtIvp4gYA) ihr neues Video: [🔎DAO & IOTA🔍 - Voting der Zukunft?! ⚠️ decentralized autonomous organization #greentech](https://www.youtube.com/watch?v=U8-TecEhfys)
 46. **YouTube**: IOTAWeekly 029: "SORRY (food for thought)" [auf deutsch](https://www.youtube.com/watch?v=dCFY97GaC-0) und [auf englisch](https://www.youtube.com/watch?v=yjUbAIpZtA8)
 47. **IOTA Artikel**: [DEZENTRALE FINANZIERUNG BALD MIT IOTA’S ASMB MÖGLICH](https://krypto-guru.de/news/defi-iota-asmb/)
+48. **IF-Tweet**: Der [Tweet von der IF](https://twitter.com/iota/status/1497240448091447297?s=20&t=jjYBAmAYO7HOucRYA7liGA) macht Werbung für die Mithilfe bei wiki.iota.org. Es gibt einen [Technical Writer's Guide](https://wiki.iota.org/participate/contribute-to-wiki/for_tws/writer_guide)
+49. **NFT/Metaverse/WEB30**: Die IOTAPunks machen gemeinsame Sache mit den Magic Voodoo Dolls: [Tweet](https://twitter.com/IotaPunks_71/status/1497240938061733891?s=20&t=jjYBAmAYO7HOucRYA7liGA)
