@@ -1,6 +1,6 @@
 ## Stammtischthemen fuer den 28.02.2022
 
-1. **IF-Youtube**: [IOTA Quicktakes 21.02.2022: IOTA Research Summit, Upcoming Events and more!](https://www.youtube.com/watch?v=z-JCtsqfGfM)
+1. **IF-YouTube**: [IOTA Quicktakes 21.02.2022: IOTA Research Summit, Upcoming Events and more!](https://www.youtube.com/watch?v=z-JCtsqfGfM)
 2. **IOTA Ökosystem**: SoonLabs veröffentlicht ihren Plan in Kanada ihr Token LaunchPad zu zertifizieren: [Tweet](https://twitter.com/soon_labs/status/1496007167689822211?s=20&t=6w9DHWv2FCjA4TE8iGlQhw)
 3. **IOTA Ökosystem**: Adam von SoonLabs [tweetet](https://twitter.com/adam_unchained/status/1495981188355350530?s=20&t=6w9DHWv2FCjA4TE8iGlQhw) darüber, dass heute der NFT Marketplace für die erweiterte Testgruppe startet
 4. **IOTA Ökosystem**: Neue Fotos von der IOTA Soccer Mannschaft in Indien: [Tweet](https://twitter.com/IOTASoccerTeam/status/1495903753463304192?s=20&t=6w9DHWv2FCjA4TE8iGlQhw)
@@ -10,7 +10,7 @@
 8. **Crypto news**: Cofounder und CEO von TenX hat wahrscheinlich damals den DAO Hack bei Ethereum gemacht: [Exclusive: Austrian Programmer And Ex Crypto CEO Likely Stole $11 Billion Of Ether](https://www.forbes.com/sites/laurashin/2022/02/22/exclusive-austrian-programmer-and-ex-crypto-ceo-likely-stole-11-billion-of-ether/?sh=7a3872e87f58); Julian Hosp [Tweet 1](https://twitter.com/julianhosp/status/1496086545086164993?s=20&t=zYG_cT_a0X4WX-sQyxzW5g) und [Tweet 2 (1/8)](https://twitter.com/julianhosp/status/1496112904705572865?s=20&t=zYG_cT_a0X4WX-sQyxzW5g); Hosp hat dazu natürlich auch ein Video gemacht: [BREAKING!! TENX CO-FOUNDER TOBY HOENISCH HACKED THE DAO??](https://www.youtube.com/watch?v=3zcQgc0K2cs); Laura Shin [Tweetstorm](https://twitter.com/laurashin/status/1496087239037698048?s=20&t=KswbfpZuq2BEfJiQzAbaQQ)
 9. **NFT/Metaverse/WEB30**: IOTABots öffnen ihren Discord Server: [Tweet](https://twitter.com/iotabots/status/1496148192131489806?s=20&t=CwU-V0xU6eIClf4huxUUVA)
 10. **NFTMetaverse/WEB30**: Merlo mit schönem NFT Projekt: [Tweet](https://twitter.com/MerloNFT/status/1389474877548158978?s=20&t=0O2LrgWzQltmQF_co8rOPg)
-11. **Youtube**: [Iota 2.0 News | Vorteile KEINE Smart Contracts zu haben & Dust Protection](https://www.youtube.com/watch?v=uxmOOvmL9PQ)
+11. **YoutTube**: [Iota 2.0 News | Vorteile KEINE Smart Contracts zu haben & Dust Protection](https://www.youtube.com/watch?v=uxmOOvmL9PQ)
 12. **IOTA-DEV**: Kapy geht full time IOTA: [Tweet](https://twitter.com/Rob_Daykin/status/1496192674981978116?s=20&t=76k9YvOb4-di-ENbh_dLCA)
 13. **DeFi**: ShimmerSea announced, dass der Token von IOTABOTS der erste Community Token auf der DEX wird: [Tweet](https://twitter.com/ShimmerSeaDefi/status/1496379298961248259?s=20&t=KswbfpZuq2BEfJiQzAbaQQ)
 14. **NFT/Metaverse/Web30**: Sphere mit Teaser Video: [Tweet](https://twitter.com/Sphere_Hub_io/status/1496185591792345093?s=20&t=KswbfpZuq2BEfJiQzAbaQQ)
@@ -36,3 +36,8 @@
 34. **IOTA DEV**: Zusammenfassung: [Protocol group - Week 7, 2022](https://github.com/iotaledger/research-updates/discussions/11)
 35. **IOTA Ökosystem**: Soonlabs [veröffentlicht](https://twitter.com/soon_labs/status/1497075994590515203?s=20&t=N8YCNsTuXUbjhBtIvp4gYA) Angaben zum NF3 Verkauf: [The NF3 Sale is almost here!](https://soonlabs.medium.com/the-nf3-sale-is-almost-here-71c2c610c2ae); In einem Video sieht man wie man seine Firefly Adresse mit Soonaverse verbindet: [NFT Marketplace - Wallet Verification](https://soonlabs.medium.com/the-nf3-sale-is-almost-here-71c2c610c2ae)
 36. **IOTA Event**: Sabon von LendeXe war im Sprachchat von der Tanglegang
+37. **IOTA Ökosystem**: IotaOrigin, die im letzten Tweet(https://twitter.com/origin_iota/status/1496233840284602369?s=20&t=N8YCNsTuXUbjhBtIvp4gYA) geschrieben haben sie bringen "Mining to the Tangle", werden von dem "German Federal Ministry for Economic Affairs and Climate Action" gefördert: [Tweet 1/6](https://twitter.com/origin_iota/status/1497209486049693703?s=20&t=N8YCNsTuXUbjhBtIvp4gYA)
+38. Die ETO-Gruppe investiert in FilancoreGmbH(https://twitter.com/EtoGruppe/status/1497182687957766150?s=20&t=N8YCNsTuXUbjhBtIvp4gYA); Mehr dazu im Bericht: [Weiterer Meilenstein auf dem Weg in die digitale Zukunft: ETO GRUPPE investiert in Filancore GmbH](https://www.etogruppe.com/news/aktuelles-von-eto/weiterer-meilenstein-auf-dem-weg-in-die-digitale-zukunft-eto-gruppe-investiert-in-filancore-gmbh.html); Jelle Millenar ist begeistert: [Tweet](https://twitter.com/JelleFm/status/1497188457415946243?s=20&t=N8YCNsTuXUbjhBtIvp4gYA)
+39. **YouTube**: DEXes [veröffentlichen](https://twitter.com/_DEXES_/status/1497148996166561808?s=20&t=N8YCNsTuXUbjhBtIvp4gYA) ihr neues Video: [🔎DAO & IOTA🔍 - Voting der Zukunft?! ⚠️ decentralized autonomous organization #greentech](https://www.youtube.com/watch?v=U8-TecEhfys)
+40. **YouTube**: IOTAWeekly 029: "SORRY (food for thought)" [auf deutsch](https://www.youtube.com/watch?v=dCFY97GaC-0) und [auf englisch](https://www.youtube.com/watch?v=yjUbAIpZtA8)
+41. **IOTA Article**: [DEZENTRALE FINANZIERUNG BALD MIT IOTA’S ASMB MÖGLICH](https://krypto-guru.de/news/defi-iota-asmb/)
