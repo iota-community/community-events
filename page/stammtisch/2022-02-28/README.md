@@ -59,3 +59,4 @@
 57. Elon Musk mit aktiviert Starlink für die Ukraine (freies Internet): [Tweet](https://twitter.com/elonmusk/status/1497701484003213317?s=20)
 58. **IF Event** soon: Zusammen mit ensuresec in Barcelona: [Tweet](https://twitter.com/michelenati/status/1497303943780741123?s=20)
 59. **IF Event**: Assembly Open Office Hour am Montag: [Tweet](https://twitter.com/assembly_net/status/1497949725957443584?s=20)
+60. **IOTA News**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/162-wochenr%C3%BCckblick-vom-20-bis-26-februar-2022/); auf [englisch](https://www.iota-talk.com/index.php?article/163-week-in-review-from-20th-to-26nd-february-2022/)
