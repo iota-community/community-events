@@ -49,3 +49,8 @@
 47. **IOTA Artikel**: [DEZENTRALE FINANZIERUNG BALD MIT IOTA’S ASMB MÖGLICH](https://krypto-guru.de/news/defi-iota-asmb/)
 48. **IF-Tweet**: Der [Tweet von der IF](https://twitter.com/iota/status/1497240448091447297?s=20&t=jjYBAmAYO7HOucRYA7liGA) macht Werbung für die Mithilfe bei wiki.iota.org. Es gibt einen [Technical Writer's Guide](https://wiki.iota.org/participate/contribute-to-wiki/for_tws/writer_guide)
 49. **NFT/Metaverse/WEB30**: Die IOTAPunks machen gemeinsame Sache mit den Magic Voodoo Dolls: [Tweet](https://twitter.com/IotaPunks_71/status/1497240938061733891?s=20&t=jjYBAmAYO7HOucRYA7liGA)
+50. **NFT/Metaverse/WEB30**: IOTACardz machen gemeinsame Sache mit Life of Fruits: [Tweet](https://twitter.com/NFTiotacardz/status/1497607714507218958?s=20)
+51. **IOTA Artikel**: [The Soonaverse NFT Marketplace - a first look](https://buidlassembly.com/Soonaverse_NFT_marketplace_1.html)
+52. **NFT/Metaverse/WEB30**: IOTAholics [veröffentlichen](https://twitter.com/iotaholics/status/1497445718851788801?s=20) ihre neue Webseite: [iotaholics.io](https://iotaholics.io/)
+53. **IOTA Adaption**: CitiCoin in Miami mit $5 Millionen funding: [Tweet](https://twitter.com/iGregoryJohnson/status/1497328126807851008?s=20)
+54. 
