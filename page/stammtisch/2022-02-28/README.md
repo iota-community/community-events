@@ -60,3 +60,8 @@
 58. **IF Event** soon: Zusammen mit ensuresec in Barcelona: [Tweet](https://twitter.com/michelenati/status/1497303943780741123?s=20)
 59. **IF Event**: Assembly Open Office Hour am Montag: [Tweet](https://twitter.com/assembly_net/status/1497949725957443584?s=20)
 60. **IOTA News**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/162-wochenr%C3%BCckblick-vom-20-bis-26-februar-2022/); auf [englisch](https://www.iota-talk.com/index.php?article/163-week-in-review-from-20th-to-26nd-february-2022/)
+61. **IOTA Drama**: Sony Semicon [tweetet](https://twitter.com/sonysemiconil/status/1498180812017225730?s=20&t=7eBYHY6jmTqHN1y-sYyuhA) wohl aus Versehen mit dem Hashtag #IOTA
+62. **NFT/Metaverse/WEB30**: Magic Meme Money Partnerschaft mit TangleBees: [Tweet](https://twitter.com/Magic_MemeMoney/status/1498265094848921606?s=20&t=7eBYHY6jmTqHN1y-sYyuhA)
+63. **IOTA Ökosystme**: TangleSwap scheint bereits zu 98% fertig zu sein. Sie warten nur noch auf die Smart Contracts von der IF: [Tweet](https://twitter.com/TangleSwapE/status/1498237516935221258?s=20&t=3pmLEvOXSceEHAKf6YmnOg)
+64. **NFT/Metaverse/WEB30**: Neues IOTA [NFT Projekt "GAVIOTAS"](https://twitter.com/Gav_iotas)
+65. **NFT/Metaverse/WEB30**: Casters of Gaja (Metaverse Projekt) mit ein paar Teaser-Tweets: [Tweet 1](https://twitter.com/CastersOfGaia/status/1498001144550936577?s=20&t=M1Z0ZRnXLNXYT6bRYrODdQ); [Tweet 2](https://twitter.com/CastersOfGaia/status/1498221261230686210?s=20&t=M1Z0ZRnXLNXYT6bRYrODdQ)
