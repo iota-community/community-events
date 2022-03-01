@@ -8,4 +8,5 @@
 6. **IOTA Tutorial**: SoonLabs hat auch ein Gitbook geschreiben: [What is the Soonaverse?](https://docs.soonaverse.com/welcome-to-gitbook/)
 7. **IOTA Artikel**: Sabo von LendeXe schreibt: [Next Chapter 2 — The adventure inside IOTA](https://medium.com/@sabog/next-chapter-2-the-adventure-inside-iota-6dbd74177661)
 8. **IOTA NFT**: IOTAPunks und TangleBees Partnerschaft: [Tweet](https://twitter.com/IotaPunks_71/status/1498583844034953217?s=20&t=vbABUqyHW7VEHXAt0zrwTQ)
-9. 
+9. **IOTA Ökosystem**: SoonLabs NF3 Verkauf: [Tweet](https://twitter.com/soon_labs/status/1498768847066726400?s=20&t=lvPBytz3E-Anllssb3biwA) 
+10. 
