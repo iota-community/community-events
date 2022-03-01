@@ -7,3 +7,5 @@
 5. **YouTube Tutorial**: [Soonaverse NFT Tutorial - Add Multiple NFT's to a Collection](https://www.youtube.com/watch?v=svB25j2mdYo); [Soonaverse NFT Tutorial - Add Single NFT to a Collection](https://www.youtube.com/watch?v=VgLZw48pAaA); [Soonaverse NFT Tutorial - Create an NFT Collection](https://www.youtube.com/watch?v=nbhIDBWOKOU&t=48s)
 6. **IOTA Tutorial**: SoonLabs hat auch ein Gitbook geschreiben: [What is the Soonaverse?](https://docs.soonaverse.com/welcome-to-gitbook/)
 7. **IOTA Artikel**: Sabo von LendeXe schreibt: [Next Chapter 2 — The adventure inside IOTA](https://medium.com/@sabog/next-chapter-2-the-adventure-inside-iota-6dbd74177661)
+8. **IOTA NFT**: IOTAPunks und TangleBees Partnerschaft: [Tweet](https://twitter.com/IotaPunks_71/status/1498583844034953217?s=20&t=vbABUqyHW7VEHXAt0zrwTQ)
+9. 
