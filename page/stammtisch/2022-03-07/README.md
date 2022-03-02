@@ -20,3 +20,4 @@
 18. **IOTA Ökosystem**: SoonLabs will Soon Token an NF3 Holder verteilen: [Tweet](https://twitter.com/soon_labs/status/1498902188470390788?s=20&t=wkUvWqteMDFQf19by2lbJg); Wie genau das mit den NF3 funktioniert, hat Luis in seinem [Tweet 1/6](https://twitter.com/58Wast/status/1498967709928853505?s=20&t=wkUvWqteMDFQf19by2lbJg) gut erklärt
 19. **IOTA NFT**: [Nebula Tanlge](https://twitter.com/NebulaTangle) mit neuem NFT Projekt: [Tweet](https://twitter.com/NebulaTangle/status/1498984052807933954?s=20&t=wkUvWqteMDFQf19by2lbJg)
 20. **IOTA NFT**: [Gaviotas](https://twitter.com/Gav_iotas) haben ihre [neue Webseite](https://gaviotas.io/) veröffentlicht
+21. **IOTA intern**: 6 neue Mitarbeiter bei der IF: [Tweet](https://twitter.com/iota/status/1499052460794695690?s=20&t=hdiaiNOYguZ8hmYXUDfSJQ)
