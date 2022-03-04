@@ -40,4 +40,4 @@
 38. **IOTA Artikel**: Contelegraph hat ein Interview mit N.Ramaschandran gemacht: [How behavioral tokenomics could facilitate the creation of a circular economy](https://cointelegraph.com/news/how-behavioral-tokenomics-could-facilitate-the-creation-of-a-circular-economy)
 39. **IOTA Adaption**: Bit2me added IOTA (momischer Weise mit falschem Symbol) auf ihrer Börse: [8 New Cryptocurrencies Added to Bit2Me Wallet](https://medium.com/@bit2me_global/8-new-cryptocurrencies-added-to-bit2me-wallet-e81a8ad0f6ba)
 40. **IOTA DeFi Adaption**: TripleFi [tweetet](https://twitter.com/TripleFi_/status/1499590041286307840?s=20&t=fVTsBtk2pXF6V9EUyh5mtQ) darüber, dass sie ihr DeFi Produkt von Polygon auf IOTA/Assembly umstellen wollen. Hier deren Webseite/App: [triple.fi](https://triple.fi/)
-41. 
+41. **IOTA NFT**: [TreeIOTA mit 6 Tweets](https://twitter.com/TreeIOTA/status/1499668376813244416?s=20&t=VmCOwy7C1TNCYkq6_G257g) über ihren Plan Bäume zu pflanzen für alle Einnahmen die sie bekommen
