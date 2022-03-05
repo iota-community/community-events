@@ -46,4 +46,4 @@
 44. **IOTA Ökosystem**: Mesh+ [tweetet](https://twitter.com/iotaMESH/status/1499341816897757186?s=20&t=VmCOwy7C1TNCYkq6_G257g) über ihre Tokenomics, die in einem wissenschaftlichen Magazin veröffentlicht wurden:  [Creation of a Self-Sustaining Token Economy](https://jbba.scholasticahq.com/article/32985-creation-of-a-self-sustaining-token-economy)
 45. **IOTA Youtube**: [IOTAWeekly 030: IOTA's Smart Contract Lösung Assembly](https://www.youtube.com/watch?v=ICa5YA8CAGQ); auf [englisch](https://www.youtube.com/watch?v=sNWOfV86jqw)
 46. **IOTA Adoption**: In 3 Tagen gingen mehr als 1Tiota über den Ladentisch von Soonaverse: [Tweet](https://twitter.com/adam_unchained/status/1499808423365713925?s=20&t=gCi6KDYZNgD8Gl1XTVnTDQ)
-47. 
+47. **IOTA NFT**: Rusty Robots bringen ein NFT Comic heraus: [Tweet](https://twitter.com/RustyRobotCC/status/1499746987079454724?s=20&t=gCi6KDYZNgD8Gl1XTVnTDQ)
