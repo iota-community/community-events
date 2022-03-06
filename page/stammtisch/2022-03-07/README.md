@@ -47,3 +47,11 @@
 45. **IOTA Youtube**: [IOTAWeekly 030: IOTA's Smart Contract Lösung Assembly](https://www.youtube.com/watch?v=ICa5YA8CAGQ); auf [englisch](https://www.youtube.com/watch?v=sNWOfV86jqw)
 46. **IOTA Adoption**: In 3 Tagen gingen mehr als 1Tiota über den Ladentisch von Soonaverse: [Tweet](https://twitter.com/adam_unchained/status/1499808423365713925?s=20&t=gCi6KDYZNgD8Gl1XTVnTDQ)
 47. **IOTA NFT**: Rusty Robots bringen ein NFT Comic heraus: [Tweet](https://twitter.com/RustyRobotCC/status/1499746987079454724?s=20&t=gCi6KDYZNgD8Gl1XTVnTDQ)
+48. **IOTA NFT**: IOTA NFT Projekt Casters of Gaia [tweetet](https://twitter.com/CastersOfGaia/status/1500417534910251011?s=20&t=DQbXiw07pqPhTz36lHoq_A) über ein YouTube Video: [Casters of Gaia Launch Video](https://www.youtube.com/watch?v=uBxEn_CS1p4) in dem auch über IOTA und Green NFT gesprochen wird
+49. **IOTA NFT*: Neues IOTA NFT Projekt "IOTAliens": [Tweet](https://twitter.com/IOTALIENS/status/1500372321151946753?s=20&t=DQbXiw07pqPhTz36lHoq_A)
+50. **IOTA NFT**: Neues IOTA NFT Projekt "NFTBots": [NFTBots auf Twitter](https://twitter.com/NFTBots1)
+51. **IOTA NFT**: Neues IOTA NFT Projekt "Syborgs": [Syborgs auf Twitter](https://twitter.com/SyborgsNFT)
+52. **IOTA NFT**: Neues IOTA NFT Projekt "Animal Rebel": [Animal Rebels auf Twitter](https://twitter.com/rebel_animal)
+53. **IOTA NFT**: Neues IOTA NFT Projekt"Rave the future" [Rave the future auf Twitter](https://twitter.com/ravethefuture); Hier noch ein wichtiger [Tweet](https://twitter.com/kurazav/status/1500231284785831945?s=20&t=DQbXiw07pqPhTz36lHoq_A) dazu
+54. **IOTA Dev**: Kit_strong [tweetet](https://twitter.com/KIT_strong_WING/status/1498788467005874183?s=20&t=DQbXiw07pqPhTz36lHoq_A) über [https://pay-per-content.com/](https://pay-per-content.com/) ein Plugin für Webseiten um IOTA Pay Per Content Inhalte anzubieten. Dort wurden jetzt auch QR-Codes implementiert.
+55. 
