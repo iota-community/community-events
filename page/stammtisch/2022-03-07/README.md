@@ -49,7 +49,7 @@
 47. **IOTA Adoption**: In 3 Tagen gingen mehr als 1Tiota über den Ladentisch von Soonaverse: [Tweet](https://twitter.com/adam_unchained/status/1499808423365713925?s=20&t=gCi6KDYZNgD8Gl1XTVnTDQ)
 48. **IOTA NFT**: Rusty Robots bringen ein NFT Comic heraus: [Tweet](https://twitter.com/RustyRobotCC/status/1499746987079454724?s=20&t=gCi6KDYZNgD8Gl1XTVnTDQ)
 49. **IOTA NFT**: IOTA NFT Projekt Casters of Gaia [tweetet](https://twitter.com/CastersOfGaia/status/1500417534910251011?s=20&t=DQbXiw07pqPhTz36lHoq_A) über ein YouTube Video: [Casters of Gaia Launch Video](https://www.youtube.com/watch?v=uBxEn_CS1p4) in dem auch über IOTA und Green NFT gesprochen wird
-50. **IOTA NFT*: Neues IOTA NFT Projekt "IOTAliens": [Tweet](https://twitter.com/IOTALIENS/status/1500372321151946753?s=20&t=DQbXiw07pqPhTz36lHoq_A)
+50. **IOTA NFT**: Neues IOTA NFT Projekt "IOTAliens": [Tweet](https://twitter.com/IOTALIENS/status/1500372321151946753?s=20&t=DQbXiw07pqPhTz36lHoq_A)
 51. **IOTA NFT**: Neues IOTA NFT Projekt "NFTBots": [NFTBots auf Twitter](https://twitter.com/NFTBots1)
 52. **IOTA NFT**: Neues IOTA NFT Projekt "Syborgs": [Syborgs auf Twitter](https://twitter.com/SyborgsNFT)
 53. **IOTA NFT**: Neues IOTA NFT Projekt "Animal Rebel": [Animal Rebels auf Twitter](https://twitter.com/rebel_animal)
