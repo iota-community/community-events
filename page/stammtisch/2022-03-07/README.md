@@ -55,6 +55,6 @@
 53. **IOTA NFT**: Neues IOTA NFT Projekt "Animal Rebel": [Animal Rebels auf Twitter](https://twitter.com/rebel_animal)
 54. **IOTA NFT**: Neues IOTA NFT Projekt "No Face IOTA":[No Face IOTA](https://twitter.com/no_face_iota/status/1500530649979105289?s=20&t=DQbXiw07pqPhTz36lHoq_A)
 55. **IOTA NFT**: Neues IOTA NFT Projekt"Rave the future" [Rave the future auf Twitter](https://twitter.com/ravethefuture); Hier noch ein wichtiger [Tweet](https://twitter.com/kurazav/status/1500231284785831945?s=20&t=DQbXiw07pqPhTz36lHoq_A) dazu
-56. **IOTA Dev**: Kit_strong [tweetet](https://twitter.com/KIT_strong_WING/status/1498788467005874183?s=20&t=DQbXiw07pqPhTz36lHoq_A) über [https://pay-per-content.com/](https://pay-per-content.com/) ein Plugin für Webseiten um IOTA Pay Per Content Inhalte anzubieten. Dort wurden jetzt auch QR-Codes implementiert.
+56. **IOTA Dev**: Kit_strong [tweetet](https://twitter.com/KIT_strong_WING/status/1498788467005874183?s=20&t=DQbXiw07pqPhTz36lHoq_A) über [pay-per-content.com/](https://pay-per-content.com/) ein Plugin für Webseiten um IOTA Pay Per Content Inhalte anzubieten. Dort wurden jetzt auch QR-Codes implementiert.
 57. **Crypto News**: Eric Wall mit einem [Tweetstorm](https://twitter.com/ercwl/status/1498380832058265607?s=20&t=DQbXiw07pqPhTz36lHoq_A) und einigen Beispielen warum Crypto durch den Krieg gerade wichtig wird in der realen Welt
 58. **IOTA Dev**: "Ascend Data Tech" haben irgendwas mit IOTA gebaut...[Tweet](https://twitter.com/AscendDataTech/status/1500583771569111040?s=20&t=NmNazDIbnbK94mi5snQcJA)
