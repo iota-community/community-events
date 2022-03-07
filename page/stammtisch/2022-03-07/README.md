@@ -59,3 +59,6 @@
 57. **Crypto News**: Eric Wall mit einem [Tweetstorm](https://twitter.com/ercwl/status/1498380832058265607?s=20&t=DQbXiw07pqPhTz36lHoq_A) und einigen Beispielen warum Crypto durch den Krieg gerade wichtig wird in der realen Welt
 58. **IOTA Dev**: "Ascend Data Tech" haben irgendwas mit IOTA gebaut...[Tweet](https://twitter.com/AscendDataTech/status/1500583771569111040?s=20&t=NmNazDIbnbK94mi5snQcJA)
 59. **IOTA Stammtisch**: Morgen ist IOTA Stammtisch in Stuttgart: [Tweet](https://twitter.com/IotaStuttgart/status/1500718324635865090?s=20&t=SL5Vn8pq3RrNiqz40Aeshg); [Event auf Meetup.com](https://www.meetup.com/de-DE/iota-stuttgart/events/284099299)
+60. **IOTA Dev**: Es gab ein weekly update der IF: [Networking group - Week 9, 2022 GoShimmer implementation of ICCA](https://github.com/iotaledger/research-updates/discussions/16)
+61. **IOTA Artikel**: Filancore Artikel: [Enabling the vision of IoT with decentralized identities](https://filancoregmbh.medium.com/enabling-the-vision-of-iot-with-decentralized-identities-1992b7bdb741)
+
