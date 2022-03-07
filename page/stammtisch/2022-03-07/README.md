@@ -58,3 +58,4 @@
 56. **IOTA Dev**: Kit_strong [tweetet](https://twitter.com/KIT_strong_WING/status/1498788467005874183?s=20&t=DQbXiw07pqPhTz36lHoq_A) über [pay-per-content.com/](https://pay-per-content.com/) ein Plugin für Webseiten um IOTA Pay Per Content Inhalte anzubieten. Dort wurden jetzt auch QR-Codes implementiert.
 57. **Crypto News**: Eric Wall mit einem [Tweetstorm](https://twitter.com/ercwl/status/1498380832058265607?s=20&t=DQbXiw07pqPhTz36lHoq_A) und einigen Beispielen warum Crypto durch den Krieg gerade wichtig wird in der realen Welt
 58. **IOTA Dev**: "Ascend Data Tech" haben irgendwas mit IOTA gebaut...[Tweet](https://twitter.com/AscendDataTech/status/1500583771569111040?s=20&t=NmNazDIbnbK94mi5snQcJA)
+59. **IOTA Stammtisch**: Morgen ist IOTA Stammtisch in Stuttgart: [Tweet](https://twitter.com/IotaStuttgart/status/1500718324635865090?s=20&t=SL5Vn8pq3RrNiqz40Aeshg); [Event auf Meetup.com](https://www.meetup.com/de-DE/iota-stuttgart/events/284099299)
