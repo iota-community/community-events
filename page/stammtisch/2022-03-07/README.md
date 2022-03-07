@@ -62,4 +62,6 @@
 60. **IOTA Dev**: Es gab ein weekly update der IF: [Networking group - Week 9, 2022 GoShimmer implementation of ICCA](https://github.com/iotaledger/research-updates/discussions/16)
 61. **IOTA Artikel**: Filancore Artikel: [Enabling the vision of IoT with decentralized identities](https://filancoregmbh.medium.com/enabling-the-vision-of-iot-with-decentralized-identities-1992b7bdb741)
 62. **IOTA Adoption**: Neues von Mesh+: [Tweet mit Video](https://twitter.com/iotaMESH/status/1500810311754035201?s=20&t=F829A3AxMRCPpCz32UDfrQ)
+63. **IOTA Artikel**: Sabo von LendeXe mit einem neuen Artikel: [LendeXe: Heralding a new chapter in the IOTA ecosystem.](https://medium.com/@LendeXeFinance/lendexe-heralding-a-new-chapter-in-the-iota-ecosystem-f6fdb594e0a7)
+64. **IOTA P2E**: Digirockets bald auf Soonaverse: [Tweet](https://twitter.com/DigiMine_/status/1500764970006552579?s=20&t=jazNorr9BZgdD8SNQcZEMA)
 
