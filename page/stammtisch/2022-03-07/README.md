@@ -61,4 +61,5 @@
 59. **IOTA Stammtisch**: Morgen ist IOTA Stammtisch in Stuttgart: [Tweet](https://twitter.com/IotaStuttgart/status/1500718324635865090?s=20&t=SL5Vn8pq3RrNiqz40Aeshg); [Event auf Meetup.com](https://www.meetup.com/de-DE/iota-stuttgart/events/284099299)
 60. **IOTA Dev**: Es gab ein weekly update der IF: [Networking group - Week 9, 2022 GoShimmer implementation of ICCA](https://github.com/iotaledger/research-updates/discussions/16)
 61. **IOTA Artikel**: Filancore Artikel: [Enabling the vision of IoT with decentralized identities](https://filancoregmbh.medium.com/enabling-the-vision-of-iot-with-decentralized-identities-1992b7bdb741)
+62. **IOTA Adoption**: Neuse von Mesh+: [Tweet mit Video](https://twitter.com/iotaMESH/status/1500810311754035201?s=20&t=F829A3AxMRCPpCz32UDfrQ)
 
