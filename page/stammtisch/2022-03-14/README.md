@@ -9,3 +9,7 @@
 7. **IOTA Dev**: Die IF [tweetet](https://twitter.com/iota/status/1501513168144719876?s=20&t=vsMKQtVrduEd1k6JHhMnmw) über [IOTA Integration Services Java SDK](https://github.com/albydeca/iota-is-sdk)
 8. **IOTA Audio**: IOTA Nigeria [tweetet 1/8](https://twitter.com/IotaNigeria/status/1501531909771468803?s=20&t=vsMKQtVrduEd1k6JHhMnmw) eine Zusammenfassung von dem Twitter Space Voicechat
 9. **IOTA Adaption**: Jelle Millenar mit Vortrag bei der Uni: [Tweet](https://twitter.com/JelleFm/status/1501499770443083780?s=20&t=vsMKQtVrduEd1k6JHhMnmw)
+10. **IOTA Event**: [Tweet](https://twitter.com/iota/status/1501589020593303566?s=20&t=Ax1-z62k-PFuiLDozibTwA) von der IF über das Seminar “Defending Human & Civil Rights in Society and Business” am 10.3.22
+11. **IF Intern**: Neue IF Stellenausschreibung: [Senior Software Engineer](https://iota.bamboohr.com/jobs/view.php?id=193) 
+12. **IOTA dev**: [Tweet der IF](https://twitter.com/iota/status/1501574029211222023?s=20&t=Ax1-z62k-PFuiLDozibTwA) über diesen Blogpost: [Request for Proposals: Login with IOTA](https://blog.iota.org/request-for-proposals-login-with-iota/)
+13. **IOTA dev**: [GoShimmer - Sprint Planning Weeks 10-11, 2022 #18](https://github.com/iotaledger/research-updates/discussions/18)
