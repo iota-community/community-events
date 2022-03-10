@@ -13,3 +13,9 @@
 11. **IF Intern**: Neue IF Stellenausschreibung: [Senior Software Engineer](https://iota.bamboohr.com/jobs/view.php?id=193) 
 12. **IOTA dev**: [Tweet der IF](https://twitter.com/iota/status/1501574029211222023?s=20&t=Ax1-z62k-PFuiLDozibTwA) über diesen Blogpost: [Request for Proposals: Login with IOTA](https://blog.iota.org/request-for-proposals-login-with-iota/)
 13. **IOTA dev**: [GoShimmer - Sprint Planning Weeks 10-11, 2022 #18](https://github.com/iotaledger/research-updates/discussions/18)
+14. **IOTA Audio**: Neuer [Moonaco Podcast mit Holger Phylo](https://open.spotify.com/episode/0AyAcD5FtKIf8PUSffdCZH?si=17e78497f5cb47de&nd=1)
+15. **IOTA Audio**: Es gab ein [Treasury governance meeting](); Hier der [Announcement Tweet](https://twitter.com/PhyloIota/status/1501902135625420800?s=20&t=MuDAzrvPqQXAcGkGVEN15Q)
+16. **IOTA Audio**: Es gab einen [TangleGang Sprachchat auf Telegram]; Heir der [Announcement Tweet](https://twitter.com/GangTangleTalk/status/1501808547214020609?t=x9n6-mi5yrooOY8H0Sr0IQ&s=19)
+17. **IOTA NFT**: Diese Woche sind einige NFT Projekte live gegangen auf [soonaverse.com/discover/collections](https://soonaverse.com/discover/collections)
+18. **IOTA NFT/native Asset**: SooLabs [tweetet](https://twitter.com/soon_labs/status/1501720274269466625?s=20&t=8qxMJoy9eGDob_DNpHqLCA) darüber, dass die Verteilung der Soon Token erfolgt ist und veröffentlicht dieses [Google Sheet](https://docs.google.com/spreadsheets/d/19k-B0nz8k6z3LDAcZz3l2_GzY2QIgpwJDvJHpcp107M/edit#gid=1760636803)
+19. 
