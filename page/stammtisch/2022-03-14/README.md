@@ -22,5 +22,6 @@
 20. **IOTA Stammtisch**: Am Freitag war [IOTA Stammtisch in München](https://www.meetup.com/de-DE/IOTA-Muc/events/wqvbssydcfbgb/)
 21. **IOTA DEV**: Neue TIP (Tangle Improvement Proposal): [TIP-25 Node Core REST API #57](https://github.com/iotaledger/tips/pull/57)
 22. **IOTA Artikel**: Coinmarketcap [tweetet](https://twitter.com/CoinMarketCap/status/1502244887479021571?s=20&t=Na8tfISYmeCsSQfOIdCisA) über ihren neuen IOTA Artiel: [Request for Proposals: Login with IOTA](https://coinmarketcap.com/alexandria/signals/24345); Dom S. freut sich: [Tweet](https://twitter.com/DomSchiener/status/1502248383720927232?s=20&t=Na8tfISYmeCsSQfOIdCisA) und Holger Köther [verlinkt](https://twitter.com/HolgerKoether/status/1502248491757756417?s=20&t=Na8tfISYmeCsSQfOIdCisA) seine [18 Tweets über IOTA](https://twitter.com/HolgerKoether/status/1465785489886257159?s=20&t=Na8tfISYmeCsSQfOIdCisA)
-23. 
-24. 
+23. **IOTA Youtube**: [IOTAWeekly 031: IOTA for Business - Sneak Peek (auf deutsch)](https://www.youtube.com/watch?v=wloFhF092Z4); auf [englisch](https://www.youtube.com/watch?v=T9vIJcWtOtA)
+24. **IOTA Tutorial**: Marco Besier mit Live Session am Tuesday, March 15, 4:00 pm CET: [Tweet](https://twitter.com/marcobesier/status/1502317492236075014?s=20&t=y9SJZIPcBRTDkmGjMSJLeg)
+25. **IOTA Artikel**: Slicebrand [tweetet](https://twitter.com/slicedbrand/status/1502304375561150471?s=20&t=y9SJZIPcBRTDkmGjMSJLeg) über den Artikel von Insider: [These 15 cryptos ... ](https://www.businessinsider.com/altcoins-to-buy-bitcoin-ether-blockchain-digital-assets-undervalued-bofa-2021-10)
