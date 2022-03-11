@@ -21,4 +21,6 @@
 19. **IOTA Dev**: Hans Moog meldet sich zurück und informiert die Twitter Gemeinde über den Fortschritt: [Tweet](https://twitter.com/hus_qy/status/1502058897443545094?s=20&t=Na8tfISYmeCsSQfOIdCisA), besser zu lesen hier: [IOTA: Status Update about the Progress in Goshimmer by Hans Moog](https://timestabloid.com/iota-status-update-about-the-progress-in-goshimmer-by-hans-moog/?fbclid=IwAR16Nntu5YaPHE3LoCNYxv9-QOk74kCcNlKUs-f0IRdUo6e4Z7_uzdOfbao)
 20. **IOTA Stammtisch**: Am Freitag war [IOTA Stammtisch in München](https://www.meetup.com/de-DE/IOTA-Muc/events/wqvbssydcfbgb/)
 21. **IOTA DEV**: Neue TIP (Tangle Improvement Proposal): [TIP-25 Node Core REST API #57](https://github.com/iotaledger/tips/pull/57)
-22. 
+22. **IOTA Artikel**: Coinmarketcap [tweetet](https://twitter.com/CoinMarketCap/status/1502244887479021571?s=20&t=Na8tfISYmeCsSQfOIdCisA) über ihren neuen IOTA Artiel: [Request for Proposals: Login with IOTA](https://coinmarketcap.com/alexandria/signals/24345); Dom S. freut sich: [Tweet](https://twitter.com/DomSchiener/status/1502248383720927232?s=20&t=Na8tfISYmeCsSQfOIdCisA) und Holger Köther [verlinkt](https://twitter.com/HolgerKoether/status/1502248491757756417?s=20&t=Na8tfISYmeCsSQfOIdCisA) seine [18 Tweets über IOTA](https://twitter.com/HolgerKoether/status/1465785489886257159?s=20&t=Na8tfISYmeCsSQfOIdCisA)
+23. 
+24. 
