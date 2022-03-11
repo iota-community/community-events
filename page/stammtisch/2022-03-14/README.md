@@ -20,3 +20,5 @@
 18. **IOTA NFT/native Asset**: SooLabs [tweetet](https://twitter.com/soon_labs/status/1501720274269466625?s=20&t=8qxMJoy9eGDob_DNpHqLCA) darüber, dass die Verteilung der Soon Token erfolgt ist und veröffentlicht dieses [Google Sheet](https://docs.google.com/spreadsheets/d/19k-B0nz8k6z3LDAcZz3l2_GzY2QIgpwJDvJHpcp107M/edit#gid=1760636803)
 19. **IOTA Dev**: Hans Moog meldet sich zurück und informiert die Twitter Gemeinde über den Fortschritt: [Tweet](https://twitter.com/hus_qy/status/1502058897443545094?s=20&t=Na8tfISYmeCsSQfOIdCisA), besser zu lesen hier: [IOTA: Status Update about the Progress in Goshimmer by Hans Moog](https://timestabloid.com/iota-status-update-about-the-progress-in-goshimmer-by-hans-moog/?fbclid=IwAR16Nntu5YaPHE3LoCNYxv9-QOk74kCcNlKUs-f0IRdUo6e4Z7_uzdOfbao)
 20. **IOTA Stammtisch**: Am Freitag war [IOTA Stammtisch in München](https://www.meetup.com/de-DE/IOTA-Muc/events/wqvbssydcfbgb/)
+21. **IOTA DEV**: Neue TIP (Tangle Improvement Proposal): [TIP-25 Node Core REST API #57](https://github.com/iotaledger/tips/pull/57)
+22. 
