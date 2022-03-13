@@ -32,3 +32,4 @@
 30. **IOTA Audio**: Nächstes IOTA DAO meeting wird auf Twitter Spaces nächsten Dienstag 15.3. veranstaltet: [Tweet](https://twitter.com/PhyloIota/status/1502592780551409664?s=20&t=s4TbnaYdW2v_91QAuZziIQ)
 31. **Crypto news**: Crypto Ban in Europa steht jetzt doch auf der Agenda. Navin Ramachandran macht sich dazu seine Gedanken auf Twitter: [Tweet 1/n](https://twitter.com/navinram999/status/1502971047557189634?s=20&t=s4TbnaYdW2v_91QAuZziIQ)
 32. **IOTA Adaption**: Der IOTA Content Creator DAO macht eine [Abstimmung auf Soonavers](https://soonaverse.com/proposal/0xbd6356ed11cdd7c1f4e92890827a53ea9e69cc14/overview) über das zukünftige Design
+33. **IOTA NFT/Metavers**: Neues Projekt "iotapian" in dem es offenbar um smartcity und Metavers geht: [Twitter Account mit vielen Tweets](https://twitter.com/iotapian)
