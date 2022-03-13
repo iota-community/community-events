@@ -28,6 +28,6 @@
 26. **IOTA Ökosystem**: Neuer Artikel von LendeXe: [LendeXe NFT: Crafting art into a community](https://medium.com/@LendeXeFinance/lendexe-nft-crafting-art-into-a-community-67029a6377fc)
 27. **IOTA Drama**: Dom S. mit einem [Tweet über Bitcoin](https://twitter.com/DomSchiener/status/1502682642659041286?s=20&t=s4TbnaYdW2v_91QAuZziIQ)
 28. **IOTA Ökosystem**: Neuer Update vom Soonaverse und ein Artikel dazu von SoonLabs: [The March “powering up” dev update](https://soonlabs.medium.com/the-march-powering-up-dev-update-846a681ffa40)
-29. **IF intern**: Die IF sucht einen [(Junior) Software Developer Market Adoption](https://iota.bamboohr.com/jobs/view.php?id=187)
+29. **IF intern**: Die IF sucht einen [(Junior) Software Developer Market Adoption](https://iota.bamboohr.com/jobs/view.php?id=187) und einen [Software Engineer - Identity, Tokenization and SC Market Adoption](https://iota.bamboohr.com/jobs/view.php?id=186&source=other
 30. **IOTA Audio**: Nächstes IOTA DAO meeting wird auf Twitter Spaces nächsten Dienstag 15.3. veranstaltet: [Tweet](https://twitter.com/PhyloIota/status/1502592780551409664?s=20&t=s4TbnaYdW2v_91QAuZziIQ)
 31. **Crypto news**: Crypto Ban in Europa steht jetzt doch auf der Agenda. Navin Ramachandran macht sich dazu seine Gedanken auf Twitter: [Tweet 1/n](https://twitter.com/navinram999/status/1502971047557189634?s=20&t=s4TbnaYdW2v_91QAuZziIQ)
