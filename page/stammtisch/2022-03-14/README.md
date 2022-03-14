@@ -37,3 +37,5 @@
 35. **IOTA Ökosystem**: TangleSea [veröffentlicht](https://twitter.com/TangleSeaDeFi/status/1503099043408453637?s=20&t=s6QllNOlgqsQW49lB0mCdg) einen neuen Artikel: [Chapter 5: The shell Farming](https://medium.com/@tangleseastory/chapter-5-the-shell-farming-a1668fb3ba5f)
 36. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/167-week-in-review-from-6th-to-12nd-march-2022/)
 37. **IOTA Defi**: Ein Projekt von Kappy "Yield Aggregator" sucht ein Token Design und ein Twitter Banner Design: [Tweet](https://twitter.com/Rob_Daykin/status/1503284130074791939?s=20&t=AlLgnpcVbmm3HB110IH05g)
+38. **IOTA Marketing**: Die IF [veröffentlicht](https://twitter.com/iota/status/1503385664334798850?s=20&t=s6QllNOlgqsQW49lB0mCdg) ein [Lightpaper für die Bussinenesswelt](https://files.iota.org/comms/IOTA_for_Business.pdf)
+39. **ÜIOTA dev**: [GoShimmer-0.8.10](https://github.com/iotaledger/goshimmer/releases/tag/v0.8.10) release
