@@ -12,4 +12,5 @@
 10. **IOTA Twitter Hype**: Charley Varley mit [11 Tweets](https://twitter.com/c_varley/status/1503917664732913667?s=20&t=VuyvqLxD0addEOHr4SSxWg) über seine Sicht zum aktuellen Stand von IOTA
 11. **IOTA NFT**: Green NFT [warnt](https://twitter.com/Green_NFTs/status/1503893039122685955?s=20&t=VuyvqLxD0addEOHr4SSxWg) vor NFT Scams und hat dazu ein Video gemacht: [How to Avoid NFT Scams](https://www.youtube.com/watch?v=Q9g5OyPrr6w)
 12. **IOTA NFT**: IOTABOTS und einige andere NFT Projekte haben sich [beschwert](https://twitter.com/iotabots/status/1503908691111780352?s=20&t=VuyvqLxD0addEOHr4SSxWg) über die laxen NFT Standards bei der Auswahl der ersten Collectionen auf [soonaverse.com/discover/collections](https://soonaverse.com/discover/collections) und die intransparente Auswahl
-13. 
+13. **IOTA Defi**: LendeXe mit neuem Hype Video in ihrem [Tweet](https://twitter.com/LendeXeFinance/status/1503830309304995841?s=20&t=VuyvqLxD0addEOHr4SSxWg)
+14. **IOTA dev**: [Smart contracts - Week 10, 2022 #21](https://github.com/iotaledger/engineering-updates/discussions/21)
