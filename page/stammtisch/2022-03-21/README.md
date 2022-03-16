@@ -17,3 +17,5 @@
 15. **Crypto News**: Ethereum hat wohl den Merge (Änderung von PoW zu PoS) erfolgreich im Testnetz umgesetzt: [Ethereum ‘Merge’ Successfully Takes Place on Kiln Testnet](https://beincrypto.com/ethereum-merge-successfully-kiln-testnet/); Hier das Live Video: [Kiln Testnet Merge viewing](https://www.youtube.com/watch?v=QrwBgMHTvYA)
 16. **IOTA Twitter Hype**: Noch 2 schöne [Tweets von C. Varley](https://twitter.com/c_varley/status/1504147565935308809?s=20&t=7lT1EdFvb8ynTzwwlU4Y4w)
 17. **IOTA Adaption**: STMicroelectronics [tweetet](https://twitter.com/ST_World/status/1504072535004045315?s=20&t=KmRUDX87G-NQcunnw6dh7Q) über das Paper: [Enabling Secure Data Exchange through the IOTA Tangle for IoT Constrained Devices](https://www.mdpi.com/1424-8220/22/4/1384/htm)
+18. **IOTA Adaption**: Filancore GmbH ist auf der Hannover Messe: [Tweet](https://twitter.com/FilancoreGmbH/status/1504089054559756291?s=20&t=KmRUDX87G-NQcunnw6dh7Q)
+19. 
