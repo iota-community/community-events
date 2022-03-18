@@ -31,3 +31,5 @@
 29. **IOTA Ökosystem**: TanglePay unterstützt jetzt auch dApps: [Tweet](https://twitter.com/tanglepaycom/status/1504696033481146368?s=20&t=tTBF-Yv2y1SAU0_kGrQeNA)
 30. **IOTA science**: Die IF [tweetet](https://twitter.com/iota/status/1504457617397137416?s=20&t=tTBF-Yv2y1SAU0_kGrQeNA) über ihren neuen Blogpost: [UZH Blockchain Center Awarded Grant to study IOTA Consensus Model](https://blog.iota.org/uzh-blockchain-center-awarded-grant-to-study-iota-consensus/)
 31. **IOTA Audio**: Es gab einen Governements DAO meeting am Donnerstag: [Tweet](https://twitter.com/gregmart/status/1504567429522812930?s=20&t=ZnTzFGBxcPxRSS8lAPEz0Q)
+32. **Crypto news**: Vitalik Buterin auf dem Times Magazin Cover: [Tweet](https://twitter.com/TIME/status/1504760633342021645?s=20&t=sFnz-iIJDJplzppkQiof_A)
+33. 
