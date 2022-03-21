@@ -2,7 +2,7 @@
 
 1. **IF Youtube**: [IOTA Quicktakes 14.03.2022: Request for Proposals, IOTA For Business Lightpaper, GoShimmer Update](https://www.youtube.com/watch?v=GFD4_rICtAU)
 2. **IOTA dev**: Es gibt ein neues TIP (Tangle Improvement Proposal): [TIP-26 UTXO Indexer REST API #62](https://github.com/iotaledger/tips/pull/62)
-3. **IOTA Audio**: DAO Pioneer Meeing [Aufzeichnung auf Twitter Spaces](https://twitter.com/PhyloIota/status/1503556115107254272?t=gwY0j5luzjX7BpqwYpXi6w&s=19)
+3. **IOTA Audio**: DAO Pioneer Meeting [Aufzeichnung auf Twitter Spaces](https://twitter.com/PhyloIota/status/1503556115107254272?t=gwY0j5luzjX7BpqwYpXi6w&s=19)
 4. **IOTA NFT**: SoonLabs verteilt nochmal 1.000.000 Soon Token an NFT Hodler und Käufer die bis zum 28.3. gekauft haben: [Tweet 1](https://twitter.com/soon_labs/status/1503463100019736577?s=20&t=Vu5OpYRDRj2z5f2RVI7Iog); [Tweet 2](https://twitter.com/soon_labs/status/1503636460716453891?s=20&t=Vu5OpYRDRj2z5f2RVI7Iog); Und hier erfahrt ihr mehr zur [Token Utility](https://docs.soonaverse.com/en/tokenomics/token-utility)
 5. **IF intern**: Die IF [sucht](https://twitter.com/iota/status/1503431021076926475?s=20&t=Vu5OpYRDRj2z5f2RVI7Iog) einen [App Developer - Firefly Ingenieurwesen · Remote, Germany](https://iota.bamboohr.com/jobs/view.php?id=152&source=bamboohr); Hier [auf deutsch](https://iota-kurs.de/aktualisierung-der-infrastrukturprojekte/)
 6. **IOTA Tutorial**: Es gab eine Assembly Open Office Hour im Discord: [Tweet](https://twitter.com/assembly_net/status/1503370500017467393?s=20&t=w8p9XIX7vy_SH4j9sXCDkw)
@@ -32,7 +32,7 @@
 30. **IOTA science**: Die IF [tweetet](https://twitter.com/iota/status/1504457617397137416?s=20&t=tTBF-Yv2y1SAU0_kGrQeNA) über ihren neuen Blogpost: [UZH Blockchain Center Awarded Grant to study IOTA Consensus Model](https://blog.iota.org/uzh-blockchain-center-awarded-grant-to-study-iota-consensus/)
 31. **IOTA Audio**: Es gab einen Governements DAO meeting am Donnerstag: [Tweet](https://twitter.com/gregmart/status/1504567429522812930?s=20&t=ZnTzFGBxcPxRSS8lAPEz0Q)
 32. **Crypto news**: Vitalik Buterin auf dem Times Magazin Cover: [Tweet](https://twitter.com/TIME/status/1504760633342021645?s=20&t=sFnz-iIJDJplzppkQiof_A)
-33. **Youtube Tutorial**: Lazy Lefty mit einem Youtube Tutorial für Soonavers: [CRAZY! New NFT Platform - How to buy NFT's on Soonaverse](https://www.youtube.com/watch?v=282YpafcAEo
+33. **Youtube Tutorial**: Lazy Lefty mit einem Youtube Tutorial für das Soonavers: [CRAZY! New NFT Platform - How to buy NFT's on Soonaverse](https://www.youtube.com/watch?v=282YpafcAEo)
 34. **IOTA Youtube**: Chris Müller mit dem [IOTAWeekly 032: IOTA NFT und Infrastruktur-Projekte](https://www.youtube.com/watch?v=sJOKhzXJpCg)
 35. **IOTA Wochenrückblick**: IOTA Talks mit dem [Wochenrückblick vom 13. bis 19. März 2022](https://www.iota-talk.com/index.php?article/168-wochenr%C3%BCckblick-vom-13-bis-19-m%C3%A4rz-2022/)
 36. **IOTA Twitter Hype**: Hans Moog nochmal mit [1/10 Tweets](https://twitter.com/hus_qy/status/1505313616064659462?s=20&t=zrfBZZNZuCIsCR-8eB1NkA) zum Thema Entwicklung bei IOTA und dem Unterschied zu der Entwicklung bei 0/8/15 Blockchains
