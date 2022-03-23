@@ -3,5 +3,9 @@
 1. **IF Youtube**: [IOTA Quicktakes 21.03.2022: IOTA Infrastructure Projects Update, UZH Grant, 8 days left to stake](https://www.youtube.com/watch?v=Y64nKbU0z98)
 2. **IF Youtube**: [IOTA Americas Meeting - March 17th 2022](https://www.youtube.com/watch?v=K_xvUN3FWMM&t=13s)
 3. **IOTA NFT**: LendeXe hat 770 Giota in 6h eingesammelt: [Tweet von Adam](https://twitter.com/adam_unchained/status/1505979095372292097?s=20&t=epZoVb8ikfnl1SdDA-NOvQ); Kappy hat einige Fragen gestellt zu LendeXe auf Twitter: [Tweet](https://twitter.com/Rob_Daykin/status/1505906528255107072?s=20&t=epZoVb8ikfnl1SdDA-NOvQ)
-4. 
-5. 
+4. **IOTA dev**: [https://github.com/iotaledger/research-updates/discussions/20](https://twitter.com/iota/status/1506566719640379397?s=20&t=23pNXUoAAQ1VxsoSIYahSw)
+5. **IOTA Adoption**: Die UZH (University of Zürich) Blockchaincenter hat den [Blogpost der IF "UZH Blockchain Center Awarded Grant to study IOTA Consensus Model"](https://blog.iota.org/uzh-blockchain-center-awarded-grant-to-study-iota-consensus/) [retweetet](https://twitter.com/uzh_blockchain/status/1506603853101383688?s=20&t=v-6SFZo14SY6HuBMMmo2_w)
+6. **IOTA dev**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1506299930729717762?s=20&t=v-6SFZo14SY6HuBMMmo2_w) über ein neues TIP: [TIP-28 Node Event API](https://github.com/iotaledger/tips/pull/66)
+7. **IOTA dev**: [Hans Moog antwortet](https://twitter.com/hus_qy/status/1506587877442007041?s=20&t=v-6SFZo14SY6HuBMMmo2_w) Multi auf Twitter, der sich über Mikropayments beschwert und [verweist](https://twitter.com/hus_qy/status/1506590639726764033?s=20&t=v-6SFZo14SY6HuBMMmo2_w) am Ende auf eine "idea to potentially support multiple different VMs on L1 in parallel, that will allow us to boost the "smartness" of fee less L1 IOTA." Hier der GitHub Link dazu:[https://github.com/iotaledger/goshimmer/blob/feat/utxovm/packages/refactored/utxo/vm.go](https://github.com/iotaledger/goshimmer/blob/feat/utxovm/packages/refactored/utxo/vm.go)
+8. **IOTA Adaption**: Die IF [retweetet](https://twitter.com/iota/status/1506287255392030734?s=20&t=v-6SFZo14SY6HuBMMmo2_w) den Post von ZEBRA Technologies, die sich freuen dass sie Platz 1 von "America's Most Trusted Companies" sind
+9. 
