@@ -17,3 +17,4 @@
 15. **IOTA Adaption**: Der [dlt.green/node-pool](https://dlt.green/node-pool) von [dlt.green](https://twitter.com/dlt_green) zieht immer mehr Leute an: [Tweet](https://twitter.com/dlt_green/status/1506732771330469899?s=20&t=WUKzZ-mTdHLUr2aP0A2lAA)
 16. **IOTA Twitter**: Es gibt jezt einen Community space für #IOTA (new Twitter feature): [Tweet](https://twitter.com/accretionist/status/1506792664598986752?s=20&t=YUH4bZBdGary5cTAQo-tMg)
 17. **IOTA NFT**: Es gibt jetzt eine Übersicht die zeigt welche NFT Projekte wieviel Geld auf SoonLabs eingesammelt haben: [Tweet](https://twitter.com/zizouIOTA/status/1506975838226550784?s=20&t=YUH4bZBdGary5cTAQo-tMg)
+18. **IOTA Adaption**: Neuer Moonaco Podcast mit [Tanglehub.eu](https://tanglehub.eu/): [Episode 15: Removing Barrieers in the Web30 adoption using TangleHUB](https://open.spotify.com/episode/3ZJkHVCs7P201BIABa2Y6l?si=30b7c76dc34f49f6)
