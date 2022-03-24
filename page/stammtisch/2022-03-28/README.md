@@ -11,3 +11,4 @@
 9. **IF Youtube**: Es wird ein AMA mit Dom geben: [AMA with Dominik Schiener - 28.03.2022](https://www.youtube.com/watch?v=yuiCrwDFV7Q
 10. **New allgemein**: Öl muss in Rubel bezahlt werden: [Putin: Deutschland und EU-Staaten müssen russisches Gas nun in Rubel bezahlen](https://www.finanzen.net/nachricht/rohstoffe/kein-dollar-oder-euro-mehr-putin-deutschland-und-eu-staaten-muessen-russisches-gas-nun-in-rubel-bezahlen-11168681)
 11. **IOTA Ökosystem**: TangleSwap startet einen utility NFT Verkauf am Wochenende: [Tweet](https://twitter.com/TangleSwapE/status/1506664371254185988?s=20&t=WUKzZ-mTdHLUr2aP0A2lAA)
+12. **IOTA Audio**: Am Donnerstag war Hans Moog im Sprachchat der TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1506619642311286787?s=20&t=WUKzZ-mTdHLUr2aP0A2lAA)
