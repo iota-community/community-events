@@ -22,4 +22,11 @@
 20. **IOTA Adaption**: Daniel Trauth [retweetet](https://twitter.com/DanielTrauth/status/1507078440918437904?s=20&t=WJMhELgyQy-iBjoTHWoWog) ein Treffen mit wichtigen Personen in NRW
 21. **IOTA Adaption**: IOTerry war bei einem Vortrag von MOBI: [Tweet](https://twitter.com/io_terry/status/1507116572573323265?s=20&t=WJMhELgyQy-iBjoTHWoWog); [Paving the Future of Mobility with Oregon's Road Usage Charge Program](https://www.youtube.com/watch?v=UfutrxGfFro) Frage von Terry bei 52:10
 22. **IOTA NFT**: Adam zeigt eine Vorschau für den NFT Marketplace auf Soonaverse.com: [Tweet](https://twitter.com/adam_unchained/status/1507248564711268355?s=20&t=WJMhELgyQy-iBjoTHWoWog)
-23. 
+23. **IOTA dev**: [Smart contracts - Week 10, 2022 #21](https://github.com/iotaledger/engineering-updates/discussions/21)
+24. **IOTA Adaption**: Dom S. hat sich mit zwei wichtigen Personen getroffen: [Tweet](https://twitter.com/stelyb/status/1507269054628831237?s=20&t=yoy6LiklJB2bPsNepTMlcw): Der eine ist [John Ng Pangilinan](https://twitter.com/john_ng_p) "Founder HyperChain Capital. $FTM, Assembly, crypto.", der andere ist [Stelian Balta](https://twitter.com/stelyb)"Founder of @signum_capital"
+25. **IOTA Youtube**: DEXES mit einem Video in dem sie über die Bulletpoints von IOTA zusammengefasst von [Schmucklos](https://twitter.com/Schmucklos_) gehen: [IOTA 2022👀 - Die wichtigsten Hard Facts in einem Video! Nicht verpassen! #greentech](https://www.youtube.com/watch?v=cGX-fjCiHoU)
+26. **IOTA Youtube**: Chris Müller mit [IOTAWeekly 033: IOTA, Bwin und was nach dem Staking kommt](https://www.youtube.com/watch?app=desktop&v=LUCbZFdst9E); Hier [auf englisch](https://www.youtube.com/watch?v=SgKHxk1h1fA&feature=youtu.be)
+27. **IOTA Staking Roadmap**: Die IF veröffentlicht einen Blogpost [IOTA, Shimmer and Assembly Staking Roadmap](https://blog.iota.org/iota-shimmer-and-assembly-staking-roadmap/)
+28. **IOTA Adaption**: Die IF hat sich in Aftrika eine Woche mit einem Team von TradeMarkEastAfrika bezüglich SupplyChain zusammen gesetzt: [Tweet](https://twitter.com/iota/status/1507332027560955908?s=20&t=13kbgU_fTy19KBWCMvwC-A)
+29. **IOTA NFT**: Es gibt wohl eine Art Lotto Spiel, wo man eine Nummer als NFT kaufen kann: [Tweet](https://twitter.com/iBuyTheNumbers/status/1507173095072706565?s=20&t=13kbgU_fTy19KBWCMvwC-A)
+30. 
