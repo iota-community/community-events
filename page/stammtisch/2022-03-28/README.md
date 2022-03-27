@@ -29,4 +29,6 @@
 27. **IOTA Staking Roadmap**: Die IF veröffentlicht einen Blogpost [IOTA, Shimmer and Assembly Staking Roadmap](https://blog.iota.org/iota-shimmer-and-assembly-staking-roadmap/); Zusammengefasst in einer [Tweet-Zusammenfassung](https://twitter.com/Ploughy2/status/1507387815063351297?s=20&t=13kbgU_fTy19KBWCMvwC-A) von Ploughy
 28. **IOTA Adaption**: Die IF hat sich in Aftrika eine Woche mit einem Team von TradeMarkEastAfrika bezüglich SupplyChain zusammen gesetzt: [Tweet](https://twitter.com/iota/status/1507332027560955908?s=20&t=13kbgU_fTy19KBWCMvwC-A)
 29. **IOTA NFT**: Es gibt wohl eine Art Lotto Spiel, wo man eine Nummer als NFT kaufen kann: [Tweet](https://twitter.com/iBuyTheNumbers/status/1507173095072706565?s=20&t=13kbgU_fTy19KBWCMvwC-A)
-30. 
+30. **Crypto News**: Die EU will am Donnerstag evtl. unhosted Wallets verbieten: [Schock für DeFi-Sektor: unhosted Wallets drohen starke Einschränkungen in der EU](https://www.btc-echo.de/news/schock-defi-sektor-unhosted-wallets-drohen-einschraenkungen-137792/); Dom hat sich dazu auf besorgt [auf Twitter gemeldet](https://twitter.com/DomSchiener/status/1507770669647417348?s=20&t=X7K1saCdiyrQZzKoB-w8CQ)
+31. **IF Event**: Die IF [tweetet](https://twitter.com/iota/status/1507643609230761984?s=20&t=X7K1saCdiyrQZzKoB-w8CQ) über ein Fußball Event wo wir die Arbeit der Social Impact Working Group von @INATBA_org und die Anwendungsfälle von #IOTA kennen lernen sollen...
+32. 
