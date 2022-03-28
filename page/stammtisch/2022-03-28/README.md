@@ -41,3 +41,4 @@
 39. **IOTA Twitter Hype**: Hans Moog lässt uns nochmal träumen: [Tweet](https://twitter.com/hus_qy/status/1508171754107289607?s=20&t=XgDdUnYw7iOg277xkWRX5g) "I think that our concepts will not only prove to be much more efficient but also much more secure than e.g. Bitcoin which wastes a lot of energy for securing a decentralized clock that is ultimately not even necessary for consensus."
 40. **News allgemein**: [Will Smith verteilt Ohrfeige an Chris Rock bei den Oscars](https://www.youtube.com/watch?v=qaN0whso7bc) und auch [Oliver Pocher bekommt eine Ohrfeige](https://www.youtube.com/watch?v=wURd4Fy7Ufo)
 41. **IF Youtube**: Heute ist/war AMA mit Dom Schiener: [AMA with Dominik Schiener - 28.03.2022](https://www.youtube.com/watch?v=yuiCrwDFV7Q)
+42. **IOTA Staking**: Kurz nach dem AMA endet das  IOTA Staking zumindest von Shimmer Token...
