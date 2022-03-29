@@ -9,4 +9,4 @@
 7. **Crypto News**: Coinbase macht auf die Abstimmung wegen uncustodial wallets in der EU aufmerksam: [Making your voice heard ahead of Thursday’s critical EU vote](https://blog.coinbase.com/making-your-voice-heard-ahead-of-thursdays-critical-eu-vote-f03730e83e5c)
 8. **IOTA Hype**: Hans Moog mit interessanter Abstraktion im [Reddit Post](https://www.reddit.com/r/Iota/comments/tpva7f/hans_moog_on_dlts_and_a_shared_perception_of_time/i2fp4iz/?utm_medium=android_app&utm_source=share&context=3); 
  ~ IOTA ist wie Sex ohne Vorspiel, während man bei Blockchains ne Planung braucht
-9. 
+9. **IOTA dev**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1508828873462587395?s=20&t=EEVHy4CdUs4cHgj0vmVLxw) über das [TIP-29 Milestone Payload with Keys removed from essence #69](https://github.com/iotaledger/tips/pull/69)
