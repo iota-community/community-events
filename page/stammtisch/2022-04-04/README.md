@@ -13,3 +13,5 @@
 10. **IOTA Hype**: Screenshots von Dom Schiener aus dem Discord: [Tweet](https://twitter.com/Vrom14286662/status/1508995744753229828?s=20&t=LKfm10fEy0ZrKKcaDfEUQA) "..our objective is to win in this market"
 11. **IOTA NFT**: SoonLabs [veröffentlicht](https://twitter.com/soon_labs/status/1508925275362324483?s=20&t=LKfm10fEy0ZrKKcaDfEUQA) die [Liste für den 1.000.000 $Soon Airdrop](https://t.co/nfuZAujLaN)
 12. **IOTA NFT**: SoonLabs will weitere 1.500.000 $Soon Token an NFT Holder verteilen. Das interessante dabei ist: Es darf bald gehandelt werden...: [Tweet](https://twitter.com/soon_labs/status/1508929744351363073?s=20&t=LKfm10fEy0ZrKKcaDfEUQA)
+13. **IOTA Defi**: Neuer [Tweet von TangleSea](https://twitter.com/TangleSeaDEX/status/1509104048221429762?s=20&t=kc_uj2novAiypzu_58J9ZQ); Sie wollen eine DAO werden
+14. **IF news**: Regina Haschka Helmer ist Jury Mitglied: [Tweet](https://twitter.com/iota/status/1509080587755298819?s=20&t=emK5imyOTGo3qwzZVL6k7Q)
