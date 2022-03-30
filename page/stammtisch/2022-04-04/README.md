@@ -10,3 +10,6 @@
 8. **IOTA Hype**: Hans Moog mit interessanter Abstraktion im [Reddit Post](https://www.reddit.com/r/Iota/comments/tpva7f/hans_moog_on_dlts_and_a_shared_perception_of_time/i2fp4iz/?utm_medium=android_app&utm_source=share&context=3); 
  ~ IOTA ist wie Sex ohne Vorspiel, während man bei Blockchains ne Planung braucht
 9. **IOTA dev**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1508828873462587395?s=20&t=EEVHy4CdUs4cHgj0vmVLxw) über das [TIP-29 Milestone Payload with Keys removed from essence #69](https://github.com/iotaledger/tips/pull/69)
+10. **IOTA Hype**: Screenshots von Dom Schiener aus dem Discord: [Tweet](https://twitter.com/Vrom14286662/status/1508995744753229828?s=20&t=LKfm10fEy0ZrKKcaDfEUQA) "..our objective is to win in this market"
+11. **IOTA NFT**: SoonLabs [veröffentlicht](https://twitter.com/soon_labs/status/1508925275362324483?s=20&t=LKfm10fEy0ZrKKcaDfEUQA) die [Liste für den 1.000.000 $Soon Airdrop](https://t.co/nfuZAujLaN)
+12. **IOTA NFT**: SoonLabs will weitere 1.500.000 $Soon Token an NFT Holder verteilen. Das interessante dabei ist: Es darf bald gehandelt werden...: [Tweet](https://twitter.com/soon_labs/status/1508929744351363073?s=20&t=LKfm10fEy0ZrKKcaDfEUQA)
