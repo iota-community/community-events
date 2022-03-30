@@ -15,3 +15,9 @@
 12. **IOTA NFT**: SoonLabs will weitere 1.500.000 $Soon Token an NFT Holder verteilen. Das interessante dabei ist: Es darf bald gehandelt werden...: [Tweet](https://twitter.com/soon_labs/status/1508929744351363073?s=20&t=LKfm10fEy0ZrKKcaDfEUQA)
 13. **IOTA Defi**: Neuer [Tweet von TangleSea](https://twitter.com/TangleSeaDEX/status/1509104048221429762?s=20&t=kc_uj2novAiypzu_58J9ZQ); Sie wollen eine DAO werden
 14. **IF news**: Regina Haschka Helmer ist Jury Mitglied: [Tweet](https://twitter.com/iota/status/1509080587755298819?s=20&t=emK5imyOTGo3qwzZVL6k7Q)
+15. **IOTA NFT**: SoonLabs [veröffentlicht](https://twitter.com/soon_labs/status/1509169071597662210?s=20&t=hvjUt8uNvQmDFRWKQ4TMxw) NFT Auktionen: [The FULL POWER March update](https://soonlabs.medium.com/the-full-power-march-update-93593f433cf1)
+16. **IOTA Defi**: LendeXe [präsentiert](https://twitter.com/LendeXeFinance/status/1509184067371155463?s=20&t=hvjUt8uNvQmDFRWKQ4TMxw) den ersten funktionierenden Prototypen von ihrer Plattform
+17. **Crypto News**: Metamask implementiert Apple Pay: [MetaMask Wallet integriert Apple Pay als Zahlungsoption](https://www.btc-echo.de/schlagzeilen/krypto-auf-dem-iphone-metamask-wallet-integriert-apple-pay-138009/)
+18. **IOTA Audio**: Am Donnerstag Americas Meetup: [Tweet](https://twitter.com/gregmart/status/1508893741146570752?s=20&t=ZElkoqe6P2SmgpttLK-ABA)
+19. **IF intern**: Mariana de la Roche von der IF wurde aufgenommen für ein Accelerator Program (DLT Talents is a program to empower women): [Tweet](https://twitter.com/Marydlrw/status/1509128330993352706?s=20&t=ZElkoqe6P2SmgpttLK-ABA)
+20. **
