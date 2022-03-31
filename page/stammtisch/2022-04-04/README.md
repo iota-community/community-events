@@ -20,4 +20,5 @@
 17. **Crypto News**: Metamask implementiert Apple Pay: [MetaMask Wallet integriert Apple Pay als Zahlungsoption](https://www.btc-echo.de/schlagzeilen/krypto-auf-dem-iphone-metamask-wallet-integriert-apple-pay-138009/)
 18. **IOTA Audio**: Am Donnerstag Americas Meetup: [Tweet](https://twitter.com/gregmart/status/1508893741146570752?s=20&t=ZElkoqe6P2SmgpttLK-ABA)
 19. **IF intern**: Mariana de la Roche von der IF wurde aufgenommen für ein Accelerator Program (DLT Talents is a program to empower women): [Tweet](https://twitter.com/Marydlrw/status/1509128330993352706?s=20&t=ZElkoqe6P2SmgpttLK-ABA)
-20. **
+20. **IOTA DAO**: TFT haben ernst gemacht und anteilig einen Zweitliga Verein in Griechenland gekauft. Hier ein [Tweet](https://twitter.com/TheFansTogether/status/1509178110817755136?s=20&t=nVpnwFj81lXbyBeAY3igPA) von der Pressekonferenz
+21. 
