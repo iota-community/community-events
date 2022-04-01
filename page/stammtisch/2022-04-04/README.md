@@ -16,9 +16,17 @@
 13. **IOTA Defi**: Neuer [Tweet von TangleSea](https://twitter.com/TangleSeaDEX/status/1509104048221429762?s=20&t=kc_uj2novAiypzu_58J9ZQ); Sie wollen eine DAO werden
 14. **IF news**: Regina Haschka Helmer ist Jury Mitglied: [Tweet](https://twitter.com/iota/status/1509080587755298819?s=20&t=emK5imyOTGo3qwzZVL6k7Q)
 15. **IOTA NFT**: SoonLabs [veröffentlicht](https://twitter.com/soon_labs/status/1509169071597662210?s=20&t=hvjUt8uNvQmDFRWKQ4TMxw) NFT Auktionen: [The FULL POWER March update](https://soonlabs.medium.com/the-full-power-march-update-93593f433cf1)
-16. **IOTA Defi**: LendeXe [präsentiert](https://twitter.com/LendeXeFinance/status/1509184067371155463?s=20&t=hvjUt8uNvQmDFRWKQ4TMxw) den ersten funktionierenden Prototypen von ihrer Plattform
+16. **IOTA Defi**: LendeXe [präsentiert](https://twitter.com/LendeXeFinance/status/1509184067371155463?s=20&t=hvjUt8uNvQmDFRWKQ4TMxw) den ersten funktionierenden Prototypen von ihrer Plattform; Kurze Zeit später waren alle NFTs ausverkauft: [Tweet](https://twitter.com/LendeXeFinance/status/1509429970036301825?s=20&t=Hr5Gt6dpHAdipoctUQ9bEg)
 17. **Crypto News**: Metamask implementiert Apple Pay: [MetaMask Wallet integriert Apple Pay als Zahlungsoption](https://www.btc-echo.de/schlagzeilen/krypto-auf-dem-iphone-metamask-wallet-integriert-apple-pay-138009/)
 18. **IOTA Audio**: Am Donnerstag Americas Meetup: [Tweet](https://twitter.com/gregmart/status/1508893741146570752?s=20&t=ZElkoqe6P2SmgpttLK-ABA)
 19. **IF intern**: Mariana de la Roche von der IF wurde aufgenommen für ein Accelerator Program (DLT Talents is a program to empower women): [Tweet](https://twitter.com/Marydlrw/status/1509128330993352706?s=20&t=ZElkoqe6P2SmgpttLK-ABA)
-20. **IOTA DAO**: TFT haben ernst gemacht und anteilig einen Zweitliga Verein in Griechenland gekauft. Hier ein [Tweet](https://twitter.com/TheFansTogether/status/1509178110817755136?s=20&t=nVpnwFj81lXbyBeAY3igPA) von der Pressekonferenz
-21. 
+20. **IOTA DAO**: TFT haben ernst gemacht und anteilig einen Zweitliga Verein in Griechenland gekauft. Hier ein [Tweet](https://twitter.com/TheFansTogether/status/1509178110817755136?s=20&t=nVpnwFj81lXbyBeAY3igPA) von der Pressekonferenz und noch einer: [Tweet](https://twitter.com/TheFansTogether/status/1509488290126307330?s=20&t=Hr5Gt6dpHAdipoctUQ9bEg)
+21. **IOTA Audio**: Neuer [Moonaco Podcast mit Mike Bennet über Standardization](https://open.spotify.com/episode/4dxEpevsxTRFqUBz2sve6N)
+22. **IOTA Adoption**: Die IF bzw. [Assembly tweetet](https://twitter.com/assembly_net/status/1509516039809376260?s=20&t=Hr5Gt6dpHAdipoctUQ9bEg) über den Blogpost [Assembly’s Open Builders Program](https://blog.assembly.sc/introducing-touchpoint/); Coinmarketcap [tweetet](https://twitter.com/CoinMarketCap/status/1509693494532608033?s=20&t=Hr5Gt6dpHAdipoctUQ9bEg) darüber und über ihren ["Article of the day"](https://coinmarketcap.com/alexandria/signals/25592) 
+23. **IOTA Defi**: SchimmerSea hat [getweetet](https://twitter.com/ShimmerSeaDEX/status/1509425264740093962?s=20&t=Hr5Gt6dpHAdipoctUQ9bEg) über ihre erste Teaser Webseite: [shimmersea.finance](https://shimmersea.finance/)
+24. **IOTA Defi**: TangleSwap [tweetet](https://twitter.com/TangleSwapE/status/1509612917574242305) über ihre neue Dokumentation page: [docs.tangleswap.exchange](https://docs.tangleswap.exchange/)
+25. **IOTA Stammtisch**: In Zürich soon: [Tweet](https://twitter.com/IotaZurich/status/1509466649660997635) und in München war er am Freitag: [IOTA Stammtisch München auf Twitter](https://twitter.com/IotaMunchen)
+26. **IOTA Adoption**: All Things Tangle bekommen wohl wieder funding und machen neue Videos: [Tweet](https://twitter.com/allthingstangle/status/1509681626501976070?s=20&t=Hr5Gt6dpHAdipoctUQ9bEg)
+27. **IOTA NFT**: Rusti Robots haben ein digitales Comic geairdropt: [Tweet](https://twitter.com/RustyRobotCC/status/1509588699683729419?s=20&t=Hr5Gt6dpHAdipoctUQ9bEg)
+28. 
+29. 
