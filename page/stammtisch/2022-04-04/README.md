@@ -28,5 +28,5 @@
 25. **IOTA Stammtisch**: In Zürich soon: [Tweet](https://twitter.com/IotaZurich/status/1509466649660997635) und in München war er am Freitag: [IOTA Stammtisch München auf Twitter](https://twitter.com/IotaMunchen)
 26. **IOTA Adoption**: All Things Tangle bekommen wohl wieder funding und machen neue Videos: [Tweet](https://twitter.com/allthingstangle/status/1509681626501976070?s=20&t=Hr5Gt6dpHAdipoctUQ9bEg)
 27. **IOTA NFT**: Rusti Robots haben ein digitales Comic geairdropt: [Tweet](https://twitter.com/RustyRobotCC/status/1509588699683729419?s=20&t=Hr5Gt6dpHAdipoctUQ9bEg)
-28. 
+28. **Crypto news**: [EU-Parlament stimmt für harte Regulierung von unhosted Wallets](https://www.btc-echo.de/news/defi-todesstoss-eu-parlament-regulierung-unhosted-wallets-138148/)
 29. 
