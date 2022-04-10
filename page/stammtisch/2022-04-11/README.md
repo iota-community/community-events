@@ -1,4 +1,4 @@
-**Stammtischthemen für den 11.04.2022
+**Stammtischthemen für Montag, den 11.04.2022
 
 1. **IF Youtube**: [IOTA Quicktakes 04.04.2022: Roadmap for IOTA, Shimmer & Assembly, Introducing Touchpoint & more!](https://www.youtube.com/watch?v=w0cRiSHFky0)
 2. **IOTA NFT**: [Zentangle.io](https://zentangle.io/) mit einem [Anleitungsvideo](https://www.youtube.com/watch?v=9RGiYFQHDm4) wie man den Dragon NFT kauft
@@ -21,17 +21,18 @@
 19.  **IOTA dev**: Es gab ein [Protocol group - Week 13, 2022 #24](https://github.com/iotaledger/research-updates/discussions/24) update
 20.  **IOTA dev**: Es gab ein [GoShimmer - Sprint Planning Weeks 14-15, 2022 #25](https://github.com/iotaledger/research-updates/discussions/25)
 21.  **IF intern**: Die IF stellt 6 Leute ein: [Welcome to the IOTA Foundation - April 2022](https://blog.iota.org/welcome-to-the-iota-foundation-april-2022/)
-22.  **IOTA Defi**: Moonvault, ein "Multichain Yield Agregator", will auf IOTA wechseln: [Moon-Vault is Getting Tangly](https://medium.com/@MoonVault/moon-vault-is-getting-tangly-c1d138ed0a81)
-23.  **IOTA dev**: Prerelease von [bee-node-1.0.0-alpha.3](https://github.com/iotaledger/bee/releases/tag/v1.0.0-alpha.3)
-24.  **IOTA news**: Die [IF tweetet](https://twitter.com/iota/status/1512047114938900498?s=20&t=JgDkpVIGygWphREeR9AHzA) über das Interview mit Dom Schiener: [Vitalik Buterin is Right. Crypto is Flailing, Says IOTA Foundation Chairman](https://beincrypto.com/vitalik-buterin-is-right-crypto-is-flailing-says-iota-foundation-chairman/)
-25.  **Allgemeine News**: Hans Moog [tweetet](https://twitter.com/hus_qy/status/1512939372496183300?s=20&t=vWdDCsTbCyxFt-6_SRJQVg) über Physik: [Das W-Boson ist ein Schwergewicht unter den Teilchen. Jetzt attestieren ihm die Physiker ein Gewichtsproblem](https://www.nzz.ch/wissenschaft/fermilab-das-w-boson-hat-probleme-mit-seiner-masse-ld.1677921)
-26.  **IOTA Defi**: ShimmerSea verteile erste Lumis für Meme Tweets: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1512732048691245065?s=20&t=6pGsKGgW_kUoeihHj2pQzg)
-27.  **IOTA dev**: Evaldas hat etwas zu "proof of inclusion" geschrieben und dass das im Stardust Update kommt: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1513070399894007810?s=20&t=vWdDCsTbCyxFt-6_SRJQVg)
-28.  **Twitter Hype**: Hans Moog hat etwas zu AlephZero geschrieben und auch warum IOTA viel besser ist: [Threadreader](https://threadreaderapp.com/thread/1512477098283134976.html); Hier der original [Tweet](https://twitter.com/hus_qy/status/1512477098283134976?s=20&t=vWdDCsTbCyxFt-6_SRJQVg)
-29.  **IOTA Hype/Drama**: Hans holt den Hammer raus: [Tweet](https://twitter.com/hus_qy/status/1512548098995896327?s=20&t=vWdDCsTbCyxFt-6_SRJQVg)
-30.  **IOTA Youtube**: [IOTAWeekly 035: IOTA, Shimmer sowie Preis und Features des Tokens](https://www.youtube.com/watch?v=0Ajwq3f1u2c); Hier auf [englisch](https://www.youtube.com/watch?v=Lb51S72ocHM&feature=youtu.be)
-31.  **IOTA Telegramm**: [Holger Köthers Aussage](https://github.com/iota-community/community-events/blob/main/page/stammtisch/2022-04-11/Holgers%20Aussage.md) im Telegram Channel IOTA_DACH, in der er über die falschen Erwartungen und die Altlasten spricht
-32.  **Green IOTA**: Dom Schiener will in grüne Technologien investieren und überall IOTA verwenden wo es möglich ist: [Tweet](https://twitter.com/DomSchiener/status/1513073899424133124?s=20&t=EvOFkUBaoOHxY0c1Kh_aEA)
-33.  **Crypto News**: Bitcoin Miami Conference: Was waren die größten Announcements? 
-34.  **Crypto News**: [Tesla, Block and Blockstream team up to mine bitcoin off solar power in Texas](https://www.cnbc.com/2022/04/08/tesla-block-blockstream-to-mine-bitcoin-off-solar-power-in-texas.html)
-35.  **Crypto News**: [Jack Mallers’ Strike Announces Shopify Integration for Bitcoin Lightning Payments](https://www.coindesk.com/business/2022/04/07/jack-mallers-strike-announces-shopify-integration-for-bitcoin-lightning-payments/)
+22.  **IF intern**: Die [IF sucht](https://twitter.com/iota/status/1512419701648941060?s=20&t=EvOFkUBaoOHxY0c1Kh_aEA) jede Menge neue Leute: [iota.bamboohr.com/jobs](https://iota.bamboohr.com/jobs/)
+23.  **IOTA Defi**: Moonvault, ein "Multichain Yield Agregator", will auf IOTA wechseln: [Moon-Vault is Getting Tangly](https://medium.com/@MoonVault/moon-vault-is-getting-tangly-c1d138ed0a81)
+24.  **IOTA dev**: Prerelease von [bee-node-1.0.0-alpha.3](https://github.com/iotaledger/bee/releases/tag/v1.0.0-alpha.3)
+25.  **IOTA news**: Die [IF tweetet](https://twitter.com/iota/status/1512047114938900498?s=20&t=JgDkpVIGygWphREeR9AHzA) über das Interview mit Dom Schiener: [Vitalik Buterin is Right. Crypto is Flailing, Says IOTA Foundation Chairman](https://beincrypto.com/vitalik-buterin-is-right-crypto-is-flailing-says-iota-foundation-chairman/)
+26.  **Allgemeine News**: Hans Moog [tweetet](https://twitter.com/hus_qy/status/1512939372496183300?s=20&t=vWdDCsTbCyxFt-6_SRJQVg) über Physik: [Das W-Boson ist ein Schwergewicht unter den Teilchen. Jetzt attestieren ihm die Physiker ein Gewichtsproblem](https://www.nzz.ch/wissenschaft/fermilab-das-w-boson-hat-probleme-mit-seiner-masse-ld.1677921)
+27.  **IOTA Defi**: ShimmerSea verteile erste Lumis für Meme Tweets: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1512732048691245065?s=20&t=6pGsKGgW_kUoeihHj2pQzg)
+28.  **IOTA dev**: Evaldas hat etwas zu "proof of inclusion" geschrieben und dass das im Stardust Update kommt: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1513070399894007810?s=20&t=vWdDCsTbCyxFt-6_SRJQVg)
+29.  **Twitter Hype**: Hans Moog hat etwas zu AlephZero geschrieben und auch warum IOTA viel besser ist: [Threadreader](https://threadreaderapp.com/thread/1512477098283134976.html); Hier der original [Tweet](https://twitter.com/hus_qy/status/1512477098283134976?s=20&t=vWdDCsTbCyxFt-6_SRJQVg)
+30.  **IOTA Hype/Drama**: Hans holt den Hammer raus: [Tweet](https://twitter.com/hus_qy/status/1512548098995896327?s=20&t=vWdDCsTbCyxFt-6_SRJQVg)
+31.  **IOTA Youtube**: [IOTAWeekly 035: IOTA, Shimmer sowie Preis und Features des Tokens](https://www.youtube.com/watch?v=0Ajwq3f1u2c); Hier auf [englisch](https://www.youtube.com/watch?v=Lb51S72ocHM&feature=youtu.be)
+32.  **IOTA Telegramm**: [Holger Köthers Aussage](https://github.com/iota-community/community-events/blob/main/page/stammtisch/2022-04-11/Holgers%20Aussage.md) im Telegram Channel IOTA_DACH, in der er über die falschen Erwartungen und die Altlasten spricht
+33.  **Green IOTA**: Dom Schiener will in grüne Technologien investieren und überall IOTA verwenden wo es möglich ist: [Tweet](https://twitter.com/DomSchiener/status/1513073899424133124?s=20&t=EvOFkUBaoOHxY0c1Kh_aEA)
+34.  **Crypto News**: Bitcoin Miami Conference: Was waren die größten Announcements? 
+35.  **Crypto News**: [Tesla, Block and Blockstream team up to mine bitcoin off solar power in Texas](https://www.cnbc.com/2022/04/08/tesla-block-blockstream-to-mine-bitcoin-off-solar-power-in-texas.html)
+36.  **Crypto News**: [Jack Mallers’ Strike Announces Shopify Integration for Bitcoin Lightning Payments](https://www.coindesk.com/business/2022/04/07/jack-mallers-strike-announces-shopify-integration-for-bitcoin-lightning-payments/)
