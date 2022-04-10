@@ -1,4 +1,5 @@
-Holger Köther 9.April im IOTA DACH Telegram Channel: 
+Holger Köther am 9.April im IOTA DACH Telegram Channel: 
+
 Aber wann gibt’s es denn endlich was zum lesen? Ich denke allen geht’s hier erst...
 
 Michael WUM
