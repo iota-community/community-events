@@ -36,3 +36,5 @@
 34.  **Crypto News**: Bitcoin Miami Conference: Was waren die größten Announcements? 
 35.  **Crypto News**: [Tesla, Block and Blockstream team up to mine bitcoin off solar power in Texas](https://www.cnbc.com/2022/04/08/tesla-block-blockstream-to-mine-bitcoin-off-solar-power-in-texas.html)
 36.  **Crypto News**: [Jack Mallers’ Strike Announces Shopify Integration for Bitcoin Lightning Payments](https://www.coindesk.com/business/2022/04/07/jack-mallers-strike-announces-shopify-integration-for-bitcoin-lightning-payments/)
+37.  **IOTA News**: [Wochenrückblich von IOTA Talks](https://www.iota-talk.com/index.php?article/174-wochenr%C3%BCckblick-vom-3-bis-9-april-2022/)
+38.  
