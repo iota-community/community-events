@@ -1,4 +1,4 @@
-**Stammtischthemen für Montag, den 11.04.2022
+## Stammtischthemen für Montag, den 11.04.2022
 
 1. **IF Youtube**: [IOTA Quicktakes 04.04.2022: Roadmap for IOTA, Shimmer & Assembly, Introducing Touchpoint & more!](https://www.youtube.com/watch?v=w0cRiSHFky0)
 2. **IOTA NFT**: [Zentangle.io](https://zentangle.io/) mit einem [Anleitungsvideo](https://www.youtube.com/watch?v=9RGiYFQHDm4) wie man den Dragon NFT kauft
@@ -37,4 +37,6 @@
 35.  **Crypto News**: [Tesla, Block and Blockstream team up to mine bitcoin off solar power in Texas](https://www.cnbc.com/2022/04/08/tesla-block-blockstream-to-mine-bitcoin-off-solar-power-in-texas.html)
 36.  **Crypto News**: [Jack Mallers’ Strike Announces Shopify Integration for Bitcoin Lightning Payments](https://www.coindesk.com/business/2022/04/07/jack-mallers-strike-announces-shopify-integration-for-bitcoin-lightning-payments/)
 37.  **IOTA News**: [Wochenrückblich von IOTA Talks](https://www.iota-talk.com/index.php?article/174-wochenr%C3%BCckblick-vom-3-bis-9-april-2022/)
-38.  
+38.  **IOTA Audio**: [IOTA DAO Meeting](https://twitter.com/PhyloIota/status/1513305286789894145?s=20&t=FvnAaRWN_KntZOTwL_bBSw) in der Nacht von Montag auf Dienstag
+39.  **IOTA Defi**: TangleSea [veröffentlicht](https://twitter.com/TangleSeaDEX/status/1513232418085511169?s=20&t=FvnAaRWN_KntZOTwL_bBSw) ein neues Artikel: [Chapter 6: The Lumis and the Gateway to the ShimmerSea](https://medium.com/@tangleseastory/chapter-6-the-lumis-and-the-gateway-to-the-shimmersea-36433e2fbfb0)
+40.  **IOTA Defi/NFT**: TanglePay will jetzt auch NFTs mit Benefits auf [Soonaverse](https://soonaverse.com/collection/0x8524677b08b8a48488103cc66419cc83efdbadc1) verkaufen: [Tweet](https://twitter.com/tanglepaycom/status/1513405981526740992?s=20&t=FvnAaRWN_KntZOTwL_bBSw); Hier mehr zu den [Iceberg Legends](https://nft.tanglepay.com/nftEntry.html)
