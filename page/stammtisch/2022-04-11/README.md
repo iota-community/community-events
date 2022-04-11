@@ -43,3 +43,4 @@
 41.  **IOTA Defi**: SoonLabs [tweetet](https://twitter.com/soon_labs/status/1513399425753772034?s=20&t=FvnAaRWN_KntZOTwL_bBSw), dass auf dem NFT-Marktplatz in weniger als 11 Tagen 6,3 Tiota gehandelt wurden und dass noch sehr viel neues kommt im April
 42.  **IOTA dev**: [GoShimmer - Sprint Planning Weeks 14-15, 2022 #25](https://github.com/iotaledger/research-updates/discussions/25)
 43.  **IOTA NFT**: Heute sind 51 Magic Vodoo Dolls in 3D verkauft worden: [Tweet](https://twitter.com/Magic_MemeMoney/status/1512730407560744961?s=20&t=l6ybFrgl5aXHGs-BMHcO2g); Waren in 10min ausverkauft: [Tweet](https://twitter.com/Magic_MemeMoney/status/1513495841545330688?s=20&t=l6ybFrgl5aXHGs-BMHcO2g)
+44.  **IOTA NFT/Adoption**: IotaOrigin machen jetzt auch eine DAO NFT Kollektion: [Tweet1](https://twitter.com/origin_iota/status/1513515376189091843?t=-hwjD7XtJ93qnQoud_T6Ew&s=19); [Tweet 2](https://twitter.com/origin_iota/status/1513549973689974786?s=20&t=Nso5lOMOg4wFP3S84Dld1w)
