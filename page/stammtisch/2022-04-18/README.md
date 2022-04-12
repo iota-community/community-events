@@ -6,3 +6,4 @@
 4. **IOTA Identity**: Jelle Milenar promoted eine Stelle als "Engineering Manager for the Identity team": [Tweet 1/4](https://twitter.com/JelleFm/status/1513849307920834560?s=20&t=ZsWE1b9XvFRnY54SgRGqGg)
 5. **IOTA media**: Mechele Nati im Interview: [Empowering Individuals with Self-Sovereign Identity](https://www.kuppingercole.com/events/eic2022/blog/empowering-individuals-with-self-sovereign-identity?ref=linkedinssnati)
 6. **IOTA Staking**: Dom S. schreibt "Soon für Assembly": [Tweet mit Screenshot](https://twitter.com/lluisin_alpha/status/1513631836253175810?s=20&t=cjb2Rp-zW4Or5Vd5rXATfw)
+7. **IOTA Ökosystem**: Assembly [tweetet](https://twitter.com/assembly_net/status/1513866062915411975?s=20&t=zRrK4heMVboKuktBXwgwgQ) darüber, dass TangleSea die erste DEX wird verlinkt den Blogpost: [TangleSea joins the Assembly ecosystem](https://blog.assembly.sc/tanglesea-joins-the-assembly-ecosystem/)
