@@ -20,3 +20,7 @@
 18. **IOTA Ökosystem**: Mesh+ ist offenbar sehr zufrieden mit ihrer Entwicklung: [Tweet](https://twitter.com/iotaMESH/status/1513822516837560322?s=20&t=rtvoqHwQyet1H6t-B0vlqA)
 19. **IOTA Defi/NFT**: IOTAapes und TangleSea wollen zusammenarbeiten: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1514242005882134531?s=20&t=ndbzHIZyOIp2UVbxF0CDlw)
 20. **Crypto news**: Ethereum merge doch nicht im Juni sondern Monate später... : [Tweet von Ethereum-Entwickler Tim Beiko](https://twitter.com/TimBeiko/status/1514010098145759232?s=20&t=dYgAcjYg2OpOzUCMNnUH6w)
+21. **IOTA intern**: Die IF [sucht](https://twitter.com/iota/status/1514529063318298624?s=20&t=QA8M9UMFTXP702KR3jtitQ) einen [Software Engineer - Identity, Tokenization and SC](https://iota.bamboohr.com/jobs/view.php?id=186&source=other)
+22. **IOTA Adoption**: [CoinPayU.com](https://www.coinpayu.com/) mit 130K Followern haben [getweetet](https://twitter.com/CoinPayU/status/1514516165770596360?s=20&t=NOtJ0QQsGAPwa4jySGTMrg), dass sie IOTA hinzu gefügt haben; 
+23. **IOTA dev**: Hiveroad [tweeten](https://twitter.com/Hiveroad/status/1514556853530857472?s=20&t=NOtJ0QQsGAPwa4jySGTMrg) über ihren Artikel: [Introducing Hiveroad — Your Highway to IOTA
+Hiveroad makes development on Web3 easier, faster, and more accessible. We provide tools and services for a single, simple development workflow.](https://medium.com/hiveroad/introducing-hiveroad-your-highway-to-iota-9ef71c8ae1b0) 
