@@ -30,3 +30,5 @@
 28. **IOTA Audio**: Neuer Moonanco Podcast mit Linus Nauman über den IOTA Content Creator DAO: [Tweet](https://twitter.com/MoonacoPodcast/status/1514547491294916608?s=20&t=hizvMkxEQ3g8D17y85Sieg); [Spotify Link](https://open.spotify.com/episode/28J2zloIANpp8YN5By1mmH?si=wy_iFj7JTSmUtvGxJMwWvg&nd=1)
 29. **IOTA NFT**: SoonLabs macht Snapshot um die 1,5 Millionen Soon Token zu verteilen: [Tweet](https://twitter.com/soon_labs/status/1514823328694820871?s=20&t=hizvMkxEQ3g8D17y85Sieg)
 30. **IOTA Termin**: Am Dienstag ist IOTA DAO Pioneer meeting [Twitter Spaces](https://twitter.com/PhyloIota/status/1514865837743947776?s=20&t=Iul7MoXdIYC_rvKWNv1Q2w)
+31. **IOTA dev**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1514951966388113412?s=20&t=mGt4H5XPdFeCwXyt-A0sHQ) über das [TIP-32 Shimmer Protocol Parameters #71](https://github.com/iotaledger/tips/pull/71)
+32. 
