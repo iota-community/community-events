@@ -36,3 +36,4 @@
 34. **IOTA NFT/Defi**: Es wurden 270 Lumis verteilt für Leute die ein ShimmerSea Meme gemacht haben: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1515335666091102218?s=20&t=nFXhQPwBF3U26OqXpGeFGQ)
 35. **IOTA Ökosystem**: Es gab ein Update von TanglePay: [Tweet](https://twitter.com/tanglepaycom/status/1515253905328062465) und sie wollen Soon auch NFTs anzeigen im mobilen Wallet: [Tweet](https://twitter.com/adam_unchained/status/1515360346390757376?s=20&t=nFXhQPwBF3U26OqXpGeFGQ)
 36. **IOTA Ökosystem**: Zignar [tweetet](https://twitter.com/zentangle_io/status/1515364231797157894?s=20&t=ZMlJRDPRQd53z249T7g0gQ) +ber dieses Interview: [An IOTA of innovation](https://blog.ledger.com/iota-innovation/)
+37. **IOTA Audio**: Es gab ein Nigeria Voice Meeting auf [Twitter Spaces](https://twitter.com/IotaNigeria/status/1515084845910745092?s=20&t=nFXhQPwBF3U26OqXpGeFGQ)
