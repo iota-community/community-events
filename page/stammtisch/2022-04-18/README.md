@@ -37,3 +37,5 @@
 35. **IOTA Ökosystem**: Es gab ein Update von TanglePay: [Tweet](https://twitter.com/tanglepaycom/status/1515253905328062465) und sie wollen Soon auch NFTs anzeigen im mobilen Wallet: [Tweet](https://twitter.com/adam_unchained/status/1515360346390757376?s=20&t=nFXhQPwBF3U26OqXpGeFGQ)
 36. **IOTA Ökosystem**: Zignar [tweetet](https://twitter.com/zentangle_io/status/1515364231797157894?s=20&t=ZMlJRDPRQd53z249T7g0gQ) +ber dieses Interview: [An IOTA of innovation](https://blog.ledger.com/iota-innovation/)
 37. **IOTA Audio**: Es gab ein Nigeria Voice Meeting auf [Twitter Spaces](https://twitter.com/IotaNigeria/status/1515084845910745092?s=20&t=nFXhQPwBF3U26OqXpGeFGQ)
+38. **IOTA Ökosystem**: SoonLabs [tweetet](https://twitter.com/soon_labs/status/1515566274507534338?s=20&t=UlT51UUKbe1lXtskMR4HKA) über ihren Blogpost: [The Path to Decentralization](https://web3.soonaverse.com/)
+39. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/176-wochenr%C3%BCckblick-vom-10-bis-16-april-2022/)
