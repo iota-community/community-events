@@ -31,4 +31,8 @@
 29. **IOTA NFT**: SoonLabs macht Snapshot um die 1,5 Millionen Soon Token zu verteilen: [Tweet](https://twitter.com/soon_labs/status/1514823328694820871?s=20&t=hizvMkxEQ3g8D17y85Sieg)
 30. **IOTA Termin**: Am Dienstag ist IOTA DAO Pioneer meeting [Twitter Spaces](https://twitter.com/PhyloIota/status/1514865837743947776?s=20&t=Iul7MoXdIYC_rvKWNv1Q2w)
 31. **IOTA dev**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1514951966388113412?s=20&t=mGt4H5XPdFeCwXyt-A0sHQ) über das [TIP-32 Shimmer Protocol Parameters #71](https://github.com/iotaledger/tips/pull/71)
-32. 
+32. **IOTA Youtube**: IOTA weekly [auf deutsch](https://www.youtube.com/watch?v=xgufpQALUNI&feature=youtu.be) und [auf englisch](https://www.youtube.com/watch?v=obTNbEFR5gw&feature=youtu.be)
+33. **IOTA NFT/Defi**: Die IOTApes sind in 5 min alle verkauft worden
+34. **IOTA NFT/Defi**: Es wurden 270 Lumis verteilt für Leute die ein ShimmerSea Meme gemacht haben: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1515335666091102218?s=20&t=nFXhQPwBF3U26OqXpGeFGQ)
+35. **IOTA Ökosystem**: Es gab ein Update von TanglePay: [Tweet](https://twitter.com/tanglepaycom/status/1515253905328062465) und sie wollen Soon auch NFTs anzeigen im mobilen Wallet: [Tweet](https://twitter.com/adam_unchained/status/1515360346390757376?s=20&t=nFXhQPwBF3U26OqXpGeFGQ)
+36. **IOTA Ökosystem**: Zignar [tweetet](https://twitter.com/zentangle_io/status/1515364231797157894?s=20&t=ZMlJRDPRQd53z249T7g0gQ) +ber dieses Interview: [An IOTA of innovation](https://blog.ledger.com/iota-innovation/)
