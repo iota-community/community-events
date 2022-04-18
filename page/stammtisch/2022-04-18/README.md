@@ -39,3 +39,6 @@
 37. **IOTA Audio**: Es gab ein Nigeria Voice Meeting auf [Twitter Spaces](https://twitter.com/IotaNigeria/status/1515084845910745092?s=20&t=nFXhQPwBF3U26OqXpGeFGQ)
 38. **IOTA Ökosystem**: SoonLabs [tweetet](https://twitter.com/soon_labs/status/1515566274507534338?s=20&t=UlT51UUKbe1lXtskMR4HKA) über ihren Blogpost: [The Path to Decentralization](https://web3.soonaverse.com/)
 39. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/176-wochenr%C3%BCckblick-vom-10-bis-16-april-2022/)
+40. **IOTA Play 2 Earn**: Linus Naumann will heute im IOTA Stammtisch etwas zu DAOBee erzählen: [Tweet](https://twitter.com/Daobeegame/status/1516024355989430279?s=20&t=WR9CF6zk_ODaYdmLByf-UQ)
+41. **IOTA Ökosystem**: Lebenszeichen von Deposy: [Tweet](https://twitter.com/deposyproject/status/1515835406318678017?s=20&t=WR9CF6zk_ODaYdmLByf-UQ)
+42. **Crypto News**: Christoph Strnadl freut sich über die EU: [Tweet](https://twitter.com/archimate/status/1515743521248092161?s=20&t=WR9CF6zk_ODaYdmLByf-UQ) mit Link: [Digital finance: Pilot regime on distributed ledger technology market infrastructures (DLT)](https://oeil.secure.europarl.europa.eu/oeil/popups/summary.do?id=1698420&t=e&l=en)
