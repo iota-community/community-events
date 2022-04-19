@@ -10,3 +10,10 @@
 8. **Twitter Hype**: Mat Yarger macht Mut: [Tweet](https://twitter.com/Mat_Yarger/status/1516155106609471490?s=20&t=WYh2cFtEoEx2wNLv5WPUPw) "It’s time to get strong again."... "Much more coming out on that (Dell) over the coming weeks"
 9. **IOTA Audio**: DAO Meeting auf [Twitter Spaces](https://twitter.com/PhyloIota/status/1514865837743947776?s=20&t=01xfoSahqPASZWF0YseVQA)
 10. **IOTA Youtube**: TanglePay mit AMA: [Tweet](https://twitter.com/tanglepaycom/status/1516020380153966594?s=20&t=01xfoSahqPASZWF0YseVQA)
+11. **IOTA Ökosystem**: IotaOrigin mit neuer IDAKI Partnerschaft: [Tweet](https://twitter.com/origin_iota/status/1516379698841935874?s=20&t=01xfoSahqPASZWF0YseVQA); Bericht: [Sustainable economic development in the mining sector](https://www.giz.de/en/worldwide/19891.html)
+12. **Twitter Hype**: Hans Moog antwortet auf Tweet von 2017 und erklärt den neuen parallel based Ledger von IOTA: [Tweet 1/n](https://twitter.com/hus_qy/status/1516191493790351363?s=20&t=01xfoSahqPASZWF0YseVQA)
+13. **IOTA Event**: Michele Nati will bei [ensuresec Event](https://www.linkedin.com/feed/update/urn:li:share:6922202829361156096) über IOTA reden: [Tweet](https://twitter.com/michelenati/status/1516437203810934785?s=20&t=01xfoSahqPASZWF0YseVQA)
+14. **IOTA Staking**: Firefly 1.5.1 wurde released: [Tweet](https://twitter.com/c_varley/status/1516484389718437889?s=20&t=01xfoSahqPASZWF0YseVQA)
+15. **IOTA Ökosystem**: Am 20.04. will Zentangle ihren ihren neuen NFT Marktplatz wieder neu starten: [Tweet](https://twitter.com/zentangle_io/status/1516175846372884481?s=20&t=01xfoSahqPASZWF0YseVQA)
+16. **IOTA Musik NFT**: Toptrack NFT will 10.000 Genesis NFTs und damit 5% von der Firma verkaufen: [Tweet](https://twitter.com/ToptracksNFT/status/1516110801840615436?s=20&t=01xfoSahqPASZWF0YseVQA)
+17. **IOTA Event**: Dom Schiener sucht Namen für IOTA Konferenz: [Tweet](https://twitter.com/DomSchiener/status/1516348354250301447?s=20&t=01xfoSahqPASZWF0YseVQA)
