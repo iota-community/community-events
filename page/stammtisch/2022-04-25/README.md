@@ -17,3 +17,5 @@
 15. **IOTA Ökosystem**: Am 20.04. will Zentangle ihren ihren neuen NFT Marktplatz wieder neu starten: [Tweet](https://twitter.com/zentangle_io/status/1516175846372884481?s=20&t=01xfoSahqPASZWF0YseVQA)
 16. **IOTA Musik NFT**: Toptrack NFT will 10.000 Genesis NFTs und damit 5% von der Firma verkaufen: [Tweet](https://twitter.com/ToptracksNFT/status/1516110801840615436?s=20&t=01xfoSahqPASZWF0YseVQA)
 17. **IOTA Event**: Dom Schiener sucht Namen für IOTA Konferenz: [Tweet](https://twitter.com/DomSchiener/status/1516348354250301447?s=20&t=01xfoSahqPASZWF0YseVQA)
+18. **Crypto News**: Australien will nächste Woche offenbar Bitcoin ETF listen: [Tweet](https://twitter.com/btc_archive/status/1516354494199742464?s=21&t=TquqJ_6fWRGoLXkyw9r3eA)
+19. 
