@@ -8,3 +8,5 @@
 6. **IOTA Ökosystem**: Der NFT Marktplatz von ZenTangle geht wieder los: [Tweet](https://twitter.com/zentangle_io/status/1516175846372884481?s=20&t=WYh2cFtEoEx2wNLv5WPUPw)
 7. **IOTA Ökosystem**: TanglePay will ein AMA machen: [Tweet](https://twitter.com/tanglepaycom/status/1516020380153966594?s=20&t=WYh2cFtEoEx2wNLv5WPUPw)
 8. **Twitter Hype**: Mat Yarger macht Mut: [Tweet](https://twitter.com/Mat_Yarger/status/1516155106609471490?s=20&t=WYh2cFtEoEx2wNLv5WPUPw) "It’s time to get strong again."... "Much more coming out on that (Dell) over the coming weeks"
+9. **IOTA Audio**: DAO Meeting auf [Twitter Spaces](https://twitter.com/PhyloIota/status/1514865837743947776?s=20&t=01xfoSahqPASZWF0YseVQA)
+10. **IOTA Youtube**: TanglePay mit AMA: [Tweet](https://twitter.com/tanglepaycom/status/1516020380153966594?s=20&t=01xfoSahqPASZWF0YseVQA)
