@@ -19,3 +19,5 @@
 17. **IOTA Event**: Dom Schiener sucht Namen für IOTA Konferenz: [Tweet](https://twitter.com/DomSchiener/status/1516348354250301447?s=20&t=01xfoSahqPASZWF0YseVQA)
 18. **Crypto News**: Australien will nächste Woche offenbar Bitcoin ETF listen: [Tweet](https://twitter.com/btc_archive/status/1516354494199742464?s=21&t=TquqJ_6fWRGoLXkyw9r3eA)
 19. **IOTA NFT/P2E**: KamilLabs mit Volksmythika: [Tweet](https://twitter.com/kamilabsstudio/status/1516672554139889667?s=20)
+20. **Twitter Hype**: Charley Varley mit einem [Soon-Tweet](https://twitter.com/c_varley/status/1516748176602144778?s=20)
+21. 
