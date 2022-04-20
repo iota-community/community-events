@@ -20,4 +20,6 @@
 18. **Crypto News**: Australien will nächste Woche offenbar Bitcoin ETF listen: [Tweet](https://twitter.com/btc_archive/status/1516354494199742464?s=21&t=TquqJ_6fWRGoLXkyw9r3eA)
 19. **IOTA NFT/P2E**: KamilLabs mit Volksmythika: [Tweet](https://twitter.com/kamilabsstudio/status/1516672554139889667?s=20)
 20. **Twitter Hype**: Charley Varley mit einem [Soon-Tweet](https://twitter.com/c_varley/status/1516748176602144778?s=20)
-21. 
+21. **IOTA NFT/P2E**: Kamil Labs mit Volks Mythika Kollaboration mit Assembley: 
+22. **IOTA NFT/P2E**: DAOBee whitepaper release: [Tweet](https://twitter.com/Daobeegame/status/1516780141128699910?s=20&t=jZ1tbBopzNyluBp3bLJcaQ); Webseite: [daobee.io](https://www.daobee.io/)
+23. **IF Youtube**: [Tweet](https://twitter.com/iota/status/1516794084026990611?s=20&t=jZ1tbBopzNyluBp3bLJcaQ)
