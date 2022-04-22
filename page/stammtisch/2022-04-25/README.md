@@ -24,3 +24,9 @@
 22. **IOTA NFT/P2E**: DAOBee whitepaper release: [Tweet](https://twitter.com/Daobeegame/status/1516780141128699910?s=20&t=jZ1tbBopzNyluBp3bLJcaQ); Webseite: [daobee.io](https://www.daobee.io/)
 23. **IF Youtube**: [Tweet](https://twitter.com/iota/status/1516794084026990611?s=20&t=jZ1tbBopzNyluBp3bLJcaQ)
 24. **IOTA dev**: Charley Varley [tweetet](https://twitter.com/c_varley/status/1516755847891677186?s=20&t=0KZWIpP32LV_l4Kf0PSHLA) über den Stand von Handy Wallet (mobile wallet)
+25. **IOTA Audio**: Neuer Moonaco Podcast mi tDom Schiener: [Tweet](https://twitter.com/MoonacoPodcast/status/1517080516033273859?s=20); Spotify [Link](https://open.spotify.com/episode/1T4bAsjtNySMKP5DRpvOB2?si=9ysn1BvkSIeINuJux1G0_w)
+26. **IOTA Defi**: [TangleSea Core Team Members](https://tanglesea.medium.com/new-tanglesea-core-team-members-69814fd3c67e) und hier noch der Artikel auf deutsch: [TangleSea schließt sich dem Assembly-Ökosystem an](https://iota-kurs.de/tanglesea-schliesst-sich-dem-assembly-oekosystem-an/)
+27. **IOTA Audio**: Am Donnerstag war wieder Voice Chat in der TangleGang. [Tweet](https://twitter.com/GangTangleTalk/status/1517096935529844739?t=0m4kAsP794RYUNIMejgBww&s=19)
+28. **IOTA Ökosystem**: Der Content Creator DAO [veröffentlicht](https://twitter.com/IOTAcontentDAO/status/1517237193432920069?s=20) ihre neue Webseite: [iotacreator.io/](https://www.iotacreator.io/)
+29. **IOTA Ökosystem**: Man wird soon im Soonaverse chatten können: [Tweet](https://twitter.com/gregmart/status/1517173842065510400?s=20)
+30. **IOTA Defi**: TangleSwap [veröffentlicht](https://twitter.com/TangleSwapE/status/1517176268575358978?s=20) mehr Details zu ihren NFTs
