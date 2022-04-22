@@ -2,7 +2,7 @@
 
 1. **IF Youtube**: IOTA Qucktakes...
 2. **IOTA NFT**: Top Tracks NFT verkauf für deztentrale Musikplattform startet bald: [Tweet](https://twitter.com/ToptracksNFT/status/1516110801840615436?s=20&t=WYh2cFtEoEx2wNLv5WPUPw)
-3. **IOTA P2E**: Linus Naumann hat DAOBee im Stammtisch erklärt: [Tweet](https://twitter.com/Daobeegame/status/1516024355989430279?s=20&t=WYh2cFtEoEx2wNLv5WPUPw)
+3. **IOTA P2E**: Linus Naumann hat DAOBee im Stammtisch erklärt: [Tweet](https://twitter.com/Daobeegame/status/1516024355989430279?s=20&t=WYh2cFtEoEx2wNLv5WPUPw); Es wurde auch ein Video [veröffentlicht](https://twitter.com/Daobeegame/status/1517137175443255297?s=20) über das Prinzip der Plattform
 4. **IOTA Ökosystem**: Zentangle [veröffentlicht](https://twitter.com/zentangle_io/status/1516125585797357571?s=20&t=WYh2cFtEoEx2wNLv5WPUPw) eine neue Partnerschaft mit P1-OM
 5. **IOTA Ükosystem**: SoonLabs [veröffentlicht](https://twitter.com/soon_labs/status/1516100263823613954?s=20&t=WYh2cFtEoEx2wNLv5WPUPw) mit dem Artikel "[Daaaaarrk Mode...](https://medium.com/@soonlabs/daaaaaaark-mode-57a6b91e7175)" und dann [veröffentlichen](https://twitter.com/soon_labs/status/1516131961990918144?s=20&t=WYh2cFtEoEx2wNLv5WPUPw) sie noch ihren GitHubLink zur [Soonaverse JavaScript/Typescript API](https://github.com/soonlabs/soonaverse-lib)
 6. **IOTA Ökosystem**: Der NFT Marktplatz von ZenTangle geht wieder los: [Tweet](https://twitter.com/zentangle_io/status/1516175846372884481?s=20&t=WYh2cFtEoEx2wNLv5WPUPw)
@@ -27,6 +27,9 @@
 25. **IOTA Audio**: Neuer Moonaco Podcast mi tDom Schiener: [Tweet](https://twitter.com/MoonacoPodcast/status/1517080516033273859?s=20); Spotify [Link](https://open.spotify.com/episode/1T4bAsjtNySMKP5DRpvOB2?si=9ysn1BvkSIeINuJux1G0_w)
 26. **IOTA Defi**: [TangleSea Core Team Members](https://tanglesea.medium.com/new-tanglesea-core-team-members-69814fd3c67e) und hier noch der Artikel auf deutsch: [TangleSea schließt sich dem Assembly-Ökosystem an](https://iota-kurs.de/tanglesea-schliesst-sich-dem-assembly-oekosystem-an/)
 27. **IOTA Audio**: Am Donnerstag war wieder Voice Chat in der TangleGang. [Tweet](https://twitter.com/GangTangleTalk/status/1517096935529844739?t=0m4kAsP794RYUNIMejgBww&s=19)
-28. **IOTA Ökosystem**: Der Content Creator DAO [veröffentlicht](https://twitter.com/IOTAcontentDAO/status/1517237193432920069?s=20) ihre neue Webseite: [iotacreator.io/](https://www.iotacreator.io/)
+28. **IOTA Ökosystem**: Der Content Creator DAO [veröffentlicht](https://twitter.com/IOTAcontentDAO/status/1517237193432920069?s=20) ihre neue Webseite: [iotacreator.io/](https://www.iotacreator.io/); Es gibt auch ein wöchentliches Voice Meeting: [Tweet](https://twitter.com/IOTAcontentDAO/status/1516838848503844868?s=20)
 29. **IOTA Ökosystem**: Man wird soon im Soonaverse chatten können: [Tweet](https://twitter.com/gregmart/status/1517173842065510400?s=20)
 30. **IOTA Defi**: TangleSwap [veröffentlicht](https://twitter.com/TangleSwapE/status/1517176268575358978?s=20) mehr Details zu ihren NFTs
+31. **IOTA dev**: Jelle Milenar [tweetet](https://twitter.com/JelleFm/status/1517120202454020096?s=20) darüber, dass sie Verifiable Presentations (VPs) auf ihrem IOTA Wiki mit aufgenommen haben
+32. **IOTA dev**: Shimmer [veröffentlicht](https://twitter.com/shimmernet/status/1517126304381947905?s=20) ein [TIP-33 Token and NFT Registry #72](https://github.com/iotaledger/tips/pull/72)
+33. **IOTA DAO**: Es gab ein DAO meeting: [Tweet](https://twitter.com/PhyloIota/status/1517118481262874625?s=20)
