@@ -42,5 +42,7 @@
 40. **IOTA NFT/P2E**: Thomas Christian [tweetet](https://twitter.com/TC081180/status/1517503257840545793?s=20&t=e4R64NBq0xJ6D3bSqAlnDQ) über ein neues Spiel: [iotaquest.com/](https://www.iotaquest.com/) das wohl die Api vom DLT node pool von dlt.green verwendet: [Tweet](https://twitter.com/dlt_green/status/1517504189680791554?s=20&t=e4R64NBq0xJ6D3bSqAlnDQ)
 41. **IOTA Ökosystem**: Antonio sucht BUILder: [Tweet](https://twitter.com/antonionardella/status/1517841353220177920?s=20&t=e4R64NBq0xJ6D3bSqAlnDQ)
 42. **Crypto news**: Christoph Strnadl will mit der EU reden und wurde von INATBA dazu eingeladen: [Tweet](https://twitter.com/archimate/status/1517500292866138112?s=20&t=e4R64NBq0xJ6D3bSqAlnDQ)
-43. 
-44. 
+43. **Crypto news**: Panama will Kryptowährungen legalisieren und erwähnt sogar IOTA: [Tweet](https://twitter.com/reht100/status/1517913516241469442?s=20&t=KOWnjiwOPXSAEsp_kptk2g); Die deutsche Übersetztung von dem [spanischen Gesetzesentwurf](https://twitter.com/gabrielsilva8_7/status/1517258643628044290?s=20&t=KOWnjiwOPXSAEsp_kptk2g) findet ihr auf Telegram in den [IOTA_DACH_NEWS](https://t.me/IOTA_DACH_NEWS); Hier die entscheidende Passage im [Tweet](https://twitter.com/Vrom14286662/status/1518092935174266880?s=20&t=KOWnjiwOPXSAEsp_kptk2g)
+44. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/178-wochenr%C3%BCckblick-vom-18-bis-23-april-2022/)
+45. **IOTA Ökosystem**: Society 2.0 will noch diesen Monate ein MVP heraus bringen: [Tweet](https://twitter.com/society2/status/1517593970129477632?s=20&t=KOWnjiwOPXSAEsp_kptk2g)
+46. 
