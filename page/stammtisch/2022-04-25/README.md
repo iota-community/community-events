@@ -55,3 +55,4 @@
 53. **IOTA Ökosystem**: BLACKPIN macht ein 7 min. Pitch ("WeChat für Europa"): [BLACKPIN pitched beim Event "Artiso Perfect Pitch"](https://www.youtube.com/watch?v=7kJIO_DVbno&feature=youtu.be)
 54. **IOTA Ökosystem**: Zentangle [tweetet](https://twitter.com/zentangle_io/status/1518607736761585664) über ihr peer reviewed paper: [Energy Efficiency Using IOTA Tangle for Greenhouse Agriculture](https://link.springer.com/chapter/10.1007/978-3-031-04447-2_9)
 55. **IOTA dev**: Update: [Networking group - Week 13-15, 2022 #32](https://github.com/iotaledger/research-updates/discussions/32)
+56. **IF NEWS**: Die [IF tweetet](https://twitter.com/iota/status/1518590087126212609?s=20&t=dqUlaNUNayawS95w2htbwg) über ihren Blogpost zur EU Regulierung: [A response to the Transfer of Funds regulation](https://blog.iota.org/a-response-to-the-transfer-of-funds-regulation/)
