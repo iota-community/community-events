@@ -52,4 +52,4 @@
 50. **IOTA Ökosystem**: [BlockchainDrenthe](https://twitter.com/BclDrenthe) hat ihren IOTA Usecase im niederlandischen Fernsehen bei RTVDrenthe(https://twitter.com/RTVDrenthe) erklärt: [Tweet](https://twitter.com/BclDrenthe/status/1518488022685212672?s=20&t=BkqSoXVM7EyieMCqkU1RGg)
 51. **IOTA dev**: [GoShimmer-0.8.12 Latest v0.8.12 - 2022-04-25](https://github.com/iotaledger/goshimmer/releases) release mit Evil Wallet und Evil Spammer...
 52. **IOTA Event**: Dom Schiener spricht in einer Panel Diskussion vor dem Europäischen Parlament: [IF Tweet](https://twitter.com/iota/status/1518530312745242628?s=20&t=57vt_HYv6fqAEcrQxhVI3A); Hier noch der [Tweet](https://twitter.com/DomSchiener/status/1518545129073696768?s=20&t=57vt_HYv6fqAEcrQxhVI3A) von Dom Schiener dazu; Hier der [Link zum Event](https://inatba.org/events-calendar/are-crypto-assets-different-ensuring-proportionality-and-technological-neutrality-in-the-aml-standards-of-the-eu/)
-53. 
+53. **IOTA Ökosystem**: BLACKPIN 7 min. Pitch ("WeChat für Europa"): [BLACKPIN pitched beim Event "Artiso Perfect Pitch"](https://www.youtube.com/watch?v=7kJIO_DVbno&feature=youtu.be)
