@@ -10,6 +10,8 @@
 8. **IOTA identity**: Es gibt einen neuen Blogpost von der IF([Tweet](https://twitter.com/iota/status/1518938039199879175?s=20&t=Y26eZwu9EYgVtdNbmTri8w)) von Jelle Millenar ([Tweet](https://twitter.com/JelleFm/status/1518944063172579328?s=20&t=shy_DuBXsKA8dLaNgQYMcg)): [The Binding Problem for SSI and NFTs IOTA Identity - Proving a link between a digital identity or NFT and what it represents.](https://blog.iota.org/the-binding-problem-for-ssi-and-nfts/); Coinmarketcap [tweetet](https://twitter.com/CoinMarketCap/status/1519204734804303877?s=20&t=shy_DuBXsKA8dLaNgQYMcg) darüber als "Articel of the day"
 9. **IOTA NFT**: Daobee [verkündet auf Twitter](https://twitter.com/Daobeegame) diese Woche eine Partnerschaft nach der anderen...
 10. **IOTA NFT**: Partnerschaft Shi-Universe und TanglePay: [Tweet](https://twitter.com/Shiuniverse/status/1519270966978875392?s=20&t=w3WbF1iG-CcJySp8zlJ_AQ)
-11. **IOTA news**: Christoph Strnadl bereitet sich auf sein Gespräch mit der EU vor: [Tweet1 ](https://twitter.com/archimate/status/1519252069219287040?s=20&t=Y26eZwu9EYgVtdNbmTri8w), [Tweet 2](https://twitter.com/archimate/status/1519254531166638088?s=20&t=shy_DuBXsKA8dLaNgQYMcg) und Buffy grätscht wieder rein...
-12. 
+11. **IOTA Twitter**: Christoph Strnadl bereitet sich auf sein Gespräch mit der EU vor: [Tweet1 ](https://twitter.com/archimate/status/1519252069219287040?s=20&t=Y26eZwu9EYgVtdNbmTri8w), [Tweet 2](https://twitter.com/archimate/status/1519254531166638088?s=20&t=shy_DuBXsKA8dLaNgQYMcg) und Buffy grätscht wieder rein...
+12. **IOTA Twitter**: Hans Moog [tweetet 1/n] zu dem obigen Thema
+13. **IOTA promote**; Regine [tweetet](https://twitter.com/Energine/status/1519301547229855746?s=20) und verlinkt die 28 seitige Zusammenfassung: [How to enhance your
+business with IOTA](https://files.iota.org/comms/IOTA_for_Business.pdf)
 
