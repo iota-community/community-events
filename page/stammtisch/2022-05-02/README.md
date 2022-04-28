@@ -20,6 +20,8 @@
 18. **IOTA dev**: Die [IF tweetet](https://twitter.com/iota/status/1519255151944548354?s=20&t=j3foXmxKwAdtukdT6oXBYw) über [Second Layer Scaling - Week 15, 2022 #30](https://github.com/iotaledger/research-updates/discussions/30)
 19. **IOTA dev**: Die [IF tweetet](https://twitter.com/iota/status/1519345859296649217?s=20&t=-8RKG9QqMxjW-ARi4iqchA) über [Smart Contracts - Week 16 and 17, 2022 #24](https://github.com/iotaledger/engineering-updates/discussions/24)
 20. **IOTA Twitter**: Christoph Strnadl [tweetet](https://twitter.com/archimate/status/1519444910369353728?s=20&t=j6fLxrXspf8zvQfrgJIZaA) eine Zusammenfassung der Ereignisse beim INATBA meeting in Brüssel beim Europa Parlament
-21. **Crypto News**: Das World Economic Forum [tweetet](https://twitter.com/wef/status/1519119185422524416?s=20&t=j6fLxrXspf8zvQfrgJIZaA) ein Video darüber, dass Bitcoin auf PoS umstellen sollte und promoten damit die Kampagne "Change the Code"
-22. 
+21. **IOTA Twitter**: Dom Schiener schildert auch seine Eindrücke von dem Treffen mit der EU: [Tweet](https://twitter.com/DomSchiener/status/1519586889107484673?s=20&t=yovXGYXw6O16II0ObNrx-Q)
+22. **Crypto News**: Das World Economic Forum [tweetet](https://twitter.com/wef/status/1519119185422524416?s=20&t=j6fLxrXspf8zvQfrgJIZaA) ein Video darüber, dass Bitcoin auf PoS umstellen sollte und promoten damit die Kampagne "Change the Code"
+23. **IF intern**: Die [IF sucht](https://twitter.com/iota/status/1519587480365846528?s=20&t=yovXGYXw6O16II0ObNrx-Q) einen [Marketing Manager/ Media Producer](https://iota.bamboohr.com/jobs/view.php?id=202&source=aWQ9NA%3D%3D)
+24. **
 
