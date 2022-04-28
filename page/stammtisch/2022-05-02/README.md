@@ -26,5 +26,7 @@
 24. **IOTA Audio**: Mat Yarger war im Moonaco Podcast: [Spotify Link](https://open.spotify.com/episode/5ege2EU5hXHjqdznymyqlN?si=OkAi0cqkT0q5TVZV09hGqw&nd=1)
 25. **IOTA Adoption**: Die [IF tweetet](https://twitter.com/iota/status/1519662927493668867?s=20&t=6EE3tkgXbv-pvOKzFtfz9g) über den Blogpost von WOTRAfocus: [Unleashing Opportunities for FemTechs with IOTA](https://developmentnavigator.com/unleashing-opportunities-for-femtechs-with-iota/)
 26. **IOTA NFT**: Die IOTABots [tweeten](https://twitter.com/iotabots/status/1519622025727426561?s=20&t=6EE3tkgXbv-pvOKzFtfz9g) über ihre PArtnerschaft mit ShimmerSea und man kann 50 Lumis gewinnen wenn man dieses Spiel ([https://lumibot.iotabots.io/](https://lumibot.iotabots.io/)) spielt und einen Screenshot davon postet
-27. 
+27. **IOTA Event**: Michele Nati [tweetet](https://twitter.com/michelenati/status/1519629972918489089?s=20&t=6EE3tkgXbv-pvOKzFtfz9g) darüber, dass er bei den Event ([The 2     ECSCI Workshop on Critical Infrastructure Protection](https://www.finsec-project.eu/second-ecsci-virtual-workshop) über IOTA sprechen darf
+28. **IOTA Event**: Michele Nati wird auch am 4.Mai bei einem Event sein: [Infrastructure |SDG9 Will we meet the goal?"  on Wednesday 4.may at 5:00 pm BST | 12:00 PM NY](https://www.linkedin.com/feed/update/urn:li:share:6925428606684790784)
+29. **Crypto News**: Die [IF tweetet](https://twitter.com/iota/status/1519647708126011393?s=20&t=6EE3tkgXbv-pvOKzFtfz9g) über den Artikel: [Crypto campaign targets EU ‘track-and-trace’ bill at 11th hour](https://www.politico.eu/article/crypto-campaign-target-eu-meps-transfer-funds-regulation/), den auch Dom schon [erwähnt](https://twitter.com/DomSchiener/status/1519586891972153344?s=20&t=6EE3tkgXbv-pvOKzFtfz9g) hatte
 
