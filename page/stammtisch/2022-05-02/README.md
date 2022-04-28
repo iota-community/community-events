@@ -29,4 +29,6 @@
 27. **IOTA Event**: Michele Nati [tweetet](https://twitter.com/michelenati/status/1519629972918489089?s=20&t=6EE3tkgXbv-pvOKzFtfz9g) darüber, dass er bei den Event ([The 2     ECSCI Workshop on Critical Infrastructure Protection](https://www.finsec-project.eu/second-ecsci-virtual-workshop) über IOTA sprechen darf
 28. **IOTA Event**: Michele Nati wird auch am 4.Mai bei einem Event sein: [Infrastructure |SDG9 Will we meet the goal?"  on Wednesday 4.may at 5:00 pm BST | 12:00 PM NY](https://www.linkedin.com/feed/update/urn:li:share:6925428606684790784)
 29. **Crypto News**: Die [IF tweetet](https://twitter.com/iota/status/1519647708126011393?s=20&t=6EE3tkgXbv-pvOKzFtfz9g) über den Artikel: [Crypto campaign targets EU ‘track-and-trace’ bill at 11th hour](https://www.politico.eu/article/crypto-campaign-target-eu-meps-transfer-funds-regulation/), den auch Dom schon [erwähnt](https://twitter.com/DomSchiener/status/1519586891972153344?s=20&t=6EE3tkgXbv-pvOKzFtfz9g) hatte
+30. **IOTA Youtube**: [First Country To Make IOTA Legal Tender?](https://www.youtube.com/watch?v=VgYGHNzw7nM)
+31. **IOTA dev**: Ist das neu? [VSCode Plugin for IOTA WASP NODE Developers](https://marketplace.visualstudio.com/items?itemName=CadenceDataSoft.iota-wasp-extension)
 
