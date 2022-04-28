@@ -12,6 +12,14 @@
 10. **IOTA NFT**: Partnerschaft Shi-Universe und TanglePay: [Tweet](https://twitter.com/Shiuniverse/status/1519270966978875392?s=20&t=w3WbF1iG-CcJySp8zlJ_AQ)
 11. **IOTA Twitter**: Christoph Strnadl bereitet sich auf sein Gespräch mit der EU vor: [Tweet1 ](https://twitter.com/archimate/status/1519252069219287040?s=20&t=Y26eZwu9EYgVtdNbmTri8w), [Tweet 2](https://twitter.com/archimate/status/1519254531166638088?s=20&t=shy_DuBXsKA8dLaNgQYMcg) und Buffy grätscht wieder rein...
 12. **IOTA Twitter**: Hans Moog [tweetet 1/n] zu dem obigen Thema
-13. **IOTA promote**; Regine [tweetet](https://twitter.com/Energine/status/1519301547229855746?s=20) und verlinkt die 28 seitige Zusammenfassung: [How to enhance your
-business with IOTA](https://files.iota.org/comms/IOTA_for_Business.pdf)
+13. **IOTA promote**: Regine [tweetet](https://twitter.com/Energine/status/1519301547229855746?s=20) und verlinkt die 28 seitige Zusammenfassung: [How to enhance your business with IOTA](https://files.iota.org/comms/IOTA_for_Business.pdf)
+14. **IOTA NFT/Metverse**: KamilLabs NFT sale passiert auf Soonaverse ([Tweet](https://twitter.com/kamilabsstudio/status/1518522332431753216?s=20&t=j6fLxrXspf8zvQfrgJIZaA)), weil Inspyrd erst mit smart contracts launchen kann ([Tweet](https://twitter.com/kamilabsstudio/status/1518858948056686592?s=20&t=j6fLxrXspf8zvQfrgJIZaA)
+15. **IOTA Youtube**: Alexander aus Punkt 6 [veröffentlicht](https://twitter.com/shortaktien/status/1519355597484871680?s=20&t=j6fLxrXspf8zvQfrgJIZaA) seine erste IOTA News Zusammenfassung: [IOTA NEWS #Pilot - Spiele, NFTs, EU und Updates - Deutsch](https://www.youtube.com/watch?v=MNsMU5uCpEA); [englisch](https://www.youtube.com/watch?v=IEbg27U013o)
+16. **IOTA Artikel**: Forbes News berichtet schlecht recherchiert über IOTA: [What Is IOTA? How Does It Work?](https://www.forbes.com/advisor/investing/cryptocurrency/what-is-iota/)
+17. **IOTA dev**: Die [IF tweetet](https://twitter.com/iota/status/1519209796951584770?s=20&t=2KrLu343SiJ6eGYoQ9s0sg) über [GoShimmer - Sprint Planning Weeks 16-17, 20229](https://github.com/iotaledger/research-updates/discussions/31)
+18. **IOTA dev**: Die [IF tweetet](https://twitter.com/iota/status/1519255151944548354?s=20&t=j3foXmxKwAdtukdT6oXBYw) über [Second Layer Scaling - Week 15, 2022 #30](https://github.com/iotaledger/research-updates/discussions/30)
+19. **IOTA dev**: Die [IF tweetet](https://twitter.com/iota/status/1519345859296649217?s=20&t=-8RKG9QqMxjW-ARi4iqchA) über [Smart Contracts - Week 16 and 17, 2022 #24](https://github.com/iotaledger/engineering-updates/discussions/24)
+20. **IOTA Twitter**: Christoph Strnadl [tweetet](https://twitter.com/archimate/status/1519444910369353728?s=20&t=j6fLxrXspf8zvQfrgJIZaA) eine Zusammenfassung der Ereignisse beim INATBA meeting in Brüssel beim Europa Parlament
+21. **Crypto News**: Das World Economic Forum [tweetet](https://twitter.com/wef/status/1519119185422524416?s=20&t=j6fLxrXspf8zvQfrgJIZaA) ein Video darüber, dass Bitcoin auf PoS umstellen sollte und promoten damit die Kampagne "Change the Code"
+22. 
 
