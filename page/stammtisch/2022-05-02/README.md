@@ -23,5 +23,8 @@
 21. **IOTA Twitter**: Dom Schiener schildert auch seine Eindrücke von dem Treffen mit der EU: [Tweet](https://twitter.com/DomSchiener/status/1519586889107484673?s=20&t=yovXGYXw6O16II0ObNrx-Q)
 22. **Crypto News**: Das World Economic Forum [tweetet](https://twitter.com/wef/status/1519119185422524416?s=20&t=j6fLxrXspf8zvQfrgJIZaA) ein Video darüber, dass Bitcoin auf PoS umstellen sollte und promoten damit die Kampagne "Change the Code"
 23. **IF intern**: Die [IF sucht](https://twitter.com/iota/status/1519587480365846528?s=20&t=yovXGYXw6O16II0ObNrx-Q) einen [Marketing Manager/ Media Producer](https://iota.bamboohr.com/jobs/view.php?id=202&source=aWQ9NA%3D%3D)
-24. **
+24. **IOTA Audio**: Mat Yarger war im Moonaco Podcast: [Spotify Link](https://open.spotify.com/episode/5ege2EU5hXHjqdznymyqlN?si=OkAi0cqkT0q5TVZV09hGqw&nd=1)
+25. **IOTA Adoption**: Die [IF tweetet](https://twitter.com/iota/status/1519662927493668867?s=20&t=6EE3tkgXbv-pvOKzFtfz9g) über den Blogpost von WOTRAfocus: [Unleashing Opportunities for FemTechs with IOTA](https://developmentnavigator.com/unleashing-opportunities-for-femtechs-with-iota/)
+26. **IOTA NFT**: Die IOTABots [tweeten](https://twitter.com/iotabots/status/1519622025727426561?s=20&t=6EE3tkgXbv-pvOKzFtfz9g) über ihre PArtnerschaft mit ShimmerSea und man kann 50 Lumis gewinnen wenn man dieses Spiel ([https://lumibot.iotabots.io/](https://lumibot.iotabots.io/)) spielt und einen Screenshot davon postet
+27. 
 
