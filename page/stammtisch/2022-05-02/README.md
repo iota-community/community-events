@@ -53,4 +53,5 @@
 51. **IOTA Defi**: Es sieht so aus als gibt es eine neue DEX: [ZeroSwap.Exchange](https://twitter.com/Zeroswap_Ex/status/1520694317169451008?s=20&t=y8hra7LaHY0Ha3H9VQQqVw)
 52. **Crypto News**: Solana ist/war mal wieder down: [Tweet](https://twitter.com/SolanaStatus/status/1520508697100926977?s=20&t=y8hra7LaHY0Ha3H9VQQqVw)
 53. **Crypto News**: Ethereum Fees sind mal wieder wegen einem NFT Sale ausgeartet: [ETH gas price surges as Yuga Labs cashes in $300M selling Otherside NFTs](https://cointelegraph.com/news/eth-gas-price-surges-as-yuga-labs-cashes-in-300m-selling-otherside-nfts)
+54. **IOTA Ökosystem**: TangleLabs ist bei der "Decentralized Identity Foundation" aufgenommen worde: [Tweet](https://twitter.com/Tangle_Labs/status/1520668178027880453?s=20&t=tnl6YoLrHUbCdbDqeBhA6w)
 
