@@ -42,16 +42,21 @@
 40. **IOTA Adaption**: Scheinbar ist das Gesetz in Panama zur Legalisierung von Cryptos (u.a. auch IOTA) verabschiedet worden: [Tweet](https://twitter.com/reht100/status/1520057459141918722?s=20&t=4DsQy91OKiDtWutPYEcNTw); Hier nochmal die [Breaking news](https://twitter.com/MoisesGale/status/1519718511723139073?s=20&t=4DsQy91OKiDtWutPYEcNTw) dazu und noch ein [Tweet](https://twitter.com/OfficialTxa/status/1520035264491659264?s=20&t=4DsQy91OKiDtWutPYEcNTw)
 41. **IOTA Ökosystem**: SoonLabs [tweetet](https://twitter.com/soon_labs/status/1520266924629782528?s=20&t=4DsQy91OKiDtWutPYEcNTw) über ihren neuen Blogpost: [Introducing the Fab 5…HUNDRED](https://soonlabs.medium.com/fab-5-hundred-57e013347497)
 42. **IOTA Twitter**: Adam mit [vielen Tweets](https://twitter.com/adam_unchained/status/1520270177056661504?s=20&t=4DsQy91OKiDtWutPYEcNTw)  über die SoonLabs-Entwicklung
-43. **IOTA Audio**: Am Sonntag war der Africa Voice Chat: [Tweet](https://twitter.com/IotaNigeria/status/1520679503969800192?t=lPvjOmy0Ulkwii0I1MYuIA&s=19)
+43. **IOTA Audio**: Am Sonntag war der Africa Voice Chat: [Tweet](https://twitter.com/IotaNigeria/status/1520679503969800192?t=lPvjOmy0Ulkwii0I1MYuIA&s=19); Hier eine [Tweet-Zusammenfassung](https://twitter.com/IotaNigeria/status/1520514772780859402?s=20&t=rjSIypvWE7ElDjdEcjckUA) davon
 44. **IOTA Soon**: Dom Schiener [retweetet](https://twitter.com/DomSchiener/status/1520334033594593280?s=20&t=y8hra7LaHY0Ha3H9VQQqVw) etwas zum Thema "IOTA Soon on Ledger Live"
 45. **IOTA Sharding**: Hans Moog hat eine [Diskussion zum Thema Sharding](https://govern.iota.org/t/fluid-sharding/1285) begonnen und [einen Tweet](https://twitter.com/hus_qy/status/1520796128748396544?s=20&t=y8hra7LaHY0Ha3H9VQQqVw) dazu abgesetzt
 46. **IOTA Youtube**: [Spec Weekly - Episode 1: Assembly Staking + PRICE SPECULATION, and IOTA as a CURRENCY IN PANAMA!](https://www.youtube.com/watch?v=xLZglnsolIA)
-47. **IOTA Youtube**: [IOTA IDENTITY v0.5 + ASMB Staking - IOTA Monthly 1](https://www.youtube.com/watch?app=desktop&v=3gh04Nkrb1A)
-48. **IOTA Youtube**:[IOTA Updates: Die Ruhe vor dem Sturm: Coordicide in 2023?](IOTA Updates: Die Ruhe vor dem Sturm: Coordicide in 2023?)
+47. **IOTA Youtube**: Von 
+IOTAMonthly: [IOTA IDENTITY v0.5 + ASMB Staking - IOTA Monthly 1](https://www.youtube.com/watch?app=desktop&v=3gh04Nkrb1A)
+48. **IOTA Youtube**: Von IOTA Updates: [Die Ruhe vor dem Sturm: Coordicide in 2023?](https://www.youtube.com/watch?v=Zlg_nNUQPmQ)
 49. **IOTA Einsteigerguide**: einfachIOTA [tweetet](https://twitter.com/einfachIOTA/status/1520775016564068354?s=20&t=y8hra7LaHY0Ha3H9VQQqVw) darüber, dass sie eine [neue Webseite](https://iota-einsteiger-guide.de/) haben und dort u.a. den [Einsteiger Guide von Schmucklos](https://iota-einsteiger-guide.de/archiv-iota-einsteiger-guide/) archiviert haben
 50. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/180-wochenr%C3%BCckblick-vom-24-bis-30-april-2022/)
-51. **IOTA Defi**: Es sieht so aus als gibt es eine neue DEX: [ZeroSwap.Exchange](https://twitter.com/Zeroswap_Ex/status/1520694317169451008?s=20&t=y8hra7LaHY0Ha3H9VQQqVw)
+51. **IOTA Defi**: Es sieht so aus als ob es eine neue IOTA DEX gib: [ZeroSwap.Exchange](https://twitter.com/Zeroswap_Ex/status/1520694317169451008?s=20&t=y8hra7LaHY0Ha3H9VQQqVw)
 52. **Crypto News**: Solana ist/war mal wieder down: [Tweet](https://twitter.com/SolanaStatus/status/1520508697100926977?s=20&t=y8hra7LaHY0Ha3H9VQQqVw)
-53. **Crypto News**: Ethereum Fees sind mal wieder wegen einem NFT Sale ausgeartet: [ETH gas price surges as Yuga Labs cashes in $300M selling Otherside NFTs](https://cointelegraph.com/news/eth-gas-price-surges-as-yuga-labs-cashes-in-300m-selling-otherside-nfts)
-54. **IOTA Ökosystem**: TangleLabs ist bei der "Decentralized Identity Foundation" aufgenommen worde: [Tweet](https://twitter.com/Tangle_Labs/status/1520668178027880453?s=20&t=tnl6YoLrHUbCdbDqeBhA6w)
+53. **Crypto News**: Ethereum Fees sind wegen eines NFT Sales kurzfristig ziemlich stark gestiegen: [ETH gas price surges as Yuga Labs cashes in $300M selling Otherside NFTs](https://cointelegraph.com/news/eth-gas-price-surges-as-yuga-labs-cashes-in-300m-selling-otherside-nfts)
+54. **IOTA Ökosystem**: TangleLabs ist bei der "Decentralized Identity Foundation" aufgenommen worden: [Tweet](https://twitter.com/Tangle_Labs/status/1520668178027880453?s=20&t=tnl6YoLrHUbCdbDqeBhA6w)
+55. **IOTA Artikel**: Koweitseng hat den Artikel [‘DLT and Physics’: consensus, time, and data structure](https://medium.com/@koweitseng.sol/dlt-and-physics-consensus-time-and-data-structure-2559829d7a74) veröffentlicht
+56. **IOTA Stammtisch**: Am Dienstag ist IOTA Stammtisch in Stuttgart ([Tweet](https://twitter.com/IotaStuttgart/status/1520825496833261568?s=20&t=rjSIypvWE7ElDjdEcjckUA)) und am Freitag in München ([Tweet](https://twitter.com/IotaMunchen/status/1520475937963446272?s=20&t=rjSIypvWE7ElDjdEcjckUA))
+57. **IOTA Adaption**: Am Dienstag will [Steve Todd](https://www.dell.com/en-us/blog/authors/steve-todd/), der VP of Data Innovation and Strategy, auf der "DellTechnologies World"-Messe mehr zum Theme IOTA und Alvarium sagen; Im Vortrag geht es um "Real-Time Carbon Footprint Tracking through a Data Confidence Fabric"; Hier ein [Hype-Tweet](https://twitter.com/JoshuaPeeling/status/1520842049259462661) von "
+PurpleRainBro" dazu
 
