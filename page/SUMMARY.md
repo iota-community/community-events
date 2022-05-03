@@ -72,3 +72,4 @@
 - [2022-04-18](./stammtisch/2022-04-18/README.md)
 - [2022-04-25](./stammtisch/2022-04-25/README.md)
 - [2022-05-02](./stammtisch/2022-05-02/README.md)
+- [2022-05-09](./stammtisch/2022-05-09/README.md)
