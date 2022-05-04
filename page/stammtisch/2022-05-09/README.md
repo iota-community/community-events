@@ -19,3 +19,5 @@
 17. **IOTA dev**: Jelle Milenar [tweetet](https://twitter.com/JelleFm/status/1521774712476643328?s=20&t=JRbvOfy9412N7nCXNslk4A) über ein [Update von den DID Documents](https://wiki.iota.org/identity.rs/decentralized_identifiers/update) im wiki.iota.org
 18. **IOTA Science**: Die [IF tweetet](https://twitter.com/iota/status/1521776716347289600?s=20&t=HU_8FH0MQqgl-r8VRMtHgw) über ein neues Paper: [Feedback control for distributed ledgers: An attack mitigation policy for DAG-based DLTs](https://arxiv.org/abs/2204.11691)
 19. **IOTA NFT/Metaverse**: KamilLabs hat am Donnerstag ein AMA abgehalten
+20. **IOTA Science**: Neues Paper (Co Autor Hans Moog): [Reality-based UTXO Ledger](https://arxiv.org/abs/2205.01345)
+21. 
