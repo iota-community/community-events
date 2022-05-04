@@ -17,3 +17,5 @@
 15. **Crypto News**: Dom [tweetet](https://twitter.com/DomSchiener/status/1521757485098487808?s=20&t=6VOJXwKVFGS51D1cjqNI0Q) darüber, dass u.a. IOTA jetzt legal tender in Panama ist
 16. **IOTA intern**: Die [IF sucht](https://twitter.com/iota/status/1521761665603231745?s=20&t=2xzLzWRRKU2jOwtgAHqINA) einen [Senior Software Engineer - Go / Core Node Software](https://iota.bamboohr.com/jobs/view.php?id=204&source=aWQ9NA%3D%3D)
 17. **IOTA dev**: Jelle Milenar [tweetet](https://twitter.com/JelleFm/status/1521774712476643328?s=20&t=JRbvOfy9412N7nCXNslk4A) über ein [Update von den DID Documents](https://wiki.iota.org/identity.rs/decentralized_identifiers/update) im wiki.iota.org
+18. **IOTA Science**: Die [IF tweetet](https://twitter.com/iota/status/1521776716347289600?s=20&t=HU_8FH0MQqgl-r8VRMtHgw) über ein neues Paper: [Feedback control for distributed ledgers: An attack mitigation policy for DAG-based DLTs](https://arxiv.org/abs/2204.11691)
+19. **IOTA NFT/Metaverse**: KamilLabs hat am Dienstag ein AMA abgehalten
