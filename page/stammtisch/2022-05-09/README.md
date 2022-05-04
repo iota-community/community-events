@@ -4,7 +4,7 @@
 2. **IOTA Defi**: Die nächste DEX die auf IOTA bauen will: [http://feeless.finance/](http://feeless.finance/)
 3. **IOTA Audio**: [IOTA DAO Pioneer Twitter Space](https://twitter.com/PhyloIota/status/1521131649278222336?s=20&t=cxbAxrVGM363BK4_JkxjqA)
 4. **IOTA Event**: Holger Köther und Regine H. waren bei dem "DMEXCO Digital Spring Summit": [IF tweet](Digital Spring Summit)
-5. **IF Blogpost**: [IOTA in Gaia-X 4 Future Mobility](https://blog.iota.org/iota-in-gaia-x-4-future-mobility/); Hier die [deutsche Übersetzung:](https://iota-kurs.de/iota-in-gaia-x-fuer-die-mobilitaet-der-zukunft/)
+5. **IF Blogpost**: [IOTA in Gaia-X 4 Future Mobility](https://blog.iota.org/iota-in-gaia-x-4-future-mobility/); Hier die [deutsche Übersetzung:](https://iota-kurs.de/iota-in-gaia-x-fuer-die-mobilitaet-der-zukunft/); Auf CoinmarketCap ist das wieder der "Article of the Day": [Tweet](https://twitter.com/CoinMarketCap/status/1521760137350119424?s=20&t=LequNkPSLtlFqpY8gaY63g)
 6. **IOTA Ökosystem**: The Fans Together haben eine neue [Webseite](https://www.thefanstogether.io/landing-page)
 7. **IOTA NFT/P2E**: DAOBee [tweeten](https://twitter.com/Daobeegame/status/1521430081134116865?s=20&t=EPYFDNjiUDajnCmaDGeUcw) darüber, dass man $Bee staken kann um IOTA zu verdienen; Am Montag gibt es NFTs zu kaufen. Hier die Webseite: [https://www.daobee.io/](https://www.daobee.io/)
 8. **Crypto News**: Anja Raden von der IF ist gewählt worden als eine von 7 Vorständen bei dem Blockchain Bundesverband e.V: [Tweet](https://twitter.com/bundesblock/status/1512805304777457668?s=20&t=kEjkHoiEqv6QoAX0k-89Mg)
