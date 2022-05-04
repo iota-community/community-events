@@ -8,7 +8,11 @@
 6. **IOTA Ökosystem**: The Fans Together haben eine neue [Webseite](https://www.thefanstogether.io/landing-page)
 7. **IOTA NFT/P2E**: DAOBee [tweeten](https://twitter.com/Daobeegame/status/1521430081134116865?s=20&t=EPYFDNjiUDajnCmaDGeUcw) darüber, dass man $Bee staken kann um IOTA zu verdienen; Am Montag gibt es NFTs zu kaufen. Hier die Webseite: [https://www.daobee.io/](https://www.daobee.io/)
 8. **Crypto News**: Anja Raden von der IF ist gewählt worden als eine von 7 Vorständen bei dem Blockchain Bundesverband e.V: [Tweet](https://twitter.com/bundesblock/status/1512805304777457668?s=20&t=kEjkHoiEqv6QoAX0k-89Mg)
-9. **IOTA tutorial**: Am Dienstag war Assembly Office Hour
-10. **IOTA Adoption**: Die [IF tweetet](https://twitter.com/iota/status/1521474692795842560?s=20&t=I5KgSW5W_fAUdqdPdcsrzA) über eine E-Shop Demo als PoC das sie mit Ensuresec zusammen entwickelt haben: [https://eshop-poc.solutions.iota.org/](https://eshop-poc.solutions.iota.org/)
+9. **IOTA Tutorial**: Am Dienstag war Assembly Office Hour
+10. **IOTA Adoption**: Die [IF tweetet](https://twitter.com/iota/status/1521474692795842560?s=20&t=I5KgSW5W_fAUdqdPdcsrzA) über eine E-Shop Demo als PoC das sie mit Ensuresec zusammen entwickelt haben: [https://eshop-poc.solutions.iota.org/](https://eshop-poc.solutions.iota.org/): Ensuresec [beschreibt das Thema auf LinkedIN](https://www.linkedin.com/posts/ensuresec_ecommerce-response-mitigation-activity-6925769222522339328-6VuY) 
 11. **IOTA dev**: TangleBay [tweetet](https://twitter.com/tanglebay/status/1521478839867686912?s=20&t=I5KgSW5W_fAUdqdPdcsrzA) darüber, dass Swarm v2 released wurde 
-12. 
+12. **IOTA Stammtische**: Diese Wochen waren viele IOTA Stammtische (In Stuttgart, Zürich und München): [Tweet](https://twitter.com/einfachIOTA/status/1521103477589610497?s=20&t=Lr4uMoU8Q79nqZCeutj9PA)
+13. **IOTA Audio**: TangleGang Crypto Talk war am Donnerstag: [Tweet](https://twitter.com/GangTangleTalk/status/1521519268692647938?s=20&t=lRiit-RBkjmr4VNWK15M0A)
+14. **IOTA Ökosystem**: TangleLabs hat jetzt einen Blog: [blog.tanglelabs.io](https://blog.tanglelabs.io/)
+15. **Crypto News**: Dom [tweetet](https://twitter.com/DomSchiener/status/1521757485098487808?s=20&t=6VOJXwKVFGS51D1cjqNI0Q) darüber, dass u.a. IOTA jetzt legal tender in Panama ist
+16. **IOTA intern**: Die [IF sucht](https://twitter.com/iota/status/1521761665603231745?s=20&t=2xzLzWRRKU2jOwtgAHqINA) einen [Senior Software Engineer - Go / Core Node Software](https://iota.bamboohr.com/jobs/view.php?id=204&source=aWQ9NA%3D%3D)
