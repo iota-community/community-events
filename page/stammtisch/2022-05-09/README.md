@@ -47,5 +47,5 @@
 45. **IF intern**: Die [IF sucht](https://twitter.com/iota/status/1522486517893152768?s=20&t=x7qzI34KKbX-IOvc-ZUQow) einen [Engineering Manager - Digital Identity](https://iota.bamboohr.com/jobs/view.php?id=203&source=aWQ9NA%3D%3D)
 46. **IF Youtube**: Die [IF tweetet](https://twitter.com/iota/status/1522516739371814914?s=20&t=3cbZU4HdD_oNqq548ZjOtQ) über [2022 04 26 IOTA Experience Smart Contracts Meeting](https://www.youtube.com/watch?v=enFZAFsN8Us), wo Eric Hopp auch ein paar Angaben zu Timelines macht...
 47. **IOTA Audio**: Neuer Moonaco Pocast mit DAObee: [Episode 22 auf Spotify](https://open.spotify.com/episode/2EZl0XdbueQ98kdsi2ZvVM?si=j6jifRZjTNaYnF30fABUIw&nd=1)
-48. **IOTA Twitter**: Hans Moog shillt seine Trust Maschine in [sehr vielen Tweets](https://twitter.com/hus_qy/status/1522519109715603456?s=20&t=3cbZU4HdD_oNqq548ZjOtQ)
-49. 
+48. **IOTA Twitter**: Hans Moog shillt seine Trust Maschine in [sehr vielen Tweets](https://twitter.com/hus_qy/status/1522519109715603456?s=20&t=3cbZU4HdD_oNqq548ZjOtQ); Und auch Evaldas [retweetet](https://twitter.com/lunfardo314/status/1522543724533886977?s=20&t=3cbZU4HdD_oNqq548ZjOtQ) den initialen [Tweet von Polynya](https://twitter.com/epolynya/status/1522420940054835200?s=20&t=3cbZU4HdD_oNqq548ZjOtQ)
+49. **Twitter Drama**: Hans schießt gegen Andrew Miller (Bio: Asst. Prof @ UIUC; IC3 http://initc3.org; Zcash Foundation; Chainlink Labs): [Tweet](https://twitter.com/hus_qy/status/1522541306580508672?s=20&t=ROFBtKBgpqkDs5vYnak2ZQ)
