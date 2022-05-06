@@ -44,3 +44,5 @@
 42. **IOTA devnet*: Am Tag von den Coordicide Papern ging das GoShimmer Netz in die Knie. Das war natürlich eine Vorlage für Buffy aber es wird wohl bald gefixt: [Tweet mit Screenshots](https://twitter.com/qaiza_/status/1522329019236110340?s=20&t=ROFBtKBgpqkDs5vYnak2ZQ)
 43. **IOTA Artikel**: TangleSwaps im Article of the Day auf CoinMarketCap: [Tweet](https://twitter.com/CoinMarketCap/status/1522099393075499008?s=20&t=4RDOD_EIDbWU7uZj4BaxJg)
 44. **IOTA dev tools**: Zentangle hat ihren Code vom ["Giveaway Smart contract"](https://github.com/zignartech/zentangle-wasp/tree/main/giveaway) open source gestellt: [Tweet](https://twitter.com/zentangle_io/status/1522259278395891719?s=20&t=x7qzI34KKbX-IOvc-ZUQow)
+45. **IF intern**: Die [IF sucht](https://twitter.com/iota/status/1522486517893152768?s=20&t=x7qzI34KKbX-IOvc-ZUQow) einen [Engineering Manager - Digital Identity](https://iota.bamboohr.com/jobs/view.php?id=203&source=aWQ9NA%3D%3D)
+46. 
