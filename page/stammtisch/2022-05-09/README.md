@@ -11,7 +11,7 @@
 9. **IOTA Tutorial**: Am Dienstag war Assembly Office Hour
 10. **IOTA Adoption**: Die [IF tweetet](https://twitter.com/iota/status/1521474692795842560?s=20&t=I5KgSW5W_fAUdqdPdcsrzA) über eine [E-Shop Demo](https://eshop-poc.solutions.iota.org/) als PoC das sie mit Ensuresec zusammen entwickelt haben; Ensuresec [beschreibt das Thema](https://www.linkedin.com/posts/ensuresec_ecommerce-response-mitigation-activity-6925769222522339328-6VuY) auf LinkedIN 
 11. **IOTA dev**: TangleBay [tweetet](https://twitter.com/tanglebay/status/1521478839867686912?s=20&t=I5KgSW5W_fAUdqdPdcsrzA) darüber, dass Swarm v2 released wurde 
-12. **IOTA Stammtische**: Diese Wochen waren viele IOTA Stammtische (In Stuttgart, Zürich und München): [Tweet](https://twitter.com/einfachIOTA/status/1521103477589610497?s=20&t=Lr4uMoU8Q79nqZCeutj9PA)
+12. **IOTA Stammtische**: Diese Wochen waren viele IOTA Stammtische (In Stuttgart, Zürich und München): [Tweet](https://twitter.com/einfachIOTA/status/1521103477589610497?s=20&t=Lr4uMoU8Q79nqZCeutj9PA); [Tweet mit Bildern](https://twitter.com/IotaMunchen/status/1523657417740804096?s=20&t=MZV2P4WGwy6S8Wcs6hAu-w) vom IOTA Stammtisch München
 13. **IOTA Audio**: TangleGang Crypto Talk war am Donnerstag: [Tweet](https://twitter.com/GangTangleTalk/status/1521519268692647938?s=20&t=lRiit-RBkjmr4VNWK15M0A); Siehe auch Punkt 61
 14. **IOTA Ökosystem**: TangleLabs hat jetzt einen Blog: [blog.tanglelabs.io](https://blog.tanglelabs.io/)
 15. **Crypto News**: Dom [tweetet](https://twitter.com/DomSchiener/status/1521757485098487808?s=20&t=6VOJXwKVFGS51D1cjqNI0Q) darüber, dass u.a. IOTA jetzt legal tender in Panama ist
@@ -63,5 +63,7 @@
 61. **IOTA Artikel**: Linus Nauman hat für TangleLabs einen Artikel geschrieben: [What is Self-Sovereign Identity?](https://blog.tanglelabs.io/62782301a9ed0df5ace5be86); Das war eine Kooperation mit dem Content Creator DAO: [Tweet](https://twitter.com/LinusNaumann/status/1523408152498106368?s=20&t=S-QvIyrwDXrLf-lEbYP4oA)
 62. **Twitter Hype**: Hans Moog mal wieder mit einem ultimativen [Hype-Tweet](https://twitter.com/hus_qy/status/1522576325147611138?s=20&t=S-QvIyrwDXrLf-lEbYP4oA) "I claim that the proposed voting mechanism has the absolute best performance any voting mechanism could possibly ever achieve in any metric (time to finality, messaging complexity, robustness, protocol complexity and so on.."
 63. **IOTA Artikel** von Krypto-Guru: [IOTA Update: Zukunft unserer Mobilität mit GAIA-X](https://krypto-guru.de/news/iota-update-zur-zukunft-mit-gaia-x/)
+64. **IOTA Patent**: [WO2022075154A1 CONTROL METHOD, CONTROL DEVICE, AND PROGRAM](https://worldwide.espacenet.com/patent/search/family/081125937/publication/WO2022075154A1?q=pn%3DWO2022075154A1)
+65. **IOTA Ökosystem**: Die [IF tweetet](https://twitter.com/iota/status/1523649067896692736?s=20&t=0IrOrynjuyHKdYpyUn5gfw) über die ZEBRA Technologies und dem Blogpost: [Identity on the Edge Partnerships - Introducing the Zebra-IOTA Edge SDK](https://blog.iota.org/identity-on-the-edge-zebra/)
 
 
