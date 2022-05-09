@@ -65,5 +65,6 @@
 63. **IOTA Artikel** von Krypto-Guru: [IOTA Update: Zukunft unserer Mobilität mit GAIA-X](https://krypto-guru.de/news/iota-update-zur-zukunft-mit-gaia-x/)
 64. **IOTA Patent**: [WO2022075154A1 CONTROL METHOD, CONTROL DEVICE, AND PROGRAM](https://worldwide.espacenet.com/patent/search/family/081125937/publication/WO2022075154A1?q=pn%3DWO2022075154A1)
 65. **IOTA Ökosystem**: Die [IF tweetet](https://twitter.com/iota/status/1523649067896692736?s=20&t=0IrOrynjuyHKdYpyUn5gfw) über die ZEBRA Technologies und dem Blogpost: [Identity on the Edge Partnerships - Introducing the Zebra-IOTA Edge SDK](https://blog.iota.org/identity-on-the-edge-zebra/)
+66. **IOTA Roadmap**: Es gab ein Update von [roadmap.iota.org](https://roadmap.iota.org/)
 
 
