@@ -16,9 +16,16 @@
 14. **IOTA Adaption**: Christoph Strnadl [tweetet](https://twitter.com/archimate/status/1524404355692175360?s=20) über ein 5. Projekt das sie mit IOTA bauen
 15. **IOTA Event**: ZEDEDA [tweetet](https://twitter.com/ZededaEdge/status/1524602531715829760?s=20&t=5LarhjUo6J4c8SAtQwv54Q) über ein Event mit DELL und IOTA
 16. **IOTA Ökosystem**: SoonLabs und Assembly Partnerschaft: [Welcome Soonaverse to the Assembly Ecosystem](https://blog.assembly.sc/welcome-soonaverse-to-the-assembly-ecosystem/)
-17. **IOTA Ökosystem**: 
-18. **Crypto News**: Terra Luna UST stable coin war nicht so stable...
-19. **Crypto News**: Übler Krypto Crash. Bitcoin deutlich $30K
-20. **IOTA Audio**: Neuer Moonaco Podcast mit TanglePay 
-21. **Twitter Hype**: Dom S. Mit einem #WAGMI Tweet und Strnadl ist auch weiterhin bullish
+17. **IOTA Ökosystem**: Der IOTA Content Creator DAO will einen ICCD-Newsletter für wichtige IOTA-Entwicklungen erstellen: [Tweet](https://twitter.com/IOTAcontentDAO/status/1524625712702902272?s=20&t=1I4OKXo9SxdKewqX7EakRg)
+18. **Crypto News**: Terra Luna UST stable coin war doch nicht so stable...
+19. **Crypto News**: Übler Krypto Crash. Bitcoin deutlich unter $30K
+20. **IOTA Audio**: Neuer Moonaco Podcast mit TanglePay [Spotify Link](https://open.spotify.com/episode/4MvoyLVe6KuHf0AFtf5POv)
+21. **Twitter Hype**: Dom S. Mit einem ["Alles wird gut"-Tweet](https://twitter.com/DomSchiener/status/1524644095100174336?s=20&t=9KbsXBtNPNgxXndbN4t0Lw) und Strnadl ist auch weiterhin positiv gestimmt und verweist auf das exzellente Whitepaper: [Tweet](https://twitter.com/archimate/status/1524771201796739072?s=20&t=1I4OKXo9SxdKewqX7EakRg)
+22. **IOTA Event**: Julie Maupin wird auf dem Chainlink Berlin Meetup #4 auftreten: [Tweet](https://twitter.com/juliemaupin/status/1524666570013876225?s=20&t=1I4OKXo9SxdKewqX7EakRg)
+23. **IOTA Audio**: Es gab ein IOTA Americas Meetup: [Tweet](https://twitter.com/gregmart/status/1524520735989018624?s=20&t=1I4OKXo9SxdKewqX7EakRg)
+24. **IOTA Treassurry Vote**: Es geht vorran. Die Testgruppe testet das Voting bereits: [Tweet](https://twitter.com/PhyloIota/status/1524339076534784000?s=20&t=1I4OKXo9SxdKewqX7EakRg)
+25. **Crypto Steuern**: Bundesministerium der Finanzen veröffentlicht [BMF-Schreiben zur Ertragsbesteuerung von virtuellen Währungen und sonstigen Token](https://www.bundesfinanzministerium.de/Content/DE/Pressemitteilungen/Finanzpolitik/2022/05/2022-05-11-ertragsbesteuerung-von-virtuellen-waehrungen.html)
+26. **IOTA NFT Airdrop**: SoonLabs [twittert](https://twitter.com/soon_labs/status/1524969939488034816?s=20&t=1I4OKXo9SxdKewqX7EakRg) über den 3. Airdrop und verteilt die Excel Liste: [https://docs.google.com/spreadsheets/d/1p_UMC8Fmw78bMK8cRqrXkXe-59nHQK8fSoJwLypRun4/edit#gid=1585516814](https://docs.google.com/spreadsheets/d/1p_UMC8Fmw78bMK8cRqrXkXe-59nHQK8fSoJwLypRun4/edit#gid=1585516814)
+27. **IOTA Audio**: Adri Wischman von Blockchain Drenthe war bei der TangleGang im Voicechat: [Tweet](https://twitter.com/GangTangleTalk/status/1524724907707441152?s=20&t=EKoL0g_PFN4975HA4UGwhQ)
+28. **IOTA Ökosystem**: Im Soonaverse gibt es jetzt mehrere Leute die den Badge für Auktionen verteilen können: [Tweet mit Link zu 3 Soonaverse Badges](https://twitter.com/soon_labs/status/1524864156465176578?s=20&t=eBt3CW9Ohditt6wRCKJnuA)
 
