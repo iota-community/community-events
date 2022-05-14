@@ -39,5 +39,8 @@
 37. **IOTA Youtube**: [12/05/22 IOTA Community Treasury Governance call](https://www.youtube.com/watch?v=l7fWqJjvhgA)
 38. **IOTA Artikel**: jBlackpin in einem Interview: [Die sicherste digitale Transaktionsplattform Europas kommt](https://www.techtag.de/it-und-hightech/it-security/die-sicherste-digitale-transaktionsplattform-europas-kommt/)
 39. **IF Blogpost**: Der [IF Blogpost](https://blog.iota.org/identity-on-the-edge-zebra/) von ZEBRA und IOTA wurde auf deutsch übersetzt: [Identität am Rande](https://iota-kurs.de/identitaet-am-rande/)
-40. 
+40. **IOTA Youtube**: [Spec Weekly - Episode 3: All about GAIA-X. Sorry if boring.. uWu](https://www.youtube.com/watch?v=PynhWupzosY)
+41. **IOTA Stammtisch**: Es war ein IOTA Stammtisch in Bern: [Tweet](https://twitter.com/Lord_SciFi/status/1525456170424598529?s=20&t=gS1dhX6pglkFMXe2fP2MtQ)
+42. **IOTA dev**: Das DAO Voting lässt sich schon testen: [Build Firefly Desktop Build Firefly Desktop #314](https://github.com/iotaledger/firefly/actions/runs/2323981279)
+43. **IOTA Ökosystem**: [IOTAPoker](https://twitter.com/IOTA_Pokerclub) [tweetet](https://twitter.com/IOTA_Pokerclub/status/1525451834541883392?s=20&t=gS1dhX6pglkFMXe2fP2MtQ) über ihren Medium Artikel: [IOTA Pokerclub - The Grand Opening](https://medium.com/@sam_sara/iota-pokerclub-f93d1b6c5e21)
 
