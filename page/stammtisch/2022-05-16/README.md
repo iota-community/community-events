@@ -28,4 +28,16 @@
 26. **IOTA NFT Airdrop**: SoonLabs [twittert](https://twitter.com/soon_labs/status/1524969939488034816?s=20&t=1I4OKXo9SxdKewqX7EakRg) über den 3. Airdrop und verteilt die Excel Liste: [https://docs.google.com/spreadsheets/d/1p_UMC8Fmw78bMK8cRqrXkXe-59nHQK8fSoJwLypRun4/edit#gid=1585516814](https://docs.google.com/spreadsheets/d/1p_UMC8Fmw78bMK8cRqrXkXe-59nHQK8fSoJwLypRun4/edit#gid=1585516814)
 27. **IOTA Audio**: Adri Wischman von Blockchain Drenthe war bei der TangleGang im Voicechat: [Tweet](https://twitter.com/GangTangleTalk/status/1524724907707441152?s=20&t=EKoL0g_PFN4975HA4UGwhQ)
 28. **IOTA Ökosystem**: Im Soonaverse gibt es jetzt mehrere Leute die den Badge für Auktionen verteilen können: [Tweet mit Link zu 3 Soonaverse Badges](https://twitter.com/soon_labs/status/1524864156465176578?s=20&t=eBt3CW9Ohditt6wRCKJnuA)
+29. **IOTA Gevern**: Phylo hat über eine neue Diskussion [gestartet](https://twitter.com/PhyloIota/status/1525318712525737990?s=20&t=JQSeu6BS7e6IBECkv7zYUA) auf govern.iota.org: [Defining the IOTA Governace proposal proccess and lifecycle](https://govern.iota.org/t/discussion-defining-the-iota-governace-proposal-proccess-and-lifecycle/1297)
+30. **Twitter Hype**: SoonLabs [freut](https://twitter.com/soon_labs/status/1525192991991734277?s=20&t=JQSeu6BS7e6IBECkv7zYUA) sich auf die nächste Woche "comming weeg is even BIGGER"
+31. **IOTA Defi**: IOTABee [tweetet](https://twitter.com/iotabee/status/1524595882112348160?s=20&t=JQSeu6BS7e6IBECkv7zYUA) über ihren Blogpost: [Iotabee, the multichain DEX will launch on Shimmer and Assembly](https://medium.com/@iotabee/iotabee-the-multichain-dex-will-launch-on-shimmer-and-assembly-1c9ac609323f)
+32. **Twitter Hype**: Dom Schiener [antwortet mit 2 Tweets](https://twitter.com/DomSchiener/status/1525210695561887745?s=20&t=JQSeu6BS7e6IBECkv7zYUA) dem Stefan Berger ein Mitglied aus dem EU Parlament
+33. **IOTA Event**: Michele Nati [tweetet](https://twitter.com/michelenati/status/1525018556655599617?s=20&t=wF2lTX_XdlQ-OIhuzpv8yA) darüber, dass man die [Slides von seinem Vortrag](https://docs.google.com/presentation/d/e/2PACX-1vTgXJGrdGRKmBNjoEq0LNc2AU1XxX_w3IlfvA603D8wUGsb7XktdgvFUncwsdFKCEtqP-kmecdWDKWU/pub?start=true&loop=true&delayms=60000&slide=id.gbd663a128d_0_0) bei der EIC Konferenz sich anschauen kann
+34. **IOTA Defi**: TangleSwap [tweetet](https://twitter.com/TangleSwapE/status/1525094217655242756?s=20&t=wF2lTX_XdlQ-OIhuzpv8yA) über ihre neue [Teaser-Webseite](https://www.tangleswap.exchange/)
+35. **IOTA Youtube**: IotaPoet mit neuer Folge: [IOTA Explained for Non-Devs: What are Native Assets? Episode 2](https://www.youtube.com/watch?v=enqPty3nqP4)
+36. **IOTA Youtube**: [Probably Nothing #4 - Leaks - DEX - Treasury - DEUTSCH](https://www.youtube.com/watch?v=mXSfCK7Rxzo)
+37. **IOTA Youtube**: [12/05/22 IOTA Community Treasury Governance call](https://www.youtube.com/watch?v=l7fWqJjvhgA)
+38. **IOTA Artikel**: jBlackpin in einem Interview: [Die sicherste digitale Transaktionsplattform Europas kommt](https://www.techtag.de/it-und-hightech/it-security/die-sicherste-digitale-transaktionsplattform-europas-kommt/)
+39. **IF Blogpost**: Der [IF Blogpost](https://blog.iota.org/identity-on-the-edge-zebra/) von ZEBRA und IOTA wurde auf deutsch übersetzt: [Identität am Rande](https://iota-kurs.de/identitaet-am-rande/)
+40. 
 
