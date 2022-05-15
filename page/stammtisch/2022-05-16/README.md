@@ -44,7 +44,7 @@
 42. **IOTA dev**: Das DAO Voting lässt sich schon testen: [Build Firefly Desktop Build Firefly Desktop #314](https://github.com/iotaledger/firefly/actions/runs/2323981279)
 43. **IOTA Ökosystem**: [IOTAPoker](https://twitter.com/IOTA_Pokerclub) [tweetet](https://twitter.com/IOTA_Pokerclub/status/1525451834541883392?s=20&t=gS1dhX6pglkFMXe2fP2MtQ) über ihren Medium Artikel: [IOTA Pokerclub - The Grand Opening](https://medium.com/@sam_sara/iota-pokerclub-f93d1b6c5e21)
 44. **IOTA Youtube**: Michele Nati Auftritt bei [TiiQu Talks | Sustainable Infrastructure](https://www.youtube.com/watch?v=F7cLVKgZihc)
-45. **IOTA Ökosystem**: Eine deutsche Vertretung von "Get It Club", will IOTA einsammeln um Kanabis Pflanzen anzubauen. Sie sind eine Art liquidity pool für [kannabyte.com](http://kannabyte.com) und wollen glaube ich ein Investment DAO "Get it Club DAO" werden
+45. **IOTA Ökosystem**: Eine deutsche Vertretung von "Get It Club", will in Zukunft auch IOTA einsammeln um Kanabis Pflanzen anzubauen. Sie sind eine Art liquidity pool für [kannabyte.com](http://kannabyte.com) und sind eine Investment DAO "Get it Club DAO" 
 46. **IOTA DAO/NFT**: SoonLabs [tweetet](https://twitter.com/soon_labs/status/1525713449614864385?s=20&t=mlOlCCqpEKvV2S2NEapIMA) nochmal über ihren Artikel "[Shimmer $SOON](https://soonlabs.medium.com/shimmer-soon-3ddac2814bb2)" in dem die Tokenomics erklärt werden von dem Soon Token den man ab dem 24.5. im Soonaverse kaufen kann
 47. 
 
