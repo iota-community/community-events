@@ -40,7 +40,11 @@
 38. **IOTA Artikel**: jBlackpin in einem Interview: [Die sicherste digitale Transaktionsplattform Europas kommt](https://www.techtag.de/it-und-hightech/it-security/die-sicherste-digitale-transaktionsplattform-europas-kommt/)
 39. **IF Blogpost**: Der [IF Blogpost](https://blog.iota.org/identity-on-the-edge-zebra/) von ZEBRA und IOTA wurde auf deutsch übersetzt: [Identität am Rande](https://iota-kurs.de/identitaet-am-rande/)
 40. **IOTA Youtube**: [Spec Weekly - Episode 3: All about GAIA-X. Sorry if boring.. uWu](https://www.youtube.com/watch?v=PynhWupzosY)
-41. **IOTA Stammtisch**: Es war ein IOTA Stammtisch in Bern: [Tweet](https://twitter.com/Lord_SciFi/status/1525456170424598529?s=20&t=gS1dhX6pglkFMXe2fP2MtQ)
+41. **IOTA Stammtisch**: Es war ein IOTA Stammtisch in Bern: [Tweet](https://twitter.com/Lord_SciFi/status/1525456170424598529?s=20&t=gS1dhX6pglkFMXe2fP2MtQ) und [dlt.greeen](https://twitter.com/dlt_green) will einen Stammtisch in Tyrol etablieren: [Tweet](https://twitter.com/dlt_green/status/1525535097612648448?s=20&t=iXwkObDf7qG1retq4tQoVA)
 42. **IOTA dev**: Das DAO Voting lässt sich schon testen: [Build Firefly Desktop Build Firefly Desktop #314](https://github.com/iotaledger/firefly/actions/runs/2323981279)
 43. **IOTA Ökosystem**: [IOTAPoker](https://twitter.com/IOTA_Pokerclub) [tweetet](https://twitter.com/IOTA_Pokerclub/status/1525451834541883392?s=20&t=gS1dhX6pglkFMXe2fP2MtQ) über ihren Medium Artikel: [IOTA Pokerclub - The Grand Opening](https://medium.com/@sam_sara/iota-pokerclub-f93d1b6c5e21)
+44. **IOTA Youtube**: Michele Nati Auftritt bei [TiiQu Talks | Sustainable Infrastructure](https://www.youtube.com/watch?v=F7cLVKgZihc)
+45. **IOTA Ökosystem**: Eine deutsche Vertretung von "Get It Club", will IOTA einsammeln um Kanabis Pflanzen anzubauen. Sie sind eine Art liquidity pool für [kannabyte.com](http://kannabyte.com) und wollen glaube ich ein Investment DAO "Get it Club DAO" werden
+46. **IOTA DAO/NFT**: SoonLabs [tweetet](https://twitter.com/soon_labs/status/1525713449614864385?s=20&t=mlOlCCqpEKvV2S2NEapIMA) nochmal über ihren Artikel "[Shimmer $SOON](https://soonlabs.medium.com/shimmer-soon-3ddac2814bb2)" in dem die Tokenomics erklärt werden von dem Soon Token den man ab dem 24.5. im Soonaverse kaufen kann
+47. 
 
