@@ -56,4 +56,6 @@
 54. **IOTA Artikel**: Ein [Tweet](https://twitter.com/plattform_i40/status/1526110281583173632?s=20&t=hGdaq6hYVct_uzjlTBDHaQ) mit #IOTA weist auf einen Paywall-Artikel hin: [Der digitale Zwilling für die Fabrik 4.0 - Wie aus einem Industrie 4.0-Konzept Realität wird](https://factory-innovation.de/themen/digitalisierung/artikel/der-digitale-zwilling-fuer-die-fabrik-4-0/)
 55. **IOTA Ökosystem**: Schöne Infographik von Mesch+: [Tweet](https://twitter.com/Issaus2020/status/1524276370460794880?s=20&t=a7KG6RQ0sV532b7RfBLtFw)
 56. **IOTA Ökosystem**: SoonLabs [verkündet](https://twitter.com/soon_labs/status/1526065769896738816?s=20&t=hGdaq6hYVct_uzjlTBDHaQ) eine CEX / DEX als third party implementation im Soonaverse: [Introducing Token Exchange - The First Layer 1 Exchange on IOTA & Shimmer](https://soonlabs.medium.com/introducing-token-exchange-c8ff9f322a9e)
+57. **IOTA dev**: [Smart contracts - Week 18 & 19, 2022](https://github.com/iotaledger/engineering-updates/discussions/27)
+58. **IOTA Event**: Am 20. May ist großes Finale von ENSURESEC Cybersecurity Projekt und Michele Nati auf der Bühne (Panel Diskussion): [Tweet](https://twitter.com/iota/status/1526149967051735040?s=20&t=BpXihtqAWKDSrUj9XOYU2A) von Ensuresec
 
