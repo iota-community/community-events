@@ -61,4 +61,5 @@
 59. **IOTA Adaption**: Die [IF tweetet](https://twitter.com/iota/status/1526185743529410560?s=20&t=TJdAzQAABlkPwt8hG6ZVqQ) über den Blogpost: [Securing Critical Data with IOTA Partnerships - IOTA as a Trust Anchor in the NEDO Project](https://blog.iota.org/securing-critical-data-with-iota/)
 60. **IOTA Defi**: LendeXe [veröffentlichen](https://twitter.com/LendeXeFinance/status/1526207675083653126?s=20&t=TJdAzQAABlkPwt8hG6ZVqQ) ihr Litepaper: [LendeXe Version S.1 Protocol Litepaper for Shimmer](https://docs.google.com/document/d/1cEDXCDpxZm_BPQB7eEgJ_4GJ0FJprk24fzXbvcrdy4o/edit)
 61. **IOTA dev**: GoShimmer v0.8.14 has been released: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1526209334551748609?s=20&t=TJdAzQAABlkPwt8hG6ZVqQ)
+62. **Crypto News**: Portugal besteuert Crypto: [Medina confirms crypto will be taxed in Portugal](https://www.portugal.com/news/medina-confirms-crypto-will-be-taxed-in-portugal/)
 
