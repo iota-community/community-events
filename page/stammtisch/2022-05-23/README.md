@@ -1,0 +1,9 @@
+## Stammtischthemen für Montag, den 23.5.2022
+
+1. **IF Youtube**: [IOTA Quicktakes 16.05.2022: Zebra-IOTA Edge SDK, Soonaverse joins Assembly, Meetup with Blockrocket](https://www.youtube.com/watch?v=54PW7GktdSE)
+2. **IOTA Youtube**: [Probably Nothing #5 - Tangle Swap - SoonLabs - LendeXe - Deutsch](https://www.youtube.com/watch?v=xm01WAi0H3Q) 
+3. **IOTA Youtube**: [IOTA Monthly - What is IOTAs price doing?](https://www.youtube.com/watch?v=jg4wVWgo7Lk)
+4. **IOTA Ökosystem**: Erstes real world Produkt soon: [Tweet von Holger Köther](https://twitter.com/HolgerKoether/status/1526554429977243649?s=20&t=P4c6rQbmcM3Cz_a0lmMUhA)
+5. **IOTA Drama**: Zu dem [Litepaper von LendeXe](https://docs.google.com/document/d/1cEDXCDpxZm_BPQB7eEgJ_4GJ0FJprk24fzXbvcrdy4o/edit) gab es von Dom Schiener einen [kritischen Tweet](https://twitter.com/DomSchiener/status/1526274739886608384?s=20&t=MQy0lnHyi0uOqO7Ah6HTcQ) in dem er die Tokenomics anprangert. Von LendeXe gab es dazu eine [Antwort](https://twitter.com/LendeXeFinance/status/1526307763344879617?s=20&t=fMHn8df-KznwCNx1DjzdrA) und diese Tokenomics wurden daraufhin von [CoinRisk in 13 Tweets](https://twitter.com/CoinRisk/status/1526915299429298177?s=20&t=fMHn8df-KznwCNx1DjzdrA) bewertet.
+6. **IOTA Ökosystem**: SoonLabs [tweeten](https://twitter.com/soon_labs/status/1526786308319813632?s=20&t=MQy0lnHyi0uOqO7Ah6HTcQ)) darüber, dass sie am 27.5. eine Token-Exchange starten: [Introducing Token Exchange - The First Layer 1 Exchange on IOTA & Shimmer](https://soonlabs.medium.com/introducing-token-exchange-c8ff9f322a9e)
+7. **IOTA Ökosystem**: SoonLabs bauen ein P2E Spiel und [veröffentlichen](https://twitter.com/soon_labs/status/1527152231182585862?s=20&t=MQy0lnHyi0uOqO7Ah6HTcQ) diese Blogpost: [Welcome to Soon Studios](https://soonlabs.medium.com/welcome-to-soon-studios-89ab4461d178)
