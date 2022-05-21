@@ -37,3 +37,6 @@
 35. **IOTA Event**: ENSURESEC Event mit Michele Nati war am Freitag: [Tweet 1](https://twitter.com/michelenati/status/1526869655079485440?s=20&t=JUDXGGjLw4_-KgEZY_jdFg); [Tweet 2 mit Key takeaways](https://twitter.com/michelenati/status/1527642775025483776?s=20&t=JUDXGGjLw4_-KgEZY_jdFg)
 36. **IOTA Youtube**: Kappy [tweetet](https://twitter.com/Rob_Daykin/status/1527595349929472000?s=20&t=JUDXGGjLw4_-KgEZY_jdFg) über [19/05/22 IOTA Community Treasury Governance call](https://www.youtube.com/watch?v=D45poAXIo0Y&t=1661s). Er hat dort offenbar über sein Vorschlag geredet den Token Supply von Shimmer zu erhöhen um  ein Ecosystem Funding für Shimmer zu haben
 37. **IOTA Audio**: Nächsten Donnerstag kommt IOTA Poker in the TangleGang Telegram Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1527600238197866498?s=20&t=0KlvlXrcfk8NfmIxBYB8Xw)
+38. **IOTA Youtube**: [IOTA Updates - Japan baut auf IOTA. Wann Coordicide?](https://www.youtube.com/watch?v=RHoiUbMmSZw)
+39. **IOTA dev**: TangleBay [kündigt](https://twitter.com/tanglebay/status/1527390622604087314?s=20&t=dYs_W6C76vKLgbpNNjdzVA) letztes Update an. Offenbar wurde die Entwicklung von swarm von heute auf morgen eingestellt
+40. 
