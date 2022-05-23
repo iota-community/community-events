@@ -1,8 +1,8 @@
 ## Stammtischthemen für Montag, den 23.5.2022
 
-1. **IF Youtube**: [IOTA Quicktakes 16.05.2022: Zebra-IOTA Edge SDK, Soonaverse joins Assembly, Meetup with Blockrocket](https://www.youtube.com/watch?v=54PW7GktdSE)
-2. **IOTA Youtube**: [Probably Nothing #5 - Tangle Swap - SoonLabs - LendeXe - Deutsch](https://www.youtube.com/watch?v=xm01WAi0H3Q) 
-3. **IOTA Youtube**: [IOTA Monthly - What is IOTAs price doing?](https://www.youtube.com/watch?v=jg4wVWgo7Lk)
+1. **IF Youtube**: Video: [IOTA Quicktakes 16.05.2022: Zebra-IOTA Edge SDK, Soonaverse joins Assembly, Meetup with Blockrocket](https://www.youtube.com/watch?v=54PW7GktdSE)
+2. **IOTA Youtube**: Video: [Probably Nothing #5 - Tangle Swap - SoonLabs - LendeXe - Deutsch](https://www.youtube.com/watch?v=xm01WAi0H3Q) 
+3. **IOTA Youtube**: Video: [IOTA Monthly - What is IOTAs price doing?](https://www.youtube.com/watch?v=jg4wVWgo7Lk)
 4. **IOTA Youtube**: Chaise_EU Projekt: [Skills & Demand of Blockchain/DLT Workforce - IOTA](https://www.youtube.com/watch?v=8uvMK-OdYbk)
 5. **IOTA Ökosystem**: Erstes real world Produkt soon: [Tweet von Holger Köther](https://twitter.com/HolgerKoether/status/1526554429977243649?s=20&t=P4c6rQbmcM3Cz_a0lmMUhA) über ihren Usecase "smart watering/agriculture by @EtoGruppe"
 6. **IOTA Drama**: Zu dem [Litepaper von LendeXe](https://docs.google.com/document/d/1cEDXCDpxZm_BPQB7eEgJ_4GJ0FJprk24fzXbvcrdy4o/edit) gab es von Dom Schiener einen [kritischen Tweet](https://twitter.com/DomSchiener/status/1526274739886608384?s=20&t=MQy0lnHyi0uOqO7Ah6HTcQ) in dem er die Tokenomics anprangert. Von LendeXe gab es dazu eine [Antwort](https://twitter.com/LendeXeFinance/status/1526307763344879617?s=20&t=fMHn8df-KznwCNx1DjzdrA) und diese Tokenomics wurden daraufhin von [CoinRisk in 13 Tweets](https://twitter.com/CoinRisk/status/1526915299429298177?s=20&t=fMHn8df-KznwCNx1DjzdrA) bewertet.
@@ -31,7 +31,7 @@
 29. **IOTA Event**: Es gab ein IOTA Blockrocket Meetup in Berlin: [Tweet mit Bildern](https://twitter.com/sagarbarvaliya/status/1527388611179593728?s=20&t=orBfToZmlKt87sjSXDYZkA); [Tweet mit Gruppenbild](https://twitter.com/Marydlrw/status/1527339448509247488?s=20&t=orBfToZmlKt87sjSXDYZkA)
 30. **IOTA dev**: Die [IF tweetet](https://twitter.com/iota/status/1527303394112569346?s=20&t=orBfToZmlKt87sjSXDYZkA) darüber, dass man jetzt mit einer einfachen Command-line auf die Features von "digital identities, verifying credentials and checking data integrity" zugreifen kann: [IS-Cli (IOTA Integration Services Command line integration)](https://github.com/iotaledger/is-cli)
 31. **IOTA Ökosystem**: Selbst die IF und CoinmarketCap machen jetzt schon Werbung für das Soonaverse: [Tweet der IF](https://twitter.com/iota/status/1527544767764209669?s=20&t=Rie6bsRL-dmcrCumBN1U2A) von dem CoinMarketCap Artikel: [Welcome Soonaverse to the Assembly Ecosystem](https://coinmarketcap.com/gravity/articles/27980)
-32. **IOTA Youtube**: [Firefly Community Voting | IOTA:Technik](https://www.youtube.com/watch?v=PseaSA6krU4&feature=youtu.be)
+32. **IOTA Youtube**: Video: [Firefly Community Voting | IOTA:Technik](https://www.youtube.com/watch?v=PseaSA6krU4&feature=youtu.be)
 33. **IOTA Ökosystem**: Neuer Artikel vom Content Creator DAO für TangleLabs über "digital Identity": [The Traces We Leave Behind](https://blog.tanglelabs.io/the-traces-we-leave-behind/)
 34. **IOTA dev**: Zusammenfassung: [Networking group - Week 16-19 #34](https://github.com/iotaledger/research-updates/discussions/34)
 35. **IOTA Event**: ENSURESEC Event mit Michele Nati war am Freitag: [Tweet 1](https://twitter.com/michelenati/status/1526869655079485440?s=20&t=JUDXGGjLw4_-KgEZY_jdFg); [Tweet 2 mit "key takeaways"](https://twitter.com/michelenati/status/1527642775025483776?s=20&t=JUDXGGjLw4_-KgEZY_jdFg)
