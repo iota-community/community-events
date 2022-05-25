@@ -16,5 +16,6 @@
 14. **IOTA dev**: Die [IF tweetet](https://twitter.com/iota/status/1529145203873001474?s=20&t=pa7CU--_pE4fxolhedAG4Q) über das [Marseille Research Summit - Protocol](https://github.com/iotaledger/research-updates/discussions/35)
 15. **IOTA dev**: Neues Firefly Wallet mit Voting wird von der Community getestet: [Voting open:](https://github.com/iotaledger/firefly/actions/runs/2379346609); [Counting:](https://github.com/iotaledger/firefly/actions/runs/2379347418); "The builds will install as a separate app from your main Firefly (called Firefly Beta). Share [issues and suggestions on Trello](https://trello.com/invite/b/t4hdVF1z/ca479a66e9e1b592b5ca6d65298bfd4a/firefly-voting-alpha-testing)"
 16. **Crypto News**: [Christine Lagarde - Sohn der EZB-Präsidentin ist Krypto-Investor](https://www.btc-echo.de/schlagzeilen/christine-lagarde-sohn-der-ezb-praesidentin-ist-krypto-investor-143979/)
-17. 
+17. **IOTA Energieverbrauch**: Die [IF tweetet](https://twitter.com/iota/status/1529386806160068609?s=20&t=BTBx7lL7318pSb0tjsF8uA) über den Blogpost: [Energy Consumption of IOTA 2.0](https://blog.iota.org/energy-consumption-of-iota-2-0/)
+18. 
 
