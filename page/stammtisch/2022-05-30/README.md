@@ -17,5 +17,16 @@
 15. **IOTA dev**: Neues Firefly Wallet mit Voting wird von der Community getestet: [Voting open:](https://github.com/iotaledger/firefly/actions/runs/2379346609); [Counting:](https://github.com/iotaledger/firefly/actions/runs/2379347418); "The builds will install as a separate app from your main Firefly (called Firefly Beta). Share [issues and suggestions on Trello](https://trello.com/invite/b/t4hdVF1z/ca479a66e9e1b592b5ca6d65298bfd4a/firefly-voting-alpha-testing)"
 16. **Crypto News**: [Christine Lagarde - Sohn der EZB-Präsidentin ist Krypto-Investor](https://www.btc-echo.de/schlagzeilen/christine-lagarde-sohn-der-ezb-praesidentin-ist-krypto-investor-143979/)
 17. **IOTA Energieverbrauch**: Die [IF tweetet](https://twitter.com/iota/status/1529386806160068609?s=20&t=BTBx7lL7318pSb0tjsF8uA) über den Blogpost: [Energy Consumption of IOTA 2.0](https://blog.iota.org/energy-consumption-of-iota-2-0/)
-18. 
+18. **IOTA dev**: [Smart Contracts - Week 20 & 21, 2022 #28](https://github.com/iotaledger/engineering-updates/discussions/28)
+19. **IOTA Ökosystem**: Die Semko Brüder sind zurück: Das GATNetwork [tweetet](https://twitter.com/gat_network/status/1529460028926828544?s=20&t=bBpKcJap-Q1Go7Ck4lCufA) über diesen Blogpost: [MintedVodka joins IOTA Assembly/Shimmer Networks](https://medium.com/gat-network/mintedvodka-joins-iota-assembly-shimmer-networks-8e77ffb92378); Roman Semko schreibt dazu: [Tweet](https://twitter.com/romansemko/status/1529461217475145728?s=20&t=7Tlq9qnyHwk7Avac2BDd_w)
+20. **IOTA Ökosystem**: IOTA Origin [tweetet](https://twitter.com/origin_iota/status/1529446923974889474?s=20&t=sC6RSAdxOwZke5ZbWqezfQ) über "tracking light appliction and send each other #DigitalTwins and certificates"
+21. **IF Tweet**: Die [IF tweetet](https://twitter.com/iota/status/1529468090634883078?s=20&t=tQQ8cXMVKpSV-oYMjXtakg) über ein Treffen von Gaia-X iECO beim FraunhoferIWS in Dresden; Christoph Strnadl war auch da und [tweetet](https://twitter.com/archimate/status/1529507028036730883?s=20&t=7Tlq9qnyHwk7Avac2BDd_w) positiv darüber
+22. **IOTA dev**:Die [IF tweetet](https://twitter.com/iota/status/1529552888124538881?s=20&t=-e4FoCpnSulL4qsAda-d5g) über [GoShimmer - Sprint Planning Weeks 20-22, 2022 #36](https://twitter.com/iota/status/1529552888124538881?t=mnymEwBWza8-JjaB51QKqA&s=19)
+23. **IOTA Audio**: Es gab ein Build vs. Burn Meeting: [Tweet](https://twitter.com/gregmart/status/1529600872132808706?s=20&t=Moeg3ZB9FtnSqcqc9gW5VA)
+24. **IOTA Audio**: Es gibt einen neuen Moonaco Podcast mit Michaele Nati: [Spotify Link](https://open.spotify.com/episode/4poAh4QC4ewc2Pfy5F3p7q?si=uk4vhRaXTy-XSaAKgZs74w&nd=1)
+25. **IOTA Audio**: Poker Club war im TangleGang Voice Chat am Donnerstag: [Tweet](https://twitter.com/GangTangleTalk/status/1529818572939177985?s=20&t=mmR69y5oUsIK0x2L1d-x5w)
+26. **IOTA Vote in Firefly**: Die [IF tweetet](https://twitter.com/iota/status/1529850343353466885?s=20&t=0GXBwzzo8JAgV_cYuzObyw) über ein [Firefly Update](https://firefly.iota.org/) mit dem man BUILD vs. BURN voten kann/soll
+27. **IOTA Ökosystem**: Die Soon Token wurden nicht besonders gut verkauft. Nur unter 10% der Token wurden in 2 Tagen verkauft. Es ist aber schon ein Screenshot aufgetaucht von der zukünftigen Handelsplattfom (Krypto Börse) für die Community Token: [Tweet](https://twitter.com/IotaPoet/status/1529554945753681923?s=20&t=bBpKcJap-Q1Go7Ck4lCufA) 
+28. **IOTA Soon**: [Tweet](https://twitter.com/servrox/status/1529524557509496836?s=20&t=7Tlq9qnyHwk7Avac2BDd_w) von servrox solutions
+
 
