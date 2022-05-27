@@ -31,7 +31,10 @@
 29. **IOTA Soon**: [Tweet](https://twitter.com/servrox/status/1529524557509496836?s=20&t=7Tlq9qnyHwk7Avac2BDd_w) von servrox solutions
 30. **IOTA Ökosystem**: Dell mit neuem Teaser Video mit Mat Yarger zum Projekt Alvarium: [](https://www.dell.com/en-us/dt/video-collateral/project-alvarium-tracks-carbon-footprint-with-edge-solutions.htm); Er [tweetet](https://twitter.com/Mat_Yarger/status/1529930232567894016?s=20&t=Wpo9NZI-3pvg00FJyjv8CA) dazu: "... There will be more released in the coming weeks..."
 31. **IOTA Youtube**: [26/05/22 IOTA Community Treasury Governance call](https://www.youtube.com/watch?v=51WGxsX5pI4)
-32. **IOTA DAO Pioneers**: Es gab ein DAO Pioneer Kikoff Meeting: [IF Tweet](https://twitter.com/iota/status/1529809589373489152?s=20&t=Wpo9NZI-3pvg00FJyjv8CA); [Phylo Tweet](https://twitter.com/PhyloIota/status/1529831964433272832?s=20&t=Wpo9NZI-3pvg00FJyjv8CA)
+32. **IOTA DAO Pioneers**: Es gab ein DAO Pioneer Kikoff Meeting: [IF Tweet](https://twitter.com/iota/status/1529809589373489152?s=20&t=Wpo9NZI-3pvg00FJyjv8CA); [Phylo Tweet](https://twitter.com/PhyloIota/status/1529831964433272832?s=20&t=Wpo9NZI-3pvg00FJyjv8CA); Hier geht es direkt zur [Aufzeichnung](https://twitter.com/PhyloIota/status/1529841222734340097?s=20&t=UjK-Q8M2OmODwLJK75xC0A) davon
 33. **IOTA Ökosystem**: Timson Labs mit einem [Announcement](https://twitter.com/TimsonLabs/status/1529944058776256512?s=20&t=meG3tIJHUv4PXr7aFY3o0Q), dass die [Webseite (fiobex.timsonlabs.com)](https://fiobex.timsonlabs.com/) jetzt online ist, auf der man die Funds der Exchanges nachverfolgen kann
+34. **IF Blogpost**: Die [IF tweetet](https://twitter.com/iota/status/1530156879762030593?s=20&t=UjK-Q8M2OmODwLJK75xC0A) über den Blogpost: [Working with Trust, Integrity and Transparency - Discover IOTA Use Cases with the IOTA Lighthouse Projects Dashboard](https://blog.iota.org/working-with-trust-integrity-and-transparency/); hier gehts direkt zum [Lighthouse Project Dashboard](https://www.iota.org/solutions/lighthouse)
+35. **IOTA Ökosystem**: Filancore ist auf der Hannover Messe: [Tweet](https://twitter.com/FilancoreGmbH/status/1530119266888036352?s=20&t=UjK-Q8M2OmODwLJK75xC0A). Die präsentieren dort etwas zusammen mit der ETO Gruppe: [Tweet](https://twitter.com/EtoGruppe/status/1530114505145032704?s=20&t=UjK-Q8M2OmODwLJK75xC0A)
+36. 
 
 
