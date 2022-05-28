@@ -39,5 +39,6 @@
 37. **IOTA Youtube**: [IOTA Treasury Vote: So stimmt ihr ab](https://www.youtube.com/watch?v=on65FCYizgg)
 38. **IOTA Stammtisch**: Am Freitag ist IOTA Stammtisch in München: [Meetup - IOTA München Stammtisch](https://www.meetup.com/de-DE/IOTA-Muc/events/rjcftsydcjbfb/)
 39. **IOTA Shimmer/Firefly**: Charley Varley [tweetet](https://twitter.com/c_varley/status/1530159693393539073?s=20&t=xFzNglaZ6p_BWyzQmGMUbw) darüber wie der Launch von Shimmer in dem neuen (Shimmer-) Firefly Wallet ablaufen wird
+40. **IOTA Artikel**: Neuer Defi Artikel vom Content Creator DAO: [Measuring and Managing the Risks Involved in your Investments](https://medium.com/@iotacontentcreators/measuring-and-managing-the-risks-involved-in-your-investments-d157a2edd77e)
 
 
