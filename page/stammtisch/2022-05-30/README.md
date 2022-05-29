@@ -45,5 +45,11 @@
 43. **IOTA dev**: [What is Stardust?](https://github.com/iotaledger/chrysalis-docs/blob/35e189499094b316ffc85a01e02cff736e3adf1f/docs/introduction/what_is_stardust.md)
 44. **IOTA dev**: [Stardust Ledger](https://github.com/iotaledger/chrysalis-docs/blob/35e189499094b316ffc85a01e02cff736e3adf1f/docs/protocol/stardust_ledger.md)
 45. **IF Tweet**: Die [IF tweetet](https://twitter.com/iota/status/1530504173782982656?s=20&t=hoZm8szwCaHUTkSw2R0JJA) nochmal von dem [IOTA Lighthouse Projects Dashboard](https://www.iota.org/solutions/lighthouse) wo man genau sieht in welchen Bereiche die IF aktiv mit Partnern arbeitet
+46. **IOTA Audio**: Nigeria Afrika Stammtisch auf [Twitter Spaces](https://twitter.com/IotaNigeria/status/1530804933460639744?s=20&t=OBobXFoNsjEEykGK5JjbBQ)
+47. **IOTA Ökosystem**: Auf Twitter meldet sich [Insura](https://twitter.com/Insura_shimmer/status/1529917471045603342?s=20&t=OBobXFoNsjEEykGK5JjbBQ), eine "decentralized insurance platform" basierend auf der IOTA Technologie
+48. **IF Event**: Am 1. Juni ist die IOTA Foundation auf dem Blockchain Symposium: [Tweet](https://twitter.com/iota/status/1530096692715978752?s=20&t=OBobXFoNsjEEykGK5JjbBQ)
+49. **IOTA Youtube**: [The Future of Security: How IOTA Is Changing the Game](https://www.youtube.com/watch?app=desktop&v=BbtLRAHKf5g)
+50. **IOTA Adoption**: Lex Friedman hat etwas über Cryptos [getweetet](https://twitter.com/lexfridman/status/1364748112326180868?s=20&t=IX-jfTlmv1OogyCPGphElA) und wurde anschließend von den IOTA Followern darauf hingewiesen, dass er sich doch mal mit Hans Moog unterhalten wollte/sollte
+51. 
 
 
