@@ -59,5 +59,6 @@
 57. **IOTA Youtube**: [Can IOTA Survive Another Bear Market? Inside Story!](https://www.youtube.com/watch?v=q2C88QJ0Xko&feature=youtu.be)
 58. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/189-week-in-review-may-22th-to-28th-2022/)
 59. **Shimmer Stardust soon**: Es gab einen [Tweet von Shimmer](https://twitter.com/shimmernet/status/1531262991978602496?s=20&t=puXkgr-jChWeET6Bg1M_-w) über das[Stardust Upgrade in a Nutshell](https://blog.shimmer.network/stardust-upgrade-in-a-nutshell/); "Stardust will be IOTA’s biggest utility upgrade ever"
+60. **IOTA Tutorial**: Iotavision [tweetet](https://twitter.com/iotavision1/status/1531281230318141441?s=20&t=SK6ZqQXDYCSPLRJxwit88g) über seinen ersten Artikel: [Creating an Ethereum Solidity Proxy contract using Remix](https://medium.com/@sumsonline/creating-an-ethereum-solidity-proxy-contract-using-remix-b9dda8b9a3a2)
 
 
