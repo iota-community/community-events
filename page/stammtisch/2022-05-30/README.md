@@ -55,7 +55,8 @@
 53. **IOTA NFT**: Es gab ein erstes "umsonst" NFT Projekt (The Bees). Man konnte für 1 Miota kaufen und hat 1 Miota zurück bekommen: [Tweet 1/5](https://twitter.com/_TheHive__/status/1530513558471163910?s=20&t=28Hb1dTTtyetyocpbF_9ng)
 54. **IOTA Drama**: Dom Schiener [tweetet](https://twitter.com/DomSchiener/status/1529914704545599512?s=20&t=28Hb1dTTtyetyocpbF_9ng) darüber, dass Coinbase immernoch uralte FUD-Themen als "Top Stories" über IOTA gelistet hat und schreibt dazu: "Please tell me again how this news feed is not biased"
 55. **IOTA Adoption**: Dom Schiener preist IOTA an, um den digitalen Euro umzusetzen: [Tweet](https://twitter.com/DomSchiener/status/1530820951872618499?s=20&t=uMBUxV88X_XNsUUHt6a0Fg)
-56. **IOTA Youtube**: [Can IOTA Survive Another Bear Market? Inside Story!](https://www.youtube.com/watch?v=q2C88QJ0Xko&feature=youtu.be)
-57. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/189-week-in-review-may-22th-to-28th-2022/)
+56. **IOTA Artikel**: ShimmerSea veröffentlicht den Artikel: [Why we love DeFi](https://medium.com/@shimmerseadefi/why-we-love-defi-5e6acfb3ae53)
+57. **IOTA Youtube**: [Can IOTA Survive Another Bear Market? Inside Story!](https://www.youtube.com/watch?v=q2C88QJ0Xko&feature=youtu.be)
+58. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/189-week-in-review-may-22th-to-28th-2022/)
 
 
