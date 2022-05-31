@@ -76,3 +76,4 @@
 - [2022-05-16](./stammtisch/2022-05-16/README.md)
 - [2022-05-23](./stammtisch/2022-05-23/README.md)
 - [2022-05-30](./stammtisch/2022-05-30/README.md)
+- [2022-06-06](./stammtisch/2022-06-06/README.md)
