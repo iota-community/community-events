@@ -1,0 +1,6 @@
+## IOTA Stammtischthemen für Montag, den 6.6.2022
+
+1. **IF Youtube**: [IOTA Quicktakes 30.05.2022: IOTA Treasury Vote, Energy Consumption & MintedVodka Joins Assembly](https://www.youtube.com/watch?v=jACGSjjuktg)
+2. **IOTA Ökosystem**: SoonLabs [veröffentlichen](https://twitter.com/soon_labs/status/1531502615015501825?s=20&t=fXnUbk626AmI09tPFUSa7g) ihre neue Strategie zum Soon Token Sale: [Preparing for Round 2 The $SOON TOKEN SALE re-boot is ready for takeoff](https://soonlabs.medium.com/preparing-for-round-2-10e35ca53640); Hier ein One-Pager zum Token Sale: [Tweet](https://twitter.com/zizouIOTA/status/1531516736180211714?s=20&t=fXnUbk626AmI09tPFUSa7g)
+3. **IOTA Soon**: Die Zeichen für den Shimmer Launch mehren sich: [Soon Tweet von Dom Schiener](https://twitter.com/DomSchiener/status/1531268786170503169?s=20&t=fXnUbk626AmI09tPFUSa7g); [Tweet von Holger Köther](https://twitter.com/HolgerKoether/status/1531272543323271168?s=20&t=fXnUbk626AmI09tPFUSa7g)
+4. **Shimmer Artikel**: ConmarketCap [tweetet](https://twitter.com/CoinMarketCap/status/1531487766227582976?s=20&t=fXnUbk626AmI09tPFUSa7g) über ihren Artikel: [Stardust Upgrade in a Nutshell - Custom Tokens and Smart Contract Anchoring on Layer 1](https://coinmarketcap.com/gravity/articles/28957)
