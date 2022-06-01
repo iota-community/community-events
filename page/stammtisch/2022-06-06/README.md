@@ -16,5 +16,12 @@
 14. **IOTA Learn**: Marco Besier macht mit seiner Gruppe irgendwie einen Rust Kurs, um für die IOTA Smart Contracts vorbereitet zu sein: [Tweet](https://twitter.com/marcobesier/status/1531891840554881026?s=20&t=OwXUL0jAkWtTJd8Z1nBtYw)
 15. **IOTA dev**: Hans Moog [tweetet](https://twitter.com/hus_qy/status/1531563433132445698?s=20&t=OwXUL0jAkWtTJd8Z1nBtYw) darüber, dass sie aktuell ein "goshimmer summit" haben und gut vorran kommen, aber development eben Zeit kostet: "expect us to make a lot of progress but things will just take the time they take and I am afraid there is not much we can do about it"
 16. **IOTA Youtube**: [IOTA DAO Pioneers 2022 Americas session 1](https://www.youtube.com/watch?v=GJhAMmRQOp8)
-17. **Defi learn**: TangleSea und IOTApes haben ein "Exclusive #DeFi 101 training with qualified trainers of 
-@ApeLabsEdu" organisiert: [Tweet](https://twitter.com/TangleSeaDEX/status/1531878208248762368?s=20&t=OwXUL0jAkWtTJd8Z1nBtYw)
+17. **Defi learn**: TangleSea und IOTApes haben ein "Exclusive #DeFi 101 training with qualified trainers of @ApeLabsEdu" organisiert: [Tweet](https://twitter.com/TangleSeaDEX/status/1531878208248762368?s=20&t=OwXUL0jAkWtTJd8Z1nBtYw)
+18. **IOTA Youtube**: Everything Tangle mit neuem Video: [IOTA - The Stardust Upgrade!](https://www.youtube.com/watch?v=4qrwxUtxPwE&t=186s) das auch von der [IF verlinkt](https://twitter.com/iota/status/1531944756464562176?s=20&t=AQyiivMc8aVv5OvChnZc_g) wird
+19. **IOTA Artikel**: Blockchain Drenthe ist in nem EU Magazin mit dem Artikel: [Biggest Dutch blockchain project live in the city of Emmen](https://northsearegion.eu/bling/news/biggest-dutch-blockchain-project-live-in-the-city-of-emmen/)
+20. **IOTA Youtube**: IOTA Monthly - [Shimmer Token Increase Proposal / Treasury vote - IOTAMonthly Mai](https://www.youtube.com/watch?v=sujpLWjZE7E)
+21. **IOTA Audio**: Am Donnerstag kommt ein Fraunhofer Professor zur TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1531956899893104641?s=20&t=7lxdlXh931Dp7nfrWbXsTA)
+22. **IF Tweet**: Die [IF tweetet](https://twitter.com/iota/status/1531938612186603522?s=20&t=NXm5whVqdn-oAp71d2srRg) von Chaise, die eine Blockchain Skills Strategy für Europa erarbeitet haben; Hier das 65 seitige Paper dazu: [European Blockchain Skills Strategy](https://chaise-blockchainskills.eu/wp-content/uploads/2022/05/CHAISE-European-Blockchain-Skills-Strategy.pdf)
+23. **Assembly Tweet**: Ein [Tweet von Assembly](https://twitter.com/assembly_net/status/1531984345724076033?s=20&t=mBIFFhxezJq57-eevjRr2Q) kündigt eine Partnerschaft zwischen Moon Vault und Assembly an und verlinkt den zugehörigen Blogpost: [Moon Vault Joins the Assembly Ecosystem](https://blog.assembly.sc/moon-vault-joins-the-assembly-ecosystem/); Hier auch nochmal der Bericht von Moon-Vault: [Moon-Vault is Getting Tangly](https://medium.com/@MoonVault/moon-vault-is-getting-tangly-c1d138ed0a81)
+24. 
+
