@@ -36,5 +36,5 @@
 34. **IOTA Audio**: Neuer Moonaco Podcast: [Episode 26: Filancore](https://open.spotify.com/episode/3beXNhHEQGhe8Kiyuk3a7X)
 35. **IOTA Patent**: [Tweet 1](https://twitter.com/muandelo/status/1532260035031605249); [Tweet 2](https://twitter.com/muandelo/status/1532258718506696705); [Tweet 3](https://twitter.com/muandelo/status/1532255785283108865)
 36. **IOTA dev**: Stronghold 0.5.0 release: [GitHub](https://github.com/iotaledger/stronghold.rs)
-37. 
+37. **Shimmer Hype**: [Tweet von Shimmer](https://twitter.com/shimmernet/status/1532346302050324481?s=20&t=7WG_iW2D23VKuTBs8nDlsA) über NFTs holding other NFTs Raumfahrer
 
