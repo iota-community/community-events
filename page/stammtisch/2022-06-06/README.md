@@ -37,4 +37,10 @@
 35. **IOTA Patent**: [Tweet 1](https://twitter.com/muandelo/status/1532260035031605249); [Tweet 2](https://twitter.com/muandelo/status/1532258718506696705); [Tweet 3](https://twitter.com/muandelo/status/1532255785283108865)
 36. **IOTA dev**: Stronghold 0.5.0 release: [GitHub](https://github.com/iotaledger/stronghold.rs)
 37. **Shimmer Hype**: [Tweet von Shimmer](https://twitter.com/shimmernet/status/1532346302050324481?s=20&t=7WG_iW2D23VKuTBs8nDlsA) über NFTs holding other NFTs Raumfahrer
+38. **IOTA Art NFT**: Erstes Werbevideo für NFTs auf Soonaverse: [IOTA - LUX ART NFT: Blue Chip Top Tier in the Making](https://www.youtube.com/watch?v=DTzynNaLnOc)
+39. **IOTA NFT**: Ritterschlag von Dom für das Shi-Universe: [Tweet](https://twitter.com/DomSchiener/status/1532432918261510144?s=20&t=e5lM6uFQLMyLZd6YjAGHJg)
+40. **IOTA Ökosystem**: Shimmer und die IF suchen Projekte die auf Schimmer oder IOTA bauen: [Tweet von Shimmer](https://twitter.com/shimmernet/status/1532376503991812097?s=20&t=e5lM6uFQLMyLZd6YjAGHJg); [Tweet von der IF](https://twitter.com/iota/status/1532433107193843732?s=20&t=e5lM6uFQLMyLZd6YjAGHJg); Weil sie eine Webseite aufbauen mit den Ökosystem Projekten
+41. **IOTA Defi**: LendeXe [veröffentlicht](https://twitter.com/LendeXeFinance/status/1532445279558967297?s=20&t=e5lM6uFQLMyLZd6YjAGHJg) ihre Ultimate Loan Artikel: [LendeXe Ultimate Loan](https://medium.com/@LendeXeFinance/lendexe-ultimate-loan-eb66d3c5b157)
+42. **IOTA Youtube**: von Lift Capital: [IOTA's Stardust: The Next Step in the Evolution of Blockchain?](https://www.youtube.com/watch?v=lVeq9AQvR0Q)
+43. **IOTA Youtube**: [5 Reasons To BUY IOTA During The Bear Market](https://www.youtube.com/watch?v=_Nn2--w6mnk)
 
