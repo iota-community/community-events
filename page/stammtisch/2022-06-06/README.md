@@ -30,4 +30,5 @@
 28. **einfachIOTA Magazin**: Soon... [Tweet von vrom](https://twitter.com/Vrom14286662/status/1532024018198568961?s=20&t=3z41feBD_bFMYBpxfPFwYw)
 29. **Crypto News**: Bitcoinecho: [Bundesregierung widerspricht Meldepflicht des EU-Parlaments zu “unhosted Wallets”]( https://www.btc-echo.de/news/bundesregierung-sieht-tfr-entwurf-vom-eu-parlament-kritisch-144454/)
 30. **Twitter Drama**: Dom Schiener regt sich über KYC und AML auf und dem zugehörigen privacy nightmare: [Tweet](https://twitter.com/DomSchiener/status/1532238199107600386?s=20&t=3z41feBD_bFMYBpxfPFwYw)
+31. **IOTA Stammtisch**: Neuer IOTA Stammtisch in Wien wird von Christoph Strnadl ins Leben gerufen: [Tweet](https://twitter.com/archimate/status/1532111837721939969?t=HzOB7DmifqwXu0IQGCCdBA&s=19)
 
