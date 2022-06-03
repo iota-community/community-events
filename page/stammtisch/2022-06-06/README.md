@@ -30,7 +30,7 @@
 28. **IOTA Youtube**: [IOTA & SHIMMER kommende Stardust Update | IOTA:Technik](https://www.youtube.com/watch?v=MziNKPhLDR0)
 29. **einfachIOTA Magazin**: Soon... [Tweet von vrom](https://twitter.com/Vrom14286662/status/1532024018198568961?s=20&t=3z41feBD_bFMYBpxfPFwYw)
 30. **Crypto News**: Bitcoinecho: [Bundesregierung widerspricht Meldepflicht des EU-Parlaments zu “unhosted Wallets”]( https://www.btc-echo.de/news/bundesregierung-sieht-tfr-entwurf-vom-eu-parlament-kritisch-144454/)
-31. **Twitter Drama**: Dom Schiener regt sich über KYC und AML auf und dem zugehörigen privacy nightmare: [Tweet](https://twitter.com/DomSchiener/status/1532238199107600386?s=20&t=3z41feBD_bFMYBpxfPFwYw)
+31. **Twitter Drama**: Dom Schiener regt sich über KYC und AML auf und dem zugehörigen privacy nightmare: [Tweet](https://twitter.com/DomSchiener/status/1532238199107600386?s=20&t=3z41feBD_bFMYBpxfPFwYw); Ausserdem hat er zu viel Bank Gebühren gezahlt: [Tweet](https://twitter.com/DomSchiener/status/1532285230069039106?s=20&t=VP0MaWUtziYsfYGMLaEubQ)
 32. **IOTA Stammtisch**: Neuer IOTA Stammtisch in Wien wird von Christoph Strnadl ins Leben gerufen: [Tweet](https://twitter.com/archimate/status/1532111837721939969?t=HzOB7DmifqwXu0IQGCCdBA&s=19)
 33. **IOTA Youtube**: [IOTA auf der Zielgeraden: Stardust/Shimmer rasiert Peter | REALTALK zum Schluss](https://www.youtube.com/watch?v=aR72HCz0GJU&feature=youtu.be)
 34. **IOTA Ökosystem**: Ein [Tweet deltaDAO von der Hannover Messer](https://twitter.com/deltaDAO/status/1532349622273941509?s=20&t=az5m3tOENAqza2EXv5FTYw). Das Team hat sich mit Strnadl getroffen... Der [tweetet](https://twitter.com/archimate/status/1532365198862045184?s=20&t=VP0MaWUtziYsfYGMLaEubQ) darüber mit "GaiaX works"
@@ -47,4 +47,8 @@
 45. **Green IOTA**: Hier ein [Tweet](https://twitter.com/FeelessN/status/1532431066551701517?s=20&t=VP0MaWUtziYsfYGMLaEubQ) zum Energieverbrauch von IOTA den Dom Schiener [kommentiert](https://twitter.com/DomSchiener/status/1532444678284623893?s=20&t=VP0MaWUtziYsfYGMLaEubQ) und noch ein [Kommentar von Mat Yarger](https://twitter.com/Mat_Yarger/status/1532448727323099142?s=20&t=VP0MaWUtziYsfYGMLaEubQ)
 46. **IOTA Youtube**: [02/06/22 IOTA Community Treasury Governance call](https://www.youtube.com/watch?v=nAUP-j3Ogz0&feature=youtu.be)
 47. **IOTA Audio**: [DAO Pioneer Week 1 Roundup](https://twitter.com/antonionardella/status/1532689240173203460?s=20&t=VP0MaWUtziYsfYGMLaEubQ)
+48. **IOTA Stardust**: Dom Schiener [erklärt](https://twitter.com/DomSchiener/status/1532715290106249218?s=20&t=VP0MaWUtziYsfYGMLaEubQ) die Token Foundries und die Layer 1 Token die first class citizens sind
+49. **IOTA Science**: Neues Research Paper: [A Review of Distributed Ledger Technologies in the Machine Economy: Challenges and Opportunities in Industry and Research](https://www.sciencedirect.com/science/article/pii/S2212827122004103#) mit 24 x IOTA
+50. **IOTA dev**: [Protocol group - Week 20-21 #37](https://github.com/iotaledger/research-updates/discussions/37)
+51. **IOTA Ökosystem**: Sandra von Blackpin ist IT-Woman of the Year geworden: [Tweet](https://twitter.com/BLACKPIN_GmbH/status/1532679869703892992?s=20&t=VP0MaWUtziYsfYGMLaEubQ)
 
