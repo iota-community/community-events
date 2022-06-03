@@ -43,4 +43,5 @@
 41. **IOTA Defi**: LendeXe [veröffentlicht](https://twitter.com/LendeXeFinance/status/1532445279558967297?s=20&t=e5lM6uFQLMyLZd6YjAGHJg) ihre Ultimate Loan Artikel: [LendeXe Ultimate Loan](https://medium.com/@LendeXeFinance/lendexe-ultimate-loan-eb66d3c5b157)
 42. **IOTA Youtube**: von Lift Capital: [IOTA's Stardust: The Next Step in the Evolution of Blockchain?](https://www.youtube.com/watch?v=lVeq9AQvR0Q)
 43. **IOTA Youtube**: [5 Reasons To BUY IOTA During The Bear Market](https://www.youtube.com/watch?v=_Nn2--w6mnk)
+44. **IOTA Youtube**: [02/06/22 IOTA Community Treasury Governance call](https://www.youtube.com/watch?v=nAUP-j3Ogz0&feature=youtu.be)
 
