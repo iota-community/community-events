@@ -53,4 +53,5 @@
 51. **IOTA Ökosystem**: Sandra von Blackpin ist IT-Woman of the Year geworden: [Tweet](https://twitter.com/BLACKPIN_GmbH/status/1532679869703892992?s=20&t=VP0MaWUtziYsfYGMLaEubQ)
 52. **IOTA Defi Tutorial**: Kappy hat ein erstes Tutorial rund um Defi gemacht. Es startet bei 33:00: [Twitch-Link](https://www.twitch.tv/videos/1493631891)
 53. **IOTA Stammtisch München**: Holger Köther hatte am Freitag beim IOTA Stammtisch in München vorbei geschaut: [Tweet](https://twitter.com/IotaMunchen/status/1532995169292898304?s=20&t=D_s1oM9eSk5yRdR4iQb3jA)
+54. **IOTA dev**: Firefly v1.6.2 wurde released: [https://firefly.iota.org/](https://firefly.iota.org/)
 
