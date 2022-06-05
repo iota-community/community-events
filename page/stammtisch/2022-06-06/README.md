@@ -54,4 +54,10 @@
 52. **IOTA Defi Tutorial**: Kappy hat ein erstes Tutorial rund um Defi gemacht. Es startet bei 33:00: [Twitch-Link](https://www.twitch.tv/videos/1493631891)
 53. **IOTA Stammtisch München**: Holger Köther hatte am Freitag beim IOTA Stammtisch in München vorbei geschaut: [Tweet](https://twitter.com/IotaMunchen/status/1532995169292898304?s=20&t=D_s1oM9eSk5yRdR4iQb3jA)
 54. **IOTA dev**: Firefly v1.6.2 wurde released: [https://firefly.iota.org/](https://firefly.iota.org/)
+55. **IOTA definition**: Evaldas hatte [angemerkt](https://twitter.com/Vrom14286662/status/1533001898890268673?s=20&t=8tktoLf-Thd59EKsOqhnXQ), dass ISCP mehr l1+L2 Layer ist als L2 Lavyer, woraufhin auch Dom sich [gemeldet](https://twitter.com/DomSchiener/status/1533068490214612994?s=20&t=8tktoLf-Thd59EKsOqhnXQ) hat und es "Enshrined Rollups" nennen will
+56. **IF Tweet**: Die [IF retweetet](https://twitter.com/iota/status/1533071070747676672?s=20&t=8tktoLf-Thd59EKsOqhnXQ) nochmal das [Startdust Upgrade](https://blog.shimmer.network/stardust-upgrade-in-a-nutshell/) und schreibt "Stardust is paving the way for the #Web3 revolution"
+57. **IOTA Youtube**: [Spec Weekly - Episode 6: SHIMMER SOON, Roman's return, and GOSHIMMER SUMMIT!](https://www.youtube.com/watch?v=Lq-05nC2L_A)
+58. **IOTA Artikel**: Neuer IOTA Artikel von TangleLabs über digitale Identität: [Getting Started with IOTA Identity](https://blog.tanglelabs.io/getting-started-with-iota-identity/) ; Der Artikel entstand wieder durch eine Zusammenarbeit mit dem Conten Creator DAO: [Tweet](https://twitter.com/IOTAcontentDAO/status/1533110984495071233?s=20&t=8tktoLf-Thd59EKsOqhnXQ)
+59. **IOTA Defi**: LendeXe mit neuem Artikel: [LEXE Burning Mechanism](https://medium.com/@LendeXeFinance/lexe-burning-mechanism-facae93ae8fe)
+60. **IOTA Wochenrückblick**: Tangle Talk [Wochenrückblick auf deutsch](https://www.iota-talk.com/index.php?article/191-week-in-review-may-28th-to-june-4th-2022/) und [auf englisch](https://www.iota-talk.com/index.php?article/191-week-in-review-may-28th-to-june-4th-2022/)
 
