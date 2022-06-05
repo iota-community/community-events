@@ -59,5 +59,6 @@
 57. **IOTA Youtube**: [Spec Weekly - Episode 6: SHIMMER SOON, Roman's return, and GOSHIMMER SUMMIT!](https://www.youtube.com/watch?v=Lq-05nC2L_A)
 58. **IOTA Artikel**: Neuer IOTA Artikel von TangleLabs über digitale Identität: [Getting Started with IOTA Identity](https://blog.tanglelabs.io/getting-started-with-iota-identity/) ; Der Artikel entstand wieder durch eine Zusammenarbeit mit dem Conten Creator DAO: [Tweet](https://twitter.com/IOTAcontentDAO/status/1533110984495071233?s=20&t=8tktoLf-Thd59EKsOqhnXQ)
 59. **IOTA Defi**: LendeXe mit neuem Artikel: [LEXE Burning Mechanism](https://medium.com/@LendeXeFinance/lexe-burning-mechanism-facae93ae8fe)
-60. **IOTA Wochenrückblick**: Tangle Talk [Wochenrückblick auf deutsch](https://www.iota-talk.com/index.php?article/191-week-in-review-may-28th-to-june-4th-2022/) und [auf englisch](https://www.iota-talk.com/index.php?article/191-week-in-review-may-28th-to-june-4th-2022/)
+60. **Crypto Philosophie**: Dom Schiener [macht sich Gedanken](https://twitter.com/DomSchiener/status/1533362209623007234?s=20&t=8tktoLf-Thd59EKsOqhnXQ) über die zukünftige Multi Token Welt 
+61. **IOTA Wochenrückblick**: Tangle Talk [Wochenrückblick auf deutsch](https://www.iota-talk.com/index.php?article/191-week-in-review-may-28th-to-june-4th-2022/) und [auf englisch](https://www.iota-talk.com/index.php?article/191-week-in-review-may-28th-to-june-4th-2022/)
 
