@@ -61,4 +61,6 @@
 59. **IOTA Defi**: LendeXe mit neuem Artikel: [LEXE Burning Mechanism](https://medium.com/@LendeXeFinance/lexe-burning-mechanism-facae93ae8fe)
 60. **Crypto Philosophie**: Dom Schiener [macht sich Gedanken](https://twitter.com/DomSchiener/status/1533362209623007234?s=20&t=8tktoLf-Thd59EKsOqhnXQ) über die zukünftige Multi Token Welt 
 61. **IOTA Wochenrückblick**: Tangle Talk [Wochenrückblick auf deutsch](https://www.iota-talk.com/index.php?article/191-week-in-review-may-28th-to-june-4th-2022/) und [auf englisch](https://www.iota-talk.com/index.php?article/191-week-in-review-may-28th-to-june-4th-2022/)
+62. **IOTA Artikel**: Der Conten Creator DAO hat einen 1. Newsletter geschrieben: [The Daily Degen - Genesis Edition](https://iotacreator.substack.com/p/coming-soon?r=1ic5o4&s=w&utm_campaign=post&utm_medium=web)
+63. **IOTA Speculation**: Phylo [tweetet](https://twitter.com/PhyloIota/status/1533363487350878208?s=20&t=o6P_PW7keY-httj0w7_7Zw) zum Thema Fiat on-ramp und dass es da wohl schon teams gibt, die daran arbeiten...
 
