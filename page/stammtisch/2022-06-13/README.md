@@ -22,5 +22,15 @@
 20. **IOTA Advertisement**: Dom Schiener [frägt auf Twitter](https://twitter.com/DomSchiener/status/1534461087567036421?s=20&t=t4RdlwFUeVaz6O4iPGLNHA) wie man am besten Marketing macht
 21. **IOTA Hype**: Hans will mit jemanden sprechen, der schon in den Anfangstagen mit Satoshi Nakamoto Bitcoin gemined hat und offensichtlich von dem neuen Ansatz von IOTA angetan ist: [Tweet](https://twitter.com/hus_qy/status/1534314439121436672?s=20&t=t4RdlwFUeVaz6O4iPGLNHA)
 22. **Crypto News**: Paypal unterstützt jetzt auch externe Wallets: [PayPal Converts Conditional Virtual Currency License to Full BitLicense](https://www.coindesk.com/business/2022/06/07/paypal-converts-conditional-virtual-currency-license-to-full-bitlicense/)
+23. **IOTA Audio**: Moonaco Podacst [tweetet](https://twitter.com/MoonacoPodcast/status/1534837983324553219?s=20&t=eMQhfwk85-74ZC3S25hF1g) über ihre neue [Episode 27 mit Navin Ramachandran](https://open.spotify.com/episode/2O9EDZcxxnYK0w9aQPFHyV?si=sqgn-jTdTaK9KEOMw1hgsA&nd=1)
+24. **IOTA Adoption**: Trademark East Afrika [tweete](https://twitter.com/TradeMarkEastA/status/1534807582405234689?s=20&t=eMQhfwk85-74ZC3S25hF1g) über ihren IOTA Usecase
+25. **IOTA Ökosystem**: SoonLabs will ein Shimmer/Miota Trading Paar anbieten mit dem Start von Shimmer: [Tweet 1](https://twitter.com/soon_labs/status/1534408118104367104?s=20&t=eMQhfwk85-74ZC3S25hF1g); [Tweet 2](https://twitter.com/soon_labs/status/1534769760998653952?s=20&t=eMQhfwk85-74ZC3S25hF1g)
+26. **IOTA Drama**: Dom Schiener [antwortet](https://twitter.com/DomSchiener/status/1534635479370547201?s=20&t=eMQhfwk85-74ZC3S25hF1g) auf den [FUD-Tweet](https://twitter.com/ercwl/status/1534584929337626625?s=20&t=eMQhfwk85-74ZC3S25hF1g) von Eric Wall
+27. **Wissenschafts Wunder**: Hans Moog [tweetet](https://twitter.com/hus_qy/status/1534846750120456192?s=20&t=eMQhfwk85-74ZC3S25hF1g) über Fortschritte bei um die Energieprobleme der Menschheit zu lösen... "Have we just found a way to solve the energy problems of this planet"; Und auch Krebs können wir heilen: [Tweet](https://twitter.com/hus_qy/status/1534664484979187712?s=20&t=eMQhfwk85-74ZC3S25hF1g) "a new cancer drug showed 100% success in a clinical study"
+28. **IF Youtube**: [2022 05 26 IOTA Experience Smart Contracts Meeting](https://www.youtube.com/watch?v=amvw049S97s)
+29. **IOTA Youtube**: [Probably Nothing #8 - Stardust - TIXIT - DAO - Patente - DELL](https://www.youtube.com/watch?v=ZWH0K-GS8tA)
+30. **Crypto News**: Dom Schiener [lobt](https://twitter.com/DomSchiener/status/1534613567915163648?s=20&t=eMQhfwk85-74ZC3S25hF1g) Ethereum für den erfolgreichen Test von PoS Merge
+31. **IOTA Design**: Sabri Goldberg [frägt](https://twitter.com/sabrigoldberg/status/1534819030472744961?s=20&t=eMQhfwk85-74ZC3S25hF1g) die Community an was sie von Design Team noch arbeiten könnten
+32. **IOTA Hype**: Bug gefunden, new GoShimmer release soon: [Tweets von Hans Moog](https://twitter.com/hus_qy/status/1534300231298326531?s=20&t=tHBC0kqRy-glI53nShkBQQ)
 
 
