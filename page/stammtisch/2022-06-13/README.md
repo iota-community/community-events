@@ -32,5 +32,6 @@
 30. **Crypto News**: Dom Schiener [lobt](https://twitter.com/DomSchiener/status/1534613567915163648?s=20&t=eMQhfwk85-74ZC3S25hF1g) Ethereum für den erfolgreichen Test von PoS Merge
 31. **IOTA Design**: Sabri Goldberg [frägt](https://twitter.com/sabrigoldberg/status/1534819030472744961?s=20&t=eMQhfwk85-74ZC3S25hF1g) die Community an was sie von Design Team noch arbeiten könnten
 32. **IOTA Hype**: Bug gefunden, new GoShimmer release soon: [Tweets von Hans Moog](https://twitter.com/hus_qy/status/1534300231298326531?s=20&t=tHBC0kqRy-glI53nShkBQQ)
+33. **Allgemeine News**: [EZB bereitet Leitzinsanhebung vor: Was bedeutet das für den Krypto-Space?](https://www.btc-echo.de/news/ezb-zentralbank-leitzins-lagarde-europa-inflation-euro-dollar-bitcoin-144822/)
 
 
