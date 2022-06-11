@@ -41,5 +41,17 @@
 39. **IOTA P2E**: Neues Play to Earn Game von IotaQuest: [Tweet](https://twitter.com/IotaQuest/status/1534967820475408384?s=20&t=t_o3hl1hohryfQe0VmUB0w)
 40. **IOTA dev**: N080dy ist mehr und mehr begeistert von den Entwicklungen bei Hornet udn dadurch swarm... [Tweet](https://twitter.com/iota_swarm/status/1534936646692528134?s=20&t=t_o3hl1hohryfQe0VmUB0w)
 41. **IOTA NFT**: Im.city beschenkt wichtige Leute aus der IOTA Community mit 1 Miota NFTs: [Tweet](https://twitter.com/imCITY_org/status/1534484822051135488?s=20&t=aL_-DwCeRASpwsmpMnUEVQ)
+42. **IOTA Event**: Trademark East Afrika macht am 21-22.06 einen Event mit IOTA inside: [Tweet](https://twitter.com/TradeMarkEastA/status/1535141479374540801?s=20&t=efy6KeSsINP65aEl7at8xg)
+43. **IOTA Youtube**: Spec Weekly: [Episode 7: DELL PARTNERSHIP WITH IOTA! Project Alvarium, and Digital MRV!](https://www.youtube.com/watch?v=pV45B2r6qFg)
+44. **IOTA Youtube**: Probably Nothing - [STARDUST - NFTs Wie Nie Zuvor - IOTA News / Special Report](https://www.youtube.com/watch?v=NX6ZY6I-WPk)
+45. **IOTA Youtube**: DEXES mit neuem IOTA Video: [DEXES LIVE #95 Hans Moog, IOTA, Ethereum, BTC, POW, REALKTALK](https://www.youtube.com/watch?v=99zCIeBH1YI&t=1665s)
+46. **IOTA Defi**: LendeXe mit neuem Blogpost: [LendeXe Liquidity Mining NFT Referral Reward System](https://medium.com/@LendeXeFinance/lendexe-liquidity-mining-nft-referral-reward-system-3cdaf44aa65c)
+47. **IOTA Audio**: Diese Woche war Daniel Trauth im TangelGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1535147195237863424?s=20&t=xuY035GYE1Fzp7a4xbiMTw)
+48. **Shimmer Hype**: Shimmer highlighted mit ihrem [Tweet](https://twitter.com/shimmernet/status/1535245464471216131?s=20&t=efy6KeSsINP65aEl7at8xg) alle Funktionen die direkt in Firefly möglich sein werden (Expiration unlock condition; Timelock unlock condition; Replay protection; Sender block)
+49. **IOTA Tutorials**: Die IF will am 17.6. ein erstes Video heraus bringen in dem sie die Lighthouse Projekte vorstellen: [Tweet](https://twitter.com/iota/status/1535277741553201152?s=20&t=efy6KeSsINP65aEl7at8xg)
+50. **IOTA NFT Ökosystem**: Es gibt jetzt einen Discord Channel nur für Moonaco Captains, also für Leute die einen Moonaco Captain als NFT haben: [Tweet](https://twitter.com/MoonacoPodcast/status/1535219975039901696?s=20&t=efy6KeSsINP65aEl7at8xg)
+51. **IOTA Ökosystem**: Gianfranco Campos [tweetet](https://twitter.com/hassping/status/1535012417159036928?s=20&t=efy6KeSsINP65aEl7at8xg) über ein IOTA Building Workshop
+52. **IOTA NFT**: Es gibt ein neues NFT Such Tool: [Tweet](https://twitter.com/Moe4x4/status/1534878745345114114?s=20&t=efy6KeSsINP65aEl7at8xg)
+53. 
 
 
