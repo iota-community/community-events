@@ -52,6 +52,6 @@
 50. **IOTA NFT Ökosystem**: Es gibt jetzt einen Discord Channel nur für Moonaco Captains, also für Leute die einen Moonaco Captain als NFT haben: [Tweet](https://twitter.com/MoonacoPodcast/status/1535219975039901696?s=20&t=efy6KeSsINP65aEl7at8xg)
 51. **IOTA Ökosystem**: Gianfranco Campos [tweetet](https://twitter.com/hassping/status/1535012417159036928?s=20&t=efy6KeSsINP65aEl7at8xg) über ein IOTA Building Workshop
 52. **IOTA NFT**: Es gibt ein neues NFT Such Tool: [Tweet](https://twitter.com/Moe4x4/status/1534878745345114114?s=20&t=efy6KeSsINP65aEl7at8xg)
-53. 
+53. **IOTA Ökosystem**: TanglePay integriert EVM und Binance Chain: [Tweet](https://twitter.com/tanglepaycom/status/1535186251858399232?s=20&t=efy6KeSsINP65aEl7at8xg)
 
 
