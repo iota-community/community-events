@@ -53,5 +53,6 @@
 51. **IOTA Ökosystem**: Gianfranco Campos [tweetet](https://twitter.com/hassping/status/1535012417159036928?s=20&t=efy6KeSsINP65aEl7at8xg) über ein IOTA Building Workshop
 52. **IOTA NFT**: Es gibt ein neues NFT Such Tool: [Tweet](https://twitter.com/Moe4x4/status/1534878745345114114?s=20&t=efy6KeSsINP65aEl7at8xg)
 53. **IOTA Ökosystem**: TanglePay integriert EVM und Binance Chain: [Tweet](https://twitter.com/tanglepaycom/status/1535186251858399232?s=20&t=efy6KeSsINP65aEl7at8xg)
+54. **IOTA Audio**: Es gab ein [Africa Twitter Space](https://twitter.com/IotaNigeria/status/1530804933460639744?s=20&t=ci5_93oo_6TGFeSdHgJO0w)
 
 
