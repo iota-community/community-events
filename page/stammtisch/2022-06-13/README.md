@@ -54,5 +54,10 @@
 52. **IOTA NFT**: Es gibt ein neues NFT Such Tool: [Tweet](https://twitter.com/Moe4x4/status/1534878745345114114?s=20&t=efy6KeSsINP65aEl7at8xg)
 53. **IOTA Ökosystem**: TanglePay integriert EVM und Binance Chain: [Tweet](https://twitter.com/tanglepaycom/status/1535186251858399232?s=20&t=efy6KeSsINP65aEl7at8xg)
 54. **IOTA Audio**: Es gab ein [Africa Twitter Space](https://twitter.com/IotaNigeria/status/1530804933460639744?s=20&t=ci5_93oo_6TGFeSdHgJO0w)
-
+55. **IOTA Youtube**: [2022 06 27 IOTA Experience Smart Contracts Meeting](https://www.youtube.com/watch?v=j74CDYJ3ENA)
+56. **IOTA Ökosystem**: SoonLabs mit neuem Design: [Tweet](https://twitter.com/soon_labs/status/1535850567662071808?s=20&t=ci5_93oo_6TGFeSdHgJO0w); [https://soonaverse.com/home/](https://soonaverse.com/home/)
+57. **IOTA dev**: swarm update v2.1.0: [Tweet](https://twitter.com/iota_swarm/status/1535733164748021762?s=20&t=ci5_93oo_6TGFeSdHgJO0w); "This update adds INX (#Stardust) support for #Hornet and for the upcoming #Shimmer network"
+58. **IOTA Ökosystem**: Panthos [tweetet](https://twitter.com/m_cpto/status/1535311729206362113?s=20&t=ci5_93oo_6TGFeSdHgJO0w) über eine IOTA integration soon und [erwähnt](https://twitter.com/m_cpto/status/1535573329599516672?s=20&t=ci5_93oo_6TGFeSdHgJO0w), dass zur Integration von IOTA nur eine stabile EVM benötigt wird
+59. **IOTA Ökosystem**: Mat Yarger ist wohl bei Consensus 2022 und will sich mit ökologischen Projekten connecten: [Tweet](https://twitter.com/Mat_Yarger/status/1535777220266012672?s=20&t=sWGklZyy4jM-PfN2FmHwDw)
+60. 
 
