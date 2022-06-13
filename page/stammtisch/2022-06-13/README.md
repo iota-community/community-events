@@ -59,5 +59,8 @@
 57. **IOTA dev**: swarm update v2.1.0: [Tweet](https://twitter.com/iota_swarm/status/1535733164748021762?s=20&t=ci5_93oo_6TGFeSdHgJO0w); "This update adds INX (#Stardust) support for #Hornet and for the upcoming #Shimmer network"
 58. **IOTA Ökosystem**: Panthos [tweetet](https://twitter.com/m_cpto/status/1535311729206362113?s=20&t=ci5_93oo_6TGFeSdHgJO0w) über eine IOTA integration soon und [erwähnt](https://twitter.com/m_cpto/status/1535573329599516672?s=20&t=ci5_93oo_6TGFeSdHgJO0w), dass zur Integration von IOTA nur eine stabile EVM benötigt wird
 59. **IOTA Ökosystem**: Mat Yarger ist wohl bei Consensus 2022 und will sich mit ökologischen Projekten connecten: [Tweet](https://twitter.com/Mat_Yarger/status/1535777220266012672?s=20&t=sWGklZyy4jM-PfN2FmHwDw)
-60. 
+60. **IOTA Defi**: ShimmerSea [veröffentlicht](https://twitter.com/ShimmerSeaDEX/status/1536223086969860096?s=20&t=LyPnQiB1a9zkaoySdCAlFw) ein [Defi Quiz](https://defiquiz.shimmersea.finance/)
+61. **Crypto News**: Celisius Network [stoppt die Auszahlungen](https://twitter.com/CelsiusNetwork/status/1536169010877739009?s=20&t=LyPnQiB1a9zkaoySdCAlFw) und gibt follgende Erklärung ab: [A Memo to the Celsius Community](https://medium.com/p/a-memo-to-the-celsius-community-59532a06ecc6)
+62. **IOTA Ökosystem**: SoonLabs [tweetet](https://twitter.com/soon_labs/status/1536232590541107200?s=20&t=LyPnQiB1a9zkaoySdCAlFw) darüber, dass sie jetzt ähnlich wie Binance und Bitfinex Exchange and Financial Service Partner der IF sind um Liquidität und "Enterprises token creation services via #Shimmer" anbieten werden
+63. **IOTA Ökosystem**: IOTATechnik [tweetet](https://twitter.com/iotatechnik/status/1536108428820680704?s=20&t=LyPnQiB1a9zkaoySdCAlFw) über ein neues Projekt mit einem Youtube Video: [Homepage Projekt Update | IOTA:Technik](https://www.youtube.com/watch?v=Cansr7iK5NE)
 
