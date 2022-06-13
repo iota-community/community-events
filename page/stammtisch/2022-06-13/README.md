@@ -63,4 +63,9 @@
 61. **Crypto News**: Celisius Network [stoppt die Auszahlungen](https://twitter.com/CelsiusNetwork/status/1536169010877739009?s=20&t=LyPnQiB1a9zkaoySdCAlFw) und gibt follgende Erklärung ab: [A Memo to the Celsius Community](https://medium.com/p/a-memo-to-the-celsius-community-59532a06ecc6)
 62. **IOTA Ökosystem**: SoonLabs [tweetet](https://twitter.com/soon_labs/status/1536232590541107200?s=20&t=LyPnQiB1a9zkaoySdCAlFw) darüber, dass sie jetzt ähnlich wie Binance und Bitfinex Exchange and Financial Service Partner der IF sind um Liquidität und "Enterprises token creation services via #Shimmer" anbieten werden
 63. **IOTA Ökosystem**: IOTATechnik [tweetet](https://twitter.com/iotatechnik/status/1536108428820680704?s=20&t=LyPnQiB1a9zkaoySdCAlFw) über ein neues Projekt mit einem Youtube Video: [Homepage Projekt Update | IOTA:Technik](https://www.youtube.com/watch?v=Cansr7iK5NE)
+64. **IOTA Voting**: Die IOTA Community hat für BUILD gevoted. Zumindest ist BUILD uneinholbar weit vorne: [Tweet](https://twitter.com/unseriouscandle/status/1535956515269791744?s=20&t=LyPnQiB1a9zkaoySdCAlFw)
+65. **IOTA Voting**:Dave veröffentlicht einen Artikel:[Growing an IOTA Web of Trust](https://medium.com/@sumsonline/growing-an-iota-web-of-trust-7ad9cff8b6d4)
+66. **IOTA Defi**: LendeXe mit neuem Artikel: [LendeXe ASMB Airdrop Allocation](https://medium.com/@LendeXeFinance/lendexe-asmb-airdrop-allocation-185e1f6ddd9a)
+67. **Crypto News**: Bitcoin mit tiefstem Stand seit langer Zeit $24.500 
+
 
