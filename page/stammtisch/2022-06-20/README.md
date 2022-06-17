@@ -13,13 +13,18 @@
 11. **Crypto News**: Angeblich wurde eine neue riesige Lagerstätte für Gold in Uganda gefunden: [Gold in Uganda entdeckt? Schätzungen sehen 320.000 Tonnen reines Gold]([https://www.blocktrainer.de/goldvorkommen-entdeckt-gold-bitcoin/?=tw](https://www.miningscout.de/blog/2022/06/14/gold-in-uganda-entdeckt-schaetzungen-sehen-320-000-tonnen-reines-gold/))
 12. **IF Tweet**: Die [IF tweetet](https://twitter.com/iota/status/1536725159876386816?s=20&t=h3InP_ePNcbsngJGtu9o5w) über die Partnerschaft mit Chaise und verlinkt die 56 seitige [European Blockchain Skills Strategy von März/2022](https://chaise-blockchainskills.eu/wp-content/uploads/2022/05/CHAISE-European-Blockchain-Skills-Strategy.pdf)
 13. **IF Blogpost**: [What’s the Deal with DAOs? II - DAO - Jun 14, 2022 - How the IOTA Ecosystem is Embracing DAOs](https://blog.iota.org/whats-the-deal-with-daos-ii/)
-14. **IOTA P2E**: Es gibt wohl ein neues P2E game, das von [Heroes Time](https://twitter.com/Heroes_Time_UNI=) entwickelt werden. Auch Dom hat das [kommentiert](https://twitter.com/DomSchiener/status/1536706892160020480?s=20&t=h3InP_ePNcbsngJGtu9o5w)
+14. **IOTA P2E**: Es gibt wohl ein neues P2E game, das von [Heroes Time](https://twitter.com/Heroes_Time_UNI=) entwickelt werden. Auch Dom hat das [kommentiert](https://twitter.com/DomSchiener/status/1536706892160020480?s=20&t=h3InP_ePNcbsngJGtu9o5w); Hier die Webseite: [https://heroes-time.xyz/](https://heroes-time.xyz/)
 15. **Crypto Crash**: Bitcoin fällt unter 20.000 Eur
 16. **IOTA Dev**: Neuer GoShimmer release: [Release v0.9.0 #2277](https://github.com/iotaledger/goshimmer/pull/2277)
 17. **IOTA Dev**: IOTA Identity v.0.6.0 release: [v0.6.0]([v0.6.0](https://github.com/iotaledger/identity.rs/releases/tag/v0.6.0)); [Specs](https://github.com/iotaledger/identity.rs/blob/141b3c06b51f0b022b2c77167bf44b5067603567/documentation/docs/specs/revocation_bitmap_2022.md); [Changelog](https://github.com/iotaledger/identity.rs/blob/54e52c08866baf50d5393feb212e0ff40c6d00eb/bindings/wasm/CHANGELOG.md)
 18. **IOTA Dev**: Die [IF tweetet](https://twitter.com/iota/status/1537449928665931778?s=20) über [GoShimmer - Sprint Planning Weeks 24-25, 2022 #39](https://github.com/iotaledger/research-updates/discussions/39)
-19. **New Allgemein**: Hans Moog [tweetet](https://twitter.com/hus_qy/status/1537323881005993986?s=20) darüber, dass China evtl. Aliens gehört hat und verlinkt diesen Artikel: [China Says It May Have Detected Signals From Alien Civilizations
+19. **News Allgemein**: Hans Moog [tweetet](https://twitter.com/hus_qy/status/1537323881005993986?s=20) darüber, dass China evtl. Aliens gehört hat und verlinkt diesen Artikel: [China Says It May Have Detected Signals From Alien Civilizations
 ](https://www.bloomberg.com/news/articles/2022-06-15/china-says-it-may-have-detected-signals-from-alien-civilizations)
-20. 
-
+20. **IOTA Dev**: Fortschritte bei Pay with IOTA: [Tweet](https://twitter.com/shortaktien/status/1536955776358555649?s=20&t=GdY7g4Ujh4t85CcpG6vW9A)
+21. **IOTA Ökosystem**: Neue Infografik zu TanglePay: [Tweet](https://twitter.com/Issaus2020/status/1537444072083705858?s=20&t=GdY7g4Ujh4t85CcpG6vW9A)
+22. **IOTA Ökosystem**: Dom Schiener sucht einen Leader "working on loyalty / rewards / voting platform for sports fans (all done with #NFTs on #IOTA and #Assembly)": [Tweet](https://twitter.com/DomSchiener/status/1488220590834135055?s=20&t=GdY7g4Ujh4t85CcpG6vW9A)
+23. **IOTA Dev**: Die [IF tweetet](https://twitter.com/iota/status/1488195488306413584?s=20&t=GdY7g4Ujh4t85CcpG6vW9A) über ein neues Tangle Improvement Proposal: [IOTA NFT Standards Proposal #59](https://github.com/iotaledger/tips/discussions/59)
+24. **IOTA Dev**: Großes Update bei swarm: [Tweet](https://twitter.com/iota_swarm/status/1537124672151633921?s=20&t=GdY7g4Ujh4t85CcpG6vW9A)
+25. **IOTA Dev**: [GoShimmer - Sprint Planning Weeks 24-25, 2022 #39](https://github.com/iotaledger/research-updates/discussions/39)
+26. **IOTA Youtube**: [Probably Nothing #9 - Voting - LendeXe- Yenna Tech - TanglePay - IOTA News](https://www.youtube.com/watch?v=FoYOW0OPMbY)
 
