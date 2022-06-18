@@ -34,7 +34,12 @@
 31. **Shimmer learn**: Issaus mit einem One-Pager zu Shimmer: [Tweet](https://twitter.com/Issaus2020/status/1523551596898103296?s=20&t=yjphiS-UvTXelb3rAyquoQ)
 32. **IOTA Dev**: [Smart Contracts updates for week 22, 23 & 24 - 2022](https://github.com/iotaledger/engineering-updates/discussions/29)
 33. **IF Video**: Live Stream vom [IOTA Lighthouse webinar series: TLIP project AMA] hatte nicht funktioniert...
-34. 
+34. **IOTA Ökosystem**: IOTA Technik mit neuer Webseite: [iota-technik.de](https://www.iota-technik.de/)
+35. **IOTA Ökosystem**: Dom Schiener will ökologische DAOs: [Tweet](https://twitter.com/DomSchiener/status/1538107097010868224?s=20&t=yjphiS-UvTXelb3rAyquoQ)
+36. **Crypto news**: Bitcoin deutlich unter $20K. Grund evtl: [3AC Massive Liquidation](https://cryptopotato.com/3ac-massive-liquidation-rumors-run-rampant-eth-crashes-to-15-month-low/); [Krypto-Hedge-Fonds Three Arrows Capital vor Ruin – Preise sinken weiter](https://bitcoinblog.de/2022/06/15/krypto-hedge-fonds-three-arrows-capital-vor-ruin-preise-sinken-weiter/)
+37. **IOTA Dev**: Evaldas hatte etwas zu smart contracts und EVM Kompatibilität geschrieben: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1538168158955220994?s=20&t=yjphiS-UvTXelb3rAyquoQ); Auf GitHub unter iotaledger/wasp/packages/vm/core/evm/: [EVM support](https://github.com/iotaledger/wasp/tree/develop/packages/vm/core/evm)
+38. 
+
 
 
 
