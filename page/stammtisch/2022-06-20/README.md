@@ -27,4 +27,4 @@
 24. **IOTA Dev**: Großes Update bei swarm: [Tweet](https://twitter.com/iota_swarm/status/1537124672151633921?s=20&t=GdY7g4Ujh4t85CcpG6vW9A)
 25. **IOTA Dev**: [GoShimmer - Sprint Planning Weeks 24-25, 2022 #39](https://github.com/iotaledger/research-updates/discussions/39)
 26. **IOTA Youtube**: [Probably Nothing #9 - Voting - LendeXe- Yenna Tech - TanglePay - IOTA News](https://www.youtube.com/watch?v=FoYOW0OPMbY)
-
+27. **IOTA Hype**: ZEDEDA [verkündet](https://newsroom.porsche.com/en_US/2022/company/porsche-ventures-zededa-edge-computing-28351.html) eine Partnerschaft mit Porsche: Hier ein Artikel dazu von Porsche: [Porsche Ventures invests in edge computing start-up ZEDEDA](https://newsroom.porsche.com/en_US/2022/company/porsche-ventures-zededa-edge-computing-28351.html)
