@@ -27,4 +27,14 @@
 24. **IOTA Dev**: Großes Update bei swarm: [Tweet](https://twitter.com/iota_swarm/status/1537124672151633921?s=20&t=GdY7g4Ujh4t85CcpG6vW9A)
 25. **IOTA Dev**: [GoShimmer - Sprint Planning Weeks 24-25, 2022 #39](https://github.com/iotaledger/research-updates/discussions/39)
 26. **IOTA Youtube**: [Probably Nothing #9 - Voting - LendeXe- Yenna Tech - TanglePay - IOTA News](https://www.youtube.com/watch?v=FoYOW0OPMbY)
-27. **IOTA Hype**: ZEDEDA [verkündet](https://newsroom.porsche.com/en_US/2022/company/porsche-ventures-zededa-edge-computing-28351.html) eine Partnerschaft mit Porsche: Hier ein Artikel dazu von Porsche: [Porsche Ventures invests in edge computing start-up ZEDEDA](https://newsroom.porsche.com/en_US/2022/company/porsche-ventures-zededa-edge-computing-28351.html)
+27. **IOTA Youtube**: [Spec Weekly - Episode 8: We got out IOTA TREASURY! Now we need a Treasury DAO!](https://www.youtube.com/watch?v=QGaIqpOF1Gw)
+28. **IOTA Hype**: ZEDEDA [verkündet](https://twitter.com/ZededaEdge/status/1537874849481101313?s=20&t=yjphiS-UvTXelb3rAyquoQ) eine Partnerschaft mit Porsche: Hier ein Artikel dazu von Porsche: [Porsche Ventures invests in edge computing start-up ZEDEDA](https://newsroom.porsche.com/en_US/2022/company/porsche-ventures-zededa-edge-computing-28351.html)
+29. **IOTA Youtube**: Die [IF tweetet](https://twitter.com/iota/status/1537751915974598657?s=20&t=yjphiS-UvTXelb3rAyquoQ) über [IOTA Experience Smart Contracts Meeting](https://www.youtube.com/watch?v=j74CDYJ3ENA) vom 7.6.2022
+30. **IOTA F-NFTs**: Kappy [tweetet](https://twitter.com/Rob_Daykin/status/1537744292743196674?s=20&t=yjphiS-UvTXelb3rAyquoQ) über financial NFTs woraufhin sich [Revest Finance meldet](https://twitter.com/RevestFinance/status/1537812831248257024?s=20&t=yjphiS-UvTXelb3rAyquoQ) und ihr Interesse verkündet, Torsten H. hatte dazu auch etwas [getweetet](https://twitter.com/theissler/status/1537771659251400705?s=20&t=yjphiS-UvTXelb3rAyquoQ)
+31. **Shimmer learn**: Issaus mit einem One-Pager zu Shimmer: [Tweet](https://twitter.com/Issaus2020/status/1523551596898103296?s=20&t=yjphiS-UvTXelb3rAyquoQ)
+32. **IOTA Dev**: [Smart Contracts updates for week 22, 23 & 24 - 2022](https://github.com/iotaledger/engineering-updates/discussions/29)
+33. **IF Video**: Live Stream vom [IOTA Lighthouse webinar series: TLIP project AMA] hatte nicht funktioniert...
+34. 
+
+
+
