@@ -45,7 +45,7 @@
 42. **IOTA Dev**: Navin [tweetet](https://twitter.com/navinram999/status/1538597974309228547?s=20&t=R5Dv0aY5Q7WE1Uqs5l6wEA) darüber, dass Tauri 1.0 (an  construction toolkit that lets you build software for all major desktop operating systems using web technologies) fertig ist und dass man evtl. Firefly portieren könnte...
 43. **IOTA Wochenrückblick**: IOTA Talks Wochenrückblick [auf deutsch](https://www.iota-talk.com/index.php?article/194-wochenr%C3%BCckblick-vom-12-bis-18-juni-2022/) und [auf englisch](https://www.iota-talk.com/index.php?article/195-week-in-review-june-12th-to-18th-2022/)
 44. **Crypto News**: Neuer Stable Coin (USDD) der nicht stable ist? [Tweet](https://twitter.com/WatcherGuru/status/1538600290886332416?s=20&t=zVivYbTirfKYWwdcg0lfqg)
-45. **IF Youtube**: Die [IF tweetet](https://twitter.com/iota/status/1538794701247205377?s=20&t=qxYBSPNbmJ_Z6mGaJrid4w) über das Video: [IOTA Lighthouse Projects: TLIP](https://www.youtube.com/watch?v=v77Qnssyh-8&feature=youtu.be)
+45. **IF Youtube**: Die [IF tweetet](https://twitter.com/iota/status/1538794701247205377?s=20&t=qxYBSPNbmJ_Z6mGaJrid4w) über das erste Lighthouse Projekt Webinar: [IOTA Lighthouse Projects: TLIP](https://www.youtube.com/watch?v=v77Qnssyh-8&feature=youtu.be)
 46. **IOTA P2E**: Die [Hivi Gaming Society](https://twitter.com/HiFiDeFi) [tweetet](https://twitter.com/HiFiDeFi/status/1538627699345956866?s=20&t=zVivYbTirfKYWwdcg0lfqg) über ihre [P2E Webseite](https://hifigamingsociety.com/) und tagged assemblynet. Läuft wohl aktuell auf der Binance Chanin, aber vielleicht migrieren die irgendwan...
 
 
