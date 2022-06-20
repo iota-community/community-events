@@ -38,13 +38,13 @@
 35. **IOTA Ökosystem**: Dom Schiener will ökologische DAOs: [Tweet](https://twitter.com/DomSchiener/status/1538107097010868224?s=20&t=yjphiS-UvTXelb3rAyquoQ)
 36. **Crypto news**: Bitcoin deutlich unter $20K. Grund evtl: [3AC Massive Liquidation](https://cryptopotato.com/3ac-massive-liquidation-rumors-run-rampant-eth-crashes-to-15-month-low/); [Krypto-Hedge-Fonds Three Arrows Capital vor Ruin – Preise sinken weiter](https://bitcoinblog.de/2022/06/15/krypto-hedge-fonds-three-arrows-capital-vor-ruin-preise-sinken-weiter/)
 37. **IOTA Dev**: Evaldas hatte etwas zu smart contracts und EVM Kompatibilität geschrieben: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1538168158955220994?s=20&t=yjphiS-UvTXelb3rAyquoQ); Auf GitHub unter iotaledger/wasp/packages/vm/core/evm/: [EVM support](https://github.com/iotaledger/wasp/tree/develop/packages/vm/core/evm)
-38. **IOTA Defi Schulung**: Kappy hat wieder eine Defi Schulung für Defi: [Tweet](https://twitter.com/Rob_Daykin/status/1538591220251119616?s=20&t=oTVqFj1aQ6WIgJxslPVMcA)
+38. **IOTA Defi Schulung**: Kappy hat wieder eine Defi Schulung auf Twitch gemacht: [Tweet](https://twitter.com/Rob_Daykin/status/1538591220251119616?s=20&t=oTVqFj1aQ6WIgJxslPVMcA)
 39. **IOTA Audio**: Am nächsten Donnerstag ist MoonVault zu Gast bei der TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1538492525169807363?s=20&t=RS1tW5oES-dwFiZBglp1ZQ)
 40. **Crypto News**: Elon Musk muss wohl vor Gericht: [US-Anleger zerrt Elon Musk, Tesla und SpaceX wegen angeblichen Schneeballsystems bei Dogecoin vor Gericht](https://www.finanzen.net/nachricht/devisen/kurssturz-us-anleger-zerrt-elon-musk-tesla-und-spacex-wegen-angeblichen-schneeballsystems-bei-dogecoin-vor-gericht-11454416); Er tweetet aber fleißig weiter darüber, dass er Doge unterstützen will: [Tweet 1](https://twitter.com/elonmusk/status/1538406040374595585?s=20&t=Z8HMKaEWqokmgBuiN7Uh6w) und dass er Doge kauft: [Tweet](https://twitter.com/elonmusk/status/1538406703150014466?s=20&t=Z8HMKaEWqokmgBuiN7Uh6w)
 41. **Crypto News**: Solana macht mal wieder zentralisierten Blödsinn: [Tweet 1](https://twitter.com/Dagnum_PI/status/1538522021906325504?s=20&t=svaeTpL3kWGvgnzVhArc6g); [Tweet 2](https://twitter.com/WatcherGuru/status/1538589838839992320?s=20&t=R5Dv0aY5Q7WE1Uqs5l6wEA)
 42. **IOTA Dev**: Navin [tweetet](https://twitter.com/navinram999/status/1538597974309228547?s=20&t=R5Dv0aY5Q7WE1Uqs5l6wEA) darüber, dass Tauri 1.0 (an  construction toolkit that lets you build software for all major desktop operating systems using web technologies) fertig ist und dass man evtl. Firefly portieren könnte...
 43. **IOTA Wochenrückblick**: IOTA Talks Wochenrückblick [auf deutsch](https://www.iota-talk.com/index.php?article/194-wochenr%C3%BCckblick-vom-12-bis-18-juni-2022/) und [auf englisch](https://www.iota-talk.com/index.php?article/195-week-in-review-june-12th-to-18th-2022/)
-44. 
+44. **Crypto News**: Neuer Stable Coin (USDD) der nicht stable ist? [Tweet](https://twitter.com/WatcherGuru/status/1538600290886332416?s=20&t=zVivYbTirfKYWwdcg0lfqg)
 
 
 
