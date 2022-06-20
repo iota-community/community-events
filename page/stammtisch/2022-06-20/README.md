@@ -47,6 +47,7 @@
 44. **Crypto News**: Neuer Stable Coin (USDD) der nicht stable ist? [Tweet](https://twitter.com/WatcherGuru/status/1538600290886332416?s=20&t=zVivYbTirfKYWwdcg0lfqg)
 45. **IF Youtube**: Die [IF tweetet](https://twitter.com/iota/status/1538794701247205377?s=20&t=qxYBSPNbmJ_Z6mGaJrid4w) über das erste Lighthouse Projekt Webinar: [IOTA Lighthouse Projects: TLIP](https://www.youtube.com/watch?v=v77Qnssyh-8&feature=youtu.be)
 46. **IOTA P2E**: Die [Hivi Gaming Society](https://twitter.com/HiFiDeFi) [tweetet](https://twitter.com/HiFiDeFi/status/1538627699345956866?s=20&t=zVivYbTirfKYWwdcg0lfqg) über ihre [P2E Webseite](https://hifigamingsociety.com/) und tagged assemblynet. Läuft wohl aktuell auf der Binance Chanin, aber vielleicht migrieren die irgendwan...
+47. **IOTA Stardust Hype**: Shimmer [tweetet 1/3](https://twitter.com/shimmernet/status/1538823993171517442?s=20&t=zVivYbTirfKYWwdcg0lfqg) über die Möglichkeit von "NFTs own other NFTs"
 
 
 
