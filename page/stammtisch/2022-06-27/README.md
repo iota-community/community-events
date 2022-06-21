@@ -9,4 +9,8 @@ GLOBAL WISDOM SOFTWARE TECH CO LTD
 6. **IOTA Event**: Kumar Anirudha war bei einem Event (Women Who Code Blockchain): [Tweet](https://twitter.com/kranirudha/status/1538872281740775426?s=20&t=brXgLyWnmwZFoWYoojPF6g)
 7. **IOTA Ökosystem**: SoonLabs [verkündet](https://twitter.com/soon_labs/status/1539109952131895296?s=20&t=brXgLyWnmwZFoWYoojPF6g), dass TanglePay einige Payment Provider integriert hat (VISA, MasterCard, and Bank Transfers)
 8. **IOTA Youtube**: IOTAmonthly mit [STARDUST Part 2 - Wie Smart Wird Es? - IOTA News / Special Report](https://www.youtube.com/watch?v=xoKexUjRSSE); Hier ist nochmal der Teil 1: [STARDUST - NFTs Wie Nie Zuvor - IOTA News / Special Report](https://www.youtube.com/watch?v=NX6ZY6I-WPk)
-9. **IOTA Ökosystem**: 
+9. **IOTA Ökosystem**: Soonaverse hat 4Tioata eingenommen beim $Soon Token Sale: [Tweet](https://twitter.com/soon_labs/status/1539277242479521793?s=20&t=WEZ7Qf5Xo7pGPRavYRR20g); Anschließend konnte man den Soon Token direkt kaufen auf [Soonaverse Soon Token](https://soonaverse.com/token/0x9600b5afbb84f15e0d4c0f90ea60b2b8d7bd0f1e/trade)
+10. **Crypto News**: Bored Apes Yacht Club Drama wegen dem Video: [BORED APE NAZI CLUB](https://www.youtube.com/watch?v=XpH3O6mnZvw)
+11. **IOTA Event**: Am Montag spricht Mat Yarger bei einem INATBA Event: [Tweet](https://twitter.com/INATBA_org/status/1539214469905235970?s=20&t=WEZ7Qf5Xo7pGPRavYRR20g)
+12. **Twitter Hype**: Gefühlt zum 100. Mal [tweetet die IF](https://twitter.com/iota/status/1539337366804082689?s=20&t=WEZ7Qf5Xo7pGPRavYRR20g) über das Stardust Update... 
+13. **Twitter Hype**: [Ben Crawford](https://twitter.com/_BenCrawford_) der CEO von [centralnic.com](centralnic.com) [tweetet](https://twitter.com/_BenCrawford_/status/1539291558951919623?s=20&t=0ks7SMMPlzy6i-vKg7ELfQ) über IOTA...
