@@ -14,3 +14,7 @@ GLOBAL WISDOM SOFTWARE TECH CO LTD
 11. **IOTA Event**: Am Montag spricht Mat Yarger bei einem INATBA Event: [Tweet](https://twitter.com/INATBA_org/status/1539214469905235970?s=20&t=WEZ7Qf5Xo7pGPRavYRR20g)
 12. **Twitter Hype**: Gefühlt zum 100. Mal [tweetet die IF](https://twitter.com/iota/status/1539337366804082689?s=20&t=WEZ7Qf5Xo7pGPRavYRR20g) über das Stardust Update... 
 13. **Twitter Hype**: [Ben Crawford](https://twitter.com/_BenCrawford_) der CEO von [centralnic.com](centralnic.com) [tweetet](https://twitter.com/_BenCrawford_/status/1539291558951919623?s=20&t=0ks7SMMPlzy6i-vKg7ELfQ) über IOTA...
+14. **IOTA Ökosystem**: TanglePay ermöglicht Direktkauf von IOTA: [Tweet](https://twitter.com/tanglepaycom/status/1539498000057536512?s=20&t=NiOuqz_KWWGJJhNLYLjrSQ)
+15. **IOTA Ökosystem**: Die [IF tweetet](https://twitter.com/iota/status/1539518569104429061?s=20&t=NiOuqz_KWWGJJhNLYLjrSQ) über Chaise und deren [Blockchain Skills für Europa Strategie](https://chaise-blockchainskills.eu/wp-content/uploads/2022/05/CHAISE-European-Blockchain-Skills-Strategy.pdf); Die wollen scheinbar eine Blockchain-Kampagne starten: "large awareness raising campaign to provide companies & citizens with information & guidelines on the use of #Blockchain." 
+16. **Shimmer Ökosystem**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1539548778138673153?s=20&t=NiOuqz_KWWGJJhNLYLjrSQ): Es gibt eine neue Webseite vom [Shimmer Ecosystem](https://shimmer.network/ecosystem)
+17. 
