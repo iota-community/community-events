@@ -29,4 +29,4 @@ GLOBAL WISDOM SOFTWARE TECH CO LTD
 26. **IOTA Defi**: LendeXe [veröffentlicht](https://twitter.com/LendeXeFinance/status/1539717095784681473?s=20&t=FYGVguXzSkbxzIf8vAU5hA) ihren Blogpost: [Celsius vs LendeXe](https://medium.com/@LendeXeFinance/celsius-vs-lendexe-1e2a7c927656)
 27. **IOTA Ökosystem**: TFT [veröffentlichen](https://twitter.com/TheFansTogether/status/1539594118292279297?s=20&t=w0PT8nL7cKPgPM0psaNhRQ) ein Statement warum es nicht geklappt hat mit dem Einstieg bei Sunderland AFC 
 28. **Crypto News**: Ein Statement von Christine Largard über Crypto wurde in einem [Tweet](https://twitter.com/paddi_hansen/status/1539284201052200963?s=20&t=FYGVguXzSkbxzIf8vAU5hA) mit Video geshared. Sie sagt z.B.: "Crypto Assets and Defi have the potetial to pose real risk to financial stablility"
-29. 
+29. **IOTA Kurs**: IOTA Pump am Mittwoch und Donnerstag: [Tweet](https://twitter.com/Vrom14286662/status/1539894785267351552?s=20&t=FYGVguXzSkbxzIf8vAU5hA)
