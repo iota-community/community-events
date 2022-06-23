@@ -30,3 +30,6 @@ GLOBAL WISDOM SOFTWARE TECH CO LTD
 27. **IOTA Ökosystem**: TFT [veröffentlichen](https://twitter.com/TheFansTogether/status/1539594118292279297?s=20&t=w0PT8nL7cKPgPM0psaNhRQ) ein Statement warum es nicht geklappt hat mit dem Einstieg bei Sunderland AFC 
 28. **Crypto News**: Ein Statement von Christine Largard über Crypto wurde in einem [Tweet](https://twitter.com/paddi_hansen/status/1539284201052200963?s=20&t=FYGVguXzSkbxzIf8vAU5hA) mit Video geshared. Sie sagt z.B.: "Crypto Assets and Defi have the potetial to pose real risk to financial stablility"
 29. **IOTA Kurs**: IOTA Pump am Mittwoch und Donnerstag: [Tweet](https://twitter.com/Vrom14286662/status/1539894785267351552?s=20&t=FYGVguXzSkbxzIf8vAU5hA)
+30. **IOTA Audio**: Neuer Moonaco Podcast: [Episode 29 mit der ETO Gruppe](https://open.spotify.com/episode/3iVNT2BOefuZTorW3quxtO?si=mU5wq7nBQ02vYvSe2KD40A&nd=1)
+31. **IOTA Event**: IOTA Stammtisch in München am 1.7.22: [Meetup-Event](https://www.meetup.com/de-DE/iota-muc/events/rjcftsydckbcb/); [Tweet](https://twitter.com/IotaMunchen/status/1539941500334866440?s=20&t=4WRPdrAcboEZfAOvgMMwHA)
+32. **IF Blogpost**: Die [IF tweetet](https://twitter.com/iota/status/1539956459445927937?s=20&t=4WRPdrAcboEZfAOvgMMwHA) über ihren neuen Blogpost: [Digital Product Passport](https://blog.iota.org/digital-product-passport/)
