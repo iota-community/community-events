@@ -39,4 +39,5 @@ GLOBAL WISDOM SOFTWARE TECH CO LTD
 36. **Crypto News**: Nächste Bridge die gehäckt wurde: [Breaking: Harmony's Horizon Bridge hacked for $100M
 ](https://cointelegraph.com/news/breaking-harmony-one-s-horizon-bridge-hacked-for-100m)
 37. **IOTA Youtube**: 230K Follower Youtube Channel "The Modern Investor" macht ein Video: [IOTA & DELL Partnership! + The BEST NEWS EVER & Luxury LOVES Bitcoin](https://www.youtube.com/watch?v=UULTlrQlHL4)
+38. **IOTA Youtube**: DAO Pioneer Meeting: [IOTA DAO Pioneers session Europe - 15th June 2022](https://www.youtube.com/watch?v=kY3WefFpvO4)
 
