@@ -11,7 +11,7 @@ GLOBAL WISDOM SOFTWARE TECH CO LTD
 8. **IOTA Youtube**: IOTAmonthly mit [STARDUST Part 2 - Wie Smart Wird Es? - IOTA News / Special Report](https://www.youtube.com/watch?v=xoKexUjRSSE); Hier ist nochmal der Teil 1: [STARDUST - NFTs Wie Nie Zuvor - IOTA News / Special Report](https://www.youtube.com/watch?v=NX6ZY6I-WPk)
 9. **IOTA Ökosystem**: Soonaverse hat 4Tioata eingenommen beim $Soon Token Sale: [Tweet](https://twitter.com/soon_labs/status/1539277242479521793?s=20&t=WEZ7Qf5Xo7pGPRavYRR20g); Anschließend konnte man den Soon Token direkt kaufen auf [Soonaverse Soon Token](https://soonaverse.com/token/0x9600b5afbb84f15e0d4c0f90ea60b2b8d7bd0f1e/trade)
 10. **Crypto News**: Bored Apes Yacht Club Drama wegen dem Video: [BORED APE NAZI CLUB](https://www.youtube.com/watch?v=XpH3O6mnZvw)
-11. **IOTA Event**: Am Montag spricht Mat Yarger bei einem INATBA Event: [Tweet](https://twitter.com/INATBA_org/status/1539214469905235970?s=20&t=WEZ7Qf5Xo7pGPRavYRR20g)
+11. **IOTA Event**: Am Montag spricht Mat Yarger bei einem INATBA Event: [Tweet 1](https://twitter.com/INATBA_org/status/1539214469905235970?s=20&t=WEZ7Qf5Xo7pGPRavYRR20g); [Tweet 2](https://twitter.com/iota/status/1540243331787137027?s=20&t=baCZCmMxZXN_vfx8ZYyvzg); [Anmeldung zum Zoom-Event](https://us02web.zoom.us/meeting/register/tZAsf-yurTwoHtLRduU_gbaG2uuH1tnq4bpm)
 12. **Twitter Hype**: Gefühlt zum 100. Mal [tweetet die IF](https://twitter.com/iota/status/1539337366804082689?s=20&t=WEZ7Qf5Xo7pGPRavYRR20g) über das Stardust Update... Holger Köther [erklärt](https://twitter.com/HolgerKoether/status/1539866574403866624?s=20&t=tzk4nUzjdFWzezaSE-2gxQ) die Strategie dahinter in seinen Tweets
 13. **Twitter Hype**: [Ben Crawford](https://twitter.com/_BenCrawford_) der CEO von [centralnic.com](centralnic.com) [tweetet](https://twitter.com/_BenCrawford_/status/1539291558951919623?s=20&t=0ks7SMMPlzy6i-vKg7ELfQ) über IOTA...
 14. **IOTA Ökosystem**: TanglePay ermöglicht Direktkauf von IOTA: [Tweet](https://twitter.com/tanglepaycom/status/1539498000057536512?s=20&t=NiOuqz_KWWGJJhNLYLjrSQ)
@@ -40,4 +40,10 @@ GLOBAL WISDOM SOFTWARE TECH CO LTD
 ](https://cointelegraph.com/news/breaking-harmony-one-s-horizon-bridge-hacked-for-100m)
 37. **IOTA Youtube**: 230K Follower Youtube Channel "The Modern Investor" macht ein Video: [IOTA & DELL Partnership! + The BEST NEWS EVER & Luxury LOVES Bitcoin](https://www.youtube.com/watch?v=UULTlrQlHL4)
 38. **IOTA Youtube**: DAO Pioneer Meeting: [IOTA DAO Pioneers session Europe - 15th June 2022](https://www.youtube.com/watch?v=kY3WefFpvO4)
+39. **Off Topic**: Hans Moog mit mehreren [Tweets](https://twitter.com/hus_qy/status/1540107189481873408?s=20&t=tDgTmZQvfFcMxq7Zpkd5kw) zu cold fusion
+40. **Crypto News**: Charles Hoskinson war im Congress: [Watch Cardano Founder Explain Crypto Regulation to Congress](https://www.youtube.com/watch?v=gvHbUlX0164)
+41. **IOTA Youtube**: Neue Folge von Probably Nothing: [Probably Nothing #10 - TradeMark East Africa - HiFi Gaming - DPP - IOTA News](https://www.youtube.com/watch?v=Df5Tn8qb1t4); Wurde sogar von der [IF retweetet](https://twitter.com/iota/status/1540299817150283777?s=20&t=XkeYAyF9IDv6Tq2wGvtVcg)
+42. **IOTA dev**: Hans Moog macht eine PR auf GitHub zum Thema "Manaverse": [Tweet mit Screenshot](https://twitter.com/unseriouscandle/status/1540325957072031744?s=20&t=baCZCmMxZXN_vfx8ZYyvzg)
+43. **IOTA YT Tutorial**: [IOTA Hornet Node auf Raspberry Pi 4](https://www.iota-technik.de/videos/iota-hornet-node-auf-raspberry-pi-4.html)
+44. **IOTA Hype**: Evaldas [tweetet](https://twitter.com/lunfardo314/status/1540243014534283269?s=20&t=tzk4nUzjdFWzezaSE-2gxQ) von hundred of thousand TPS...
 
