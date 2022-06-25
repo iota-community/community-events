@@ -42,8 +42,11 @@ GLOBAL WISDOM SOFTWARE TECH CO LTD
 38. **IOTA Youtube**: DAO Pioneer Meeting: [IOTA DAO Pioneers session Europe - 15th June 2022](https://www.youtube.com/watch?v=kY3WefFpvO4)
 39. **Off Topic**: Hans Moog mit mehreren [Tweets](https://twitter.com/hus_qy/status/1540107189481873408?s=20&t=tDgTmZQvfFcMxq7Zpkd5kw) zu cold fusion
 40. **Crypto News**: Charles Hoskinson war im Congress: [Watch Cardano Founder Explain Crypto Regulation to Congress](https://www.youtube.com/watch?v=gvHbUlX0164)
-41. **IOTA Youtube**: Neue Folge von Probably Nothing: [Probably Nothing #10 - TradeMark East Africa - HiFi Gaming - DPP - IOTA News](https://www.youtube.com/watch?v=Df5Tn8qb1t4); Wurde sogar von der [IF retweetet](https://twitter.com/iota/status/1540299817150283777?s=20&t=XkeYAyF9IDv6Tq2wGvtVcg)
+41. **IOTA Youtube**: Folge 10 von Probably Nothing: [Probably Nothing #10 - TradeMark East Africa - HiFi Gaming - DPP - IOTA News](https://www.youtube.com/watch?v=Df5Tn8qb1t4); Wurde sogar von der [IF retweetet](https://twitter.com/iota/status/1540299817150283777?s=20&t=XkeYAyF9IDv6Tq2wGvtVcg)
 42. **IOTA dev**: Hans Moog macht eine PR auf GitHub zum Thema "Manaverse": [Tweet mit Screenshot](https://twitter.com/unseriouscandle/status/1540325957072031744?s=20&t=baCZCmMxZXN_vfx8ZYyvzg)
 43. **IOTA YT Tutorial**: [IOTA Hornet Node auf Raspberry Pi 4](https://www.iota-technik.de/videos/iota-hornet-node-auf-raspberry-pi-4.html)
 44. **IOTA Hype**: Evaldas [tweetet](https://twitter.com/lunfardo314/status/1540243014534283269?s=20&t=tzk4nUzjdFWzezaSE-2gxQ) von hundred of thousand TPS...
+45. **IOTA Video**: Spec Weekly: [Episode 9: Supply Chain in Africa, TradeMark East Africa and TLIP. Edge Data? Yes.](https://www.youtube.com/watch?app=desktop&v=6fnSR3V08wo)
+46. **IOTA Event**: Holger Köther war beim GreenTech Event: [Tweet mit Screenshots](https://twitter.com/Vrom14286662/status/1540509606744580097?s=20&t=pT1gwfzNsp-qxR3qkInQ7g); Original auf [H.Köther auf LinkedIn](https://www.linkedin.com/posts/koether_iota-thankyou-blockchain-activity-6946140594444361728-MlxY)
+47. **Crypto News**: Solana macht ein Blockchain Phone... Da war doch mal was mit Messi... [Tweet](https://www.linkedin.com/posts/koether_iota-thankyou-blockchain-activity-6946140594444361728-MlxY)
 
