@@ -49,4 +49,7 @@ GLOBAL WISDOM SOFTWARE TECH CO LTD
 45. **IOTA Video**: Spec Weekly: [Episode 9: Supply Chain in Africa, TradeMark East Africa and TLIP. Edge Data? Yes.](https://www.youtube.com/watch?app=desktop&v=6fnSR3V08wo)
 46. **IOTA Event**: Holger Köther war beim GreenTech Event: [Tweet mit Screenshots](https://twitter.com/Vrom14286662/status/1540509606744580097?s=20&t=pT1gwfzNsp-qxR3qkInQ7g); Original auf [H.Köther auf LinkedIn](https://www.linkedin.com/posts/koether_iota-thankyou-blockchain-activity-6946140594444361728-MlxY)
 47. **Crypto News**: Solana macht ein Blockchain Phone... Da war doch mal was mit Messi... [Tweet](https://www.linkedin.com/posts/koether_iota-thankyou-blockchain-activity-6946140594444361728-MlxY)
+48. **IOTA Event**: Holger Köther ist am 14.7. auf einem Start-Up-Event: [Tweet](https://twitter.com/MACHN_Festival/status/1540613267546025984?s=20&t=W-9d2Z6hWsbI4ON0Ryo8rg)
+49. **IOTA Audio**: [IotaNigeria](https://twitter.com/IotaNigeria) mit dem nächsten [Africa Meeting auf Twitter Spaces](https://twitter.com/IotaNigeria/status/1540800720244334592?s=20&t=f7-Oxsx81Wat_1GGClLI_w)
+50. **IOTA NFT**: Das Bild zum einfachIOTA Magazin NFT wurde veröffentlicht: [Tweet](https://twitter.com/einfachIOTA/status/1540582618122657793?s=20&t=OggzJXl3n6Q8-GZtuELsoA)
 
