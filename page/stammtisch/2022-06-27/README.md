@@ -56,5 +56,6 @@
 52. **IOTA Tech**: Evaldas und Luka mit langer Discussion über zkProofs: [Tweet](https://twitter.com/lunfardo314/status/1541023170358116352?s=20&t=dEoyaBHgNphV7mSIGGi2OQ); Evaldas hat auch Vitalik Buterins seinen Tweet [retweetet](https://twitter.com/lunfardo314/status/1541264408558567425?s=20&t=dEoyaBHgNphV7mSIGGi2OQ) in dem er sowas sagt wie: Für Personal-Health-Apps sollte man zurück zu web2 Apps gehen, weil Blockchain und zkProofs da wahrscheinlich keinen Sinn macht (wegen den Zusatzkosten); Evaldas spricht auch von einen White Paper Update von Smart Contracts mit der "ultimate vision of IOTA smart contracts" an dem er gerade arbeitet: [Tweet](https://twitter.com/lunfardo314/status/1541111903958831107?s=20&t=dEoyaBHgNphV7mSIGGi2OQ)
 53. ** IOTA Wochenrückblick: [IOTA Talk Wochenrückblick auf deutsch](https://www.iota-talk.com/index.php?article/196-wochenr%C3%BCckblick-vom-19-bis-25-juni-2022/)
 54. ** Assembly Adaption**: Die [United Oversea Bank (UOB)](https://www.uobgroup.com/uobgroup/default.page) aus Singapur hat offenbar in Assembly investiert: [Tweet](https://twitter.com/DaoBuilder1/status/1541010894498545664?s=20&t=dEoyaBHgNphV7mSIGGi2OQ)
+55. ** IOTA Small Talk**: Dom Schiener war wandern und hat ein IOTA Bild überreicht bekommen: [Tweet](https://twitter.com/IotGoku/status/1541319533931151361?s=20&t=42ClxaPyUMjWAHOC_X-_cw)
 
 
