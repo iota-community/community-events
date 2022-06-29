@@ -7,5 +7,6 @@
 5. **Twitter Hype**: Neuer "bigger then coinbase"-Tweet von Dan Simmerman? [Tweet](https://twitter.com/DanSimerman/status/1541482193138106368?s=20&t=gqQNu4w7O7o1lmagbBGYgQ) "#IOTA’s #Shimmer ecosystem will be one of the more exciting developments of the industry over the next few months"
 6. **IOTA NFT**: Es wird 1337 IOTABOTS geben: [Tweet](https://twitter.com/iotabots/status/1541712187839889411?s=20&t=zVV7tJYXRDOX7IVa7TKEzw)
 7. **IOTA Dev**: Es gab am Dienstag eine "Assembly Office Hour" im IOTA Discord
-8. 
+8. **Twitter Hype**: Die Gerüchte von EBSI und IOTA werden sogar von der [IF geretweetet](https://twitter.com/iota/status/1542050850717179904?s=20&t=Gka9gPB5k0a4fGMOCPyKHA). Es ging darum, dass EBSI auf der Webseite auch von einem "Digitalen Product Passport" spricht
+
 
