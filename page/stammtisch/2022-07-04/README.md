@@ -8,5 +8,6 @@
 6. **IOTA NFT**: Es wird 1337 IOTABOTS geben: [Tweet](https://twitter.com/iotabots/status/1541712187839889411?s=20&t=zVV7tJYXRDOX7IVa7TKEzw)
 7. **IOTA Dev**: Es gab am Dienstag eine "Assembly Office Hour" im IOTA Discord
 8. **Twitter Hype**: Die Gerüchte von EBSI und IOTA werden sogar von der [IF geretweetet](https://twitter.com/iota/status/1542050850717179904?s=20&t=Gka9gPB5k0a4fGMOCPyKHA). Es ging darum, dass EBSI auf der Webseite auch von einem "Digitalen Product Passport" spricht
+9. **Crypto News**: Sparkassen einigen sich auf Richtungsentscheidung: [Sparkassen wollen nicht mit Krypto­währungen handeln](https://www.boersen-zeitung.de/banken-finanzen/sparkassen-wollen-nicht-mit-kryptowaehrungen-handeln-add4a848-f6b1-11ec-9528-25c443781fd5)
 
 
