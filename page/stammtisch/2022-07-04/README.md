@@ -17,7 +17,8 @@
 15. **Crypto Regulierung**: EU Pressemitteilung: [Crypto assets: deal on new rules to stop illicit flows in the EU](https://www.europarl.europa.eu/news/en/press-room/20220627IPR33919/crypto-assets-deal-on-new-rules-to-stop-illicit-flows-in-the-eu); Hier zwei Twitter Threads zum Thema: [Thread 1](https://mobile.twitter.com/ernesturtasun/status/1542217821958115332?t=4ziSNLP1UBtrkX_CwwzpPg&s=19); [Thread 2](https://twitter.com/paddi_hansen/status/1542411603034836993?s=20&t=51-K5O2N5qMMv3lBAa9M6g)
 16. **Twitter Hype**: CryptoNews mit 65K Followern [tweetet](https://twitter.com/cryptod0tnews/status/1542357768287309824?s=20&t=PxNQ4qs32pXOxxSlxMhZuQ) über ihren Artikel: [The Ins and Outs of IOTA’s Marketplace](https://crypto.news/the-ins-and-outs-of-iotas-marketplace/)
 17. **Twitter Hype**: CoFounder of Blockchain for Good mit 65K Followern [tweetet](https://twitter.com/DrYorikoTodd/status/1542248247833804800?s=20&t=utdSQnxiiImRhs68Ty3xCQ) positiv über IOTA
-18. **IOTA Audio**: Neue Folge vom Moonaco Podcast mit [fleximarex.com](https://fleximarex.com/): [Tweet](https://twitter.com/MoonacoPodcast/status/1542446892260392961?s=20&t=utdSQnxiiImRhs68Ty3xCQ); [Spotify Link](https://open.spotify.com/episode/4BpBtAu57n0aSj0N4M1cPT?si=59jZZcfEQIaOKANrUK66Yg&nd=1)
-19. 
+18. **Twitter Hype**: Von IOTAPoet über ein Soon-Projekt: [Tweet](https://twitter.com/IotaPoet/status/1542458818558402560?s=20&t=P2umyii4QDjJ3YfL5J8zSg) "it will bring a big usecase to the ecosystem " und " I know there is some big stuff going on." 
+19. **IOTA Audio**: Neue Folge vom Moonaco Podcast mit [fleximarex.com](https://fleximarex.com/): [Tweet](https://twitter.com/MoonacoPodcast/status/1542446892260392961?s=20&t=utdSQnxiiImRhs68Ty3xCQ); [Spotify Link](https://open.spotify.com/episode/4BpBtAu57n0aSj0N4M1cPT?si=59jZZcfEQIaOKANrUK66Yg&nd=1)
+20. **IF Tweet**: Die [IF lobt](https://twitter.com/iota/status/1542494562584772608?s=20&t=ofzZpr7oCgKdTHrOhYyoLQ) die Arbeit von SpecWeekly
 
 
