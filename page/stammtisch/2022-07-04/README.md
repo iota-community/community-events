@@ -28,9 +28,13 @@
 26. **IOTA Youtube**: Mat Yarger [tweetet](https://twitter.com/Mat_Yarger/status/1542536215093813251?s=20&t=V1hnrt8olmXUvEjZR4VICA) über seinen Vortrag: [LF Edge Workshop at the Open Source Summit North America](https://www.youtube.com/watch?v=GpSq1kgTTMg&t=2141s)
 27. **IOTA Youtube**: Everything Tangle mit neuem Video: [NFTs & IOTA](https://www.youtube.com/watch?v=DXVEC76FbvI&feature=youtu.be)
 28. **IOTA Youtube**: IOTAMonthly mit [DELL / ETO Gruppe / TradeMark East Afrika - IOTAMonthly Juni](https://www.youtube.com/watch?v=BVX_mV0-WX0)
-29. **IOTA Youtube**: IOTA & Zebra: [IOTA Lighthouse Projects: Zebra Technologies](https://www.youtube.com/watch?v=Sj0mICV2RQo)
+29. **IOTA Youtube**: IOTA & Zebra: [IOTA Lighthouse Projects: Zebra Technologies](https://www.youtube.com/watch?v=Sj0mICV2RQo); Die [IF tweetet](https://twitter.com/iota/status/1542780056262660096?s=20&t=x44uaayGFs6UBhaPop8Jbg) auch darüber
 30. **IOTA Youtube**: [IOTA Community Governance meeting 30/06/22](https://www.youtube.com/watch?v=nTO2gx-fR1M) mit der [Zusammenfassung auf GitHub](https://github.com/iota-community/Community-Governance/blob/main/meetings/Community_Call_Notes_2022-06-30.md)
 31. **IOTA Defi**: Tutorials mit IOTABot und ShimmerSea soon: [Tweet](https://twitter.com/iotabots/status/1542814331032768512?s=20&t=PtjZHWkCA2LKQ1CSSZH5QA)
+32. **IOTA Ökosystem**: [Bivreost](https://twitter.com/bivreost) wollen irgendie "the first Telegram web application wallet built on IOTA" bauen
+33. **IOTA Youtube**: [DELL / ETO Gruppe / TradeMark East Afrika - IOTAMonthly Juni](https://www.youtube.com/watch?v=BVX_mV0-WX0)
+34. **IOTA Ökosystem**: Blackpin war auf einer Messe mit ihrem [IOTA Messenger für Firmen](https://twitter.com/BLACKPIN_GmbH/status/1542854985196634114?s=20&t=x44uaayGFs6UBhaPop8Jbg) 
+35. 
 
 
 
