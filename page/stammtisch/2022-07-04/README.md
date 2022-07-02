@@ -34,7 +34,7 @@
 32. **IOTA Ökosystem**: [Bivreost](https://twitter.com/bivreost) wollen irgendie "the first Telegram web application wallet built on IOTA" bauen
 33. **IOTA Youtube**: [DELL / ETO Gruppe / TradeMark East Afrika - IOTAMonthly Juni](https://www.youtube.com/watch?v=BVX_mV0-WX0)
 34. **IOTA Ökosystem**: Blackpin war auf einer Messe mit ihrem [IOTA Messenger für Firmen](https://twitter.com/BLACKPIN_GmbH/status/1542854985196634114?s=20&t=x44uaayGFs6UBhaPop8Jbg) 
-35. 
+35. **IOTA NFT**: Es gab einen DaoBee Airdrop: [Tweet](https://twitter.com/Daobeegame/status/1543193246209286145?s=20&t=rEagJxuW9iAiLpjNXd_kmg)
 
 
 
