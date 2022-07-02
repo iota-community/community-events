@@ -31,8 +31,8 @@
 29. **IOTA Youtube**: IOTA & Zebra: [IOTA Lighthouse Projects: Zebra Technologies](https://www.youtube.com/watch?v=Sj0mICV2RQo); Die [IF tweetet](https://twitter.com/iota/status/1542780056262660096?s=20&t=x44uaayGFs6UBhaPop8Jbg) auch darüber
 30. **IOTA Youtube**: [IOTA Community Governance meeting 30/06/22](https://www.youtube.com/watch?v=nTO2gx-fR1M) mit der [Zusammenfassung auf GitHub](https://github.com/iota-community/Community-Governance/blob/main/meetings/Community_Call_Notes_2022-06-30.md)
 31. **IOTA Defi**: Tutorials mit IOTABot und ShimmerSea soon: [Tweet](https://twitter.com/iotabots/status/1542814331032768512?s=20&t=PtjZHWkCA2LKQ1CSSZH5QA)
-32. **IOTA Ökosystem**: [Bivreost](https://twitter.com/bivreost) wollen irgendie "the first Telegram web application wallet built on IOTA" bauen
-33. **IOTA Youtube**: [DELL / ETO Gruppe / TradeMark East Afrika - IOTAMonthly Juni](https://www.youtube.com/watch?v=BVX_mV0-WX0)
+32. **IOTA Ökosystem**: [Bivreost](https://twitter.com/bivreost) wollen irgendie "the first Telegram web application wallet built on IOTA" bauen; Hier ein [Tweet](https://twitter.com/abcen71/status/1543330840775639046?s=20&t=J7avHDk8WH_AklDxlTKudQ) mit einer Vorschau
+33. **IOTA Youtube**: IOTA Monthly - [DELL / ETO Gruppe / TradeMark East Afrika - IOTAMonthly Juni](https://www.youtube.com/watch?v=BVX_mV0-WX0)
 34. **IOTA Ökosystem**: Blackpin war auf einer Messe mit ihrem [IOTA Messenger für Firmen](https://twitter.com/BLACKPIN_GmbH/status/1542854985196634114?s=20&t=x44uaayGFs6UBhaPop8Jbg) 
 35. **IOTA NFT**: Es gab einen DaoBee Airdrop: [Tweet](https://twitter.com/Daobeegame/status/1543193246209286145?s=20&t=rEagJxuW9iAiLpjNXd_kmg)
 
