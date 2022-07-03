@@ -36,6 +36,9 @@
 34. **IOTA Ökosystem**: Blackpin war auf einer Messe mit ihrem [IOTA Messenger für Firmen](https://twitter.com/BLACKPIN_GmbH/status/1542854985196634114?s=20&t=x44uaayGFs6UBhaPop8Jbg) 
 35. **IOTA NFT**: Es gab einen DaoBee Airdrop: [Tweet](https://twitter.com/Daobeegame/status/1543193246209286145?s=20&t=rEagJxuW9iAiLpjNXd_kmg)
 36. **IOTA Wochenrückblick**: Hier der [IOTA Talks Wochenrückblick](https://www.iota-talk.com/index.php?article/198-wochenr%C3%BCckblick-vom-26-juni-bis-2-juli-2022/)
+37. **IOTA AMA**: Nächste Woche gibt es scheinbar ein AMA mit Dom: [Tweet](https://twitter.com/ThomasQvOG/status/1543379078841094144?s=20&t=HFlS2Jl1QA9q2xsrs1WzrA)
+38. **IOTA Audio**: Nächste Woche ist Antonio Nardella im Tanglegang Sprachchat: [Tweet]()
+39. **IOTA Adotpion**: Was ist [Spaicer.de](https://www.spaicer.de/)? Ein [Tweet](https://twitter.com/Michael39904737/status/1543536940733136898?s=20&t=HFlS2Jl1QA9q2xsrs1WzrA)
 
 
 
