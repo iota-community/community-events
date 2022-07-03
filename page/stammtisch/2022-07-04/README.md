@@ -35,6 +35,7 @@
 33. **IOTA Youtube**: IOTA Monthly - [DELL / ETO Gruppe / TradeMark East Afrika - IOTAMonthly Juni](https://www.youtube.com/watch?v=BVX_mV0-WX0)
 34. **IOTA Ökosystem**: Blackpin war auf einer Messe mit ihrem [IOTA Messenger für Firmen](https://twitter.com/BLACKPIN_GmbH/status/1542854985196634114?s=20&t=x44uaayGFs6UBhaPop8Jbg) 
 35. **IOTA NFT**: Es gab einen DaoBee Airdrop: [Tweet](https://twitter.com/Daobeegame/status/1543193246209286145?s=20&t=rEagJxuW9iAiLpjNXd_kmg)
+36. **IOTA Wochenrückblick**: Hier der [IOTA Talks Wochenrückblick](https://www.iota-talk.com/index.php?article/198-wochenr%C3%BCckblick-vom-26-juni-bis-2-juli-2022/)
 
 
 
