@@ -39,6 +39,11 @@
 37. **IOTA AMA**: Nächste Woche gibt es scheinbar ein AMA mit Dom: [Tweet](https://twitter.com/ThomasQvOG/status/1543379078841094144?s=20&t=HFlS2Jl1QA9q2xsrs1WzrA)
 38. **IOTA Audio**: Nächste Woche ist Antonio Nardella im Tanglegang Sprachchat: [Tweet]()
 39. **IOTA Adotpion**: Was ist [Spaicer.de](https://www.spaicer.de/)? Ein [Tweet](https://twitter.com/Michael39904737/status/1543536940733136898?s=20&t=HFlS2Jl1QA9q2xsrs1WzrA) lässt vermuten, dass das eine Abspaltung von [senseering](https://twitter.com/senseering) ist
+40. **IOTA Consensus**: Hans Moog veröffentlicht Part 5 von seinem Trust Model: [The Trust Machine — Part5: DLTs existential crisis, tokenomics and mana](https://husqy.medium.com/the-trust-machine-part5-dlts-existential-crisis-tokenomics-and-mana-645a2ae8dbd8)
+41. **IOTA Gerüchte**: Eine erfolgreiche Fantom NFT Pl)attform interessiert sich offenbar für IOTA: [Tweet](https://twitter.com/milesmuso/status/1543559181302730758?s=20&t=8XUC5XB1yk_YVK2Cq_WgRA)
+42. **IOTA Ökosystem**: Auf [cariota.org](https://cariota.org/signin) kann man in einer virtuellen Simulation mit einem Porsche rumfahren realitätsnah IOTA verdienen und ausgeben: [Tweet mit Bildern](https://twitter.com/Vrom14286662/status/1543673066848411648?s=20&t=8XUC5XB1yk_YVK2Cq_WgRA); Scheinbar ist das eine weiterentwicklung von IOT2Tangle: [Tweet](https://twitter.com/iot2tangle/status/1351940574971097093?s=20&t=3wtjY6tVU-qCMpmM4vNULw)
+43. **IOTA Ökosystem**: IotaOrigin mit neuem Video: [IotaOrigin empowers the artisanal small-scale mining sector.](https://www.youtube.com/watch?v=596GMu1UGGM&feature=youtu.be)
+44. **IOTA Ökosystem**: IOTerry [tweetet](https://twitter.com/io_terry/status/1543720385618771968?s=20&t=gVCcybe93r03xGT5QEz4xQ) über eine Firma [kezzler.com](https://kezzler.com/blockchain/) die für ihr "Ledger Agnostic tracking services" scheinbar auch IOTA anbietet
 
 
 
