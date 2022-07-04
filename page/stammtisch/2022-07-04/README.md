@@ -48,7 +48,7 @@
 46. **Assebly learn**: Neuer one pager für Assembly von [Issaus2020](https://twitter.com/Issaus2020/status/1543891522868973568?s=20&t=W2nOQzXIOLdDKJUnFM8j2w)
 47. **IOTA Ökosystem**: Holger Köther ist auf der Webseite von [www.neoception.com](https://www.neoception.com/): [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1543913792156966912?s=20&t=W2nOQzXIOLdDKJUnFM8j2w)
 48. **IOTA Adoption**: IOTA erscheint auf der Webseite von Digital DRS (Digital Deposit Return Scheme) [ddrsalliance.com](https://ddrsalliance.com/) "DDRS Alliance is a non-profit collaboration of the world’s leading industry and technology organisations that are working together to build and validate a Global Standard for a Digital DRS with an open and fully-scalable system suitable for any multi-stakeholder environment. Digital DRS (Digital Deposit Return Scheme) is a new approach to Deposit Return Schemes, enabled through digital tracking of consumer products. It promises improved DRS performance to help step-change circular economies at significantly lower cost and carbon footprint". Gesehen in dem [Tweet von Kwontik](https://twitter.com/Kwontik/status/1543765264214401025?s=20&t=W2nOQzXIOLdDKJUnFM8j2w)
-49. 
+49. Crypto allgemein**: Angelo Caposelo von der IF [tweetet](https://twitter.com/AngeloCapossele/status/1543907576022048770?s=20&t=WO_bhk8zcI6bQ6Rts7oSdA) über zk-proofs
 
 
 
