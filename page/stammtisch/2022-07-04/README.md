@@ -27,7 +27,7 @@
 25. **Twitter Hype**: Navin will Lex Friedmann treffen: [Tweet](https://twitter.com/navinram999/status/1542591931770880003?s=20&t=V1hnrt8olmXUvEjZR4VICA)
 26. **IOTA Youtube**: Mat Yarger [tweetet](https://twitter.com/Mat_Yarger/status/1542536215093813251?s=20&t=V1hnrt8olmXUvEjZR4VICA) über seinen Vortrag: [LF Edge Workshop at the Open Source Summit North America](https://www.youtube.com/watch?v=GpSq1kgTTMg&t=2141s)
 27. **IOTA Youtube**: Everything Tangle mit neuem Video: [NFTs & IOTA](https://www.youtube.com/watch?v=DXVEC76FbvI&feature=youtu.be)
-28. **IOTA Youtube**: IOTAMonthly mit neuem Video: [DELL / ETO Gruppe / TradeMark East Afrika - IOTAMonthly Juni](https://www.youtube.com/watch?v=BVX_mV0-WX0)
+28. **IOTA Youtube**: IOTAMonthly mit neuem Video: [DELL / ETO Gruppe / TradeMark East Afrika - IOTAMonthly Juni](https://www.youtube.com/watch?v=BVX_mV0-WX0); Hier auf english: [DELL / ETO Group / TradeMark East Africa - IOTAMonthly June](https://www.youtube.com/watch?v=5UVwibEMljc)
 29. **IOTA Youtube**: IOTA & Zebra: [IOTA Lighthouse Projects: Zebra Technologies](https://www.youtube.com/watch?v=Sj0mICV2RQo); Die [IF tweetet](https://twitter.com/iota/status/1542780056262660096?s=20&t=x44uaayGFs6UBhaPop8Jbg) auch darüber
 30. **IOTA Youtube**: [IOTA Community Governance meeting 30/06/22](https://www.youtube.com/watch?v=nTO2gx-fR1M) mit der [Zusammenfassung auf GitHub](https://github.com/iota-community/Community-Governance/blob/main/meetings/Community_Call_Notes_2022-06-30.md)
 31. **IOTA Defi**: Tutorials mit IOTABot und ShimmerSea soon: [Tweet](https://twitter.com/iotabots/status/1542814331032768512?s=20&t=PtjZHWkCA2LKQ1CSSZH5QA)
@@ -36,15 +36,19 @@
 34. **IOTA Ökosystem**: Blackpin war auf einer Messe mit ihrem [IOTA Messenger für Firmen](https://twitter.com/BLACKPIN_GmbH/status/1542854985196634114?s=20&t=x44uaayGFs6UBhaPop8Jbg) 
 35. **IOTA NFT**: Es gab einen DaoBee Airdrop: [Tweet](https://twitter.com/Daobeegame/status/1543193246209286145?s=20&t=rEagJxuW9iAiLpjNXd_kmg)
 36. **IOTA Wochenrückblick**: Hier der [IOTA Talks Wochenrückblick](https://www.iota-talk.com/index.php?article/198-wochenr%C3%BCckblick-vom-26-juni-bis-2-juli-2022/)
-37. **IOTA AMA**: Nächste Woche gibt es scheinbar ein AMA mit Dom: [Tweet](https://twitter.com/ThomasQvOG/status/1543379078841094144?s=20&t=HFlS2Jl1QA9q2xsrs1WzrA)
+37. **IOTA AMA**: Nächste Woche gibt es ein AMA mit Dom: [AMA with Dominik Schiener - 06.07.2022](https://www.youtube.com/watch?v=cn6wsSN_9hk)
 38. **IOTA Audio**: Nächste Woche ist Antonio Nardella im Tanglegang Sprachchat: [Tweet]()
 39. **IOTA Adotpion**: Was ist [Spaicer.de](https://www.spaicer.de/)? Ein [Tweet](https://twitter.com/Michael39904737/status/1543536940733136898?s=20&t=HFlS2Jl1QA9q2xsrs1WzrA) lässt vermuten, dass das eine Abspaltung von [senseering](https://twitter.com/senseering) ist
-40. **IOTA Consensus**: Hans Moog veröffentlicht Part 5 von seinem Trust Model: [The Trust Machine — Part5: DLTs existential crisis, tokenomics and mana](https://husqy.medium.com/the-trust-machine-part5-dlts-existential-crisis-tokenomics-and-mana-645a2ae8dbd8)
+40. **IOTA Consensus**: Hans Moog [veröffentlicht](https://twitter.com/hus_qy/status/1543776663086964737?s=20&t=W2nOQzXIOLdDKJUnFM8j2w) Part 5 von seinem Trust Model: [The Trust Machine — Part5: DLTs existential crisis, tokenomics and mana](https://husqy.medium.com/the-trust-machine-part5-dlts-existential-crisis-tokenomics-and-mana-645a2ae8dbd8)
 41. **IOTA Gerüchte**: Eine erfolgreiche Fantom NFT Plattform interessiert sich offenbar für IOTA: [Tweet](https://twitter.com/milesmuso/status/1543559181302730758?s=20&t=8XUC5XB1yk_YVK2Cq_WgRA)
 42. **IOTA Ökosystem**: Auf [cariota.org](https://cariota.org/signin) kann man in einer virtuellen Simulation mit einem Porsche rumfahren und realitätsnah IOTA verdienen und ausgeben: [Tweet mit Bildern](https://twitter.com/Vrom14286662/status/1543673066848411648?s=20&t=8XUC5XB1yk_YVK2Cq_WgRA); Scheinbar ist das eine weiterentwicklung von IOT2Tangle: [Tweet](https://twitter.com/iot2tangle/status/1351940574971097093?s=20&t=3wtjY6tVU-qCMpmM4vNULw)
 43. **IOTA Ökosystem**: IotaOrigin mit einem neuem Video: [IotaOrigin empowers the artisanal small-scale mining sector.](https://www.youtube.com/watch?v=596GMu1UGGM&feature=youtu.be)
 44. **IOTA Ökosystem**: IOTerry [tweetet](https://twitter.com/io_terry/status/1543720385618771968?s=20&t=gVCcybe93r03xGT5QEz4xQ) über eine Firma [kezzler.com](https://kezzler.com/blockchain/), die für ihre "Ledger Agnostic tracking services" scheinbar auch IOTA anbietet
 45. **IOTA Defi**: Neuer Artikel von LendeXe: [Next Chapter 2 — The adventure inside IOTA](https://medium.com/@sabog/next-chapter-2-the-adventure-inside-iota-6dbd74177661)
+46. **Assebly learn**: Neuer one pager für Assembly von [Issaus2020](https://twitter.com/Issaus2020/status/1543891522868973568?s=20&t=W2nOQzXIOLdDKJUnFM8j2w)
+47. **IOTA Ökosystem**: Holger Köther ist auf der Webseite von [www.neoception.com](https://www.neoception.com/): [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1543913792156966912?s=20&t=W2nOQzXIOLdDKJUnFM8j2w)
+48. **IOTA Adoption**: IOTA erscheint auf der Webseite von Digital DRS (Digital Deposit Return Scheme) [ddrsalliance.com](https://ddrsalliance.com/) "DDRS Alliance is a non-profit collaboration of the world’s leading industry and technology organisations that are working together to build and validate a Global Standard for a Digital DRS with an open and fully-scalable system suitable for any multi-stakeholder environment. Digital DRS (Digital Deposit Return Scheme) is a new approach to Deposit Return Schemes, enabled through digital tracking of consumer products. It promises improved DRS performance to help step-change circular economies at significantly lower cost and carbon footprint". Gesehen in dem [Tweet von Kwontik](https://twitter.com/Kwontik/status/1543765264214401025?s=20&t=W2nOQzXIOLdDKJUnFM8j2w)
+49. 
 
 
 
