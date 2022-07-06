@@ -17,4 +17,5 @@
 15. **IOTA Ökosystem**: Die [IF sucht](https://twitter.com/iota/status/1544410795525775360?s=20&t=4WXZdcgVpzzcLtN1GGYnvg) weiter alle Projekte die auf IOTA, Assembly oder Shimmer bauen für ihre Ecosystem-Webseiten. Hier die Webseite vom [Shimmer-Ecosystem](https://shimmer.network/ecosystem)
 16. **IOTA Dev**: [Protocol group - Week 24-27, 2022](https://github.com/iotaledger/research-updates/discussions/41)
 17. **Shimmer Supply Erhöhung**: Die IOTA Foundation gibt ein [offizielles Statement](https://govern.iota.org/t/discussion-follow-up-proposal-to-the-establishment-of-a-shimmer-ecosystem-fund/1315/49) zum Thema 20% Erhöhung vom Shimmer Supply im Governement Channel ab
+18. **IOTA Ökosystem**: Assembly [tweetet](https://twitter.com/assembly_net/status/1544667494698344449?s=20&t=_ojBA7Cuoqx7mJbx5HXKKA) über die Partnerschaft mit [TheFansTogether](https://twitter.com/TheFansTogether) und den Blogpost: [The Fans Together (TFT) Joins the Assembly Ecosystem](https://blog.assembly.sc/the-fans-together-tft-joins-the-assembly-ecosystem/)
 
