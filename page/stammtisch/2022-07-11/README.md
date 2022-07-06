@@ -22,4 +22,5 @@
 20. **IOTA Youtube**: [Probably Nothing - Govern - Blackpin - Bivroest - Hans Moog - IOTA News Deutsch](https://www.youtube.com/watch?app=desktop&v=Kw43PXzyjFA)
 21. **IOTA Defi**: Neues Defi Projekt (Low Touch Wealth Optimisation. Containerised Investment Strategies), das auch auf Shimmer launchen will: [Defire](https://twitter.com/DeFIRE_org/status/1542490030173818881?s=20&t=2tvOwQaUWMNVifrBULcXCg)
 22. **IOTA Diskussion**: Angelo Caposele von der IF hat sich auf Discord zum Stand von Coordicide geäußert: [Tweet mit Screenshots](https://twitter.com/Vrom14286662/status/1544775295495970816?s=20&t=2tvOwQaUWMNVifrBULcXCg)
+23. **IOTA Defi Tutorial**: ApeDAO und TangleSea haben ein casual [Twitter Spaces Event](https://twitter.com/ApeLabsEdu/status/1544717229194969089?s=20&t=2tvOwQaUWMNVifrBULcXCg) gemacht
 
