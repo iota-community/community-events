@@ -31,5 +31,6 @@
 29. **Twitter Hype**: Christoph Strnadl [berichtet in mehreren Tweets](https://twitter.com/archimate/status/1545040543763181568?s=20&t=WxidU_k1WbInz-AI-kP_wA), dass die Software AG zusammen mit einem NDA Partner ihr erstes IOTA Produkt mit ihrer IOT-Plattform verbunden haben und sie suchen nach weiteren Firmen um noch mehr Erfahrungen zu sammeln
 30. **IOTA Artikel**: Dom mit neuem Artikel im Cointelegraph: [Crypto’s ongoing crisis is an opportunity for realignment](https://cointelegraph.com/news/crypto-s-ongoing-crisis-is-an-opportunity-for-realignment)
 31. **IOTA Audio**: Leader of a sustainable future auf [Twitter Spaces](https://twitter.com/blockleaders/status/1543925928165769219?s=20&t=aUzzU4iEZLGjZ9z9rIN0Ng)
-32. 
+32. **IOTA Audio**: Antonio Nardella war im Sprachchat bei der TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1545020900017426442?s=20&t=xhdXY9w3GAe584QyhzzoTA)
+
 
