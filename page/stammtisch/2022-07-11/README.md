@@ -42,6 +42,6 @@
 40. **Twitter Hype**: Trust in DLT => Trustless world... [Hans Moog Tweet](https://twitter.com/hus_qy/status/1545603824995520513?s=20&t=pvu18sPTGhsFOpxqQ6Z4Ng)
 41. **Twitter Hype**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1545437658410795011?s=20&t=pvu18sPTGhsFOpxqQ6Z4Ng) über Custom Tokens on L1
 42. **IOTA Artikel**: Guest post auf CoinmarketCap: [IOTA Foundation: From One to Many - Past, Present and Future](https://coinmarketcap.com/community/articles/30764)
-43. **IOTA NFT**: Yenna Tech [tweetet](https://twitter.com/YennaTech/status/1545136122937757698?s=20&t=pvu18sPTGhsFOpxqQ6Z4Ng) über ihr Whitelist NFT Sale
+43. **IOTA NFT**: [Yenna Tech](https://yenna.tech/) [tweetet](https://twitter.com/YennaTech/status/1545136122937757698?s=20&t=pvu18sPTGhsFOpxqQ6Z4Ng) über ihr Whitelist NFT Sale
 
 
