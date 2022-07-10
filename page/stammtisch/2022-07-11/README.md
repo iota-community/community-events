@@ -45,3 +45,4 @@
 43. **IOTA NFT**: [Yenna Tech](https://yenna.tech/) [tweetet](https://twitter.com/YennaTech/status/1545136122937757698?s=20&t=pvu18sPTGhsFOpxqQ6Z4Ng) über ihr Whitelist NFT Sale
 
 
+
