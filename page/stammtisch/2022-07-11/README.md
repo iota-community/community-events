@@ -38,11 +38,14 @@
 36. **Twitter Spec**: Warum [postet](https://twitter.com/antonionardella/status/1545297236191596545?s=20&t=pvu18sPTGhsFOpxqQ6Z4Ng) Antonio "X"? Wegen X-Teams oder wegen 10 Tage bis zum release?
 37. **Twitter Hype**: Dom [retweetet](https://twitter.com/DomSchiener/status/1545084308200849408?s=20&t=pvu18sPTGhsFOpxqQ6Z4Ng) einen post der die Trends 2022 (1. ZK Rollups; 2. Cross-chain messaging / Interoperability; 3. Account abstraction) mit "Guess which L1 network hits all these trends, and will launch its mainnet and token in the coming weeks?"
 38. **IOTA Artikel**: in der Computer Bild: [Nachhaltige Kryptowährungen: Cardano, Solarcoin, Chia, IOTA und andere nachhaltige Token](https://www.computerbild.de/artikel/cb-Tipps-Finanzen-Nachhaltige-Kryptowaehrungen-30841373.html)
-39. **IOTA Shitcoins**: Auf Soonaverse kann man bald Token erstellen, aber nur mit KYC und einer Gebühr von 250 Miota: [Tweet mit Screenshots aus dem Discord Announcement](https://twitter.com/Vrom14286662/status/1545660173758435329?s=20&t=pvu18sPTGhsFOpxqQ6Z4Ng)
+39. **IOTA Native Tokens**: Auf Soonaverse kann man bald Token erstellen, aber nur mit KYC und einer Gebühr von 250 Miota: [Tweet mit Screenshots aus dem Discord Announcement](https://twitter.com/Vrom14286662/status/1545660173758435329?s=20&t=pvu18sPTGhsFOpxqQ6Z4Ng)
 40. **Twitter Hype**: Trust in DLT => Trustless world... [Hans Moog Tweet](https://twitter.com/hus_qy/status/1545603824995520513?s=20&t=pvu18sPTGhsFOpxqQ6Z4Ng)
 41. **Twitter Hype**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1545437658410795011?s=20&t=pvu18sPTGhsFOpxqQ6Z4Ng) über Custom Tokens on L1
 42. **IOTA Artikel**: Guest post auf CoinmarketCap: [IOTA Foundation: From One to Many - Past, Present and Future](https://coinmarketcap.com/community/articles/30764)
 43. **IOTA NFT**: [Yenna Tech](https://yenna.tech/) [tweetet](https://twitter.com/YennaTech/status/1545136122937757698?s=20&t=pvu18sPTGhsFOpxqQ6Z4Ng) über ihr Whitelist NFT Sale
+44. **IOTA Artikel**: Neuer Artikel vom Conten Creator DAO: [The Daily Degen - Beating Back the Bear](https://iotacreator.substack.com/p/the-daily-degen-beating-back-the?utm_source=%2Finbox&utm_medium=reader2)
+45. **Twitter Hype**: Neuer post von Society2.0: [Tweet](https://twitter.com/society2/status/1353985067136106497?s=20&t=KqbilumRnXczSODK7C_Bqg) mit "We'll soon introduce BIP39 mnemonic phrases to access your social identity..."
+46. **IOTA Wochenrückblick**: [IOTA Talks Wochenrückblick](https://www.iota-talk.com/index.php?article/200-wochenr%C3%BCckblick-vom-3-bis-9-juli-2022/)
 
 
 
