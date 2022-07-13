@@ -9,4 +9,6 @@
 7. **Allgemeine News**: NASA mit Stardust upgrade (Hubble -> James Webb Space Telescope): [Tweet](https://twitter.com/NASAWebb/status/1546877197583060993?s=20&t=Pr-pHTkD9tdp35tjHEQoMg); Erste Bilder auf [https://www.nasa.gov/webbfirstimages](https://www.nasa.gov/webbfirstimages)
 8. **Assembly Staking**: endet bald...
 9. **IOTA Dev**: Swarm Update: [Tweet](https://twitter.com/iota_swarm/status/1546909829070995457?s=20&t=WtCVFS_UfjCHzImep0tiUA)
+10. **IOTA Drama**: Telegram DACH Channel Drama zwischen Dom und Rotorstar... Es geht wohl um Assembly und wie die Tokenomics zukünftig aussehen. Da gibt es wohl einen Geheimbund der schon mehr weiß, als alle anderen und sich offenbar soweit in die Haare gekriegt haben, dass sie bereits vorab an die Öffentlichkeit gehen (Achtung! Das war jetzt reine vrom Interpretation!)
+11. 
 
