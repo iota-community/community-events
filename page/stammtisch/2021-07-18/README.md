@@ -10,5 +10,6 @@
 8. **Assembly Staking**: endet bald...
 9. **IOTA Dev**: Swarm Update: [Tweet](https://twitter.com/iota_swarm/status/1546909829070995457?s=20&t=WtCVFS_UfjCHzImep0tiUA)
 10. **IOTA Drama**: Telegram DACH Channel Drama zwischen Dom und Rotorstar... Es geht wohl um Assembly und wie die Tokenomics zukünftig aussehen. Da gibt es wohl einen Geheimbund der schon mehr weiß, als alle anderen und sich offenbar soweit in die Haare gekriegt haben, dass sie bereits vorab an die Öffentlichkeit gehen (Achtung! Das war jetzt reine vrom Interpretation!)
-11. 
+11. **IOTA Youtube**: [2022 07 05 IOTA Experience Smart Contracts Meeting](https://www.youtube.com/watch?v=69BjEW0-qA0&feature=youtu.be)
+12. **Crypto Artikel**: Dan Simmerman Artikel: [The Experience Layer Wars](https://simerman.medium.com/the-experience-layer-wars-9fa6c8c66e9d)
 
