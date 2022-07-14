@@ -20,5 +20,7 @@
 18. **IOTA Video**: [IOTA Governance meeting - legal entity Treasury DAO 13/07/2022](https://www.youtube.com/watch?v=wuB5h4uHYdI)
 19. **IOTA Ökosystem**: Lebenszeichen von Kamilabs: [Tweet](https://twitter.com/kamilabsstudio/status/1547233971389562880?s=20&t=3mgsb_1xFEY-NBamoQ7a7g)
 20. **Crypto News**: EZB denkt über PoW Verbot nach: [ECB Says Bitcoin Ban "Probable" Due to Climate Concerns](https://cryptobriefing.com/ecb-says-bitcoin-ban-probable-climate-concerns/)
+21. **IOTA Audio**: Moonaco Podcast mit Vitalik Semko über das GAT-Network: [Spotify Link](https://open.spotify.com/episode/6nj5qNLoRBSiIwYWUPnxqq?si=gi2d4FBBTKuDz9QKLUuhVg&nd=1)
+22. **IOTA Video**: [Spec Weekly - Episode 11: TanglePay - a feature rich IOTA WALLET!](https://www.youtube.com/watch?v=fQxpPzfDD4U)
 
 
