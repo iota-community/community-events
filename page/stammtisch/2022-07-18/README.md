@@ -24,6 +24,9 @@
 22. **IOTA Video**: [Spec Weekly - Episode 11: TanglePay - a feature rich IOTA WALLET!](https://www.youtube.com/watch?v=fQxpPzfDD4U)
 23. **IOTA Video**: [14/07/22 IOTA Governance working meeting](https://www.youtube.com/watch?app=desktop&v=OD5ry3hROxI)
 24. **IOTA Ökosystem**: ShimmerSea Partnerschaft mit CoinRisk: [Tweet von ShimmerSea](https://twitter.com/ShimmerSeaDEX/status/1547868583522275333?s=20&t=sJpwFay-bJOaVnSrGN7fww); [Tweet von CoinRisk](https://twitter.com/CoinRisk/status/1547911602438955008?s=20&t=kVoUe8Ww8KVlOlZcUcWHZQ)
+25. **IOTA Ökosystem**: Inspyrd öffnet ein Discord für die Community: [Tweet](https://twitter.com/inspyrdNFT/status/1547897052629123072?s=20&t=kVoUe8Ww8KVlOlZcUcWHZQ)
+26. **IOTA Governement Meetings**: Es steht einiges an im IOTA Discord: [Tweet](https://twitter.com/iota/status/1547913960065667077?s=20&t=kVoUe8Ww8KVlOlZcUcWHZQ)
+27. 
 
 
 
