@@ -24,3 +24,4 @@
 22. **IOTA Video**: [Spec Weekly - Episode 11: TanglePay - a feature rich IOTA WALLET!](https://www.youtube.com/watch?v=fQxpPzfDD4U)
 
 
+
