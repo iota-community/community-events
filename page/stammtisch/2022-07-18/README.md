@@ -22,6 +22,8 @@
 20. **Crypto News**: EZB denkt über PoW Verbot nach: [ECB Says Bitcoin Ban "Probable" Due to Climate Concerns](https://cryptobriefing.com/ecb-says-bitcoin-ban-probable-climate-concerns/)
 21. **IOTA Audio**: Moonaco Podcast mit Vitalik Semko über das GAT-Network: [Spotify Link](https://open.spotify.com/episode/6nj5qNLoRBSiIwYWUPnxqq?si=gi2d4FBBTKuDz9QKLUuhVg&nd=1)
 22. **IOTA Video**: [Spec Weekly - Episode 11: TanglePay - a feature rich IOTA WALLET!](https://www.youtube.com/watch?v=fQxpPzfDD4U)
+23. **IOTA Video**: [14/07/22 IOTA Governance working meeting](https://www.youtube.com/watch?app=desktop&v=OD5ry3hROxI)
+24. **IOTA Ökosystem**: ShimmerSea Partnerschaft mit CoinRisk: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1547868583522275333?s=20&t=sJpwFay-bJOaVnSrGN7fww)
 
 
 
