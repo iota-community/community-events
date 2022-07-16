@@ -27,6 +27,10 @@
 25. **IOTA Ökosystem**: Inspyrd öffnet ein Discord für die Community: [Tweet](https://twitter.com/inspyrdNFT/status/1547897052629123072?s=20&t=kVoUe8Ww8KVlOlZcUcWHZQ)
 26. **IOTA Governement Meetings**: Es steht einiges an im IOTA Discord: [Tweet](https://twitter.com/iota/status/1547913960065667077?s=20&t=kVoUe8Ww8KVlOlZcUcWHZQ)
 27. **Crypto News**: [Russia: President Putin Signs Law Banning Crypto Payments](https://watcher.guru/news/russia-president-putin-signs-law-banning-crypto-payments)
+28. **IOTA Diskussionen**: Dom Schiener beantwortet 5 FUD Thesen: [Tweet mit Screenshots](https://twitter.com/IotaPoet/status/1547910190372032513?s=20&t=DhLHExwFC_PKm533u6zYgA)
+29. **IOTA Event**: Der Sustainable-Agriculture-Event von Marianna de la Roche nächste Woche ist wohl doch ohne Fujitsu: [Tweet](https://twitter.com/Marydlrw/status/1547929174731411461?s=20&t=DhLHExwFC_PKm533u6zYgA)
+30. **IOTA Ökosystem**: [Soon-Tweet](https://twitter.com/iotabee/status/1547929007286411267?s=20&t=DhLHExwFC_PKm533u6zYgA) von Iotabees: "we are happy to announce that starting next Monday, Iotabee will unveil step by step more details about the product, team, partnership, vision etc."
+31. **IOTA Dev**: Es gab ein GoShimmer Release mit "proof of inclusion": [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1547687087209476096?s=20&t=DhLHExwFC_PKm533u6zYgA)
 
 
 
