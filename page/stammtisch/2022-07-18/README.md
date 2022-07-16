@@ -31,6 +31,7 @@
 29. **IOTA Event**: Der Sustainable-Agriculture-Event von Marianna de la Roche nächste Woche ist wohl doch ohne Fujitsu: [Tweet](https://twitter.com/Marydlrw/status/1547929174731411461?s=20&t=DhLHExwFC_PKm533u6zYgA)
 30. **IOTA Ökosystem**: [Soon-Tweet](https://twitter.com/iotabee/status/1547929007286411267?s=20&t=DhLHExwFC_PKm533u6zYgA) von Iotabees: "we are happy to announce that starting next Monday, Iotabee will unveil step by step more details about the product, team, partnership, vision etc."
 31. **IOTA Dev**: Es gab ein GoShimmer Release mit "proof of inclusion": [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1547687087209476096?s=20&t=DhLHExwFC_PKm533u6zYgA)
+32. **IOTA Video**: [What is IOTA’s Tangle? mIOTA Explained with Animations](https://www.youtube.com/watch?v=3K9DD5phJEY)
 
 
 
