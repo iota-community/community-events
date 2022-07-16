@@ -26,7 +26,8 @@
 24. **IOTA Ökosystem**: ShimmerSea Partnerschaft mit CoinRisk: [Tweet von ShimmerSea](https://twitter.com/ShimmerSeaDEX/status/1547868583522275333?s=20&t=sJpwFay-bJOaVnSrGN7fww); [Tweet von CoinRisk](https://twitter.com/CoinRisk/status/1547911602438955008?s=20&t=kVoUe8Ww8KVlOlZcUcWHZQ)
 25. **IOTA Ökosystem**: Inspyrd öffnet ein Discord für die Community: [Tweet](https://twitter.com/inspyrdNFT/status/1547897052629123072?s=20&t=kVoUe8Ww8KVlOlZcUcWHZQ)
 26. **IOTA Governement Meetings**: Es steht einiges an im IOTA Discord: [Tweet](https://twitter.com/iota/status/1547913960065667077?s=20&t=kVoUe8Ww8KVlOlZcUcWHZQ)
-27. 
+27. **Crypto News**: [Russia: President Putin Signs Law Banning Crypto Payments](https://watcher.guru/news/russia-president-putin-signs-law-banning-crypto-payments)
+
 
 
 
