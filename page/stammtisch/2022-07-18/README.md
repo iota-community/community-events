@@ -44,6 +44,7 @@
 42. **Shimmer Beta Pre-Release:** Mit diesem [Announcement](https://twitter.com/shimmernet/status/1549016154320130048?s=20&t=DCLityITQZHzY7Ha3aFftg) ging das Stardust Protokoll Upgrade im #Shimmer Beta Network live. Es wurden dann noch [9 weitere Tweets](https://twitter.com/shimmernet/status/1549016166210965504?s=20&t=DCLityITQZHzY7Ha3aFftg) gepostet die Shimmer geanuer vorstellen; Außderdem gab es natürlich einen IF-Blogpost dazu: [The Shimmer Beta Network Is Live - Public Testing For The Shimmer Network Has Started](https://blog.shimmer.network/shimmer-beta-network-is-live/); Evaldas [tweetet](https://twitter.com/lunfardo314/status/1549029014114910208?s=20&t=y1g9XkTIspJPBgfe_aPzfg) "That's a big one!"
 43. **IOTA Event**: Am Mittwoch: [IF-Tweet](https://twitter.com/iota/status/1548956030519877632?s=20&t=DCLityITQZHzY7Ha3aFftg)
 44. **IOTA Event**: Am Mittwoch: [Shimmer Talks with Dominik Schiener and Levente Pap - July 20th at 7PM CEST](https://www.youtube.com/watch?v=yMegJrgxIuU)
+45. **Shimmer Wallet**: Firefly [tweetet](https://twitter.com/fireflywallet/status/1549022406987112448?s=20&t=y1g9XkTIspJPBgfe_aPzfg), dass das Wallet für Shimmer auch bald fertig ist. Damit lässt sich dann das Shimmer Beta Netzwerk testen
 
 
 
