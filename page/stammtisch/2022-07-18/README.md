@@ -3,8 +3,8 @@
 1. **IF Youtube**: [IOTA Quicktakes 11.07.2022: AMA with Dominik Schiener, TheFansTogether Joins Assembly, EPCIS 2.0...](https://www.youtube.com/watch?v=020LE1SIDUA)
 2. **Ökosystem Youtube**: [The First Yenna Tech AMA Session on 05-07-22](https://www.youtube.com/watch?v=IvWkyASrVns)
 3. **IF News**: Die [IF tweetet](https://twitter.com/iota/status/1546796522607677442?s=20&t=pQNBdWktaxwbD1DuPFxljQ) darüber, dass man ihnen auf [coinmarketcap](https://coinmarketcap.com/community/profile/IOTA_Foundation) folgen soll 
-4. **Crypto News**: Die ECB hat 3 neue research articles veröffentlicht bezüglich "Climate risk of crypto, Defi, Sablecoins": [A closer look at the financial risks of crypto-assets](https://www.ecb.europa.eu/pub/financial-stability/macroprudential-bulletin/html/index.en.html); In diesem [Tweet](https://twitter.com/paddi_hansen/status/1546814639207370755?s=20&t=mynAyPDG0BLu-MfG9IfjpA) wird das kurz zusammengefasst
-5. **Twitter Diskussion**: Navin Ramachandran [tweetet](https://twitter.com/navinram999/status/1546615594384084998?s=20&t=PYbrwmVo9JeSXCst0sCEOA) über digitale Identität und die Vorteile von DLT
+4. **Crypto News**: Die EZB (Europäische Zentralbank) hat 3 neue research articles veröffentlicht bezüglich "Climate risk of crypto, Defi, Sablecoins": [A closer look at the financial risks of crypto-assets](https://www.ecb.europa.eu/pub/financial-stability/macroprudential-bulletin/html/index.en.html); In diesem [Tweet](https://twitter.com/paddi_hansen/status/1546814639207370755?s=20&t=mynAyPDG0BLu-MfG9IfjpA) wird das kurz zusammengefasst
+5. **Twitter Diskussionen**: Navin Ramachandran [tweetet](https://twitter.com/navinram999/status/1546615594384084998?s=20&t=PYbrwmVo9JeSXCst0sCEOA) u.a. über digitale Identität und die Vorteile von DLT
 6. **Crypto Artikel**: Artikel von Dan Simmerman: [The Experience Layer Wars](https://simerman.medium.com/the-experience-layer-wars-9fa6c8c66e9d)
 7. **IOTA Youtube**: [2022 07 05 IOTA Experience Smart Contracts Meeting](https://www.youtube.com/watch?v=bCC9-S5U64w)
 8. **Shimmer Vote**: Neuer IF Blogpost: [Community Vote: Shimmer Ecosystem Funding Proposal - Voting Begins Tomorrow, Thursday, July 14, at 2 pm CEST](https://blog.iota.org/shimmer-ecosystem-funding-vote/)
@@ -24,14 +24,17 @@
 22. **IOTA Video**: [Spec Weekly - Episode 11: TanglePay - a feature rich IOTA WALLET!](https://www.youtube.com/watch?v=fQxpPzfDD4U)
 23. **IOTA Video**: [14/07/22 IOTA Governance working meeting](https://www.youtube.com/watch?app=desktop&v=OD5ry3hROxI)
 24. **IOTA Ökosystem**: ShimmerSea Partnerschaft mit CoinRisk: [Tweet von ShimmerSea](https://twitter.com/ShimmerSeaDEX/status/1547868583522275333?s=20&t=sJpwFay-bJOaVnSrGN7fww); [Tweet von CoinRisk](https://twitter.com/CoinRisk/status/1547911602438955008?s=20&t=kVoUe8Ww8KVlOlZcUcWHZQ)
-25. **IOTA Ökosystem**: Inspyrd öffnet ein Discord für die Community: [Tweet](https://twitter.com/inspyrdNFT/status/1547897052629123072?s=20&t=kVoUe8Ww8KVlOlZcUcWHZQ)
+25. **IOTA Ökosystem**: [Inspyrd](https://twitter.com/inspyrdNFT) öffnet ihr Discord für die Community: [Tweet](https://twitter.com/inspyrdNFT/status/1547897052629123072?s=20&t=kVoUe8Ww8KVlOlZcUcWHZQ)
 26. **IOTA Governement Meetings**: Es steht einiges an im IOTA Discord: [Tweet](https://twitter.com/iota/status/1547913960065667077?s=20&t=kVoUe8Ww8KVlOlZcUcWHZQ)
-27. **Crypto News**: [Russia: President Putin Signs Law Banning Crypto Payments](https://watcher.guru/news/russia-president-putin-signs-law-banning-crypto-payments)
+27. **Crypto News**: [Russia: President Putin Signs Law Banning Crypto Payments](https://watcher.guru/news/russia-president-putin-signs-law-banning-crypto-payments); [Russland: Putin unterzeichnet Gesetz zum Verbot von Zahlungen in Kryptowährungen](https://www.heise.de/news/Russland-Putin-unterzeichnet-Gesetz-zum-Verbot-von-Zahlungen-in-Kryptowaehrungen-7181790.html)
 28. **IOTA Diskussionen**: Dom Schiener beantwortet 5 FUD Thesen: [Tweet mit Screenshots](https://twitter.com/IotaPoet/status/1547910190372032513?s=20&t=DhLHExwFC_PKm533u6zYgA)
-29. **IOTA Event**: Der Sustainable-Agriculture-Event von Marianna de la Roche nächste Woche ist wohl doch ohne Fujitsu: [Tweet](https://twitter.com/Marydlrw/status/1547929174731411461?s=20&t=DhLHExwFC_PKm533u6zYgA)
+29. **IOTA Event**: Der Sustainable-Agriculture-Event von Marianna de la Roche von nächster Woche ist wohl doch ohne Fujitsu: [Tweet](https://twitter.com/Marydlrw/status/1547929174731411461?s=20&t=DhLHExwFC_PKm533u6zYgA)
 30. **IOTA Ökosystem**: [Soon-Tweet](https://twitter.com/iotabee/status/1547929007286411267?s=20&t=DhLHExwFC_PKm533u6zYgA) von Iotabees: "we are happy to announce that starting next Monday, Iotabee will unveil step by step more details about the product, team, partnership, vision etc."
 31. **IOTA Dev**: Es gab ein GoShimmer Release mit "proof of inclusion": [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1547687087209476096?s=20&t=DhLHExwFC_PKm533u6zYgA)
-32. **IOTA Video**: [What is IOTA’s Tangle? mIOTA Explained with Animations](https://www.youtube.com/watch?v=3K9DD5phJEY)
+32. **IOTA Video**: von Whiteboard Crypto[What is IOTA’s Tangle? mIOTA Explained with Animations](https://www.youtube.com/watch?v=3K9DD5phJEY) (ist schon etwas älter das Video)
+33. **IOTA Artikel**: Krypto Guru: [IOTA UPDATE: SHIMMER – ANTEIL + 20% UND NEUE TEST MOBILE-WALLET BEI FIREFLY](https://krypto-guru.de/news/shimmer-anteil-20-firefly-wallet/)
+34. **IOTA Diskussionen**: Die Erhöhung von Shimmer um 20% wurde offenbar im Event falsch umgesetzt, so dass es jezt eine Erhöhung um 25% ist. Das Problem: Im Event wurde das glaube ich so implementiert, dass es am Ende 20% vom zukünftigen Supply sind. Der Plan war aber 20% vom aktuellen Supply an die DAO (bzw. 10% an die DAO und 10% an IF ECO Fund) zu verteilen. (Kleines Rechenbeispiel: 20% von 100 sind 20 (das wären 20% vom aktuellen supply); 20% von 125 sind 25 (Das wären 20% vom zukünftigen Supply, aber 25% vom aktuellen Supply)
+35. **IOTA Defi**: ShimmerSea verkündet eine Partnerschaft mit MoonVault: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1548906662492119040?s=20&t=DHUeKHB_NqT38sdCYmWKYQ)
 
 
 
