@@ -35,6 +35,7 @@
 33. **IOTA Artikel**: Krypto Guru: [IOTA UPDATE: SHIMMER – ANTEIL + 20% UND NEUE TEST MOBILE-WALLET BEI FIREFLY](https://krypto-guru.de/news/shimmer-anteil-20-firefly-wallet/)
 34. **IOTA Diskussionen**: Die Erhöhung von Shimmer um 20% wurde offenbar im Event falsch umgesetzt, so dass es jezt eine Erhöhung um 25% ist. Das Problem: Im Event wurde das glaube ich so implementiert, dass es am Ende 20% vom zukünftigen Supply sind. Der Plan war aber 20% vom aktuellen Supply an die DAO (bzw. 10% an die DAO und 10% an IF ECO Fund) zu verteilen. (Kleines Rechenbeispiel: 20% von 100 sind 20 (das wären 20% vom aktuellen supply); 20% von 125 sind 25 (Das wären 20% vom zukünftigen Supply, aber 25% vom aktuellen Supply)
 35. **IOTA Defi**: ShimmerSea verkündet eine Partnerschaft mit MoonVault: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1548906662492119040?s=20&t=DHUeKHB_NqT38sdCYmWKYQ)
+36. **IOTA NFT**: Die [SickIOTApes](https://twitter.com/SickIotaApes) waren [in 5 Minuten ausverkauft](https://twitter.com/SickIotaApes/status/1548716344182554625?s=20&t=DHUeKHB_NqT38sdCYmWKYQ), obwohl jedes NFT 250 Miota gekostet hat. Hier die [Kollektion auf Soonaverse](https://soonaverse.com/space/0xeebbd3ff806e64e6ee92bf90d30dd988a0f0f43b/overview) 
 
 
 
