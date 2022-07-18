@@ -40,7 +40,8 @@
 38. **IOTA Defi**: LendeXe mit neuem Artikel: [LendeXe Team & Journey](https://medium.com/@LendeXeFinance/lendexe-team-journey-cc8e8af65b50)
 39. **IOTA Youtube**: Von Lift Capital: [5 Reasons To Buy IOTA In 2022](https://www.youtube.com/watch?v=XE_zDhQPEFQ)
 40. **IOTA Wochenrückblick**: IOTA-Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/202-wochenr%C3%BCckblick-vom-10-bis-16-juli-2022/)
-41. **Stardust Shimmer Beta Pre-Release**: Die Hornet Node von Stardust Shimmer wurde Beta pre-released: [HORNET-2.0.0-beta.1 Pre-release](https://github.com/iotaledger/hornet/releases/tag/v2.0.0-beta.1); Dom Schiener [tweetet](https://twitter.com/DomSchiener/status/1548991022167986177?s=20&t=DHUeKHB_NqT38sdCYmWKYQ) dazu "I'm Shimmering ✨"
+41. **Stardust Shimmer Beta Pre-Release**: Die Hornet Node von Stardust Shimmer wurde Beta pre-released: [HORNET-2.0.0-beta.1 Pre-release](https://github.com/iotaledger/hornet/releases/tag/v2.0.0-beta.1); Dom Schiener [tweetet](https://twitter.com/DomSchiener/status/1548991022167986177?s=20&t=DHUeKHB_NqT38sdCYmWKYQ) dazu "I'm Shimmering ✨"; Es gab dann noch einen [Soon-Tweet](https://twitter.com/shimmernet/status/1549012477077327873?s=20&t=y1g9XkTIspJPBgfe_aPzfg) 15min. vor dem Start
+42. **Shimmer Beta Pre-Release:** Mit diesem [Announcement](https://twitter.com/shimmernet/status/1549016154320130048?s=20&t=DCLityITQZHzY7Ha3aFftg) ging das Stardust Protokoll Upgrade im #Shimmer Beta Network live. Es wurden dann noch [9 weitere Tweets](https://twitter.com/shimmernet/status/1549016166210965504?s=20&t=DCLityITQZHzY7Ha3aFftg) gepostet die Shimmer geanuer vorstellen; Außderdem gab es natürlich einen IF-Blogpost dazu: [The Shimmer Beta Network Is Live - Public Testing For The Shimmer Network Has Started](https://blog.shimmer.network/shimmer-beta-network-is-live/)
 
 
 
