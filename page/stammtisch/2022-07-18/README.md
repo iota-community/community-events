@@ -37,7 +37,7 @@
 35. **IOTA Defi**: ShimmerSea verkündet eine Partnerschaft mit MoonVault: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1548906662492119040?s=20&t=DHUeKHB_NqT38sdCYmWKYQ)
 36. **IOTA NFT**: Die [SickIOTApes](https://twitter.com/SickIotaApes) waren [in 5 Minuten ausverkauft](https://twitter.com/SickIotaApes/status/1548716344182554625?s=20&t=DHUeKHB_NqT38sdCYmWKYQ), obwohl jedes NFT 250 Miota gekostet hat. Hier die [Kollektion auf Soonaverse](https://soonaverse.com/space/0xeebbd3ff806e64e6ee92bf90d30dd988a0f0f43b/overview) 
 37. **IOTA Defi**: LendeXe mit neuem Artikel: [LendeXe Team & Journey](https://medium.com/@LendeXeFinance/lendexe-team-journey-cc8e8af65b50)
-38. **IOTA Youtube**: [5 Reasons To Buy IOTA In 2022](https://www.youtube.com/watch?v=XE_zDhQPEFQ)
+38. **IOTA Youtube**: Von Lift Capital: [5 Reasons To Buy IOTA In 2022](https://www.youtube.com/watch?v=XE_zDhQPEFQ)
 39. **IOTA Wochenrückblick**: IOTA-Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/202-wochenr%C3%BCckblick-vom-10-bis-16-juli-2022/)
 
 
