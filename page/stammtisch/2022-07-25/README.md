@@ -11,3 +11,4 @@
 9. **IOTA Drama**: Dom Schiener [tweetet](https://twitter.com/DomSchiener/status/1549394245408137217?s=20&t=eQobstselBC1G-24RYqr-A) über die größten Probleme von DAOs mit einem Seitenhieb (in Richtung Rotorstar?)
 
 
+
