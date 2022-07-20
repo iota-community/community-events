@@ -11,8 +11,12 @@
 9. **IOTA Drama**: Dom Schiener [tweetet](https://twitter.com/DomSchiener/status/1549394245408137217?s=20&t=eQobstselBC1G-24RYqr-A) über die größten Probleme von DAOs mit einem Seitenhieb (in Richtung Rotorstar?)
 10. **IOTA Vote**: Das aktuelle 20% / 25% Voting kann laut Dom aus technischen Gründen nicht mehr abgebrochen werden. Er schlägt aber neue Wege vor wie man die 5% auch im Nachhinein also DAO auch wieder weg entscheiden könnte: [Dear IOTA Community...](https://govern.iota.org/t/decide-if-the-ongoing-shimmer-ecosystem-funding-vote-should-be-stopped-and-changed/1340/21) 
 11. **IOTA Drama**: Navin R. (zur Zeit mit Dom der einzige im Board of Directors) kennt offenbar nicht alle Features von Stardust? [Tweet](https://twitter.com/navinram999/status/1549450501980299266?s=20&t=BvIq3IpyrYqokvrNGS9lgA)
-12. **IOTA Community**: Kappy sucht weiterhin seinen Bruder: [Tweet](https://twitter.com/Rob_Daykin/status/1549454822344122370?s=20&t=BvIq3IpyrYqokvrNGS9lgA)
+12. **IOTA Community**: Kappy sucht weiterhin seinen Bruder: [Tweet](https://twitter.com/Rob_Daykin/status/1549454822344122370?s=20&t=BvIq3IpyrYqokvrNGS9lgA); Update! Er wurde gefunden: [Tweet](https://twitter.com/Rob_Daykin/status/1549573049791438853?s=20&t=BvIq3IpyrYqokvrNGS9lgA)
 13. **IOTA Dev**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1549378894347866113?s=20&t=jWKku1OzSWcVV7BXgoCa9g) über den Blogpost: [Hornet Node Software for Shimmer Beta Network - The New Stardust-Enabled Version of Hornet is Now Available](https://blog.shimmer.network/hornet-for-shimmer-beta-network/)
+14. **IOTA Video**: [Probably Nothing - Shimmer - Stardust - Firefly Mobile - Voting - IOTA News Deutsch](https://www.youtube.com/watch?v=P5mZFsOYf00)
+15. **IOTA Audio**: [Hispanio Meetup auf Twitter Spaces](https://twitter.com/iota/status/1549333232042360833?s=20&t=BvIq3IpyrYqokvrNGS9lgA)
+16. **IOTA Promote**: IOTA ist auf CoinmarketCap auf Platz ein beim Community Engagement Growth: [Tweet](https://twitter.com/CoinMarketCap/status/1549386549149970434?s=20&t=jWKku1OzSWcVV7BXgoCa9g)
+17. 
 
 
 
