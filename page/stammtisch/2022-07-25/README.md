@@ -17,6 +17,8 @@
 15. **IOTA Audio**: [Hispanio Meetup auf Twitter Spaces](https://twitter.com/iota/status/1549333232042360833?s=20&t=BvIq3IpyrYqokvrNGS9lgA)
 16. **IOTA Promote**: IOTA ist auf CoinmarketCap auf Platz eins beim Community Engagement Growth: [Tweet](https://twitter.com/CoinMarketCap/status/1549386549149970434?s=20&t=jWKku1OzSWcVV7BXgoCa9g); Auch die [IF tweetet](https://twitter.com/iota/status/1549646834615844866?s=20&t=UNdK1oDuPI5ZeD9Qigv8Cg) davon
 17. **IOTA Audio**: Muxxer war zu Gast bei der TangleGang im Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1549642280268595200?s=20&t=UNdK1oDuPI5ZeD9Qigv8Cg)
+18. **IOTA Promote**: Dom Schiener bietet sich an bei Lark Davis mit 1Mio Followern ein neues IOTA Interview zu machen: [Tweet](https://twitter.com/DomSchiener/status/1549659488805949440?s=20&t=Vi8L5Jgz0nxh02Gzv8xWEA)
+19. **IOTA Adoption**: Michele Nati [freut sich auf Twitter](https://twitter.com/michelenati/status/1549680542127476739?s=20&t=yACYpjcFUlvgN10Ih3vrQA) über den Erfolg von dem Ensuresec Projekt, dass mit diesem [Pressebericht](https://zenodo.org/record/6865738) jetzt offiziell beendet wurde
 
 
 
