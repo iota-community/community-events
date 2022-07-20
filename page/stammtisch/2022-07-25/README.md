@@ -15,8 +15,10 @@
 13. **IOTA Dev**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1549378894347866113?s=20&t=jWKku1OzSWcVV7BXgoCa9g) über den Blogpost: [Hornet Node Software for Shimmer Beta Network - The New Stardust-Enabled Version of Hornet is Now Available](https://blog.shimmer.network/hornet-for-shimmer-beta-network/)
 14. **IOTA Video**: [Probably Nothing - Shimmer - Stardust - Firefly Mobile - Voting - IOTA News Deutsch](https://www.youtube.com/watch?v=P5mZFsOYf00)
 15. **IOTA Audio**: [Hispanio Meetup auf Twitter Spaces](https://twitter.com/iota/status/1549333232042360833?s=20&t=BvIq3IpyrYqokvrNGS9lgA)
-16. **IOTA Promote**: IOTA ist auf CoinmarketCap auf Platz ein beim Community Engagement Growth: [Tweet](https://twitter.com/CoinMarketCap/status/1549386549149970434?s=20&t=jWKku1OzSWcVV7BXgoCa9g)
-17. 
+16. **IOTA Promote**: IOTA ist auf CoinmarketCap auf Platz eins beim Community Engagement Growth: [Tweet](https://twitter.com/CoinMarketCap/status/1549386549149970434?s=20&t=jWKku1OzSWcVV7BXgoCa9g); Auch die [IF tweetet](https://twitter.com/iota/status/1549646834615844866?s=20&t=UNdK1oDuPI5ZeD9Qigv8Cg) davon
+17. **IOTA Audio**: Muxxer war zu Gast bei der TangleGang im Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1549642280268595200?s=20&t=UNdK1oDuPI5ZeD9Qigv8Cg)
+
+
 
 
 
