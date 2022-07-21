@@ -23,6 +23,12 @@
 21. **IOTA Defi**: Iotabees Partnerschaft mit SoonLabs. Sie bauen ein Soonaverse Service Modul für Soon/Miota Swaps sobald Shimmer startet: [Tweet](https://twitter.com/iotabee/status/1549730651582173184?s=20&t=V-TQMyad9IwG1SxMm6mVoA)
 22. **IOTA Dev**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1549746825959157763?s=20&t=NpoqOCNvTR5KI-3qK1iKYg) darüber, dass [iota.c](https://github.com/iotaledger/iota.c/releases/tag/v1.0.0), also die C library version 1.0.0 von Stardust, veröffentlicht wurde. Es ist kompatibel mit ESP32 und dem IOTA Client SDK für ESP32
 23. **IOTA Artikel**: Adam Hardaker von der IF veröffentlicht den Artikel: [To Make a Universe - Thoughts about ecosystem development & the Shimmer dApp space](https://medium.com/@Schpoopel/to-make-a-universe-d8e5da3894c4)
+24. **IOTA Artikel**: [Ulm news - Sorgt IOTA für frischen Wind bei Autobauern und Maschinenherstellern?](https://www.ulm-news.de/weblog/ulm-news/view/dt/3/article/87248/Sorgt_IOTA_f-uuml-r_frischen_Wind_bei_Autobauern_und_Maschinenherstellern_.html)
+25. **IOTA Youtube**: [IOTA x Bankless Consulting Governance Townhall meeting Part 1 - Aave Grants DAO 20/07/2022](https://www.youtube.com/watch?v=D_epzJC0Ap4)
+26. **IOTA Defi**: Multichain (mit 113.000 Followern auf Twitter) [tweetet](https://twitter.com/MultichainOrg/status/1549932196537851904?s=20&t=ED1h5sVUmkijRbK15GIv4w) über Shimmer und IOTA und schreibt "stay tuned..."
+27. **Twitter Hype**: Evaldas meint "zkVM tech may be the most important crypto innovation since Bitcoin": [Tweet](https://twitter.com/lunfardo314/status/1549790675792789505?s=20&t=y7272UHhF-7_dHO7WFc5yA)
+28. **Crypto News**: Von wegen Diamond Hands... Tesla hat 75% seiner Bitcoins verkauft: [Tesla Earning Reports Reveal That It Sold 75% Of Its Bitcoin Worth $936 Million](https://watcher.guru/news/tesla-earning-reports-reveal-that-it-sold-75-of-its-bitcoin-worth-936-million)
+29. 
 
 
 
