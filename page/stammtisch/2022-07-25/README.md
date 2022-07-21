@@ -29,7 +29,8 @@
 27. **Twitter Hype**: Evaldas meint "zkVM tech may be the most important crypto innovation since Bitcoin": [Tweet](https://twitter.com/lunfardo314/status/1549790675792789505?s=20&t=y7272UHhF-7_dHO7WFc5yA)
 28. **Crypto News**: Von wegen Diamond Hands... Tesla hat 75% seiner Bitcoins verkauft: [Tesla Earning Reports Reveal That It Sold 75% Of Its Bitcoin Worth $936 Million](https://watcher.guru/news/tesla-earning-reports-reveal-that-it-sold-75-of-its-bitcoin-worth-936-million)
 29. **IOTA Artikel**: Cryptoinfo mit einem Artikel ["IOTA: The Internet of Things"](https://thecryptoinfo.org/iota-the-internet-of-things/) der allerdings schreibt, dass IOTA ein Token auf der Binance Chain ist: [Tweet](https://twitter.com/Vrom14286662/status/1550046447600558080?s=20&t=BeK6dk-nQm_zd1IQ6gchmA)
-30. 
+30. **IOTA Youtube**: Der CEO von Evrthng spricht über [EPCIS 2.0 Explained: Better Supply Chains Through APIs](https://www.youtube.com/watch?v=s9AG__HAsWw) udn auch kurz über IOTA bei 19:15
+31. **IOTA Ökosystem**: Beta-Testing bei Bivreost ist wohl vorbei: [Tweet](https://twitter.com/bivreost/status/1550002167616077824?s=20&t=BeK6dk-nQm_zd1IQ6gchmA)
 
 
 
