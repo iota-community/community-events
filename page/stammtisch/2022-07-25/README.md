@@ -19,10 +19,12 @@
 17. **IOTA Audio**: Muxxer war zu Gast bei der TangleGang im Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1549642280268595200?s=20&t=UNdK1oDuPI5ZeD9Qigv8Cg)
 18. **IOTA Promote**: Dom Schiener bietet sich an bei Lark Davis mit 1Mio Followern ein neues IOTA Interview zu machen: [Tweet](https://twitter.com/DomSchiener/status/1549659488805949440?s=20&t=Vi8L5Jgz0nxh02Gzv8xWEA)
 19. **IOTA Adoption**: Michele Nati [freut sich auf Twitter](https://twitter.com/michelenati/status/1549680542127476739?s=20&t=yACYpjcFUlvgN10Ih3vrQA) über den Erfolg von dem Ensuresec Projekt, dass mit diesem [Pressebericht](https://zenodo.org/record/6865738) jetzt offiziell beendet wurde
-20. **IOTA Adoption**: Holger Köther [kommentiert](https://twitter.com/HolgerKoether/status/1549725948232220672?s=20&t=V-TQMyad9IwG1SxMm6mVoA) zum Thema EBSI
+20. **IOTA Adoption**: Holger Köther [kommentiert auf Twitter](https://twitter.com/HolgerKoether/status/1549725948232220672?s=20&t=V-TQMyad9IwG1SxMm6mVoA) eine Diskussion zum Thema EBSI: [Tweet 2](https://twitter.com/HolgerKoether/status/1549994356198760448?s=20&t=y7272UHhF-7_dHO7WFc5yA)
 21. **IOTA Defi**: Iotabees Partnerschaft mit SoonLabs. Sie bauen ein Soonaverse Service Modul für Soon/Miota Swaps sobald Shimmer startet: [Tweet](https://twitter.com/iotabee/status/1549730651582173184?s=20&t=V-TQMyad9IwG1SxMm6mVoA)
 22. **IOTA Dev**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1549746825959157763?s=20&t=NpoqOCNvTR5KI-3qK1iKYg) darüber, dass [iota.c](https://github.com/iotaledger/iota.c/releases/tag/v1.0.0), also die C library version 1.0.0 von Stardust, veröffentlicht wurde. Es ist kompatibel mit ESP32 und dem IOTA Client SDK für ESP32
-23. 
+23. **IOTA Artikel**: Adam Hardaker von der IF veröffentlicht den Artikel: [To Make a Universe - Thoughts about ecosystem development & the Shimmer dApp space](https://medium.com/@Schpoopel/to-make-a-universe-d8e5da3894c4)
+
+
 
 
 
