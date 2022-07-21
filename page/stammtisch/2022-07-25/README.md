@@ -31,6 +31,8 @@
 29. **IOTA Artikel**: Cryptoinfo mit einem Artikel ["IOTA: The Internet of Things"](https://thecryptoinfo.org/iota-the-internet-of-things/) der allerdings schreibt, dass IOTA ein Token auf der Binance Chain ist: [Tweet](https://twitter.com/Vrom14286662/status/1550046447600558080?s=20&t=BeK6dk-nQm_zd1IQ6gchmA)
 30. **IOTA Youtube**: Der CEO von Evrthng spricht über [EPCIS 2.0 Explained: Better Supply Chains Through APIs](https://www.youtube.com/watch?v=s9AG__HAsWw) udn auch kurz über IOTA bei 19:15
 31. **IOTA Ökosystem**: Beta-Testing bei Bivreost ist wohl vorbei: [Tweet](https://twitter.com/bivreost/status/1550002167616077824?s=20&t=BeK6dk-nQm_zd1IQ6gchmA)
+32. **IOTA Vote**: Die Countingphase für Supply-Erhöhung hat begonnen: [Tweet](https://twitter.com/iota/status/1550088217273180162?s=20&t=QX9BlHfBgodKuPy7CgcbNw)
+33. **IOTA Audio**: Moonaco Podcast [tweetet](https://twitter.com/MoonacoPodcast/status/1550116746928857088?s=20&t=QX9BlHfBgodKuPy7CgcbNw) über eine neue Folge: [Episode 33 - SwissOne Capital AG](https://open.spotify.com/episode/1gAaCGTNJ7P0k0y70pC6k4?si=87rE5m6NT-qqoWJaquNuyw&nd=1)
 
 
 
