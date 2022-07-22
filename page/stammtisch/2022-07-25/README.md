@@ -39,6 +39,7 @@
 37. **IOTA Meetup**: Am Samstag ist/war ein IOTA Meetup in Phoenix mit dem IOTAMobile (Corvette mit IOTA Kennzeichen): [Tweet](https://twitter.com/DigidusPrime/status/1550333991277867009?s=20&t=_JtbB5whC_eBNKAtwb6jVA)
 38. **IOTA Defi**: [Iotabee tweetet](https://twitter.com/iotabee/status/1550384386020868096?s=20&t=_JtbB5whC_eBNKAtwb6jVA) über ihren neuen Blogpost: [Why we believe that Multichain Trading with $IOTA is important? (Part I: trading with stablecoins)](https://medium.com/@iotabee/why-we-believe-that-multichain-trading-with-iota-is-important-part-i-trading-with-stablecoins-4cfbf9da213b)
 39. **IOTA Patent**: Neues Patent: [Tweet]8https://twitter.com/muandelo/status/1550379643831820289?s=20&t=qvdQ7f4_09nDzfOw4tU9ug); [ANIMAL DATA COMPLIANCE SYSTEM AND METHOD](https://worldwide.espacenet.com/patent/search/family/082357430/publication/WO2022150486A1?q=pn%3DWO2022150486A1)
+40. **IOTA Historie**: Eric Wall ist erst berühmt (100K Follower) geworden, als seine Kritik an IOTA von Tone Vays and Chris DeRose retweetet wurde: [Tweet](https://twitter.com/ercwl/status/1550251610332450818?s=20&t=DVCg9iQfYLKd0mWYawbAsg)
 
 
 
