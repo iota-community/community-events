@@ -42,7 +42,8 @@
 40. **IOTA Historie**: Eric Wall ist erst berühmt (heute 100K Follower) geworden, als seine Kritik an IOTA von Tone Vays and Chris DeRose retweetet wurde: [Tweet](https://twitter.com/ercwl/status/1550251610332450818?s=20&t=DVCg9iQfYLKd0mWYawbAsg); Vielleicht geht ja mal ein Video Call zwischen ihm und Hans... [Tweet](https://twitter.com/Vrom14286662/status/1550416895282761734?s=20&t=uFKj2TJwmCRazk_MsGRKhg)
 41. **IOTA Dev**: TangleLabs [freut sich](https://twitter.com/Tangle_Labs/status/1550421422362828800?s=20&t=uFKj2TJwmCRazk_MsGRKhg) darüber, dass ihr tanglelabs/identity-manager package auf www.npmjs.com](https://www.npmjs.com/package) bereits 160x heruntergeladen wurden
 42. **IOTA Ökosystem**: ZEDEDA hat 26Millionen Funding bekomen: [Tweet](https://twitter.com/ZededaEdge/status/1550075361035096064?s=20&t=YVc5L1Rj2dH0Ic0H8-Sopw)
-43. 
+43. **IOTA Firefly**: Das Firefly Team wünscht sich Feedback für das Mobile Wallet: [Tweet](https://twitter.com/fireflywallet/status/1550447425290108929?s=20&t=_rpVE5IWALMmqTCHuVitSQ); Hier kann man 1/10 einfache Fragen beantworten: [10 Fragen](https://docs.google.com/forms/d/e/1FAIpQLSdjngCvUQBLJT2WDGnadmiNQclgziDjDS7iR6K6uS7CCQ99pg/viewform?usp=send_form)
+44. **Assembly Staking**: 2.Runde wurde beendet: [Tweet](https://twitter.com/assembly_net/status/1550125916554010624?s=20&t=1olmLKW8zQwY3__p4ZsvMQ)
 
 
 
