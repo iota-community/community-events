@@ -44,6 +44,7 @@
 42. **IOTA Ökosystem**: ZEDEDA hat 26Millionen Funding bekomen: [Tweet](https://twitter.com/ZededaEdge/status/1550075361035096064?s=20&t=YVc5L1Rj2dH0Ic0H8-Sopw)
 43. **IOTA Firefly**: Das Firefly Team wünscht sich Feedback für das Mobile Wallet: [Tweet](https://twitter.com/fireflywallet/status/1550447425290108929?s=20&t=_rpVE5IWALMmqTCHuVitSQ); Hier kann man 1/10 einfache Fragen beantworten: [10 Fragen](https://docs.google.com/forms/d/e/1FAIpQLSdjngCvUQBLJT2WDGnadmiNQclgziDjDS7iR6K6uS7CCQ99pg/viewform?usp=send_form)
 44. **Assembly Staking**: 2.Runde wurde beendet: [Tweet](https://twitter.com/assembly_net/status/1550125916554010624?s=20&t=1olmLKW8zQwY3__p4ZsvMQ)
+45. **Shimmer News**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1550465701407776772?s=20&t=B6IgzP7qhWV2bstoskefDQ) über den alten Blogpost ["The Shimmer Beta Network Is Live"](https://blog.shimmer.network/shimmer-beta-network-is-live/) und die [https://shimmer.network/](https://shimmer.network/) und verweist auf eine Timeline auf der Webseite: [https://shimmer.network/](https://shimmer.network/)
 
 
 
