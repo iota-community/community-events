@@ -33,6 +33,12 @@
 31. **IOTA Ökosystem**: Beta-Testing bei Bivreost ist wohl vorbei: [Tweet](https://twitter.com/bivreost/status/1550002167616077824?s=20&t=BeK6dk-nQm_zd1IQ6gchmA)
 32. **IOTA Vote**: Die Countingphase für Supply-Erhöhung hat begonnen: [Tweet](https://twitter.com/iota/status/1550088217273180162?s=20&t=QX9BlHfBgodKuPy7CgcbNw)
 33. **IOTA Audio**: Moonaco Podcast [tweetet](https://twitter.com/MoonacoPodcast/status/1550116746928857088?s=20&t=QX9BlHfBgodKuPy7CgcbNw) über eine neue Folge: [Episode 33 - SwissOne Capital AG](https://open.spotify.com/episode/1gAaCGTNJ7P0k0y70pC6k4?si=87rE5m6NT-qqoWJaquNuyw&nd=1)
+34. **IOTA Youtube**: [21/07/2022 IOTA Community Governance meeting - Shimmer action group](https://www.youtube.com/watch?v=NVNL0LwKOuY)
+35. **IOTA Dev**: Angelo Capossele [IF] mit seinem Überblick zu zkEVM: [Tweet](https://twitter.com/AngeloCapossele/status/1550087183809146881?s=20&t=_JtbB5whC_eBNKAtwb6jVA)
+36. **Crypto News**: Ein Moron weniger bei Kraken... [Tweet](https://twitter.com/Phantom_3D/status/1550199446704619520?s=20&t=_JtbB5whC_eBNKAtwb6jVA)
+37. **IOTA Meetup**: Am Samstag ist/war ein IOTA Meetup in Phoenix mit dem IOTAMobile (Corvette mit IOTA Kennzeichen): [Tweet](https://twitter.com/DigidusPrime/status/1550333991277867009?s=20&t=_JtbB5whC_eBNKAtwb6jVA)
+38. **IOTA Defi**: [Iotabee tweetet](https://twitter.com/iotabee/status/1550384386020868096?s=20&t=_JtbB5whC_eBNKAtwb6jVA) über ihren neuen Blogpost: [Why we believe that Multichain Trading with $IOTA is important? (Part I: trading with stablecoins)](https://medium.com/@iotabee/why-we-believe-that-multichain-trading-with-iota-is-important-part-i-trading-with-stablecoins-4cfbf9da213b)
+39. **IOTA Patent**: Neues Patent: [Tweet]8https://twitter.com/muandelo/status/1550379643831820289?s=20&t=qvdQ7f4_09nDzfOw4tU9ug); [ANIMAL DATA COMPLIANCE SYSTEM AND METHOD](https://worldwide.espacenet.com/patent/search/family/082357430/publication/WO2022150486A1?q=pn%3DWO2022150486A1)
 
 
 
