@@ -50,7 +50,7 @@
 48. **IOTA Artikel**: [IOTA's Shimmer Ecosystem Exploding with dApps](https://vuapo.com/112-iotas-shimmer-ecosystem-exploding-with-dapps)
 49. **Shimmer Testing**: Shimmer [tweetet] über 5 Schritte zum Shimmer Beta testing
 50. **Shimmer Node**: Am 29. Juli um 9PM CESTEs gibt eine Shimmer Node installation party im IOTA Discord: [Tweet](https://twitter.com/shimmernet/status/1550510999433723909?s=20&t=nWDDILbhveqUbdHfpxCcXA)
-51. 
+51. **IOTA Youtube**: [Spec Weekly - Episode 12: The Hero's Journey. Our story of IOTA.](https://www.youtube.com/watch?v=xiJxm-xBNp4)
 
 
 
