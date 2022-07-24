@@ -51,6 +51,9 @@
 49. **Shimmer Testing**: Shimmer [tweetet] über 5 Schritte zum Shimmer Beta testing
 50. **Shimmer Node**: Am 29. Juli um 9PM CESTEs gibt eine Shimmer Node installation party im IOTA Discord: [Tweet](https://twitter.com/shimmernet/status/1550510999433723909?s=20&t=nWDDILbhveqUbdHfpxCcXA)
 51. **IOTA Youtube**: [Spec Weekly - Episode 12: The Hero's Journey. Our story of IOTA.](https://www.youtube.com/watch?v=xiJxm-xBNp4)
+52. **Firefly**: Im Shimmer Wallet hat Nicole offensichtlich bereits Native Assets hinzu gefügt "we are still polishing native token support, but we can add this into the next beta release of Firefly Stardust next week": [3 Tweets](https://twitter.com/cheerful_nicole/status/1550843162234601478?s=20&t=BaohNq149JhOu2wF5FICEw)
+53. IOTA Artikel**: [IOTA Kurs könnte mittelfristig auf 0,5 USD steigen](https://de.beincrypto.com/iota-kurs-koennte-mittelfristig-auf-05-usd-steigen/)
+54. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/204-wochenr%C3%BCckblick-vom-17-bis-23-juli-2022/)
 
 
 
