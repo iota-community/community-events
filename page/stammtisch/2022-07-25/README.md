@@ -60,6 +60,7 @@
 58. **Allg. News**: Hans Moog hat einige [Tweets](https://twitter.com/hus_qy/status/1551234463866261505?s=20&t=oMS6CDd6ydTwFTKZcUJU4g) zu Cold Fusion (LENR space) abgesetzt
 59. **IOTA Ökosystem**: Das Soonaverse will diese Woche "the most metal dev update in Soonaverse history" machen: [Hype Tweet](https://twitter.com/soon_labs/status/1551442179964383232?s=20&t=oMS6CDd6ydTwFTKZcUJU4g)
 60. **Allg. News**: Dom regt sich in seinem [Tweet](https://twitter.com/DomSchiener/status/1551171693456007170?s=20&t=oMS6CDd6ydTwFTKZcUJU4g) über den Status Quo auf bei dem die Daten der User monetarisiert werden
+61. **IOTA Youtube**: [IOTA MIOTA *THE DIGITAL REVOLUTION*💥SMART CITIES INCOMING💥IOTA MIOTA NEWS TODAY](https://www.youtube.com/watch?v=OidElI-f7wg)
 
 
 
