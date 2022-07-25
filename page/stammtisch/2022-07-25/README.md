@@ -61,6 +61,9 @@
 59. **IOTA Ökosystem**: Das Soonaverse will diese Woche "the most metal dev update in Soonaverse history" machen: [Hype Tweet](https://twitter.com/soon_labs/status/1551442179964383232?s=20&t=oMS6CDd6ydTwFTKZcUJU4g)
 60. **Allg. News**: Dom regt sich in seinem [Tweet](https://twitter.com/DomSchiener/status/1551171693456007170?s=20&t=oMS6CDd6ydTwFTKZcUJU4g) über den Status Quo auf bei dem die Daten der User monetarisiert werden
 61. **IOTA Youtube**: [IOTA MIOTA *THE DIGITAL REVOLUTION*💥SMART CITIES INCOMING💥IOTA MIOTA NEWS TODAY](https://www.youtube.com/watch?v=OidElI-f7wg)
+62. **IOTA Ökosystem**: Daniel Trauth [meldet sich auf Twitter](https://twitter.com/DanielTrauth/status/1551517885281042432?s=20&t=5nBwOvltyg06XAR-lysaVg). Es geht um eine urbane Datenplattform in Dormagen die eine Wirtschaftsförderung bekommen hat. Er schreibt auch: " #IOTA stay tuned. It’s just the beginning."
+63. **Twitter Hype**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1551507660226367488?s=20&t=oMS6CDd6ydTwFTKZcUJU4g) über Stardust Beta und "new galaxies of unchained utility and endless possibilities". Mal wieder eine sehr coole Design-Animation von Stardust... 
+64. **IOTA Drama**: Kappy meldet sich zurück und [tweetet](https://twitter.com/Rob_Daykin/status/1551536632297361412?s=20&t=nlfq15HWkPrIATPveVgltg) zu dem Thema 20% und 25% und über seinen Rechenfehler
 
 
 
