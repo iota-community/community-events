@@ -1,7 +1,7 @@
 ## Stammtischthemen für Montag, den 25.7.2022
 
 1. **IF Youtube**: [IOTA Quicktakes 18.07.2022: Community Vote on Firefly, 4 Days Left of Assembly Staking & Much More..](https://www.youtube.com/watch?v=ICd6nE6jK-g)
-2. **IOTA NFT**: Es gbit wieder Lumis und ein neues Spiel: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1549274176984432641?s=20&t=zb3NMtOmMGuE_PrQaxIPyw); Hier geht's direkt zum Spiel: [lumijump.shimmersea.finance/](https://lumijump.shimmersea.finance)
+2. **IOTA NFT**: Es gibt wieder Lumis und ein neues Spiel: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1549274176984432641?s=20&t=zb3NMtOmMGuE_PrQaxIPyw); Hier geht's direkt zum Spiel: [lumijump.shimmersea.finance/](https://lumijump.shimmersea.finance)
 3. **IOTA Artikel**: Der [IF-Blogpost](https://blog.shimmer.network/shimmer-beta-network-is-live/) vom Shimmer Beta release wurde übersetzt: [Das Shimmer Beta-Netzwerk ist live](https://iota-kurs.de/das-shimmer-beta-netzwerk-ist-live/)
 4. **IOTA Defi**: [Bivreost](https://twitter.com/bivreost), ein Telegram IOTA Wallet, startet das Alpha testing: [Tweet](https://twitter.com/bivreost/status/1549320080013639682?s=20&t=_5BTXFBd4sGijkNCc1dJlA)
 5. **IOTA Defi**: [Iotabee](https://twitter.com/iotabee) will swaps zwischen IOTA und Shimmer ermöglichen: [Tweet](https://twitter.com/iotabee/status/1549325781662400512?s=20&t=2E0pp8NwHf1fXVq0kXMgRA)
