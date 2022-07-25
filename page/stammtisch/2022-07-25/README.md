@@ -54,6 +54,12 @@
 52. **Firefly**: Im Shimmer Wallet hat [Nicole](https://twitter.com/cheerful_nicole) (Software Engineer bei der IF) offensichtlich bereits Native Assets hinzu gefügt. Sie schreibt: "we are still polishing native token support, but we can add this into the next beta release of Firefly Stardust next week": [3 Tweets](https://twitter.com/cheerful_nicole/status/1550843162234601478?s=20&t=BaohNq149JhOu2wF5FICEw)
 53. IOTA Artikel**: [IOTA Kurs könnte mittelfristig auf 0,5 USD steigen](https://de.beincrypto.com/iota-kurs-koennte-mittelfristig-auf-05-usd-steigen/)
 54. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/204-wochenr%C3%BCckblick-vom-17-bis-23-juli-2022/)
+55. **Crypto News**: Zlatan Ibrahimovic mit 8,3 Mio Followern auf Twitter verkauft jetzt NFTs: [Tweet](https://twitter.com/Ibra_official/status/1542451829858045953?s=20&t=oMS6CDd6ydTwFTKZcUJU4g); [Kollektion auf Markersplace](https://makersplace.com/zlatanibrahimovic/drops/laws-of-adrenaline-iii/)
+56. **Allg. News**: Hans Moog hatte 2 Wochen lang Corona: [Tweet](https://twitter.com/hus_qy/status/1551242100527734785?s=20&t=oMS6CDd6ydTwFTKZcUJU4g)
+57. **IOTA Dev**: Hans Moog tweetet darüber, dass sie an Pruning arbeiten und GoShimmer dadurch einen enormen performance boost bekommen wird: [Tweet](https://twitter.com/hus_qy/status/1551242180584415234?s=20&t=oMS6CDd6ydTwFTKZcUJU4g)
+58. **Allg. News**: Hans Moog hat einige [Tweets](https://twitter.com/hus_qy/status/1551234463866261505?s=20&t=oMS6CDd6ydTwFTKZcUJU4g) zu Cold Fusion (LENR space) abgesetzt
+59. **IOTA Ökosystem**: Das Soonaverse will diese Woche "the most metal dev update in Soonaverse history" machen: [Hype Tweet](https://twitter.com/soon_labs/status/1551442179964383232?s=20&t=oMS6CDd6ydTwFTKZcUJU4g)
+60. **Allg. News**: Dom regt sich in seinem [Tweet](https://twitter.com/DomSchiener/status/1551171693456007170?s=20&t=oMS6CDd6ydTwFTKZcUJU4g) über den Status Quo auf bei dem die Daten der User monetarisiert werden
 
 
 
