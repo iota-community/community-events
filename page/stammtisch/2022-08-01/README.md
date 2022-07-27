@@ -15,5 +15,8 @@
 13. **IOTA Ökosystem**: [Tweet von Bivreost](https://twitter.com/bivreost/status/1552229156913643522?s=20&t=ey_cK5Ci__QZM5slyqnHEQ) mit Link zum Artikel: [Bivreost Shows Just How Easy It Is To Exchange Crypto Via Telegram](https://blockonomi.com/bivreost-shows-just-how-easy-it-is-to-exchange-crypto-via-telegram/)
 14. **IOTA Stammtisch in Berlin**: IOTAshops will Anfang Oktober den größten IOTA Stammtisch ever machen: [Tweet](https://twitter.com/iotashop/status/1552240131804987393?s=20&t=8Ac2rgu2UVR1ya94BvA5ig)
 15. **IOTA Artikel**: BTC Echo: [IOTA startet dritte Runde für Assembly-Staking](https://www.btc-echo.de/schlagzeilen/iota-startet-dritte-runde-fuer-assembly-staking-147426/)
+16. **Shimmer Hype**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1552277701649731584?s=20&t=bLiaY5mFGYNIKth0ZfjMug) über feeless minting
+17. **IOTA Youtube**: [Probably Nothing - IotaBee - Bankless - Firefly - Morons - Staking - IOTA News DEUTSCH](https://www.youtube.com/watch?v=FluFFwNzLZI)
+18. **IOTA Adoption**: Die [IF tweetet](https://twitter.com/iota/status/1552277636612870144?s=20&t=bLiaY5mFGYNIKth0ZfjMug) über ihren Blogpost: [Login with IOTA is Coming! - The IOTA Foundation and walt.id to Bring Seamless Sign-In to the World](https://blog.iota.org/login-with-iota-walt-id/); Jelle Milenar hat das [kommentiert](https://twitter.com/JelleFm/status/1552288515727163392?s=20&t=bLiaY5mFGYNIKth0ZfjMug)
 
 
