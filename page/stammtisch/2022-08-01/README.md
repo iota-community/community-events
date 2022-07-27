@@ -14,5 +14,6 @@
 12. **IOTA Ökosystem**: BlackpinTV mit einer neuen Folge ("Ist das Innovationszentrum Aalen das "Silicon Valley" der Ostalb?") und dem Hashtag #iota: [Tweet](https://twitter.com/BLACKPIN_GmbH/status/1552223272665743360?s=20&t=ey_cK5Ci__QZM5slyqnHEQ) -> Hat aber nix mit IOTA zu tun (ich habs mir angehört)
 13. **IOTA Ökosystem**: [Tweet von Bivreost](https://twitter.com/bivreost/status/1552229156913643522?s=20&t=ey_cK5Ci__QZM5slyqnHEQ) mit Link zum Artikel: [Bivreost Shows Just How Easy It Is To Exchange Crypto Via Telegram](https://blockonomi.com/bivreost-shows-just-how-easy-it-is-to-exchange-crypto-via-telegram/)
 14. **IOTA Stammtisch in Berlin**: IOTAshops will Anfang Oktober den größten IOTA Stammtisch ever machen: [Tweet](https://twitter.com/iotashop/status/1552240131804987393?s=20&t=8Ac2rgu2UVR1ya94BvA5ig)
+15. **IOTA Artikel**: BTC Echo: [IOTA startet dritte Runde für Assembly-Staking](https://www.btc-echo.de/schlagzeilen/iota-startet-dritte-runde-fuer-assembly-staking-147426/)
 
 
