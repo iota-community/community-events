@@ -8,5 +8,6 @@
 6. **IOTA Drama**: Mehrere Qubic computer von CFB wurden gehacked? [Tweet](https://twitter.com/c___f___b/status/1551882986345349124?s=20&t=iPeLP4B3KJB0Zxe5DKBApw)
 7. **IOTA Learn**: Untangling IOTA Stardust: [IF Tweet](https://twitter.com/iota/status/1551930419272196099?s=20&t=ikgvPLm7rM5gHAq7_kBIqQ)
 8. **Assembly Staking**: Die [IF tweetet](https://twitter.com/iota/status/1551915247484674050?s=20&t=ikgvPLm7rM5gHAq7_kBIqQ) über die 3.Runde Assembly Staking. Sie veröffentlichen den Blogpost: [IOTA Staking for Assembly – Round 3 - Everything You Need to Know About the Latest  Round of Staking IOTA for ASMB](https://blog.iota.org/iota-staking-for-assembly-part-3/); Hier der [Tweet von Firefly](https://twitter.com/fireflywallet/status/1551920321686544385?s=20&t=3HycGaOGosva4sFG3a5Smg), dass man das Wallet updaten muss
-9. 
+9. **IOTA Drama**: Es gbit natürlich wieder einige die sich beschweren, weil sie weniger Shimmer Token bekommen haben als gedacht: [Tweet](https://twitter.com/Kwontik/status/1552200324038942721?s=20&t=RjPbtMqj59raoAmYQta9dA); Charly Varly [weist darauf hin](https://twitter.com/c_varley/status/1551935073372495874?s=20&t=RjPbtMqj59raoAmYQta9dA), dass 6 Nullen gestrichen wurden im Supply: [Tweet](https://twitter.com/shimmernet/status/1526502979775434752?s=20&t=RjPbtMqj59raoAmYQta9dA)
+
 
