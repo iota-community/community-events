@@ -18,5 +18,7 @@
 16. **Shimmer Hype**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1552277701649731584?s=20&t=bLiaY5mFGYNIKth0ZfjMug) über feeless minting
 17. **IOTA Youtube**: [Probably Nothing - IotaBee - Bankless - Firefly - Morons - Staking - IOTA News DEUTSCH](https://www.youtube.com/watch?v=FluFFwNzLZI)
 18. **IOTA Adoption**: Die [IF tweetet](https://twitter.com/iota/status/1552277636612870144?s=20&t=bLiaY5mFGYNIKth0ZfjMug) über ihren Blogpost: [Login with IOTA is Coming! - The IOTA Foundation and walt.id to Bring Seamless Sign-In to the World](https://blog.iota.org/login-with-iota-walt-id/); Jelle Milenar hat das [kommentiert](https://twitter.com/JelleFm/status/1552288515727163392?s=20&t=bLiaY5mFGYNIKth0ZfjMug)
+19. **IOTA Ökosystem**: The FansTogether haben eine Partnerschaft mit Polygon: [Tweet](https://twitter.com/TheFansTogether/status/1552292367968919555?s=20&t=8Ac2rgu2UVR1ya94BvA5ig)
+20. 
 
 
