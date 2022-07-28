@@ -21,6 +21,8 @@
 19. **IOTA Ökosystem**: The FansTogether haben eine Partnerschaft mit Polygon: [Tweet](https://twitter.com/TheFansTogether/status/1552292367968919555?s=20&t=8Ac2rgu2UVR1ya94BvA5ig)
 20. **IOTA Event**: Am 27.7. war ein INATBA Event mit Mariana de la Roche von der IF: [Tweet](https://twitter.com/INATBA_org/status/1549775529179578368?s=20&t=8Ac2rgu2UVR1ya94BvA5ig); Event: [The Booming Power of DLT in the Agriculture Sector](https://inatba.org/events-calendar/the-booming-power-of-dlt-in-the-agriculture-sector/)
 21. **IOTA Youtube**: [BC Crypto Review EP1 : IOTA “The future of distributed ledger technology”](https://www.youtube.com/watch?v=ssVRyp3olNo&feature=youtu.be)
+22. **IOTA Youtube**: [27/07/22 IOTA Community Governance meeting Treasury working group](https://www.youtube.com/watch?v=5frBMaCmryk&feature=youtu.be)
+23. 
 
 
 
