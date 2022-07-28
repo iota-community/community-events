@@ -25,6 +25,8 @@
 23. **Shimmer Promote**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1552549460189876226?s=20&t=spX2X2kpGyG5jtB--RAoBA) über die "expiration unlock condition"
 24. **IOTA Promote**: Auf CoinmarketCap ist ein IOTA Artikel auf Platz 2 der am meisten gelesenenen: [Tweet](https://twitter.com/CoinMarketCap/status/1552486457687715841?s=20&t=spX2X2kpGyG5jtB--RAoBA); Und der nächste Artikel steht auch wieder auf CoinmarketCap: [Login with IOTA is Coming!](https://coinmarketcap.com/community/articles/32206)
 25. **IOTA Roadmap**: Die [IF tweetet](https://twitter.com/iota/status/1552639726045241347?s=20&t=AQvsHSlwBtMblpldua2mHA) darüber, dass die [Roadmap](https://roadmap.iota.org/) upgedated wurde
+26. **IOTA Ökosystem**: Ein neues Projekt loyal.web3 ("Augmenting customer retention for our clients by providing web3 tools-as-a-service to bridge the metaverse with reality & to create lasting communities") [meldet sich auf Twitter](https://twitter.com/loyal_web3/status/1552597213716570119?s=20&t=b3QGUPiMBLek0Vn3aDsUGg). Sie bauen ein "loyalty and reward ecosystem on top of shimmer"
+27. 
 
 
 
