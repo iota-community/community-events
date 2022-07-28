@@ -24,7 +24,7 @@
 22. **IOTA Youtube**: [27/07/22 IOTA Community Governance meeting Treasury working group](https://www.youtube.com/watch?v=5frBMaCmryk&feature=youtu.be)
 23. **Shimmer Promote**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1552549460189876226?s=20&t=spX2X2kpGyG5jtB--RAoBA) über die "expiration unlock condition"
 24. **IOTA Promote**: Auf CoinmarketCap ist ein IOTA Artikel auf Platz 2 der am meisten gelesenenen: [Tweet](https://twitter.com/CoinMarketCap/status/1552486457687715841?s=20&t=spX2X2kpGyG5jtB--RAoBA); Und der nächste Artikel steht auch wieder auf CoinmarketCap: [Login with IOTA is Coming!](https://coinmarketcap.com/community/articles/32206)
-25. 
+25. **IOTA Roadmap**: Die [IF tweetet](https://twitter.com/iota/status/1552639726045241347?s=20&t=AQvsHSlwBtMblpldua2mHA) darüber, dass die [Roadmap](https://roadmap.iota.org/) upgedated wurde
 
 
 
