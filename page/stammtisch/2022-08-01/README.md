@@ -22,7 +22,8 @@
 20. **IOTA Event**: Am 27.7. war ein INATBA Event mit Mariana de la Roche von der IF: [Tweet](https://twitter.com/INATBA_org/status/1549775529179578368?s=20&t=8Ac2rgu2UVR1ya94BvA5ig); Event: [The Booming Power of DLT in the Agriculture Sector](https://inatba.org/events-calendar/the-booming-power-of-dlt-in-the-agriculture-sector/)
 21. **IOTA Youtube**: [BC Crypto Review EP1 : IOTA “The future of distributed ledger technology”](https://www.youtube.com/watch?v=ssVRyp3olNo&feature=youtu.be)
 22. **IOTA Youtube**: [27/07/22 IOTA Community Governance meeting Treasury working group](https://www.youtube.com/watch?v=5frBMaCmryk&feature=youtu.be)
-23. 
+23. **Shimmer Promote**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1552549460189876226?s=20&t=spX2X2kpGyG5jtB--RAoBA) über die "expiration unlock condition"
+24. 
 
 
 
