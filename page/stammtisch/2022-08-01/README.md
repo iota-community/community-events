@@ -20,6 +20,7 @@
 18. **IOTA Adoption**: Die [IF tweetet](https://twitter.com/iota/status/1552277636612870144?s=20&t=bLiaY5mFGYNIKth0ZfjMug) über ihren Blogpost: [Login with IOTA is Coming! - The IOTA Foundation and walt.id to Bring Seamless Sign-In to the World](https://blog.iota.org/login-with-iota-walt-id/); Jelle Milenar hat das [kommentiert](https://twitter.com/JelleFm/status/1552288515727163392?s=20&t=bLiaY5mFGYNIKth0ZfjMug)
 19. **IOTA Ökosystem**: The FansTogether haben eine Partnerschaft mit Polygon: [Tweet](https://twitter.com/TheFansTogether/status/1552292367968919555?s=20&t=8Ac2rgu2UVR1ya94BvA5ig)
 20. **IOTA Event**: Am 27.7. war ein INATBA Event mit Mariana de la Roche von der IF: [Tweet](https://twitter.com/INATBA_org/status/1549775529179578368?s=20&t=8Ac2rgu2UVR1ya94BvA5ig); Event: [The Booming Power of DLT in the Agriculture Sector](https://inatba.org/events-calendar/the-booming-power-of-dlt-in-the-agriculture-sector/)
-21. 
+21. **IOTA Youtube**: [BC Crypto Review EP1 : IOTA “The future of distributed ledger technology”](https://www.youtube.com/watch?v=ssVRyp3olNo&feature=youtu.be)
+
 
 
