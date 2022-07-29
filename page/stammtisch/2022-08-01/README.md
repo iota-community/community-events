@@ -33,7 +33,8 @@
 31. **Firefly Progress**: [Firefly tweetet](https://twitter.com/fireflywallet/status/1552693877815099392?s=20&t=dVsDPk9ih0XGbbjzcoihqw) darüber, dass man jetzt das neue [Firefly Desktop 2.0.0-beta-2.0.3 downloaden](https://github.com/iotaledger/firefly/releases/tag/desktop-2.0.0-beta-2.0.3) für das Stardust Beta Testnetz downloaden kann, mit dem man beliebige native Assets erstellen und versenden kann; Hier ein [Video](https://twitter.com/renewid/status/1552709186722697219?s=20&t=dVsDPk9ih0XGbbjzcoihqw) davon
 32. **IOTA Defi**: Iotabee [tweetet](https://twitter.com/iotabee/status/1552921929878802432?s=20&t=dVsDPk9ih0XGbbjzcoihqw) über ihren Artikel: [Why we believe that Multichain Trading with $IOTA is important? (Part II: trading Shimmer assets with $IOTA)](https://medium.com/@iotabee/why-we-believe-that-multichain-trading-with-iota-is-important-16f330e5522b)
 33. **IOTA Ökosystem**: SoonLabs [verkündet](https://twitter.com/soon_labs/status/1552896391059386368?s=20&t=dVsDPk9ih0XGbbjzcoihqw) ihren "biggest dev-update ever" und verlinken ihren Blogpost: [Shimmer Integrations Update](https://soonlabs.medium.com/shimmer-integrations-update-efa83716cadf); Es wurde auch ein Video vom Minting Prozess [veröffentlicht](https://soonlabs.medium.com/shimmer-integrations-update-efa83716cadf)
-
-
+34. **Assembly Staking**: Staking Runde 3 ist gestartet: [Tweet](https://twitter.com/assembly_net/status/1553002421969879041?s=20&t=dVsDPk9ih0XGbbjzcoihqw)
+35. **IOTA Ökosystem**: Senseering Partnerschaft mit GMN: [Tweet](https://twitter.com/senseering/status/1552999275516362753?s=20&t=dVsDPk9ih0XGbbjzcoihqw)
+36. **Firefly Update**: Firefly Desktop 1.6.5 Bugfix release: [Tweet](https://twitter.com/fireflywallet/status/1552976411237011456?s=20&t=GtuoKfAxJUBrS62pfIutRA)
 
 
