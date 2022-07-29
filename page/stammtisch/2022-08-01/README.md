@@ -36,6 +36,8 @@
 34. **Assembly Staking**: Staking Runde 3 ist gestartet: [Tweet](https://twitter.com/assembly_net/status/1553002421969879041?s=20&t=dVsDPk9ih0XGbbjzcoihqw)
 35. **IOTA Ökosystem**: Senseering Partnerschaft mit GMN: [Tweet](https://twitter.com/senseering/status/1552999275516362753?s=20&t=dVsDPk9ih0XGbbjzcoihqw)
 36. **Firefly Update**: Firefly Desktop 1.6.5 Bugfix release: [Tweet](https://twitter.com/fireflywallet/status/1552976411237011456?s=20&t=GtuoKfAxJUBrS62pfIutRA)
+37. **IOTA Artikel**: [IOTA – Die Schnittstelle zwischen den Welten](https://www.bayreuther-tagblatt.de/bt-magazin/iota-die-schnittstelle-zwischen-den-welten/)
+38. **IOTA Ökosystem**: ApeDAO Partnerschaft mit SickIOTApes: [Tweet](https://twitter.com/SickIotaApes/status/1553024055720255488?s=20&t=l4d8hjLf_AJEW6nATp53Yw)
 
 
 
