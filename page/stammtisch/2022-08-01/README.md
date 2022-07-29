@@ -27,6 +27,7 @@
 25. **IOTA Roadmap**: Die [IF tweetet](https://twitter.com/iota/status/1552639726045241347?s=20&t=AQvsHSlwBtMblpldua2mHA) darüber, dass die [Roadmap](https://roadmap.iota.org/) upgedated wurde
 26. **IOTA Ökosystem**: Ein neues Projekt loyal.web3 ("Augmenting customer retention for our clients by providing web3 tools-as-a-service to bridge the metaverse with reality & to create lasting communities") [meldet sich auf Twitter](https://twitter.com/loyal_web3/status/1552597213716570119?s=20&t=b3QGUPiMBLek0Vn3aDsUGg). Sie bauen ein "loyalty and reward ecosystem on top of shimmer"
 27. **IOTA Youtube**: [Spec Weekly - Episode 13: IOTA Foundation 1.5 - WARNING!!! LOW HYPE LEVEL!!!](https://www.youtube.com/watch?v=_h7FdO8Cq5o)
+28. * Progress**: 
 
 
 
