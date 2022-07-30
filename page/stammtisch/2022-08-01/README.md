@@ -37,7 +37,8 @@
 35. **IOTA Ökosystem**: Senseering Partnerschaft mit GMN: [Tweet](https://twitter.com/senseering/status/1552999275516362753?s=20&t=dVsDPk9ih0XGbbjzcoihqw)
 36. **Firefly Update**: Firefly Desktop 1.6.5 Bugfix release: [Tweet](https://twitter.com/fireflywallet/status/1552976411237011456?s=20&t=GtuoKfAxJUBrS62pfIutRA)
 37. **IOTA Artikel**: [IOTA – Die Schnittstelle zwischen den Welten](https://www.bayreuther-tagblatt.de/bt-magazin/iota-die-schnittstelle-zwischen-den-welten/)
-38. **IOTA Ökosystem**: ApeDAO Partnerschaft mit SickIOTApes: [Tweet](https://twitter.com/SickIotaApes/status/1553024055720255488?s=20&t=l4d8hjLf_AJEW6nATp53Yw)
+38. **IOTA Ökosystem**: Soonaverse will SMR/IOTA cross chain trades ermöglichen, bzw. machen das bereits jetzt im Testnetz: [Tweet](https://twitter.com/adam_unchained/status/1552898028826005504?s=20&t=iTIsvnIR0QSuiAb-vgm83g)
+
 
 
 
