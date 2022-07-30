@@ -38,6 +38,7 @@
 36. **Firefly Update**: Firefly Desktop 1.6.5 Bugfix release: [Tweet](https://twitter.com/fireflywallet/status/1552976411237011456?s=20&t=GtuoKfAxJUBrS62pfIutRA)
 37. **IOTA Artikel**: [IOTA – Die Schnittstelle zwischen den Welten](https://www.bayreuther-tagblatt.de/bt-magazin/iota-die-schnittstelle-zwischen-den-welten/)
 38. **IOTA Ökosystem**: Soonaverse will SMR/IOTA cross chain trades ermöglichen, bzw. machen das bereits jetzt im Testnetz: [Tweet](https://twitter.com/adam_unchained/status/1552898028826005504?s=20&t=iTIsvnIR0QSuiAb-vgm83g)
+39. **Crypto News**: Will REWE Bitcoin Automaten aufstellen? Zumindest wohl erstmal eine Filliale in Offenburg... [Rewe stellt Bitcoin-Automaten auf](https://www.btc-echo.de/schlagzeilen/rewe-stellt-bitcoin-automaten-auf-147491/)
 
 
 
