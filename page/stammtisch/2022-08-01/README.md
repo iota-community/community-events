@@ -42,7 +42,10 @@
 40. **IF Youtube**: Die [IF tweetet](https://twitter.com/iota/status/1553319494940065792?s=20&t=iTIsvnIR0QSuiAb-vgm83g) über das [2022 07 19 IOTA Experience Smart Contracts Meeting](https://www.youtube.com/watch?v=vj5SIup4S8Q)
 41. **IOTA Dev**: Hans Moog meldet sich zum aktuellen Stand von IOTA 2.0: [Tweet 1/5](https://twitter.com/hus_qy/status/1553359327167217664?s=20&t=iTIsvnIR0QSuiAb-vgm83g)
 42. **IOTA NFT**: Die Meowta Katzen sind wohl Geschichte: [Tweet mit Announcement](https://twitter.com/Vrom14286662/status/1553297399547924480?s=20&t=iTIsvnIR0QSuiAb-vgm83g)
-43. **IOTA Wochenrückblick**: [IOTA Talk Wochenrckblick](https://www.iota-talk.com/index.php?article/206-wochenr%C3%BCckblick-vom-24-bis-30-juli-2022/)
+43. **Twitter Hype**: Navin R. macht auf einmal einen auf Trader (nur weil der Typ 193K Follower hat?)... [Tweet](https://twitter.com/navinram999/status/1553473984737550337?s=20&t=xHsJcPDgwZzKIjXnVNJ79g)
+44. **IOTA Drama**: Wegen Punkt 43... [Tweet 1](https://twitter.com/OnlyLive4Ever/status/1553679729424842752?s=20&t=g8KZO1HiRQECNzyPUU_xuw); [Tweet 2](https://twitter.com/Danarino1982/status/1553642334730035202?s=20&t=xHsJcPDgwZzKIjXnVNJ79g); [Tweet 3](https://twitter.com/Balkong/status/1553479583441330177?s=20&t=xHsJcPDgwZzKIjXnVNJ79g); [Tweet 4](https://twitter.com/lukasleys/status/1553684307700580353?s=20&t=xHsJcPDgwZzKIjXnVNJ79g)  --> alle Tweets haben eine Antwort von Navin bekommen von daher lesenswert
+45. **Twitter Hype**: Hans Moog [tweetet](https://twitter.com/hus_qy/status/1553492845633437698?s=20&t=xHsJcPDgwZzKIjXnVNJ79g) mal wieder "...OTA is about to finally deliver it's vision of  a DLT that is not only much more efficient than existing technologies but that is also going to be much more decentralized..."
+46. **IOTA Wochenrückblick**: [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/206-wochenr%C3%BCckblick-vom-24-bis-30-juli-2022/)
 
 
 
