@@ -42,7 +42,7 @@
 40. **IF Youtube**: Die [IF tweetet](https://twitter.com/iota/status/1553319494940065792?s=20&t=iTIsvnIR0QSuiAb-vgm83g) über das [2022 07 19 IOTA Experience Smart Contracts Meeting](https://www.youtube.com/watch?v=vj5SIup4S8Q)
 41. **IOTA Dev**: Hans Moog meldet sich zum aktuellen Stand von IOTA 2.0: [Tweet 1/5](https://twitter.com/hus_qy/status/1553359327167217664?s=20&t=iTIsvnIR0QSuiAb-vgm83g)
 42. **IOTA NFT**: Die Meowta Katzen sind wohl Geschichte: [Tweet mit Announcement](https://twitter.com/Vrom14286662/status/1553297399547924480?s=20&t=iTIsvnIR0QSuiAb-vgm83g)
-43. 
+43. **IOTA Wochenrückblick**: [IOTA Talk Wochenrckblick](https://www.iota-talk.com/index.php?article/206-wochenr%C3%BCckblick-vom-24-bis-30-juli-2022/)
 
 
 
