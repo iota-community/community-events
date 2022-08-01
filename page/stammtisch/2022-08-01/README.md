@@ -52,6 +52,10 @@
 50. **IOTA Ökosystem**: Panthos [meldet sich auf Twitter](https://twitter.com/PantosIO/status/1554025035786076160?s=20&t=CqnLFSx62crc_IT3AYbkhA). Sie schreiben: "We are already looking into @shimmernet!"
 51. **Crypto Drama**: Vitalik Buterin beschimpft Michael Saylor als den nächsten Bitcoin Maximalisten-Clown: [Tweet](https://twitter.com/VitalikButerin/status/1553563862942633984?s=20&t=g8KZO1HiRQECNzyPUU_xuw); BTC-Echo: [Vitalik Buterin kritisiert Michael Saylor 
 “Warum suchen sich Maximalisten immer totale Clowns als ihre Helden?”](https://www.btc-echo.de/news/buterin-saylor-bitcoin-maximalisten-clowns-147735/)
+53. **IOTA Youtube**: [Shimmer Beta / Bivreost Alpha - IOTAMonthly Juli](https://www.youtube.com/watch?v=mn7TSiWKcJ8&feature=youtu.be)
+54. **IOTA Promote**: Navin bietet [David Mark Clemens](https://twitter.com/davidmarkclem) (dem Hauptentwickler von [keet.io](https://keet.io/)) seine Hilfe an, um die digitale Identitätslösung von IOTA in deren Plattform zu integrieren
+55. **IOTA Ökosystem**: [Soon Tweet von IOTAbee](https://twitter.com/iotabee/status/1554039197517942784?s=20&t=xkJV0EYK5zh_MYVx12ES4w). Am Freitag wollen sie einen Deep-Dive Artikel über ihr DeFi-Produkt veröffentlichen
+56. **Allgemeine News**: England hat gegen Deutschland im Fußball EM Finale der Frauen 2:1 in der Verlängerung gewonnen
 
 
 
