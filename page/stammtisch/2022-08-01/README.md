@@ -46,7 +46,8 @@
 44. **IOTA Drama**: Wegen Punkt 43... [Tweet 1](https://twitter.com/OnlyLive4Ever/status/1553679729424842752?s=20&t=g8KZO1HiRQECNzyPUU_xuw); [Tweet 2](https://twitter.com/Danarino1982/status/1553642334730035202?s=20&t=xHsJcPDgwZzKIjXnVNJ79g); [Tweet 3](https://twitter.com/Balkong/status/1553479583441330177?s=20&t=xHsJcPDgwZzKIjXnVNJ79g); [Tweet 4](https://twitter.com/lukasleys/status/1553684307700580353?s=20&t=xHsJcPDgwZzKIjXnVNJ79g)  --> alle Tweets haben eine Antwort von Navin bekommen, von daher lesenswert...
 45. **Twitter Hype**: Hans Moog [tweetet](https://twitter.com/hus_qy/status/1553492845633437698?s=20&t=xHsJcPDgwZzKIjXnVNJ79g) mal wieder "...IOTA is about to finally deliver it's vision of a DLT that is not only much more efficient than existing technologies but that is also going to be much more decentralized..."
 46. **IOTA Gaming**: Neue IOTA Game mit Dark Mythos Fantasy Cards: [Tweet](https://twitter.com/DarkMythosIOTA/status/1552571234193473536?s=20&t=zpff6OZ1t7_Llb6diJiU-A)
-47. **IOTA Wochenrückblick**: [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/206-wochenr%C3%BCckblick-vom-24-bis-30-juli-2022/)
+47. **Crypto News**: Tiffanies und Co steigen in NFTS ein: [Jewelers Tiffany & Co. Offer 250 Unique Custom Pendants To CryptoPunks Holders](https://bitcoinist.com/jewelers-tiffany-co-pendants-cryptopunks-holders/)
+48. **IOTA Wochenrückblick**: [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/206-wochenr%C3%BCckblick-vom-24-bis-30-juli-2022/)
 
 
 
