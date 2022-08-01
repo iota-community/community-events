@@ -56,6 +56,7 @@
 54. **IOTA Promote**: Navin bietet [David Mark Clemens](https://twitter.com/davidmarkclem) (dem Hauptentwickler von [keet.io](https://keet.io/)) seine Hilfe an, um die digitale Identitätslösung von IOTA in deren Plattform zu integrieren
 55. **IOTA Ökosystem**: [Soon Tweet von IOTAbee](https://twitter.com/iotabee/status/1554039197517942784?s=20&t=xkJV0EYK5zh_MYVx12ES4w). Am Freitag wollen sie einen Deep-Dive Artikel über ihr DeFi-Produkt veröffentlichen
 56. **Allgemeine News**: England hat gegen Deutschland im Fußball EM Finale der Frauen 2:1 in der Verlängerung gewonnen
+57. **Shimmer Voting**: Was ist mit den 25% Supply Erhöhung Voting?
 
 
 
