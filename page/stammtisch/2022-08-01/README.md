@@ -50,7 +50,8 @@
 48. **IOTA Wochenrückblick**: [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/206-wochenr%C3%BCckblick-vom-24-bis-30-juli-2022/)
 49. **Twitter Hype**: Dom sieht "Shimmer everywhere": [Tweet](https://twitter.com/DomSchiener/status/1554000509568163841?s=20&t=-EfkobINKhAZ1YdvATCKaA)
 50. **IOTA Ökosystem**: Panthos [meldet sich auf Twitter](https://twitter.com/PantosIO/status/1554025035786076160?s=20&t=CqnLFSx62crc_IT3AYbkhA). Sie schreiben: "We are already looking into @shimmernet!"
-51. **Crypto Drama**: Vitalik Buterin beschimpft Michael Saylor als den nächsten Bitcoin Maximalisten-Clown: [Tweet](https://twitter.com/VitalikButerin/status/1553563862942633984?s=20&t=g8KZO1HiRQECNzyPUU_xuw)
+51. **Crypto Drama**: Vitalik Buterin beschimpft Michael Saylor als den nächsten Bitcoin Maximalisten-Clown: [Tweet](https://twitter.com/VitalikButerin/status/1553563862942633984?s=20&t=g8KZO1HiRQECNzyPUU_xuw); BTC-Echo: [Vitalik Buterin kritisiert Michael Saylor 
+“Warum suchen sich Maximalisten immer totale Clowns als ihre Helden?”](https://www.btc-echo.de/news/buterin-saylor-bitcoin-maximalisten-clowns-147735/)
 
 
 
