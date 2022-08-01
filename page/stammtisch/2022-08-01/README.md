@@ -48,6 +48,8 @@
 46. **IOTA Gaming**: Neue IOTA Game mit Dark Mythos Fantasy Cards: [Tweet](https://twitter.com/DarkMythosIOTA/status/1552571234193473536?s=20&t=zpff6OZ1t7_Llb6diJiU-A)
 47. **Crypto News**: Tiffanies und Co steigen in NFTS ein: [Jewelers Tiffany & Co. Offer 250 Unique Custom Pendants To CryptoPunks Holders](https://bitcoinist.com/jewelers-tiffany-co-pendants-cryptopunks-holders/)
 48. **IOTA Wochenrückblick**: [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/206-wochenr%C3%BCckblick-vom-24-bis-30-juli-2022/)
+49. **Twitter Hype**: Dom sieht "Shimmer everywhere": [Tweet](https://twitter.com/DomSchiener/status/1554000509568163841?s=20&t=-EfkobINKhAZ1YdvATCKaA)
+50. **IOTA Ökosystem**: Panthos [meldet sich auf Twitter](https://twitter.com/PantosIO/status/1554025035786076160?s=20&t=CqnLFSx62crc_IT3AYbkhA). Sie schreiben: "We are already looking into @shimmernet!"
 
 
 
