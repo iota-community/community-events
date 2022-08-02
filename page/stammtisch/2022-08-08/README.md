@@ -3,4 +3,5 @@
 1. **IF Youtube**: [IOTA Quicktakes 01.08.2022: Assembly Staking Round #3, IOTA login with walt.id & more!](https://www.youtube.com/watch?v=9xmhIYIXAa8)
 2. **Shimmer Vote**: [Verify "Shimmer Ecosystem Funding Proposal" result]([https://twitter.com/dlt_green/status/1554191627475992576?s=20)&t=nxaPM9wTgZ5RQYyYr67TvA)](https://github.com/iotaledger/participation-events/pull/10)
 3. **Crypto News**: Nächste Bridge gehacked: [Nomad cross-chain crypto bridge suffers possible multimillion-dollar exploit](https://www.theblock.co/post/160731/nomad-cross-chain-crypto-bridge-suffers-possible-exploit?utm_source=twitter&utm_medium=social)
+4. **Crypto Adoption**: FC Barcelona geht strategische Partnerschaft mit socios.com/chiliz ein: [FC BARCELONA TO ACCELERATE WEB3 STRATEGY AS SOCIOS.COM INVESTS $100M IN BARCA STUDIOS](https://medium.com/chiliz/fc-barcelona-to-accelerate-web3-strategy-as-socios-com-invests-100m-in-barca-studios-79358f3250ee)
 
