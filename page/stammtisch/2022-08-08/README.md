@@ -18,5 +18,6 @@ Barcelona kauft Bayern-Star mit Krypto-Millionen](https://www.btc-echo.de/news/b
 15. **Shimmer Tweet**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1554512363092582401?s=20&t=N7lP3bUgHQLPP9T-zho7Ug) etwas ungünsig über die neuen [official collection of wallpapers](https://files.iota.org/media/SMR_Image_Pack.zip) von Stardust. "3...2...1... we have lift-off to new horizons." Da dachten viele jetzt kommt das echte Shimmer Release...
 16. **IOTA Patent**: [Tweet](https://twitter.com/muandelo/status/1554735271534424065?s=20&t=KuYi0WuWI6lUbf5XmF_Sdw) mit Link zum Patent: [EDGE COMPUTING OVER DISAGGREGATED RADIO ACCESS NETWORK FUNCTIONS](https://worldwide.espacenet.com/patent/search/family/082405532/publication/US2022232423A1?q=pn%3DUS2022232423A1)
 17. **IOTA Ökosystem**: Der IOTA Content Creator DAO möchte 200$ an bekannte IOTA Youtuber pro Monat verteilen: [Tweet](https://twitter.com/IOTAcontentDAO/status/1554752080015167488?s=20&t=KuYi0WuWI6lUbf5XmF_Sdw)
+18. **IOTA Stammtisch**: Am Freitag ist/war IOTA Stammtisch in München: [Tweet](https://twitter.com/IotaMunchen/status/1554740917826887683?s=20&t=KuYi0WuWI6lUbf5XmF_Sdw)
 
 
