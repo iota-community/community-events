@@ -12,4 +12,6 @@ Barcelona kauft Bayern-Star mit Krypto-Millionen](https://www.btc-echo.de/news/b
 9. **Twitter Drama**: Dom Schiener mit einem [Kommentar](https://twitter.com/DomSchiener/status/1554416370561032192?s=20&t=hZLB5yUnu0llKvB2yttveA) zum Moonbeam Network, das aktuell in Maintanance ist. Er meint "I guess we were ahead of the time with the "Coordinator" to secure and protect user funds?"
 10. **IOTA Promote**: Dom [antwortet](https://twitter.com/DomSchiener/status/1554437757702922240?s=20&t=hZLB5yUnu0llKvB2yttveA) auf die Beschwerde, dass IOTA sich unter Wert verkauft bezüglich Promotion mit: "Don't worry, we are rewriting the playbook with #Shimmer. It will help push IOTA into a new light." 
 11. **IOTA Youtube**: [IOTA x Bankless Consulting Governance Townhall session 4: ADA Project Catalyst](https://www.youtube.com/watch?v=FO3MMCFuluk)
+12. **Shimmer Promote**: Adam von SoonLabs [schwärmt](https://twitter.com/adam_unchained/status/1554632404874059776?s=20&t=QeIOObULBJKelZ-aXgVjqA) von Shimmer und den L1 Eigenschaften und freut sich auf EUTXO (was ist das?)
+
 
