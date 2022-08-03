@@ -19,5 +19,6 @@ Barcelona kauft Bayern-Star mit Krypto-Millionen](https://www.btc-echo.de/news/b
 16. **IOTA Patent**: [Tweet](https://twitter.com/muandelo/status/1554735271534424065?s=20&t=KuYi0WuWI6lUbf5XmF_Sdw) mit Link zum Patent: [EDGE COMPUTING OVER DISAGGREGATED RADIO ACCESS NETWORK FUNCTIONS](https://worldwide.espacenet.com/patent/search/family/082405532/publication/US2022232423A1?q=pn%3DUS2022232423A1)
 17. **IOTA Ökosystem**: Der IOTA Content Creator DAO möchte 200$ an bekannte IOTA Youtuber pro Monat verteilen: [Tweet](https://twitter.com/IOTAcontentDAO/status/1554752080015167488?s=20&t=KuYi0WuWI6lUbf5XmF_Sdw)
 18. **IOTA Stammtisch**: Am Freitag ist/war IOTA Stammtisch in München: [Tweet](https://twitter.com/IotaMunchen/status/1554740917826887683?s=20&t=KuYi0WuWI6lUbf5XmF_Sdw)
+19. **Twitter Drama**: Evaldas macht sich über "trustless bridges" lustig ("“Trustless bridge” is an oxymoron"). Daraus entsteht eine Diskussion über den Coordinator: [Tweet](https://twitter.com/lunfardo314/status/1554692326940966912?s=20&t=KuYi0WuWI6lUbf5XmF_Sdw)
 
 
