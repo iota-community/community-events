@@ -32,6 +32,12 @@ Barcelona kauft Bayern-Star mit Krypto-Millionen](https://www.btc-echo.de/news/b
 29. **IOTA DeFi**: [LendeXe Raised $1M from Community for Algorithmic Liquidity Market & Stablecoin on IOTA Innovation Shimmer Network](https://medium.com/@LendeXeFinance/lendexe-raised-in-total-1m-from-participation-rounds-from-the-community-to-create-algorithmic-1d101b05dea1)
 30. **IOTA Ökosystem**: EDAG startet eine Partnerschaft mit EintrachtTech GmbH die im Deutsche Bank Park eine IoT Solution Area bauen. EDAG will da ihren CityBot testen: [Tweet](https://twitter.com/EDAGGroup/status/1555191955344310273?s=20&t=vmlLWdo2_rPzE1iEuMhqhQ)
 31. **Twitter Drama**: Hans Moog [antwortet](https://twitter.com/hus_qy/status/1554879074316722177?s=20&t=vmlLWdo2_rPzE1iEuMhqhQ) mit vielen Tweets auf [Emin Güm Sirers Seitenhieb](https://twitter.com/el33th4xor/status/1554656360779812864?s=20&t=vmlLWdo2_rPzE1iEuMhqhQ), als er beim Solana Hack wieder IOTA erwähnen musste...
+32. **Crypto Adoption**: Coinbase und Blackrock: [Coinbase selected by BlackRock; provide Aladdin clients access to crypto trading and custody via Coinbase Prime](https://blog.coinbase.com/coinbase-selected-by-blackrock-provide-aladdin-clients-access-to-crypto-trading-and-custody-via-b9e7144f313d); Coinbase Aktie ist gleich mal um 50% gestiegen; Zu Blackrock gab es mal eine Doku auf Arte: [BlackRock: Die unheimliche Macht eines Finanzkonzerns | Doku HD Reupload | ARTE](https://www.youtube.com/watch?v=C-MzdyL1_6w)
+33. **Crypto Adoption**: Meta und Coinbase (NFTs für Instagram): [Tweet von Meta](https://twitter.com/MetaNewsroom/status/1555197567532732417?s=20&t=_2GrLXBz1YZ7ts9i2L4H-A)
+34. **IOTA Adoption**: Senseering Partnerschaft mit deutschem Mittelstand (Eichsfelder Schraubenwerk GmbH): [Tweet](https://twitter.com/senseering/status/1555132381320863745?t=A37aKfDryE_2jjz9JzFJ-g&s=19=)
+35. **IOTA Drama**: Was hat das mit dem "p" auf sich das Dom [getweetet](https://twitter.com/DomSchiener/status/1554850473148141574?s=20&t=3Fc4GHn2hk7ZWUDOmlA6ZA) hat? [Tweet mit Winmik-Video](https://twitter.com/Winmik84/status/1554854963897147395?s=20&t=3Fc4GHn2hk7ZWUDOmlA6ZA)
+36. **IOTA Dev**: 4 Wochen [Protocol group Update - Week 28-31, 2022 #44](https://github.com/iotaledger/research-updates/discussions/44)
+37. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in München: [Tweet](https://twitter.com/IotaMunchen/status/1554740917826887683?s=20&t=3Fc4GHn2hk7ZWUDOmlA6ZA)
 
  
 
