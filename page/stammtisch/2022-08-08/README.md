@@ -28,7 +28,9 @@ Barcelona kauft Bayern-Star mit Krypto-Millionen](https://www.btc-echo.de/news/b
 25. **IOTA Youtube**: [Probably Nothing - ICCD - Tokens - Log in with IOTA - #IOTA News](https://www.youtube.com/watch?v=eCrzDK00uQA&feature=youtu.be)
 26. **IOTA Ökosystem**: Olaf van Wijk [retweetet](https://twitter.com/ovanwijk/status/1554835162541608960?t=bcpppn1MwjUmrCb_7x3Acg&s=19) den [Tweet von Amnesi Cash](https://twitter.com/amnesia_cash/status/1554834739621535751) die eine zkProof Tornado Cash Version für den Tangle bauen wollen um privacy Transaktionen zu ermöglichen. Hier die Webseiten von [https://amnesia.cash/](https://amnesia.cash/) und der Blogpost: [Amnesia Cash - The zero-knowledge, non-custodial privacy mixer for the IOTA network.](https://medium.com/@amnesia_cash/amnesia-cash-da4a3fea0f54)
 27. **IOTA Youtube**: [IOTA x Bankless Consulting Governance Townhall series - Part 5: Optimism retroactive funding](https://www.youtube.com/watch?v=sjc0evf_jdQ)
-28. **
+28. **Crypto News**: Gucci akzeptiert ApeCoin: [Gucci to Start Accepting ApeCoin — Crypto Payments Now Available at 70% of U.S. Stores](https://coinmarketcap.com/alexandria/article/gucci-to-start-accepting-apecoin-crypto-payments-now-available-at-70-of-u-s-stores)
+29. **IOTA DeFi**: [LendeXe Raised $1M from Community for Algorithmic Liquidity Market & Stablecoin on IOTA Innovation Shimmer Network](https://medium.com/@LendeXeFinance/lendexe-raised-in-total-1m-from-participation-rounds-from-the-community-to-create-algorithmic-1d101b05dea1)
+30. 
  
 
 
