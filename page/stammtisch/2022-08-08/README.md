@@ -30,7 +30,9 @@ Barcelona kauft Bayern-Star mit Krypto-Millionen](https://www.btc-echo.de/news/b
 27. **IOTA Youtube**: [IOTA x Bankless Consulting Governance Townhall series - Part 5: Optimism retroactive funding](https://www.youtube.com/watch?v=sjc0evf_jdQ)
 28. **Crypto News**: Gucci akzeptiert ApeCoin: [Gucci to Start Accepting ApeCoin — Crypto Payments Now Available at 70% of U.S. Stores](https://coinmarketcap.com/alexandria/article/gucci-to-start-accepting-apecoin-crypto-payments-now-available-at-70-of-u-s-stores)
 29. **IOTA DeFi**: [LendeXe Raised $1M from Community for Algorithmic Liquidity Market & Stablecoin on IOTA Innovation Shimmer Network](https://medium.com/@LendeXeFinance/lendexe-raised-in-total-1m-from-participation-rounds-from-the-community-to-create-algorithmic-1d101b05dea1)
-30. 
+30. **IOTA Ökosystem**: EDAG startet eine Partnerschaft mit EintrachtTech GmbH die im Deutsche Bank Park eine IoT Solution Area bauen. EDAG will da ihren CityBot testen: [Tweet](https://twitter.com/EDAGGroup/status/1555191955344310273?s=20&t=vmlLWdo2_rPzE1iEuMhqhQ)
+31. **Twitter Drama**: Hans Moog [antwortet](https://twitter.com/hus_qy/status/1554879074316722177?s=20&t=vmlLWdo2_rPzE1iEuMhqhQ) mit vielen Tweets auf [Emin Güm Sirers Seitenhieb](https://twitter.com/el33th4xor/status/1554656360779812864?s=20&t=vmlLWdo2_rPzE1iEuMhqhQ), als er beim Solana Hack wieder IOTA erwähnen musste...
+
  
 
 
