@@ -38,6 +38,9 @@ Barcelona kauft Bayern-Star mit Krypto-Millionen](https://www.btc-echo.de/news/b
 35. **IOTA Drama**: Was hat das mit dem "p" auf sich das Dom [getweetet](https://twitter.com/DomSchiener/status/1554850473148141574?s=20&t=3Fc4GHn2hk7ZWUDOmlA6ZA) hat? [Tweet mit Winmik-Video](https://twitter.com/Winmik84/status/1554854963897147395?s=20&t=3Fc4GHn2hk7ZWUDOmlA6ZA)
 36. **IOTA Dev**: 4 Wochen [Protocol group Update - Week 28-31, 2022 #44](https://github.com/iotaledger/research-updates/discussions/44)
 37. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in München: [Tweet](https://twitter.com/IotaMunchen/status/1554740917826887683?s=20&t=3Fc4GHn2hk7ZWUDOmlA6ZA)
+38. **IOTA Youtube**: [Spec Weekly - Episode 14: EPCIS 2.0 - ZEBRA uses IOTA for this GLOBAL standard!!!](https://www.youtube.com/watch?v=Jwf2Fs0saC8&feature=youtu.be)
+39. **Firefly Mobile**: Firefly [tweetet](https://twitter.com/fireflywallet/status/1555249104107802628) darüber, dass sie Firefly Mobile Beta upgedated haben und nochmal 500 weitere Tester zulassen
+40. **IOTA Youtube**: [IOTA Monthly - Shimmer Beta / Bivreost Alpha - IOTAMonthly Juli](https://www.youtube.com/watch?v=mn7TSiWKcJ8)
 
 
  
