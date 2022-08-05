@@ -46,6 +46,7 @@ Barcelona kauft Bayern-Star mit Krypto-Millionen](https://www.btc-echo.de/news/b
 43. **IOTA Youtube**: [IOTA - Achtung es geht los! + Mega Update!](https://www.youtube.com/watch?v=4J9P4ojoTNw)
 44. **IOTA DeFi**: [Iotabee veröffentlichen](https://twitter.com/iotabee/status/1555491338124132355?s=20&t=rihK0r2dEn_jnMTAG0fCEQ) ihren Blogpost: [Deep Dive into Iotabee — All you may want to know](https://medium.com/@iotabee/deep-dive-into-iotabee-all-you-may-want-to-know-251bdb655280)
 45. **IOTA Dev**: [Firefly Update, August 2022 #31](https://github.com/iotaledger/engineering-updates/discussions/31)
+46. **IOTA NFT**: Wir haben wohl jetzt einen der unsere NFT-Plotter Service: [Tweet](https://twitter.com/NFT_Canvas_Art/status/1555563307863621632?s=20&t=VOkzI8VjKgtBhFom6oh7Sw)
 
 
  
