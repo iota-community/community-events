@@ -41,6 +41,9 @@ Barcelona kauft Bayern-Star mit Krypto-Millionen](https://www.btc-echo.de/news/b
 38. **IOTA Youtube**: [Spec Weekly - Episode 14: EPCIS 2.0 - ZEBRA uses IOTA for this GLOBAL standard!!!](https://www.youtube.com/watch?v=Jwf2Fs0saC8&feature=youtu.be)
 39. **Firefly Mobile**: Firefly [tweetet](https://twitter.com/fireflywallet/status/1555249104107802628) darüber, dass sie Firefly Mobile Beta upgedated haben und nochmal 500 weitere Tester zulassen
 40. **IOTA Youtube**: [IOTA Monthly - Shimmer Beta / Bivreost Alpha - IOTAMonthly Juli](https://www.youtube.com/watch?v=mn7TSiWKcJ8)
+41. **IOTA Youtube**: [IOTA Is the Sleeping Giant! The Price Truth UnMasked! Light Dive/Review/Price Predictions.](https://www.youtube.com/watch?v=icnV-jk9Xw8)
+42. **IOTA Youtube**: [IOTA - Achtung es geht los! + Mega Update!](https://www.youtube.com/watch?v=4J9P4ojoTNw)
+43. **IOTA DeFi**: [Iotabee veröffentlichen](https://twitter.com/iotabee/status/1555491338124132355?s=20&t=rihK0r2dEn_jnMTAG0fCEQ) ihren Blogpost: [Deep Dive into Iotabee — All you may want to know](https://medium.com/@iotabee/deep-dive-into-iotabee-all-you-may-want-to-know-251bdb655280)
 
 
  
