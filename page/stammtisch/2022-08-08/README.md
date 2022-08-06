@@ -50,6 +50,9 @@ Barcelona kauft Bayern-Star mit Krypto-Millionen](https://www.btc-echo.de/news/b
 47. **IOTA **: Die [IF tweetet](https://twitter.com/iota/status/1555856211211423746?s=20&t=mtnnX7Ql4XEwzsaX_ABSKw) über einen neuen Gast Beitrag auf CoinMarketCap: [Hornet Node Software for Shimmer Beta Network - Now Available](https://coinmarketcap.com/community/articles/31694)
 48. **IOTA Ökosystem**: Disentangled.com [tweetet](https://twitter.com/disentangleINS/status/1555851616905007106?s=20&t=mtnnX7Ql4XEwzsaX_ABSKw) über Teil 1 ihres Blogposts: [Introducing: disentangle, the IOTA Name Service](https://disentangle.medium.com/introducing-disentangle-the-iota-name-service-5ee6287abe8a)
 49. **IOTA Ökosystem**: TheFansTogether [tweetet](https://twitter.com/TheFansTogether/status/1555735408922841088?s=20&t=mtnnX7Ql4XEwzsaX_ABSKw) darüber, dass sie ihren [Pre-ICO Token](https://www.daohq.co/daos/tft) auf Polygon launchen.
+50. **Twitter Diskussionen**: Evaldas [kommentiert](https://twitter.com/lunfardo314/status/1555908556926455809?s=20&t=mtnnX7Ql4XEwzsaX_ABSKw) Sebastian Müllers [Tweets](https://twitter.com/NaitsabesMue/status/1555824074437320706?s=20&t=mtnnX7Ql4XEwzsaX_ABSKw) über die Vorteile von DAGs gegenüber Blockchains
+51. **IOTA Tech**: Evaldas über Proof of Inclusion und die Möglichkeiten von ICP als Datenspeicher: [Tweet mit Screenshot](https://twitter.com/Schmucklos_/status/1555894181939257346?s=20&t=mtnnX7Ql4XEwzsaX_ABSKw)
+52. 
 
 
  
