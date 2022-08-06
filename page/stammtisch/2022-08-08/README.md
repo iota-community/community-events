@@ -47,6 +47,9 @@ Barcelona kauft Bayern-Star mit Krypto-Millionen](https://www.btc-echo.de/news/b
 44. **IOTA DeFi**: [Iotabee veröffentlichen](https://twitter.com/iotabee/status/1555491338124132355?s=20&t=rihK0r2dEn_jnMTAG0fCEQ) ihren Blogpost: [Deep Dive into Iotabee — All you may want to know](https://medium.com/@iotabee/deep-dive-into-iotabee-all-you-may-want-to-know-251bdb655280)
 45. **IOTA Dev**: [Firefly Update, August 2022 #31](https://github.com/iotaledger/engineering-updates/discussions/31)
 46. **IOTA NFT**: Wir haben wohl jetzt einen der unsere NFT-Plotter Service: [Tweet](https://twitter.com/NFT_Canvas_Art/status/1555563307863621632?s=20&t=VOkzI8VjKgtBhFom6oh7Sw)
+47. **IOTA **: Die [IF tweetet](https://twitter.com/iota/status/1555856211211423746?s=20&t=mtnnX7Ql4XEwzsaX_ABSKw) über einen neuen Gast Beitrag auf CoinMarketCap: [Hornet Node Software for Shimmer Beta Network - Now Available](https://coinmarketcap.com/community/articles/31694)
+48. **IOTA Ökosystem**: Disentangled.com [tweetet](https://twitter.com/disentangleINS/status/1555851616905007106?s=20&t=mtnnX7Ql4XEwzsaX_ABSKw) über Teil 1 ihres Blogposts: [Introducing: disentangle, the IOTA Name Service](https://disentangle.medium.com/introducing-disentangle-the-iota-name-service-5ee6287abe8a)
+49. **IOTA Ökosystem**: TheFansTogether [tweetet](https://twitter.com/TheFansTogether/status/1555735408922841088?s=20&t=mtnnX7Ql4XEwzsaX_ABSKw) darüber, dass sie ihren [Pre-ICO Token](https://www.daohq.co/daos/tft) auf Polygon launchen.
 
 
  
