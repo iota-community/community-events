@@ -52,7 +52,8 @@ Barcelona kauft Bayern-Star mit Krypto-Millionen](https://www.btc-echo.de/news/b
 49. **IOTA Ökosystem**: TheFansTogether [tweetet](https://twitter.com/TheFansTogether/status/1555735408922841088?s=20&t=mtnnX7Ql4XEwzsaX_ABSKw) darüber, dass sie ihren [Pre-ICO Token](https://www.daohq.co/daos/tft) auf Polygon launchen.
 50. **Twitter Diskussionen**: Evaldas [kommentiert](https://twitter.com/lunfardo314/status/1555908556926455809?s=20&t=mtnnX7Ql4XEwzsaX_ABSKw) Sebastian Müllers [Tweets](https://twitter.com/NaitsabesMue/status/1555824074437320706?s=20&t=mtnnX7Ql4XEwzsaX_ABSKw) über die Vorteile von DAGs gegenüber Blockchains
 51. **IOTA Tech**: Evaldas über Proof of Inclusion und die Möglichkeiten von ICP als Datenspeicher: [Tweet mit Screenshot](https://twitter.com/Schmucklos_/status/1555894181939257346?s=20&t=mtnnX7Ql4XEwzsaX_ABSKw)
-52. 
+52. **Twitter Hype**: Holger Köther [bremst Euphorie](https://twitter.com/HolgerKoether/status/1556523848866095104?s=20&t=EURTUbcJiAlyydRe3qoDSQ) zum Thema EPCIS 2.0. Er meint, die IOTA Software kann bei dem neuen Standard verwendet werden, muss aber nicht
+53. **IOTA Wochenrückblick**: IOTATalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/208-wochenr%C3%BCckblick-vom-31-juli-bis-6-august-2022/)
 
 
  
