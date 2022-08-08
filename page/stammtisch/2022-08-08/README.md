@@ -56,8 +56,9 @@ Barcelona kauft Bayern-Star mit Krypto-Millionen](https://www.btc-echo.de/news/b
 53. **IOTA Stammtisch**: Jetzt auch im Ruhrpott: [Tweet](https://twitter.com/IotaPunks_71/status/1555937343772696579?t=5Rn5e2NJDRBS7qZr5F4pig&s=19)
 54. **IOTA Youtube**: IOTA Technik mit dem Video: [SHIMMER Firefly Desktop Wallet Beta 2.0.3 | IOTA-Technik.de](https://www.youtube.com/watch?v=Sx0gm_VV_SY)
 55. **IOTA Steuern**: Es gibt wohl bald einen neuen Soon Airdrop: [Tweet](https://twitter.com/soon_labs/status/1556546388153942017?s=20&t=EURTUbcJiAlyydRe3qoDSQ). Muss der jetzt versteuert werden, weil es schon ein IOTA/Soon Handelspaar gibt?
-56. **IOTA Wochenrückblick**: IOTATalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/208-wochenr%C3%BCckblick-vom-31-juli-bis-6-august-2022/)
-57. **IOTA Event: The Biggest Stammtisch Ever in Berlin!!!**: Hier Anmelden: [Meetup.de](https://www.meetup.com/de-DE/iota-meetup-workshop/events/287621650/)
+56. **IOTA Dev**: [DLT.green veröffentlicht](https://twitter.com/dlt_green/status/1556563140489482242?s=20&t=EURTUbcJiAlyydRe3qoDSQ) den [DLT.GREEN Node-Installer](https://github.com/dlt-green/node-installer-docker). Das ist ein Skript zur Installation von Iota Nodes (Bee, Hornet, GoShimmer und Wasp)
+57. **IOTA Wochenrückblick**: IOTATalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/208-wochenr%C3%BCckblick-vom-31-juli-bis-6-august-2022/)
+58. **IOTA Event: The Biggest Stammtisch Ever in Berlin!!!**: Hier Anmelden: [Meetup.de](https://www.meetup.com/de-DE/iota-meetup-workshop/events/287621650/)
 
 
  
