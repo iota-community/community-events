@@ -57,6 +57,7 @@ Barcelona kauft Bayern-Star mit Krypto-Millionen](https://www.btc-echo.de/news/b
 54. **IOTA Youtube**: IOTA Technik mit dem Video: [SHIMMER Firefly Desktop Wallet Beta 2.0.3 | IOTA-Technik.de](https://www.youtube.com/watch?v=Sx0gm_VV_SY)
 55. **IOTA Steuern**: Es gibt wohl bald einen neuen Soon Airdrop: [Tweet](https://twitter.com/soon_labs/status/1556546388153942017?s=20&t=EURTUbcJiAlyydRe3qoDSQ). Muss der jetzt versteuert werden, weil es schon ein IOTA/Soon Handelspaar gibt?
 56. **IOTA Wochenrückblick**: IOTATalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/208-wochenr%C3%BCckblick-vom-31-juli-bis-6-august-2022/)
+57. **IOTA Event: The Biggest Stammtisch Ever in Berlin!!!**: Hier Anmelden: [Meetup.de](https://www.meetup.com/de-DE/iota-meetup-workshop/events/287621650/)
 
 
  
