@@ -55,7 +55,8 @@ Barcelona kauft Bayern-Star mit Krypto-Millionen](https://www.btc-echo.de/news/b
 52. **Twitter Hype**: Holger Köther [bremst die Euphorie](https://twitter.com/HolgerKoether/status/1556523848866095104?s=20&t=EURTUbcJiAlyydRe3qoDSQ) zum Thema EPCIS 2.0. Er meint, die IOTA Software kann zwar bei dem neuen Standard verwendet werden, sie muss aber nicht verwendet werden.
 53. **IOTA Stammtisch**: Jetzt auch im Ruhrpott: [Tweet](https://twitter.com/IotaPunks_71/status/1555937343772696579?t=5Rn5e2NJDRBS7qZr5F4pig&s=19)
 54. **IOTA Youtube**: IOTA Technik mit dem Video: [SHIMMER Firefly Desktop Wallet Beta 2.0.3 | IOTA-Technik.de](https://www.youtube.com/watch?v=Sx0gm_VV_SY)
-55. **IOTA Wochenrückblick**: IOTATalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/208-wochenr%C3%BCckblick-vom-31-juli-bis-6-august-2022/)
+55. **IOTA Steuern**: Es gibt wohl bald einen neuen Soon Airdrop: [Tweet](https://twitter.com/soon_labs/status/1556546388153942017?s=20&t=EURTUbcJiAlyydRe3qoDSQ). Muss der jetzt versteuert werden, weil es schon ein IOTA/Soon Handelspaar gibt?
+56. **IOTA Wochenrückblick**: IOTATalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/208-wochenr%C3%BCckblick-vom-31-juli-bis-6-august-2022/)
 
 
  
