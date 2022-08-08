@@ -53,7 +53,9 @@ Barcelona kauft Bayern-Star mit Krypto-Millionen](https://www.btc-echo.de/news/b
 50. **Twitter Diskussionen**: Evaldas [kommentiert](https://twitter.com/lunfardo314/status/1555908556926455809?s=20&t=mtnnX7Ql4XEwzsaX_ABSKw) Sebastian Müllers [Tweets](https://twitter.com/NaitsabesMue/status/1555824074437320706?s=20&t=mtnnX7Ql4XEwzsaX_ABSKw) über die Vorteile von DAGs gegenüber Blockchains
 51. **IOTA Tech**: Evaldas über Proof of Inclusion und die Möglichkeiten von ICP als Datenspeicher: [Tweet mit Screenshot](https://twitter.com/Schmucklos_/status/1555894181939257346?s=20&t=mtnnX7Ql4XEwzsaX_ABSKw)
 52. **Twitter Hype**: Holger Köther [bremst die Euphorie](https://twitter.com/HolgerKoether/status/1556523848866095104?s=20&t=EURTUbcJiAlyydRe3qoDSQ) zum Thema EPCIS 2.0. Er meint, die IOTA Software kann zwar bei dem neuen Standard verwendet werden, sie muss aber nicht verwendet werden.
-53. **IOTA Wochenrückblick**: IOTATalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/208-wochenr%C3%BCckblick-vom-31-juli-bis-6-august-2022/)
+53. **IOTA Stammtisch**: Jetzt auch im Ruhrpott: [Tweet](https://twitter.com/IotaPunks_71/status/1555937343772696579?t=5Rn5e2NJDRBS7qZr5F4pig&s=19)
+54. **IOTA Youtube**: IOTA Technik mit dem Video: [SHIMMER Firefly Desktop Wallet Beta 2.0.3 | IOTA-Technik.de](https://www.youtube.com/watch?v=Sx0gm_VV_SY)
+55. **IOTA Wochenrückblick**: IOTATalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/208-wochenr%C3%BCckblick-vom-31-juli-bis-6-august-2022/)
 
 
  
