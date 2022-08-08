@@ -57,8 +57,10 @@ Barcelona kauft Bayern-Star mit Krypto-Millionen](https://www.btc-echo.de/news/b
 54. **IOTA Youtube**: IOTA Technik mit dem Video: [SHIMMER Firefly Desktop Wallet Beta 2.0.3 | IOTA-Technik.de](https://www.youtube.com/watch?v=Sx0gm_VV_SY)
 55. **IOTA Steuern**: Es gibt wohl bald einen neuen Soon Airdrop: [Tweet](https://twitter.com/soon_labs/status/1556546388153942017?s=20&t=EURTUbcJiAlyydRe3qoDSQ). Muss der jetzt versteuert werden, weil es schon ein IOTA/Soon Handelspaar gibt?
 56. **IOTA Dev**: [DLT.green veröffentlicht](https://twitter.com/dlt_green/status/1556563140489482242?s=20&t=EURTUbcJiAlyydRe3qoDSQ) den [DLT.GREEN Node-Installer](https://github.com/dlt-green/node-installer-docker). Das ist ein Skript zur Installation von Iota Nodes (Bee, Hornet, GoShimmer und Wasp)
-57. **IOTA Wochenrückblick**: IOTATalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/208-wochenr%C3%BCckblick-vom-31-juli-bis-6-august-2022/)
-58. **IOTA Event: The Biggest Stammtisch Ever in Berlin!!!**: Hier Anmelden: [Meetup.de](https://www.meetup.com/de-DE/iota-meetup-workshop/events/287621650/); [Tweet von IOTAShops](https://twitter.com/iotashop/status/1556560276199194625?s=21&t=WYfhvkXACAa27FpZBXZ-Bg)
+57. **IOTA Event**: Es gibt eine [Aufzeichnung von dem INATBA-Event](https://inatba.org/news/the-booming-power-of-dltin-the-agriculture-sector/) mit Mariana de la Roche: [Tweet](https://twitter.com/Marydlrw/status/1556658923171713024?s=20&t=0TaycBtgTnNzxvczmBJdXA)
+58. **IOTA Dev**: [GoShimmer v0.9.4 - 2022-08-08](https://github.com/iotaledger/goshimmer/releases/tag/v0.9.4) release
+59. **IOTA Wochenrückblick**: IOTATalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/208-wochenr%C3%BCckblick-vom-31-juli-bis-6-august-2022/)
+60. **IOTA Event: The Biggest Stammtisch Ever in Berlin!!!**: Hier Anmelden: [Meetup.de](https://www.meetup.com/de-DE/iota-meetup-workshop/events/287621650/); [Tweet von IOTAShops](https://twitter.com/iotashop/status/1556560276199194625?s=21&t=WYfhvkXACAa27FpZBXZ-Bg)
 
 
  
