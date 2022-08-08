@@ -61,6 +61,8 @@ Barcelona kauft Bayern-Star mit Krypto-Millionen](https://www.btc-echo.de/news/b
 58. **IOTA Dev**: [GoShimmer v0.9.4 - 2022-08-08](https://github.com/iotaledger/goshimmer/releases/tag/v0.9.4) release
 59. **IOTA Wochenrückblick**: IOTATalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/208-wochenr%C3%BCckblick-vom-31-juli-bis-6-august-2022/)
 60. **IOTA Event: The Biggest Stammtisch Ever in Berlin!!!**: Hier Anmelden: [Meetup.de](https://www.meetup.com/de-DE/iota-meetup-workshop/events/287621650/); [Tweet von IOTAShops](https://twitter.com/iotashop/status/1556560276199194625?s=21&t=WYfhvkXACAa27FpZBXZ-Bg)
+61. **IOTA Firefly: Firefly [tweetet](https://twitter.com/fireflywallet/status/1556679767205740544?s=20&t=jIxx0W0um2AWZ2zlYoRWWg), dass [Firefly Desktop 2.0.0 Beta 3](https://github.com/iotaledger/firefly/releases/tag/desktop-2.0.0-beta-3)
+62. **IOTA DeFi**: [Iotabee tweetet](https://twitter.com/iotabee/status/1556581361351540736?s=20&t=jIxx0W0um2AWZ2zlYoRWWg) darüber, dass man später Stablecoins aus anderen Ökosystemen in IOTA swapen kann
 
 
  
