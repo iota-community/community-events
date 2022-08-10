@@ -8,3 +8,8 @@
 6. **IOTA Drama**: Der [Tweet von IotaPoet](https://twitter.com/IotaPoet/status/1556919252724105217?s=20&t=bvSA8Ru8jhxEJGBX5GXMBw) mit Screenshots aus #tanglemath von Evaldas (8.August), wo er über Inflation und Staking bei IOTA redet schlägt Wellen... [Navin Ramachandran hat den kommentiert](https://twitter.com/navinram999/status/1556956426328854529?s=20&t=bvSA8Ru8jhxEJGBX5GXMBw) und auch [Antonio Nardella kommentiert](https://twitter.com/antonionardella/status/1556947799987593217?s=20&t=bvSA8Ru8jhxEJGBX5GXMBw) schreibt, dass das bisher noch nicht mal ein Proposal von Evaldas war und somit noch lange nicht festgesetzt ist
 7. **IOTA Dev**: [IOTA Integration Services Setup](https://www.youtube.com/watch?v=uHwCBiCEeiM)
 8. **Chaise Newsletter**: Die [IF tweetet](https://twitter.com/iota/status/1556988680237096964?s=20&t=bvSA8Ru8jhxEJGBX5GXMBw) über den [Chaise Newsletter #3](https://t.co/KZqx7Vbckt)
+9. **IOTA Exchanges**: Garret Jin, der Founder von TanlgePay und CoFounder von Bitforex [gibt bekannt](https://twitter.com/GarrettBullish/status/1557221382983131137?s=20&t=aqm4JxbRqFyKAPYNlNPJmQ), dass IOTA und später Shimmer auf Bitforex gelistet werden
+10. **IOTA Youtube**: [The REAL reason why IOTA is not on Coinbase](https://www.youtube.com/watch?v=nkRrnM0UZ78)
+11. **Crypto News**: Curve wurde gehacked, bzw. der "nameserver was compromised": [Tweet](https://twitter.com/CurveFinance/status/1557107088962224132?s=20&t=aqm4JxbRqFyKAPYNlNPJmQ), Problem wurde aber behoben: [Tweet](https://twitter.com/CurveFinance/status/1557116419497672711?s=20&t=aqm4JxbRqFyKAPYNlNPJmQ)
+12. **Crypto News**: [Kryptofinanz-Dienst Nuri (ehemals Bitwala) geht in Insolvenz](https://www.heise.de/news/Kryptofinanz-Dienst-Nuri-geht-in-Insolvenz-7215565.html)
+
