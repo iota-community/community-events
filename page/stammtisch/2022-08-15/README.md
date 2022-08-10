@@ -11,5 +11,7 @@
 9. **IOTA Exchanges**: Garret Jin, der Founder von TanlgePay und CoFounder von Bitforex [gibt bekannt](https://twitter.com/GarrettBullish/status/1557221382983131137?s=20&t=aqm4JxbRqFyKAPYNlNPJmQ), dass IOTA und später Shimmer auf Bitforex gelistet werden
 10. **IOTA Youtube**: [The REAL reason why IOTA is not on Coinbase](https://www.youtube.com/watch?v=nkRrnM0UZ78)
 11. **Crypto News**: Curve wurde gehacked, bzw. der "nameserver was compromised": [Tweet](https://twitter.com/CurveFinance/status/1557107088962224132?s=20&t=aqm4JxbRqFyKAPYNlNPJmQ), Problem wurde aber behoben: [Tweet](https://twitter.com/CurveFinance/status/1557116419497672711?s=20&t=aqm4JxbRqFyKAPYNlNPJmQ)
-12. **Crypto News**: [Kryptofinanz-Dienst Nuri (ehemals Bitwala) geht in Insolvenz](https://www.heise.de/news/Kryptofinanz-Dienst-Nuri-geht-in-Insolvenz-7215565.html)
+12. **Crypto News**: [Kryptofinanz-Dienst Nuri (ehemals Bitwala) geht in Insolvenz](https://www.heise.de/news/Kryptofinanz-Dienst-Nuri-geht-in-Insolvenz-7215565.html); Steht auch im Handelsblatt: [Berliner Kryptobank Nuri ist insolvent – 500.000 Kunden mit 500 Millionen Euro Vermögen](https://nachrichten.handelsblatt.com/6a36f18f84de540c2370f864521a58fe3e8144340c94994e94a08d694bbee85b2765bdb4514df2f74ce282440973aec4028586210?utm_source=app)
+13. **Crypto News**: Tornado Cash wurde offenbar von den US-Behörden verboten. Daraufhin wurde Tornadocash von Circle $USDC geblacklisted: [Tweet](https://twitter.com/WatcherGuru/status/1556751657794277376?s=20&t=53LbthP5Hw7g1Xh_8Z9m2A); Artikel: [Circle and Coinbase Restrict Movement of USDC Funds From Tornado Cash Addresses Following Sanctions](https://crypto.news/circle-and-coinbase-restrict-movement-of-usdc-funds-from-tornado-cash-addresses-following-sanctions/)
+14. 
 
