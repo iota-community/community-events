@@ -17,6 +17,6 @@
 15. **IOTA Ökosystem**: Neuer Artikel von Content Creator DAO über [Yenna Tech](https://twitter.com/YennaTech): [The time to act is now](https://medium.com/@iotacontentcreators/the-time-to-act-is-now-d390d6dff12)
 16. **Shimmer Dev**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1557411557277159428?s=20&t=gl0kKUih2OiAtjRNX1dJTg) darüber, wie einfach es ist NFTs zu erstellen und verlinkt zum Thema auf wiki.iota.org: [Non-fungible Tokens](https://wiki.iota.org/introduction/develop/explanations/ledger/nft#minting-an-nft)
 17. **Twitter Diskussion**: Dom [tweetet](https://twitter.com/DomSchiener/status/1557412238859845633?s=20&t=Y3iGqG1EYOoFiJenq-i3gw) über einen interessanten Artikel: [Why Complex Systems Collapse Faster](https://www.tabletmag.com/sections/science/articles/why-complex-systems-collapse-faster) Es geht um komplexe Netzwerke die langsam aufgebaut werden und oft schnell und fatal Kollabieren wenn einzelne kritische Knotenpunkte im Netzwerk Probleme machen
-18. **
+18. **IOTA Audio**: Neue Folge vom Moonaco Podcast mit Jelle Milenar: [Tweet](https://twitter.com/MoonacoPodcast/status/1557669500102787072?s=20&t=9Cn82MK3MoRD472u3FErBg); Spotify [Link](https://open.spotify.com/episode/2XjwPWMTILQ3d9NSugMHGL?si=GjmTVgZsSry96vaDtolonQ&nd=1)
 
 
