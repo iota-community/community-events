@@ -16,6 +16,7 @@
 14. **Twitter Drama**: Hans Moog ist genervt vom Research Departement die offenbar wirklich alles (selbst Fees) in Betracht ziehen, um IOTA zu optimieren: [Tweet 1/8](https://twitter.com/hus_qy/status/1557499464662896640?s=20&t=2bTs9N7GcOr38ctJsXWLOA). Am Ende schreibt er aber auch: "I am pretty sure that we will find a common ground as we did before but its still extremely exhausting to constantly have to argue for things that are (in my opinion) so blatantly obvious :P": [Tweet](https://twitter.com/hus_qy/status/1557507245373628418?s=20&t=2bTs9N7GcOr38ctJsXWLOA)
 15. **IOTA Ökosystem**: Neuer Artikel von Content Creator DAO über [Yenna Tech](https://twitter.com/YennaTech): [The time to act is now](https://medium.com/@iotacontentcreators/the-time-to-act-is-now-d390d6dff12)
 16. **Shimmer Dev**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1557411557277159428?s=20&t=gl0kKUih2OiAtjRNX1dJTg) darüber, wie einfach es ist NFTs zu erstellen und verlinkt zum Thema auf wiki.iota.org: [Non-fungible Tokens](https://wiki.iota.org/introduction/develop/explanations/ledger/nft#minting-an-nft)
-17. **
+17. **Twitter Diskussion**: Dom [tweetet](https://twitter.com/DomSchiener/status/1557412238859845633?s=20&t=Y3iGqG1EYOoFiJenq-i3gw) über einen interessanten Artikel: [Why Complex Systems Collapse Faster](https://www.tabletmag.com/sections/science/articles/why-complex-systems-collapse-faster) Es geht um komplexe Netzwerke die langsam aufgebaut werden und oft schnell und fatal Kollabieren wenn einzelne kritische Knotenpunkte im Netzwerk Probleme machen
+18. **
 
 
