@@ -24,10 +24,13 @@
 22. **IOTA Ökosystem**: IOTA Penguin hat in [22 Tweets](https://twitter.com/iota_penguin/status/1557714661927174144?s=20&t=-KNGmLooHduK_RPIEVqrdw) Bivreost, das Telegram Wallet für IOTA, beschrieben.
 23. **IOTA Artikel**: Neuer Newsletter vom Content Creator DAO: [The Calm Before the Storm](https://iotacreator.substack.com/p/the-calm-before-the-storm)
 24. **IOTA Ökosystem**: Senseering arbeitet zusammen mit Feintool an einem PayPerUse model: [Tweet](https://twitter.com/senseering/status/1557984244101693440?s=20&t=ishP8OkwR5LDet1OcpzlQw)
-25. **Crypto News**: Die Sueddeutsche erklärt Cryptos mal wieder für tot: [Bitcoin, Ether & Co. - Das Krypto-Versprechen ist tot](https://www.sueddeutsche.de/wirtschaft/kryptowaehrung-kurse-crash-1.5637853?reduced=true&utm_source=Twitter&utm_medium=twitterbot&utm_campaign=1.5637853)
+25. **Crypto News**: Die Sueddeutsche erklärt Cryptos mal wieder für tot: [Tweet](https://twitter.com/SZ/status/1557760400384528394?s=20&t=nk3oVoK2uY0Sw7SqE5XayA); [Bitcoin, Ether & Co. - Das Krypto-Versprechen ist tot](https://www.sueddeutsche.de/wirtschaft/kryptowaehrung-kurse-crash-1.5637853?reduced=true&utm_source=Twitter&utm_medium=twitterbot&utm_campaign=1.5637853)
 26. **IOTA Ökosystem**: [TangleHub tweetet](https://twitter.com/Tanglehub_eu/status/1557764004369637376?s=20&t=zu1QzEeOpJJGt--kn_FWhA) über $Pipe. Sie wollen damit dezentralen skalierbaren Datenspeicher auf dem Tangle ermöglichen
 27. **Crypto News**: Der Ethereum Merge kommt wohl im September und [Dom Schiener kommentiert](https://twitter.com/DomSchiener/status/1557803523143770114?s=20&t=nk3oVoK2uY0Sw7SqE5XayA) mit "This is the way to go. Congratulations!"
 28. **IOTA Adoption**: Die [IF mit 8 Tweets](https://twitter.com/iota/status/1557788949933920258?s=20&t=JEIIQ3_1LTnryhzIy_FqeQ) zum Thema "Login with IOTA" und [walt.id](https://walt.id/) das in Q4 2022 starten soll
+29. **IOTA Ökosystem**: [Swarm Logistics Technologies tweetet](https://twitter.com/SwarmLogistics/status/1558058348880318466?s=20&t=SHe0WaEq0OVebR6Ek_qPfw) über ein Demo Video: [Demo of a decentralized & serverless Fleet Control System and the Metaverse Economy in Logistics.](https://www.youtube.com/watch?v=UTVBYGwIEyU)
+30. **IOTA Artikel**: Auf FTX/Blockfolio: [Link](https://blockfolio.com/coin/IOTA/signal/1ml8fEKXtR3)
+31. 
 
 
 
