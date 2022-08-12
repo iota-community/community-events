@@ -22,5 +22,11 @@
 20. **IOTA Ökosystem**: Senseering Partnerschaft mit RWTH Aachen: [Tweet](https://twitter.com/senseering/status/1557714589944528896?s=20&t=-KNGmLooHduK_RPIEVqrdw)
 21. **Crypto News**: Blackrock will Spot Bitcoin Trust für seine Kunden ein: [Tweet](https://twitter.com/FurkanCCTV/status/1557712698120589312?s=20&t=ckl7xyunsvPH9knpmk5arg); Artikel: [BlackRock launches private trust offering direct bitcoin exposure](https://www.theblock.co/post/162987/blackrock-launches-private-trust-offering-direct-bitcoin-exposure)
 22. **IOTA Ökosystem**: IOTA Penguin hat in [22 Tweets](https://twitter.com/iota_penguin/status/1557714661927174144?s=20&t=-KNGmLooHduK_RPIEVqrdw) Bivreost, das Telegram Wallet für IOTA, beschrieben.
+23. **IOTA Artikel**: Neuer Newsletter vom Content Creator DAO: [The Calm Before the Storm](https://iotacreator.substack.com/p/the-calm-before-the-storm)
+24. **IOTA Ökosystem**: Senseering arbeitet zusammen mit Feintool an einem PayPerUse model: [Tweet](https://twitter.com/senseering/status/1557984244101693440?s=20&t=ishP8OkwR5LDet1OcpzlQw)
+25. **Crypto News**: Die Sueddeutsche erklärt Cryptos mal wieder für tot: [Bitcoin, Ether & Co. - Das Krypto-Versprechen ist tot](https://www.sueddeutsche.de/wirtschaft/kryptowaehrung-kurse-crash-1.5637853?reduced=true&utm_source=Twitter&utm_medium=twitterbot&utm_campaign=1.5637853)
+26. **IOTA Ökosystem**: [TangleHub tweetet](https://twitter.com/Tanglehub_eu/status/1557764004369637376?s=20&t=zu1QzEeOpJJGt--kn_FWhA) über $Pipe. Sie wollen damit dezentralen skalierbaren Datenspeicher auf dem Tangle ermöglichen
+
+
 
 
