@@ -43,7 +43,8 @@
 IOTA Lighthouse Projects(https://www.iota.org/solutions/lighthouse) in den USA gibt.
 41. **IOTA Wochenrückblick**: IOTATalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/210-wochenr%C3%BCckblick-vom-7-bis-13-august-2022/)
 42. **IOTA Artikel**: [Can IOTA reach 100 Dollar](https://katochtubes.com/web-stories/iota)
-43. 
+43. **IOTA Artikel**: [Kann IOTA im Jahr 2025 wieder an die Spitze der Kryptowährungen gelangen?](https://cointelegraph.com/news/talking-with-eva-kaili-vp-of-the-european-parliament-on-mica-regulation)
+44. 
 
 
 
