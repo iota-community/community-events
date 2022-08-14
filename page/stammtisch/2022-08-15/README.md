@@ -30,7 +30,9 @@
 28. **IOTA Adoption**: Die [IF mit 8 Tweets](https://twitter.com/iota/status/1557788949933920258?s=20&t=JEIIQ3_1LTnryhzIy_FqeQ) zum Thema "Login with IOTA" und [walt.id](https://walt.id/) das in Q4 2022 starten soll
 29. **IOTA Ökosystem**: [Swarm Logistics Technologies tweetet](https://twitter.com/SwarmLogistics/status/1558058348880318466?s=20&t=SHe0WaEq0OVebR6Ek_qPfw) über ein Demo Video: [Demo of a decentralized & serverless Fleet Control System and the Metaverse Economy in Logistics.](https://www.youtube.com/watch?v=UTVBYGwIEyU)
 30. **IOTA Artikel**: Auf FTX/Blockfolio: [Link](https://blockfolio.com/coin/IOTA/signal/1ml8fEKXtR3)
-31. **IOTA Youtube**: [Probably Nothing - Hans Moog verlässt IF - Firefly - Nakama Labs - #IOTA News](https://www.youtube.com/watch?v=lA-WSxqeyN0&feature=youtu.be)
+31. **IOTA Youtube**: [Probably Nothing - Hans Moog verlässt IF - Firefly - Nakama Labs - #IOTA News](https://www.youtube.com/watch?v=lA-WSxqeyN0&feature=youtu.be); Title wurde später geändert wegen Drama und es gab ein [Aufklärungsvideo: "super unwichtiges video OHNE iota relevanz"](https://www.youtube.com/watch?v=GmWOwcmIXjI) und ein [Tweet](https://twitter.com/shortaktien/status/1558150703289344000?s=20&t=g3MSD2gMvUdmWUAqQHfYbA) dazu
+32. **
+
 
 
 
