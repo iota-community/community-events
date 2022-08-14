@@ -31,7 +31,19 @@
 29. **IOTA Ökosystem**: [Swarm Logistics Technologies tweetet](https://twitter.com/SwarmLogistics/status/1558058348880318466?s=20&t=SHe0WaEq0OVebR6Ek_qPfw) über ein Demo Video: [Demo of a decentralized & serverless Fleet Control System and the Metaverse Economy in Logistics.](https://www.youtube.com/watch?v=UTVBYGwIEyU)
 30. **IOTA Artikel**: Auf FTX/Blockfolio: [Link](https://blockfolio.com/coin/IOTA/signal/1ml8fEKXtR3)
 31. **IOTA Youtube**: [Probably Nothing - Hans Moog verlässt IF - Firefly - Nakama Labs - #IOTA News](https://www.youtube.com/watch?v=lA-WSxqeyN0&feature=youtu.be); Title wurde später geändert wegen Drama und es gab ein [Aufklärungsvideo: "super unwichtiges video OHNE iota relevanz"](https://www.youtube.com/watch?v=GmWOwcmIXjI) und ein [Tweet](https://twitter.com/shortaktien/status/1558150703289344000?s=20&t=g3MSD2gMvUdmWUAqQHfYbA) dazu
-32. **
+32. **IOTA learn** [Iotina](https://twitter.com/_Iotina_) hat eine Anleitung für eine Hornet Node geschrieben: [Tweet](https://twitter.com/_Iotina_/status/1558150655554076675?s=20&t=W7emI1aUZx34GZh9x1XIpw); [Hornet Node Anleitung by Iotina - Deine eigene Raspberry Hornet Node für zu Hause ohne virtuellen Server](https://drive.google.com/file/d/1vtToJoGD4poFfjyNoZEPEpPUy9JItd5w/view)
+33. **IOTA Youtube**: [04/08/22 IOTA Community Governance call - Shimmer governance Framework workgroup](https://www.youtube.com/watch?v=L3etTdpiT88)
+34. **IOTA Youtube**: [IOTA - Der grosse IOTA GUIDE! TEIL 1 - Was ihr über IOTA wissen müsst!](https://www.youtube.com/watch?v=CTdu_NU9d2U&feature=youtu.be)
+35. **IOTA Learn**: [TangleBay tweetet](https://twitter.com/tanglebay/status/1558182904051765250?t=OcaVZj-pirSH7ZGDeCZOUA&s=19) darüber dass er ein Tutorial geschrieben hat: [SWARM - Automatically add events with Watchdog](https://community.tanglebay.com/forum/thread/13-swarm-automatically-add-events-with-watchdog/)
+36. **IOTA Ökosystem**: [Gold Standard tweetet](https://twitter.com/goldstandard/status/1557706127537758210?s=20&t=lmb4fNBPTBtp5TTjRAPZBQ) darüber, dass 50 Organisationen einen digitalen Markt für CO2 Zertifikate basierend auf IOTA entwicklen und veröffentlichen die Artikel: [Gold Standard and Partners start work to define future of digital carbon market](https://www.goldstandard.org/blog-item/gold-standard-and-partners-start-work-define-future-digital-carbon-market); Auch [Mat Yager tweetet](https://twitter.com/Mat_Yarger/status/1558230191947874305?s=20&t=pHI7xirUN4CSoxiXMc6r1g) darüber
+37. **IOTA Stammtisch**: Im Ruhrgebiet: [16. SEPT. 2022 19:00 MESZ #IOTA Stammtisch - Ruhrgebiet](https://www.meetup.com/de-DE/the-future-of-web3-iota-stammtisch-ruhrgebiet/events/287787918/?_xtd=gqFyqTM2ODI4MjY5M6Fwo2FwaQ&from=ref)
+38. **Twitter Hype**: [Mat Yarger tweetet](https://twitter.com/Mat_Yarger/status/1558537019533529089?s=20&t=pHI7xirUN4CSoxiXMc6r1g) über den minimalen Stromverbrauch bei IOTA
+39. **Twitter Hype**: Ein [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1558720239088668676?s=20&t=pHI7xirUN4CSoxiXMc6r1g) von Hans Moog aus dem Discord (#tanglemath) macht FOMO. Er spricht davon, dass IOTA selbst mit RaspPis besser ist als Solana: Hans hatte dort eine lange Diskussion über Mana und mögliche Angriffsvektoren
+40. **IOTA Ökosystem**: [Govs.io tweetet](https://twitter.com/Govs_io/status/1558167592707162113?s=20&t=pHI7xirUN4CSoxiXMc6r1g) daürber, dass es kein einziges
+IOTA Lighthouse Projects(https://www.iota.org/solutions/lighthouse) in den USA gibt.
+41. **IOTA Wochenrückblick**: IOTATalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/210-wochenr%C3%BCckblick-vom-7-bis-13-august-2022/)
+42. **IOTA Artikel**: [Can IOTA reach 100 Dollar](https://katochtubes.com/web-stories/iota)
+43. 
 
 
 
