@@ -44,7 +44,10 @@ IOTA Lighthouse Projects(https://www.iota.org/solutions/lighthouse) in den USA g
 41. **IOTA Wochenrückblick**: IOTATalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/210-wochenr%C3%BCckblick-vom-7-bis-13-august-2022/)
 42. **IOTA Artikel**: [Can IOTA reach 100 Dollar](https://katochtubes.com/web-stories/iota)
 43. **IOTA Artikel**: [Kann IOTA im Jahr 2025 wieder an die Spitze der Kryptowährungen gelangen?](https://cointelegraph.com/news/talking-with-eva-kaili-vp-of-the-european-parliament-on-mica-regulation)
-44. 
+44. **IOTA Drama**: [Glaubt Hans Moog jetzt an Ufos?](https://twitter.com/hus_qy/status/1558900041150087170?s=20&t=pHI7xirUN4CSoxiXMc6r1g)
+45. **IOTA Gaming**: Erste Szenen von einem 3D Jump and Run Spiel? [Tweet](https://twitter.com/palillista12/status/1558749569185452034?s=20&t=zGxvhcOld2pC9H7R3n5NVw)
+46. **IOTA Interview**: Dr. Tangle von TangleSea/ShimmerSea wurde interviewed: [iotaread - Interview with TangleSea / ShimmerSea](https://iotaread.com/115-interview-with-tanglesea-shimmersea)
+47. **IOTA Ökosystem**: Bivreost [tweetet](https://twitter.com/bivreost/status/1558856977425612801?s=20&t=zGxvhcOld2pC9H7R3n5NVw) ein neues Video. Was soll diese BivreostCard sein die man hinzufügen kann?
 
 
 
