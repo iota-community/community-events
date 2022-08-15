@@ -40,7 +40,7 @@
 38. **Twitter Hype**: [Mat Yarger tweetet](https://twitter.com/Mat_Yarger/status/1558537019533529089?s=20&t=pHI7xirUN4CSoxiXMc6r1g) über den minimalen Stromverbrauch bei IOTA Transaktionen
 39. **Twitter Hype**: Ein [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1558720239088668676?s=20&t=pHI7xirUN4CSoxiXMc6r1g) von Hans Moog aus dem Discord (#tanglemath) macht FOMO. Er spricht davon, dass IOTA selbst mit RaspiPis besser ist als Solana: Hans hatte in #tanglemath eine lange Diskussion über Mana und mögliche Angriffsvektoren
 40. **IOTA Ökosystem**: [Govs.io tweetet](https://twitter.com/Govs_io/status/1558167592707162113?s=20&t=pHI7xirUN4CSoxiXMc6r1g) daürber, dass es kein einziges
-IOTA Lighthouse Projects](https://www.iota.org/solutions/lighthouse) in den USA gibt.
+[IOTA Lighthouse Projects](https://www.iota.org/solutions/lighthouse) in den USA gibt.
 41. **IOTA Wochenrückblick**: IOTATalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/210-wochenr%C3%BCckblick-vom-7-bis-13-august-2022/)
 42. **IOTA Artikel**: [Can IOTA reach 100 Dollar](https://katochtubes.com/web-stories/iota)
 43. **IOTA Artikel**: [Kann IOTA im Jahr 2025 wieder an die Spitze der Kryptowährungen gelangen?](https://cointelegraph.com/news/talking-with-eva-kaili-vp-of-the-european-parliament-on-mica-regulation)
