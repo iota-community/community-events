@@ -5,7 +5,7 @@
 3. **IOTA Youtube**: [IOTA - Der grosse IOTA GUIDE Teil 4](https://www.youtube.com/watch?v=AhtM2AI_Lm4)
 4. **IOTA Youtube**: [Comon Sense Crypto - IOTA MIOTA SLEEPING GIANT *DON'T MISS OUT ON THIS* IOTA MIOTA NEWS TODAY](https://www.youtube.com/watch?v=m1DMLURMoy0)
 5. **IOTA Tutorial**: DLT.green [tweetet](https://twitter.com/dlt_green/status/1559468638209556482?s=20&t=AM8pASAyC--SY5Zc2rLUXg) über sein erstes Video-Tutorial auf Youtube: [Node-Installer-Docker: Installation IOTA Nodes](https://www.youtube.com/watch?v=8QkvdLCL7K8)
-6. **IOTA Audio**: MoonVault [tweetet](https://twitter.com/Moon_Vault_News/status/1559493137973710849?s=20&t=cTs91s7MTOLuqTqkSZzKhw) darüber, dass sie am Donnerstag ein Gruppenchat machen mit ShimmerSea und ApeLabs machen
+6. **IOTA Audio**: MoonVault [tweetet](https://twitter.com/Moon_Vault_News/status/1559493137973710849?s=20&t=cTs91s7MTOLuqTqkSZzKhw) darüber, dass sie am Donnerstag ein Gruppenchat machen mit ShimmerSea und ApeLabs machen; Hier der [Twitter Spaces Link](https://twitter.com/Moon_Vault_News/status/1559630856255205376?s=20&t=1i6BKsnVD-hMj8X0q3_KrA)
 7. **IOTA Ökosystem**: TanglePay Update: [Tweet](https://twitter.com/tanglepaycom/status/1559549186567446529?s=20&t=AM8pASAyC--SY5Zc2rLUXg)
 8. **IOTA Firefly**: Firefly [tweetet](https://twitter.com/fireflywallet/status/1559528978704220160?s=20&t=cwBHnu18XcuTsiarpd_o3A) über den Release von [Firefly Desktop 2.0.0 Beta 4](https://github.com/iotaledger/firefly/releases/tag/desktop-2.0.0-beta-4)
 9. **IOTA Ökosystem**: TanglePay [veröffentlicht](https://twitter.com/tanglepaycom/status/1559549186567446529?s=20&t=cwBHnu18XcuTsiarpd_o3A) ihr Update V 1.3.9 Update in dem sie sogar schon das Shimmer Beta Netzwerk integriert haben
@@ -14,3 +14,7 @@
 12. **IOTA Event**: AMA mit DeFire ist/war am Donnerstag: [Tweet](https://twitter.com/DeFIRE_org/status/1559118644105420800?s=20&t=ynYXeVwGs1BMycBy13BWYQ)
 13. **IOTA Event**: IotaBee [Twitter-Spaces Event](https://twitter.com/Blockcastcc/status/1559629501897707521?s=20&t=ynYXeVwGs1BMycBy13BWYQ) ist/war am Freitag
 14. **IOTA Ökosystem** AmnesiaCash [veröffentlichen](https://twitter.com/amnesia_cash/status/1559652369864032260?s=20&t=ynYXeVwGs1BMycBy13BWYQ) einen Medium-Artikel: [Taking responsibility](https://medium.com/@amnesia_cash/taking-responsibility-799aef415c9a)
+15. **IOTA Spekulation**: Ein Paper zum digitalen Euro "[Public Digital Euro Working Group
+Recommendations](https://7869715.fs1.hubspotusercontent-na1.net/hubfs/7869715/New%20-%20Public%20DEA%20Working%20Group%20Paper.pdf)" wird von LiftCapital so [interpretiert](https://twitter.com/CapitalLiftt/status/1559655740624670720?s=20&t=1i6BKsnVD-hMj8X0q3_KrA), dass IOTA eine gute Lösung dafür wäre..
+16. **IOTA Ökosystem**: SoonLabs [gibt bekannt](https://twitter.com/soon_labs/status/1559766975693332482?s=20&t=1i6BKsnVD-hMj8X0q3_KrA), dass an einem Social Media Modul für das Soonaverse gearbeitet wird
+17. **IOTA Ökosystem**:
