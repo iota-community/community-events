@@ -27,5 +27,10 @@ Bridging legacy and Web3" von ReFi Podcast: [Tweet](https://twitter.com/ReFiPodc
 23. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1560242643615059971?s=20&t=2lfGrGmDH-ih71QvDVI4OA) ein aufwendiges Promo-Video von ihrem Telegram IOTA Wallet; Der Code soll open source werden und geaudited: [Tweet](https://twitter.com/bivreost/status/1560287801958174720?s=20&t=2lfGrGmDH-ih71QvDVI4OA)
 24. **IOTA Video**: Neues Developer-Video: [Untangling IOTA](https://www.twitch.tv/videos/1564546674)
 25. **Crypto News**: PayPal macht eine [Crypto Umfrage auf Twitter](https://twitter.com/PayPal/status/1559987112383954944?s=20&t=2lfGrGmDH-ih71QvDVI4OA). "HODL/Buy/Sell"? -> Mainstream adoption... 800K Follower
-26. **
+26. **IOTA Learn**: Die [IF mit 8 Tweets](https://twitter.com/iota/status/1560295463567429632?s=20&t=2lfGrGmDH-ih71QvDVI4OA) zum Thema "digital product passport"
+27. **IOTA Youtube**: [IOTA | Gold Standard Partnership, Energy Solution, Rant & Chart Update](https://www.youtube.com/watch?v=4rHNtVURAQ0)
+28. **Crypto News**: Julian Hosp in der Wirtschafts Woche: [JULIAN HOSP UND DER INSTABILE STABLECOIN
+Geld verbrennen beim „Krypto-Guru“](https://www.wiwo.de/my/finanzen/geldanlage/julian-hosp-und-der-instabile-stablecoin-geld-verbrennen-beim-krypto-guru/28603406.html?social=twitter&utm_medium=social&utm_source=Twitter&ticket=ST-695741-HHQfx23uBbtvXW0ZajSV-cas01.example.org#Echobox=1660808493)
+
+
 
