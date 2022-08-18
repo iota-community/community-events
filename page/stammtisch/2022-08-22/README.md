@@ -22,6 +22,10 @@ Recommendations](https://7869715.fs1.hubspotusercontent-na1.net/hubfs/7869715/Ne
 Bridging legacy and Web3" von ReFi Podcast: [Tweet](https://twitter.com/ReFiPodcast/status/1559856195787436035?s=20&t=z30WHBSXyYGenEf4wgnXdA)
 19. **Crypto News**: Was ist da los in Canada? Man darf offenbar bald nur noch BTC ETH Und Bitcoin Cash beliebig kaufen. Bei allen anderen Coins soll ein Limit von 30K gelten: [Tweet](https://twitter.com/mochains/status/1559971309597122560?s=20&t=KojX3ULwyK06F7tPwyGRPA). Auch Vitalik Buterin hat das [kommentiert](https://twitter.com/VitalikButerin/status/1560049658457513985?s=20&t=KojX3ULwyK06F7tPwyGRPA)
 20. **IOTA Ökosystem**: TangleHub testet $Pipe diese Woche: [Tweet](https://twitter.com/Tanglehub_eu/status/1560173520092598272?s=20&t=KojX3ULwyK06F7tPwyGRPA)
-21. **IOTA Audio**: Neue Folge vom Moonaco Podcast: [Tweet](https://twitter.com/MoonacoPodcast/status/1560209992845856770?s=20&t=KojX3ULwyK06F7tPwyGRPA), Spotify [Link](https://open.spotify.com/episode/1blCYH48h10xJvrsNlsTdq?si=2QM_fZsMShmCqyspnN_GHw&nd=1)
+21. **IOTA Audio**: Neue Folge vom Moonaco Podcast mit Mikko Ohtamaa & Levente Pap: [Tweet](https://twitter.com/MoonacoPodcast/status/1560209992845856770?s=20&t=KojX3ULwyK06F7tPwyGRPA), Spotify [Link](https://open.spotify.com/episode/1blCYH48h10xJvrsNlsTdq?si=2QM_fZsMShmCqyspnN_GHw&nd=1)
 22. **IOTA Learn**: Mariana de la Roche darf bei den Unated Nations Circular Economy Kurs mitmachen: [Tweet] (https://twitter.com/Marydlrw/status/1560225017866190848?s=20&t=xXcRWxBLVkfrekSAZtQiUA)
-23. 
+23. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1560242643615059971?s=20&t=2lfGrGmDH-ih71QvDVI4OA) ein aufwendiges Promo-Video von ihrem Telegram IOTA Wallet; Der Code soll open source werden und geaudited: [Tweet](https://twitter.com/bivreost/status/1560287801958174720?s=20&t=2lfGrGmDH-ih71QvDVI4OA)
+24. **IOTA Video**: Neues Developer-Video: [Untangling IOTA](https://www.twitch.tv/videos/1564546674)
+25. **Crypto News**: PayPal macht eine [Crypto Umfrage auf Twitter](https://twitter.com/PayPal/status/1559987112383954944?s=20&t=2lfGrGmDH-ih71QvDVI4OA). "HODL/Buy/Sell"? -> Mainstream adoption... 800K Follower
+26. **
+
