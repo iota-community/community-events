@@ -10,7 +10,7 @@
 8. **IOTA Firefly**: Firefly [tweetet](https://twitter.com/fireflywallet/status/1559528978704220160?s=20&t=cwBHnu18XcuTsiarpd_o3A) über den Release von [Firefly Desktop 2.0.0 Beta 4](https://github.com/iotaledger/firefly/releases/tag/desktop-2.0.0-beta-4)
 9. **IOTA Ökosystem**: TanglePay [veröffentlicht](https://twitter.com/tanglepaycom/status/1559549186567446529?s=20&t=cwBHnu18XcuTsiarpd_o3A) ihr Update V 1.3.9 Update in dem sie sogar schon das Shimmer Beta Netzwerk integriert haben
 10. **Assembly Ökosystem**: Assembly erscheint auf einer Grafik über Top 100 Firmen die in Blockchain investieren: [Tweet](https://twitter.com/AltcoinDailyio/status/1559606364174815233?s=20&t=ynYXeVwGs1BMycBy13BWYQ); Selbst CZ Binance [tweetet](https://twitter.com/cz_binance/status/1559642866787426314?s=20&t=z30WHBSXyYGenEf4wgnXdA) darüber
-11. **IOTA Learn**: Mat Yarger [beschreibt] Streams mit einem Satz: "Peer to peer decentralized data pipelines. Think SSH tunnels, but without IP addresses centralizing the pipelines"
+11. **IOTA Learn**: Mat Yarger [beschreibt](https://twitter.com/Mat_Yarger/status/1559568316825493504?s=20&t=TgZ6C9AN5qERgqBeZrHX2A) Streams mit einem Satz: "Peer to peer decentralized data pipelines. Think SSH tunnels, but without IP addresses centralizing the pipelines"
 12. **IOTA Event**: AMA mit DeFire ist/war am Donnerstag: [Tweet](https://twitter.com/DeFIRE_org/status/1559118644105420800?s=20&t=ynYXeVwGs1BMycBy13BWYQ)
 13. **IOTA Event**: IotaBee [Twitter-Spaces Event](https://twitter.com/Blockcastcc/status/1559629501897707521?s=20&t=ynYXeVwGs1BMycBy13BWYQ) ist/war am Freitag
 14. **IOTA Ökosystem** AmnesiaCash [veröffentlichen](https://twitter.com/amnesia_cash/status/1559652369864032260?s=20&t=ynYXeVwGs1BMycBy13BWYQ) einen Medium-Artikel: [Taking responsibility](https://medium.com/@amnesia_cash/taking-responsibility-799aef415c9a)
@@ -42,7 +42,7 @@ Geld verbrennen beim „Krypto-Guru“](https://www.wiwo.de/my/finanzen/geldanla
 37. **IOTA Youtube**: [IOTA - Der grosse IOTA GUIDE Teil 2](https://www.youtube.com/watch?v=MBFkNzj2Gv4)
 38. **IOTA Audio**: Iotabee war auf Twitter Spaces: [Have an amazing showcase of IotaBEE](https://twitter.com/Blockcastcc/status/1559629501897707521?s=20&t=aTSlVYo9pfKVWZfPENKWxA)
 39. **IOTA Ökosystem**: Das NFT Projekt Labralords [veröffentlicht](https://twitter.com/labralords/status/1559463283136118787?s=20&t=aTSlVYo9pfKVWZfPENKWxA) ihre Pre Alpha Webseite wo man IOTA NFT Projekte sortieren kann: [https://labralords.com/collections](https://labralords.com/collections)
-40. 
+40. **IOTA Audio**: Aufzeichnung vom Mat Yarger Event: [Carbon and Innovation - Bridging Legacy and Web 3](https://twitter.com/i/spaces/1ypKdEZwWBgGW)
 
 
 
