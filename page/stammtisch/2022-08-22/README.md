@@ -32,8 +32,15 @@ Bridging legacy and Web3" von ReFi Podcast: [Tweet](https://twitter.com/ReFiPodc
 28. **Crypto News**: Julian Hosp in der Wirtschafts Woche: [JULIAN HOSP UND DER INSTABILE STABLECOIN
 Geld verbrennen beim „Krypto-Guru“](https://www.wiwo.de/my/finanzen/geldanlage/julian-hosp-und-der-instabile-stablecoin-geld-verbrennen-beim-krypto-guru/28603406.html?social=twitter&utm_medium=social&utm_source=Twitter&ticket=ST-695741-HHQfx23uBbtvXW0ZajSV-cas01.example.org#Echobox=1660808493)
 29. **Firefly Wallet**: Mobile Wallet [Soon Tweet](https://twitter.com/fireflywallet/status/1560287703802994688?s=20&t=VGveGM3YTdbBIoGm_D-l9A)
-30. **Shimmer Governement**: Das Ergebenis von 10 Wochen Governement Meetings im Discord: [
-The Shimmer Governance Framework (Phase 1 - Discussion)](https://govern.iota.org/t/the-shimmer-governance-framework-phase-1-discussion/1397); [5 Tweets von der IF](https://twitter.com/iota/status/1560642760037650437?s=20&t=uuaroU9c0vDcG484N9_Tzg)
+30. **Shimmer Governement**: Das Ergebenis von 10 Wochen Governement Meetings im Discord: [The Shimmer Governance Framework (Phase 1 - Discussion)](https://govern.iota.org/t/the-shimmer-governance-framework-phase-1-discussion/1397); [5 Tweets von der IF](https://twitter.com/iota/status/1560642760037650437?s=20&t=uuaroU9c0vDcG484N9_Tzg); Youtube: [18/08/22 IOTA Community Governance meeting - Shimmer governance framework](https://www.youtube.com/watch?v=0l3mq_BbsU8);
+31. **Firefly Mobile**: Es gab ein Update vom Firefly Mobile Beta Wallet: [Tweet](https://twitter.com/Vrom14286662/status/1560876287866052608?s=20&t=uuaroU9c0vDcG484N9_Tzg)
+32. **Firefly Desktop**: Es gab ein Update vom Desktop Beta Wallet:  [Firefly Desktop 2.0.0 Beta 3](https://github.com/iotaledger/firefly/releases/tag/desktop-2.0.0-beta-3)
+33. **IOTA Dev Update**: [Protocol group - Weeks 32-33, 2022 #46](https://github.com/iotaledger/research-updates/discussions/46)
+34. **IOTA Audio**: MoonVault Event auf Twitter Spaces: [IOTA Roundtable](https://twitter.com/i/spaces/1OdJrBDLlVOJX)
+35. **IOTA Youtube**: [Spec Weekly - Episode 15: IOTA and walt.id UNITE to create LOGIN WITH IOTA!!!](https://www.youtube.com/watch?v=noyfCWGm4QM)
+36. **IOTA Youtube**: [IOTA | Gold Standard Partnership, Energy Solution, Rant & Chart Update](https://www.youtube.com/watch?v=4rHNtVURAQ0)
+37. **IOTA Youtube**: [IOTA - Der grosse IOTA GUIDE Teil 2](https://www.youtube.com/watch?v=MBFkNzj2Gv4)
+38. **IOTA Audio**: Iotabee war auf Twitter Spaces: [Have an amazing showcase of IotaBEE](https://twitter.com/Blockcastcc/status/1559629501897707521?s=20&t=aTSlVYo9pfKVWZfPENKWxA)
 
 
 
