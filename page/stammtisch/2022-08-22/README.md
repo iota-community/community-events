@@ -43,6 +43,9 @@ Geld verbrennen beim „Krypto-Guru“](https://www.wiwo.de/my/finanzen/geldanla
 38. **IOTA Audio**: Iotabee war auf Twitter Spaces: [Have an amazing showcase of IotaBEE](https://twitter.com/Blockcastcc/status/1559629501897707521?s=20&t=aTSlVYo9pfKVWZfPENKWxA)
 39. **IOTA Ökosystem**: Das NFT Projekt Labralords [veröffentlicht](https://twitter.com/labralords/status/1559463283136118787?s=20&t=aTSlVYo9pfKVWZfPENKWxA) ihre Pre Alpha Webseite wo man IOTA NFT Projekte sortieren kann: [https://labralords.com/collections](https://labralords.com/collections)
 40. **IOTA Audio**: Aufzeichnung vom Mat Yarger Event: [Carbon and Innovation - Bridging Legacy and Web 3](https://twitter.com/i/spaces/1ypKdEZwWBgGW)
+41. **IOTA Artikel**: Schpoopel [tweetet](https://twitter.com/Schpoopel/status/1560631626656145409?s=20&t=TgZ6C9AN5qERgqBeZrHX2A) von seinem neuen Artikel: [Touchpoint Topic: Fundraising](https://medium.com/@Schpoopel/touchpoint-topic-fundraising-cf3ea06303ee); Navin [schreibt](https://twitter.com/navinram999/status/1560939054149115906?s=20&t=TgZ6C9AN5qERgqBeZrHX2A) dazu "Excellent article chief"
+42. **IOTA NFT**: MiriumLabs mit einem interessanten NFT/real world Kunstporjekt. Sie haben ihre Affen schon verkauft, bevor die Leute wussten was sie bekommen: [Tweet 1](https://twitter.com/MirumLabs/status/1549335668681474048?s=20&t=TgZ6C9AN5qERgqBeZrHX2A); [Tweet 2 mit Design A](https://twitter.com/Wolf08151/status/1560930469763497984?s=20&t=TgZ6C9AN5qERgqBeZrHX2A); [Tweet 3 mit Design B](https://twitter.com/MirumLabs/status/1560953042765242369?s=20&t=TgZ6C9AN5qERgqBeZrHX2A)
+43. 
 
 
 
