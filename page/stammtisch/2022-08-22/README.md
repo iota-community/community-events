@@ -41,6 +41,8 @@ Geld verbrennen beim „Krypto-Guru“](https://www.wiwo.de/my/finanzen/geldanla
 36. **IOTA Youtube**: [IOTA | Gold Standard Partnership, Energy Solution, Rant & Chart Update](https://www.youtube.com/watch?v=4rHNtVURAQ0)
 37. **IOTA Youtube**: [IOTA - Der grosse IOTA GUIDE Teil 2](https://www.youtube.com/watch?v=MBFkNzj2Gv4)
 38. **IOTA Audio**: Iotabee war auf Twitter Spaces: [Have an amazing showcase of IotaBEE](https://twitter.com/Blockcastcc/status/1559629501897707521?s=20&t=aTSlVYo9pfKVWZfPENKWxA)
+39. **IOTA Ökosystem**: Das NFT Projekt Labralords [veröffentlicht](https://twitter.com/labralords/status/1559463283136118787?s=20&t=aTSlVYo9pfKVWZfPENKWxA) ihre Pre Alpha Webseite wo man IOTA NFT Projekte sortieren kann: [https://labralords.com/collections](https://labralords.com/collections)
+40. 
 
 
 
