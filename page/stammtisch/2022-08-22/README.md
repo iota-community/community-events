@@ -51,7 +51,9 @@ Geld verbrennen beim „Krypto-Guru“](https://www.wiwo.de/my/finanzen/geldanla
 46. **IOTA Ökosystem**: $Soon Token Holder bekommen Mario BAE Token auf [wen.soonaverse.com](wen.soonaverse.com) geairdroped, mit denen sie sich wiederum $Soon Token verdienen können: [Tweet](https://twitter.com/DaveRL6/status/1561618967176785921?s=20&t=tGSSYZDCbnjn5b_AZD9t3Q)
 47. **IOTA Youtube**: Video von CommonSenseCrypto: [https://www.youtube.com/watch?v=kuyqtU8GJps)](https://www.youtube.com/watch?v=kuyqtU8GJps
 48. **IOTA Youtube**: Video von IOTApoet: [Shimmer Launch Talk SUMMARISED in under 7 minutes](https://www.youtube.com/watch?v=0nzS_UHBHE4)
-49. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/212-wochenr%C3%BCckblick-vom-14-bis-20-august-2022/)
+49. **IOTA Governement**: [Phylo freut sich](https://twitter.com/PhyloIota/status/1561268951673618433?s=20&t=GeHsZ9yKNvvRK7c7COQvcA) über erste Beteiligungen aus der Community zum Governemten Framework. Diskussionswürdig findet DLTtimes z.B. die einfache 50% Mehrheit die nötig ist. Er fordert 70% bei kritischen Entscheidungen. [Tweet](https://twitter.com/TheDLTimes/status/1561658989028544513?s=20&t=fgiCJrkFJNcgJNJXQOSaSQ)
+50. **IOTA Jobs**: MoonMoron und IOTAread suchen "writer": [Tweet vom Content Creator DAO](https://twitter.com/IOTAcontentDAO/status/1561637065955033089?s=20&t=GeHsZ9yKNvvRK7c7COQvcA)
+51. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/212-wochenr%C3%BCckblick-vom-14-bis-20-august-2022/)
 
 
 
