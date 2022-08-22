@@ -55,6 +55,7 @@ Geld verbrennen beim „Krypto-Guru“](https://www.wiwo.de/my/finanzen/geldanla
 50. **IOTA Jobs**: MoonMoron und IOTAread suchen "writer": [Tweet vom Content Creator DAO](https://twitter.com/IOTAcontentDAO/status/1561637065955033089?s=20&t=GeHsZ9yKNvvRK7c7COQvcA)
 51. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/212-wochenr%C3%BCckblick-vom-14-bis-20-august-2022/)
 52. **IOTA Ökosystem**: Die [IF kommentiert](https://twitter.com/iota/status/1561701940869926913?s=20&t=SwgScrBM4ZVwzEIyD9ybCQ) den [Tweet von Bivreost](https://twitter.com/bivreost/status/1561675331957923841?s=20&t=GqALzv6x4DWHliATWj9DtQ) weil die so ein cooles Video gemacht haben und auch Dom [reagiert](https://twitter.com/DomSchiener/status/1561698770135433217?s=20&t=GqALzv6x4DWHliATWj9DtQ) beeindruckt. 
+53. **IOTA Adoption**: Die EDAG Group fährt mit ihrem Roboter schon in der "Arena of IoT" im Deutsche Bank Park rum: [Tweet](https://twitter.com/EDAGGroup/status/1561734987166138370?s=20&t=IiDBoh20VSg0gSgzjL5iyg)
 
 
 
