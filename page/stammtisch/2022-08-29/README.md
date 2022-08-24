@@ -6,5 +6,6 @@
 4. **IOTA Adoption**: Artikel mit IOTA inside: [UK launches scheme to cut import tariffs from developing countries]https://en.mercopress.com/2022/08/17/uk-launches-scheme-to-cut-import-tariffs-from-developing-countries); Sie sprechen von einer Effizienzsteigerung der Lieferwege von 3 Wochen auf 3 Tage, dank TLIP und IOTA
 5. **IOTA Ökosystem**: Es gab einen $Soon Token Airdrop für alle NFT/NF3 Holder: [Tweet](https://twitter.com/soon_labs/status/1561941304560558082?s=20&t=8HmV7mKHTmWrXe1gfcqAww); Und der nächste Airdrop wurde angekündigt: [Tweet](https://twitter.com/soon_labs/status/1562001776638771202?s=20&t=W7BLKk1szZVDtCVP9YrNPw)
 6. **IOTA Ökosystem**: swarm wurde upgedated und ist jetzt "open source" und unter MIT-Lizenz: [Tweet](https://twitter.com/tanglebay/status/1561725374547038208?s=20&t=W7BLKk1szZVDtCVP9YrNPw)
-7. 
+7. **Crypto News**: Mastercard will mit Binnace zusammen Crypto Payments in über 90M stores einführen (Zuerst in Argentinien): [Tweet](https://twitter.com/BTC_Archive/status/1562190278429392898?s=20&t=t-at2TkeAYRX4AuZUf2XnA)
+
 
