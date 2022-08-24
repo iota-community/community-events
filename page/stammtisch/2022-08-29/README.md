@@ -15,6 +15,8 @@
 13. **Twitter Drama**: Hans Moog vs. Hashgraph: [Tweet 1 (1.Runde)](https://twitter.com/hus_qy/status/1562128730297929728?s=20&t=t-at2TkeAYRX4AuZUf2XnA); [Tweet 2 (2.Runde)](https://twitter.com/hus_qy/status/1562143010246230020?s=20&t=t-at2TkeAYRX4AuZUf2XnA)
 14. **IOTA Ökosystem**: IOTA Penguin mit [20 Tweets](https://twitter.com/iota_penguin/status/1562065850693206018?s=20&t=t-at2TkeAYRX4AuZUf2XnA) über das [im.city](https://im.city/] Projekt
 15. **IOTA Research**: Neues Paper: [Robustness of the Tangle 2.0 Consensus](https://arxiv.org/abs/2208.08254); Antonio Nardella [retweetet](https://twitter.com/antonionardella/status/1562386897653190656?s=20&t=t-at2TkeAYRX4AuZUf2XnA) das und freut sich über "1sec confirmation times... not affected by conflicts"; Auch Dom Schiener [tweetet](https://twitter.com/DomSchiener/status/1562390061190201344?s=20&t=vSzktLPQ2sxTCdXA8dYyAQ) über das Paper
-16. 
+16. **IOTA DeFi**: Assembly [tweetet](https://twitter.com/assembly_net/status/1562424502528528387?s=20&t=EKk6vySu9m5p_VjNFoM5WA) darüber, dass [DeFire](https://twitter.com/DeFIRE_org) dem Touchpoint Ökosystem beigetreten ist und verlinken den Blogpost von Touchpoint: [DeFIRE Joins the Touchpoint Open Builders Program](https://blog.assembly.sc/defire-joins-touchpoint/)
+
+
 
 
