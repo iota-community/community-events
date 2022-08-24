@@ -13,5 +13,8 @@
 11. **IOTA Ökosystem**: SoonLabs mit [5 Tweets](https://twitter.com/soon_labs/status/1562321778998779905?s=20&t=t-at2TkeAYRX4AuZUf2XnA) darüber, wie sie ihr Projekt dezentralisieren und von FAB 5 zu FAB 500 wachsen wollen. Sie verlinken nochmal den Artikel "[Introducing the Fab 5…HUNDRED (updated)](https://soonlabs.medium.com/fab-5-hundred-57e013347497)" und verweisen auf ihre [DAO Github Page](https://github.com/soonaverse/soonaverse-dao)
 12. **IOTA Dev**: Für die Shimmer Nodes gibt es bereits ein Grafana Dashboard, dass dlt.green bereits in seinen Installer automatisch mit eingebaut hat: [Tweet mit Bild vom Dashboard](https://twitter.com/dlt_green/status/1562300154039918592?s=20&t=t-at2TkeAYRX4AuZUf2XnA)
 13. **Twitter Drama**: Hans Moog vs. Hashgraph: [Tweet 1 (1.Runde)](https://twitter.com/hus_qy/status/1562128730297929728?s=20&t=t-at2TkeAYRX4AuZUf2XnA); [Tweet 2 (2.Runde)](https://twitter.com/hus_qy/status/1562143010246230020?s=20&t=t-at2TkeAYRX4AuZUf2XnA)
+14. **IOTA Ökosystem**: IOTA Penguin mit [20 Tweets](https://twitter.com/iota_penguin/status/1562065850693206018?s=20&t=t-at2TkeAYRX4AuZUf2XnA) über das [im.city](https://im.city/] Projekt
+15. **IOTA Research**: Neues Paper: [Robustness of the Tangle 2.0 Consensus](https://arxiv.org/abs/2208.08254); Antonio Nardella [retweetet](https://twitter.com/antonionardella/status/1562386897653190656?s=20&t=t-at2TkeAYRX4AuZUf2XnA) das und freut sich über "1sec confirmation times... not affected by conflicts"; Auch Dom Schiener [tweetet](https://twitter.com/DomSchiener/status/1562390061190201344?s=20&t=vSzktLPQ2sxTCdXA8dYyAQ) über das Paper
+16. 
 
 
