@@ -19,6 +19,12 @@
 17. **IOTA Adoption**: Wir sind schon wieder auf Platz 8 bei CoinmarketCap in der Rubrik "Community Growth": [Tweet](https://twitter.com/CoinMarketCap/status/1562358110102364160?s=20&t=jhjt48nxMYMF-05x5EDnrg)
 18. **IOTA Art**: Die Banksybot Affen werden ausgeliefert. Die Qualität ist scheinbar sehr gut: [Tweet mit Bildern](https://twitter.com/Wolf08151/status/1562398166674276352?s=20&t=UEaiQPrf1J-lrlOyDtKsjw); Es kam diese Woche auch das 3. Design heraus was ziemlich heftig ist (Titel: Fashion Victims) : [Tweet](https://twitter.com/MirumLabs/status/1562457223183208449?s=20&t=Fz6IFperY2gNjeriw-9AMw) ... der Affe trägt die Haut des Menschen...
 19. **Shimmer Ökosystem**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1562469810076008448?s=20&t=UEaiQPrf1J-lrlOyDtKsjw) nochmal darüber, dass sich die Projekte [hier](https://airtable.com/shrxJgMxXDQr2Dseo) registrieren sollen, damit sie [Shimmer Ecosystem Webseite](https://shimmer.network/ecosystem)
+20. **IOTA Artikel**: LD Capital [tweetet](https://twitter.com/LD_Capital/status/1562345726344331265?s=20&t=UEaiQPrf1J-lrlOyDtKsjw) über ihren Artikel: [Public blockchains’ iterative directions — from general-purpose to specific scenarios oriented. Which featured public blockchains will stand out in the next bull round?
+](https://ld-capital.medium.com/public-blockchains-iterative-directions-from-general-purpose-to-specific-scenarios-oriented-7c6b59577c8f)
+21. **IOTA Ökosystem**: Der Code von ShimmerSea wurde eingefroren ([Tweet](https://twitter.com/ShimmerSeaDEX/status/1562545489643311104?s=20&t=UEaiQPrf1J-lrlOyDtKsjw)), weil HashEx ein Audit macht ([Tweet](https://twitter.com/HashExOfficial/status/1562519882696011777?s=20&t=UEaiQPrf1J-lrlOyDtKsjw))
+22. **IOTA Youtube**: [Probably Nothing - Firefly Update - Gold Stadard - LD Capital - IOTA News Deutsch](https://www.youtube.com/watch?v=PvN1LTzb5Lg)
+23. **IOTA tanglemath**: Hans Moog war am 24.8. recht aktiv in #tanglemath. Hier zwei Screenshots von seinen Aussagen: [Tweet 1](https://twitter.com/Vrom14286662/status/1562665850012069896?s=20&t=NanzbAIkzwsGiOfAstz0Ww); [Tweet 2](https://twitter.com/Vrom14286662/status/1562675778176765952?s=20&t=NanzbAIkzwsGiOfAstz0Ww)
+24. 
 
 
 
