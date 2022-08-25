@@ -24,8 +24,7 @@
 21. **IOTA Ökosystem**: Der Code von ShimmerSea wurde eingefroren ([Tweet](https://twitter.com/ShimmerSeaDEX/status/1562545489643311104?s=20&t=UEaiQPrf1J-lrlOyDtKsjw)), weil HashEx ein Audit macht ([Tweet](https://twitter.com/HashExOfficial/status/1562519882696011777?s=20&t=UEaiQPrf1J-lrlOyDtKsjw))
 22. **IOTA Youtube**: [Probably Nothing - Firefly Update - Gold Stadard - LD Capital - IOTA News Deutsch](https://www.youtube.com/watch?v=PvN1LTzb5Lg)
 23. **IOTA Aussagen in #tanglemath**: Hans Moog war am 24.8. recht aktiv in #tanglemath. Hier zwei Screenshots von seinen Aussagen: [Tweet 1](https://twitter.com/Vrom14286662/status/1562665850012069896?s=20&t=NanzbAIkzwsGiOfAstz0Ww); [Tweet 2](https://twitter.com/Vrom14286662/status/1562675778176765952?s=20&t=NanzbAIkzwsGiOfAstz0Ww)
-24. 
-
-
-
+24. **IOTA Audio**: Im TangleGang Sprachchat war [Dar Mythos IOTA](https://twitter.com/DarkMythosIOTA) zu Gast: [Tweet](https://twitter.com/GangTangleTalk/status/1562713553303351297?s=20&t=Kd3Igfza6tsGDiJa7XbCAQ)
+25. **IOTA Announcement**: Die [IF tweetet](https://twitter.com/iota/status/1562832511524573186?s=20&t=fs3S7_NDr_-KgmGY2Cvqkg) darüber, dass Susse ein smart meter bauen wollen: [SUSEE: A Smart Meter for the Mass Market
+Ecosystem - Developing Affordable, Secure, and Reliable Smart Meters](https://blog.iota.org/susee-a-smart-meter-for-the-mass-market/)
 
