@@ -27,4 +27,6 @@
 24. **IOTA Audio**: Im TangleGang Sprachchat war [Dar Mythos IOTA](https://twitter.com/DarkMythosIOTA) zu Gast: [Tweet](https://twitter.com/GangTangleTalk/status/1562713553303351297?s=20&t=Kd3Igfza6tsGDiJa7XbCAQ)
 25. **IOTA Announcement**: Die [IF tweetet](https://twitter.com/iota/status/1562832511524573186?s=20&t=fs3S7_NDr_-KgmGY2Cvqkg) darüber, dass Susse ein smart meter bauen wollen: [SUSEE: A Smart Meter for the Mass Market
 Ecosystem - Developing Affordable, Secure, and Reliable Smart Meters](https://blog.iota.org/susee-a-smart-meter-for-the-mass-market/)
+26. **IOTA Dev**: Es gab ein [Firefly Desktop 2.0.0 Beta 5](https://github.com/iotaledger/firefly/releases/tag/desktop-2.0.0-beta-5) update
+27. 
 
