@@ -23,7 +23,7 @@
 ](https://ld-capital.medium.com/public-blockchains-iterative-directions-from-general-purpose-to-specific-scenarios-oriented-7c6b59577c8f)
 21. **IOTA Ökosystem**: Der Code von ShimmerSea wurde eingefroren ([Tweet](https://twitter.com/ShimmerSeaDEX/status/1562545489643311104?s=20&t=UEaiQPrf1J-lrlOyDtKsjw)), weil HashEx ein Audit macht ([Tweet](https://twitter.com/HashExOfficial/status/1562519882696011777?s=20&t=UEaiQPrf1J-lrlOyDtKsjw))
 22. **IOTA Youtube**: [Probably Nothing - Firefly Update - Gold Stadard - LD Capital - IOTA News Deutsch](https://www.youtube.com/watch?v=PvN1LTzb5Lg)
-23. **IOTA tanglemath**: Hans Moog war am 24.8. recht aktiv in #tanglemath. Hier zwei Screenshots von seinen Aussagen: [Tweet 1](https://twitter.com/Vrom14286662/status/1562665850012069896?s=20&t=NanzbAIkzwsGiOfAstz0Ww); [Tweet 2](https://twitter.com/Vrom14286662/status/1562675778176765952?s=20&t=NanzbAIkzwsGiOfAstz0Ww)
+23. **IOTA Aussagen in #tanglemath**: Hans Moog war am 24.8. recht aktiv in #tanglemath. Hier zwei Screenshots von seinen Aussagen: [Tweet 1](https://twitter.com/Vrom14286662/status/1562665850012069896?s=20&t=NanzbAIkzwsGiOfAstz0Ww); [Tweet 2](https://twitter.com/Vrom14286662/status/1562675778176765952?s=20&t=NanzbAIkzwsGiOfAstz0Ww)
 24. 
 
 
