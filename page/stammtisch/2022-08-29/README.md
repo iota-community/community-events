@@ -24,7 +24,7 @@
 21. **IOTA Ökosystem**: Der Code von ShimmerSea wurde eingefroren ([Tweet](https://twitter.com/ShimmerSeaDEX/status/1562545489643311104?s=20&t=UEaiQPrf1J-lrlOyDtKsjw)), weil HashEx ein Audit macht ([Tweet](https://twitter.com/HashExOfficial/status/1562519882696011777?s=20&t=UEaiQPrf1J-lrlOyDtKsjw))
 22. **IOTA Youtube**: [Probably Nothing - Firefly Update - Gold Stadard - LD Capital - IOTA News Deutsch](https://www.youtube.com/watch?v=PvN1LTzb5Lg)
 23. **IOTA Aussagen in #tanglemath**: Hans Moog war am 24.8. recht aktiv in #tanglemath. Hier zwei Screenshots von seinen Aussagen: [Tweet 1](https://twitter.com/Vrom14286662/status/1562665850012069896?s=20&t=NanzbAIkzwsGiOfAstz0Ww); [Tweet 2](https://twitter.com/Vrom14286662/status/1562675778176765952?s=20&t=NanzbAIkzwsGiOfAstz0Ww)
-24. **IOTA Audio**: Im TangleGang Sprachchat war [Dark Mythos IOTA](https://twitter.com/DarkMythosIOTA) zu Gast: [Tweet](https://twitter.com/GangTangleTalk/status/1562713553303351297?s=20&t=Kd3Igfza6tsGDiJa7XbCAQ); Die Aufzeichnung davon findet man im Telegram D/A/CH NEWS Channel
+24. **IOTA Audio**: Im TangleGang Sprachchat war [Dark Mythos IOTA](https://twitter.com/DarkMythosIOTA) zu Gast: [Tweet](https://twitter.com/GangTangleTalk/status/1562713553303351297?s=20&t=Kd3Igfza6tsGDiJa7XbCAQ); Die Aufzeichnung davon findet man in dem Telegram D/A/CH NEWS Channel oder im [Tweet von Borsty](https://twitter.com/GangTangleTalk/status/1563098980858609666?s=20&t=yX8eoy6SaS3SBj291RYLoQ)
 25. **IOTA Announcement**: Die [IF tweetet](https://twitter.com/iota/status/1562832511524573186?s=20&t=fs3S7_NDr_-KgmGY2Cvqkg) darüber, dass Susse ein Smart Meter bauen wollen: [SUSEE: A Smart Meter for the Mass Market
 Ecosystem - Developing Affordable, Secure, and Reliable Smart Meters](https://blog.iota.org/susee-a-smart-meter-for-the-mass-market/)
 26. **IOTA Dev**: Es gab ein [Firefly Desktop 2.0.0 Beta 5](https://github.com/iotaledger/firefly/releases/tag/desktop-2.0.0-beta-5) update
@@ -34,4 +34,8 @@ Ecosystem - Developing Affordable, Secure, and Reliable Smart Meters](https://bl
 30. **IOTA Youtube**: [25/08/22 IOTA Community Governance meeting](https://www.youtube.com/watch?v=k1wVokfIiNI)
 31. **IOTA Artikel**: Auf Nature.com wird ein Science Paper über IOTA veröffentlicht: [A blockchain based lightweight peer-to-peer energy trading framework for secured high throughput micro-transactions](https://www.nature.com/articles/s41598-022-18603-z)
 32. **IOTA Youtube**: Dig.it [tweetet](https://twitter.com/digitproject/status/1563157810312986624?s=20&t=dqVG0WTZ3pfXe_SntrRa9g) über die Videoaufzeichnung mit Michele Nati: [TiiQu Talks | Sustainable Infrastructure](https://www.youtube.com/watch?v=F7cLVKgZihc)
+33. **Crypto News**: Hetzner erlaubt wohl keine Ethereum Staking Nodes (Betrifft 17% aller Eth Nodes): [Tweet](https://twitter.com/koeppelmann/status/1563146729314467840?s=20&t=yX8eoy6SaS3SBj291RYLoQ)
+34. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1562786882378813440?s=20&t=yX8eoy6SaS3SBj291RYLoQ) von dem Artikel: [UK launches scheme to cut import tariffs from developing countries](https://en.mercopress.com/2022/08/17/uk-launches-scheme-to-cut-import-tariffs-from-developing-countries)
+35. **IOTA Stammtisch**: Der nächste IOTA Stammtisch in München ist am Fr. den 2.September: [Event auf Meetup.de](https://www.meetup.com/de-DE/iota-muc/events/rjcftsydcmbdb/)
+36. 
 
