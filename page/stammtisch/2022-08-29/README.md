@@ -39,3 +39,4 @@ Ecosystem - Developing Affordable, Secure, and Reliable Smart Meters](https://bl
 35. **IOTA Stammtisch**: Der nächste IOTA Stammtisch in München ist am Fr. den 2.September: [Event auf Meetup.de](https://www.meetup.com/de-DE/iota-muc/events/rjcftsydcmbdb/)
 36. **IOTA NFTs**: Die Labralords haben ihre Webseite Upgedated und die angezeigten NFT Sammlungen erweitert: [Tweet](https://twitter.com/labralords/status/1562857130050617345?s=20&t=McImTRmEZBHtgpCGfcM9HQ); Webseite: [labralords.com/collections](https://labralords.com/collections)
 37. **IOTA Promote**: Phylo mit [zwei Tweets](https://twitter.com/PhyloIota/status/1563142152011792390?s=20&t=x7r__sIP36kCTfpTV1lU5g) zum Thema interoperable smart contracts auf IOTA
+38. **IOTA Artikel**: von Cryptoticker.io - [Was ist die mittel- und langfristige Zukunft vom IOTA Coin?](https://cryptoticker.io/de/zukunft-vom-iota-coin/)
