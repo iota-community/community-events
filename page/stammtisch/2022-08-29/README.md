@@ -37,5 +37,5 @@ Ecosystem - Developing Affordable, Secure, and Reliable Smart Meters](https://bl
 33. **Crypto News**: Hetzner erlaubt wohl keine Ethereum Staking Nodes (Betrifft 17% aller Eth Nodes): [Tweet](https://twitter.com/koeppelmann/status/1563146729314467840?s=20&t=yX8eoy6SaS3SBj291RYLoQ)
 34. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1562786882378813440?s=20&t=yX8eoy6SaS3SBj291RYLoQ) von dem Artikel: [UK launches scheme to cut import tariffs from developing countries](https://en.mercopress.com/2022/08/17/uk-launches-scheme-to-cut-import-tariffs-from-developing-countries)
 35. **IOTA Stammtisch**: Der nächste IOTA Stammtisch in München ist am Fr. den 2.September: [Event auf Meetup.de](https://www.meetup.com/de-DE/iota-muc/events/rjcftsydcmbdb/)
-36. 
-
+36. **IOTA NFTs**: Die Labralords haben ihre Webseite Upgedated und die angezeigten NFT Sammlungen erweitert: [Tweet](https://twitter.com/labralords/status/1562857130050617345?s=20&t=McImTRmEZBHtgpCGfcM9HQ); Webseite: [labralords.com/collections](https://labralords.com/collections)
+37. **IOTA Promote**: Phylo mit [zwei Tweets](https://twitter.com/PhyloIota/status/1563142152011792390?s=20&t=x7r__sIP36kCTfpTV1lU5g) zum Thema interoperable smart contracts auf IOTA
