@@ -40,3 +40,10 @@ Ecosystem - Developing Affordable, Secure, and Reliable Smart Meters](https://bl
 36. **IOTA NFTs**: Die Labralords haben ihre Webseite Upgedated und die angezeigten NFT Sammlungen erweitert: [Tweet](https://twitter.com/labralords/status/1562857130050617345?s=20&t=McImTRmEZBHtgpCGfcM9HQ); Webseite: [labralords.com/collections](https://labralords.com/collections)
 37. **IOTA Promote**: Phylo mit [zwei Tweets](https://twitter.com/PhyloIota/status/1563142152011792390?s=20&t=x7r__sIP36kCTfpTV1lU5g) zum Thema interoperable smart contracts auf IOTA
 38. **IOTA Artikel**: von Cryptoticker.io - [Was ist die mittel- und langfristige Zukunft vom IOTA Coin?](https://cryptoticker.io/de/zukunft-vom-iota-coin/)
+39. **IOTA Defi**: TangleSwap mit [mehreren Tweets](https://twitter.com/TangleSwapE/status/1563206318831255556?s=20&t=McImTRmEZBHtgpCGfcM9HQ) darüber was sie alles ab September releasen wollen: Token Swaps and Liquidity Pools (Lite and Pro Version); NFT Stations mit NFT-Staking; Asteroid Farms, Staking Fields, and Investment Hubs; Es wird Step by Step guides geben wie man die dApps nutzt
+40. **Shimmer Dev**: Das [Tangle Improvement Proposal TIP-#32](https://github.com/iotaledger/tips/blob/main/tips/TIP-0032/tip-0032.md) wurde gemerged. Darin sind viele Parameter jetzt fixiert worden wie der maximala Genesis Supply von 1.813.620.509.061.365 Glow ~ 1.813.620.509 SMR
+41. **Shimmer Governements**: Shimmer fasst in [7 Tweets](https://twitter.com/shimmernet/status/1563194572271849474?s=20&t=McImTRmEZBHtgpCGfcM9HQ) das [Shimmer Governance Framework](https://govern.iota.org/t/the-shimmer-governance-framework-phase-1-discussion/1397) zusammen
+42: **IOTA Audio**: Neue Folge vom Moonaco Podcast: [Tweet](https://twitter.com/MoonacoPodcast/status/1563178509966553095?s=20&t=McImTRmEZBHtgpCGfcM9HQ); Spotify Link: [Episode 36. AuditONe & CoinRisk](https://open.spotify.com/episode/3aa0ehtFTyiCJjznn4Fi7T?si=aABlhFcxQbuQyWvts_fF5A&nd=1)
+
+40. 
+
