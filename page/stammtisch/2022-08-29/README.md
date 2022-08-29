@@ -58,6 +58,6 @@ Ecosystem - Developing Affordable, Secure, and Reliable Smart Meters](https://bl
 And of course, #binance was a target. We are not even a competitor. [https://t.co/R5wBtriEBY](https://t.co/R5wBtriEBY)"; Die [Antwort](https://twitter.com/el33th4xor/status/1564006450531377156?t=p4fbQ8JPXE7DY6W9NPz83A&s=19) von Emin Gün Sirer lässt nicht lange auf sich warten. Hans Moog [kommentiert](https://twitter.com/hus_qy/status/1564032861287620610?t=R6OFaN57ImR4p3jYoTCHoA&s=19) das sarkastisch.
 54. **IOTA News**: TangleBay [kündigt an](https://twitter.com/tanglebay/status/1563976145275584512?t=DL3jI3oM5OX7qxONtBT7gQ&s=19), dass der ICNS Service gestoppt wird
 55. **IOTA Wochenrückblick**: Hier der IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/214-wochenr%C3%BCckblick-vom-21-bis-27-august-2022/)
-56. **Crypto Metaverse**: Das Meatverse Konzert Event von Eminem und Snoop Dog kam wohl nicht so gut an: [Tweet](https://twitter.com/udiWertheimer/status/1564101509750476800?t=tMKYjOy1f6pbQvjz_0togw&s=08); Eminem Fans waren auch angepisst: [Tweet](https://twitter.com/zaingaziani/status/1564070252182491137?t=xS8On6aCTdkPIdl4TBF1Yw&s=19)
+56. **Crypto Metaverse**: Das Meatverse Konzert Event von Eminem und Snoop Dog kam wohl nicht so gut an: [Tweet](https://twitter.com/udiWertheimer/status/1564101509750476800?t=tMKYjOy1f6pbQvjz_0togw&s=08); Die Eminem Fans waren auch ziemlich angepisst: [Tweet](https://twitter.com/zaingaziani/status/1564070252182491137?t=xS8On6aCTdkPIdl4TBF1Yw&s=19)
 
 
