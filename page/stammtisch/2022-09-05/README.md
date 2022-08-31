@@ -10,4 +10,5 @@
 8. **IOTA Dev**: Dev Update: [GoShimmer - Sprint Planning Weeks 34-35, 2022 #49](https://github.com/iotaledger/research-updates/discussions/49)
 9. **IOTA Firefly**: Es gab ein Update vom Firefly Mobile Beta 0.1.0 (25): [Tweet](https://twitter.com/fireflywallet/status/1564929825403437056?s=20&t=zcHEW0MPr9HxxLvVTjyr9Q)
 10. **Assembly Ökosystem**: TanglePay ist jetzt im Assembly Touchpoint Program. Es gab dazu sogar ein Blogpost: [TanglePay Joins the Touchpoint Open Builders Program - Providing an All-In-One Wallet for the IOTA Ecosystem](https://blog.assembly.sc/tanglepay-joins-touchpoint/)
-11. 
+11. **IOTA Stammtisch**: Am Freitag ist/war der IOTA Stammtisch in München: [Event](https://www.meetup.com/de-DE/iota-muc/events/rjcftsydcmbdb/)
+
