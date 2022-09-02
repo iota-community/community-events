@@ -25,5 +25,7 @@
 23. **IOTA Dev**: Schon wieder ein GoShimmer Update v0.9.5 - 2022-08-31
 24. **IOTA Audio**: Neuer Moonaco Podcast: [Tweet](https://twitter.com/MoonacoPodcast/status/1565281978013851649); Spotify [LInk](https://open.spotify.com/episode/7E7vRxP58ScYilqdk6k2Jz?si=AR65aAfpQ7KmC9thQSZTfw&nd=1)
 25. **IF Blogpost**: Die IF [verkündet](https://twitter.com/iota/status/1565323603092070400?s=20&t=uzYM0pTJozZgnCzP1sFWjA) ihren neuen Blogpost [Successful Conclusion of ENSURESEC Part 1 Industrial IoT - Sep 1, 2022 - Bringing DLT to E-Commerce Security](https://blog.iota.org/conclusion-of-ensuresec/); Michele Nati hat das auch [kommentiert](https://twitter.com/michelenati/status/1565335180407349248?s=20&t=q0GB6mmlKRll0Zr_gdbufw)
-26. 
+26. **IOTA Ökosystem**: TimsonLabs [verkündet](https://twitter.com/TimsonLabs/status/1565449201223434240?s=20&t=h7jvCNKHNAurux2iw7Cnvg), dass ihre [Webseite](https://fiobex.timsonlabs.com/) upgedated wurde
+27. **IOTA Youtube**: [ENSURESEC - Secure e-commerce age verification: the role of SSI](https://www.youtube.com/watch?v=a8GMEr9F8g0)
+28. 
 
