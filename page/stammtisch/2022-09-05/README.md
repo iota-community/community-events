@@ -44,7 +44,9 @@
 40. **Shimmer Hype**: Der Content Creator DAO will ein Shimmer Tweetstorm machen sobald das Netzwerk live ist: [Tweet](https://twitter.com/IOTAcontentDAO/status/1565692902465945600?s=20&t=H5O393Kpj5rFsS2GNXgZeg)
 41. **IOTA Youtube**: von Common Sense Crypto [IOTA MIOTA *MUST WATCH*💥THE WORLD WILL BE SHOCKED💥IOTA MIOTA NEWS TODAY](https://www.youtube.com/watch?v=gRDBb2THTmA)
 42. **IOTA Ökosystem**: SoonLabs ist offenbar fertig mit dem großen Shimmer Dev Update ("Token Exchange, NFT Marketplace, mobile, and so much MOAR"). Sie warten wohl nur noch auf das Shimmer Netzwerk: [Tweet](https://twitter.com/soon_labs/status/1566008164004163584?s=20&t=t1xo9lP5vMhGxy6dVy8xrQ)
-43. **IOTA Stammtisch**: Vor dem biggest IOTA Stammtisch (am Samstag) wird es auch gleichzeitig noch ein Meetup und ein Workshop in Berlin geben... Details dazu soon!
+43. **IOTA Stammtisch**: Vor dem biggest IOTA Stammtisch (am Samstag 8.10.) wird es auch gleichzeitig noch ein Meetup (am Freitag 7.10.) und ein Workshop (8.-9.10) in Berlin geben... Details dazu soon!
+44. **IOTA Ökosystem**: SoonLabs [tweetet](https://twitter.com/soon_labs/status/1566295649376645122?s=20&t=Lpy77JsCHTf1tz0Npg50yQ) noch mehr Details zu ihrem [Shimmer Update (Release 0.13)](https://docs.google.com/document/d/1-_QXc3AdhpunpyVWmR4AiEHM-_WYLFPHRb59vyIb1hc/edit#)
+
 
 
 
