@@ -52,7 +52,4 @@
 48. **Crypto News**: Cardano Upgrade am 22.September: [Cardano Upgrade (Sept 22) Will Be BIGGEST in HISTORY! (ADA vs Ethereum) + What to expect in 2023!](https://www.youtube.com/watch?v=Xk0d6njEecA)
 49. **Crypto News**: Ethereum Merge soon (ein ca. einer Woche): [wenmerge.com/](https://wenmerge.com/)
 50. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/216-wochenr%C3%BCckblick-vom-28-august-bis-3-september-2022/); engl.: [weekly review](https://www.iota-talk.com/index.php?article/217-week-in-review-august-28th-to-september-3th-2022/)
-51. 
-
-
 
