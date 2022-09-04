@@ -46,9 +46,9 @@
 42. **IOTA Ökosystem**: SoonLabs ist offenbar fertig mit dem großen Shimmer Dev Update ("Token Exchange, NFT Marketplace, mobile, and so much MOAR"). Sie warten wohl nur noch auf das Shimmer Netzwerk: [Tweet](https://twitter.com/soon_labs/status/1566008164004163584?s=20&t=t1xo9lP5vMhGxy6dVy8xrQ)
 43. **IOTA Stammtisch**: Vor dem biggest IOTA Stammtisch (am Samstag 8.10.) wird es auch gleichzeitig noch ein Meetup (am Freitag 7.10.) und ein Workshop (8.-9.10) in Berlin geben... Details dazu soon!
 44. **IOTA Ökosystem**: SoonLabs [tweetet](https://twitter.com/soon_labs/status/1566295649376645122?s=20&t=Lpy77JsCHTf1tz0Npg50yQ) noch mehr Details zu ihrem [Shimmer Update (Release 0.13)](https://docs.google.com/document/d/1-_QXc3AdhpunpyVWmR4AiEHM-_WYLFPHRb59vyIb1hc/edit#)
-
-
-
+45. **IOTA engl. Stammtisch**: Phylo will ein Twitter Spaces Event etablieren im Sinne des IOTA Stammtisches: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1566316490680418305?s=20&t=Lpy77JsCHTf1tz0Npg50yQ)
+46. **Crypto News**: Wir haben trotz Bärenmarkt [Altcoinseason (Altcoinseason Index bei 96%)](https://www.blockchaincenter.net/altcoin-season-index/)
+47. 
 
 
 
