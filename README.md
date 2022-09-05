@@ -2,6 +2,7 @@
 
 Global
 - [Virtual Stammtisch (einfachIOTA Discord)](./page/stammtisch)
+- [Community Twitter spaces (us time zone)](./page/twitter-spaces)
 
 ## Germany
 - [Real Life Stammtisch](./page/stammtisch)
