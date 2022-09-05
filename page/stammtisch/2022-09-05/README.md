@@ -54,5 +54,6 @@
 50. **IOTA Youtube**: Probably Nothing auf deutsch: [Shimmer Release - Tangle 2.0 - ENSURESEC -SUSEE- IOTA News Deutsch](https://www.youtube.com/watch?v=9gSMz7s3To8) und auf english: [Shimmer Release - Tangle 2.0 - ENSURESEC -SUSEE- IOTA News English](https://www.youtube.com/watch?v=9gSMz7s3To8)
 51. **Crypto News**: Cardano Upgrade am 22.September: [Cardano Upgrade (Sept 22) Will Be BIGGEST in HISTORY! (ADA vs Ethereum) + What to expect in 2023!](https://www.youtube.com/watch?v=Xk0d6njEecA)
 52. **Crypto News**: Ethereum Merge soon (ca. in einer Woche): [wenmerge.com/](https://wenmerge.com/)
-53. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/216-wochenr%C3%BCckblick-vom-28-august-bis-3-september-2022/); engl.: [weekly review](https://www.iota-talk.com/index.php?article/217-week-in-review-august-28th-to-september-3th-2022/)
+53. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/216-wochenr%C3%BCckblick-vom-28-august-bis-3-september-2022/); engl.: [weekly review](https://www.iota-talk.com/index.php?article/217-week-in-review-august-28th-to-september-3th-2022/))
+54: **IOTA Governements**: Wir sollen voten: [Tweet](https://twitter.com/PhyloIota/status/1566744590983786496?s=20&t=WlSvl6x0CZzhe91YEMvCnA) und zwar hier: [guiding-principles-shimmer-grant-committee](https://govern.iota.org/t/discussion-guiding-principles-shimmer-grant-committee/1403)
 
