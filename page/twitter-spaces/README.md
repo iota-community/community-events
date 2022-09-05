@@ -1,4 +1,4 @@
-## Virtual Stammtisch (International)
+## Virtual Stammtisch (International) Twitter space
 
 **Where?** [Phylo's Twitter account](https://twitter.com/PhyloIota) will host the Twitter spaces, and every Twitter user can join them.
 
