@@ -6,5 +6,8 @@
 4. **IOTA Bridge**: Dom Schiener [tweetet](https://twitter.com/DomSchiener/status/1567085808653328385?s=20&t=GadandAhCC_0qZrTN6pLlg) nochmal über [Multichain.org](https://multichain.org/) die an einer IOTA Bridge arbeiten
 5. **IOTA Youtube**: [01/09/22 IOTA Community Governance - Shimmer Grant committee meeting](https://www.youtube.com/watch?v=nFkWEkdSblU)
 6. **IOTA Artikel**: IOTARead [veröffentlicht](https://twitter.com/iotaread/status/1567190395045519360?s=20&t=4mXDRwL3EiwFUWx9XVl__g) den Artikel: [Brokerage Houses Turn Bullish on IOTA](https://iotaread.com/119-brokerage-houses-turn-bullish-on-iota)
+7. **IOTA DeFi**: IOTAbee vergibt early access zu ihrer Webseite. Swap von USDT auf der Binance Chain in IOTA sind möglich: [Tweet von vrom](https://twitter.com/Vrom14286662/status/1567480704908279808?s=20&t=U5P8nDscMYqY5-azWd8wtg); Der erste Liquidity Pool USDT/IOTA ist schon bei $10K: [Tweet](https://twitter.com/iotabee/status/1567461763037405184?s=20&t=U5P8nDscMYqY5-azWd8wtg)
+
+
 
 
