@@ -10,6 +10,9 @@
 8. **IOTA Ökosystem**: Es gab einen 6. SoonToken Airdrop im Soonaverse für SoonLabs NFT Holder: [Tweet](https://twitter.com/soon_labs/status/1567401967953256448)
 9. **Assembly Ökosystem**: Assembly [tweetet](https://twitter.com/assembly_net/status/1567497931388747776?s=20&t=CJ1t3aUsNYyxoKGuP89FcQ) über [Potluck Labs Joins the Touchpoint Open Builders Program](https://blog.assembly.sc/potluck-labs-joins-touchpoint/) 
 10. **Firefly Mobile Wallet**: Firefly [tweetet](https://twitter.com/fireflywallet/status/1567500373941690368?s=20&t=oncsUXPsEl47ELVls5gAPw) darüber, dass das Handy Wallet für Android und IOS gelaunched wurde und verlinkt den Medium Artikel: [Firefly Launches on iOS and Android](https://medium.com/@fireflywallet/firefly-launches-on-ios-and-android-bd0b1858ae5f) 
+11. **Shimmer Tutorial**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1567815011807928323?s=20&t=LnnKYaVf04oDEZLNaJKaog) über das [Tutorial - Wallet Lib in JS - Create an Account](https://www.youtube.com/watch?v=c00q66ePEwI)
+12. **IOTA Audio**: Dom Schiener war beim Moonaco Podcast: [Tweet](https://twitter.com/MoonacoPodcast/status/1567815555582726146?s=20&t=8DL-aG0qQHnxsjqayJbXgw); [Spotify](https://open.spotify.com/episode/7uwYGq1DVQGlgdu8eTauqI)
+13. 
 
 
 
