@@ -9,7 +9,7 @@
 7. **IOTA DeFi**: IOTAbee [kündigt an](https://twitter.com/iotabee/status/1567439645176397824?s=20&t=dPDfDwJN6FyYu7l7SygK3A) dass early-bees bereits Zugriff auf ihre Webseite haben. Dort kann man bereits USDT (auf der Binance Chain) in IOTA swapen: [Tweet von vrom](https://twitter.com/Vrom14286662/status/1567480704908279808?s=20&t=U5P8nDscMYqY5-azWd8wtg); Der erste Liquidity Pool USDT/IOTA ist schon bei $10K: [Tweet](https://twitter.com/iotabee/status/1567461763037405184?s=20&t=U5P8nDscMYqY5-azWd8wtg); [Tweet mit Screenshot](https://twitter.com/AlvaroMuro4/status/1567475985284567040?s=20&t=ZWya_RIknDNT6LhelzaO2A)
 8. **IOTA Ökosystem**: Es gab einen 6. SoonToken Airdrop im Soonaverse für SoonLabs NFT Holder: [Tweet](https://twitter.com/soon_labs/status/1567401967953256448)
 9. **Assembly Ökosystem**: Assembly [tweetet](https://twitter.com/assembly_net/status/1567497931388747776?s=20&t=CJ1t3aUsNYyxoKGuP89FcQ) über [Potluck Labs Joins the Touchpoint Open Builders Program](https://blog.assembly.sc/potluck-labs-joins-touchpoint/) 
-10. **Firefly Mobile Wallet**: Firefly [tweetet](https://twitter.com/fireflywallet/status/1567500373941690368?s=20&t=oncsUXPsEl47ELVls5gAPw) darüber, dass das Handy Wallet für Android und IOS gelaunched wurde und verlinken den Medium Artikel: [Firefly Launches on iOS and Android](https://medium.com/@fireflywallet/firefly-launches-on-ios-and-android-bd0b1858ae5f) 
+10. **Firefly Mobile Wallet**: Firefly [tweetet](https://twitter.com/fireflywallet/status/1567500373941690368?s=20&t=oncsUXPsEl47ELVls5gAPw) darüber, dass das Handy Wallet für Android und IOS gelaunched wurde und verlinkt den Medium Artikel: [Firefly Launches on iOS and Android](https://medium.com/@fireflywallet/firefly-launches-on-ios-and-android-bd0b1858ae5f) 
 
 
 
