@@ -13,6 +13,10 @@
 11. **Shimmer Tutorial**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1567815011807928323?s=20&t=LnnKYaVf04oDEZLNaJKaog) über das [Tutorial - Wallet Lib in JS - Create an Account](https://www.youtube.com/watch?v=c00q66ePEwI)
 12. **IOTA Audio**: Dom Schiener war beim Moonaco Podcast: [Tweet](https://twitter.com/MoonacoPodcast/status/1567815555582726146?s=20&t=8DL-aG0qQHnxsjqayJbXgw); [Spotify](https://open.spotify.com/episode/7uwYGq1DVQGlgdu8eTauqI)
 13. **IOTA Stammtisch**: Es gab den ersten [IOTA Community "The Welttisch"](https://twitter.com/i/spaces/1rmGPkLNzwYKN) auf Twitter Spaces
+14. **IOTA Youtube Learn**: [Shimmer DeFi Education session by Bankless consulting - 1.) Wallets and interaction with DeFi](https://www.youtube.com/watch?v=wSOFHdOBFTc&feature=youtu.be)
+15. **Shimmer Firefly**: [Firefly Desktop 2.0.0 Beta 6](https://github.com/iotaledger/firefly/releases/tag/desktop-2.0.0-beta-6) release mit Ledgerintegration
+16. **IOTA Audio**: [DigiMine](https://twitter.com/DigiMine_) war im Sprachchat der TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1567882683421806601); Hier deren [Homepage](https://linktr.ee/Digimine)
+17. **Shimmer Youtube Learn**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1567815011807928323?s=20&t=6nm7NUJE12nPrJ14YUXOtg) über das Tutorial von der IF [Tutorial - Wallet Lib in JS - Create an Account](https://www.youtube.com/watch?v=c00q66ePEwI)
 
 
 
