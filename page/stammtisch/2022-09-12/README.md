@@ -12,7 +12,8 @@
 10. **Firefly Mobile Wallet**: Firefly [tweetet](https://twitter.com/fireflywallet/status/1567500373941690368?s=20&t=oncsUXPsEl47ELVls5gAPw) darüber, dass das Handy Wallet für Android und IOS gelaunched wurde und verlinkt den Medium Artikel: [Firefly Launches on iOS and Android](https://medium.com/@fireflywallet/firefly-launches-on-ios-and-android-bd0b1858ae5f) 
 11. **Shimmer Tutorial**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1567815011807928323?s=20&t=LnnKYaVf04oDEZLNaJKaog) über das [Tutorial - Wallet Lib in JS - Create an Account](https://www.youtube.com/watch?v=c00q66ePEwI)
 12. **IOTA Audio**: Dom Schiener war beim Moonaco Podcast: [Tweet](https://twitter.com/MoonacoPodcast/status/1567815555582726146?s=20&t=8DL-aG0qQHnxsjqayJbXgw); [Spotify](https://open.spotify.com/episode/7uwYGq1DVQGlgdu8eTauqI)
-13. 
+13. **IOTA Stammtisch**: Es gab den ersten [IOTA Community "The Welttisch"](https://twitter.com/i/spaces/1rmGPkLNzwYKN) auf Twitter Spaces
+
 
 
 
