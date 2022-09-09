@@ -17,6 +17,8 @@
 15. **Shimmer Firefly**: [Firefly Desktop 2.0.0 Beta 6](https://github.com/iotaledger/firefly/releases/tag/desktop-2.0.0-beta-6) release mit Ledgerintegration
 16. **IOTA Audio**: [DigiMine](https://twitter.com/DigiMine_) war im Sprachchat der TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1567882683421806601); Hier deren [Homepage](https://linktr.ee/Digimine)
 17. **Shimmer Youtube Learn**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1567815011807928323?s=20&t=6nm7NUJE12nPrJ14YUXOtg) über das Tutorial von der IF [Tutorial - Wallet Lib in JS - Create an Account](https://www.youtube.com/watch?v=c00q66ePEwI)
+18. **Smart Contracts auf Shimmer**: Shimmer [verkündet](https://twitter.com/shimmernet/status/1568242094841516034?s=20&t=Az5rfoPBDFIwBSdEXNybDA), dass IOTA Smart Contracts im Shimmer Beta Netzwerk released wurden und verlinkt den Blogpost: [IOTA Smart Contracts Release 0.3.0 - Tech Update - Sep 9, 2022 - Stardust Ready, Extended EVM, and Much More](https://blog.shimmer.network/iota-smart-contracts-release-030/); Siehe auch GitHub: [v0.3.0 - First Stardust compatible ISC release](https://github.com/iotaledger/wasp/releases/tag/v0.3.0)
+
 
 
 
