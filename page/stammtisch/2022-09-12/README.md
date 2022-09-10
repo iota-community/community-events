@@ -24,6 +24,9 @@
 22. **IOTA DeFi**: DeFire [tweetet](https://twitter.com/DeFIRE_org/status/1568328117411872768?s=20&t=arTV4eHATM8Q9fAXzT-imA) darüber, dass sie "offering Containers on @shimmernet and enabling cross-chain exposure with our multi-chain deposits feature"
 23. **IOTA Dev**: ProofOfGitHub IOTA vorne dabei: [Tweet](https://twitter.com/ProofofGitHub/status/1568268035517206529?s=20&t=arTV4eHATM8Q9fAXzT-imA)
 24. **IOTA Adoption**: Erste Projekte wechseln zu IOTA: [Tweet](https://twitter.com/neumis4/status/1568137065195266050?s=20&t=arTV4eHATM8Q9fAXzT-imA)
+25. **Shimmer Discord**: Shimmer mit [5 Tweets](https://twitter.com/shimmernet/status/1568521414218481664?s=20&t=arTV4eHATM8Q9fAXzT-imA) zum Thema Discord Update
+26. **IOTA Youtube**: [Probably Nothing - IOTA News 1550 Abonnenten iotabee Review - SWAP und Pool Funktion - IOTA News](https://www.youtube.com/watch?v=NKYOCuCg8sg)
+27. 
 
 
 
