@@ -28,6 +28,7 @@
 26. **IOTA Youtube**: [Probably Nothing - IOTA News 1550 Abonnenten iotabee Review - SWAP und Pool Funktion - IOTA News](https://www.youtube.com/watch?v=NKYOCuCg8sg)
 27. **Crypto News**: [MicroStrategy Files to Sell Up to $500M of Stock to Fund Bitcoin Purchases
 ](https://www.coindesk.com/business/2022/09/09/microstrategy-files-for-stock-offering-of-up-to-500m-in-part-to-buy-additional-bitcoin/)
+28. **Crypto News**: Ethereum Merge soon
 
 
 
