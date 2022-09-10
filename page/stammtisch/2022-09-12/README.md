@@ -26,7 +26,9 @@
 24. **IOTA Adoption**: Erste Projekte wechseln zu IOTA: [Tweet](https://twitter.com/neumis4/status/1568137065195266050?s=20&t=arTV4eHATM8Q9fAXzT-imA)
 25. **Shimmer Discord**: Shimmer mit [5 Tweets](https://twitter.com/shimmernet/status/1568521414218481664?s=20&t=arTV4eHATM8Q9fAXzT-imA) zum Thema Discord Update
 26. **IOTA Youtube**: [Probably Nothing - IOTA News 1550 Abonnenten iotabee Review - SWAP und Pool Funktion - IOTA News](https://www.youtube.com/watch?v=NKYOCuCg8sg)
-27. 
+27. **Crypto News**: [MicroStrategy Files to Sell Up to $500M of Stock to Fund Bitcoin Purchases
+](https://www.coindesk.com/business/2022/09/09/microstrategy-files-for-stock-offering-of-up-to-500m-in-part-to-buy-additional-bitcoin/)
+
 
 
 
