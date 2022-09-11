@@ -12,7 +12,7 @@
 10. **Firefly Mobile Wallet**: Firefly [tweetet](https://twitter.com/fireflywallet/status/1567500373941690368?s=20&t=oncsUXPsEl47ELVls5gAPw) darüber, dass das Handy Wallet für Android und IOS gelaunched wurde und verlinkt den Medium Artikel: [Firefly Launches on iOS and Android](https://medium.com/@fireflywallet/firefly-launches-on-ios-and-android-bd0b1858ae5f) 
 11. **IOTA Hype**: Kumar von der IF trifft sich zum Mittagessen mit jemandem von [StarkWare](https://twitter.com/StarkWareLtd) der 120K Follower hat und schreibt dazu "Looking forward to incredible stuff ahead": [Tweet](https://twitter.com/kranirudha/status/1567802287145484289?s=20&t=Az5rfoPBDFIwBSdEXNybDA); Und noch ein Treffen: [Tweet](https://twitter.com/kranirudha/status/1568514250565648384?s=20&t=arTV4eHATM8Q9fAXzT-imA)
 12. **Shimmer Tutorial**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1567815011807928323?s=20&t=LnnKYaVf04oDEZLNaJKaog) über das [Tutorial - Wallet Lib in JS - Create an Account](https://www.youtube.com/watch?v=c00q66ePEwI)
-13. **IOTA Audio**: Dom Schiener war beim Moonaco Podcast: [Tweet](https://twitter.com/MoonacoPodcast/status/1567815555582726146?s=20&t=8DL-aG0qQHnxsjqayJbXgw); [Spotify](https://open.spotify.com/episode/7uwYGq1DVQGlgdu8eTauqI); Auch die [IF tweetet](https://twitter.com/iota/status/1568177399161831425?s=20&t=Az5rfoPBDFIwBSdEXNybDA) darüber
+13. **IOTA Audio**: Dom Schiener war beim Moonaco Podcast: [Tweet](https://twitter.com/MoonacoPodcast/status/1567815555582726146?s=20&t=8DL-aG0qQHnxsjqayJbXgw); [Spotify](https://open.spotify.com/episode/7uwYGq1DVQGlgdu8eTauqI); Auch die [IF tweetet](https://twitter.com/iota/status/1568177399161831425?s=20&t=Az5rfoPBDFIwBSdEXNybDA) darüber; Interessant fand ich den "Random Number Generator" den Dom anspricht und die Tatsache, dass NFTs auch direkt im Tangle gespeichert werden können (zwei USPs für IOTA)
 14. **IOTA Stammtisch**: Es gab den ersten [IOTA Community "The Welttisch"](https://twitter.com/i/spaces/1rmGPkLNzwYKN) auf Twitter Spaces
 15. **IOTA Youtube Learn**: [Shimmer DeFi Education session by Bankless consulting - 1.) Wallets and interaction with DeFi](https://www.youtube.com/watch?v=wSOFHdOBFTc&feature=youtu.be)
 16. **Shimmer Firefly**: [Firefly Desktop 2.0.0 Beta 6](https://github.com/iotaledger/firefly/releases/tag/desktop-2.0.0-beta-6) release mit Ledgerintegration; Firefly [tweetet](https://twitter.com/fireflywallet/status/1568199239880130560?s=20&t=Az5rfoPBDFIwBSdEXNybDA) auch dazu
@@ -28,7 +28,8 @@
 26. **IOTA Youtube**: [Probably Nothing - IOTA News 1550 Abonnenten iotabee Review - SWAP und Pool Funktion - IOTA News](https://www.youtube.com/watch?v=NKYOCuCg8sg)
 27. **Crypto News**: [MicroStrategy Files to Sell Up to $500M of Stock to Fund Bitcoin Purchases
 ](https://www.coindesk.com/business/2022/09/09/microstrategy-files-for-stock-offering-of-up-to-500m-in-part-to-buy-additional-bitcoin/); [https://www.blocktrainer.de/micostragy-bitcoin-500millionen/](https://www.blocktrainer.de/micostragy-bitcoin-500millionen/)
-28. **Crypto News**: Ethereum Merge soon
+28. **Crypto News**: Ethereum Merge very soon: [https://wenmerge.com/](https://wenmerge.com/)
+
 
 
 
