@@ -35,6 +35,9 @@
 31. **Shimmer Hype**: Dom Schiener [fasst die Vorteile von Shimmer zusammen](https://twitter.com/DomSchiener/status/1568568076890693632?s=20&t=T8ofGArekrVR2bnlvA1P7g) und schreibt: "The sky is the limit for Shimmer"
 32. **Assembly Hype**: [Arben Kane](https://www.arbenkane.com/), der zusammen mit Dom Co-Founder/Eigentümer?!? der Smart Contracts AG ist, meldet sich (das erste Mal?) zum Thema Assembly mit dem [Tweet](https://twitter.com/Arben/status/1568647999030726658?s=20&t=T8ofGArekrVR2bnlvA1P7g): "...Shimmer is just the warm up stage"
 33. **IOTA Wochenrückblick**: [IOTA_Talk](https://twitter.com/Iota_Talk_) mit dem [Wochenrückblick](https://www.iota-talk.com/index.php?article/218-wochenr%C3%BCckblick-vom-4-bis-10-september-2022/) bzw. [Weekly Review](https://www.iota-talk.com/index.php?article/219-week-in-review-from-4th-to-10nd-september-2022/)
+34. **Twitter Hype**: Hans Moog ist mal wieder on fire bei der SUI vs. Aptos Diskussion: [Tweet 1/20](https://twitter.com/hus_qy/status/1569154646320599043?s=20&t=FAVt6Kg-QRTfPWejj2O7mw). Es fallen Sätze wie: "Our framework is vastly more powerful than theirs and I really mean it when I say that it's going to be the best DLT you can possibly ever build "; "IOTA is going to be the "last big thing"..."; "We really don't have to hide ourselves - in fact I think that IOTA is the only project in the entire space who can still compete and still has a narrative - everybody else can just go home (including ETH)."; "..it also means that we can agree on a good candidate for our L1 SC VM as MOVE is a really interesting candidate (and a much better alternative than i.e. Cardanos Plutus)."; "I have never worked with a team of more capable engineers that I am working with right now."
+35. **Twitter Hype**: IOTABots schreibt "If you knew what I know.. 🚀 #IOTA #SHIMMER"...: [Tweet](https://twitter.com/iotabots/status/1569005858511626241?s=20&t=FAVt6Kg-QRTfPWejj2O7mw)
+
 
 
 
