@@ -45,6 +45,8 @@
 41. **IOTA 2.0**: Hans Moog spricht von einem "MAJOR release in the coming weeks": [Tweet](https://twitter.com/hus_qy/status/1569155969493467139?s=20&t=FAVt6Kg-QRTfPWejj2O7mw)
 42. **IOTA Youtube**: Probably Nothing mit Spezial-Video zu IOTAbee: [iotabee Review - SWAP und Pool Funktion - IOTA News](https://www.youtube.com/watch?v=NKYOCuCg8sg)
 43. **IOTA Video**: Die [IF tweetet](https://twitter.com/iota/status/1569294760724119552?s=20&t=DPHWS07jBCNF-oZakwba5Q) über ein INATBA Event vom 27. Juni das man sich jetzt anschauen kann: [Sustainably Designed Blockchains and Incentivising Climate Action](https://inatba.org/news/sustainably-designed-blockchains-and-incentivising-climate-action/)
+44. **IOTA Promote**: Firefly hat ne neue Webseite: [firefly.iota.org](https://firefly.iota.org/)
+45. **IOTA Promote**: Dom [frägt die Community](https://twitter.com/DomSchiener/status/1569354579048906758?s=20&t=CSlYS5lG_Qxod2G9AXvl1A) wie man am Besten Werbung machen könnte
 
 
 
