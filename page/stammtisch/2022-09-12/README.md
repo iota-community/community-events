@@ -44,6 +44,7 @@
 40. **IOTA Diskussionen**: Was meint Dom mit "dificult decisions"? [Tweet mit Screenshot aus Discord](https://twitter.com/durerus/status/1569219169098268678?s=20&t=FAVt6Kg-QRTfPWejj2O7mw)
 41. **IOTA 2.0**: Hans Moog spricht von einem "MAJOR release in the coming weeks": [Tweet](https://twitter.com/hus_qy/status/1569155969493467139?s=20&t=FAVt6Kg-QRTfPWejj2O7mw)
 42. **IOTA Youtube**: Probably Nothing mit Spezial-Video zu IOTAbee: [iotabee Review - SWAP und Pool Funktion - IOTA News](https://www.youtube.com/watch?v=NKYOCuCg8sg)
+43. **IOTA Video**: Die [IF tweetet](https://twitter.com/iota/status/1569294760724119552?s=20&t=DPHWS07jBCNF-oZakwba5Q) über ein INATBA Event vom 27. Juni das man sich jetzt anschauen kann: [Sustainably Designed Blockchains and Incentivising Climate Action](https://inatba.org/news/sustainably-designed-blockchains-and-incentivising-climate-action/)
 
 
 
