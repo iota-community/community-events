@@ -43,6 +43,8 @@
 39. **Shimmer Promote**: Shimmer [promoted](https://twitter.com/shimmernet/status/1569219267190562821?s=20&t=FAVt6Kg-QRTfPWejj2O7mw) das Touchpoint Open Builders Program
 40. **IOTA Diskussionen**: Was meint Dom mit "dificult decisions"? [Tweet mit Screenshot aus Discord](https://twitter.com/durerus/status/1569219169098268678?s=20&t=FAVt6Kg-QRTfPWejj2O7mw)
 41. **IOTA 2.0**: Hans Moog spricht von einem "MAJOR release in the coming weeks": [Tweet](https://twitter.com/hus_qy/status/1569155969493467139?s=20&t=FAVt6Kg-QRTfPWejj2O7mw)
+42. **IOTA Youtube**: Probably Nothing mit Spezial-Video zu IOTAbee: [iotabee Review - SWAP und Pool Funktion - IOTA News](https://www.youtube.com/watch?v=NKYOCuCg8sg)
+
 
 
 
