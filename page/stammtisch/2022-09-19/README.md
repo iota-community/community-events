@@ -5,7 +5,7 @@
 3. **Twitter Hype**: Weil es so schön war... Hier nochmal die Aussagen von Hans Moog einfacher zu lesen: [Aptos and Sui... when two fight the third rejoices](https://threadreaderapp.com/thread/1569154646320599043.html)
 4. **Shimmer Ökosystem**: Moonvault hat weitere Projekte von der [Shimmer Ecosystem Webseite](https://shimmer.network/ecosystem) kurz beschrieben: [Tweet](https://twitter.com/Moon_Vault_News/status/1569568983850041345?s=20&t=ws6Zr_mGtzl_ryLi-WcNpw)
 5. **IOTA Audio**: Es gab ein AMA mit den GAT Network auf [Twitter Spaces](https://twitter.com/gat_network/status/1568161823165145088?s=20&t=ws6Zr_mGtzl_ryLi-WcNpw)
-6. **IOTA Audio**: Die Semko Brüder werden auch bei der TangleGang im Sprachchat ausgefragt werden
+6. **IOTA Audio**: Die Semko Brüder werden auch bei der TangleGang im Sprachchat ausgefragt werden: [Tweet](https://twitter.com/GangTangleTalk/status/1569341307927281664?s=20&t=ws6Zr_mGtzl_ryLi-WcNpw)
 7. **IOTA Event**: Regine wird beim Borderless Event in Berlin teilnehmen: [Tweet](https://twitter.com/EventBorderless/status/1569340377462673410?s=20&t=ws6Zr_mGtzl_ryLi-WcNpw)
 8. **Crypto News**: Ethereum Merge
 9. 
