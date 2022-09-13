@@ -8,5 +8,7 @@
 6. **IOTA Audio**: Die Semko Brüder werden auch bei der TangleGang im Sprachchat ausgefragt werden: [Tweet](https://twitter.com/GangTangleTalk/status/1569341307927281664?s=20&t=ws6Zr_mGtzl_ryLi-WcNpw)
 7. **IOTA Event**: Regine wird beim Borderless Event in Berlin teilnehmen: [Tweet](https://twitter.com/EventBorderless/status/1569340377462673410?s=20&t=ws6Zr_mGtzl_ryLi-WcNpw)
 8. **Crypto News**: Ethereum Merge
-9. 
+9. **IOTA Dev**: HORNET-2.0.0-beta.8 ist live im Shimmer Beta Testnetz: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1569666360636051456?s=20&t=WRswbnc7Hz52SwGihPYguQ)
+10. **IOTA Artikel**: Crypto News Flash: [IOTA: Tangle ecosystem association will lead to big success](https://www.crypto-news-flash.com/iota-tangle-ecosystem-association-will-lead-to-big-success/)
+11. **IOTA Meetup**: Aus dem größten Stammtisch ever ist jetzt ein Workshop/Meetup/Stammtisch Wochenende geworden: [4 Tweet von IOTAshops](https://twitter.com/iotashop/status/1569626991397158918?s=20&t=pY0iXQguCijbh_UbE6TO6g); [8 Tweets von servrox](https://twitter.com/servrox/status/1569626212099579904?s=20&t=pY0iXQguCijbh_UbE6TO6g); Hier die einzelnen Meetups: Freitag: [IOTA Experience Weekend - Berlin Meetup (Day 1)](https://www.meetup.com/de-DE/iota-meetup-workshop/events/288330324/); Samstag: [IOTA Experience Weekend - Smart Contract Workshop - Hands On (Day 2)](https://www.meetup.com/de-DE/iota-meetup-workshop/events/288268725/); Samstag Abend: [IOTA Experience Weekend - the biggest Stammtisch… ever](https://www.meetup.com/de-DE/iota-meetup-workshop/events/287621650/)
 
