@@ -12,6 +12,8 @@
 10. **IOTA Artikel**: Crypto News Flash: [IOTA: Tangle ecosystem association will lead to big success](https://www.crypto-news-flash.com/iota-tangle-ecosystem-association-will-lead-to-big-success/)
 11. **IOTA Meetup**: Aus dem größten Stammtisch ever ist jetzt ein Workshop/Meetup/Stammtisch Wochenende geworden: [4 Tweet von IOTAshops](https://twitter.com/iotashop/status/1569626991397158918?s=20&t=pY0iXQguCijbh_UbE6TO6g); [8 Tweets von servrox](https://twitter.com/servrox/status/1569626212099579904?s=20&t=pY0iXQguCijbh_UbE6TO6g); Hier die einzelnen Meetups: Freitag: [IOTA Experience Weekend - Berlin Meetup (Day 1)](https://www.meetup.com/de-DE/iota-meetup-workshop/events/288330324/); Samstag: [IOTA Experience Weekend - Smart Contract Workshop - Hands On (Day 2)](https://www.meetup.com/de-DE/iota-meetup-workshop/events/288268725/); Samstag Abend: [IOTA Experience Weekend - the biggest Stammtisch… ever](https://www.meetup.com/de-DE/iota-meetup-workshop/events/287621650/); Die Räulichkeiten werden von Porsche Digital (keine IOTA Partnerschaft!) gestellt: [Tweet](https://twitter.com/servrox/status/1569626225345286144?s=20&t=ws6Zr_mGtzl_ryLi-WcNpw)
 12. **IOTA Ökosystem**: Es gibt einen neuen Account "[TangleUnit](https://twitter.com/TangleUnit)" die dem IOTA Ökosystem helfen will: "gateway to build your #IOTA web 3.0 project and help you succeed. You need Smart Contracts, Web3 login, NFT, pitch deck, marketing, we deliver"
+13. **Shimmer DeFi Learn**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1569717553420816387?s=20&t=PWy5lNzMD2eySU2ubNqQvw) über die "Session 2 of #DeFi Education by @banklessconsult" das am Donnerstag um 5PM CEST im [Shimmer Discord](https://discord.shimmer.network) stattfindet/stattfand 
+
 
 
 
