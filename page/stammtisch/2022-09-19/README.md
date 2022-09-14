@@ -18,6 +18,9 @@
 16. **IOTA NFT**: Neuer BanksApe wird angeteasert: [Tweet](https://twitter.com/MirumLabs/status/1569940795586936834?s=20&t=PWy5lNzMD2eySU2ubNqQvw)
 17. **Twitter Hype**: Navin will mit [CryptoNova](https://twitter.com/CryptoGirlNova) gerne über IOTA reden: [Tweet](https://twitter.com/navinram999/status/1569659490676494337?s=20&t=oHPmg0XQFpbiITGC3t3a6g); Spec Weekly bietet sich an der Host zu sein: [Tweet](https://twitter.com/SpecWeekly/status/1569858281199534080?s=20&t=oHPmg0XQFpbiITGC3t3a6g)
 18. **IOTA Roadmap**: Die [IF tweetet](https://twitter.com/iota/status/1570032646276935681?s=20&t=zTgxH6cD7zqSd8TIUWPyGg) darüber, dass sie die [Roadmap](https://roadmap.iota.org/) upgedated haben
+19. **Shimmer Ökosystem**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1570036207400239104?s=20&t=F6Vxmr9z5J_Z9TPABh5AqQ) darüber, dass Junglerace dem Touchpoint Open Builders Program beitritt und verlinkt den Blogpost: [Jungle Race joins the Touchpoint Open Builders Program](https://blog.shimmer.network/junglerace-joins-touchpoint-openbuilders/)
+20. **IOTA Dev**: [DJKaiota](https://twitter.com/dj_kaiota/status/1570024740621787137?s=20&t=4MkzijzB5RaiKH6p-M5-4g) hat ein Video Tutorial erstellt: [How to INSTALL a SHIMMER NODE on a VIRTUAL MACHINE hosted on a MacBook Air with ARM architecture](https://www.youtube.com/watch?app=desktop&v=11RMYvnxa6s)
+21. **IOTA Ökosystem**: Der Content Creator DAO [tweetet](https://twitter.com/IOTAcontentDAO/status/1570005725845540864?s=20&t=4MkzijzB5RaiKH6p-M5-4g) darüber, dass sie jetzt "officially a non-profit LLC" sind
 
 
 
