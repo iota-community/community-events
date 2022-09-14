@@ -17,7 +17,8 @@
 15. **IOTA Youtube**: [13/09/22 - IOTA community governance call - Shimmer Treasury governance](https://www.youtube.com/watch?v=g8oUjEdQgis)
 16. **IOTA NFT**: Neuer BanksApe wird angeteasert: [Tweet](https://twitter.com/MirumLabs/status/1569940795586936834?s=20&t=PWy5lNzMD2eySU2ubNqQvw)
 17. **Twitter Hype**: Navin will mit [CryptoNova](https://twitter.com/CryptoGirlNova) gerne über IOTA reden: [Tweet](https://twitter.com/navinram999/status/1569659490676494337?s=20&t=oHPmg0XQFpbiITGC3t3a6g); Spec Weekly bietet sich an der Host zu sein: [Tweet](https://twitter.com/SpecWeekly/status/1569858281199534080?s=20&t=oHPmg0XQFpbiITGC3t3a6g)
-18. 
+18. **IOTA Roadmap**: Die [IF tweetet](https://twitter.com/iota/status/1570032646276935681?s=20&t=zTgxH6cD7zqSd8TIUWPyGg) darüber, dass sie die [Roadmap](https://roadmap.iota.org/) upgedated haben
+
 
 
 
