@@ -47,6 +47,8 @@
 43. **IOTA Video**: Die [IF tweetet](https://twitter.com/iota/status/1569294760724119552?s=20&t=DPHWS07jBCNF-oZakwba5Q) über ein INATBA Event vom 27. Juni das man sich jetzt anschauen kann: [Sustainably Designed Blockchains and Incentivising Climate Action](https://inatba.org/news/sustainably-designed-blockchains-and-incentivising-climate-action/)
 44. **IOTA Promote**: Firefly hat ne neue Webseite: [firefly.iota.org](https://firefly.iota.org/)
 45. **IOTA Promote**: Dom [frägt die Community](https://twitter.com/DomSchiener/status/1569354579048906758?s=20&t=CSlYS5lG_Qxod2G9AXvl1A) wie man am Besten Werbung machen könnte
+46. **Shimmer Release**: Es gab wohl ein Leak für den Shimmer Release: [Tweet](https://twitter.com/IOTA_crypto/status/1570407179282423808?s=20&t=6gGVW3o_aUhPiIh-rnCnQw)
+
 
 
 
