@@ -29,8 +29,7 @@
 27. **IOTA Event**: Regine war bei einem Event: [Tweet](https://twitter.com/Energine/status/1570391570964160517?s=20&t=6gGVW3o_aUhPiIh-rnCnQw)
 28. **Shimmer Ökosystem**: AuditOne [tweetet]((https://twitter.com/auditone_team/status/1570421609764093954?s=20&t=6gGVW3o_aUhPiIh-rnCnQw), dass sie jetzt auch auf [shimmer.network/ecosystem](https://shimmer.network/ecosystem) gelistet sind
 29. **Shimmer Ökosystem**: TanglePay [schwärmt](https://twitter.com/tanglepaycom/status/1570332221353099264?s=20&t=6gGVW3o_aUhPiIh-rnCnQw) davon, wie leicht TanglePay in Shimmer dApps integriert werden kann
-30. **Crypto News**: MicroStrategy hat schon wieder Bitcoins gekauft: [Tweet](https://twitter.com/StrongHedge/status/1570390863880261637?s=20&t=6gGVW3o_aUhPiIh-rnCnQw)
-31. 
+
 
 
 
