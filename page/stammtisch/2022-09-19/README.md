@@ -21,6 +21,9 @@
 19. **Shimmer Ökosystem**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1570036207400239104?s=20&t=F6Vxmr9z5J_Z9TPABh5AqQ) darüber, dass Junglerace dem Touchpoint Open Builders Program beitritt und verlinkt den Blogpost: [Jungle Race joins the Touchpoint Open Builders Program](https://blog.shimmer.network/junglerace-joins-touchpoint-openbuilders/)
 20. **IOTA Dev**: [DJKaiota](https://twitter.com/dj_kaiota/status/1570024740621787137?s=20&t=4MkzijzB5RaiKH6p-M5-4g) hat ein Video Tutorial erstellt: [How to INSTALL a SHIMMER NODE on a VIRTUAL MACHINE hosted on a MacBook Air with ARM architecture](https://www.youtube.com/watch?app=desktop&v=11RMYvnxa6s)
 21. **IOTA Ökosystem**: Der Content Creator DAO [tweetet](https://twitter.com/IOTAcontentDAO/status/1570005725845540864?s=20&t=4MkzijzB5RaiKH6p-M5-4g) darüber, dass sie jetzt "officially a non-profit LLC" sind
+22. **Shimmer Ökosystem**: Das Soonaverse [gratuliert](https://twitter.com/soon_labs/status/1570307953101774850?s=20&t=Y4CvOosw5k7hCX36niQofw) Ethereum zum Merge und Adam [teilt](https://twitter.com/adam_unchained/status/1570295201310347265?s=20&t=Y4CvOosw5k7hCX36niQofw) bereits ein Video in dem er ein NFT in das Shimmer Netzwerk merged
+23. **Shimmer Ökosystem**: [Cryptowelter tweetet](https://twitter.com/cryptowelter/status/1570124401969975296) eine neue Grafik zu den Projekten im Shimmer Ökosystem
+
 
 
 
