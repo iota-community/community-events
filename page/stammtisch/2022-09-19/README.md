@@ -25,7 +25,13 @@
 23. **Shimmer Ökosystem**: [Cryptowelter tweetet](https://twitter.com/cryptowelter/status/1570124401969975296) eine neue Grafik zu den Projekten im Shimmer Ökosystem
 24. **IOTA Artikel**: [Gold Standard announces proposals to allow creation of digital tokens for carbon credits](https://www.goldstandard.org/blog-item/gold-standard-announces-proposals-allow-creation-digital-tokens-carbon-credits) -> IOTA inside? Scheinbar schon denn [Mat Yarger retweetet](https://twitter.com/Mat_Yarger/status/1570085792151896066?s=20&t=Y4CvOosw5k7hCX36niQofw) das
 25. **IOTA Youtube**: [Is IOTA Centralised? FUDBusters: Episode 1](https://www.youtube.com/watch?v=KuXErfci8H8)
-26. 
+26. **Shimmer Release**: Es gab wohl ein Leak für den Shimmer Release: [Tweet](https://twitter.com/IOTA_crypto/status/1570407179282423808?s=20&t=6gGVW3o_aUhPiIh-rnCnQw); Kurz danach wurde es auch offiziell verkündet: [Shimmer Tweet](https://twitter.com/shimmernet/status/1570427229997338624?s=20&t=EPPXGLVFhIakN_07fMBNIw)
+27. **IOTA Event**: Regine war bei einem Event: [Tweet](https://twitter.com/Energine/status/1570391570964160517?s=20&t=6gGVW3o_aUhPiIh-rnCnQw)
+28. **Shimmer Ökosystem**: AuditOne [tweetet]((https://twitter.com/auditone_team/status/1570421609764093954?s=20&t=6gGVW3o_aUhPiIh-rnCnQw), dass sie jetzt auch auf [shimmer.network/ecosystem](https://shimmer.network/ecosystem) gelistet sind
+29. **Shimmer Ökosystem**: TanglePay [schwärmt](https://twitter.com/tanglepaycom/status/1570332221353099264?s=20&t=6gGVW3o_aUhPiIh-rnCnQw) davon, wie leicht TanglePay in Shimmer dApps integriert werden kann
+30. **Crypto News**: MicroStrategy hat schon wieder Bitcoins gekauft: [Tweet](https://twitter.com/StrongHedge/status/1570390863880261637?s=20&t=6gGVW3o_aUhPiIh-rnCnQw)
+31. 
+
 
 
 
