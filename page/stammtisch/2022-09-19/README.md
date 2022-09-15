@@ -24,7 +24,7 @@
 22. **Shimmer Ökosystem**: Das Soonaverse [gratuliert](https://twitter.com/soon_labs/status/1570307953101774850?s=20&t=Y4CvOosw5k7hCX36niQofw) Ethereum zum Merge und Adam [teilt](https://twitter.com/adam_unchained/status/1570295201310347265?s=20&t=Y4CvOosw5k7hCX36niQofw) bereits ein Video in dem er ein NFT in das Shimmer Netzwerk merged
 23. **Shimmer Ökosystem**: [Cryptowelter tweetet](https://twitter.com/cryptowelter/status/1570124401969975296) eine neue Grafik zu den Projekten im Shimmer Ökosystem
 24. **IOTA Artikel**: [Gold Standard announces proposals to allow creation of digital tokens for carbon credits](https://www.goldstandard.org/blog-item/gold-standard-announces-proposals-allow-creation-digital-tokens-carbon-credits) -> IOTA inside? Scheinbar schon denn [Mat Yarger retweetet](https://twitter.com/Mat_Yarger/status/1570085792151896066?s=20&t=Y4CvOosw5k7hCX36niQofw) das
-25. 
+25. **IOTA Youtube**: [Is IOTA Centralised? FUDBusters: Episode 1](https://www.youtube.com/watch?v=KuXErfci8H8)
 26. 
 
 
