@@ -7,7 +7,7 @@
 5. **IOTA Audio**: Es gab ein AMA mit den GAT Network auf [Twitter Spaces](https://twitter.com/gat_network/status/1568161823165145088?s=20&t=ws6Zr_mGtzl_ryLi-WcNpw)
 6. **IOTA Audio**: Die Semko Brüder werden auch bei der TangleGang im Sprachchat ausgefragt werden: [Tweet](https://twitter.com/GangTangleTalk/status/1569341307927281664?s=20&t=ws6Zr_mGtzl_ryLi-WcNpw)
 7. **IOTA Event**: Regine wird beim Borderless Event in Berlin teilnehmen: [Tweet](https://twitter.com/EventBorderless/status/1569340377462673410?s=20&t=ws6Zr_mGtzl_ryLi-WcNpw)
-8. **Crypto News**: Ethereum Merge: Dom hat [gratuliert](https://twitter.com/DomSchiener/status/1570305941559468033?s=20&t=Y4CvOosw5k7hCX36niQofw)
+8. **Crypto News**: Ethereum Merge: Dom hat [gratuliert](https://twitter.com/DomSchiener/status/1570305941559468033?s=20&t=Y4CvOosw5k7hCX36niQofw) und die [If auch](https://twitter.com/iota/status/1570313300877144065?s=20&t=evIA-gtLQhaOiPd6_tOdZw)
 9. **IOTA Dev**: HORNET-2.0.0-beta.8 ist live im Shimmer Beta Testnetz: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1569666360636051456?s=20&t=WRswbnc7Hz52SwGihPYguQ)
 10. **IOTA Artikel**: Crypto News Flash: [IOTA: Tangle ecosystem association will lead to big success](https://www.crypto-news-flash.com/iota-tangle-ecosystem-association-will-lead-to-big-success/)
 11. **IOTA Meetup**: Aus dem größten Stammtisch ever ist jetzt ein Workshop/Meetup/Stammtisch Wochenende geworden: [4 Tweet von IOTAshops](https://twitter.com/iotashop/status/1569626991397158918?s=20&t=pY0iXQguCijbh_UbE6TO6g); [8 Tweets von servrox](https://twitter.com/servrox/status/1569626212099579904?s=20&t=pY0iXQguCijbh_UbE6TO6g); Hier die einzelnen Meetups: Freitag: [IOTA Experience Weekend - Berlin Meetup (Day 1)](https://www.meetup.com/de-DE/iota-meetup-workshop/events/288330324/); Samstag: [IOTA Experience Weekend - Smart Contract Workshop - Hands On (Day 2)](https://www.meetup.com/de-DE/iota-meetup-workshop/events/288268725/); Samstag Abend: [IOTA Experience Weekend - the biggest Stammtisch… ever](https://www.meetup.com/de-DE/iota-meetup-workshop/events/287621650/); Die Räulichkeiten werden von Porsche Digital (keine IOTA Partnerschaft!) gestellt: [Tweet](https://twitter.com/servrox/status/1569626225345286144?s=20&t=ws6Zr_mGtzl_ryLi-WcNpw)
@@ -23,8 +23,9 @@
 21. **IOTA Ökosystem**: Der Content Creator DAO [tweetet](https://twitter.com/IOTAcontentDAO/status/1570005725845540864?s=20&t=4MkzijzB5RaiKH6p-M5-4g) darüber, dass sie jetzt "officially a non-profit LLC" sind
 22. **Shimmer Ökosystem**: Das Soonaverse [gratuliert](https://twitter.com/soon_labs/status/1570307953101774850?s=20&t=Y4CvOosw5k7hCX36niQofw) Ethereum zum Merge und Adam [teilt](https://twitter.com/adam_unchained/status/1570295201310347265?s=20&t=Y4CvOosw5k7hCX36niQofw) bereits ein Video in dem er ein NFT in das Shimmer Netzwerk merged
 23. **Shimmer Ökosystem**: [Cryptowelter tweetet](https://twitter.com/cryptowelter/status/1570124401969975296) eine neue Grafik zu den Projekten im Shimmer Ökosystem
-24. **IOTA Artikel**: [Gold Standard announces proposals to allow creation of digital tokens for carbon credits](https://www.goldstandard.org/blog-item/gold-standard-announces-proposals-allow-creation-digital-tokens-carbon-credits) -> IOTA inside?
+24. **IOTA Artikel**: [Gold Standard announces proposals to allow creation of digital tokens for carbon credits](https://www.goldstandard.org/blog-item/gold-standard-announces-proposals-allow-creation-digital-tokens-carbon-credits) -> IOTA inside? Scheinbar schon denn [Mat Yarger retweetet](https://twitter.com/Mat_Yarger/status/1570085792151896066?s=20&t=Y4CvOosw5k7hCX36niQofw) das
 25. 
+26. 
 
 
 
