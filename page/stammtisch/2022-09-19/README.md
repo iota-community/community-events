@@ -42,7 +42,8 @@
 40. **IOTA Stammtisch**: Das IOTA Stammtisch Wochenende in Berlin wird jetzt auch schon von der [IOTA Foundation angekündigt](https://twitter.com/iota/status/1570789610904588295?s=20&t=DKoguyJFoZxKkyAme42jog) mit "an entire weekend all about #IOTA w/ a meetup, workshops, Stammtisch and much more"; Übrigens: Wer ein Moron Shirt trägt kriegt Merch: [Tweet](https://twitter.com/iotamorons/status/1570801000101064710?s=20&t=DKoguyJFoZxKkyAme42jog)
 41. **Twitter Hype**: Was mein Antonio mit dem [Tweet](https://twitter.com/antonionardella/status/1570783457122582528?s=20&t=DKoguyJFoZxKkyAme42jog) in dem Muxxer sich über "docker & traefic" freut?
 42. **IOTA Artikel**: 3 Artikel von Crypto Newsflash: [IOTA: Ethereum- und Polygon-NFTs sollen in Zukunft auf Shimmer verschiebbar sein](https://www.crypto-news-flash.com/de/iota-nfts-von-ethereum-und-polygon-koennen-in-zukunft-nach-shimmer-verschoben-werden/?feed_id=10216&_unique_id=631e1642e7699)[IOTA: Verein Tangle Ecosystem wird großer Erfolg für gesamtes Ökosystem](https://www.crypto-news-flash.com/de/iota-schweiz-basiertes-marketing-soll-weiteren-erfolg-sichern/?feed_id=10245&_unique_id=632094dd76c1b)[IOTA Shimmer Startdatum steht fest – Das verspricht der Launch](https://www.crypto-news-flash.com/de/iota-shimmer-starttermin-steht-fest-und-die-erwartungen-sind-hoch/)
-43. 
+43. **Shimmer Smart Contracts**: IOTAread freut sich über den ersten smart contract und darüber wie einfach das geht: [Tweet](https://twitter.com/iotaread/status/1570829316522668033?s=20&t=r3T186UZyfFwKxH13oiUuA); Dom Schiener hat das [kommentiert](https://twitter.com/DomSchiener/status/1570842618338349056?s=20&t=r3T186UZyfFwKxH13oiUuA) mit "History in the making - absolut amazing"
+
 
 
 
