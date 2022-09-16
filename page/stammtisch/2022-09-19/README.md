@@ -38,6 +38,7 @@
 36. **Twitter Hype**: Charley Varley fasst die Vorteile von Shimmer/Stardust zusammen: [Tweet mit Screenshot](https://twitter.com/zizouIOTA/status/1570742847716065281?s=20&t=Yh4LFT_QkAXWv8lbu_6G5A)
 37. **Shimmer Dev**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1570753960226525187?s=20&t=Yh4LFT_QkAXWv8lbu_6G5A), dass die erste Shimmer-kompatible SmartContract-Testchain auf dem Shimmer-Beta-Netzwerk läuft und verlinkt den Blogpost: [Shimmer Smart Contract Testnet Goes Live](https://blog.shimmer.network/shimmer-based-smart-contract-test-chain-now-live/)
 38. **Shimmer Launch Party**: [Shimmer lädt am 28.9. ein](https://twitter.com/shimmernet/status/1570759416701485057?s=20&t=DKoguyJFoZxKkyAme42jog) zur Shimmer Launch Party in Singapore
+39. **Crypto News**: Forbes schreibt: [White House Outlines Plan To Regulate Cryptocurrencies—Here’s What You Should Know](https://www.forbes.com/sites/siladityaray/2022/09/16/white-house-outlines-plan-to-regulate-cryptocurrencies-heres-what-you-should-know/?sh=5e659a4741ec)
 
 
 
