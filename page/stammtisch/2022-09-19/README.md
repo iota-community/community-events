@@ -5,7 +5,7 @@
 3. **Twitter Hype**: Weil es so schön war... Hier nochmal die Aussagen von Hans Moog einfacher zu lesen: [Aptos and Sui... when two fight the third rejoices](https://threadreaderapp.com/thread/1569154646320599043.html)
 4. **Shimmer Ökosystem**: Moonvault hat weitere Projekte von der [Shimmer Ecosystem Webseite](https://shimmer.network/ecosystem) kurz beschrieben: [Tweet](https://twitter.com/Moon_Vault_News/status/1569568983850041345?s=20&t=ws6Zr_mGtzl_ryLi-WcNpw)
 5. **IOTA Audio**: Es gab ein AMA mit den GAT Network auf [Twitter Spaces](https://twitter.com/gat_network/status/1568161823165145088?s=20&t=ws6Zr_mGtzl_ryLi-WcNpw)
-6. **IOTA Audio**: Die Semko Brüder werden auch bei der TangleGang im Sprachchat ausgefragt werden: [Tweet](https://twitter.com/GangTangleTalk/status/1569341307927281664?s=20&t=ws6Zr_mGtzl_ryLi-WcNpw)
+6. **IOTA Audio**: Die Semko Brüder werden auch bei der TangleGang im Sprachchat ausgefragt werden: [Tweet 1](https://twitter.com/GangTangleTalk/status/1569341307927281664?s=20&t=ws6Zr_mGtzl_ryLi-WcNpw); [Tweet 2](https://twitter.com/GangTangleTalk/status/1570439004902035459)
 7. **IOTA Event**: Regine wird beim Borderless Event in Berlin teilnehmen: [Tweet](https://twitter.com/EventBorderless/status/1569340377462673410?s=20&t=ws6Zr_mGtzl_ryLi-WcNpw)
 8. **Crypto News**: Ethereum Merge: Dom hat [gratuliert](https://twitter.com/DomSchiener/status/1570305941559468033?s=20&t=Y4CvOosw5k7hCX36niQofw) und die [If auch](https://twitter.com/iota/status/1570313300877144065?s=20&t=evIA-gtLQhaOiPd6_tOdZw)
 9. **IOTA Dev**: HORNET-2.0.0-beta.8 ist live im Shimmer Beta Testnetz: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1569666360636051456?s=20&t=WRswbnc7Hz52SwGihPYguQ)
@@ -25,10 +25,15 @@
 23. **Shimmer Ökosystem**: [Cryptowelter tweetet](https://twitter.com/cryptowelter/status/1570124401969975296) eine neue Grafik zu den Projekten im Shimmer Ökosystem
 24. **IOTA Artikel**: [Gold Standard announces proposals to allow creation of digital tokens for carbon credits](https://www.goldstandard.org/blog-item/gold-standard-announces-proposals-allow-creation-digital-tokens-carbon-credits) -> IOTA inside? Scheinbar schon denn [Mat Yarger retweetet](https://twitter.com/Mat_Yarger/status/1570085792151896066?s=20&t=Y4CvOosw5k7hCX36niQofw) das
 25. **IOTA Youtube**: [Is IOTA Centralised? FUDBusters: Episode 1](https://www.youtube.com/watch?v=KuXErfci8H8)
-26. **Shimmer Release**: Es gab wohl ein Leak für den Shimmer Release: [Tweet](https://twitter.com/IOTA_crypto/status/1570407179282423808?s=20&t=6gGVW3o_aUhPiIh-rnCnQw); Kurz danach wurde es auch offiziell verkündet: [Shimmer Tweet](https://twitter.com/shimmernet/status/1570427229997338624?s=20&t=EPPXGLVFhIakN_07fMBNIw)
+26. **Shimmer Release**: Es gab wohl ein Leak für den Shimmer Release: [Tweet](https://twitter.com/IOTA_crypto/status/1570407179282423808?s=20&t=6gGVW3o_aUhPiIh-rnCnQw); Kurz danach wurde es auch offiziell verkündet: [Shimmer Tweet](https://twitter.com/shimmernet/status/1570427229997338624?s=20&t=EPPXGLVFhIakN_07fMBNIw); Firefly [freut sich](https://twitter.com/fireflywallet/status/1570440236995604481) auf einige neue Features von Shimmer
 27. **IOTA Event**: Regine war bei einem Event: [Tweet](https://twitter.com/Energine/status/1570391570964160517?s=20&t=6gGVW3o_aUhPiIh-rnCnQw)
 28. **Shimmer Ökosystem**: AuditOne [tweetet]((https://twitter.com/auditone_team/status/1570421609764093954?s=20&t=6gGVW3o_aUhPiIh-rnCnQw), dass sie jetzt auch auf [shimmer.network/ecosystem](https://shimmer.network/ecosystem) gelistet sind
 29. **Shimmer Ökosystem**: TanglePay [schwärmt](https://twitter.com/tanglepaycom/status/1570332221353099264?s=20&t=6gGVW3o_aUhPiIh-rnCnQw) davon, wie leicht TanglePay in Shimmer dApps integriert werden kann
+30. **Crypto Artikel**: Dom [tweetet](https://twitter.com/DomSchiener/status/1570678264234119169?s=20&t=3car2AV2Hs9KAcZQPPnIpQ) über seinen Artikel im Cointelegraph: [IOTA co-founder: Lummis-Gillibrand is a blessing for the crypto industry](https://cointelegraph.com/news/iota-co-founder-lummis-gillibrand-is-a-blessing-for-the-crypto-industry)
+31. **IOTA Youtube**: [Shimmer Defi Education Session #2 by BanklessConsulting: Token Swaps Dex vs. Cex 15/09/22 #defi](https://www.youtube.com/watch?v=zOlgxlAbY40)
+32. **IOTA Dev**: Stefan Braun [tweetet](https://twitter.com/tanglePHP/status/1570464977324068864?s=20&t=kTvUbHkri__Nst9cCAXlag) über den aktuellen Stand von TanglePHP mit #IOTA/#Shimmer (#Chrysalis + #Stardust) #PHP integration
+33. **Shimmer Soon**: HiFiDeFi mit einem [Soon-Tweet](https://twitter.com/HiFiDeFi/status/1570469212761788416?s=20&t=kTvUbHkri__Nst9cCAXlag); Hier eine [12 seitige Präsentation zu dem Projekt](https://hifi-gaming-society.gitbook.io/hifi-defi/)
+34. **Twitter Hype**: Mat Yarger hat im Discord ein Update zum Thema Alvarium gegeben, dass sich sehr gut anhört: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1570485920599801862?s=20&t=kTvUbHkri__Nst9cCAXlag)
 
 
 
