@@ -39,6 +39,10 @@
 37. **Shimmer Dev**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1570753960226525187?s=20&t=Yh4LFT_QkAXWv8lbu_6G5A), dass die erste Shimmer-kompatible SmartContract-Testchain auf dem Shimmer-Beta-Netzwerk läuft und verlinkt den Blogpost: [Shimmer Smart Contract Testnet Goes Live](https://blog.shimmer.network/shimmer-based-smart-contract-test-chain-now-live/)
 38. **Shimmer Launch Party**: [Shimmer lädt am 28.9. ein](https://twitter.com/shimmernet/status/1570759416701485057?s=20&t=DKoguyJFoZxKkyAme42jog) zur Shimmer Launch Party in Singapore
 39. **Crypto News**: Forbes schreibt: [White House Outlines Plan To Regulate Cryptocurrencies—Here’s What You Should Know](https://www.forbes.com/sites/siladityaray/2022/09/16/white-house-outlines-plan-to-regulate-cryptocurrencies-heres-what-you-should-know/?sh=5e659a4741ec)
+40. **IOTA Stammtisch**: Das IOTA Stammtisch Wochenende in Berlin wird jetzt auch schon von der [IOTA Foundation angekündigt](https://twitter.com/iota/status/1570789610904588295?s=20&t=DKoguyJFoZxKkyAme42jog) mit "an entire weekend all about #IOTA w/ a meetup, workshops, Stammtisch and much more"; Übrigens: Wer ein Moron Shirt trägt kriegt Merch: [Tweet](https://twitter.com/iotamorons/status/1570801000101064710?s=20&t=DKoguyJFoZxKkyAme42jog)
+41. **Twitter Hype**: Was mein Antonio mit dem [Tweet](https://twitter.com/antonionardella/status/1570783457122582528?s=20&t=DKoguyJFoZxKkyAme42jog) in dem Muxxer sich über "docker & traefic" freut?
+42. **IOTA Artikel**: 3 Artikel von Crypto Newsflash: [IOTA: Ethereum- und Polygon-NFTs sollen in Zukunft auf Shimmer verschiebbar sein](https://www.crypto-news-flash.com/de/iota-nfts-von-ethereum-und-polygon-koennen-in-zukunft-nach-shimmer-verschoben-werden/?feed_id=10216&_unique_id=631e1642e7699)[IOTA: Verein Tangle Ecosystem wird großer Erfolg für gesamtes Ökosystem](https://www.crypto-news-flash.com/de/iota-schweiz-basiertes-marketing-soll-weiteren-erfolg-sichern/?feed_id=10245&_unique_id=632094dd76c1b)[IOTA Shimmer Startdatum steht fest – Das verspricht der Launch](https://www.crypto-news-flash.com/de/iota-shimmer-starttermin-steht-fest-und-die-erwartungen-sind-hoch/)
+43. 
 
 
 
