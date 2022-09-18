@@ -49,6 +49,10 @@
 47. **IOTA Youtube**: Von [Rocketboy Bolt](https://twitter.com/rcktsdntmss): [IOTA ⚡️ EU Secret Weapon? Cross Border Energy](https://www.youtube.com/watch?v=EUpaZrnCCB0)
 48. **Shimmer Youtube**: Und nochmal ein Video von [Rocketboy Bolt](https://twitter.com/rcktsdntmss):[SHIMMER NETWORK ✨ A New Era for Crypto! $IOTA $SMR INDUSTRY CERTIFIED!](https://www.youtube.com/watch?v=OzNDFuUMwGs)
 49. **IOTA Audio**: Neuer Moonaco Podcast mit Zignar Technologies: [Tweet](https://twitter.com/MoonacoPodcast/status/1571059979377057793?s=20&t=RyzcBjiem0mlc92k3vSjPA); [Spotify Link](https://open.spotify.com/episode/583z7tk1vDkiGZZfoVuJLi)
+50. **IOTA Video**: BlockBytes mit einer guten Diskussion über Shimmer (ab 1:04:00): [Twitter Stream](https://twitter.com/blockbytescom/status/1570804743689375745)
+51. **IOTA Youtube**: [Iotapoet veröffentlicht](https://twitter.com/IotaPoet/status/1571416520957255681?s=20&t=RyzcBjiem0mlc92k3vSjPA) das Video: [Is IOTA Centralised? FUDBusters: Episode 1](https://www.youtube.com/watch?v=KuXErfci8H8)
+52. **IOTA Artikel**: [BREAKING: IOTA Shimmer Launch Date Set](https://twitter.com/IotaPoet/status/1571416520957255681?s=20&t=RyzcBjiem0mlc92k3vSjPA); [ISO 20022 Crypto List – 5 Compliant Coins (XRP, XLM, XDC, ALGO, IOTA)](https://sucryptoz.com/iso-20022-crypto-list-5-compliant-coins-xrp-xlm-xdc-algo-iota/)
+53. 
 
 
 
