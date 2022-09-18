@@ -57,7 +57,8 @@
 55. **Shimmer Learn**: Shimmer mit [8 Tweets](https://twitter.com/shimmernet/status/1571076500031688709?s=20&t=RyzcBjiem0mlc92k3vSjPA) zum Thema ISC (IOTA Smart Contracts)
 56. **IOTA NFT**: Dom Schiener [retweetet](https://twitter.com/DomSchiener/status/1571486672918913026?s=20&t=RyzcBjiem0mlc92k3vSjPA) den [Tweet](https://twitter.com/Shiuniverse/status/1571483426192035840) vom Shi-Universe 
 57. **Shimmer DeFi**: [SoonLabs](https://twitter.com/soon_labs) will vom ersten Tag an ein Shimmer/Miota Paar anbieten: [Tweet](https://twitter.com/soon_labs/status/1571036590113443840)
-58. **IOTA Wochenrückblick**: IOTA-Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/220-wochenr%C3%BCckblick-vom-11-bis-17-september-2022/) bzw. [week-in-review](https://www.iota-talk.com/index.php?article/221-week-in-review-from-11th-to-17nd-september-2022/)
+58. **IOTA Science**: Paper vom 29.8.22: [Partition-Tolerant and Byzantine-Tolerant Decision-Making for Distributed Robotic Systems with IOTA and ROS 2](https://arxiv.org/pdf/2208.13467v1.pdf)
+59. **IOTA Wochenrückblick**: IOTA-Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/220-wochenr%C3%BCckblick-vom-11-bis-17-september-2022/) bzw. [week-in-review](https://www.iota-talk.com/index.php?article/221-week-in-review-from-11th-to-17nd-september-2022/)
 
 
 
