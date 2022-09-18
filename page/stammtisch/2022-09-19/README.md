@@ -49,7 +49,7 @@
 47. **IOTA Youtube**: von [Rocketboy Bolt](https://twitter.com/rcktsdntmss): [IOTA ⚡️ EU Secret Weapon? Cross Border Energy](https://www.youtube.com/watch?v=EUpaZrnCCB0)
 48. **Shimmer Youtube**: Und nochmal ein gutes Video von [Rocketboy Bolt](https://twitter.com/rcktsdntmss): [SHIMMER NETWORK ✨ A New Era for Crypto! $IOTA $SMR INDUSTRY CERTIFIED!](https://www.youtube.com/watch?v=OzNDFuUMwGs)
 49. **IOTA Audio**: Neuer Moonaco Podcast mit Zignar Technologies: [Tweet](https://twitter.com/MoonacoPodcast/status/1571059979377057793?s=20&t=RyzcBjiem0mlc92k3vSjPA); [Spotify Link](https://open.spotify.com/episode/583z7tk1vDkiGZZfoVuJLi)
-50. **IOTA Video**: [BlockBytes](https://twitter.com/blockbytescom) mit einer positiven Diskussion über Shimmer (ab 1:04:00): [Twitter Stream](https://twitter.com/blockbytescom/status/1570804743689375745)
+50. **IOTA Video**: [BlockBytes](https://twitter.com/blockbytescom) mit einer positiven Diskussion über Shimmer (ab 1:04:00): [Twitter Stream](https://twitter.com/blockbytescom/status/1570804743689375745); Hier das [Video geschnitten ab Shimmer](https://www.youtube.com/watch?v=tGPzz1_5cSw)
 51. **IOTA Youtube**: [Iotapoet veröffentlicht](https://twitter.com/IotaPoet/status/1571416520957255681?s=20&t=RyzcBjiem0mlc92k3vSjPA) das Video: [Is IOTA Centralised? FUDBusters: Episode 1](https://www.youtube.com/watch?v=KuXErfci8H8)
 52. **IOTA Artikel**: von Iotapoet: [BREAKING: IOTA Shimmer Launch Date Set](https://twitter.com/IotaPoet/status/1571416520957255681?s=20&t=RyzcBjiem0mlc92k3vSjPA); [ISO 20022 Crypto List – 5 Compliant Coins (XRP, XLM, XDC, ALGO, IOTA)](https://sucryptoz.com/iso-20022-crypto-list-5-compliant-coins-xrp-xlm-xdc-algo-iota/)
 53. **Twiiter Promote**: IOTA bei [Umfrage von Bitcoininfo (120K Follower)](https://twitter.com/bitcoininfo/status/1571412751917916161?s=20&t=RyzcBjiem0mlc92k3vSjPA) weit vorn 
@@ -59,6 +59,10 @@
 57. **Shimmer DeFi**: [SoonLabs](https://twitter.com/soon_labs) will vom ersten Tag an ein Shimmer/Miota Paar anbieten: [Tweet](https://twitter.com/soon_labs/status/1571036590113443840)
 58. **IOTA Science**: Paper vom 29.8.22: [Partition-Tolerant and Byzantine-Tolerant Decision-Making for Distributed Robotic Systems with IOTA and ROS 2](https://arxiv.org/pdf/2208.13467v1.pdf)
 59. **IOTA Wochenrückblick**: IOTA-Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/220-wochenr%C3%BCckblick-vom-11-bis-17-september-2022/) bzw. [week-in-review](https://www.iota-talk.com/index.php?article/221-week-in-review-from-11th-to-17nd-september-2022/)
+60. **IOTA Audio**: MoonVault macht ein Interview mit TheFansTogether [auf Twitter Spaces](https://twitter.com/Moon_Vault_News/status/1571192721909633026?s=20&t=0p2qcgYVUgFx46FIEIg88g)
+61. **IOTA NFT Projekt**: Die Rusty Robots haben ein Whitepaper heraus gebracht. In diesem [Tweetstorm](https://twitter.com/haddaddycam/status/1571570209710043137?s=20&t=OzXM5VVsrwOpET3o8QyYDg) findet man alle Details. Hier noch einer: [Tweet](https://twitter.com/zizouIOTA/status/1571545656073850887?s=20&t=OzXM5VVsrwOpET3o8QyYDg)
+62. **IOTA Promote**: [Tweet mit IOTA Erklärvideo](https://twitter.com/ErkinSahinoz/status/1571552718447341570?s=20&t=OzXM5VVsrwOpET3o8QyYDg) von Erkin Şahinöz (mit 290K Followern) auf türkisch
+63. **IOTA Artikel**: Iotaread [tweetet](https://twitter.com/iotaread/status/1571582684299755526?s=20&t=OzXM5VVsrwOpET3o8QyYDg) über den neuen Artikel: [What is IOTA? - The Introductory Guide (2022)](https://iotaread.com/123-what-is-iota-the-introductory-guide-2022)
 
 
 
