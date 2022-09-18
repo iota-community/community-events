@@ -48,6 +48,8 @@
 46. **IOTA Audio**: Moon Vault [Twitter Spaces](https://twitter.com/Moon_Vault_News/status/1569504451777695744?s=20&t=Lc8f-pQOo-RlsrCfA_FFxA) mit [ONE Immortl](https://twitter.com/one_immortl) die ein Multichain Crypto Wallet gebaut haben (5 Blockchains sind bereits integriert)
 47. **IOTA Youtube**: Von [Rocketboy Bolt](https://twitter.com/rcktsdntmss): [IOTA ⚡️ EU Secret Weapon? Cross Border Energy](https://www.youtube.com/watch?v=EUpaZrnCCB0)
 48. **Shimmer Youtube**: Und nochmal ein Video von [Rocketboy Bolt](https://twitter.com/rcktsdntmss):[SHIMMER NETWORK ✨ A New Era for Crypto! $IOTA $SMR INDUSTRY CERTIFIED!](https://www.youtube.com/watch?v=OzNDFuUMwGs)
+49. **IOTA Audio**: Neuer Moonaco Podcast mit Zignar Technologies: [Tweet](https://twitter.com/MoonacoPodcast/status/1571059979377057793?s=20&t=RyzcBjiem0mlc92k3vSjPA); [Spotify Link](https://open.spotify.com/episode/583z7tk1vDkiGZZfoVuJLi)
+
 
 
 
