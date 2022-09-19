@@ -63,6 +63,8 @@
 61. **IOTA NFT Projekt**: Die Rusty Robots haben ein Whitepaper heraus gebracht. In diesem [Tweetstorm](https://twitter.com/haddaddycam/status/1571570209710043137?s=20&t=OzXM5VVsrwOpET3o8QyYDg) findet man alle Details. Hier noch einer: [Tweet](https://twitter.com/zizouIOTA/status/1571545656073850887?s=20&t=OzXM5VVsrwOpET3o8QyYDg)
 62. **IOTA Promote**: [Tweet mit IOTA Erklärvideo](https://twitter.com/ErkinSahinoz/status/1571552718447341570?s=20&t=OzXM5VVsrwOpET3o8QyYDg) von Erkin Şahinöz (mit 290K Followern) auf türkisch
 63. **IOTA Artikel**: Iotaread [tweetet](https://twitter.com/iotaread/status/1571582684299755526?s=20&t=OzXM5VVsrwOpET3o8QyYDg) über den neuen Artikel: [What is IOTA? - The Introductory Guide (2022)](https://iotaread.com/123-what-is-iota-the-introductory-guide-2022)
+64. **Twitter Hype**: Holger Köther macht mit seinen [Tweets](https://twitter.com/HolgerKoether/status/1571746958150098944?s=20&t=Vq8ZoQ-g0VblXFmyDbc04Q) auf das "neue IOTA" aufmerksam, das nix mehr mit dem IOTa von 17/18 zu tun hat
+
 
 
 
