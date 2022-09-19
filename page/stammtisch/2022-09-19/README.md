@@ -64,7 +64,7 @@
 62. **IOTA Promote**: [Tweet mit IOTA Erklärvideo](https://twitter.com/ErkinSahinoz/status/1571552718447341570?s=20&t=OzXM5VVsrwOpET3o8QyYDg) von Erkin Şahinöz (mit 290K Followern) auf türkisch
 63. **IOTA Artikel**: Iotaread [tweetet](https://twitter.com/iotaread/status/1571582684299755526?s=20&t=OzXM5VVsrwOpET3o8QyYDg) über den neuen Artikel: [What is IOTA? - The Introductory Guide (2022)](https://iotaread.com/123-what-is-iota-the-introductory-guide-2022)
 64. **Twitter Hype**: Holger Köther macht mit seinen [Tweets](https://twitter.com/HolgerKoether/status/1571746958150098944?s=20&t=Vq8ZoQ-g0VblXFmyDbc04Q) auf das "neue IOTA" aufmerksam, das nix mehr mit dem IOTa von 17/18 zu tun hat
-65. **IOTA DeFi/CeFi**: [Iotabee veröffentlicht](https://twitter.com/iotabee/status/1571788719769673728?s=20&t=Vq8ZoQ-g0VblXFmyDbc04Q) ihre Plattform ([iotabee.com/](https://iotabee.com/)) auf der man USDT gegen Miota tauschen kann. Man kann auch schon USDT/Miota Liquidität bereitstellen
+65. **IOTA DeFi/CeFi**: [Iotabee veröffentlicht](https://twitter.com/iotabee/status/1571788719769673728?s=20&t=Vq8ZoQ-g0VblXFmyDbc04Q) ihre Plattform ([iotabee.com/](https://iotabee.com/)) auf der man USDT gegen Miota tauschen kann. Man kann auch schon USDT/Miota Liquidität bereitstellen. Hier auch ein Blogpost dazu: [Iotabee Crosschain Swap — Launching NOW!](https://medium.com/@iotabee/iotabee-crosschain-swap-launching-now-e2df46a006cd)
 66. **Shimmer Release**: Es wird ernst: [Tweet von Shimmer](https://twitter.com/shimmernet/status/1571828146726379520?s=20&t=N2j7Tgb2sTJa7uAb0l_UKw); Wir sollen den Genesis Snapshot verifizieren: [https://github.com/iotaledger/global-snapshots/pull/3](https://github.com/iotaledger/global-snapshots/pull/3)
 
 
