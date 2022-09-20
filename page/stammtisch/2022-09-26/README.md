@@ -12,7 +12,8 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 9. **IOTA Merch**: Dom ist jetzt auch ein IOTA Moron: [Tweet](https://twitter.com/DomSchiener/status/1571962848619773953?s=20&t=crVn3KiTVXE_oq657xlKsA)
 10. **IOTA Youtube**: von Common Sense Crypto [IOTA - Shimmer - SMR Network Launch am 28.09.2022](https://www.youtube.com/watch?v=8GZumU-llHE)
 11. **IOTA Youtube**: [IOTA - Shimmer - SMR startet! Startpreis? Wo - Wie Was?](https://www.youtube.com/watch?v=JWzcx7MSwBg)
-12. **Shimmer Promote**: Das Soonaverse macht Werbung für die Community-Token die bald jeder erstellen kann und weisen darauf hin, dass es auf dem Soonaverse nur mit KYC geht: [Tweet](https://twitter.com/soon_labs/status/1572114022056734721?s=20&t=crVn3KiTVXE_oq657xlKsA)
-13. 
+12. **IOTA Youtube**: [LowCap Raketen & IOTA bullische News & Prognosen](https://www.youtube.com/watch?v=FkryO173Azg)
+13. **Shimmer Promote**: Das Soonaverse macht Werbung für die Community-Token die bald jeder erstellen kann und weisen darauf hin, dass es auf dem Soonaverse nur mit KYC geht: [Tweet](https://twitter.com/soon_labs/status/1572114022056734721?s=20&t=crVn3KiTVXE_oq657xlKsA)
+14. 
 
 
