@@ -14,6 +14,6 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 11. **IOTA Youtube**: [IOTA - Shimmer - SMR startet! Startpreis? Wo - Wie Was?](https://www.youtube.com/watch?v=JWzcx7MSwBg)
 12. **IOTA Youtube**: [LowCap Raketen & IOTA bullische News & Prognosen](https://www.youtube.com/watch?v=FkryO173Azg)
 13. **Shimmer Promote**: Das Soonaverse macht Werbung für die Community-Token die bald jeder erstellen kann und weisen darauf hin, dass es auf dem Soonaverse nur mit KYC geht: [Tweet](https://twitter.com/soon_labs/status/1572114022056734721?s=20&t=crVn3KiTVXE_oq657xlKsA)
-14. 
+14. **Crypto News**: Michael Saylor bzw. Microstrategie hat mal wieder nachgekauft: [Tweet](https://twitter.com/saylor/status/1572196173334839303?s=20&t=Izq0J7U3ncn-UMnLKZzgkQ); Sie haben jetzt 130.000 BTC
 
 
