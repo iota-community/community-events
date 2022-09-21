@@ -21,7 +21,8 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 18. **IOTA Audio**: Iotabee macht einen [Audio chat](https://twitter.com/iotabee/status/1572486017088901120?s=20&t=lPaIkBVsxWmQlsNz9a_MGg) über Shimmer Token Price
 19. **IOTA Audio**: Phylo organisiert [IOTA Community Hangout](https://twitter.com/PhyloIota/status/1572373688548478982?s=20&t=lPaIkBVsxWmQlsNz9a_MGg)
 20. **IOTA Ökosystem**: [Pipe verkündet](https://twitter.com/PIPE_DATA/status/1571870151796203522?s=20&t=lPaIkBVsxWmQlsNz9a_MGg) ihre neue Webseite: [tanglehub.eu](https://tanglehub.eu/)
-21. 
+21. **Shimmer Launch**: In Zürich gibt es wohl eine Shimmer Launchparty: [Tweet](https://twitter.com/zurichiota/status/1572552908209803264?s=52&t=_Y4K9--1t2rt0hLR6N1KLg)
+22. **Crypto News**: [BREAKING: Bitcoin soll gesetzliches Zahlungsmittel in Dubai werden – Königliche Familie bereitet Legalisierung vor](https://www.crypto-news-flash.com/de/dubai-will-btc-und-andere-kryptowaehrungen-als-gesetzliche-zahlungsmittel/?feed_id=10359&_unique_id=632b19d288298)
 
 
 
