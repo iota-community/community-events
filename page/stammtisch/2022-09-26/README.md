@@ -2,7 +2,7 @@
 
 1. **IF Youtube**: Die IF mit [5 Tweets](https://twitter.com/iota/status/1571786296040820736?s=20&t=crVn3KiTVXE_oq657xlKsA) zum Quicktakes-Video [
 IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race Joins Touchpoint...](https://www.youtube.com/watch?v=_LSq_Y3i_xk)
-2. **IOTA Adoption**: Die ETO Gruppe zeigt die erste Hardware von ihren Leitpfosten: [Tweet](https://twitter.com/sharang33/status/1571901105084276736?s=20&t=crVn3KiTVXE_oq657xlKsA)
+2. **IOTA Adoption**: Die ETO Gruppe zeigt die erste Hardware von ihren Leitpfosten: [Tweet](https://twitter.com/sharang33/status/1571901105084276736?s=20&t=crVn3KiTVXE_oq657xlKsA); Am 29.9. ist auch ein Event dazu: [Tweet](https://twitter.com/alfried_fn/status/1572525275916935169?s=20&t=8SSsM9Kp2t4chJ04u7Ekwg)
 3. **IOTA Video**: Mat Yarger [tweetet](https://twitter.com/Mat_Yarger/status/1571923050165342210?s=20&t=crVn3KiTVXE_oq657xlKsA) über die Aufzeichnung von [Next Generation Digital Solutions for Climate and Sustainability - Climate Week NY 2022 event](https://www.youtube.com/watch?v=p0O5UXpmvXw) wo er ab 25:30 etwas erzählt
 4. **IOTA DeFi**: Iotabee macht nochmal klar, dass sie mit Shimmer EVM eine 100% DEX werden: [Tweet](https://twitter.com/iotabee/status/1571932201373032449?s=20&t=crVn3KiTVXE_oq657xlKsA)
 5. **IOTA Audio**: [MoonVault](https://twitter.com/Moon_Vault_News) hat mit [TheFansTogether](https://twitter.com/TheFansTogether) geredet: [Teil 1](https://twitter.com/Moon_Vault_News/status/1571906311075557379?s=20&t=crVn3KiTVXE_oq657xlKsA); [Teil 2](https://twitter.com/Moon_Vault_News/status/1572011229014790145?s=20&t=crVn3KiTVXE_oq657xlKsA)
@@ -15,6 +15,13 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 12. **IOTA Youtube**: [LowCap Raketen & IOTA bullische News & Prognosen](https://www.youtube.com/watch?v=FkryO173Azg)
 13. **Shimmer Promote**: Das Soonaverse macht Werbung für die Community-Token die bald jeder erstellen kann und weisen darauf hin, dass es auf dem Soonaverse nur mit KYC geht: [Tweet](https://twitter.com/soon_labs/status/1572114022056734721?s=20&t=crVn3KiTVXE_oq657xlKsA)
 14. **Crypto News**: Michael Saylor bzw. Microstrategie hat mal wieder nachgekauft: [Tweet](https://twitter.com/saylor/status/1572196173334839303?s=20&t=Izq0J7U3ncn-UMnLKZzgkQ); Sie haben jetzt 130.000 BTC
+15. **IOTA DeFi**: Neue dApp wurde [angekündigt](https://twitter.com/DeeprFinance/status/1572571440251080706?s=20&t=lPaIkBVsxWmQlsNz9a_MGg) mit einem Blogpost: [Announcing Deepr Finance](https://medium.com/@Deepr.Finance/announcing-deepr-finance-28050e2dd4e)
+16. **IOTA DeFi**: TangleSea wurde geaudited: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1572465648130588672?s=20&t=w98d4-56zdC7XXJ2uP5hfQ)
+17. **IOTA Dev**: TanglePHP update: [Tweet](https://twitter.com/tanglePHP/status/1572472853202882560?s=20&t=lPaIkBVsxWmQlsNz9a_MGg)
+18. **IOTA Audio**: Iotabee macht einen [Audio chat](https://twitter.com/iotabee/status/1572486017088901120?s=20&t=lPaIkBVsxWmQlsNz9a_MGg) über Shimmer Token Price
+19. **IOTA Audio**: Phylo organisiert [IOTA Community Hangout](https://twitter.com/PhyloIota/status/1572373688548478982?s=20&t=lPaIkBVsxWmQlsNz9a_MGg)
+20. **IOTA Ökosystem**: [Pipe verkündet](https://twitter.com/PIPE_DATA/status/1571870151796203522?s=20&t=lPaIkBVsxWmQlsNz9a_MGg) ihre neue Webseite: [tanglehub.eu](https://tanglehub.eu/)
+21. 
 
 
 
