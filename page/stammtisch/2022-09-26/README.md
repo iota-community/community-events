@@ -17,3 +17,4 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 14. **Crypto News**: Michael Saylor bzw. Microstrategie hat mal wieder nachgekauft: [Tweet](https://twitter.com/saylor/status/1572196173334839303?s=20&t=Izq0J7U3ncn-UMnLKZzgkQ); Sie haben jetzt 130.000 BTC
 
 
+
