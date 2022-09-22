@@ -33,7 +33,9 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 30. **IOTA Audio**: MoonVault organisiert den nächsten [IOTA Round Table](https://twitter.com/Moon_Vault_News/status/1572719557944672257?s=20&t=28sNtKckg9KJU0fHT7SrKQ)
 31. **IOTA Audio**: Neuer Moonaco Podcast mit Digimarc & Everything: [Tweet](https://twitter.com/MoonacoPodcast/status/1572888843300536320?s=20&t=LChnJ3TmPigBowPOymIsxg); [Spotify](https://open.spotify.com/episode/4HFxOb8ABx1ptJhJMZVgoQ?si=xk6_JAjLS4WkmegHTh3gbQ&nd=1)
 32. **Twitter Soon**: von Holger Köther: [Tweet](https://twitter.com/HolgerKoether/status/1572893778704465922?s=20&t=lrkou79bc-_hvwSchE-B_w)
-33. 
+33. **Shimmer Promote**: Shimmer Ecosystem Ping-Pong Runde 1: Shimmer vs. TangleSwap: [Tweet](https://twitter.com/shimmernet/status/1572930425638600705?s=20&t=EaqNmv-7HwwhSY75zMCAzA)
+34. **Ökosystem Rekt**: [Kamillabs](https://twitter.com/kamilabsstudio) verkündet in [8 Tweets](https://twitter.com/kamilabsstudio/status/1572928497961652226?s=20&t=zov8M90h3g4JM4Tydg7pWw) das Ende ihres Unternehmens. Sie hatten mit NFT Verkauf 750 Giota eingesammelt...
+35. **
 
 
 
