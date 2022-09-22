@@ -31,6 +31,9 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 28. **IOTA Patent**: Neues Patent: [SMART BATTERY SYSTEM](https://twitter.com/muandelo/status/1572512600499580928)
 29. **IOTA Artikel**: [IOTA: ALFRIED gestartet – Echter Anwendungsfall für Tangle mit IOTA Hardware](https://www.crypto-news-flash.com/de/alfried-und-iota-echtzeit-anwendungen-fuer-verkehrsinfrastruktur-projekt/)
 30. **IOTA Audio**: MoonVault organisiert den nächsten [IOTA Round Table](https://twitter.com/Moon_Vault_News/status/1572719557944672257?s=20&t=28sNtKckg9KJU0fHT7SrKQ)
+31. **IOTA Audio**: Neuer Moonaco Podcast mit Digimarc & Everything: [Tweet](https://twitter.com/MoonacoPodcast/status/1572888843300536320?s=20&t=LChnJ3TmPigBowPOymIsxg); [Spotify](https://open.spotify.com/episode/4HFxOb8ABx1ptJhJMZVgoQ?si=xk6_JAjLS4WkmegHTh3gbQ&nd=1)
+32. **Twitter Soon**: von Holger Köther: [Tweet](https://twitter.com/HolgerKoether/status/1572893778704465922?s=20&t=lrkou79bc-_hvwSchE-B_w)
+33. 
 
 
 
