@@ -24,7 +24,9 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 21. **Shimmer Launch**: In Zürich gibt es wohl eine Shimmer Launchparty: [Tweet](https://twitter.com/zurichiota/status/1572552908209803264?s=52&t=_Y4K9--1t2rt0hLR6N1KLg)
 22. **Crypto News**: [BREAKING: Bitcoin soll gesetzliches Zahlungsmittel in Dubai werden – Königliche Familie bereitet Legalisierung vor](https://www.crypto-news-flash.com/de/dubai-will-btc-und-andere-kryptowaehrungen-als-gesetzliche-zahlungsmittel/?feed_id=10359&_unique_id=632b19d288298)
 23. **Telegram Drama**: Es gab ein paar Diskussionen im D/A/CH Telegram Channel in wieweit die IF und Dom einzelne Projekte promoten/pushen darf. Die Konkurrenz fühlt sich da offenbar benachteiligt (LendeXe <-> Deepr Finance)
-24. 
+24. **Shimmer Adaption**: BitForex [tweetet](https://twitter.com/bitforexcom/status/1572832176139534336?s=20&t=QiqU0GxJ0keO7rdybLHgEw), dass sie das Shimmer Ökosystem unterstützen; Sie verlinken den Text: [BitForex will Support the Shimmer Mainnet and its Ecosystem](https://support.bitforex.com/hc/en-us/articles/10717712201753-BitForex-will-Support-the-Shimmer-Mainnet-and-its-Ecosystem)
+
+
 
 
 
