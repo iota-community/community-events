@@ -30,6 +30,7 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 27. **IOTA Dev**: Neuer Release von Wasp: [v0.3.2](https://github.com/iotaledger/wasp/releases/tag/v0.3.2)
 28. **IOTA Patent**: Neues Patent: [SMART BATTERY SYSTEM](https://twitter.com/muandelo/status/1572512600499580928)
 29. **IOTA Artikel**: [IOTA: ALFRIED gestartet – Echter Anwendungsfall für Tangle mit IOTA Hardware](https://www.crypto-news-flash.com/de/alfried-und-iota-echtzeit-anwendungen-fuer-verkehrsinfrastruktur-projekt/)
+30. **IOTA Audio**: MoonVault organisiert den nächsten [IOTA Round Table](https://twitter.com/Moon_Vault_News/status/1572719557944672257?s=20&t=28sNtKckg9KJU0fHT7SrKQ)
 
 
 
