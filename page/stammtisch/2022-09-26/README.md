@@ -49,6 +49,8 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 46. **IOTA Audio**: Filancore [Tweet](https://twitter.com/FilancoreGmbH/status/1573257228236226561?s=20&t=NkbPA3NYZdE7_3oYZH8WNA)
 47. **Shimmer Airdrop**: Dom spricht von Genesis NFT drops und von many free Airdrops: [Tweet mit Screenshot](https://twitter.com/IotaPoet/status/1573284124496109569?s=20&t=NkbPA3NYZdE7_3oYZH8WNA)
 48. **IOTA Promo**: Neuer Onepager zeigt "Initial Token Allocation" bei Shimmer und IOTA: [Tweet](https://twitter.com/cryptowelter/status/1572884911828381696?s=20&t=NkbPA3NYZdE7_3oYZH8WNA)
+49. **IOTA Bridge**: Dom träumt von einer Cardano Bridge: [Tweet](https://twitter.com/DomSchiener/status/1573270255236947970?s=20&t=NkbPA3NYZdE7_3oYZH8WNA)
+50. **Twitter Drama**: Hans Moog kein Fan von FTM: [Tweet](https://twitter.com/hus_qy/status/1573003037605494784?s=20&t=zwz_5SOVb66lowdyNzT3CA); Big fan of Algorand: [Tweet](https://twitter.com/hus_qy/status/1572994264069455872?s=20&t=zwz_5SOVb66lowdyNzT3CA); Aleph Zero superior than Aptos/SUI: [Tweet](https://twitter.com/hus_qy/status/1573001456743026695?s=20&t=zwz_5SOVb66lowdyNzT3CA)
 
 
 
