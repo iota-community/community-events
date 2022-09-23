@@ -46,6 +46,7 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 43. **IOTA Promote**: Mat Yarger berichtet von der New York Climate Week: [Tweet](https://twitter.com/Mat_Yarger/status/1572974318786592774?s=20&t=Mf9xzR-3yBZnVcv0yOKkaw)
 44. **IOTA Promote**: Dom Schiener "will not fucking leave": [Tweet](https://twitter.com/NotDomSchiener/status/1572952317204348930?s=20&t=Mf9xzR-3yBZnVcv0yOKkaw)
 45. **Shimmer Learn**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1573250831868116992?s=20&t=NkbPA3NYZdE7_3oYZH8WNA) über das 2 Minuten Tutorial: [Tutorial - Wallet Lib in JS - Check Account Balance](https://www.youtube.com/watch?v=VtyyI-J7qD4)
+46. **IOTA Audio**: Filancore [Tweet](https://twitter.com/FilancoreGmbH/status/1573257228236226561?s=20&t=NkbPA3NYZdE7_3oYZH8WNA)
 
 
 
