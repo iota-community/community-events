@@ -47,6 +47,8 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 44. **IOTA Promote**: Dom Schiener "will not fucking leave": [Tweet](https://twitter.com/NotDomSchiener/status/1572952317204348930?s=20&t=Mf9xzR-3yBZnVcv0yOKkaw)
 45. **Shimmer Learn**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1573250831868116992?s=20&t=NkbPA3NYZdE7_3oYZH8WNA) über das 2 Minuten Tutorial: [Tutorial - Wallet Lib in JS - Check Account Balance](https://www.youtube.com/watch?v=VtyyI-J7qD4)
 46. **IOTA Audio**: Filancore [Tweet](https://twitter.com/FilancoreGmbH/status/1573257228236226561?s=20&t=NkbPA3NYZdE7_3oYZH8WNA)
+47. **Shimmer Airdrop**: Dom spricht von Genesis NFT drops und von many free Airdrops: [Tweet mit Screenshot](https://twitter.com/IotaPoet/status/1573284124496109569?s=20&t=NkbPA3NYZdE7_3oYZH8WNA)
+48. **IOTA Promo**: Neuer Onepager zeigt "Initial Token Allocation" bei Shimmer und IOTA: [Tweet](https://twitter.com/cryptowelter/status/1572884911828381696?s=20&t=NkbPA3NYZdE7_3oYZH8WNA)
 
 
 
