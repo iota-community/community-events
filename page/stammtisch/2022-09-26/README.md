@@ -36,6 +36,12 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 33. **Shimmer Promote**: Shimmer Ecosystem Ping-Pong Runde 1: Shimmer vs. TangleSwap: [Tweet](https://twitter.com/shimmernet/status/1572930425638600705?s=20&t=EaqNmv-7HwwhSY75zMCAzA)
 34. **Ökosystem Rekt**: [Kamillabs](https://twitter.com/kamilabsstudio) verkündet in [8 Tweets](https://twitter.com/kamilabsstudio/status/1572928497961652226?s=20&t=zov8M90h3g4JM4Tydg7pWw) das Ende ihres Unternehmens. Sie hatten mit NFT Verkauf 475 Giota eingesammelt...
 35. **Shimmer DeFi Learn**: [Tweet von Phylo](https://twitter.com/shimmernet/status/1572601559032242179?s=20&t=TJ_sqGPu0sdvD0lqotKgBw)
+36. **IOTA Youtube**: [Spec Weekly - Episode 20: SHIMMER TOKEN SUPPLY and a lil bit of spec.](https://www.youtube.com/watch?v=TjWPs7qPVOQ&t=207s)
+37. **IOTA Youtube**: [Shimmer Defi Education Session #3 by BanklessConsulting: #defi Lending / Borrowing basics 22/09/22](https://www.youtube.com/watch?v=_ZuzNiMmHeM)
+38. **IOTA Audio**: Anthonio Nardella war im Tanglegang Sprachchat. Man findet das Audiofile entweder im Telegram bei der [Tangle Gang](https://t.me/tangle_gang) oder im [D/A/Ch News Channel](https://t.me/IOTA_DACH_NEWS)
+39. **IOTA Ökosystem**: Auf Soonaverse.com können wir vom ersten Tag an IOTA vs. SMR und SMR vs. Native Token handeln zusätzlich zum voll integrierten NFT Marktplatz: [Tweet](https://twitter.com/soon_labs/status/1573184804908064768?s=20&t=Mf9xzR-3yBZnVcv0yOKkaw)
+40. **IOTA Artikel**: [Will IOTA Coin Reach $6 Mark In 2022?](https://globalnewsit.com/will-iota-coin-reach-6-mark-in-2022/)
+
 
 
 
