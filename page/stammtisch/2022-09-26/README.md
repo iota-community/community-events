@@ -34,13 +34,18 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 31. **IOTA Audio**: Neuer Moonaco Podcast mit Digimarc & Everything: [Tweet](https://twitter.com/MoonacoPodcast/status/1572888843300536320?s=20&t=LChnJ3TmPigBowPOymIsxg); [Spotify](https://open.spotify.com/episode/4HFxOb8ABx1ptJhJMZVgoQ?si=xk6_JAjLS4WkmegHTh3gbQ&nd=1)
 32. **Twitter Soon**: von Holger Köther: [Tweet](https://twitter.com/HolgerKoether/status/1572893778704465922?s=20&t=lrkou79bc-_hvwSchE-B_w)
 33. **Shimmer Promote**: Shimmer Ecosystem Ping-Pong Runde 1: Shimmer vs. TangleSwap: [Tweet](https://twitter.com/shimmernet/status/1572930425638600705?s=20&t=EaqNmv-7HwwhSY75zMCAzA)
-34. **Ökosystem Rekt**: [Kamillabs](https://twitter.com/kamilabsstudio) verkündet in [8 Tweets](https://twitter.com/kamilabsstudio/status/1572928497961652226?s=20&t=zov8M90h3g4JM4Tydg7pWw) das Ende ihres Unternehmens. Sie hatten mit NFT Verkauf 475 Giota eingesammelt...
-35. **Shimmer DeFi Learn**: [Tweet von Phylo](https://twitter.com/shimmernet/status/1572601559032242179?s=20&t=TJ_sqGPu0sdvD0lqotKgBw)
-36. **IOTA Youtube**: [Spec Weekly - Episode 20: SHIMMER TOKEN SUPPLY and a lil bit of spec.](https://www.youtube.com/watch?v=TjWPs7qPVOQ&t=207s)
-37. **IOTA Youtube**: [Shimmer Defi Education Session #3 by BanklessConsulting: #defi Lending / Borrowing basics 22/09/22](https://www.youtube.com/watch?v=_ZuzNiMmHeM)
-38. **IOTA Audio**: Anthonio Nardella war im Tanglegang Sprachchat. Man findet das Audiofile entweder im Telegram bei der [Tangle Gang](https://t.me/tangle_gang) oder im [D/A/Ch News Channel](https://t.me/IOTA_DACH_NEWS)
-39. **IOTA Ökosystem**: Auf Soonaverse.com können wir vom ersten Tag an IOTA vs. SMR und SMR vs. Native Token handeln zusätzlich zum voll integrierten NFT Marktplatz: [Tweet](https://twitter.com/soon_labs/status/1573184804908064768?s=20&t=Mf9xzR-3yBZnVcv0yOKkaw)
-40. **IOTA Artikel**: [Will IOTA Coin Reach $6 Mark In 2022?](https://globalnewsit.com/will-iota-coin-reach-6-mark-in-2022/)
+34. **Ökosystem Rekt**: [Kamillabs](https://twitter.com/kamilabsstudio) verkündet in [8 Tweets](https://twitter.com/kamilabsstudio/status/1572928497961652226?s=20&t=zov8M90h3g4JM4Tydg7pWw) das Ende ihres Unternehmens. Sie hatten mit NFT Verkauf 475 Giota eingesammelt... 
+35. **Ökosystem Help**: [TFT](tweeten), dass sie Opfer von Kamillabs mit TFT Token entschädigen wollen
+36. **Shimmer DeFi Learn**: [Tweet von Phylo](https://twitter.com/shimmernet/status/1572601559032242179?s=20&t=TJ_sqGPu0sdvD0lqotKgBw)
+37. **IOTA Youtube**: [Spec Weekly - Episode 20: SHIMMER TOKEN SUPPLY and a lil bit of spec.](https://www.youtube.com/watch?v=TjWPs7qPVOQ&t=207s)
+38. **IOTA Youtube**: [Shimmer Defi Education Session #3 by BanklessConsulting: #defi Lending / Borrowing basics 22/09/22](https://www.youtube.com/watch?v=_ZuzNiMmHeM)
+39. **IOTA Audio**: Anthonio Nardella war im Tanglegang Sprachchat. Man findet das Audiofile entweder im Telegram bei der [Tangle Gang](https://t.me/tangle_gang) oder im [D/A/Ch News Channel](https://t.me/IOTA_DACH_NEWS)
+40. **IOTA Ökosystem**: Auf Soonaverse.com können wir vom ersten Tag an IOTA vs. SMR und SMR vs. Native Token handeln zusätzlich zum voll integrierten NFT Marktplatz: [Tweet](https://twitter.com/soon_labs/status/1573184804908064768?s=20&t=Mf9xzR-3yBZnVcv0yOKkaw)
+41. **IOTA Artikel**: [Will IOTA Coin Reach $6 Mark In 2022?](https://globalnewsit.com/will-iota-coin-reach-6-mark-in-2022/)
+42. **IOTA Artikel**: [IOTA: Shimmer Network kündigt finalen Launch an](https://de.cointelegraph.com/news/iota-shimmer-network-announces-its-final-launch)
+43. **IOTA Promote**: Mat Yarger berichtet von der New York Climate Week: [Tweet](https://twitter.com/Mat_Yarger/status/1572974318786592774?s=20&t=Mf9xzR-3yBZnVcv0yOKkaw)
+44. **IOTA Promote**: Dom Schiener "will not fucking leave": [Tweet](https://twitter.com/NotDomSchiener/status/1572952317204348930?s=20&t=Mf9xzR-3yBZnVcv0yOKkaw)
+45. **Shimmer Learn**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1573250831868116992?s=20&t=NkbPA3NYZdE7_3oYZH8WNA) über das 2 Minuten Tutorial: [Tutorial - Wallet Lib in JS - Check Account Balance](https://www.youtube.com/watch?v=VtyyI-J7qD4)
 
 
 
