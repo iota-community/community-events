@@ -35,7 +35,7 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 32. **Twitter Soon**: von Holger Köther: [Tweet](https://twitter.com/HolgerKoether/status/1572893778704465922?s=20&t=lrkou79bc-_hvwSchE-B_w)
 33. **Shimmer Promote**: Shimmer Ecosystem Ping-Pong Runde 1: Shimmer vs. TangleSwap: [Tweet](https://twitter.com/shimmernet/status/1572930425638600705?s=20&t=EaqNmv-7HwwhSY75zMCAzA)
 34. **Ökosystem Rekt**: [Kamillabs](https://twitter.com/kamilabsstudio) verkündet in [8 Tweets](https://twitter.com/kamilabsstudio/status/1572928497961652226?s=20&t=zov8M90h3g4JM4Tydg7pWw) das Ende ihres Unternehmens. Sie hatten mit NFT Verkauf 475 Giota eingesammelt... 
-35. **Ökosystem Help**: [TFT](tweeten), dass sie Opfer von Kamillabs mit TFT Token entschädigen wollen
+35. **Ökosystem Help**: [TFT](tweeten), dass sie Opfer von Kamillabs mit TFT Token entschädigen wollen und auch [iM.CITY](https://twitter.com/imCITY_org) wollen $IMCT Token an Genso NFT Holder verteilen: [Tweet](https://twitter.com/imCITY_org/status/1573255642403737600?s=20&t=2GHnTaYI_dZ57xv1OaWu8A)
 36. **Shimmer DeFi Learn**: [Tweet von Phylo](https://twitter.com/shimmernet/status/1572601559032242179?s=20&t=TJ_sqGPu0sdvD0lqotKgBw)
 37. **IOTA Youtube**: [Spec Weekly - Episode 20: SHIMMER TOKEN SUPPLY and a lil bit of spec.](https://www.youtube.com/watch?v=TjWPs7qPVOQ&t=207s)
 38. **IOTA Youtube**: [Shimmer Defi Education Session #3 by BanklessConsulting: #defi Lending / Borrowing basics 22/09/22](https://www.youtube.com/watch?v=_ZuzNiMmHeM)
@@ -51,6 +51,10 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 48. **IOTA Promo**: Neuer Onepager zeigt "Initial Token Allocation" bei Shimmer und IOTA: [Tweet](https://twitter.com/cryptowelter/status/1572884911828381696?s=20&t=NkbPA3NYZdE7_3oYZH8WNA)
 49. **IOTA Bridge**: Dom träumt von einer Cardano Bridge: [Tweet](https://twitter.com/DomSchiener/status/1573270255236947970?s=20&t=NkbPA3NYZdE7_3oYZH8WNA)
 50. **Twitter Drama**: Hans Moog kein Fan von FTM: [Tweet](https://twitter.com/hus_qy/status/1573003037605494784?s=20&t=zwz_5SOVb66lowdyNzT3CA); Big fan of Algorand: [Tweet](https://twitter.com/hus_qy/status/1572994264069455872?s=20&t=zwz_5SOVb66lowdyNzT3CA); Aleph Zero superior than Aptos/SUI: [Tweet](https://twitter.com/hus_qy/status/1573001456743026695?s=20&t=zwz_5SOVb66lowdyNzT3CA)
+51. **NFT Ökosystem**: Die Rusti Robots haben viel vor im Musikbuisiness: [Tweet](https://twitter.com/haddaddycam/status/1573372650155802624?s=20&t=XX5n5M2aEzLlhWM9d59d8g)
+52. **NFT Ökosystem**: 
+53. **Firefly Wallet**: Die Ledger Integration braucht wohl noch 2 Wochen weil das Audit nicht rechtzeitig fertig ist: [Tweet](https://twitter.com/fireflywallet/status/1573327754770403329?s=20&t=yNd5cSre33ph7lEgac1Pyg)
+54. **IOTA Wiesn Stammtisch**: Hier ein paar Bilder: [Tweet](https://twitter.com/Vrom14286662/status/1573350656576225280?s=20&t=yNd5cSre33ph7lEgac1Pyg); [Tweet](https://twitter.com/Vrom14286662/status/1573329372219641859?s=20&t=yNd5cSre33ph7lEgac1Pyg)
 
 
 
