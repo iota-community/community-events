@@ -51,10 +51,11 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 48. **IOTA Promo**: Neuer Onepager zeigt "Initial Token Allocation" bei Shimmer und IOTA: [Tweet](https://twitter.com/cryptowelter/status/1572884911828381696?s=20&t=NkbPA3NYZdE7_3oYZH8WNA)
 49. **IOTA Bridge**: Dom träumt von einer Cardano Bridge: [Tweet](https://twitter.com/DomSchiener/status/1573270255236947970?s=20&t=NkbPA3NYZdE7_3oYZH8WNA)
 50. **Twitter Drama**: Hans Moog kein Fan von FTM: [Tweet](https://twitter.com/hus_qy/status/1573003037605494784?s=20&t=zwz_5SOVb66lowdyNzT3CA); Big fan of Algorand: [Tweet](https://twitter.com/hus_qy/status/1572994264069455872?s=20&t=zwz_5SOVb66lowdyNzT3CA); Aleph Zero superior than Aptos/SUI: [Tweet](https://twitter.com/hus_qy/status/1573001456743026695?s=20&t=zwz_5SOVb66lowdyNzT3CA)
-51. **NFT Ökosystem**: Die Rusti Robots haben viel vor im Musikbuisiness: [Tweet](https://twitter.com/haddaddycam/status/1573372650155802624?s=20&t=XX5n5M2aEzLlhWM9d59d8g)
-52. **NFT Ökosystem**: 
+51. **NFT Ökosystem**: Die Rusti Robots haben viel vor im Musikbuisiness. Ihr ultralanges Announcement im Discord wurde in diesem [Tweet](https://twitter.com/haddaddycam/status/1573372650155802624?s=20&t=XX5n5M2aEzLlhWM9d59d8g) zusammengefasst
+52. **NFT Ökosystem**: [Daobee](https://twitter.com/Daobeegame) haben in ihrem Discord auch einen längern Status-Update erstellt. Hier zusammegefasst in [3 Tweets](https://twitter.com/Daobeegame/status/1573324011945213953?s=20&t=FfD1k3qzsKDB2qQplgw1BA)
 53. **Firefly Wallet**: Die Ledger Integration braucht wohl noch 2 Wochen weil das Audit nicht rechtzeitig fertig ist: [Tweet](https://twitter.com/fireflywallet/status/1573327754770403329?s=20&t=yNd5cSre33ph7lEgac1Pyg)
-54. **IOTA Wiesn Stammtisch**: Hier ein paar Bilder: [Tweet](https://twitter.com/Vrom14286662/status/1573350656576225280?s=20&t=yNd5cSre33ph7lEgac1Pyg); [Tweet](https://twitter.com/Vrom14286662/status/1573329372219641859?s=20&t=yNd5cSre33ph7lEgac1Pyg)
+54. **IOTA Wiesn Stammtisch**: Hier ein paar Bilder: [Tweet](https://twitter.com/Vrom14286662/status/1573350656576225280?s=20&t=yNd5cSre33ph7lEgac1Pyg); [Tweet](https://twitter.com/Vrom14286662/status/1573329372219641859?s=20&t=yNd5cSre33ph7lEgac1Pyg); [Tweet](https://twitter.com/Vrom14286662/status/1573679866498748418?s=20&t=VMCZgSKPgWTVebZa9rS1jw)
+55. **
 
 
 
