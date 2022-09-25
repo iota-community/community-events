@@ -21,7 +21,7 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 18. **IOTA Audio**: [Iotabee](https://twitter.com/iotabee) mit einem [Audio chat](https://twitter.com/iotabee/status/1572486017088901120?s=20&t=lPaIkBVsxWmQlsNz9a_MGg) über Shimmer Token Price Speculation 
 19. **IOTA Audio**: [Phylo](https://twitter.com/PhyloIota) organisiert ein [IOTA Community Hangout](https://twitter.com/PhyloIota/status/1572373688548478982?s=20&t=lPaIkBVsxWmQlsNz9a_MGg)
 20. **IOTA Audio**: [MoonVault](https://twitter.com/Moon_Vault_News) hat ein Interview mit [TheFansTogether](https://twitter.com/TheFansTogether) auf Twitter Spaces gemacht: [Part 1](https://twitter.com/Moon_Vault_News/status/1571904975793696768?s=20&t=FfD1k3qzsKDB2qQplgw1BA), [Part 2](https://twitter.com/Moon_Vault_News/status/1572011229014790145?s=20&t=VMCZgSKPgWTVebZa9rS1jw) 
-21. **IOTA Audio**: 
+21. **Crypto News**: Ripple Pump: [Ripple: 45 Prozent Kursexplosion – was steckt wirklich dahinter?](https://www.msn.com/de-de/finanzen/top-stories/ripple-45-prozent-kursexplosion-e2-80-93-was-steckt-wirklich-dahinter/ar-AA129I8J)
 22. **IOTA Ökosystem**: [Pipe verkündet](https://twitter.com/PIPE_DATA/status/1571870151796203522?s=20&t=lPaIkBVsxWmQlsNz9a_MGg) ihre neue Webseite: [tanglehub.eu](https://tanglehub.eu/)
 23. **Shimmer Launch**: In Zürich gibt es wohl eine Shimmer Launchparty: [Tweet](https://twitter.com/zurichiota/status/1572552908209803264?s=52&t=_Y4K9--1t2rt0hLR6N1KLg)
 24. **Crypto News**: [BREAKING: Bitcoin soll gesetzliches Zahlungsmittel in Dubai werden – Königliche Familie bereitet Legalisierung vor](https://www.crypto-news-flash.com/de/dubai-will-btc-und-andere-kryptowaehrungen-als-gesetzliche-zahlungsmittel/?feed_id=10359&_unique_id=632b19d288298)
@@ -69,7 +69,7 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 66. **IOTA Ökosystem**: Es gab ein Update bei TanglePay: [Tweet](https://twitter.com/tanglepaycom/status/1573897769814994944?s=20&t=FfD1k3qzsKDB2qQplgw1BA)
 67. **IOTA Ökosystem**: Iotabee hat [angekündigt](https://twitter.com/iotabee/status/1573623344565477376?s=20&t=FfD1k3qzsKDB2qQplgw1BA), dass man mit den Iceberg Legends von TanglePay Tradingrabatte bekommt
 68. **IOTA Artikel**: von Cointelegraph: [IOTA: Erfolgreicher Abschluss des EU-Projekts Ensuresec](https://de.cointelegraph.com/news/iota-successful-completion-of-the-eu-project-ensuresec)
-69. **IOTA Artikel**: 
+69. **IOTA Hype**: Der Moonaco Podcast spricht von einer "very special episode is set for launch👀" in seinem [Tweet](https://twitter.com/MoonacoPodcast/status/1573706547905060865?s=20&t=OzsreVj62NGkonM7SuG62g)
 70. **IOTA Artikel**: von Kryptoguru: [IOTA’S SHIMMER STARTET AM 28. SEPTEMBER 2022!](https://krypto-guru.de/news/iotas-shimmer-startet-am-28-september-2022/)
 71. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/222-wochenr%C3%BCckblick-vom-18-bis-24-september-2022/) bzw. [weekly summary](https://www.iota-talk.com/index.php?article/223-week-in-review-from-18th-to-24nd-september-2022/)
 
