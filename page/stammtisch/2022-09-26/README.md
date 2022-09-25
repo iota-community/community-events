@@ -69,6 +69,7 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 66. **IOTA Ökosystem**: Iotabee hat [angekündigt](https://twitter.com/iotabee/status/1573623344565477376?s=20&t=FfD1k3qzsKDB2qQplgw1BA), dass man mit den Iceberg Legends von TanglePay Tradingrabatte bekommt
 67. **IOTA Artikel**: von Cointelegraph: [IOTA: Erfolgreicher Abschluss des EU-Projekts Ensuresec](https://de.cointelegraph.com/news/iota-successful-completion-of-the-eu-project-ensuresec)
 68. **IOTA Artikel**: von Kryptoguru: [IOTA’S SHIMMER STARTET AM 28. SEPTEMBER 2022!](https://krypto-guru.de/news/iotas-shimmer-startet-am-28-september-2022/)
+69. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/222-wochenr%C3%BCckblick-vom-18-bis-24-september-2022/) bzw. [weekly summary](https://www.iota-talk.com/index.php?article/223-week-in-review-from-18th-to-24nd-september-2022/)
 
 
 
