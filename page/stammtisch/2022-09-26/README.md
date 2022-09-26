@@ -84,6 +84,7 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 82. **IOTA Artikel**: von [The Daily Degen]https://twitter.com/IccdNewsletter): [The Shimmer Network is Here!](https://iotacreator.substack.com/p/the-shimmer-network-is-here)
 83. **Shimmer Release Party**: Offenbar startet der Live-Stream am Mittwoch um 14 Uhr: [Tweet](https://twitter.com/iota/status/1574323038736289792?s=20&t=qfbd6dJIVMPMJtxEVzTkZg)
 84. **IOTA Identity**: [TangleLabs veröffentlichen](https://twitter.com/Tangle_Labs/status/1574388239158235136?s=20&t=3kawUsZHpQ9pUWBjX2b3DQ) ihren [Identity Manager](https://tanglelabs.io/identity-manager-self-sovereign-identity-made-simple/)
+85. 
 
 
 
