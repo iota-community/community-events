@@ -81,7 +81,7 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 79. **IOTA Youtube**: von ItsGigoTV: [Iota hat großes vor ! Unglaublich wichtige News für alle Iota Fans !!!](https://www.youtube.com/watch?v=KhcMcwX0iNA)
 80. **IOTA Youtube**: von Bitcoin Trading Informant: [IOTA jetzt kommt es darauf an! #iota](https://www.youtube.com/watch?v=PYEVIDiZXAc); [IOTA Make it or break it important Moment!](https://www.youtube.com/watch?v=fKsAfQWBk64)
 81. **IOTA TikTok**: ein TikTok Video wurde durch den [Tweet von N. Ramachandran](https://twitter.com/navinram999/status/1574297439850438657?s=20&t=BONo4esUirJBqmF_63lbJA) auf [Twitter verbreitet](https://twitter.com/cryptochefs_io/status/1573364666000347136?s=20&t=BONo4esUirJBqmF_63lbJA)
-82. **IOTA Artikel**: von [The Daily Degen]https://twitter.com/IccdNewsletter): [The Shimmer Network is Here!](https://iotacreator.substack.com/p/the-shimmer-network-is-here)
+82. **IOTA Artikel**: von [The Daily Degen](https://twitter.com/IccdNewsletter): [The Shimmer Network is Here!](https://iotacreator.substack.com/p/the-shimmer-network-is-here)
 83. **Shimmer Release Party**: Offenbar startet der Live-Stream am Mittwoch um 14 Uhr: [Tweet](https://twitter.com/iota/status/1574323038736289792?s=20&t=qfbd6dJIVMPMJtxEVzTkZg)
 84. **IOTA Identity**: [TangleLabs veröffentlichen](https://twitter.com/Tangle_Labs/status/1574388239158235136?s=20&t=3kawUsZHpQ9pUWBjX2b3DQ) ihren [Identity Manager](https://tanglelabs.io/identity-manager-self-sovereign-identity-made-simple/)
 85. **IOTA Promote**: Coin360 hat sich IOTA angeschaut: [Tweet 1/20](https://twitter.com/COIN360com/status/1574392260317573122?s=20&t=qfbd6dJIVMPMJtxEVzTkZg)
