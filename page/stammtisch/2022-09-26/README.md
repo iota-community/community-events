@@ -73,6 +73,15 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 70. **IOTA Artikel**: von Kryptoguru: [IOTA’S SHIMMER STARTET AM 28. SEPTEMBER 2022!](https://krypto-guru.de/news/iotas-shimmer-startet-am-28-september-2022/)
 71. **IOTA Audio**: [IOTA Nigeria](https://twitter.com/IotaNigeria) mit einem [Roundtable zum Shimmer Start](https://twitter.com/IotaNigeria/status/1573993024576753666?s=20&t=GsBe6j_2q46gKtzV5byPtQ)
 72. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/222-wochenr%C3%BCckblick-vom-18-bis-24-september-2022/) bzw. [weekly summary](https://www.iota-talk.com/index.php?article/223-week-in-review-from-18th-to-24nd-september-2022/)
+73. **IOTA Ökosystem**: Das Soonaverse [veröffentlicht](https://twitter.com/soon_labs/status/1574262883944304640?s=20&t=BONo4esUirJBqmF_63lbJA) diesen Blogpost: [Soonaverse Shimmer Launch](https://soonlabs.medium.com/soonaverse-shimmer-launch-921f6b79e6dc)
+74. **IOTA Ökosystem**: ShimmerSea macht ein weiteres Audit: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1574277592617730049?s=20&t=qfbd6dJIVMPMJtxEVzTkZg)
+75. **IOTA Pump**: Am Montag steigt der Kurs um fast 10% (seit 7 Tagen 20%) obwohl alles andere eher runter geht. 
+76. **IOTA Ökosystem**: Das DLT.green Team war wieder fleißig: [Tweet](https://twitter.com/dlt_green/status/1574280494342193153?s=20&t=qfbd6dJIVMPMJtxEVzTkZg)
+78. **IOTA Youtube**: von Common Sense Crypto: [WHY YOU SHOULD BE HOLDING IOTA MIOTA💥THIS IS AN ABSOLUTE GAME CHANGER💥IOTA MIOTA NEWS TODAY](https://www.youtube.com/watch?v=X-vokkoS6Ho)
+79. **IOTA Youtube**: von ItsGigoTV: [Iota hat großes vor ! Unglaublich wichtige News für alle Iota Fans !!!](https://www.youtube.com/watch?v=KhcMcwX0iNA)
+80. **IOTA Youtube**: von Bitcoin Trading Informant: [IOTA jetzt kommt es darauf an! #iota](https://www.youtube.com/watch?v=PYEVIDiZXAc)
+
+
 
 
 
