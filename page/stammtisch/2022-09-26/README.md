@@ -79,7 +79,8 @@ IOTA Quicktakes 19.09.2022: Shimmer Smart Contract Testnet Is Live, Jungle Race 
 76. **IOTA Ökosystem**: Das DLT.green Team war wieder fleißig: [Tweet](https://twitter.com/dlt_green/status/1574280494342193153?s=20&t=qfbd6dJIVMPMJtxEVzTkZg)
 78. **IOTA Youtube**: von Common Sense Crypto: [WHY YOU SHOULD BE HOLDING IOTA MIOTA💥THIS IS AN ABSOLUTE GAME CHANGER💥IOTA MIOTA NEWS TODAY](https://www.youtube.com/watch?v=X-vokkoS6Ho)
 79. **IOTA Youtube**: von ItsGigoTV: [Iota hat großes vor ! Unglaublich wichtige News für alle Iota Fans !!!](https://www.youtube.com/watch?v=KhcMcwX0iNA)
-80. **IOTA Youtube**: von Bitcoin Trading Informant: [IOTA jetzt kommt es darauf an! #iota](https://www.youtube.com/watch?v=PYEVIDiZXAc)
+80. **IOTA Youtube**: von Bitcoin Trading Informant: [IOTA jetzt kommt es darauf an! #iota](https://www.youtube.com/watch?v=PYEVIDiZXAc); [IOTA Make it or break it important Moment!](https://www.youtube.com/watch?v=fKsAfQWBk64)
+81. **IOTA TikTok**: ein TikTok Video wurde durch den [Tweet von N. Ramachandran](https://twitter.com/navinram999/status/1574297439850438657?s=20&t=BONo4esUirJBqmF_63lbJA) auf [Twitter verbreitet](https://twitter.com/cryptochefs_io/status/1573364666000347136?s=20&t=BONo4esUirJBqmF_63lbJA)
 
 
 
