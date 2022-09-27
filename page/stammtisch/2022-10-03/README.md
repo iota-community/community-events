@@ -20,6 +20,10 @@
 18. **Shimmer Hype**: Dom [tweeet](https://twitter.com/DomSchiener/status/1574756674363080704?s=20&t=u1GN9rGt8FYrel5jz68mRA) ein paar Artikel mit IOTA/Shimmer inside
 19. **IOTA DeFi**: [LendeXe geht auf Twitter](https://twitter.com/LendeXeFinance) zunehmen in die Marketing Offensive, mit einigen gut gemachten Videos (Ton an!)
 20. **IF Artikel**: auf deutsch: [IOTA Smart Contracts Version 0.3.0](https://iota-kurs.de/iota-smart-contracts-version-0-3-0/); [Shimmer Smart Contracts Testnet geht in Betrieb](https://iota-kurs.de/shimmer-smart-contracts-testnet-geht-in-betrieb/); [Jungle Race tritt dem Touchpoint Open Builders Programm bei](https://iota-kurs.de/jungle-race-tritt-dem-touchpoint-open-builders-programm-bei/)
+21. **IOTA Hype**: Auf einmal posten viele Twitter Influenzer mit vielen Followern über IOTA/Shimmer: [Tweet 1 (12K Follower)](https://twitter.com/coinesper/status/1574829941283328008?s=20&t=7oKAl3oVLAII131nnGEUeg); [Tweet 2 (140K Follower)](https://twitter.com/machinelearnflx/status/1574644875747811330?s=20&t=7oKAl3oVLAII131nnGEUeg); [Tweet 3 (13K Follower](https://twitter.com/ihub_crypto/status/1574826172491468800?s=20&t=7oKAl3oVLAII131nnGEUeg); [Tweet 4 (110K Follower](https://twitter.com/TheDustyBC/status/1574830311380201477?s=20&t=7oKAl3oVLAII131nnGEUeg)
+22. **IOTA Youtube Hype**: von BitBoy Crypto (1,4 Mil Follower): [Everything You Need To Know About IOTA (Crypto For The New Economy)](https://twitter.com/TheDustyBC/status/1574830311380201477?s=20&t=7oKAl3oVLAII131nnGEUeg)
+23. **IOTA Ökosystem**: Das Soonaverse hat ein Audit absolviert: [Tweet 1/4](https://twitter.com/soon_labs/status/1574824816305004544)
+24. 
 
 
 
