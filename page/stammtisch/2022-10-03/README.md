@@ -8,5 +8,14 @@
 6. **Firefly Promo**: Es gibt ein T-Shirt Starter Set bei iotashops: [Tweet](https://twitter.com/iotashop/status/1574658018360295424?s=20&t=u1GN9rGt8FYrel5jz68mRA)
 7. **Shimmer NFT**: Das Team SMATh will wohl auf Shimmer bauen: [Tweet](https://twitter.com/TeamSMATh/status/1574505445686902852?s=20&t=u1GN9rGt8FYrel5jz68mRA) und [Dom S. heißt sie im Ökosystem willkommen](https://twitter.com/DomSchiener/status/1574646642774769665?s=20&t=u1GN9rGt8FYrel5jz68mRA)
 8. **Shimmer DeFi**: Ein [Tweet von Snowman](https://twitter.com/SnowMan_Finance/status/1574620877144338432?s=20&t=u1GN9rGt8FYrel5jz68mRA) darüber, dass sie ready to deploy sind mit dem Shimmer EVM start
+9. **IOTA Youtube**: von Iotapoet: [SHIMMER Network Trailer: The Awakening](https://www.youtube.com/watch?v=EoVu3OFS7Vg)
+10. **Schimmer Youtube**: von der IF: [Shimmer Community Launch Party - September 28th at 2PM CEST](https://www.youtube.com/watch?v=MgznoGFPhA8)
+11. **IOTA Ökosystem**: Neue Webseite von TangleLabs: [Identity Manager – Self Sovereign Identity Made Simple](https://tanglelabs.io/identity-manager-self-sovereign-identity-made-simple/)
+12. **IOTA Adoption**: [Chicago Connectory tweetet](https://twitter.com/connectory/status/1574520696054636545?s=20&t=4Vffzomwlmby9_vugusiOw) sehr positiv von IOTA und verlinkt ihre [Webseite (mit Bosch und IOTA inside...)](https://chicagoconnectory.com/community-iot-experience/)
+13. **IOTA Artikel**: von Crypto Daily: [IOTA’s SMR Token, Shimmer Network To Go Live Tomorrow](https://cryptodaily.co.uk/2022/09/iota-s-smr-token-shimmer-network-to-go-live-tomorrow)
+14. **IOTA Artikel**: von BTCecho: [IOTA (MIOTA): Können wichtige Neuerungen den Kurs beflügeln?](https://www.btc-echo.de/news/iota-miota-koennen-wichtige-neuerungen-den-kurs-befluegeln-151446/)
+15. **Shimmer Hype**: [BitForex hyped](https://twitter.com/bitforexcom/status/1574675578510184448?s=20&t=Bd3M7Y_vECVg7Vv5JqGdUg) Shimmer mit "Something big is comming"
+16. **IOTA Ökosystem**: [Trademark East Afrika](https://twitter.com/TradeMarkEastA) hat ein Abkommen mit [TBS_Tanzania](https://twitter.com/TBS_Tanzania) über Standardisierung von Lieferketten im Wert von 9 Billionen unterzeichnet: [Tweet](https://twitter.com/TradeMarkEastA/status/1574336544542019584?s=20&t=drdSxfzUYmiKxXl9B__tHA); Hat erstmal nix mit IOTA zu tun, aber kann ja nicht schaden...
+17. 
 
 
