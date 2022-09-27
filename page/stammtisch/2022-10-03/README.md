@@ -16,6 +16,6 @@
 14. **IOTA Artikel**: von BTCecho: [IOTA (MIOTA): Können wichtige Neuerungen den Kurs beflügeln?](https://www.btc-echo.de/news/iota-miota-koennen-wichtige-neuerungen-den-kurs-befluegeln-151446/)
 15. **Shimmer Hype**: [BitForex hyped](https://twitter.com/bitforexcom/status/1574675578510184448?s=20&t=Bd3M7Y_vECVg7Vv5JqGdUg) Shimmer mit "Something big is comming"
 16. **IOTA Ökosystem**: [Trademark East Afrika](https://twitter.com/TradeMarkEastA) hat ein Abkommen mit [TBS_Tanzania](https://twitter.com/TBS_Tanzania) über Standardisierung von Lieferketten im Wert von 9 Billionen unterzeichnet: [Tweet](https://twitter.com/TradeMarkEastA/status/1574336544542019584?s=20&t=drdSxfzUYmiKxXl9B__tHA); Hat erstmal nix mit IOTA zu tun, aber kann ja nicht schaden...
-17. 
+17. **IOTA Artikel**: von Crypto News Flash: [IOTA lanciert SMR Token mit Schimmer – Dies wird die Branche revolutionieren](https://www.crypto-news-flash.com/de/iota-startet-smr-token-mit-shimmer-kurs-steigt-bereits/)
 
 
