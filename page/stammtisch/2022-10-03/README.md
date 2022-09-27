@@ -19,6 +19,8 @@
 17. **IOTA Artikel**: von Crypto News Flash: [IOTA lanciert SMR Token mit Schimmer – Dies wird die Branche revolutionieren](https://www.crypto-news-flash.com/de/iota-startet-smr-token-mit-shimmer-kurs-steigt-bereits/)
 18. **Shimmer Hype**: Dom [tweeet](https://twitter.com/DomSchiener/status/1574756674363080704?s=20&t=u1GN9rGt8FYrel5jz68mRA) ein paar Artikel mit IOTA/Shimmer inside
 19. **IOTA DeFi**: [LendeXe geht auf Twitter](https://twitter.com/LendeXeFinance) zunehmen in die Marketing Offensive, mit einigen gut gemachten Videos (Ton an!)
+20. **IF Artikel**: auf deutsch: [IOTA Smart Contracts Version 0.3.0](https://iota-kurs.de/iota-smart-contracts-version-0-3-0/); [Shimmer Smart Contracts Testnet geht in Betrieb](https://iota-kurs.de/shimmer-smart-contracts-testnet-geht-in-betrieb/); [Jungle Race tritt dem Touchpoint Open Builders Programm bei](https://iota-kurs.de/jungle-race-tritt-dem-touchpoint-open-builders-programm-bei/)
+
 
 
 
