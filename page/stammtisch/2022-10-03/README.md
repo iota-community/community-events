@@ -29,6 +29,9 @@
 27. **Tangle DeFi Learn**: [Iotabee veröffentlichen](https://twitter.com/iotabee/status/1575047935485571072?s=20&t=sJwvfMEXvPegac3IsIz06Q) ihren Artikel: [Swap with Iotabee : How does the price work? AMM explained](https://medium.com/@iotabee/swap-with-iotabee-how-does-the-price-work-amm-explained-c57332798fea)
 28. **Shimmer Release**: Shimmer [tweetet](https://twitter.com/shimmernet/status/1575059129948934149?s=20&t=sJwvfMEXvPegac3IsIz06Q) ein Shimmer-Promo-Video und sagt in 15 min. geht's los! Um 12 Uhr CET war es dann soweit: [Tweet von Shimmer](https://twitter.com/shimmernet/status/1575062856084725760?s=20&t=OVi6TspW0zNvz0MfUq-jtA); Blogpost: [Shimmer Network and Token Launch](https://blog.shimmer.network/shimmer-network-and-token-launch/)
 29. **Firefly Release**: [https://blog.shimmer.network/how-to-claim-smr-firefly/](https://blog.shimmer.network/how-to-claim-smr-firefly/)
+30. **Tangle DeFi**: Das Soonaverse [veröffentlicht](https://twitter.com/soon_labs/status/1575110315603161089?s=20&t=hzIQHhIc1MQplPDWIT6HWw) ihre DEX
+31. **Shimmer Exchange**: BitForex [kündigt Shimmer Trading an](https://twitter.com/bitforexcom/status/1575085061476560898?s=20&t=GxRzlbxc6apKsFsMe8yVWA) ab 2022/09/28 21:00 (GMT+8)
+
 
 
 
