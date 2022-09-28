@@ -32,6 +32,7 @@
 30. **Tangle DeFi**: Das Soonaverse [veröffentlicht](https://twitter.com/soon_labs/status/1575110315603161089?s=20&t=hzIQHhIc1MQplPDWIT6HWw) ihre DEX
 31. **Shimmer Exchange**: BitForex [kündigt Shimmer Trading an](https://twitter.com/bitforexcom/status/1575085061476560898?s=20&t=GxRzlbxc6apKsFsMe8yVWA) ab 2022/09/28 21:00 (GMT+8); Allerdings schreiben sie dann ein ["Announcement on Postpone the Shimmer (SMR) Listing"](https://support.bitforex.com/hc/en-us/articles/10966587214105-Announcement-on-Postpone-the-Shimmer-SMR-Listing). Der genaue Text: "at the request of the Shimmer (SMR) team, BitForex will postpone the SMR listing, SMR deposit service is suspended as this announcement is published"; 2h später öffnet die Börse: [Tweet](https://twitter.com/bitforexcom/status/1575144036494897152?s=20&t=YcNDz879pJANS2A3axdhpw); Hier gehts direkt zum [SMR/USDT Pair auf BitForex](https://www.bitforex.com/en/spot/smr_usdt)
 32. **IOTA Dev**: Im Livestream wurde die neue Developer Umgebung geteilt: [shimmer.network/developer](https://shimmer.network/developer)
+33. **Shimmer Release Party**: Shimmer hat den Livestream in [mehreren Tweet](https://twitter.com/shimmernet/status/1575090453480980481?s=20&t=yAY7dg0XYAtFBdC_S0Ygdw) kommentiert
 
 
 
