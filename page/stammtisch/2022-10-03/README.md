@@ -24,6 +24,9 @@
 22. **IOTA Youtube Hype**: von BitBoy Crypto (1,4 Mil Follower): [Everything You Need To Know About IOTA (Crypto For The New Economy)](https://twitter.com/TheDustyBC/status/1574830311380201477?s=20&t=7oKAl3oVLAII131nnGEUeg); Selbst die [IF tweetet](https://twitter.com/iota/status/1575019495277592576?s=20&t=ath-9Ez-CiOcYWUzoIUxuA) und bedankt sich bei BitBoy; Navin [bietet ihm an](https://twitter.com/navinram999/status/1574853845515177992?s=20&t=ath-9Ez-CiOcYWUzoIUxuA) beim Research zu unterstützen weil das Video etwas veraltet klingt. BitBoy [nimmt das Angeobt an](https://twitter.com/Bitboy_Crypto/status/1574871958231064602?s=20&t=ath-9Ez-CiOcYWUzoIUxuA)
 23. **IOTA Ökosystem**: Das Soonaverse hat ein Audit absolviert: [Tweet 1/4](https://twitter.com/soon_labs/status/1574824816305004544); Und es gab wieder ein $Soon Airdrop: [Tweet](https://twitter.com/soon_labs/status/1574979714514657280?s=20&t=ath-9Ez-CiOcYWUzoIUxuA)
 24. **IOTA Promote**: Crypto Nova mit [14 Tweets zu Shimmer](https://twitter.com/CryptoGirlNova/status/1574866255428943872?s=20&t=ath-9Ez-CiOcYWUzoIUxuA)
+25. **Tangle Ökosystem**: TangleVerse mit einer Sneak Preview von ihrer Webseite: [Tweet](https://twitter.com/TangleVerseWeb/status/1575048310179926017?s=20&t=ath-9Ez-CiOcYWUzoIUxuA)
+26. **Tangle Ökosystem**: TanglePay Wallet Update für Shimmer Testnetz: [Tweet](https://twitter.com/tanglepaycom/status/1575057725431590913?s=20&t=ath-9Ez-CiOcYWUzoIUxuA)
+27. **Tangle DeFi Learn**: [Iotabee veröffentlichen](https://twitter.com/iotabee/status/1575047935485571072?s=20&t=sJwvfMEXvPegac3IsIz06Q) ihren Artikel: [Swap with Iotabee : How does the price work? AMM explained](https://medium.com/@iotabee/swap-with-iotabee-how-does-the-price-work-amm-explained-c57332798fea)
 
 
 
