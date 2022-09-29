@@ -49,6 +49,8 @@
 47. **IOTA Promote**: Navin R. [bietet sich an](https://twitter.com/navinram999/status/1575471437195927553?s=20&t=BfhqAt3Ozl49vZPv82NZuQ) mit einem Buchautor (120K Follower) zu sprechen
 48. **Shimmer DeFi**: Iotabee [freuen sich](https://twitter.com/iotabee/status/1575487615608188928?s=20&t=AdT1WU3X0TGwyExiGEbRrg) über 100K TVL
 49. **Firefly Wallte**: Token erstellen im Shimmer Firefly Wallet ist noch etwas versteckt im Wallet, aber machbar: [Tweet von Nicole](https://twitter.com/cheerful_nicole/status/1575496341928570881?s=20&t=AdT1WU3X0TGwyExiGEbRrg) erklärt wie es geht
+50. **IOTA Ökosystem**: Neues vom Projekt Alfried: [Tweet](https://twitter.com/BenBoenisch/status/1575507913845755905?s=20&t=QCYp8OVUeVWsUr_oHTJZKg)
+51. **Shimmer Exchange**: Nachricht von Bitpanda: [Tweet](https://twitter.com/bitpanda/status/1575509263027429380?s=20&t=QCYp8OVUeVWsUr_oHTJZKg)
 
 
 
