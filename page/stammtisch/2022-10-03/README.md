@@ -66,6 +66,9 @@
 64. **Shimmer Youtube**: von Spec Weekly [Episode 21: Using Firefly to get SHIMMER TOKENS! I get my SHIMMIES! Warning: Low hype.](https://www.youtube.com/watch?v=hjcg-W0qtGo)
 65. **IOTA Youtube**: Am 5. Oktober mit Dom und Levante: [Shimmer Talks with Dominik Schiener and Levente Pap - October 5th at 5PM CEST](https://www.youtube.com/watch?v=EzvW6ZoCu20)
 66. **IOTA Artikel**: Der Content Creator DAO hat einen neuen Daily Degen Artikel [veröffentlicht](https://twitter.com/IccdNewsletter/status/1575769419753869312?s=20&t=GGLtKnuzrRMSjU8DOjMqLg): [The Daily Degen Interviews Jonas Theis of the IOTA GoShimmer Team](https://medium.com/@iotacontentcreators/the-daily-degen-interviews-jonas-theis-of-the-iota-goshimmer-team-b73235aa87ce); Dom [tweetet](https://twitter.com/DomSchiener/status/1575770873289924608?s=20&t=GGLtKnuzrRMSjU8DOjMqLg) darüber mit "Jonas is one of the MVPs and visionaries of IOTA 2.0"
+67. **Crypto News**: Crypto Community im Bundestag: [Tweet](https://twitter.com/f_schaeffler/status/1575783292112375812?s=20&t=W9FZcMyYG5vaAUKT6w4xAw)
+68. **Shimmer Exchanges**: Shimmer soon auf Bitfinex: [Tweet](https://twitter.com/bitfinex/status/1575787858480209922?s=20&t=GGLtKnuzrRMSjU8DOjMqLg)
+69. **IOTA Youtube**: Alexander [tweetet](https://twitter.com/shortaktien/status/1575786419775496192?s=20&t=GGLtKnuzrRMSjU8DOjMqLg) über das neue Probably Nothing Video: [AKKA - Soonaverse - Kamilabs - Firefly - Shimmer - IOTA News Deutsch](https://www.youtube.com/watch?v=KML7WJ8M-dM); Hier [auf english](https://www.youtube.com/watch?v=qd671kyWqxo)
 
 
 
