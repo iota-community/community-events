@@ -60,6 +60,8 @@
 58. **IOTA DeFi/CeFi**: [Iotabee](https://twitter.com/iotabee) ist sehr erfolgreich gestartet. Schon $200K TVL nach 2 Tagen Shimmer: [Tweet](https://twitter.com/iotabee/status/1575630157838422016?s=20&t=ZhcAkYFx6OEO3Y_JrBjRgw)
 59. **Shimmer Warn**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1575637603700703233?s=20&t=ZhcAkYFx6OEO3Y_JrBjRgw) über ein Problem auf TanglePay das mit dem L2 Fee Token zusammen hängt. Hat aber nix mit der Tangletechnologie zu tun: [Tweet](https://twitter.com/tanglepaycom/status/1575714929654788096?s=20&t=ZhcAkYFx6OEO3Y_JrBjRgw)
 60. **Shimmer NFT**: Das Soonaverse hat die ersten OG NFTs ins Shimmer Netzwerk übertragen: [Tweet](https://twitter.com/soon_labs/status/1575717439186214912?s=20&t=BexoZqa1xCCErKn93M3mYw). Das bedeutet aber auch, dass man diese NFTs zur Zeit nur mit SMR kaufen und verkaufen kann. 
+61. **IOTA Artikel**: von CoinDesk: [First Mover Asia: IOTA’s Shimmer Joins the Race to Become the Next Big Blockchain; Bitcoin Seesaws Before Holding Near $19.5K](https://www.coindesk.com/markets/2022/09/29/first-mover-asia-iotas-shimmer-joins-the-race-to-become-the-next-big-blockchain-bitcoin-seesaws-before-holding-near-195k/)
+62. **Twitter Hype**: Ein Mercedes Helm in Singapur der shimmert ist sehr wahrscheinlich nur ein lustiger Zufall: [Tweet](https://twitter.com/MercedesAMGF1/status/1575554197919272960?s=20&t=TljUnfWxeDeyYpj7DkGobQ)
 
 
 
