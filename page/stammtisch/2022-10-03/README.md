@@ -71,6 +71,7 @@
 69. **IOTA Youtube**: Alexander [tweetet](https://twitter.com/shortaktien/status/1575786419775496192?s=20&t=GGLtKnuzrRMSjU8DOjMqLg) über das neue Probably Nothing Video: [AKKA - Soonaverse - Kamilabs - Firefly - Shimmer - IOTA News Deutsch](https://www.youtube.com/watch?v=KML7WJ8M-dM); Hier [auf english](https://www.youtube.com/watch?v=qd671kyWqxo)
 70. **Tangle Identity**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1575837743745146881?s=20&t=ejx9lEHptHyGmRfeMDIEZg) über den Blogpost: [IOTA Identity is Coming to Layer 1 - Explore IOTA Identity on Shimmer Now](https://blog.shimmer.network/iota-identity-is-coming-to-layer-1/)
 71. **IOTA Ökosystem**: [Byz_Gen tweetet](https://twitter.com/gen_byz/status/1574337999902474240?s=20&t=fFIYhVLMUZpGlNMirPHm9w) über ihren Blogpost: [Integrating IOTA into our FALKOR platform](https://www.byzgen.com/insights/integrating-iota-into-our-falkor-platform#insight-content)
+72. **Tangle Ökosystem**: Das [TangleVerse tweetet](https://twitter.com/TangleVerseWeb/status/1575849405994762240?s=20&t=GGLtKnuzrRMSjU8DOjMqLg) über ihre neue Webseite [tangleverse.io](https://tangleverse.io/) auf der "alle" Tangle Projekte gelistet werden und die noch viel vor haben: "Hey! 🖐 We are still in beta. Stay tuned for big updates veeery soon!"
 
 
 
