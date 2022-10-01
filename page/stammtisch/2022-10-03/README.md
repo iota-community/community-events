@@ -73,10 +73,10 @@
 71. **IOTA Artikel**: von Crypto News Flash: [IOTA Identity Manager ermöglicht Millionen von Unternehmen und Organisationen den Zugriff auf IOTA-Technologien](https://twitter.com/FlashDeutsch/status/1575886177646714881)
 72. **IOTA Identity**: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1575945283455680512?s=20&t=YIShXIS42WtnsbYSHnO_uw) über den Release von IOTA Identity 0.7.0 alpha 2
 73. **IOTA Ökosystem**: [Byz_Gen tweetet](https://twitter.com/gen_byz/status/1574337999902474240?s=20&t=fFIYhVLMUZpGlNMirPHm9w) über ihren Blogpost: [Integrating IOTA into our FALKOR platform](https://www.byzgen.com/insights/integrating-iota-into-our-falkor-platform#insight-content)
-74. **Tangle Ökosystem**: Das [TangleVerse tweetet](https://twitter.com/TangleVerseWeb/status/1575849405994762240?s=20&t=GGLtKnuzrRMSjU8DOjMqLg) über ihre neue Webseite [tangleverse.io](https://tangleverse.io/) auf der "alle" Tangle Projekte gelistet werden und die noch viel vor haben: "Hey! 🖐 We are still in beta. Stay tuned for big updates veeery soon!"
+74. **Tangle Ökosystem**: Das [TangleVerse tweetet](https://twitter.com/TangleVerseWeb/status/1575849405994762240?s=20&t=GGLtKnuzrRMSjU8DOjMqLg) über ihre neue Webseite [tangleverse.io](https://tangleverse.io/) auf der "alle" Tangle Projekte gelistet werden und die noch viel vor haben: "Hey! 🖐 We are still in beta. Stay tuned for big updates veeery soon!"; Noch ein [Tweet von Tangleverse](https://twitter.com/TangleVerseWeb/status/1576216111233830914?s=20&t=YTIaabcIJqjlTpj9wCdD4w)
 75. **Crypto News**: Solana wurde mal wieder neu gestoppt und neu gestartet.. [Tweet](https://twitter.com/SolanaStatus/status/1576010340248084481?s=20&t=YIShXIS42WtnsbYSHnO_uw)
 76. **IOTA Adoption**: Es gab in Singapur offenbar auch einige Treffen mit Assembly VCs (höre Audio in Punkt 42). Garrett von TanglePay [freut sich](https://twitter.com/GarrettBullish/status/1576040253877792771?s=20&t=YIShXIS42WtnsbYSHnO_uw) über den [Tweet von Adam](https://twitter.com/Schpoopel/status/1575487322283708418) mit den Worten "@HashKey_Capital is one of the most reputable and famous funds with great investment tracking record in Asia"
-77. **IOTA Learn**: Huhn hat in Dornbirn ein Workshop mit dem Fokus auf Shimmer und IOTa gemacht: [Tweet](https://twitter.com/huhn511/status/1575831231521964033?s=20&t=YIShXIS42WtnsbYSHnO_uw)
+77. **IOTA Learn**: Huhn hat in Dornbirn ein Workshop mit dem Fokus auf Shimmer und IOTa gemacht: [Tweet](https://twitter.com/huhn511/status/1575831231521964033?s=20&t=YIShXIS42WtnsbYSHnO_uw); Ihr findet den Workshop hier [auf GitHub](https://github.com/huhn511/shimmer-js-workshop)
 78. **Tech News**: Tesla hat bei seinen AI days einen humanoiden Roboter vorgestellt: [Tweet](https://twitter.com/teslaownersSV/status/1576022300910006272?s=20&t=YIShXIS42WtnsbYSHnO_uw)
 79. **Shimmer Ökosystem**: Der $Soon Token wird bei BitForex gelistet: [Tweet](https://twitter.com/soon_labs/status/1575896183125336067?s=20&t=YIShXIS42WtnsbYSHnO_uw), Announcement: [BitForex Launches Soonaverse (SOON) at 18:00 on October 11th, 2022 (GMT+8)](https://support.bitforex.com/hc/en-us/articles/11040920897945)
 80. **IOTA Artikel**: auf Financen.ch: [Bitcoin-Konkurrent IOTA: Das sollten Anleger über die Kryptowährung wissen](https://www.finanzen.ch/nachrichten/devisen/bitcoin-konkurrent-iota-das-sollten-anleger-ueber-die-kryptowahrung-wissen-1031771903)
@@ -84,7 +84,9 @@
 82. **IOTA Ökosystem**: LendeXe macht ein AMA soon: [Tweet](https://twitter.com/LendeXeFinance/status/1575942189300883457?s=20&t=IWsBHMoQK1obYLhl7MIG8Q)
 83. **IOTA DeFi Learn**: Iotabee veröffentlicht den Artikel: [Being LP with Iotabee: Part I — APR explained](https://medium.com/@iotabee/being-lp-with-iotabee-part-i-apr-explained-2428fcb6c08b)
 84. **IOTA Youtube**: Der Bitcoin Trading Informant hat wieder einige deutsch IOTA Videos gemacht: [Youtube](https://www.youtube.com/c/BitcoinTradingInformant)
-85. 
+85. **Assembly Learn**:: Cyril-Defi [erklärt Assembly in mehreren Tweets](https://twitter.com/cyrilXBT/status/1576270771806150657?s=20&t=YTIaabcIJqjlTpj9wCdD4w)
+86. **IOTA Stammtisch**: Die [IF bewirbt](https://twitter.com/iota/status/1576149930233810944?s=20&t=YTIaabcIJqjlTpj9wCdD4w) den biggest Stammtisch ever in Berlin nächstes Wochenende
+
 
 
 
