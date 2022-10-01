@@ -72,6 +72,9 @@
 70. **Tangle Identity**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1575837743745146881?s=20&t=ejx9lEHptHyGmRfeMDIEZg) über den Blogpost: [IOTA Identity is Coming to Layer 1 - Explore IOTA Identity on Shimmer Now](https://blog.shimmer.network/iota-identity-is-coming-to-layer-1/)
 71. **IOTA Ökosystem**: [Byz_Gen tweetet](https://twitter.com/gen_byz/status/1574337999902474240?s=20&t=fFIYhVLMUZpGlNMirPHm9w) über ihren Blogpost: [Integrating IOTA into our FALKOR platform](https://www.byzgen.com/insights/integrating-iota-into-our-falkor-platform#insight-content)
 72. **Tangle Ökosystem**: Das [TangleVerse tweetet](https://twitter.com/TangleVerseWeb/status/1575849405994762240?s=20&t=GGLtKnuzrRMSjU8DOjMqLg) über ihre neue Webseite [tangleverse.io](https://tangleverse.io/) auf der "alle" Tangle Projekte gelistet werden und die noch viel vor haben: "Hey! 🖐 We are still in beta. Stay tuned for big updates veeery soon!"
+73. **Crypto News**: Solana wurde mal wieder neu gestoppt und neu gestartet.. [Tweet](https://twitter.com/SolanaStatus/status/1576010340248084481?s=20&t=YIShXIS42WtnsbYSHnO_uw)
+
+
 
 
 
