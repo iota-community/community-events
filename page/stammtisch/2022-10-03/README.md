@@ -78,16 +78,18 @@
 76. **IOTA Adoption**: Es gab in Singapur offenbar auch einige Treffen mit Assembly VCs (höre Audio in Punkt 42). Garrett von TanglePay [freut sich](https://twitter.com/GarrettBullish/status/1576040253877792771?s=20&t=YIShXIS42WtnsbYSHnO_uw) über den [Tweet von Adam](https://twitter.com/Schpoopel/status/1575487322283708418) mit den Worten "@HashKey_Capital is one of the most reputable and famous funds with great investment tracking record in Asia"
 77. **IOTA Learn**: Huhn hat in Dornbirn ein Workshop mit dem Fokus auf Shimmer und IOTa gemacht: [Tweet](https://twitter.com/huhn511/status/1575831231521964033?s=20&t=YIShXIS42WtnsbYSHnO_uw); Ihr findet den Workshop hier [auf GitHub](https://github.com/huhn511/shimmer-js-workshop)
 78. **Tech News**: Tesla hat bei seinen AI days einen humanoiden Roboter vorgestellt: [Tweet](https://twitter.com/teslaownersSV/status/1576022300910006272?s=20&t=YIShXIS42WtnsbYSHnO_uw)
-79. **Shimmer Ökosystem**: Der $Soon Token wird bei BitForex gelistet: [Tweet](https://twitter.com/soon_labs/status/1575896183125336067?s=20&t=YIShXIS42WtnsbYSHnO_uw), Announcement: [BitForex Launches Soonaverse (SOON) at 18:00 on October 11th, 2022 (GMT+8)](https://support.bitforex.com/hc/en-us/articles/11040920897945)
+79. **Shimmer Ökosystem**: Der $Soon Token wird bei BitForex gelistet: [Tweet](https://twitter.com/soon_labs/status/1575896183125336067?s=20&t=YIShXIS42WtnsbYSHnO_uw), Announcement: [BitForex Launches Soonaverse (SOON) at 18:00 on October 11th, 2022 (GMT+8)](https://support.bitforex.com/hc/en-us/articles/11040920897945); BitForex [tweetet](https://twitter.com/bitforexcom/status/1576447663376982016?s=20&t=mZhHAL6ss3rO43KGht9smg) nochmal darüber
 80. **IOTA Artikel**: auf Financen.ch: [Bitcoin-Konkurrent IOTA: Das sollten Anleger über die Kryptowährung wissen](https://www.finanzen.ch/nachrichten/devisen/bitcoin-konkurrent-iota-das-sollten-anleger-ueber-die-kryptowahrung-wissen-1031771903)
 81. **Tangle Learn**: 2 neue YT-Tutorial von der IF: [Tutorial - Wallet Lib in JS - Generate Addresses](https://www.youtube.com/watch?v=vu1S1Z9Y0-k); [Tutorial - Wallet Lib in JS - Check Account Balance](https://www.youtube.com/watch?v=VtyyI-J7qD4)
-82. **IOTA Ökosystem**: LendeXe macht ein AMA soon: [Tweet](https://twitter.com/LendeXeFinance/status/1575942189300883457?s=20&t=IWsBHMoQK1obYLhl7MIG8Q)
-83. **IOTA DeFi Learn**: Iotabee veröffentlicht den Artikel: [Being LP with Iotabee: Part I — APR explained](https://medium.com/@iotabee/being-lp-with-iotabee-part-i-apr-explained-2428fcb6c08b)
-84. **IOTA Youtube**: Der Bitcoin Trading Informant hat wieder einige deutsch IOTA Videos gemacht: [Youtube](https://www.youtube.com/c/BitcoinTradingInformant)
-85. **Assembly Learn**:: Cyril-Defi [erklärt Assembly in mehreren Tweets](https://twitter.com/cyrilXBT/status/1576270771806150657?s=20&t=YTIaabcIJqjlTpj9wCdD4w)
-86. **IOTA Stammtisch**: Die [IF bewirbt](https://twitter.com/iota/status/1576149930233810944?s=20&t=YTIaabcIJqjlTpj9wCdD4w) den biggest Stammtisch ever in Berlin nächstes Wochenende
-87. **IOTA DEX/CEX**: Iotabee [tweetet](https://twitter.com/iotabee/status/1576408605443518465?s=20&t=mZhHAL6ss3rO43KGht9smg) über ihren Blogpost: [Let’s Build the Best SMR/MIOTA Liquidity](https://medium.com/@iotabee/lets-build-the-best-smr-miota-liquidity-510bdff26d99)
-88. **IOTA Ökosystem**: Iotaread bringt eine Zeitschrift raus: [Tweet](https://twitter.com/iotaread/status/1575847210901708800?s=20&t=mZhHAL6ss3rO43KGht9smg)
+82. Shimmer Learn**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1575154608732872707?s=20&t=_ZCWKSgL_PC3IdHDn49g4g) über die neue [Shimmer Netzwerk Developer Seite](https://shimmer.network/developer)
+83. **IOTA Ökosystem**: LendeXe macht ein AMA soon: [Tweet](https://twitter.com/LendeXeFinance/status/1575942189300883457?s=20&t=IWsBHMoQK1obYLhl7MIG8Q)
+84. **IOTA DeFi Learn**: Iotabee veröffentlicht den Artikel: [Being LP with Iotabee: Part I — APR explained](https://medium.com/@iotabee/being-lp-with-iotabee-part-i-apr-explained-2428fcb6c08b)
+85. **IOTA Youtube**: Der Bitcoin Trading Informant hat wieder einige deutsch IOTA Videos gemacht: [Youtube](https://www.youtube.com/c/BitcoinTradingInformant)
+86. **Assembly Learn**:: Cyril-Defi [erklärt Assembly in mehreren Tweets](https://twitter.com/cyrilXBT/status/1576270771806150657?s=20&t=YTIaabcIJqjlTpj9wCdD4w)
+87. **IOTA Stammtisch**: Die [IF bewirbt](https://twitter.com/iota/status/1576149930233810944?s=20&t=YTIaabcIJqjlTpj9wCdD4w) den biggest Stammtisch ever in Berlin nächstes Wochenende
+88. **IOTA DEX/CEX**: Iotabee [tweetet](https://twitter.com/iotabee/status/1576408605443518465?s=20&t=mZhHAL6ss3rO43KGht9smg) über ihren Blogpost: [Let’s Build the Best SMR/MIOTA Liquidity](https://medium.com/@iotabee/lets-build-the-best-smr-miota-liquidity-510bdff26d99)
+89. **IOTA Ökosystem**: Iotaread bringt eine Zeitschrift raus: [Tweet](https://twitter.com/iotaread/status/1575847210901708800?s=20&t=mZhHAL6ss3rO43KGht9smg)
+90. 
 
 
 
