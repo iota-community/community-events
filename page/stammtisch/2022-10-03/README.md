@@ -1,7 +1,7 @@
 ## Stammtischthemen für Montag, den 3.10.2022
 
 1. **IF Youtube**: IOTA Quicktakes: [IOTA Quicktakes 29.08.2022: SUSEE Project, DeFIRE Joins Touchpoint, New Governance Proposal & more!](https://www.youtube.com/watch?v=mUlFg7h1V80); Zusammengefasst von der IF in [4 Tweets](https://twitter.com/iota/status/1574323033430544387?s=20&t=u1GN9rGt8FYrel5jz68mRA)
-2. **IOTA Ökosystem**: [Pipe tweetet](https://twitter.com/PIPE_DATA/status/1574414923752476676?s=20&t=u1GN9rGt8FYrel5jz68mRA) über ihren Blogpost: [PIPE – the user-friendly decentralized data storage](https://tanglehub.eu/pipe-pipe-the-user-friendly-decentralized-data-storage/)
+2. **IOTA Ökosystem**: [Pipe tweetet](https://twitter.com/PIPE_DATA/status/1574414923752476676?s=20&t=u1GN9rGt8FYrel5jz68mRA) über ihren Blogpost: [PIPE – the user-friendly decentralized data storage](https://tanglehub.eu/pipe-pipe-the-user-friendly-decentralized-data-storage/); Sie wollen am 3.Oktober mit ausgewählten Firmen das Ganze bereits testen: [Tweet](https://twitter.com/Tanglehub_eu/status/1576611971729829888?s=20&t=kxUoQqBqRBMXNM_9aTIUEA)
 3. **Shimmer Learn**: [Cyril-Defi](https://twitter.com/cyrilXBT) hat wieder eine gute [Tweet Zusammenfassung über Stardust](https://twitter.com/cyrilXBT/status/1574458832780132352?s=20&t=u1GN9rGt8FYrel5jz68mRA) gemacht
 4. **IOTA Artikel**: von Crypto News Flash: [IOTA lanciert SMR Token mit Schimmer – Dies wird die Branche revolutionieren](https://www.crypto-news-flash.com/de/iota-startet-smr-token-mit-shimmer-kurs-steigt-bereits/)
 5. **IOTA Youtube**: von dem Bitcoin Trading Informant: [IOTA Shimmer! Mehr Fragen mehr Antworten?](https://www.youtube.com/watch?v=b2KWAl9yekM)
@@ -88,10 +88,12 @@
 86. **Assembly Learn**: [Cyril-Defi](https://twitter.com/cyrilXBT) erklärt Assembly [in mehreren Tweets](https://twitter.com/cyrilXBT/status/1576270771806150657?s=20&t=YTIaabcIJqjlTpj9wCdD4w)
 87. **IOTA Stammtisch Berlin**: Die [IF bewirbt](https://twitter.com/iota/status/1576149930233810944?s=20&t=YTIaabcIJqjlTpj9wCdD4w) den "biggest Stammtisch ever in Berlin" nächstes Wochenende und [Sebastian Heußler tweetet](https://twitter.com/huhn511/status/1576555586082045953?s=20&t=-rcm5ILN8qCS3BG-7m_HXg) darüber, dass er am Samstag ein [Smart Contract Tutorial](https://twitter.com/huhn511/status/1576555586082045953?s=20&t=-rcm5ILN8qCS3BG-7m_HXg) macht und auch Touchpoint will ein Workshop machen: [Event](https://www.meetup.com/de-DE/iota-meetup-workshop/events/288854494/)
 88. **IOTA DEX/CEX**: [Iotabee tweetet](https://twitter.com/iotabee/status/1576408605443518465?s=20&t=mZhHAL6ss3rO43KGht9smg) über ihren Blogpost: [Let’s Build the Best SMR/MIOTA Liquidity](https://medium.com/@iotabee/lets-build-the-best-smr-miota-liquidity-510bdff26d99)
-89. **IOTA Ökosystem**: [IOTAREAD](https://twitter.com/iotaread) bringt eine Zeitschrift herraus die man mit einem NFT auch online auf [iotaread.com:3001](http://iotaread.com:3001/) lesen kann: [Tweet](https://twitter.com/iotaread/status/1575847210901708800?s=20&t=mZhHAL6ss3rO43KGht9smg)
+89. **IOTA Ökosystem**: [IOTAREAD](https://twitter.com/iotaread) bringt eine Zeitschrift herraus die man mit einem NFT auch online auf [iotaread.com:3001](http://iotaread.com:3001/) lesen kann: [Tweet](https://twitter.com/iotaread/status/1575847210901708800?s=20&t=mZhHAL6ss3rO43KGht9smg); Hier ein [Video von dem Online-Magazin](https://twitter.com/Vrom14286662/status/1576695241784332289?s=20&t=kxUoQqBqRBMXNM_9aTIUEA) 
 90. **IOTA Wochenrückblick**: Iota Talk Wochenrückblick [auf deutsch](https://www.iota-talk.com/index.php?article/225-week-in-review-from-25th-september-to-1nd-october-2022/) und [auf englisch](https://www.iota-talk.com/index.php?article/224-wochenr%C3%BCckblick-vom-25-september-bis-1-oktober-2022/)
 91. **IOTA Artikel**: von Crypto News Flash: [IOTA und Dell bauen Megaprojekt Alvarium – Updates und Zukunftsausblicke](https://www.crypto-news-flash.com/de/datenintegritaetsprojekt-von-iota-dell-intel-und-linux-foundation-macht-fortschritte/)
 92. **Shimmer Promo**: Lucky postet eine Video Präsentation zu Shimmer: [Tweet](https://twitter.com/Iota_Godfather/status/1576529337875996673?s=20&t=-rcm5ILN8qCS3BG-7m_HXg)
+93. **IOTA NFT Gaming**: Das ShiUniverse bringt ein neues spektakuläre Video heraus: [SHI-STORIES - A NEW DAWN (NFT QR EDITION)](https://www.youtube.com/watch?v=ksSj01CqbXc); Selbst Dom S. ist [begeistert](https://twitter.com/DomSchiener/status/1576648855277690881?s=20&t=kxUoQqBqRBMXNM_9aTIUEA)
+
 
 
 
