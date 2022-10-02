@@ -1,6 +1,6 @@
 ## Stammtischthemen für Montag, den 3.10.2022
 
-1. **IF Youtube**: IOTA Quicktakes: [IOTA Quicktakes 29.08.2022: SUSEE Project, DeFIRE Joins Touchpoint, New Governance Proposal & more!](https://www.youtube.com/watch?v=mUlFg7h1V80); Zusammengefasst in [4 IF Tweets](https://twitter.com/iota/status/1574323033430544387?s=20&t=u1GN9rGt8FYrel5jz68mRA)
+1. **IF Youtube**: IOTA Quicktakes: [IOTA Quicktakes 29.08.2022: SUSEE Project, DeFIRE Joins Touchpoint, New Governance Proposal & more!](https://www.youtube.com/watch?v=mUlFg7h1V80); Zusammengefasst von der IF in [4 Tweets](https://twitter.com/iota/status/1574323033430544387?s=20&t=u1GN9rGt8FYrel5jz68mRA)
 2. **IOTA Ökosystem**: [Pipe tweetet](https://twitter.com/PIPE_DATA/status/1574414923752476676?s=20&t=u1GN9rGt8FYrel5jz68mRA) über ihren Blogpost: [PIPE – the user-friendly decentralized data storage](https://tanglehub.eu/pipe-pipe-the-user-friendly-decentralized-data-storage/)
 3. **Shimmer Learn**: [Cyril-Defi](https://twitter.com/cyrilXBT) hat wieder eine gute [Tweet Zusammenfassung über Stardust](https://twitter.com/cyrilXBT/status/1574458832780132352?s=20&t=u1GN9rGt8FYrel5jz68mRA) gemacht
 4. **IOTA Artikel**: von Crypto News Flash: [IOTA lanciert SMR Token mit Schimmer – Dies wird die Branche revolutionieren](https://www.crypto-news-flash.com/de/iota-startet-smr-token-mit-shimmer-kurs-steigt-bereits/)
