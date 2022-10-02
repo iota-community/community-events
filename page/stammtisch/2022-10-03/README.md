@@ -86,6 +86,8 @@
 84. **IOTA Youtube**: Der Bitcoin Trading Informant hat wieder einige deutsch IOTA Videos gemacht: [Youtube](https://www.youtube.com/c/BitcoinTradingInformant)
 85. **Assembly Learn**:: Cyril-Defi [erklärt Assembly in mehreren Tweets](https://twitter.com/cyrilXBT/status/1576270771806150657?s=20&t=YTIaabcIJqjlTpj9wCdD4w)
 86. **IOTA Stammtisch**: Die [IF bewirbt](https://twitter.com/iota/status/1576149930233810944?s=20&t=YTIaabcIJqjlTpj9wCdD4w) den biggest Stammtisch ever in Berlin nächstes Wochenende
+87. **IOTA DEX/CEX**: Iotabee [tweetet](https://twitter.com/iotabee/status/1576408605443518465?s=20&t=mZhHAL6ss3rO43KGht9smg) über ihren Blogpost: [Let’s Build the Best SMR/MIOTA Liquidity](https://medium.com/@iotabee/lets-build-the-best-smr-miota-liquidity-510bdff26d99)
+88. **IOTA Ökosystem**: Iotaread bringt eine Zeitschrift raus: [Tweet](https://twitter.com/iotaread/status/1575847210901708800?s=20&t=mZhHAL6ss3rO43KGht9smg)
 
 
 
