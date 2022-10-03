@@ -98,6 +98,7 @@
 96. **Banken Gerüchte**: Was ist da los bei Credit Suisse und der Deutschen Bank? [Dax verliert mehr als ein Prozent – Credit Suisse verunsichert die Märkte](https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-verliert-mehr-als-ein-prozent-credit-suisse-verunsichert-die-maerkte/28720300.html); [Lehman Brothers 2.0 Situation May Cause Another Catastrophe on Crypto and Financial Markets](https://u.today/lehman-brothers-20-situation-may-cause-another-catastrophe-on-crypto-and-financial-markets)
 97. **Crypto Adoption**: Bitcoin bald legal tender in Mexiko? [Tweet](https://twitter.com/BitcoinMagazine/status/1576938403622400000?s=20&t=siwAACL9cvw0v2KF8pKVPQ)
 98. **Shimmer Exchange**: Bitfinex erlaubt bereits die Einzahlung von Shimmer: [Tweet 1](https://twitter.com/Bitcoin_K_S_A/status/1576982451905523712?s=20&t=siwAACL9cvw0v2KF8pKVPQ); [Tweet 2](https://twitter.com/_Iotina_/status/1576989284409610240?s=20&t=siwAACL9cvw0v2KF8pKVPQ)
+99. **Twitter Hype**: Hans Moog [tweetet](https://twitter.com/hus_qy/status/1576578465993674755?s=20&t=siwAACL9cvw0v2KF8pKVPQ) "IOTA will be orders of magnitude more secure and decentralized than Bitcoin."
 
 
 
