@@ -6,4 +6,4 @@
 4. **Shimmer Pump**: Vor dem Bitfinex Listing pumpt Shimmer am Dienstag auf 13cents: [Shimmer Kurs auf CoinMarketcap](https://coinmarketcap.com/currencies/shimmer/)
 5. **IOTA Ökosystem**: Bivreost [veröffentlichen](https://twitter.com/bivreost/status/1577181964427493378?s=20&t=JHTF9Ha6fh7HpVDmpXWMGg) in ihrer [Bivreost Academy Telegrammgruppe](https://t.co/kZaPbcwS7a) einen Artikel: What is IOTA
 6. **IOTA Ökosystem**: walt.id ist unterstützen jetzt scheinbar Gaia-X mit ihren Identity-Tools: [Tweet](https://twitter.com/walt_id/status/1577204398328930306?s=20&t=JHTF9Ha6fh7HpVDmpXWMGg)
-7. **
+7. **Crypto News**: Russland will Bitcoin für internationalen Zahlungsverkehr annehmen: [Tweet](https://twitter.com/BitcoinMagazine/status/1577250250917433345?s=20&t=J5cUd0aHHNFLV3zc6XN0cg) "Russia to allow international trade in #Bitcoin and crypto "for any industry without restrictions" - Head of Financial Policy at Ministry of Finance"
