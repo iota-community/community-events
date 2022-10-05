@@ -33,4 +33,4 @@
 31. **Shimmer DeFi**: ShimmerSea Trainings DEX soon: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1577645744282079233?s=20&t=fyqvTjczF3cao1w4krsXpw); Blogpost: [ShimmerSea Training DEX](https://medium.com/@shimmerseadefi/shimmersea-training-dex-22566e69d0fd)
 32. **Shimmer Ökosystem**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1577644780716179457?s=20&t=fyqvTjczF3cao1w4krsXpw), dass [HiFiDeFi](https://twitter.com/HiFiDeFi) dem Touchpoint Builder Programm beitritt und verlinkt den Blogpost: [Touchpoint Open Builders Program Welcomes HiFi Gaming Society - Initiating the Next Phase of Crypto Gaming](https://blog.shimmer.network/touchpoint-welcomes-hifi-gaming-society/)
 33. **IOTA Ökosystem**: Die ETO Gruppe präsentiert den smarten Leitpfosten auf einer Messe: [Tweet]8https://twitter.com/BenBoenisch/status/1577661716640530432?s=20&t=AcCiY0vppo_KnA01PITmYw)
-34. 
+34. **IOTA Gaming**: Ein Lebenszeichen von IOTA_WorldZ: [Tweet](https://twitter.com/Iota_WorldZ/status/1577666074300088323?s=20&t=AcCiY0vppo_KnA01PITmYw); Man kann das Spiel irgendwie schon testen: [http://iotaworldz.com/](http://iotaworldz.com/)
