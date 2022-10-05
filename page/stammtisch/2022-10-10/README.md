@@ -38,6 +38,7 @@
 36. **Shimmer Exchange**: Bitfinex startet trading am 6.10.22 um 13:00 UTC: [Tweet](https://twitter.com/IotaPoet/status/1577726790432428077?s=20)
 37. **Crypto Regulierung**: von BTC Echo: [Europäischer Rat stimmt für Krypto-Regulierung MiCA](https://www.btc-echo.de/schlagzeilen/europaeischer-rat-stimmt-fuer-krypto-regulierung-mica-151932/)
 38. **IOTA DeFi**: Resonate, die dApp die später auch auf Shimmer starten will, ist gestartet auf anderen Blockchains: [Tweet](https://twitter.com/RevestFinance/status/1577706081270337537?s=20); Hier die [app.resonate.finance](https://app.resonate.finance/); Es gab auch ne [Launch Party auf Twitter Spaces](https://twitter.com/RevestFinance/status/1577731758832979971?s=20)
+39. **Tangle Promote**: Neue Info-Tafel von iotainfo: [Tweet](https://twitter.com/cryptowelter/status/1577716198271340546?s=20&t=hYywOqy2w7htPVryxx1YCA)
 
 
 
