@@ -62,6 +62,7 @@
 60. **IOTA Wochenrückblick**: von Iota Talk: [Wochenrückblick](https://www.iota-talk.com/index.php?article/226-wochenr%C3%BCckblick-vom-2-bis-8-oktober-2022/)
 61. **IOTA Adoption**: Strnadl spricht vom "industrial Metaverse" und darüber, dass IOTA eine Rolle spielen könnte: [Tweet](https://twitter.com/archimate/status/1578782075767107584?s=20&t=7e4jclwzhHxfPsjse45Y8w)
 62. **IOTA Ökosystem**: Das Soonaverse hat die Tradingfunktion verbessert: [Tweet](https://twitter.com/adam_unchained/status/1579138234290155520?s=20&t=7e4jclwzhHxfPsjse45Y8w)
+63. **IOTA Artikel**: Von Crypto News Flash: [IOTA: ShimmerEVM Beta, DeFi Ecosystem Launch udn On-chain governance als nächstes auf dem Plan](https://www.crypto-news-flash.com/de/iota-shimmerevm-beta-defi-ecosystem-launch-und-on-chain-governance-mit-wallet-voting/)
 
 
 
