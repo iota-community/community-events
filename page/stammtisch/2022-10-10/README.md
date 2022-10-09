@@ -57,7 +57,8 @@
 55. **IOTA Youtube**: [Connecting the Nodes: IOTA - Seoul Mate to the Metaverse!](https://www.youtube.com/watch?v=0Ne9y8_LwtY)
 56. **IOTA Audio**: Neuer Moonaco Podcast [Episode 42 - Soonlabs](https://open.spotify.com/episode/198Q4vsPObQldyudkdUmRw)
 57. **IOTA DeFi**: Iotabee hat jetzt auch ein Miota/Soon Liquidity Pool: [Tweet von Iotabee](https://twitter.com/iotabee/status/1579059279059095552?s=20&t=7e4jclwzhHxfPsjse45Y8w)
-58. **IOTA Wochenrückblick**: von Iota Talk: [Wochenrückblick](https://www.iota-talk.com/index.php?article/226-wochenr%C3%BCckblick-vom-2-bis-8-oktober-2022/)
+58. **Assembly Learn**: [Bivreost erklärt](https://twitter.com/bivreost/status/1579074615422377986?s=20&t=7e4jclwzhHxfPsjse45Y8w) Assembly 
+59. **IOTA Wochenrückblick**: von Iota Talk: [Wochenrückblick](https://www.iota-talk.com/index.php?article/226-wochenr%C3%BCckblick-vom-2-bis-8-oktober-2022/)
 
 
 
