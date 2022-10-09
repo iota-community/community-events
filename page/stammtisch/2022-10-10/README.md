@@ -47,12 +47,18 @@
 45. **Shimmer Hype**: Shimmer auf $0,18cent kurz vor dem Bitfinex Start
 46. **Shimmer Ökosystem**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1578007174000828416?s=20&t=_yll_mhFeHINkHhrmNNgFQ) darüber, dass Iotabee dem Touchpoint Programm beigetreten ist; Blogpost: [Iotabee Joins Touchpoint Open Builders Program](https://blog.shimmer.network/iotabee-joins-touchpoint/)
 47. **IOTA Stammtisch Berlin**: [Porsche Digital tweetet](https://twitter.com/Porschedigital/status/1578011321357856768?s=20&t=dJIo7AcI-CY6xHayXT0aEA) über das IOTA Meetup in Berlin
-48. **Shimmer DeFi Learn**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1578014724490420225?s=20&t=_yll_mhFeHINkHhrmNNgFQ) darüber, dass es eine DeFi Schulung vom Bankless DAO gibt im IOTA Discord
+48. **Shimmer DeFi Learn**: Neue DeFi Schulung vom Bankless DAO: [Shimmer Defi Education Sessions #4 by Bankless Consulting: Yield farming Strategies 06/10/22 #defi](https://www.youtube.com/watch?v=1QpfpoMam64)
 49. **Shimmer Promote**: [Bitfinex (mit 980K Followern) tweetet](https://twitter.com/bitfinex/status/1578014728709971968?s=20&t=_yll_mhFeHINkHhrmNNgFQ) über den Handelsstart bei Bitfinex von SMR/USDT
 50. **IOTA Ökosystem**: Iotaorigin [tweetet](https://twitter.com/origin_iota/status/1578032973923786753?s=20&t=CKBVO2j-Z7jXiBQkYA6iMQ) darüber, dass sie einem Startup Pathway beitreten
 51. **IOTA Speculation**: [Tweetstomr](https://twitter.com/josephskewes/status/1578014838701187077?s=20&t=CKBVO2j-Z7jXiBQkYA6iMQ) über Spekulationen zum digitalen EURO und IOTA
 52. **IOTA Weekend Berlin Freitag**: [IOTA Experience Weekend Live | Friday Meetup](https://www.youtube.com/watch?v=OkFaQKRgp_w&feature=youtu.be)
 53. **IOTA Weekend Berlin Sonntag**: [IOTA Experience Weekend Live | Sunday Online Meetup](https://www.youtube.com/watch?v=3-uS0x2P1II)
+54. **IOTA Youtube**: [Spec Weekly - Episode 22: SHIMMER DeFi! What it means to be a LIQUIDITY PROVIDER. Might be boring..](https://www.youtube.com/watch?v=rH00S9tvyDc)
+55. **IOTA Youtube**: [Connecting the Nodes: IOTA - Seoul Mate to the Metaverse!](https://www.youtube.com/watch?v=0Ne9y8_LwtY)
+56. **IOTA Audio**: Neuer Moonaco Podcast [Episode 42 - Soonlabs](https://open.spotify.com/episode/198Q4vsPObQldyudkdUmRw)
+57. **IOTA DeFi**: Iotabee hat jetzt auch ein Miota/Soon Liquidity Pool: [Tweet von Iotabee](https://twitter.com/iotabee/status/1579059279059095552?s=20&t=7e4jclwzhHxfPsjse45Y8w)
+58. **IOTA Wochenrückblick**: von Iota Talk: [Wochenrückblick](https://www.iota-talk.com/index.php?article/226-wochenr%C3%BCckblick-vom-2-bis-8-oktober-2022/)
+
 
 
 
