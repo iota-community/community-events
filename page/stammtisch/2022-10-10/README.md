@@ -59,6 +59,8 @@
 57. **IOTA DeFi**: Iotabee hat jetzt auch ein Miota/Soon Liquidity Pool: [Tweet von Iotabee](https://twitter.com/iotabee/status/1579059279059095552?s=20&t=7e4jclwzhHxfPsjse45Y8w)
 58. **Assembly Learn**: [Bivreost erklärt](https://twitter.com/bivreost/status/1579074615422377986?s=20&t=7e4jclwzhHxfPsjse45Y8w) Assembly 
 59. **IOTA Wochenrückblick**: von Iota Talk: [Wochenrückblick](https://www.iota-talk.com/index.php?article/226-wochenr%C3%BCckblick-vom-2-bis-8-oktober-2022/)
+60. **IOTA Adoption**: Strnadl spricht vom industrial Metaverse und darüber, dass IOTA eine Rolle spielen könnte: [Tweet](https://twitter.com/archimate/status/1578782075767107584?s=20&t=7e4jclwzhHxfPsjse45Y8w)
+61. **IOTA Ökosystem**: Das Soonaverse hat die Tradingfunktion verbessert: [Tweet](https://twitter.com/adam_unchained/status/1579138234290155520?s=20&t=7e4jclwzhHxfPsjse45Y8w)
 
 
 
