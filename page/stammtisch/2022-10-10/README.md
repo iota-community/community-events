@@ -51,7 +51,9 @@
 49. **Shimmer Promote**: [Bitfinex (mit 980K Followern) tweetet](https://twitter.com/bitfinex/status/1578014728709971968?s=20&t=_yll_mhFeHINkHhrmNNgFQ) über den Handelsstart bei Bitfinex von SMR/USDT
 50. **IOTA Ökosystem**: Iotaorigin [tweetet](https://twitter.com/origin_iota/status/1578032973923786753?s=20&t=CKBVO2j-Z7jXiBQkYA6iMQ) darüber, dass sie einem Startup Pathway beitreten
 51. **IOTA Speculation**: [Tweetstomr](https://twitter.com/josephskewes/status/1578014838701187077?s=20&t=CKBVO2j-Z7jXiBQkYA6iMQ) über Spekulationen zum digitalen EURO und IOTA
-52. 
+52. **IOTA Weekend Berlin Freitag**: [IOTA Experience Weekend Live | Friday Meetup](https://www.youtube.com/watch?v=OkFaQKRgp_w&feature=youtu.be)
+53. **IOTA Weekend Berlin Sonntag**: [IOTA Experience Weekend Live | Sunday Online Meetup](https://www.youtube.com/watch?v=3-uS0x2P1II)
+
 
 
 
