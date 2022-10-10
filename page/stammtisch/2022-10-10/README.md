@@ -65,6 +65,8 @@
 63. **IOTA Artikel**: Von Crypto News Flash: [IOTA: ShimmerEVM Beta, DeFi Ecosystem Launch udn On-chain governance als nächstes auf dem Plan](https://www.crypto-news-flash.com/de/iota-shimmerevm-beta-defi-ecosystem-launch-und-on-chain-governance-mit-wallet-voting/)
 64. **Shimmer Promote**: [Bitfinex tweetet](https://twitter.com/bitfinex/status/1579403920493150213?s=20&t=FlqsxL3Tqr2SYR6s2OLZ5w) und verlinkt den Blogpost: [Have NFTs Become More Than Just Another Crypto Fad?](https://blog.bitfinex.com/education/have-nfts-become-more-than-just-another-crypto-fad/)
 65. **Shimmer Promote**: BitForex macht ein Trading Event für Shimmer: [Tweet](https://twitter.com/bitforexcom/status/1579386395617296384?s=20&t=FlqsxL3Tqr2SYR6s2OLZ5w); Hier die Event Details: [BitForex Exclusive: Unlock the Mystery Box to Win $50,000 SMR](https://support.bitforex.com/hc/en-us/articles/11344881999769-BitForex-Exclusive-Unlock-the-Mystery-Box-to-Win-50-000-SMR)
+66. **IOTA Artikel**: von Crypto News Flash: [This is why IOTA will take big market share of DeFi universe – Speed, cost, developer onboarding](https://www.crypto-news-flash.com/this-is-why-iota-will-take-big-market-share-of-defi-universe-speed-cost-developer-onboarding/)
+67. **Shimmer Soon**: [Soon-Tweet](https://twitter.com/shimmersafari/status/1579436053764923399) von [Shimmer Safari](https://twitter.com/shimmersafari)
 
 
 
