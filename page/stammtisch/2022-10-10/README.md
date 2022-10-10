@@ -41,28 +41,30 @@
 39. **Tangle Promote**: Neue Info-Tafel von iotainfo: [Tweet](https://twitter.com/cryptowelter/status/1577716198271340546?s=20&t=hYywOqy2w7htPVryxx1YCA)
 40. **Shimmer Promote**: Shimmer ist im Spotlight Artikel auf BitForex: [Tweet](https://twitter.com/bitforexcom/status/1577837430148943872?s=20&t=Wd2O_b4Tm8-gcnarEw-MRA)
 41. **Help for Ukraine**: Das Soonaverse [tweetet](https://twitter.com/soon_labs/status/1577905537148391424?s=20&t=Wd2O_b4Tm8-gcnarEw-MRA) über eine NFT Kollektion zu gunsten der Ukraine; Adam schrebt dazu auch [6 emotionale Tweets](https://twitter.com/adam_unchained/status/1577905799179145216?s=20&t=Wd2O_b4Tm8-gcnarEw-MRA)
-42. **IOTA Science**: Naitsabes schreibt im Discord etwas über die 4 Coordicide Paper: [Tweet](https://twitter.com/Vrom14286662/status/1577924720573530112?s=20&t=Wd2O_b4Tm8-gcnarEw-MRA)
+42. **IOTA Science**: Naitsabes von der IF schreibt im Discord etwas über die 4 Coordicide Paper: [Tweet](https://twitter.com/Vrom14286662/status/1577924720573530112?s=20&t=Wd2O_b4Tm8-gcnarEw-MRA)
 43. **Shimmer Promote**: [Ping-Pong-Tweets](https://twitter.com/shimmernet/status/1577928356355604481?s=20&t=Wd2O_b4Tm8-gcnarEw-MRA) von Shimmer und SoonLabs (Soonaverse)
 44. **IOTA Ökosystem**: [Tweet](https://twitter.com/RustyRobotCC/status/1577957314476343297?s=20&t=Wd2O_b4Tm8-gcnarEw-MRA) von dem RRCC. Sie haben jetzt ein Medium Profil und eine neue Roadmap: [The RRCC Roadmap](https://medium.com/@RustyRobotCountryClub/the-rrcc-roadmap-6a992d6346b8)
 45. **Shimmer Hype**: Shimmer auf $0,18cent kurz vor dem Bitfinex Start
-46. **Shimmer Ökosystem**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1578007174000828416?s=20&t=_yll_mhFeHINkHhrmNNgFQ) darüber, dass Iotabee dem Touchpoint Programm beigetreten ist; Blogpost: [Iotabee Joins Touchpoint Open Builders Program](https://blog.shimmer.network/iotabee-joins-touchpoint/)
+46. **Shimmer Ökosystem**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1578007174000828416?s=20&t=_yll_mhFeHINkHhrmNNgFQ) darüber, dass [Iotabee](https://twitter.com/iotabee) dem Touchpoint Programm beigetreten ist; Blogpost: [Iotabee Joins Touchpoint Open Builders Program](https://blog.shimmer.network/iotabee-joins-touchpoint/)
 47. **IOTA Stammtisch Berlin**: [Porsche Digital tweetet](https://twitter.com/Porschedigital/status/1578011321357856768?s=20&t=dJIo7AcI-CY6xHayXT0aEA) über das IOTA Meetup in Berlin
 48. **Crypto News**: Die Binance Chain wird angehalten: [Binance Smart Chain Paused Following $600 Million BNB Hack (Report)](https://cryptopotato.com/binance-smart-chain-paused-following-600-million-bnb-hack-report/); Evaldas hat das [kommentiert](https://twitter.com/lunfardo314/status/1579005394550403072?s=20&t=7e4jclwzhHxfPsjse45Y8w)
-49. **Shimmer DeFi Learn**: Neue DeFi Schulung vom Bankless DAO: [Shimmer Defi Education Sessions #4 by Bankless Consulting: Yield farming Strategies 06/10/22 #defi](https://www.youtube.com/watch?v=1QpfpoMam64)
+49. **Shimmer DeFi Youtube**: Neue DeFi Schulung vom Bankless DAO: [Shimmer Defi Education Sessions #4 by Bankless Consulting: Yield farming Strategies 06/10/22 #defi](https://www.youtube.com/watch?v=1QpfpoMam64)
 50. **Shimmer Promote**: [Bitfinex (mit 980K Followern) tweetet](https://twitter.com/bitfinex/status/1578014728709971968?s=20&t=_yll_mhFeHINkHhrmNNgFQ) über den Handelsstart bei Bitfinex von SMR/USDT
-51. **IOTA Ökosystem**: Iotaorigin [tweetet](https://twitter.com/origin_iota/status/1578032973923786753?s=20&t=CKBVO2j-Z7jXiBQkYA6iMQ) darüber, dass sie einem Startup Pathway beitreten
-52. **IOTA Speculation**: [Tweetstomr](https://twitter.com/josephskewes/status/1578014838701187077?s=20&t=CKBVO2j-Z7jXiBQkYA6iMQ) über Spekulationen zum digitalen EURO und IOTA
-53. **IOTA Weekend Berlin Freitag**: [IOTA Experience Weekend Live | Friday Meetup](https://www.youtube.com/watch?v=OkFaQKRgp_w&feature=youtu.be)
-54. **IOTA Weekend Berlin Sonntag**: [IOTA Experience Weekend Live | Sunday Online Meetup](https://www.youtube.com/watch?v=3-uS0x2P1II)
+51. **IOTA Ökosystem**: [Iotaorigin tweetet](https://twitter.com/origin_iota/status/1578032973923786753?s=20&t=CKBVO2j-Z7jXiBQkYA6iMQ) darüber, dass sie einem Startup Pathway beitreten
+52. **IOTA Spekulation**: [Tweetstorm](https://twitter.com/josephskewes/status/1578014838701187077?s=20&t=CKBVO2j-Z7jXiBQkYA6iMQ) über Spekulationen zum digitalen EURO und IOTA
+53. **IOTA Youtube**: [IOTA Experience Weekend Live | Friday Meetup](https://www.youtube.com/watch?v=OkFaQKRgp_w&feature=youtu.be)
+54. **IOTA Youtube**: [IOTA Experience Weekend Live | Sunday Online Meetup](https://www.youtube.com/watch?v=3-uS0x2P1II)
 55. **IOTA Youtube**: [Spec Weekly - Episode 22: SHIMMER DeFi! What it means to be a LIQUIDITY PROVIDER. Might be boring..](https://www.youtube.com/watch?v=rH00S9tvyDc)
 56. **IOTA Youtube**: [Connecting the Nodes: IOTA - Seoul Mate to the Metaverse!](https://www.youtube.com/watch?v=0Ne9y8_LwtY)
 57. **IOTA Audio**: Neuer Moonaco Podcast [Episode 42 - Soonlabs](https://open.spotify.com/episode/198Q4vsPObQldyudkdUmRw)
 58. **IOTA DeFi**: Iotabee hat jetzt auch ein Miota/Soon Liquidity Pool: [Tweet von Iotabee](https://twitter.com/iotabee/status/1579059279059095552?s=20&t=7e4jclwzhHxfPsjse45Y8w)
 59. **Assembly Learn**: [Bivreost erklärt](https://twitter.com/bivreost/status/1579074615422377986?s=20&t=7e4jclwzhHxfPsjse45Y8w) Assembly 
 60. **IOTA Wochenrückblick**: von Iota Talk: [Wochenrückblick](https://www.iota-talk.com/index.php?article/226-wochenr%C3%BCckblick-vom-2-bis-8-oktober-2022/)
-61. **IOTA Adoption**: Strnadl spricht vom "industrial Metaverse" und darüber, dass IOTA eine Rolle spielen könnte: [Tweet](https://twitter.com/archimate/status/1578782075767107584?s=20&t=7e4jclwzhHxfPsjse45Y8w)
-62. **IOTA Ökosystem**: Das Soonaverse hat die Tradingfunktion verbessert: [Tweet](https://twitter.com/adam_unchained/status/1579138234290155520?s=20&t=7e4jclwzhHxfPsjse45Y8w); [Tweet](https://twitter.com/soon_labs/status/1579208141291417601?s=20&t=7e4jclwzhHxfPsjse45Y8w)
+61. **IOTA Adoption**: [Strnadl](https://twitter.com/archimate) spricht vom "industrial Metaverse" und darüber, dass IOTA eine Rolle spielen könnte: [Tweet](https://twitter.com/archimate/status/1578782075767107584?s=20&t=7e4jclwzhHxfPsjse45Y8w)
+62. **IOTA Ökosystem**: Das Soonaverse hat die Tradingfunktionen verbessert: [Tweet](https://twitter.com/adam_unchained/status/1579138234290155520?s=20&t=7e4jclwzhHxfPsjse45Y8w); [Tweet](https://twitter.com/soon_labs/status/1579208141291417601?s=20&t=7e4jclwzhHxfPsjse45Y8w)
 63. **IOTA Artikel**: Von Crypto News Flash: [IOTA: ShimmerEVM Beta, DeFi Ecosystem Launch udn On-chain governance als nächstes auf dem Plan](https://www.crypto-news-flash.com/de/iota-shimmerevm-beta-defi-ecosystem-launch-und-on-chain-governance-mit-wallet-voting/)
+64. **Shimmer Promote**: [Bitfinex tweetet](https://twitter.com/bitfinex/status/1579403920493150213?s=20&t=FlqsxL3Tqr2SYR6s2OLZ5w) und verlinkt den Blogpost: [Have NFTs Become More Than Just Another Crypto Fad?](https://blog.bitfinex.com/education/have-nfts-become-more-than-just-another-crypto-fad/)
+65. **Shimmer Promote**: BitForex macht ein Trading Event für Shimmer: [Tweet](https://twitter.com/bitforexcom/status/1579386395617296384?s=20&t=FlqsxL3Tqr2SYR6s2OLZ5w); Hier die Event Details: [BitForex Exclusive: Unlock the Mystery Box to Win $50,000 SMR](https://support.bitforex.com/hc/en-us/articles/11344881999769-BitForex-Exclusive-Unlock-the-Mystery-Box-to-Win-50-000-SMR)
 
 
 
