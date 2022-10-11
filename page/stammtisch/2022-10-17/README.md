@@ -5,4 +5,5 @@
 3. **Shimmer Learn**: [2xnmore tweeetet](https://twitter.com/2xnmore/status/1579509600448978944?s=20&t=F_f7J7riimP9Aom6MjxA1Q) ein Zusammenfassung über Shimmer, die selbst [Dom Schiener lobt](https://twitter.com/DomSchiener/status/1579536094601019393?s=20&t=F_f7J7riimP9Aom6MjxA1Q) und [Shimmer retweetet](https://twitter.com/shimmernet/status/1579710534127333377?s=20&t=F_f7J7riimP9Aom6MjxA1Q)
 4. **Tangle DeFi**: Es gab ein [LendeXe AMA](https://twitter.com/LendeXeFinance) das von [IOTAPoet zusammengefasst](https://twitter.com/IotaPoet/status/1579540231178813440?s=20&t=F_f7J7riimP9Aom6MjxA1Q) wurde
 5. **Firefly Searn**: [The Scope De-Fi hat in mehreren Tweets](https://twitter.com/ScopeDefi/status/1579539808455913472?s=20&t=F_f7J7riimP9Aom6MjxA1Q) Firefly zusammen gefasst
-6. 
+6. **$Soon Exchange**: Der $Soon Token wurde auf BitForex glistet: [Tweet von SoonLabs](https://twitter.com/soon_labs/status/1579774192693948417?s=20&t=F_f7J7riimP9Aom6MjxA1Q); [Tweet von BitForex](https://twitter.com/bitforexcom/status/1579743371547267075?s=20&t=zaGxPf4cD9WaoZnFpt4WAQ)
+
