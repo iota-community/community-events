@@ -6,4 +6,6 @@
 4. **Tangle DeFi**: Es gab ein [LendeXe AMA](https://twitter.com/LendeXeFinance) das von [IOTAPoet zusammengefasst](https://twitter.com/IotaPoet/status/1579540231178813440?s=20&t=F_f7J7riimP9Aom6MjxA1Q) wurde
 5. **Firefly Searn**: [The Scope De-Fi hat in mehreren Tweets](https://twitter.com/ScopeDefi/status/1579539808455913472?s=20&t=F_f7J7riimP9Aom6MjxA1Q) Firefly zusammen gefasst
 6. **$Soon Exchange**: Der $Soon Token wurde auf BitForex glistet: [Tweet von SoonLabs](https://twitter.com/soon_labs/status/1579774192693948417?s=20&t=F_f7J7riimP9Aom6MjxA1Q); [Tweet von BitForex](https://twitter.com/bitforexcom/status/1579743371547267075?s=20&t=zaGxPf4cD9WaoZnFpt4WAQ)
+7. **Crypto News**: Google will Crypto für Cloudservice akzeptieren: [Google Joins Hands With Coinbase To Accept Crypto for Its Cloud Services](https://watcher.guru/news/google-joins-hands-with-coinbase-to-accept-crypto-for-its-cloud-services)
+8. **Crypto News**: Coinbase darf in Singapur ran: [Crypto giant Coinbase gets Singapore licence](https://www.msn.com/en-ca/money/topstories/crypto-giant-coinbase-gets-singapore-licence/ar-AA12OANT)
 
