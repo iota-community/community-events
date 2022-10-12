@@ -15,5 +15,6 @@
 13. **Shimmer Promote**: Shimmer Artikel auf Platz 5 bei CoinmarketCap: [Tweet](https://twitter.com/CoinMarketCap/status/1580060701569302529?s=20&t=Dt8eQYYkbXagtfV_LsF75A)
 14. **Shimmer Grand Commitee**: [Phylo tweetet](https://twitter.com/PhyloIota/status/1580107626461134848?s=20&t=Dt8eQYYkbXagtfV_LsF75A) über das [Shimmer Community Grant Committee](https://govern.iota.org/t/shimmer-community-grant-committee/1415) das jetzt veröffentlicht wurde
 15. **IOTA Youtube**: [Shimmer Defi Education Sessions #4 by Bankless Consulting: Yield farming Strategies 06/10/22 ](https://www.youtube.com/watch?v=hMfWfB71RdM)
-16. 
+16. **Shimmer Ökosystem**: [Shimmer verkündet](https://twitter.com/shimmernet/status/1580181526196936704?s=20&t=WWy5SYneU9RlA9Uq4xHyow) und [Onomy tweetet](https://twitter.com/OnomyProtocol/status/1580181688285822977?s=20&t=ccfHgh3RfNejMCGek11r4Q), dass das [Onomy Protocol](https://twitter.com/OnomyProtocol) im Touchpoint Open Builders Programm aufgenommen wurde: Blogpost Shimmer: [Touchpoint Open Builders Program Welcomes Onomy Protocol Touchpoint - A Multi-Chain DeFi Hub on Shimmer and IOTA](https://blog.shimmer.network/touchpoint-welcomes-onomy/); [Onomy’s Product Suite Is Coming to IOTA’s Shimmer](https://medium.com/onomy-protocol/onomys-product-suite-is-coming-to-iota-s-shimmer-4060abd4acc6)
+17. **IOTA Audio**: 1. Episode von Flippin' Burgers auf [Twitter Spaces](https://twitter.com/OnomyProtocol/status/1580140435921461249?s=20&t=Dt8eQYYkbXagtfV_LsF75A)
 
