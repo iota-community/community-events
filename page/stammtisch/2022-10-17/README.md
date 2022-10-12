@@ -8,4 +8,7 @@
 6. **$Soon Exchange**: Der $Soon Token wurde auf BitForex glistet: [Tweet von SoonLabs](https://twitter.com/soon_labs/status/1579774192693948417?s=20&t=F_f7J7riimP9Aom6MjxA1Q); [Tweet von BitForex](https://twitter.com/bitforexcom/status/1579743371547267075?s=20&t=zaGxPf4cD9WaoZnFpt4WAQ)
 7. **Crypto News**: Google will Crypto für Cloudservice akzeptieren: [Google Joins Hands With Coinbase To Accept Crypto for Its Cloud Services](https://watcher.guru/news/google-joins-hands-with-coinbase-to-accept-crypto-for-its-cloud-services)
 8. **Crypto News**: Coinbase darf in Singapur ran: [Crypto giant Coinbase gets Singapore licence](https://www.msn.com/en-ca/money/topstories/crypto-giant-coinbase-gets-singapore-licence/ar-AA12OANT)
+9. **IOTA Hype**: Ein paar [Tweets](https://twitter.com/archimate/status/1579874993944788993?s=20&t=_u0dPMF4jOBIpVeD0dkQmA) von C. Strnadl machen Mut
+10. **IOTA Learn**: Ein [Tweetstorm](https://twitter.com/cyrilXBT/status/1579953448887668736?s=20&t=_u0dPMF4jOBIpVeD0dkQmA) zum Thema IOTA Identity
+11. **Tangle DeFi**: Neues Tradingpaar Miota/Fee bei [iotabee.com](https://iotabee.com/pool) 
 
