@@ -11,4 +11,9 @@
 9. **IOTA Hype**: Ein paar [Tweets](https://twitter.com/archimate/status/1579874993944788993?s=20&t=_u0dPMF4jOBIpVeD0dkQmA) von C. Strnadl machen Mut
 10. **IOTA Learn**: Ein [Tweetstorm](https://twitter.com/cyrilXBT/status/1579953448887668736?s=20&t=_u0dPMF4jOBIpVeD0dkQmA) zum Thema IOTA Identity
 11. **Tangle DeFi**: Neues Tradingpaar Miota/Fee bei [iotabee.com](https://iotabee.com/pool) 
+12. **IOTA Artikel**: [IOTA: Diese 4 Eigenschaften machen Shimmer anderen Blockchain-Ökosystemen in Zukunft überlegen](https://www.crypto-news-flash.com/de/vier-eigenschaften-machen-shimmer-anderen-blockchain-oekosystemen-ueberlegen/)
+13. **Shimmer Promote**: Shimmer Artikel auf Platz 5 bei CoinmarketCap: [Tweet](https://twitter.com/CoinMarketCap/status/1580060701569302529?s=20&t=Dt8eQYYkbXagtfV_LsF75A)
+14. **Shimmer Grand Commitee**: [Phylo tweetet](https://twitter.com/PhyloIota/status/1580107626461134848?s=20&t=Dt8eQYYkbXagtfV_LsF75A) über das [Shimmer Community Grant Committee](https://govern.iota.org/t/shimmer-community-grant-committee/1415) das jetzt veröffentlicht wurde
+15. **IOTA Youtube**: [Shimmer Defi Education Sessions #4 by Bankless Consulting: Yield farming Strategies 06/10/22 ](https://www.youtube.com/watch?v=hMfWfB71RdM)
+16. 
 
