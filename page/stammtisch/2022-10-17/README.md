@@ -17,4 +17,6 @@
 15. **IOTA Youtube**: [Shimmer Defi Education Sessions #4 by Bankless Consulting: Yield farming Strategies 06/10/22 ](https://www.youtube.com/watch?v=hMfWfB71RdM)
 16. **Shimmer Ökosystem**: [Shimmer verkündet](https://twitter.com/shimmernet/status/1580181526196936704?s=20&t=WWy5SYneU9RlA9Uq4xHyow) und [Onomy tweetet](https://twitter.com/OnomyProtocol/status/1580181688285822977?s=20&t=ccfHgh3RfNejMCGek11r4Q), dass das [Onomy Protocol](https://twitter.com/OnomyProtocol) im Touchpoint Open Builders Programm aufgenommen wurde: Blogpost Shimmer: [Touchpoint Open Builders Program Welcomes Onomy Protocol Touchpoint - A Multi-Chain DeFi Hub on Shimmer and IOTA](https://blog.shimmer.network/touchpoint-welcomes-onomy/); [Onomy’s Product Suite Is Coming to IOTA’s Shimmer](https://medium.com/onomy-protocol/onomys-product-suite-is-coming-to-iota-s-shimmer-4060abd4acc6)
 17. **IOTA Audio**: 1. Episode von Flippin' Burgers auf [Twitter Spaces](https://twitter.com/OnomyProtocol/status/1580140435921461249?s=20&t=Dt8eQYYkbXagtfV_LsF75A)
+18. **IOTA Artikel**: auf deutsch: [Touchpoint begrüßt die HiFi Gaming Society](https://iota-kurs.de/touchpoint-begruesst-die-hifi-gaming-society/)
+19. **IOTA Youtube**: von Digit Hustle Network: [IOTA Crypto News: Project Alvarium Update, Shimmer Launch & ALFRIED Breakdown](https://www.youtube.com/watch?v=LF9-Rpn4Jiw)
 
