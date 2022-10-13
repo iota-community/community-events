@@ -19,4 +19,6 @@
 17. **IOTA Audio**: 1. Episode von Flippin' Burgers auf [Twitter Spaces](https://twitter.com/OnomyProtocol/status/1580140435921461249?s=20&t=Dt8eQYYkbXagtfV_LsF75A)
 18. **IOTA Artikel**: auf deutsch: [Touchpoint begrüßt die HiFi Gaming Society](https://iota-kurs.de/touchpoint-begruesst-die-hifi-gaming-society/)
 19. **IOTA Youtube**: von Digit Hustle Network: [IOTA Crypto News: Project Alvarium Update, Shimmer Launch & ALFRIED Breakdown](https://www.youtube.com/watch?v=LF9-Rpn4Jiw)
+20. **IOTA Audio**: Neuer Moonaco Podcast mit serverox: [Tweet](https://twitter.com/MoonacoPodcast/status/1580498959709392896?s=20&t=ekcaSn1xLyn89rNYY1SzZA); [Spotify Link](https://open.spotify.com/episode/6zfa4rng8GFBqZC0TqaxcM?si=InmtDX3dTLWXWdmKjLBxPw&nd=1)
+21. **Shimmer Airdrop**: Es gibt ein MoonMorons Airdrop [Tweet](https://twitter.com/MoonMorons/status/1579505033372393473?s=20&t=aO0Vm2JBvmNJaNBW1im7Eg) auf [https://moonmorons.com/](https://moonmorons.com/)
 
