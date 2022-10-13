@@ -27,4 +27,6 @@
 25. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1580526319871623168?s=20&t=ekcaSn1xLyn89rNYY1SzZA) ein Video von dem Prozess wie man im Telegram Wallet von Bivreost Shimmer Test Token bekommt. 
 26. **IOTA Youtube**: von Spec Weekly: [Episode 23: THE SHITCOIN APOCALYPSE!!! How to mint a token on Shimmer? I SHOW U!!!](https://www.youtube.com/watch?v=Q7vgeElXdfI)
 27. **IOTA Stammtisch**: im Ruhrgebiet am Sa. 22.10.2022: [Tweet](https://twitter.com/IotaPunks_71/status/1580538622205255681?s=20&t=ekcaSn1xLyn89rNYY1SzZA)
+28. **Shimmer Ökosystem**: Shimmer PingPong [Tweet](https://twitter.com/shimmernet/status/1580546653572198402?s=20&t=ekcaSn1xLyn89rNYY1SzZA) mit [Potluck Protocol](https://twitter.com/PotluckProtocol)
+29. 
 
