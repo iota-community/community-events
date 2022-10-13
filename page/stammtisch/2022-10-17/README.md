@@ -21,4 +21,7 @@
 19. **IOTA Youtube**: von Digit Hustle Network: [IOTA Crypto News: Project Alvarium Update, Shimmer Launch & ALFRIED Breakdown](https://www.youtube.com/watch?v=LF9-Rpn4Jiw)
 20. **IOTA Audio**: Neuer Moonaco Podcast mit serverox: [Tweet](https://twitter.com/MoonacoPodcast/status/1580498959709392896?s=20&t=ekcaSn1xLyn89rNYY1SzZA); [Spotify Link](https://open.spotify.com/episode/6zfa4rng8GFBqZC0TqaxcM?si=InmtDX3dTLWXWdmKjLBxPw&nd=1)
 21. **Shimmer Airdrop**: Es gibt ein MoonMorons Airdrop [Tweet](https://twitter.com/MoonMorons/status/1579505033372393473?s=20&t=aO0Vm2JBvmNJaNBW1im7Eg) auf [https://moonmorons.com/](https://moonmorons.com/)
+22. **IOTA Artikel**: von Amber: [Demystifying The Landscape of DAG-based Architecture](https://medium.com/amber-group/demystifying-the-landscape-of-dag-based-architecture-7699493b2705)
+23. **IOTA Ökosystem**: Filancore [tweetet](https://twitter.com/FilancoreGmbH/status/1580493183309729793?s=20&t=ekcaSn1xLyn89rNYY1SzZA) darüber, dass sie am Do, 13.10. ihre SSI Lösung pitchen bei einem Event
+24. 
 
