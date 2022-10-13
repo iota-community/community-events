@@ -23,5 +23,8 @@
 21. **Shimmer Airdrop**: Es gibt ein MoonMorons Airdrop [Tweet](https://twitter.com/MoonMorons/status/1579505033372393473?s=20&t=aO0Vm2JBvmNJaNBW1im7Eg) auf [https://moonmorons.com/](https://moonmorons.com/)
 22. **IOTA Artikel**: von Amber: [Demystifying The Landscape of DAG-based Architecture](https://medium.com/amber-group/demystifying-the-landscape-of-dag-based-architecture-7699493b2705)
 23. **IOTA Ökosystem**: Filancore [tweetet](https://twitter.com/FilancoreGmbH/status/1580493183309729793?s=20&t=ekcaSn1xLyn89rNYY1SzZA) darüber, dass sie am Do, 13.10. ihre SSI Lösung pitchen bei einem Event
-24. 
+24. **IOTA Artikel**: von Crypto News Flash: [IOTA partnership update in $80B market: EDAG to start autonomous multifunctional robot in Frankfurt](https://www.crypto-news-flash.com/iota-partnership-update-in-80b-market-edag-to-start-autonomous-multifunctional-robot-in-frankfurt/)
+25. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1580526319871623168?s=20&t=ekcaSn1xLyn89rNYY1SzZA) ein Video von dem Prozess wie man im Telegram Wallet von Bivreost Shimmer Test Token bekommt. 
+26. **IOTA Youtube**: von Spec Weekly: [Episode 23: THE SHITCOIN APOCALYPSE!!! How to mint a token on Shimmer? I SHOW U!!!](https://www.youtube.com/watch?v=Q7vgeElXdfI)
+27. **IOTA Stammtisch**: im Ruhrgebiet am Sa. 22.10.2022: [Tweet](https://twitter.com/IotaPunks_71/status/1580538622205255681?s=20&t=ekcaSn1xLyn89rNYY1SzZA)
 
