@@ -30,4 +30,3 @@
 28. **Shimmer Ökosystem**: Shimmer PingPong [Tweet](https://twitter.com/shimmernet/status/1580546653572198402?s=20&t=ekcaSn1xLyn89rNYY1SzZA) mit [Potluck Protocol](https://twitter.com/PotluckProtocol)
 29. **Tangle Ökosystem**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1580589189141213185?s=20&t=5Dkh9VgTErYK8khJrNsS5g) darüber, dass [TangleHub](https://twitter.com/Tanglehub_eu) dem Touchpoint Builders Program beigetreten ist: IF Blogpost: [TangleHUB joins the Touchpoint Open Builders Program - PIPE: Scalable, Immutable Data Storage](https://blog.shimmer.network/tanglehub-joins-touchpoint/)
 30. **Tangle Ökosystem**: [TangleHub](https://twitter.com/Tanglehub_eu) Blogpost: [Smart city use cases](https://tanglehub.eu/smart-city-use-cases/)
-
