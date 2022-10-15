@@ -41,6 +41,7 @@
 39. **IOTA Learn**: [Cryptowelter tweetet](https://twitter.com/cryptowelter/status/1580950048799870976?s=20&t=mTnSFAyvifF6ndRUWZC_7A) eine neue Infografik zum Storage Depost
 40. **IOTA Learn**: [Cyril-Defi erklärt in 15 Tweets](https://twitter.com/cyrilXBT/status/1580966727835582464?s=20&t=mTnSFAyvifF6ndRUWZC_7A) die Hornet Node Software für Shimmer
 41. **IF News**: [Inatba gratuliert](https://twitter.com/INATBA_org/status/1580234232022323200?s=20&t=mTnSFAyvifF6ndRUWZC_7A) Marianna de la Roche [IF] nominiert worden zu sein für "rising star of the year" bei den Women in Tech awards (1. Dez. 2022)
-42. 
+42. **Twitter Gezwitscher**: [Hans Moog philosophiert](https://twitter.com/hus_qy/status/1581008104476770305?s=20&t=mTnSFAyvifF6ndRUWZC_7A) über "social consensus"
+43. **Shimmer Improve**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1581189384577044482?s=20&t=mTnSFAyvifF6ndRUWZC_7A) über ["The Q4 Survey](https://tally.so/r/3q47Jg) mit 15 Fragen die Shimmer besser machen sollen
 
 
