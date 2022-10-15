@@ -35,4 +35,6 @@
 33. **Shimmer DeFi**: ShimmerSea DEX hat ein weiteres Audit gehabt und offenbar wurden in der 2. Runde noch "significant issues" gefunden und behoben: [Tweet 1/3](https://twitter.com/auditone_team/status/1580817105041035264?s=20&t=-O48vUaJtoKsrDlEuOQR_Q); AuditOne schreibt aber auch: "looking through the code showed us how well-thought their concept is. Now we feel confident to use their DEX."
 34. **IOTA Promote**: Bitfinex gibt Gas beim Marketing für Shimmer und IOTA: [Tweet](https://twitter.com/bitfinex/status/1580831068042670080?s=20&t=S-DA_-QRLF-UDwFW_CcLeA) mit Link zu dem Shimmer NFT Artikel: [Have NFTs Become More Than Just Another Crypto Fad?](https://blog.bitfinex.com/education/have-nfts-become-more-than-just-another-crypto-fad/)
 35. **IOTA Ökosystem**: $Soon ist jetzt gelistet auf CoinMarkecap: [Tweet](https://coinmarketcap.com/currencies/soonaverse/)
+36. **IOTA Ökosytstem**: [Bivreost veröffentlichen](https://twitter.com/bivreost/status/1581011457868959744?s=20&t=mTnSFAyvifF6ndRUWZC_7A) ihr Telegram IOTA Wallet (alpha 2.0 mit DevNet IOTA Token
+
 
