@@ -35,6 +35,11 @@
 33. **Shimmer DeFi**: ShimmerSea DEX hat ein weiteres Audit gehabt und offenbar wurden in der 2. Runde noch "significant issues" gefunden und behoben: [Tweet 1/3](https://twitter.com/auditone_team/status/1580817105041035264?s=20&t=-O48vUaJtoKsrDlEuOQR_Q); AuditOne schreibt aber auch: "looking through the code showed us how well-thought their concept is. Now we feel confident to use their DEX."
 34. **IOTA Promote**: Bitfinex gibt Gas beim Marketing für Shimmer und IOTA: [Tweet](https://twitter.com/bitfinex/status/1580831068042670080?s=20&t=S-DA_-QRLF-UDwFW_CcLeA) mit Link zu dem Shimmer NFT Artikel: [Have NFTs Become More Than Just Another Crypto Fad?](https://blog.bitfinex.com/education/have-nfts-become-more-than-just-another-crypto-fad/)
 35. **IOTA Ökosystem**: $Soon ist jetzt gelistet auf CoinMarkecap: [Tweet](https://coinmarketcap.com/currencies/soonaverse/)
-36. **IOTA Ökosytstem**: [Bivreost veröffentlichen](https://twitter.com/bivreost/status/1581011457868959744?s=20&t=mTnSFAyvifF6ndRUWZC_7A) ihr Telegram IOTA Wallet (alpha 2.0 mit DevNet IOTA Token
+36. **IOTA Ökosytstem**: [Bivreost veröffentlichen](https://twitter.com/bivreost/status/1581011457868959744?s=20&t=mTnSFAyvifF6ndRUWZC_7A) ihr Telegram IOTA Wallet (alpha 2.0 mit DevNet IOTA Token); [Crypto Queen Promoter](https://twitter.com/sofizamolo/status/1580936304145371136?s=20&t=mTnSFAyvifF6ndRUWZC_7A) mit 1,1 Millionen Followern bewirbt das
+37. **IOTA Govern**: [Phylo erklärt](https://twitter.com/PhyloIota/status/1581173400290361345?s=20&t=mTnSFAyvifF6ndRUWZC_7A) wie man sich bei [govern.iot.org](https://govern.iota.org/t/read-first-shimmer-governance-guide/1406) registriert um aktiv mitbestimmen zu können 
+38. **Twitter Hype**: [Soon-Tweet](https://twitter.com/DeeprFinance/status/1580936560740282368?s=20&t=mTnSFAyvifF6ndRUWZC_7A) von DeeprFinance -> "update (dazu) next week"
+39. **IOTA Learn**: [Cryptowelter tweetet](https://twitter.com/cryptowelter/status/1580950048799870976?s=20&t=mTnSFAyvifF6ndRUWZC_7A) eine neue Infografik zum Storage Depost
+40. **IOTA Learn**: [Cyril-Defi erklärt in 15 Tweets](https://twitter.com/cyrilXBT/status/1580966727835582464?s=20&t=mTnSFAyvifF6ndRUWZC_7A) die Hornet Node Software für Shimmer
+41. 
 
 
