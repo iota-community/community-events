@@ -35,7 +35,7 @@
 33. **Shimmer DeFi**: ShimmerSea DEX hat ein weiteres Audit gehabt und offenbar wurden in der 2. Runde noch "significant issues" gefunden und behoben: [Tweet 1/3](https://twitter.com/auditone_team/status/1580817105041035264?s=20&t=-O48vUaJtoKsrDlEuOQR_Q); AuditOne schreibt aber auch: "looking through the code showed us how well-thought their concept is. Now we feel confident to use their DEX."
 34. **IOTA Promote**: Bitfinex gibt Gas beim Marketing für Shimmer und IOTA: [Tweet](https://twitter.com/bitfinex/status/1580831068042670080?s=20&t=S-DA_-QRLF-UDwFW_CcLeA) mit Link zu dem Shimmer NFT Artikel: [Have NFTs Become More Than Just Another Crypto Fad?](https://blog.bitfinex.com/education/have-nfts-become-more-than-just-another-crypto-fad/)
 35. **IOTA Ökosystem**: $Soon ist jetzt gelistet auf CoinMarkecap: [Tweet](https://coinmarketcap.com/currencies/soonaverse/)
-36. **IOTA Ökosytstem**: [Bivreost veröffentlichen](https://twitter.com/bivreost/status/1581011457868959744?s=20&t=mTnSFAyvifF6ndRUWZC_7A) ihr Telegram IOTA Wallet (alpha 2.0 mit DevNet IOTA Token); [Crypto Queen Promoter](https://twitter.com/sofizamolo/status/1580936304145371136?s=20&t=mTnSFAyvifF6ndRUWZC_7A) mit 1,1 Millionen Followern bewirbt das
+36. **IOTA Ökosytstem**: [Bivreost veröffentlichen](https://twitter.com/bivreost/status/1581011457868959744?s=20&t=mTnSFAyvifF6ndRUWZC_7A) ihr Telegram IOTA Wallet (alpha 2.0 mit DevNet IOTA Token); [Crypto Queen Promoter](https://twitter.com/sofizamolo/status/1580936304145371136?s=20&t=mTnSFAyvifF6ndRUWZC_7A) mit 1,1 Millionen Followern bewirbt das; Und noch wietere wahrscheinlich gekaufte Tweets: [Tweet](https://twitter.com/Pilarsmith/status/1581305590353051649?s=20&t=iD_adeIdtCYK6w2Ft3vPiA)
 37. **IOTA Govern**: [Phylo erklärt](https://twitter.com/PhyloIota/status/1581173400290361345?s=20&t=mTnSFAyvifF6ndRUWZC_7A) wie man sich bei [govern.iot.org](https://govern.iota.org/t/read-first-shimmer-governance-guide/1406) registriert um aktiv mitbestimmen zu können 
 38. **Twitter Hype**: [Soon-Tweet](https://twitter.com/DeeprFinance/status/1580936560740282368?s=20&t=mTnSFAyvifF6ndRUWZC_7A) von DeeprFinance -> "update (dazu) next week"
 39. **IOTA Learn**: [Cryptowelter tweetet](https://twitter.com/cryptowelter/status/1580950048799870976?s=20&t=mTnSFAyvifF6ndRUWZC_7A) eine neue Infografik zum Storage Depost
@@ -43,5 +43,12 @@
 41. **IF News**: [Inatba gratuliert](https://twitter.com/INATBA_org/status/1580234232022323200?s=20&t=mTnSFAyvifF6ndRUWZC_7A) Marianna de la Roche [IF] nominiert worden zu sein für "rising star of the year" bei den Women in Tech awards (1. Dez. 2022)
 42. **Twitter Gezwitscher**: [Hans Moog philosophiert](https://twitter.com/hus_qy/status/1581008104476770305?s=20&t=mTnSFAyvifF6ndRUWZC_7A) über "social consensus"
 43. **Shimmer Improve**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1581189384577044482?s=20&t=mTnSFAyvifF6ndRUWZC_7A) über ["The Q4 Survey](https://tally.so/r/3q47Jg) mit 15 Fragen die Shimmer besser machen sollen
+44. **Scamer Adoption**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1581493990209204224?s=20&t=iD_adeIdtCYK6w2Ft3vPiA) über die Zunahme an Scammern nach dem Listing auf CoinmarketCap und BitForex und warnt alle IOTA Projekte, dass die Welt außerhalb der Bubble voll mit Scammern ist
+45. **Siemens Hackathon**: Marianna de la Roche hat im IOTA Dicord ein Siemens Hackathon geteilt bei dem alle mitmachen sollen: [Tokenize the energy transition
+Represent, monitor and validate sustainable assets & green buildings with tradeable crypto tokens](https://ecosystem.siemens.com/techforsustainability/tokenize-the-energy-transition/overview)
+46. **IOTA Adoption**: Jens Munch Lund-Nielsen war bei der World Trade Organisation und hat u.a. über IOTA geredet: [Post auf LinkedIn](https://www.linkedin.com/posts/jens-munch-lund-nielsen_great-to-be-back-at-world-trade-organization-activity-6985994250953891840-5d4l/)
+47. **IOTA Sprachchat**: Am Donnerstag kommt einer von der ETO-Gruppe in den TangleGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1581214427109810177?s=20&t=iXpiucpxxMikdQjjCBqRbg)
+
+
 
 
