@@ -48,6 +48,7 @@
 Represent, monitor and validate sustainable assets & green buildings with tradeable crypto tokens](https://ecosystem.siemens.com/techforsustainability/tokenize-the-energy-transition/overview)
 46. **IOTA Adoption**: Jens Munch Lund-Nielsen war bei der World Trade Organisation und hat u.a. über IOTA geredet: [Post auf LinkedIn](https://www.linkedin.com/posts/jens-munch-lund-nielsen_great-to-be-back-at-world-trade-organization-activity-6985994250953891840-5d4l/)
 47. **IOTA Sprachchat**: Am Donnerstag kommt einer von der ETO-Gruppe in den TangleGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1581214427109810177?s=20&t=iXpiucpxxMikdQjjCBqRbg)
+48. **Allgemeine News**: Elon Musk wird zunehmend politisch aktiv im Ukrainekrieg. Nach einem Shitstorm will er am Ende Starlink aber doch weiterhin kostenlos für die Ukraine ermöglichen: [Tweet](https://twitter.com/elonmusk/status/1581345747777179651?s=20&t=iD_adeIdtCYK6w2Ft3vPiA)
 
 
 
