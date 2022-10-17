@@ -54,4 +54,3 @@ Represent, monitor and validate sustainable assets & green buildings with tradea
 51. **Crypto Video**: Am Sonntag Abend um 22:15 kam MAITHINK X auf ZDF Neo mit: ["Kryptowährung Bitcoin – jetzt erst recht?"](https://www.zdf.de/show/mai-think-x-die-show/maithink-x-folge-16-100.html). Es ging aber eigentlich nur über Bitcoin
 52. **Crypto News**: Nachdem [Kanye West](https://en.wikipedia.org/wiki/Kanye_West) sich von seiner Bank schlecht behandelt fühlt, trägt er ein Cap mit Satoshi Nakamoto
 
-
