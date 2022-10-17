@@ -56,4 +56,5 @@ Represent, monitor and validate sustainable assets & green buildings with tradea
 53. **IOTA Adoption**: [Tantos verküdet](https://twitter.com/PantosIO/status/1581949119270072321?s=20&t=RsPAxT4_CUsuefXSIZrs1A), dass sie bis 2025 weiter researchen dürfen an ihrer Interoperabilität auch zu IOTA
 54. **IOTA NFT Ökosystem**: Die [Rusti Robots veröffentlichen](https://twitter.com/RustyRobotCC/status/1581620196954906625?s=20&t=RsPAxT4_CUsuefXSIZrs1A) einen Blogpost über doe [Rusty Robot Comic Collectibles](https://medium.com/@RustyRobotCountryClub/rusty-robot-comic-collectibles-9e3f2c99162b)
 55. **IOTA Artikel**: auf Cointelegraph: [The state of crypto in Western Europe: Swiss powerhouse and French unicorns](https://cointelegraph.com/news/the-state-of-crypto-in-western-europe-swiss-powerhouse-and-french-unicorns)
+56. **Shimmer Youtube**: von Alexandrus: [[HOT🔥] - Bitfinex - Crypto Exchange with Top Liquid and Security with its new token listing Shimmer!](https://www.youtube.com/watch?v=_bQpri48lio)
 
