@@ -49,7 +49,9 @@ Represent, monitor and validate sustainable assets & green buildings with tradea
 46. **IOTA Adoption**: Jens Munch Lund-Nielsen war bei der World Trade Organisation und hat u.a. über IOTA geredet: [Post auf LinkedIn](https://www.linkedin.com/posts/jens-munch-lund-nielsen_great-to-be-back-at-world-trade-organization-activity-6985994250953891840-5d4l/)
 47. **IOTA Sprachchat**: Am Donnerstag kommt einer von der ETO-Gruppe in den TangleGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1581214427109810177?s=20&t=iXpiucpxxMikdQjjCBqRbg)
 48. **Allgemeine News**: Elon Musk wird zunehmend politisch aktiv im Ukrainekrieg. Nach einem Shitstorm will er am Ende Starlink aber doch weiterhin kostenlos für die Ukraine ermöglichen: [Tweet](https://twitter.com/elonmusk/status/1581345747777179651?s=20&t=iD_adeIdtCYK6w2Ft3vPiA)
-
-
+49. **IOTA NFT**: Es gibt bald [YOTI](https://twitter.com/yoti_nft?s=21&t=D6B6U1LRw2IFb9FroPlQMg)
+50. **IOTA Adoption**: Dom Schiener [tweetet](https://twitter.com/DomSchiener/status/1581700712253206528?s=20&t=zkXYWsZ3T2D01M3ur2Cs6w) darüber, dass Toshiba Europa ein neues Research Paper für den P2P Energyhandel veröffentlicht hat: [Peer-to-Peer Energy Trading meets IOTA: Toward a Scalable, Low-Cost, and Efficient Trading System](https://arxiv.org/pdf/2210.06427.pdf)
+51. **Crypto Video**: Am Sonntag Abend um 22:15 kam MAITHINK X auf ZDF Neo mit: ["Kryptowährung Bitcoin – jetzt erst recht?"](https://www.zdf.de/show/mai-think-x-die-show/maithink-x-folge-16-100.html). Es ging aber eigentlich nur über Bitcoin
+52. **Crypto News**: Nachdem [Kanye West](https://en.wikipedia.org/wiki/Kanye_West) sich von seiner Bank schlecht behandelt fühlt, trägt er ein Cap mit Satoshi Nakamoto
 
 
