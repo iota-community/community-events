@@ -57,4 +57,9 @@ Represent, monitor and validate sustainable assets & green buildings with tradea
 54. **IOTA NFT Ökosystem**: Die [Rusti Robots veröffentlichen](https://twitter.com/RustyRobotCC/status/1581620196954906625?s=20&t=RsPAxT4_CUsuefXSIZrs1A) einen Blogpost über doe [Rusty Robot Comic Collectibles](https://medium.com/@RustyRobotCountryClub/rusty-robot-comic-collectibles-9e3f2c99162b)
 55. **IOTA Artikel**: auf Cointelegraph: [The state of crypto in Western Europe: Swiss powerhouse and French unicorns](https://cointelegraph.com/news/the-state-of-crypto-in-western-europe-swiss-powerhouse-and-french-unicorns)
 56. **Shimmer Youtube**: von Alexandrus: [[HOT🔥] - Bitfinex - Crypto Exchange with Top Liquid and Security with its new token listing Shimmer!](https://www.youtube.com/watch?v=_bQpri48lio)
+57. **IOTA Patent**: von Intel: [MULTI-TIMESCALE POWER CONTROL TECHNOLOGIES](https://worldwide.espacenet.com/patent/search/family/083509252/publication/US2022326757A1?q=pn%3DUS2022326757A1)
+58. **IOTA Adoption**: Die IF sucht nach deutschen regierungsnahen Personen um ein Usecase ähnlich dem von Blockchain Drenthe in Deutschland zu starten: [Tweet](https://twitter.com/iota/status/1582008538985291779?s=20&t=47CXOIiTXQ9IGOU9kw-XNw)
+59: **IOTA PoC**: E-class hat ein PoC gebaut: [Post auf LinkedIn](https://www.linkedin.com/posts/eclassstandard_aas-dataspace-industry40-activity-6987715198161711104-1Ib7/?utm_source=share&utm_medium=member_desktop); Hier gehtÄs direkt zum PoC: [Distributed Ledger-based Infrastructure for Industrial Digital Twins
+5 use cases enabled by Blockchain, IOTA Tangle and ECLASS](https://aasregistry.eclass.eu/)
+
 
