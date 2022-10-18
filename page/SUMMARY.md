@@ -96,3 +96,4 @@
 - [2022-10-03](./stammtisch/2022-10-03/README.md)
 - [2022-10-10](./stammtisch/2022-10-10/README.md)
 - [2022-10-17](./stammtisch/2022-10-17/README.md)
+- [2022-10-24](./stammtisch/2022-10-24/README.md)
