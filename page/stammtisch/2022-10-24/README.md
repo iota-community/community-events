@@ -12,3 +12,4 @@
 10. **IOTA Youtube**: [Why Shimmer will have long term VALUE](https://www.youtube.com/watch?v=ewj0yqd4V2A)
 11. **IOTA Ökosystem**: [Iotabee veröffentlicht](https://twitter.com/iotabee/status/1582333605581234176?s=20&t=ylHcB5SA9eQimW3bDmkMRg) einen Blogpost: [Let’s meet the team!](https://medium.com/@iotabee/lets-meet-the-team-b98d30d5c567)
 12. **IOTA DeFi Learn**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1582355836265197568?s=20&t=ylHcB5SA9eQimW3bDmkMRg) über das Bankless DAO Tutorial im Discrod diese Woche und verlinkt die letzte Aufzeichnung: [Shimmer DeFi Education Series #5 by Bankless Consulting: Engaging, Voting on Changes 13/10/22](https://www.youtube.com/watch?v=dSiVGdiKEVg)
+13. **IOTA Ökosystem**: Cyril-Defi hat in [mehreren Tweets](https://twitter.com/cyrilXBT/status/1582417553434898436?s=20) das Soonaverse beschrieben
