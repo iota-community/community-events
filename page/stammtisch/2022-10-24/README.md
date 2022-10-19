@@ -21,4 +21,6 @@
 19. **Crypto News**: Die EU will Energie Labels für Blockchains vergeben: [Europe Set to Roll Out Energy Efficiency Labels for Blockchains](https://decrypt.co/112311/europe-set-roll-out-energy-efficiency-labels-blockchains]
 20. **IOTA Youtube**: [18/10/22 IOTA Community Governance call - Shimmer Community Treasury](https://www.youtube.com/watch?v=qcArU3gfyws)
 21. **IOTA Audio**: Moonaco Podcast [tweetet](https://twitter.com/MoonacoPodcast/status/1582673055083827201?s=20&t=KNnyO6df3JGWuBWVBc5adA) Details zu dem neuen Gast [Anndy Lian](https://twitter.com/anndylian) (Buchautor von "NFT: From Zero to Hero");
+22. **IOTA Ökosystem**: [servrox solution](https://twitter.com/servrox/status/1582697447486128129?s=20&t=KNnyO6df3JGWuBWVBc5adA) tweetet über ihre Browser App mit der man schon Shimmer NFTs aus dem DevNet anschauen kann
+23. **IOTA NFT**: [IotaPunks freuen sich](https://twitter.com/IotaPunks_71/status/1582633392939859968?s=20&t=WQULqBEeIaH8RRvIbXyV3g) darüber, dass sie jettz offiziell als Trademark in Europa registriert sind
 
