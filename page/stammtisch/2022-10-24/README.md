@@ -26,4 +26,15 @@
 24. **Shimmer Ökosystem**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1582718232720707585?s=20&t=iEctKzXkRF-dBNca3gLq6g), dass [Resonate Finance Joins the Touchpoint Open Builders Program - Bringing Yield Futures and FNFTs to the Shimmer Network](https://blog.shimmer.network/resonate-finance-joins-the-touchpoint-open-builders-program/); Auch [Asselmbly tweetet](https://twitter.com/assembly_net/status/1582718224738631680?s=20&t=KNnyO6df3JGWuBWVBc5adA) darüber
 25. **IOTA Intern**: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1582725429336547329?s=20&t=iEctKzXkRF-dBNca3gLq6g) und Details zum Research Summit in Berlin
 26. **IOTA Bridge**: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1582725968174944256?s=20&t=iEctKzXkRF-dBNca3gLq6g) in dem Dom davon redet, dass mit dem Start von der EVM auch eine Bridge von [multichain.org](https://multichain.org/) bereit stehen soll
+27. **IOTA Ökosystem**: Das Soonaverse [gibt bekannt](https://twitter.com/soon_labs/status/1582961024407195649?s=20&t=ANKRtZi28ZIvrw8FAiFk4A), dass [Garret von TanglePay](https://twitter.com/GarrettBullish) jetzt im Soon Committee ist. Daz gab es auch einen [Tweet von Adam](https://twitter.com/adam_unchained/status/1582980806347460608?s=20&t=ANKRtZi28ZIvrw8FAiFk4A) dazu
+28. **IOTA Ökosystem**: Es gab ein Update von TanglePay: [Tweet](https://twitter.com/tanglepaycom/status/1582910567215308801?s=20&t=65acjUXlNKjzu_Ywjudn9w)
+29. **Shimmer Promote**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1582990091601203200?s=20&t=65acjUXlNKjzu_Ywjudn9w) ein schönes GIF zum Durchsatz Blockchain vs. Tangle
+30. **IOTA Audio**: IOTA Community Hangout auf [Twitter Space mit Phylo](https://twitter.com/PhyloIota/status/1582950467713130497?s=20&t=ANKRtZi28ZIvrw8FAiFk4A)
+31. **Soon Promote**: Der Soon Token ist im Spotlight Artikel auf BitForex: [Tweet](https://twitter.com/bitforexcom/status/1582889848155033600?s=20&t=ANKRtZi28ZIvrw8FAiFk4A)
+32. **Crypto News**: Bitcoin wird in Süd Africa als Finazprodukt bewertet: [Tweet](https://twitter.com/BitcoinMagazine/status/1582783286673174528?s=20&t=ANKRtZi28ZIvrw8FAiFk4A)
+33. **IOTA Dev**: Antonio Nardella [tweetet](https://twitter.com/antonionardella/status/1582791166310768640?s=20&t=ANKRtZi28ZIvrw8FAiFk4A) über sein [twitter-shimmer-dropper](https://github.com/antonionardella/twitter-shimmer-dropper) Code, der Airdrops vereinfachen soll
+34. **Assembly Staking**: endet bald und Runde 4 ist "jsut around the corner": [Tweet](https://twitter.com/assembly_net/status/1582748433882005505?s=20&t=ANKRtZi28ZIvrw8FAiFk4A)
+35. **IOTA Artikel**: von Crypto News Flash: [IOTA und die EU fördern digitale Zwillinge für Reverse-Logistik-Systeme und mehr](https://www.crypto-news-flash.com/de/iota-und-die-eu-foerdern-digitale-zwillinge-unter-anderem-fuer-reverse-logistik-systeme/?feed_id=10808&_unique_id=63501ced7036d)
+
+
 
