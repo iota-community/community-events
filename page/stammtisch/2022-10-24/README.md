@@ -35,9 +35,14 @@
 33. **IOTA Dev**: Antonio Nardella [tweetet](https://twitter.com/antonionardella/status/1582791166310768640?s=20&t=ANKRtZi28ZIvrw8FAiFk4A) über sein [twitter-shimmer-dropper](https://github.com/antonionardella/twitter-shimmer-dropper) Code, der Airdrops vereinfachen soll
 34. **Assembly Staking**: endet bald und Runde 4 ist "jsut around the corner": [Tweet](https://twitter.com/assembly_net/status/1582748433882005505?s=20&t=ANKRtZi28ZIvrw8FAiFk4A)
 35. **IOTA Artikel**: von Crypto News Flash: [IOTA und die EU fördern digitale Zwillinge für Reverse-Logistik-Systeme und mehr](https://www.crypto-news-flash.com/de/iota-und-die-eu-foerdern-digitale-zwillinge-unter-anderem-fuer-reverse-logistik-systeme/?feed_id=10808&_unique_id=63501ced7036d)
-36. **IOTA Artikel**: von Cointelegraph: [Toshiba-Studie sieht Schlüsselrolle für IOTA im Bereich Energiemanagement](https://de.cointelegraph.com/news/toshibas-study-sees-key-role-for-iota-in-the-field-of-energy-management)
+36. **IOTA Artikel**: von Cointelegraph: [Toshiba-Studie sieht Schlüsselrolle für IOTA im Bereich Energiemanagement](https://de.cointelegraph.com/news/toshibas-study-sees-key-role-for-iota-in-the-field-of-energy-management); Selbst die [IF retweetet](https://twitter.com/iota/status/1583060118610284544?s=20&t=o1xuhyh4MUlrxcQvQWBNJw) den Artikel
 37. **IOTA Artikel**: von GeVestor: [Darum macht IOTA vieles besser als Bitcoin](https://www.gevestor.de/finanzwissen/kryptowaehrungen/iota-miota.html)
 38. **IOTA Audio**: Der [Moonaco Podcast tweetet](https://twitter.com/MoonacoPodcast/status/1583035511760834560?s=20&t=NbJRUrxfgyWvqZbByYOHug) mit dem Buchautor: [Spotify Link](https://open.spotify.com/episode/4eVVP7874kvRXjtit8Atyp?si=lF28RLCLRZiWe6C45jkcPw&nd=1)
+39. **Shimmer Ökosystem**: [Shimmer Ping Poing](https://twitter.com/shimmernet/status/1583078395784888320?s=20&t=5kYnlKbhLyXm2R1Hq3GHdg) mit [Jungle Race](https://twitter.com/Junglerace_)
+40. **Tangle Ökosystem**: [IOTA tweetet](https://twitter.com/iota/status/1581933212774715392?s=20&t=o1xuhyh4MUlrxcQvQWBNJw) darüber, dass [Tanglehub](https://twitter.com/Tanglehub_eu) und [OnomyProtocol](https://twitter.com/OnomyProtocol) dem Touchpoint Open Builders Programm beitreten: [Touchpoint Open Builders Program Welcomes Onomy Protocol](https://blog.shimmer.network/touchpoint-welcomes-onomy/) und [TangleHUB joins the Touchpoint Open Builders Program](https://blog.shimmer.network/tanglehub-joins-touchpoint/)
+41. **Twitter Hype**: [Mat Yarger macht den Vergleich](https://twitter.com/Mat_Yarger/status/1583085516857040897?s=20&t=o1xuhyh4MUlrxcQvQWBNJw) basierende auf das [Toshiba p2p Energie trading Paper](https://arxiv.org/pdf/2210.06427.pdf): Eine Scheibe Toastbrot verbraucht so viel Strom wie 1,5 Billionen IOTA Smart Contract Transaktionen
+42. **Crypto News**: von Computer Bild: [EU plant Energieeffizienz-Label für Kryptowährungen](https://www.computerbild.de/artikel/cb-News-Internet-EU-plant-Energieeffizienz-Label-fuer-Kryptowaehrungen-33957221.html)
+
 
 
 
