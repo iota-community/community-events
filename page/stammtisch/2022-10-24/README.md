@@ -42,6 +42,7 @@
 40. **Tangle Ökosystem**: [IOTA tweetet](https://twitter.com/iota/status/1581933212774715392?s=20&t=o1xuhyh4MUlrxcQvQWBNJw) darüber, dass [Tanglehub](https://twitter.com/Tanglehub_eu) und [OnomyProtocol](https://twitter.com/OnomyProtocol) dem Touchpoint Open Builders Programm beitreten: [Touchpoint Open Builders Program Welcomes Onomy Protocol](https://blog.shimmer.network/touchpoint-welcomes-onomy/) und [TangleHUB joins the Touchpoint Open Builders Program](https://blog.shimmer.network/tanglehub-joins-touchpoint/)
 41. **Twitter Hype**: [Mat Yarger macht den Vergleich](https://twitter.com/Mat_Yarger/status/1583085516857040897?s=20&t=o1xuhyh4MUlrxcQvQWBNJw) basierende auf das [Toshiba p2p Energie trading Paper](https://arxiv.org/pdf/2210.06427.pdf): Eine Scheibe Toastbrot verbraucht so viel Strom wie 1,5 Billionen IOTA Smart Contract Transaktionen
 42. **Crypto News**: von Computer Bild: [EU plant Energieeffizienz-Label für Kryptowährungen](https://www.computerbild.de/artikel/cb-News-Internet-EU-plant-Energieeffizienz-Label-fuer-Kryptowaehrungen-33957221.html)
+43. **IOTA Ökosystem**: [Pipe tweetet](https://twitter.com/PIPE_DATA/status/1583100776112873473?s=20&t=esiaWjH2sYC5_2CQ-kQm_g) über ihren Blogpost: [PIPE use case example: Supply chain](https://tanglehub.eu/pipe-use-case-example-supply-chain-logistics/)
 
 
 
