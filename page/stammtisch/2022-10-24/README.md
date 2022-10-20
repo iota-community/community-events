@@ -36,6 +36,7 @@
 34. **Assembly Staking**: endet bald und Runde 4 ist "jsut around the corner": [Tweet](https://twitter.com/assembly_net/status/1582748433882005505?s=20&t=ANKRtZi28ZIvrw8FAiFk4A)
 35. **IOTA Artikel**: von Crypto News Flash: [IOTA und die EU fördern digitale Zwillinge für Reverse-Logistik-Systeme und mehr](https://www.crypto-news-flash.com/de/iota-und-die-eu-foerdern-digitale-zwillinge-unter-anderem-fuer-reverse-logistik-systeme/?feed_id=10808&_unique_id=63501ced7036d)
 36. **IOTA Artikel**: von Cointelegraph: [Toshiba-Studie sieht Schlüsselrolle für IOTA im Bereich Energiemanagement](https://de.cointelegraph.com/news/toshibas-study-sees-key-role-for-iota-in-the-field-of-energy-management)
+37. **IOTA Audio**: Der [Moonaco Podcast tweetet](https://twitter.com/MoonacoPodcast/status/1583035511760834560?s=20&t=NbJRUrxfgyWvqZbByYOHug) mit dem Buchautor: [Spotify Link](https://open.spotify.com/episode/4eVVP7874kvRXjtit8Atyp?si=lF28RLCLRZiWe6C45jkcPw&nd=1)
 
 
 
