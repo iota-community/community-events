@@ -59,6 +59,9 @@
 57. **Crypto News**: Warner Brothers [tweetet](https://twitter.com/WarnerBrosNFT/status/1583095703173156864?s=20&t=xg_Zt6Z9SlQAWXtctqBcjw) über Herr der Ringe web30
 58. **IOTA Event**: Spyce 5 ist beim websummit 2022 (1.-4. Nov): [Tweet](https://twitter.com/SPYCE_5/status/1583389050341560320?s=20&t=xg_Zt6Z9SlQAWXtctqBcjw)
 59. **Tangle Learn**: Sebastian Müller [erklärt](https://twitter.com/NaitsabesMue/status/1583370342042832896?s=20&t=xg_Zt6Z9SlQAWXtctqBcjw) DAGs und warum der Tangle so etwas besonderes ist: "Conclusion: the #IOTA Tangle is a distributed mempool on the node level and needs no additional communication between the nodes. It reduces the communciation overhead to a minimum and enables everybody to write on the ledger."
+60. **Crypto Drama**: BitBoy Crypto flippt komplett aus wegen der Crypto (DeFi-) Regulierung in den USA in seinem Video: [Bitcoin's Day of RECKONING! (Congress LEAKS Draft of DeFi Killer?)](https://www.youtube.com/watch?v=o2dhgZopyBs)
+61. **Crypto News**: Tether ab 3.Nov an 20K Geldautomaten in Brasilien erhältlich: [Tweet](https://twitter.com/Tether_to/status/1583147554828521472?s=20&t=xg_Zt6Z9SlQAWXtctqBcjw)
+62. **Crypto Adoption**: [INATBA tweetet](https://twitter.com/INATBA_org/status/1583385392128331776?s=20&t=PemzYQHV-GrKqh5FQvwwtg) über das [Staff Working Document on the digital energy action plan SWD(2022)341](https://energy.ec.europa.eu/staff-working-document-digital-energy-action-plan-swd2022341_en#details) in dem INATBA erwähnt wird
 
 
 
