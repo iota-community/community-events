@@ -43,6 +43,13 @@
 41. **Twitter Hype**: [Mat Yarger macht den Vergleich](https://twitter.com/Mat_Yarger/status/1583085516857040897?s=20&t=o1xuhyh4MUlrxcQvQWBNJw) basierende auf das [Toshiba p2p Energie trading Paper](https://arxiv.org/pdf/2210.06427.pdf): Eine Scheibe Toastbrot verbraucht so viel Strom wie 1,5 Billionen IOTA Smart Contract Transaktionen
 42. **Crypto News**: von Computer Bild: [EU plant Energieeffizienz-Label für Kryptowährungen](https://www.computerbild.de/artikel/cb-News-Internet-EU-plant-Energieeffizienz-Label-fuer-Kryptowaehrungen-33957221.html)
 43. **IOTA Ökosystem**: [Pipe tweetet](https://twitter.com/PIPE_DATA/status/1583100776112873473?s=20&t=esiaWjH2sYC5_2CQ-kQm_g) über ihren Blogpost: [PIPE use case example: Supply chain](https://tanglehub.eu/pipe-use-case-example-supply-chain-logistics/)
+44. **IOTA Artikel: von BeInCrypto [What Is IOTA? How Does This Cryptocurrency Work?](https://beincrypto.com/learn/iota-crypto/)
+45. **IOTA Ökosystem**: [Projekt ALFRIED stellt erste Teilergebnisse vor](https://alfried.net/projekt-alfried-stellt-erste-teilergebnisse-vor/)
+46. **IOTA Ökosystem**: Iotabee will neue Token listen: [Tweet](https://twitter.com/iotabee/status/1583365884189425665?s=20&t=xg_Zt6Z9SlQAWXtctqBcjw); Blogpost: [Token listing on Iotabee](https://medium.com/@iotabee/token-listing-on-iotabee-80ddfaf9aa4f)
+47. **Crypto News**: N26 die Smartphone Bank hat jetzt ne Partnerschaft mit Bitpanda: [N26 startet Krypto-Handel – vorerst aber nur in Österreich](https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/berliner-smartphonebank-n26-startet-krypto-handel-vorerst-aber-nur-in-oesterreich/28757734.html?utm_term=organisch&utm_campaign=standard&utm_medium=social&utm_content=ne&utm_source=Twitter#Echobox=1666255496)
+48. **Shimmer Learn**: IF Youtube: [Tutorial - Wallet Lib in JS - Send a Micro Transaction](https://www.youtube.com/watch?v=5CAhjsj0xXI)
+49. **Youtube Learn DeFi**: IF Youtube: [Shimmer DeFi Education series by Bankless Consulting #6 - Tokenomics 101 20/10/22 #defi #web3](https://www.youtube.com/watch?v=C74Hww7pJdg)
+50. **Firefly Dev Update**: [Firefly tweetet](https://twitter.com/fireflywallet/status/1583185136283430912?s=20&t=xg_Zt6Z9SlQAWXtctqBcjw) über [Firefly Update, October 2022 #349(https://github.com/iotaledger/engineering-updates/discussions/34)
 
 
 
