@@ -45,7 +45,7 @@
 43. **IOTA Ökosystem**: [Pipe tweetet](https://twitter.com/PIPE_DATA/status/1583100776112873473?s=20&t=esiaWjH2sYC5_2CQ-kQm_g) über ihren Blogpost: [PIPE use case example: Supply chain](https://tanglehub.eu/pipe-use-case-example-supply-chain-logistics/)
 44. **IOTA Artikel: von BeInCrypto [What Is IOTA? How Does This Cryptocurrency Work?](https://beincrypto.com/learn/iota-crypto/)
 45. **IOTA Ökosystem**: [Projekt ALFRIED stellt erste Teilergebnisse vor](https://alfried.net/projekt-alfried-stellt-erste-teilergebnisse-vor/)
-46. **IOTA Ökosystem**: Iotabee will neue Token listen: [Tweet](https://twitter.com/iotabee/status/1583365884189425665?s=20&t=xg_Zt6Z9SlQAWXtctqBcjw); Blogpost: [Token listing on Iotabee](https://medium.com/@iotabee/token-listing-on-iotabee-80ddfaf9aa4f) "Once the Shimmer EVM is launched, Iotabee DEX will be completely permissionless to list tokens and anyone could list any token"
+46. **IOTA Ökosystem**: Iotabee will neue Token listen: [Tweet](https://twitter.com/iotabee/status/1583365884189425665?s=20&t=xg_Zt6Z9SlQAWXtctqBcjw); Blogpost: [Token listing on Iotabee](https://medium.com/@iotabee/token-listing-on-iotabee-80ddfaf9aa4f) "Once the Shimmer EVM is launched, Iotabee DEX will be completely permissionless to list tokens and anyone could list any token"; Artikel von Crypto News Flash dazu: [IOTA and Shimmer will provide feeless decentralized ecosystem of the future](https://www.crypto-news-flash.com/iota-and-shimmer-will-provide-feeless-decentralized-ecosystem-of-the-future/)
 47. **Crypto News**: N26 die Smartphone Bank hat jetzt ne Partnerschaft mit Bitpanda: [N26 startet Krypto-Handel – vorerst aber nur in Österreich](https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/berliner-smartphonebank-n26-startet-krypto-handel-vorerst-aber-nur-in-oesterreich/28757734.html?utm_term=organisch&utm_campaign=standard&utm_medium=social&utm_content=ne&utm_source=Twitter#Echobox=1666255496)
 48. **Shimmer Learn**: IF Youtube: [Tutorial - Wallet Lib in JS - Send a Micro Transaction](https://www.youtube.com/watch?v=5CAhjsj0xXI)
 49. **Youtube Learn DeFi**: IF Youtube: [Shimmer DeFi Education series by Bankless Consulting #6 - Tokenomics 101 20/10/22 #defi #web3](https://www.youtube.com/watch?v=C74Hww7pJdg)
@@ -62,6 +62,13 @@
 60. **Crypto Drama**: BitBoy Crypto flippt komplett aus wegen der Crypto (DeFi-) Regulierung in den USA in seinem Video: [Bitcoin's Day of RECKONING! (Congress LEAKS Draft of DeFi Killer?)](https://www.youtube.com/watch?v=o2dhgZopyBs)
 61. **Crypto News**: Tether ab 3.Nov an 20K Geldautomaten in Brasilien erhältlich: [Tweet](https://twitter.com/Tether_to/status/1583147554828521472?s=20&t=xg_Zt6Z9SlQAWXtctqBcjw)
 62. **Crypto Adoption**: [INATBA tweetet](https://twitter.com/INATBA_org/status/1583385392128331776?s=20&t=PemzYQHV-GrKqh5FQvwwtg) über das [Staff Working Document on the digital energy action plan SWD(2022)341](https://energy.ec.europa.eu/staff-working-document-digital-energy-action-plan-swd2022341_en#details) in dem INATBA erwähnt wird
+63. **IOTA Ökosystem**: Blackpin ist eines von 9 Startups die beim Master Accelerator Programm gewonnen haben: [Tweet](https://twitter.com/BLACKPIN_GmbH/status/1583470204620705792?s=20&t=tZupMPGYx8yrvM09XZej5Q)
+64. **IOTA Govern**: Ein [Twitter Thread](https://twitter.com/Deep_Sea_Iotan/status/1583557995547410433?s=20&t=tZupMPGYx8yrvM09XZej5Q) über das [Shimmer Community  Grant Commitee auf govern.iota.org](https://govern.iota.org/t/shimmer-community-grant-committee/1415) für den sich selbst [Dom S. bedankt](https://twitter.com/DomSchiener/status/1583730862965022721?s=20&t=tZupMPGYx8yrvM09XZej5Q)
+65. **IOTA Adoption**: Blockchain Drenthe hat an die Bewohner von 6 Bezirken insgesamt 20.000 Wallets mit je 250 EUR Guthaben zum Energiesparen ausgeteilt: [Tweet](https://twitter.com/BclDrenthe/status/1583737079128739840?s=20&t=yf06JU3l5sSBxyeP02Elbg) 
+66. **IOTA Youtube**: [Spec Weekly - Episode 24: Another SHIT episode..](https://www.youtube.com/watch?v=TRlFLLIhKOQ)
+
+
+
 
 
 
