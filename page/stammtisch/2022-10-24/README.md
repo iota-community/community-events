@@ -66,6 +66,10 @@
 64. **IOTA Govern**: Ein [Twitter Thread](https://twitter.com/Deep_Sea_Iotan/status/1583557995547410433?s=20&t=tZupMPGYx8yrvM09XZej5Q) über das [Shimmer Community  Grant Commitee auf govern.iota.org](https://govern.iota.org/t/shimmer-community-grant-committee/1415) für den sich selbst [Dom S. bedankt](https://twitter.com/DomSchiener/status/1583730862965022721?s=20&t=tZupMPGYx8yrvM09XZej5Q)
 65. **IOTA Adoption**: Blockchain Drenthe hat an die Bewohner von 6 Bezirken insgesamt 20.000 Wallets mit je 250 EUR Guthaben zum Energiesparen ausgeteilt: [Tweet](https://twitter.com/BclDrenthe/status/1583737079128739840?s=20&t=yf06JU3l5sSBxyeP02Elbg) 
 66. **IOTA Youtube**: [Spec Weekly - Episode 24: Another SHIT episode..](https://www.youtube.com/watch?v=TRlFLLIhKOQ)
+67. **IOTA Ökosystem Invest**: [LendeXe verkündet](https://twitter.com/LendeXeFinance/status/1583793391930073088?s=20&t=gp52jwj3kp4JlGGD7DRaaw) ihren Public Sale am 3.11.2022 12.00 PM CEST. Mehr Details dazu findet man im [Litepaper](https://docs.google.com/document/d/1fviwmVVTyV_0qocJnuSMOc3mS_KiIpTn_Gf93EHHel0/edit)
+68. **Twitter Drama**: Dom Schiener vs. Justin Sun: [Tweet](https://twitter.com/DomSchiener/status/1583372439865634816?s=20&t=gp52jwj3kp4JlGGD7DRaaw)
+69. **IOTA Artikel**: von Crypto News Flash: [IOTA und Shimmer: Deswegen muss das dezentralisierte Ökosystem der Zukunft ohne Gebühren funktionieren](https://www.crypto-news-flash.com/de/iota-und-shimmer-bieten-das-gebuehrenfreie-dezentralisierte-oekosystem-der-zukunft/)
+70. **IOTA Nodes**: [DLT.green](https://twitter.com/dlt_green) hat sein Skript verbesser, so dass die Nodes jetzt Events automatisch verifizieren können: [Tweet](https://twitter.com/dlt_green/status/1583777138112868352?s=20&t=gp52jwj3kp4JlGGD7DRaaw)
 
 
 
