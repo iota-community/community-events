@@ -71,11 +71,12 @@
 69. **IOTA Artikel**: von Crypto News Flash: [IOTA und Shimmer: Deswegen muss das dezentralisierte Ökosystem der Zukunft ohne Gebühren funktionieren](https://www.crypto-news-flash.com/de/iota-und-shimmer-bieten-das-gebuehrenfreie-dezentralisierte-oekosystem-der-zukunft/)
 70. **IOTA Nodes**: [DLT.green](https://twitter.com/dlt_green) hat sein Skript verbesser, so dass die Nodes jetzt Events automatisch verifizieren können: [Tweet](https://twitter.com/dlt_green/status/1583777138112868352?s=20&t=gp52jwj3kp4JlGGD7DRaaw)
 71. **Shimmer Invest**: Phylo [tweetet](https://twitter.com/PhyloIota/status/1584133477020336133?s=20&t=lNEVPRMjNoTzS9mXp9p6Qw) über [A simple guide for researching and investing into a crypto project](https://medium.com/@iotacontentcreators/a-simple-guide-for-researching-and-investing-into-a-crypto-project-fc04724db30d)
-72. **IOTA FUD**: Sebastian Müller [reagiert](https://twitter.com/NaitsabesMue/status/1584198614595010561?s=20&t=lNEVPRMjNoTzS9mXp9p6Qw) auf Fuddy sein FUD
+72. **IOTA FUD**: Sebastian Müller [reagiert](https://twitter.com/NaitsabesMue/status/1584198614595010561?s=20&t=lNEVPRMjNoTzS9mXp9p6Qw) auf Fuddy sein FUD. Hier mit [weiteren Tweets](https://twitter.com/NaitsabesMue/status/1584417102382829569?s=20&t=lNEVPRMjNoTzS9mXp9p6Qw)
 73. **IOTA Dev Update**: [Protocol group - Weeks 41-42 #57](https://github.com/iotaledger/research-updates/discussions/57)
 74. **IOTA Youtube**: von Whales Of Whale Street: [IOTA | Massive future, Why TANGLE is important to recognise & Chart Update](https://www.youtube.com/watch?v=iotrB7VdJ_A)
 75. **IOTA Youtube**: vom Bitcoin Trading Informant: [IOTA +EU +Toshiba! Gute NEWS!](https://www.youtube.com/watch?v=lfXt_gxppo4)
 76. **IOTA Wochenrückblick**: Hier der [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/230-wochenr%C3%BCckblick-vom-16-bis-22-oktober-2022/)
+77. **IOTA Privacy**: [Amnesia.cash tweetet](https://twitter.com/amnesia_cash/status/1584289093089099777?s=20&t=lNEVPRMjNoTzS9mXp9p6Qw) darüber, dass sie ihr "private alpha testing" sehr bald starten
 
 
 
