@@ -77,6 +77,7 @@
 75. **IOTA Youtube**: vom "Bitcoin Trading Informant": [IOTA +EU +Toshiba! Gute NEWS!](https://www.youtube.com/watch?v=lfXt_gxppo4)
 76. **IOTA Wochenrückblick**: Hier der [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/230-wochenr%C3%BCckblick-vom-16-bis-22-oktober-2022/)
 77. **IOTA Privacy**: [Amnesia.cash tweetet](https://twitter.com/amnesia_cash/status/1584289093089099777?s=20&t=lNEVPRMjNoTzS9mXp9p6Qw) darüber, dass sie ihr "private alpha testing" sehr bald starten
+78. **IOTA Ökosystem**: [Chirp verkündet](https://twitter.com/ChirpIoT/status/1584487865991409664?s=20&t=k33Phbdw0SnN9Zq3PzK5XA) ihr Gateway mit dem Blogpost: [Chirp Announces a World-First Decentralized, Dual-Band, LoRa Gateway](https://chirpiot.medium.com/chirp-announces-a-world-first-decentralized-dual-band-lora-gateway-ea8364f3a74a)
 
 
 
