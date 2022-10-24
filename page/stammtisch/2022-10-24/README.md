@@ -79,6 +79,7 @@
 77. **IOTA Privacy**: [Amnesia.cash tweetet](https://twitter.com/amnesia_cash/status/1584289093089099777?s=20&t=lNEVPRMjNoTzS9mXp9p6Qw) darüber, dass sie ihr "private alpha testing" sehr bald starten
 78. **IOTA Ökosystem**: [Chirp verkündet](https://twitter.com/ChirpIoT/status/1584487865991409664?s=20&t=k33Phbdw0SnN9Zq3PzK5XA) ihr Gateway mit dem Blogpost: [Chirp Announces a World-First Decentralized, Dual-Band, LoRa Gateway](https://chirpiot.medium.com/chirp-announces-a-world-first-decentralized-dual-band-lora-gateway-ea8364f3a74a)
 79. **IOTA Science**: Die [IF tweetet](https://twitter.com/iota/status/1584530149181050880?s=20&t=y3XXR61gNaWdSzgmof2Psw) darüber, dass ihr Research Paper [Robustness of the Tangle 2.0 Consensus](https://arxiv.org/abs/2208.08254) von [EAI_Social](https://twitter.com/EAI_Social) akzeptiert wurde
+80. **Crypto Adaption**: Krypto auf ZDF (Leschs Kosmos): [Krypto, Bitcoin & Co: Revolution oder Spekulation?](https://www.zdf.de/wissen/leschs-kosmos/krypto-bitcoin-und-co-100.html)
 
 
 
