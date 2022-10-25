@@ -11,4 +11,7 @@
 9. **Shimmer NFT**: Die Shimmer OG NFTs von der Launch Party wurden verteilt: [Tweet](https://twitter.com/WLiving0000/status/1584912984698150915?s=20&t=y8PKbo1Z9DpCCzxMl2IF-Q)
 10. **IOTA Ökosystem**: [Infiota tweetet](https://twitter.com/infiota/status/1584874142054068224?s=20&t=Djj46OPpqkyPCVd79kI83Q) eine Übersichtskarte zum Soon Token und wie man ihn verdienen kann
 11. **IOTA Promote**: Die [IF tweetet](https://twitter.com/iota/status/1584907639171043330?s=20&t=y8PKbo1Z9DpCCzxMl2IF-Q) dass die EU sie erwähnt hat in ihrem Bericht: [The EU Blockchain Observatory and Forum publishes updated report on the State of the European Blockchain Ecosystem in 2022](https://www.eublockchainforum.eu/news/press-release-eu-blockchain-ecosystem-report-revised-version-2022)
-12. 
+12. **Crypto News**: Die [Cash App](https://cash.app/) hat Bitcoin Lightning integriert: [Tweet](https://twitter.com/BTC_Archive/status/1584882882736115712?s=20&t=t_Hhd7kJQioqPWqYaBOyew)
+13. **Crypto News**: Die UK Gesetzgeber haben dafür gevoted Bitcoin als reguliertes Finanzmittel einzuführen: [Tweet](https://twitter.com/BitcoinMagazine/status/1584944725722681357?s=20&t=t_Hhd7kJQioqPWqYaBOyew)
+14. **Shimmer OG NFTs**: Die Shimmer OG NFTs wurden verteilt und [Levante erklärt](https://twitter.com/lzpap/status/1584956836549382144?s=20&t=t_Hhd7kJQioqPWqYaBOyew) was das besondere daran ist und wie das technisch gelaufen ist
+15. 
