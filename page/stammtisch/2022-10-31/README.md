@@ -1,4 +1,6 @@
 ## IOTA Stammtischthemen für Montag, den 31.10.2022
 
 1. **IOTA Quicktakes**: [IF Tweets](https://twitter.com/iota/status/1584469644207087616?s=20&t=wuuSKVEmavXpCPKN01FMJQ); Youtube: [IOTA Quicktakes 24.10.2022: Touchpoint, Ping Pong, DeFi Education and more...](https://www.youtube.com/watch?v=DjWdsTVmpUQ)
-2. 
+2. **IOTA Audio**: Die [IF tweetet](https://twitter.com/iota/status/1584590554108776448?s=20&t=cR4aDVQKsSeCMVCvNlIhFw) über ein [PODCAST: Chatting all things IOTA, with IOTA’s Christian Saur](https://coinjournal.net/news/podcast-chatting-all-things-iota-with-iotas-christian-saur/)
+3. **Crypo News**: Apple hat die Geschäftsbedingungen verändert, so dass NFTs integriert werden können: [App Store Review Guideline updates now available](https://developer.apple.com/news/?id=xk8d7p8c); [Tweet mit Screenshot vom wichtigen Teil](https://twitter.com/Vrom14286662/status/1584794964810428419?s=20&t=cR4aDVQKsSeCMVCvNlIhFw); Die Frage ist: Sind das wirklich web30 NFTs oder ist man weiterhin im Apple System gefangen: [Tweetstorm](https://twitter.com/JasonLBaptiste/status/1584634687351574528?s=20&t=h5U_I9yEoTmfvU8KyFEyyQ)
+4. **IOTA Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1584777659577683968?s=20&t=h5U_I9yEoTmfvU8KyFEyyQ) über ihren neuen [Blogpost](https://t.co/IYGPAhzF1n)
