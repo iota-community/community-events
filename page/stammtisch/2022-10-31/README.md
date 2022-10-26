@@ -14,4 +14,5 @@
 12. **Crypto News**: Die [Cash App](https://cash.app/) hat Bitcoin Lightning integriert: [Tweet](https://twitter.com/BTC_Archive/status/1584882882736115712?s=20&t=t_Hhd7kJQioqPWqYaBOyew); [Tweet von M. Saylor](https://twitter.com/saylor/status/1584973583477972992?s=20&t=MBqCers25lpzgow24nnGjw)
 13. **Crypto News**: Die UK Gesetzgeber haben dafür gevoted Bitcoin als reguliertes Finanzmittel einzuführen: [Tweet](https://twitter.com/BitcoinMagazine/status/1584944725722681357?s=20&t=t_Hhd7kJQioqPWqYaBOyew)
 14. **Shimmer OG NFTs**: Die Shimmer OG NFTs wurden verteilt und [Levante erklärt](https://twitter.com/lzpap/status/1584956836549382144?s=20&t=t_Hhd7kJQioqPWqYaBOyew) was das besondere daran ist und wie das technisch gelaufen ist
-15. Crypto News**: Bitcoin jetzt auch Thema im Bayerischen Rundfunk: [Tweet](https://twitter.com/jokoono/status/1584867249097445376?s=20&t=MBqCers25lpzgow24nnGjw)
+15. **Crypto News**: Bitcoin jetzt auch Thema im Bayerischen Rundfunk: [Tweet](https://twitter.com/jokoono/status/1584867249097445376?s=20&t=MBqCers25lpzgow24nnGjw)
+16. **IOTA Exchange**: [BitForex tweetet](https://twitter.com/bitforexcom/status/1585161008309411840?s=20&t=uVc15R26oCD46ib7BqcyEg) darüber, dass sie IOTA listen und ein IOTA/USDT Tradingpaar anbieten
