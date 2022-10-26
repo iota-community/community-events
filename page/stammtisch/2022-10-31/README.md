@@ -22,3 +22,6 @@
 20. **DeFi Learn**: Neue Bankless DAO Tutorial: [Tweet](https://twitter.com/shimmernet/status/1584922745946644484?s=20&t=gzVN_3HPkHwg0TJYVvL4ww); Hier noch die Folge von letzter Woche: [Shimmer DeFi Education series by Bankless Consulting #6 - Tokenomics 101 20/10/22 #defi #web3](https://www.youtube.com/watch?v=C74Hww7pJdg)
 21. **IOTA Audio**: TangleGang Sprachchat war am Donnerstag: [Tweet](https://twitter.com/GangTangleTalk/status/1585232758238248960?s=20&t=uVc15R26oCD46ib7BqcyEg)
 22. **IOTA Artikel**: [IOTA one of the most important blockchain companies in the world – EUBlockchain report](https://www.crypto-news-flash.com/iota-one-of-most-important-blockchain-companies-in-the-world-eublockchain-report/)
+23. **IOTA Ökosystem**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1585254930499207168?s=20&t=ZsaTLIyKtXzp_dNLUsuLsQ), dass Iotaorigin dem Touchpoint Open Builders Programm beitritt: [IotaOrigin Joins Touchpoint Open Builders Program](https://blog.shimmer.network/touchpoint-welcomes-iotaorigin/)
+24. **IOTA Artikel**: von [[EP -10] The Magic Behind Blockchain: ⇛ Directed Acyclic Graphs ⇚](https://medium.com/naoris-protocol/ep-10-the-magic-behind-blockchain-directed-acyclic-graphs-27dda3ae8d2e)
+25. 
