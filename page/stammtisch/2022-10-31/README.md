@@ -28,5 +28,8 @@
 26. **IOTA Artikel**: von dem IOTA Conten Creator DAO: [The Daily Degen interviews Christoph F. Strnadl of the Software AG](https://medium.com/@iotacontentcreators/the-daily-degen-interviews-christoph-f-strnadl-of-the-software-ag-30653773b944)
 27. **IOTA Promote**: Die [IF tweetet](https://twitter.com/iota/status/1585285131119611906?s=20&t=c0UjfCbFUxoiRopd_ZNR9w) über den EU Blogpost: [The EU Blockchain Observatory and Forum publishes new report on Blockchain for Supply Chain Transparency](https://www.eublockchainforum.eu/news/eu-blockchain-observatory-and-forum-publishes-new-report-blockchain-supply-chain-transparency); Marianna de la Roche hat das [kommentiert](https://twitter.com/Marianadlrw/status/1585323107090317316?s=20&t=c0UjfCbFUxoiRopd_ZNR9w)
 28. **IOTA FUD**: Bei Laura Shin sprechen Eric Wall und Udi Wertheimer auch über die IOTA Army von 2017: [Tweet](https://twitter.com/laurashin/status/1584944236121972737?s=20&t=c0UjfCbFUxoiRopd_ZNR9w)
+29. **Allgem. News**: Elon Musk übernimmt Twitter: [Tweet](https://twitter.com/elonmusk/status/1585341984679469056?s=20&t=c0UjfCbFUxoiRopd_ZNR9w)
+30. **IOTA Audio**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1584575513565151237?s=20&t=c0UjfCbFUxoiRopd_ZNR9w) über den Podcast Flippin Burgers am Freitag
+31. **IOTA Artikel**: [Daily Degen tweetet](https://twitter.com/IccdNewsletter/status/1585301173484933120?s=20&t=c0UjfCbFUxoiRopd_ZNR9w) über den Artikel: [Breaking out of the Bubble](https://iotacreator.substack.com/p/breaking-out-of-the-bubble)
 
 
