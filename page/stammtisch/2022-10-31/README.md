@@ -38,6 +38,7 @@
 36. **IOTA Ökosystem**: [Minted Vodka tweetet](https://twitter.com/MintedVodka/status/1585557742353268736?s=20&t=tlF0MF-19SSV2Wt2NEeO8g) über [Minted Vodka on  Shimmer EVM Testnet](https://minted.vodka/shimmer) und 2 Tutorial Videos ([Start using Shimmer EVM](https://www.youtube.com/watch?v=UeGaeJxrkdU) und [How to Mint on Shimmer EVM](https://www.youtube.com/watch?v=LliIDkCB-x8)) und darüber, dass sie mit Start von Shimmer EVM die erste Multichain NFT Plattform sein werden
 37. **IOTA Audio**: [Moonaco Podcast tweetet](https://twitter.com/MoonacoPodcast/status/1585571951149449217?s=20&t=tlF0MF-19SSV2Wt2NEeO8g) über die [Episode 45 mit LendeXe](https://open.spotify.com/episode/613rUgukUEGvr6Mpw9M6EV?si=8Js2FQaERX6Q5-gZnF4_XQ&nd=1)
 38. **Allgemeine News**: [Meta-Aktie fällt vorbörslich an der NASDAQ zweistellig: Facebook-Mutter erleidet Gewinneinbruch](https://www.finanzen.net/nachricht/aktien/bilanz-vorgelegt-meta-aktie-faellt-vorboerslich-an-der-nasdaq-zweistellig-facebook-mutter-erleidet-gewinneinbruch-11827421)
-39. 
+39. **IOTA Drama**: Dom Schiener hated gegen LendeXe im D/A/CH Telegram Chat. Da fallen ziemlich unschöne Vorwürfe... (Do. 27.10. ab 15:40)
+40. **IOTA Ökosystem**: [Shimmer Ping Pong](https://twitter.com/shimmernet/status/1585615701485699072?s=20&t=rVSlbQMbYOQhuJohSo-j6g) mit [Minted Vodka](https://twitter.com/MintedVodka)
 
 
