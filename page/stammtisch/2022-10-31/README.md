@@ -31,5 +31,9 @@
 29. **Allgem. News**: Elon Musk übernimmt Twitter: [Tweet](https://twitter.com/elonmusk/status/1585341984679469056?s=20&t=c0UjfCbFUxoiRopd_ZNR9w)
 30. **IOTA Audio**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1584575513565151237?s=20&t=c0UjfCbFUxoiRopd_ZNR9w) über den Podcast Flippin Burgers am Freitag
 31. **IOTA Artikel**: [Daily Degen tweetet](https://twitter.com/IccdNewsletter/status/1585301173484933120?s=20&t=c0UjfCbFUxoiRopd_ZNR9w) über den Artikel: [Breaking out of the Bubble](https://iotacreator.substack.com/p/breaking-out-of-the-bubble)
+32. **IOTA Ökosstem**: Das [Soonaverse tweetet](https://twitter.com/soon_labs/status/1585510522056646656?s=20&t=tlF0MF-19SSV2Wt2NEeO8g), dass das Token Launchpad jetzt für jeden offen steht der KYC gemacht hat
+33. **IOTA Treassury DAO**: [Phylo tweetet](https://twitter.com/PhyloIota/status/1585433623473573889?s=20&t=tlF0MF-19SSV2Wt2NEeO8g) darüber, dass es jetzt eine Webseite gibt in der alles gefunden werden kann zum [Shimmer Community Treasury DAO](https://shimmer-community-treasury.notion.site/Shimmer-Community-Treasury-DAO-ac49f464f3f941cc9e6ab68b810d82e5)
+34. **IOTA Invest**: [LendeXe veröffentlicht](https://twitter.com/LendeXeFinance/status/1585369924100591617?s=20&t=tlF0MF-19SSV2Wt2NEeO8g) mehr Details zu ihrem Token Verkauf: [LendeXe Public Sale](https://medium.com/@LendeXeFinance/lendexe-public-sale-4586ab990f5f)
+35. **IOTA Dev**: [Stefan Braun tweetet](https://twitter.com/tanglePHP/status/1585514735755300865?s=20&t=tlF0MF-19SSV2Wt2NEeO8g) über die neue [TanglepHp Dokumentation](https://github.com/tanglePHP/bundle/tree/main/documentation) und die [Tangle PHP Help Seite](https://github.com/tanglePHP/bundle/blob/main/documentation/Help/000_index.md)
 
 
