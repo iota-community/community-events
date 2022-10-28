@@ -47,6 +47,7 @@
 45. **Assembly Staking**: [Assembly tweetet](https://twitter.com/assembly_net/status/1585618323122823169?s=20&t=4p75XXyvYjZW-vs1k5xiaw), dass die 3. Runde vorbei ist und validiert werden soll: [Tweet](https://twitter.com/assembly_net/status/1585700710271819778?s=20&t=4p75XXyvYjZW-vs1k5xiaw)
 46. **IOTA Governements**: [Dom Schiener tweetet](https://twitter.com/DomSchiener/status/1585673882421399555?s=20&t=4p75XXyvYjZW-vs1k5xiaw) über sein Proposal: [Shimmer Growth Committee as part of Tangle Ecosystem Association](https://govern.iota.org/t/shimmer-growth-committee-as-part-of-tangle-ecosystem-association/1423) das man kommentieren und für das man Abstimmen soll (Vorabstimmung)
 47. **IOTA Soon**: [Fasten your Seatbell Soon Tweet von Bivreost](https://twitter.com/bivreost/status/1585895229428744193?s=20&t=4p75XXyvYjZW-vs1k5xiaw)
-48. 
+48. **IOTA Interview**: Die [IF tweetet](https://twitter.com/iota/status/1585285131119611906?s=20&t=od6Z49M3aymjytKjU4QNUw) über das Interview mit Marianna de la Roche im EU Blockchain Report: [The EU Blockchain Observatory and Forum publishes new report on Blockchain for Supply Chain Transparency](https://www.eublockchainforum.eu/news/eu-blockchain-observatory-and-forum-publishes-new-report-blockchain-supply-chain-transparency)
+49. **IOTA Audio**: [Flippin' Burgers sprechen über CSI-Bridges](https://twitter.com/i/spaces/1ypKddawXmNKW)
 
 
