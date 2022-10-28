@@ -50,6 +50,8 @@
 48. **IOTA Interview**: Die [IF tweetet](https://twitter.com/iota/status/1585285131119611906?s=20&t=od6Z49M3aymjytKjU4QNUw) über das Interview mit Marianna de la Roche im EU Blockchain Report: [The EU Blockchain Observatory and Forum publishes new report on Blockchain for Supply Chain Transparency](https://www.eublockchainforum.eu/news/eu-blockchain-observatory-and-forum-publishes-new-report-blockchain-supply-chain-transparency)
 49. **IOTA Audio**: [Flippin' Burgers sprechen über CSI-Bridges](https://twitter.com/i/spaces/1ypKddawXmNKW)
 50. **Crypto Adoption**: Visa will Crypto Wallet launchen: [Tweet](https://twitter.com/crypto_rand/status/1585900599945695232?s=20&t=DFWGPomDYTi7owFYmlR0iw)
-51. **IOTA Ökosystem**: [LendeXe tweetet](https://twitter.com/LendeXeFinance/status/1585997025228640258?s=20&t=DFWGPomDYTi7owFYmlR0iw) über ihre [FAQs zum public sale](https://publicsale.lendexe.fi/faq)
+51. **IOTA Ökosystem**: [LendeXe tweetet](https://twitter.com/LendeXeFinance/status/1585997025228640258?s=20&t=DFWGPomDYTi7owFYmlR0iw) über ihre [FAQs zum public sale](https://publicsale.lendexe.fi/faq); [IOTA Poet tweeteten](https://twitter.com/IotaPoet/status/1586035350555729921?s=20&t=LvX0ppMsxR6byWPOUSH-pg) einen One-Pager zum Token Sale
+52. **IOTA Artikel**: von Crypto News Flash: [IOTA: Eine Kryptowährung für jeden Anwendungsfall auf der Welt – Ein ausführlicher Bericht](https://www.crypto-news-flash.com/de/iota-eine-kryptowaehrung-fuer-jeden-anwendungsfall-auf-der-welt/)
+53. **
 
 
