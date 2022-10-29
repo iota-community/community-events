@@ -28,7 +28,7 @@
 26. **IOTA Artikel**: von dem IOTA Conten Creator DAO: [The Daily Degen interviews Christoph F. Strnadl of the Software AG](https://medium.com/@iotacontentcreators/the-daily-degen-interviews-christoph-f-strnadl-of-the-software-ag-30653773b944)
 27. **IOTA Promote**: Die [IF tweetet](https://twitter.com/iota/status/1585285131119611906?s=20&t=c0UjfCbFUxoiRopd_ZNR9w) über den EU Blogpost: [The EU Blockchain Observatory and Forum publishes new report on Blockchain for Supply Chain Transparency](https://www.eublockchainforum.eu/news/eu-blockchain-observatory-and-forum-publishes-new-report-blockchain-supply-chain-transparency); Marianna de la Roche hat das [kommentiert](https://twitter.com/Marianadlrw/status/1585323107090317316?s=20&t=c0UjfCbFUxoiRopd_ZNR9w)
 28. **IOTA FUD**: Bei Laura Shin sprechen Eric Wall und Udi Wertheimer auch über die IOTA Army von 2017: [Tweet](https://twitter.com/laurashin/status/1584944236121972737?s=20&t=c0UjfCbFUxoiRopd_ZNR9w)
-29. **Allgem. News**: Elon Musk übernimmt Twitter: [Tweet](https://twitter.com/elonmusk/status/1585341984679469056?s=20&t=c0UjfCbFUxoiRopd_ZNR9w)
+29. **Allgem. News**: Elon Musk übernimmt Twitter: [Tweet](https://twitter.com/elonmusk/status/1585341984679469056?s=20&t=c0UjfCbFUxoiRopd_ZNR9w); Und kurze Zeit später ist Trump wieder online: [Tweet](https://twitter.com/TheUltGmr/status/1586060657920659457?s=20&t=3oKx1szaLdNz57A1C6bdFQ)
 30. **IOTA Audio**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1584575513565151237?s=20&t=c0UjfCbFUxoiRopd_ZNR9w) über den Podcast Flippin Burgers am Freitag: [Twitter Spaces]https://twitter.com/shimmernet/status/1586026701187710978?s=20&t=k7RI_d-757uz7wDKgOfFLw)
 31. **IOTA Artikel**: [Daily Degen tweetet](https://twitter.com/IccdNewsletter/status/1585301173484933120?s=20&t=c0UjfCbFUxoiRopd_ZNR9w) über den Artikel: [Breaking out of the Bubble](https://iotacreator.substack.com/p/breaking-out-of-the-bubble)
 32. **IOTA Ökosstem**: Das [Soonaverse tweetet](https://twitter.com/soon_labs/status/1585510522056646656?s=20&t=tlF0MF-19SSV2Wt2NEeO8g), dass das Token Launchpad jetzt für jeden offen steht der KYC gemacht hat
@@ -49,9 +49,12 @@
 47. **IOTA Soon**: [Fasten your Seatbell Soon Tweet von Bivreost](https://twitter.com/bivreost/status/1585895229428744193?s=20&t=4p75XXyvYjZW-vs1k5xiaw)
 48. **IOTA Interview**: Die [IF tweetet](https://twitter.com/iota/status/1585285131119611906?s=20&t=od6Z49M3aymjytKjU4QNUw) über das Interview mit Marianna de la Roche im EU Blockchain Report: [The EU Blockchain Observatory and Forum publishes new report on Blockchain for Supply Chain Transparency](https://www.eublockchainforum.eu/news/eu-blockchain-observatory-and-forum-publishes-new-report-blockchain-supply-chain-transparency)
 49. **IOTA Audio**: [Flippin' Burgers sprechen über CSI-Bridges](https://twitter.com/i/spaces/1ypKddawXmNKW)
-50. **Crypto Adoption**: Visa will Crypto Wallet launchen: [Tweet](https://twitter.com/crypto_rand/status/1585900599945695232?s=20&t=DFWGPomDYTi7owFYmlR0iw)
+50. **Crypto Adoption**: Visa will Crypto Wallet launchen: [Tweet](https://twitter.com/crypto_rand/status/1585900599945695232?s=20&t=DFWGPomDYTi7owFYmlR0iw); Artikel: [Visa Files Trademark Applications for Crypto Wallets, NFTs and the Metaverse](https://www.coindesk.com/business/2022/10/28/visa-files-trademark-applications-for-crypto-wallets-nfts-and-the-metaverse/)
 51. **IOTA Ökosystem**: [LendeXe tweetet](https://twitter.com/LendeXeFinance/status/1585997025228640258?s=20&t=DFWGPomDYTi7owFYmlR0iw) über ihre [FAQs zum public sale](https://publicsale.lendexe.fi/faq); [IOTA Poet tweeteten](https://twitter.com/IotaPoet/status/1586035350555729921?s=20&t=LvX0ppMsxR6byWPOUSH-pg) einen One-Pager zum Token Sale
 52. **IOTA Artikel**: von Crypto News Flash: [IOTA: Eine Kryptowährung für jeden Anwendungsfall auf der Welt – Ein ausführlicher Bericht](https://www.crypto-news-flash.com/de/iota-eine-kryptowaehrung-fuer-jeden-anwendungsfall-auf-der-welt/)
-53. **
+53. **Shimmer Learn**: [Cyril-Defi tweetet](https://twitter.com/cyrilXBT/status/1585676822741745666?s=20&t=3oKx1szaLdNz57A1C6bdFQ) eine Zusammenfassung zu den USPA von Shimmer
+54. **IOTA Regulierung**: Es gibt jetzt jede Woche am Mittwoch ein Community Gelaber im IOTA Discord über "regulatory affairs": [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1586191862502944769?s=20&t=3oKx1szaLdNz57A1C6bdFQ)
+55. **IOTA Artikel**: von WErnder der Champ: [Status of the legacy Network](https://medium.com/@wernerderchamp/status-of-the-legacy-network-38ff31ca2ea7)
+
 
 
