@@ -55,6 +55,9 @@
 53. **Shimmer Learn**: [Cyril-Defi tweetet](https://twitter.com/cyrilXBT/status/1585676822741745666?s=20&t=3oKx1szaLdNz57A1C6bdFQ) eine Zusammenfassung zu den USPA von Shimmer
 54. **IOTA Regulierung**: Es gibt jetzt jede Woche am Mittwoch ein Community Gelaber im IOTA Discord über "regulatory affairs": [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1586191862502944769?s=20&t=3oKx1szaLdNz57A1C6bdFQ)
 55. **IOTA Artikel**: von WErnder der Champ: [Status of the legacy Network](https://medium.com/@wernerderchamp/status-of-the-legacy-network-38ff31ca2ea7)
+56. **IOTA Ökosystem**: Es gab ein TanglePay Update: [Tweet](https://twitter.com/tanglepaycom/status/1586358596186824709?s=20&t=Uykx2zEPLjhrYX5OcUhUIA)
+57. **IOTA Ökosystem Airdrops**: Nächste Woche gibt es scheinbar ein paar Airdrops im Iotabee Discord: [Tweet](https://twitter.com/iotabee/status/1586342592496603137?s=20&t=Uykx2zEPLjhrYX5OcUhUIA)
+
 
 
 
