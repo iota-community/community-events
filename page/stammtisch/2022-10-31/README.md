@@ -63,6 +63,8 @@
 61. **IOTA Ökosystem**: Bivreost wird geaudited: [Tweet](https://twitter.com/bivreost/status/1586966758363172864?s=20&t=c6UvvcEnM3N2EHMPjhTGwg)
 62. **IOTA Audio**: Neuer Moonacod Podcast mit Iotaorigin: [Tweet](https://twitter.com/MoonacoPodcast/status/1587035391118508032?s=20&t=it3-CcVvKgdyNARms68-Zg); [Spotify Link](https://open.spotify.com/episode/3RljTUBbCYGW0pHcnTLE9o?si=ZHYAnSKeTvedmRQXDc5dXQ&nd=1)
 63. **IOTA Wochenrückblick**: IOTA-Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/232-wochenr%C3%BCckblick-vom-23-bis-29-oktober-2022/) 
+64. **IOTA Dev**: TanglepHp Update: [Tweet von Stefan Braun](https://twitter.com/tanglePHP/status/1587068916194578433?s=20&t=iVHVsSKKsN_RnJN2N6KByQ)
+65. **Bitcoin History**: Heute vor 14 Jahren wurde das Bitcoin Whitepaper veröffentlicht: [Tweet](https://twitter.com/CoinMarketCap/status/1587029111297478656?s=20&t=iVHVsSKKsN_RnJN2N6KByQ)
 
 
 
