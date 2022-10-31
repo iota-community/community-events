@@ -60,7 +60,9 @@
 58. **Twitter Hype**: [Hans Moog meldet sich](https://twitter.com/hus_qy/status/1586703928833544192?s=20&t=it3-CcVvKgdyNARms68-Zg) nach 3 Wochen zurück und ist sehr zuversichtlich was die Entwicklung bei IOTA betrifft. 
 59. **IOTA Artikel**: Der Bitcoin-Treffpunkt [tweetet](https://twitter.com/Bitcoin_Treff/status/1586779939936022528?s=20&t=it3-CcVvKgdyNARms68-Zg) über den Artikel: [The European Blockchain Forum Admittedly IOTA As One Of Germany's Leading Blockchains](https://voi.id/en/technology/222047/the-european-blockchain-forum-admittedly-iota-as-one-of-germanys-leading-blockchains)
 60. **IOTA Soon**: [vroms 3 Umfragen](https://twitter.com/Vrom14286662/status/1586955084121968640?s=20&t=it3-CcVvKgdyNARms68-Zg) zeigen, dass die IOTA Community aktuell nicht mehr viel erwartet in 2022... [Umfrage 1](https://twitter.com/Vrom14286662/status/1586639485705412608?s=20&t=XObS7X-afFnnc3Sk01QVDA); [Umfrage 2](https://twitter.com/Vrom14286662/status/1586645519077707776?s=20&t=it3-CcVvKgdyNARms68-Zg); [Umfrage 3](https://twitter.com/Vrom14286662/status/1586699086035652608?s=20&t=it3-CcVvKgdyNARms68-Zg)
-61. **IOTA Wochenrückblick**: IOTA-Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/232-wochenr%C3%BCckblick-vom-23-bis-29-oktober-2022/)
+61. **IOTA Ökosystem**: Bivreost wird geaudited: [Tweet](https://twitter.com/bivreost/status/1586966758363172864?s=20&t=c6UvvcEnM3N2EHMPjhTGwg)
+62. **IOTA Audio**: Neuer Moonacod Podcast mit Iotaorigin: [Tweet](https://twitter.com/MoonacoPodcast/status/1587035391118508032?s=20&t=it3-CcVvKgdyNARms68-Zg)
+63. **IOTA Wochenrückblick**: IOTA-Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/232-wochenr%C3%BCckblick-vom-23-bis-29-oktober-2022/)m [Spotify Link](https://open.spotify.com/episode/3RljTUBbCYGW0pHcnTLE9o?si=ZHYAnSKeTvedmRQXDc5dXQ&nd=1)
 
 
 
