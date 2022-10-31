@@ -57,6 +57,9 @@
 55. **IOTA Artikel**: von WErnder der Champ: [Status of the legacy Network](https://medium.com/@wernerderchamp/status-of-the-legacy-network-38ff31ca2ea7)
 56. **IOTA Ökosystem**: Es gab ein TanglePay Update: [Tweet](https://twitter.com/tanglepaycom/status/1586358596186824709?s=20&t=Uykx2zEPLjhrYX5OcUhUIA)
 57. **IOTA Ökosystem Airdrops**: Nächste Woche gibt es scheinbar ein paar Airdrops im Iotabee Discord: [Tweet](https://twitter.com/iotabee/status/1586342592496603137?s=20&t=Uykx2zEPLjhrYX5OcUhUIA)
+58. **Twitter Hype**: [Hans Moog meldet sich](https://twitter.com/hus_qy/status/1586703928833544192?s=20&t=it3-CcVvKgdyNARms68-Zg)nach 3 Wochen zurück und ist sehr zuversichtlich was die Entwicklungsrichtung bei IOTA betrifft. 
+59. **IOTA Artikel**: Der Bitcoin-Treffpunkt [tweetet](https://twitter.com/Bitcoin_Treff/status/1586779939936022528?s=20&t=it3-CcVvKgdyNARms68-Zg) über den Artikel: [The European Blockchain Forum Admittedly IOTA As One Of Germany's Leading Blockchains](https://voi.id/en/technology/222047/the-european-blockchain-forum-admittedly-iota-as-one-of-germanys-leading-blockchains)
+
 
 
 
