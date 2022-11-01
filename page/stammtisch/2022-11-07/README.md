@@ -13,5 +13,6 @@
 11. **IOTA Ökosystem Youtube**: von Finanzgoblin: [Tokenomics Review: Lendexe](https://www.youtube.com/watch?v=6bqTNffdu5c)
 12. **IOTA Promote**: [Tangleverse verkündet](https://twitter.com/TangleVerseWeb/status/1587467499813146628?s=20&t=WWdO0C7UDetnKkdUrASOAA), dass es ein E-mail Newsletter geben wird
 13. **IOTA NFT**: was ist das für eine Partnerschaft zwischen TFT und Munkiilabs? [Tweet](https://twitter.com/munkiilab/status/1587441146258591744?s=20&t=9kGpvuddL4PBq4W5iCA1bw)
+14. **IOTA DeFi Learn**: Die [IF tweetet](https://twitter.com/shimmernet/status/1587444353668190208?s=20&t=oWD8xQK30FrsopRR2_Avnw) über [Shimmer DeFi Education Session by Bankless Consulting: #7 - Risk Management practices 27/10/22](https://www.youtube.com/watch?v=YB7C5VPhtc8)
 
 
