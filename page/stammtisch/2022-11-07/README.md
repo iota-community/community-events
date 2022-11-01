@@ -8,5 +8,7 @@
 6. **IOTA Adaption**: Adam ist beim Cardano Summit 2022 und will offenbar Brücken bauen... [Tweet](https://twitter.com/Schpoopel/status/1587417775408091138?s=20&t=9kGpvuddL4PBq4W5iCA1bw)
 7. **IOTA Ökosystem?**: [Chirp tweetet](https://twitter.com/ChirpIoT/status/1587408678658899968?s=20&t=9kGpvuddL4PBq4W5iCA1bw) über ihren Blogpost: [Introducing The Chirp Network, the World’s First Multi-Protocol Network featuring Global 2.4GHz LoRa](https://chirpiot.medium.com/introducing-the-chirp-network-the-worlds-first-multi-protocol-network-featuring-global-2-4ghz-73162dbc87b3)
 8. **IOTA DeFi**: [Kappy tweetet](https://twitter.com/Rob_Daykin/status/1587386292656029696?s=20&t=9kGpvuddL4PBq4W5iCA1bw) über Deepr finance und den Fair Launch
+9. **IOTA Dev**: Die [IF tweetet](https://twitter.com/iota/status/1587455414001713154?s=20&t=9kGpvuddL4PBq4W5iCA1bw) über: [Stronghold 1.0 Stable Release](https://blog.iota.org/stronghold-1-0-stable-release/)
+10. **Shimmer Animation**: [JSTO tweetet](https://twitter.com/jsto_art/status/1587394844997177344?s=20&t=9kGpvuddL4PBq4W5iCA1bw) eine gut gemachte Shimmer Animation
 
 
