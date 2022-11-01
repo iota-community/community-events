@@ -11,5 +11,7 @@
 9. **IOTA Dev**: Die [IF tweetet](https://twitter.com/iota/status/1587455414001713154?s=20&t=9kGpvuddL4PBq4W5iCA1bw) über: [Stronghold 1.0 Stable Release](https://blog.iota.org/stronghold-1-0-stable-release/)
 10. **Shimmer Animation**: [JSTO tweetet](https://twitter.com/jsto_art/status/1587394844997177344?s=20&t=9kGpvuddL4PBq4W5iCA1bw) eine gut gemachte Shimmer Animation
 11. **IOTA Ökosystem Youtube**: von Finanzgoblin: [Tokenomics Review: Lendexe](https://www.youtube.com/watch?v=6bqTNffdu5c)
+12. **IOTA Promote**: [Tangleverse verkündet](https://twitter.com/TangleVerseWeb/status/1587467499813146628?s=20&t=WWdO0C7UDetnKkdUrASOAA), dass es ein E-mail Newsletter geben wird
+13. **IOTA NFT**: was ist das für eine Partnerschaft zwischen TFT und Munkiilabs? [Tweet](https://twitter.com/munkiilab/status/1587441146258591744?s=20&t=9kGpvuddL4PBq4W5iCA1bw)
 
 
