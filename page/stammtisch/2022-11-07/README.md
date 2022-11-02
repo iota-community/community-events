@@ -14,5 +14,8 @@
 12. **IOTA Promote**: [Tangleverse verkündet](https://twitter.com/TangleVerseWeb/status/1587467499813146628?s=20&t=WWdO0C7UDetnKkdUrASOAA), dass es ein E-mail Newsletter geben wird
 13. **IOTA NFT**: was ist das für eine Partnerschaft zwischen TFT und Munkiilabs? [Tweet](https://twitter.com/munkiilab/status/1587441146258591744?s=20&t=9kGpvuddL4PBq4W5iCA1bw)
 14. **IOTA DeFi Learn**: Die [IF tweetet](https://twitter.com/shimmernet/status/1587444353668190208?s=20&t=oWD8xQK30FrsopRR2_Avnw) über [Shimmer DeFi Education Session by Bankless Consulting: #7 - Risk Management practices 27/10/22](https://www.youtube.com/watch?v=YB7C5VPhtc8)
+15. **IOTA NFT Gaming**: [IOTAbots tweeten](https://twitter.com/iotabots/status/1587694746859933696?s=20&t=nP9wgNlNblfpKi16vQ2qrw) über ihr baldiges Online Card Game
+26. **IOTA Audio**: [Blockbytes macht ein [Twitter Spaces](https://twitter.com/blockbytescom/status/1587650945214599168?s=20&t=nP9wgNlNblfpKi16vQ2qrw) Event mit Dom Schiener, Dr. Tangle und Christian Saur
+27. **Shimmer Statistics**: [Capt. Bruceio tweetet](https://twitter.com/BruceGlance/status/1587655027518078977?s=20&t=nP9wgNlNblfpKi16vQ2qrw) über seine Shimmer Statistik Seite: [OG World](https://ogw.iota.love/metrics/shimmer) 
 
 
