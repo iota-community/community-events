@@ -26,6 +26,8 @@
 34. **IOTA Youtube**: von Iotapoet: [How to take part in Lendexe’s public sale [Step by Step] #Shimmer](https://www.youtube.com/watch?v=opFmtR9BbUQ)
 35. **IOTA Youtube**: von Holger Kuhlmann: [Hat IOTA noch eine Zukunft? Analysten sehen weiteren Preisverfall](https://www.youtube.com/watch?v=UktFkg0btOY)
 36. **IOTA Ökosystem**: [Pipe tweetet](https://twitter.com/PIPE_DATA/status/1587836682211971077?s=20&t=57iZWMEaizOBjqD7obnLsA) über den Artikel: [Why decentralized storage is going mainstream](https://tanglehub.eu/why-decentralized-storage-is-going-mainstream/)
+37. **IOTA Learn**: [Crypto Slides tweetet](https://twitter.com/crypto_slides/status/1587855470567358465?s=20&t=BU2aO57oSsVlbU-TFK4DjQ) ein Video von Zebratechnologies zum Usecase mit IOTA 
+38. **IOTA NFT**: Banksyape "G" ist weiblich... [Tweet](https://twitter.com/MirumLabs/status/1587894651180421120?s=20&t=BU2aO57oSsVlbU-TFK4DjQ)
 
 
 
