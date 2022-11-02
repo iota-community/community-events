@@ -21,6 +21,6 @@
 29. **IOTA Audio**: Roman Semko war im Sprachchat bei der TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1587722242661572608)
 30. **IOTA Stammtisch**: Am 11.11. ist IOTA Stammtisch in München ([Tweet](https://twitter.com/IotaMunchen/status/1587780778922020865?s=20&t=ONJ3M1-cAE8ESZ5E9jmFvQ)) und am 26.11. im Ruhrgebiet ([Tweet](https://www.meetup.com/de-DE/the-future-of-web3-iota-stammtisch-ruhrgebiet/events/289490900/))
 31. **IOTA Dev Talks**: Hans und Evaldas haben in #tanglemath heiß diskutiert start 1.11. 
-32. 
+32. **Shimmer Ökosystem**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1587806745438703617?s=20&t=UtpRG63CM0Es0-NZDust7Q) darüber, dass [AuditOne](https://twitter.com/auditone_team) dem Touchpoint Open Builders Program beigetraten ist: [AuditOne Joins Touchpoint Open Builders Program - Making Web3 Audits More Efficient For Everyone](https://blog.shimmer.network/auditone-joins-touchpoint/)
 
 
