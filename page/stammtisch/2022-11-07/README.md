@@ -22,5 +22,10 @@
 30. **IOTA Stammtisch**: Am 11.11. ist IOTA Stammtisch in München ([Tweet](https://twitter.com/IotaMunchen/status/1587780778922020865?s=20&t=ONJ3M1-cAE8ESZ5E9jmFvQ)) und am 26.11. im Ruhrgebiet ([Tweet](https://www.meetup.com/de-DE/the-future-of-web3-iota-stammtisch-ruhrgebiet/events/289490900/))
 31. **IOTA Dev Talks**: Hans und Evaldas haben in #tanglemath heiß diskutiert start 1.11. 
 32. **Shimmer Ökosystem**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1587806745438703617?s=20&t=UtpRG63CM0Es0-NZDust7Q) darüber, dass [AuditOne](https://twitter.com/auditone_team) dem Touchpoint Open Builders Program beigetraten ist: [AuditOne Joins Touchpoint Open Builders Program - Making Web3 Audits More Efficient For Everyone](https://blog.shimmer.network/auditone-joins-touchpoint/)
+33. **IOTA Youtube**: Alexander [tweetet](https://twitter.com/shortaktien/status/1587844986950647808?s=20&t=G9Em5j3FMwvxDrqXYd-JFQ) über das neue Probably Nothing Video: [Neuer Vorschlag von Dom für die Treasury](https://www.youtube.com/watch?v=RwaPrTm3gps)
+34. **IOTA Youtube**: von Iotapoet: [How to take part in Lendexe’s public sale [Step by Step] #Shimmer](https://www.youtube.com/watch?v=opFmtR9BbUQ)
+35. **IOTA Youtube**: von Holger Kuhlmann: [Hat IOTA noch eine Zukunft? Analysten sehen weiteren Preisverfall](https://www.youtube.com/watch?v=UktFkg0btOY)
+36. **IOTA Ökosystem**: [Pipe tweetet](https://twitter.com/PIPE_DATA/status/1587836682211971077?s=20&t=57iZWMEaizOBjqD7obnLsA) über den Artikel: [Why decentralized storage is going mainstream](https://tanglehub.eu/why-decentralized-storage-is-going-mainstream/)
+
 
 
