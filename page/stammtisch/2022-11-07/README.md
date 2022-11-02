@@ -15,7 +15,12 @@
 13. **IOTA NFT**: was ist das für eine Partnerschaft zwischen TFT und Munkiilabs? [Tweet](https://twitter.com/munkiilab/status/1587441146258591744?s=20&t=9kGpvuddL4PBq4W5iCA1bw)
 14. **IOTA DeFi Learn**: Die [IF tweetet](https://twitter.com/shimmernet/status/1587444353668190208?s=20&t=oWD8xQK30FrsopRR2_Avnw) über [Shimmer DeFi Education Session by Bankless Consulting: #7 - Risk Management practices 27/10/22](https://www.youtube.com/watch?v=YB7C5VPhtc8)
 15. **IOTA NFT Gaming**: [IOTAbots tweeten](https://twitter.com/iotabots/status/1587694746859933696?s=20&t=nP9wgNlNblfpKi16vQ2qrw) über ihr baldiges Online Card Game
-26. **IOTA Audio**: [Blockbytes macht ein [Twitter Spaces](https://twitter.com/blockbytescom/status/1587650945214599168?s=20&t=nP9wgNlNblfpKi16vQ2qrw) Event mit Dom Schiener, Dr. Tangle und Christian Saur
-27. **Shimmer Statistics**: [Capt. Bruceio tweetet](https://twitter.com/BruceGlance/status/1587655027518078977?s=20&t=nP9wgNlNblfpKi16vQ2qrw) über seine Shimmer Statistik Seite: [OG World](https://ogw.iota.love/metrics/shimmer) 
+26. **IOTA Audio**: Blockbytes macht ein [Twitter Spaces](https://twitter.com/blockbytescom/status/1587650945214599168?s=20&t=nP9wgNlNblfpKi16vQ2qrw) Event mit Dom Schiener, Dr. Tangle und Christian Saur
+27. **Shimmer Statistics**: [Capt. Bruceio tweetet](https://twitter.com/BruceGlance/status/1587655027518078977?s=20&t=nP9wgNlNblfpKi16vQ2qrw) über seine Shimmer Statistik Seite: [OG World](https://ogw.iota.love/metrics/shimmer)
+28. **IOTA Video Tutorial**: [Dom Schiener tweetet](https://twitter.com/DomSchiener/status/1587774525290283008?s=20&t=nP9wgNlNblfpKi16vQ2qrw) über [Login With IOTA von walt.id](https://www.youtube.com/watch?v=Hz9kiRyTMWM)
+29. **IOTA Audio**: Roman Semko war im Sprachchat bei der TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1587722242661572608)
+30. **IOTA Stammtisch**: Am 11.11. ist IOTA Stammtisch in München ([Tweet](https://twitter.com/IotaMunchen/status/1587780778922020865?s=20&t=ONJ3M1-cAE8ESZ5E9jmFvQ)) und am 26.11. im Ruhrgebiet ([Tweet](https://www.meetup.com/de-DE/the-future-of-web3-iota-stammtisch-ruhrgebiet/events/289490900/))
+31. **IOTA Dev Talks**: Hans und Evaldas haben in #tanglemath heiß diskutiert start 1.11. 
+32. 
 
 
