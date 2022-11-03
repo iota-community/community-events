@@ -37,6 +37,9 @@
 45. **Twitter Hype**: [Soon Big Tweet](https://twitter.com/Qusai_K_S_A/status/1588160538177060864?s=20&t=F3v5eEGQQKJ1n7PCiHlbTQ), der auch von [Dom retweetet](https://twitter.com/DomSchiener/status/1588168165221175296?s=20&t=F3v5eEGQQKJ1n7PCiHlbTQ) wird
 46. **IOTA Learn**: [Video von walt.id](https://www.youtube.com/watch?v=Hz9kiRyTMWM) zum Thema login mit IOTA
 47. **Assembly Staking**: [Assembly tweetet](https://twitter.com/assembly_net/status/1588169131701985280?s=20&t=VlAtoS30ZDBlU5WdSRoSlw) über die 4. Staking Runde. Prestaking ab Freitag, es zählt dann ab Montag: [IOTA Staking for Assembly: Round 4 - Introducing the Latest Round of Staking IOTA for ASMB](https://blog.iota.org/iota-staking-for-assembly-round-4/)
+48. **IOTA Youtube**: [IOTA Community Regulation Call 02/11/2022: MiCA](https://www.youtube.com/watch?v=jMCr-7Ichcg)
+49. **IOTA Ökosystem**: Blackpin ist schon wieder unter den Finalisten: [Tweet](https://twitter.com/BLACKPIN_GmbH/status/1588201798157729792?s=20&t=vF-fIWYUXz7D6Xz_8c8x4w)
+
 
 
 
