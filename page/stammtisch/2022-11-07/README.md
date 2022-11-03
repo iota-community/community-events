@@ -31,6 +31,9 @@
 39. **Crypto News**: [Meta (ehem. Facebook) tweetet](https://twitter.com/Meta/status/1587929277864910849?s=20&t=57iZWMEaizOBjqD7obnLsA) darüber, dass man bald NFTs minten kann auf Instagram und Co; Hier ein Artikel dazu von Polygon: [Meta to Let Users Mint and Sell Polygon-Powered NFTs on Instagram](https://blog.polygon.technology/meta-to-let-users-mint-and-sell-polygon-powered-nfts-on-instagram/)
 40. **IOTA Invest**: Neuer Artikel von LendeXe: [Tutorial : How to buy $LEXE Tokens](https://medium.com/@LendeXeFinance/tutorial-how-to-buy-lexe-tokens-b7843ce6690a)
 41. **IOTA Ökosystem**: Der Bivreost Founder macht ein [Twitter AMA](https://twitter.com/RodionVikol/status/1588099934535966724?s=20&t=Rp_3OLLNBuSJ8JYwAwlFRw)
+42. **IOTA Ökosystem**: [Jelle Milenar tweetet](https://twitter.com/JelleFm/status/1588162997335330824?s=20&t=-VutYQ9v57GXDLzLvkK0Wg) über [Impierce Technologies](https://twitter.com/ImpierceTech). Sie wollen bald mehr erzählen über ihre SSI Lösung. Sie sind "Provider of Digital Identity Services including IDentity-as-a-Service,  Identity Wallet, and Consultancy"
+43. **Shimmer PingPong**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1588171526594908160?s=20&t=-VutYQ9v57GXDLzLvkK0Wg) über ihr PingPong mit [MoonVault](https://twitter.com/Moon_Vault_News)
+
 
 
 
