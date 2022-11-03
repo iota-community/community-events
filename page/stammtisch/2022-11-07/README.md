@@ -33,6 +33,9 @@
 41. **IOTA Ökosystem**: Der Bivreost Founder macht ein [Twitter AMA](https://twitter.com/RodionVikol/status/1588099934535966724?s=20&t=Rp_3OLLNBuSJ8JYwAwlFRw)
 42. **IOTA Ökosystem**: [Jelle Milenar tweetet](https://twitter.com/JelleFm/status/1588162997335330824?s=20&t=-VutYQ9v57GXDLzLvkK0Wg) über [Impierce Technologies](https://twitter.com/ImpierceTech). Sie wollen bald mehr erzählen über ihre SSI Lösung. Sie sind "Provider of Digital Identity Services including IDentity-as-a-Service,  Identity Wallet, and Consultancy"
 43. **Shimmer PingPong**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1588171526594908160?s=20&t=-VutYQ9v57GXDLzLvkK0Wg) über ihr PingPong mit [MoonVault](https://twitter.com/Moon_Vault_News)
+44. **Twitter News**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1588181210383192067?s=20&t=-VutYQ9v57GXDLzLvkK0Wg) über die Zero Point Energie Entwicklungen
+45. **Twitter Hype**: [Soon Big Tweet](https://twitter.com/Qusai_K_S_A/status/1588160538177060864?s=20&t=F3v5eEGQQKJ1n7PCiHlbTQ), der auch von [Dom retweetet](https://twitter.com/DomSchiener/status/1588168165221175296?s=20&t=F3v5eEGQQKJ1n7PCiHlbTQ) wird
+46. **IOTA Learn**: [Video von walt.id](https://www.youtube.com/watch?v=Hz9kiRyTMWM) zum Thema login mit IOTA
 
 
 
