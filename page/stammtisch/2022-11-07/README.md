@@ -28,6 +28,9 @@
 36. **IOTA Ökosystem**: [Pipe tweetet](https://twitter.com/PIPE_DATA/status/1587836682211971077?s=20&t=57iZWMEaizOBjqD7obnLsA) über den Artikel: [Why decentralized storage is going mainstream](https://tanglehub.eu/why-decentralized-storage-is-going-mainstream/)
 37. **IOTA Learn**: [Crypto Slides tweetet](https://twitter.com/crypto_slides/status/1587855470567358465?s=20&t=BU2aO57oSsVlbU-TFK4DjQ) ein Video von Zebratechnologies zum Usecase mit IOTA 
 38. **IOTA NFT**: Banksyape "G" ist weiblich... [Tweet](https://twitter.com/MirumLabs/status/1587894651180421120?s=20&t=BU2aO57oSsVlbU-TFK4DjQ)
+39. **Crypto News**: [Meta (ehem. Facebook) tweetet](https://twitter.com/Meta/status/1587929277864910849?s=20&t=57iZWMEaizOBjqD7obnLsA) darüber, dass man bald NFTs minten kann auf Instagram und Co
+40. **IOTA Invest**: Neuer Artikel von LendeXe: [Tutorial : How to buy $LEXE Tokens](https://medium.com/@LendeXeFinance/tutorial-how-to-buy-lexe-tokens-b7843ce6690a)
+41. 
 
 
 
