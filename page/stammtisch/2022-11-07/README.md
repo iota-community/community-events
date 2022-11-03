@@ -36,6 +36,7 @@
 44. **Twitter News**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1588181210383192067?s=20&t=-VutYQ9v57GXDLzLvkK0Wg) über die Zero Point Energie Entwicklungen
 45. **Twitter Hype**: [Soon Big Tweet](https://twitter.com/Qusai_K_S_A/status/1588160538177060864?s=20&t=F3v5eEGQQKJ1n7PCiHlbTQ), der auch von [Dom retweetet](https://twitter.com/DomSchiener/status/1588168165221175296?s=20&t=F3v5eEGQQKJ1n7PCiHlbTQ) wird
 46. **IOTA Learn**: [Video von walt.id](https://www.youtube.com/watch?v=Hz9kiRyTMWM) zum Thema login mit IOTA
+47. **Assembly Staking**: [Assembly tweetet](https://twitter.com/assembly_net/status/1588169131701985280?s=20&t=VlAtoS30ZDBlU5WdSRoSlw) über die 4. Staking Runde. Prestaking ab Freitag, es zählt dann ab Montag: [IOTA Staking for Assembly: Round 4 - Introducing the Latest Round of Staking IOTA for ASMB](https://blog.iota.org/iota-staking-for-assembly-round-4/)
 
 
 
