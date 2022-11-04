@@ -45,7 +45,8 @@
 53. **IOTA Nodes**: [Timpsonlabs tweetet](https://twitter.com/TimsonLabs/status/1588302258739068929?s=20&t=FoGmHq9GoVtVz9S3lNOGvw) über seine Übersicht zur Nodeverteilung aller Nodes die Autopeering verwenden. Leider sehr Germany-zentralisiert...
 54. **Firefly Mobile**: Es gab ein Update um Assembly Staking Runde 4 anzuzeigen: [firefly.iota.org](https://firefly.iota.org/)
 55. **Crypto News**: Artikel von CNBC: [Fidelity to open commission-free crypto trading to retail investors](https://www.cnbc.com/2022/11/03/fidelity-to-open-commission-free-crypto-trading-to-retail-investors.html)
-56. 
+56. **IOTA Audio**: Der Radix Founder will ein Tech-Podcast machen und Hans Moog einladen: Hier seine [Antwort](https://twitter.com/hus_qy/status/1588508508739497984?s=20&t=FoGmHq9GoVtVz9S3lNOGvw)
+57. 
 
 
 
