@@ -40,6 +40,8 @@
 48. **IOTA Youtube**: [IOTA Community Regulation Call 02/11/2022: MiCA](https://www.youtube.com/watch?v=jMCr-7Ichcg)
 49. **IOTA Ökosystem**: Blackpin ist schon wieder unter den Finalisten: [Tweet](https://twitter.com/BLACKPIN_GmbH/status/1588201798157729792?s=20&t=vF-fIWYUXz7D6Xz_8c8x4w)
 50. **IOTA Artikel**: vom Institute of Export & International Trade: [Immutable data the key to trade digitalisation progress ahead of landmark Ecosystem of Trust pilots](https://www.export.org.uk/news/news.asp?id=621490)
+51. **IOTA Ökosystem**: [Soonaverse tweetet](https://twitter.com/soon_labs/status/1588395618573160450?s=20&t=FoGmHq9GoVtVz9S3lNOGvw) darüber, dass man bald nur noch mit Soon Token das Launchpad umsonst nutzen kann
+
 
 
 
