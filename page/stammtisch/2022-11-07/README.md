@@ -43,7 +43,8 @@
 51. **IOTA Ökosystem**: [Soonaverse tweetet](https://twitter.com/soon_labs/status/1588395618573160450?s=20&t=FoGmHq9GoVtVz9S3lNOGvw) darüber, dass man bald nur noch mit Soon Token das Launchpad umsonst nutzen kann
 52. **Shimmer Learn**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1588440919392620544?s=20&t=FoGmHq9GoVtVz9S3lNOGvw) über das Tutorial [Tutorial - Wallet Lib in JS - Send Native Tokens](https://www.youtube.com/watch?v=M3AmygF7Wxg)
 53. **IOTA Nodes**: [Timpsonlabs tweetet](https://twitter.com/TimsonLabs/status/1588302258739068929?s=20&t=FoGmHq9GoVtVz9S3lNOGvw) über seine Übersicht zur Nodeverteilung aller Nodes die Autopeering verwenden. Leider sehr Germany-zentralisiert...
-54. 
+54. **Firefly Mobile**: Es gab ein Update um Assembly Staking Runde 4 anzuzeigen: [firefly.iota.org](https://firefly.iota.org/)
+55. 
 
 
 
