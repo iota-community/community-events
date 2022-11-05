@@ -49,6 +49,11 @@
 57. **IOTA DAO**: Die [Shimmer Community Treassury DAO](https://shimmer-community-treasury.notion.site/Shimmer-Community-Treasury-DAO-ac49f464f3f941cc9e6ab68b810d82e5) entwickelt sich prächtig. Es gibt jetzt auch eine [Roadmap für  für die Governement Tasks](https://shimmer-community-treasury.notion.site/Schedule-of-Governance-Tasks-62c8473123be417d90f5c28e48302460)
 58. **IOTA Nodes**: [DLT.green](https://twitter.com/dlt_green) hat jetzt auch eine Node Distribution auf seiner [Pool Status Übersichtssteite](https://dlt.green/pool-status) hinzugefügt
 59. **IOTA Hype**: [Cyril-DeFi tweetet](https://twitter.com/cyrilXBT/status/1588577997753237505?s=20&t=xAO161PW7oLliWC4UBlB1w) bereits Freitag über die Vorteile von IOTA Smart Contracts Release 0.3.0 das laut ihm am Samstag veröffentlicht wird
+60. **IOTA DAO Invest**: [Mirium Hotel tweetet](https://twitter.com/MirumHOTEL/status/1588841236924096512?s=20&t=cRyXSya2igDRcGLoobmnrQ) über ein Hotel, dass sie in Portugal bauen wollen mit IOTA Investoren
+61. **Shimmer Learn**: Die [Shimmer Academy tweetet](https://twitter.com/shimmer_academy/status/1588859687226658818?s=20&t=cRyXSya2igDRcGLoobmnrQ) ihr Übersichtsblatt zum UTXO Model und erklärt sie in [9 Tweets](https://twitter.com/shimmer_academy/status/1588859691115106309?s=20&t=cRyXSya2igDRcGLoobmnrQ)
+62. **Shimmer Drama**: Es gab ein bisschen Drama, weil Dom nur Shimmer hyped anstelle von IOTA: [Tweet 1](https://twitter.com/DomSchiener/status/1588478173074841603?s=20&t=cRyXSya2igDRcGLoobmnrQ); [Tweet 2](https://twitter.com/DomSchiener/status/1588824952685625344?s=20&t=cRyXSya2igDRcGLoobmnrQ)
+63. **
+
 
 
 
