@@ -45,8 +45,10 @@
 53. **IOTA Nodes**: [Timpsonlabs tweetet](https://twitter.com/TimsonLabs/status/1588302258739068929?s=20&t=FoGmHq9GoVtVz9S3lNOGvw) über seine Übersicht zur Nodeverteilung aller Nodes die Autopeering verwenden. Leider sehr Germany-zentralisiert...
 54. **Firefly Mobile**: Es gab ein Update um Assembly Staking Runde 4 anzuzeigen: [firefly.iota.org](https://firefly.iota.org/)
 55. **Crypto News**: Artikel von CNBC: [Fidelity to open commission-free crypto trading to retail investors](https://www.cnbc.com/2022/11/03/fidelity-to-open-commission-free-crypto-trading-to-retail-investors.html)
-56. **IOTA Audio**: Der Radix Founder will ein Tech-Podcast machen und Hans Moog einladen: Hier seine [Antwort](https://twitter.com/hus_qy/status/1588508508739497984?s=20&t=FoGmHq9GoVtVz9S3lNOGvw)
-57. 
+56. **IOTA Audio**: Der Radix Founder will ein Tech-Podcas machen und Hans Moog einladen: Hier seine [Antwort](https://twitter.com/hus_qy/status/1588508508739497984?s=20&t=FoGmHq9GoVtVz9S3lNOGvw)
+57. **IOTA DAO**: Die [Shimmer Community Treassury DAO](https://shimmer-community-treasury.notion.site/Shimmer-Community-Treasury-DAO-ac49f464f3f941cc9e6ab68b810d82e5) entwickelt sich prächtig. Es gibt jetzt auch eine [Roadmap für  für die Governement Tasks](https://shimmer-community-treasury.notion.site/Schedule-of-Governance-Tasks-62c8473123be417d90f5c28e48302460)
+58. **IOTA Nodes**: [DLT.green](https://twitter.com/dlt_green) hat jetzt auch eine Node Distribution auf seiner [Pool Status Übersichtssteite](https://dlt.green/pool-status) hinzugefügt
+59. **IOTA Hype**: [Cyril-DeFi tweetet](https://twitter.com/cyrilXBT/status/1588577997753237505?s=20&t=xAO161PW7oLliWC4UBlB1w) bereits Freitag über die Vorteile von IOTA Smart Contracts Release 0.3.0 das laut ihm am Samstag veröffentlicht wird
 
 
 
