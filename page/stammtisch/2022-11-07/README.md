@@ -57,6 +57,9 @@
 65. **IOTA Privacy**: [Amnesia Cash tweetet](https://twitter.com/amnesia_cash/status/1588986623177687041?s=20&t=cRyXSya2igDRcGLoobmnrQ) über ihren neuen Blogpost: [Let’s make some Noise!](https://medium.com/@amnesia_cash/lets-make-some-noise-b528b42559ad)
 66. **Crypto Adoption**: Der Twitter Account von der [Google Cloud tagged den founder von Solana und tweetet](https://twitter.com/googlecloud/status/1588927875314499590?s=20&t=4tuoo3Ztnwbk9k42nSBH-w) darüber, dass sie eine Solana Validator Node hosten und es nächstes Jahr leichter machen werden eine Solana Node in der Cloud zu hosen: [Tweet](https://twitter.com/googlecloud/status/1588927896911069184?s=20&t=4tuoo3Ztnwbk9k42nSBH-w). Und [sie weisen nochmals darauf hin](https://twitter.com/googlecloud/status/1588927902757933056?s=20&t=4tuoo3Ztnwbk9k42nSBH-w), dass die Google Cloud bald auch crypto payments akzeptiert
 67. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/234-wochenr%C3%BCckblick-vom-30-oktober-bis-5-november-2022/)
+68. **Crypto Drama**: [Binance tweetet](https://twitter.com/cz_binance/status/1589283421704290306?s=20&t=itBUO8UbZ_7ZGrbwEY8i9w), dass sie ihre FTT Bestände verkaufen wollen. Es geht darum, dass FTX zusammen mit Alameda Research irgendwie so ein Flywheel Schema aufgebaut hatten: [Tweet](https://twitter.com/DU09BTC/status/1589283736188690432?s=20&t=itBUO8UbZ_7ZGrbwEY8i9w); Youtube dazu: [Krypto in Gefahr: FTX & Alameda vor INSOLVENZ? Alle Infos & was Binance damit zu tun hat erklärt!](https://www.youtube.com/watch?v=eKiwQX7r0zk)
+
+
 
 
 
