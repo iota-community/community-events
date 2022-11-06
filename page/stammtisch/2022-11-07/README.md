@@ -52,7 +52,10 @@
 60. **IOTA DAO Invest**: [Mirium Hotel tweetet](https://twitter.com/MirumHOTEL/status/1588841236924096512?s=20&t=cRyXSya2igDRcGLoobmnrQ) über ein Hotel, dass sie in Portugal bauen wollen mit IOTA Investoren
 61. **Shimmer Learn**: Die [Shimmer Academy tweetet](https://twitter.com/shimmer_academy/status/1588859687226658818?s=20&t=cRyXSya2igDRcGLoobmnrQ) ihr Übersichtsblatt zum UTXO Model und erklärt sie in [9 Tweets](https://twitter.com/shimmer_academy/status/1588859691115106309?s=20&t=cRyXSya2igDRcGLoobmnrQ)
 62. **Shimmer Drama**: Es gab ein bisschen Drama, weil Dom nur Shimmer hyped anstelle von IOTA: [Tweet 1](https://twitter.com/DomSchiener/status/1588478173074841603?s=20&t=cRyXSya2igDRcGLoobmnrQ); [Tweet 2](https://twitter.com/DomSchiener/status/1588824952685625344?s=20&t=cRyXSya2igDRcGLoobmnrQ)
-63. **
+63. **Crypto Adoption**: Christoph Strnadl [macht sich Sorgen](https://twitter.com/archimate/status/1588947037722066944?s=20&t=cRyXSya2igDRcGLoobmnrQ) über die aktuelle Version vom EU Data Act
+64. **Twitter Hype**: BitBoy mit 900K Followern ist bullish auf IOTA: [Tweet](https://twitter.com/Bitboy_Crypto/status/1588944387660451841?s=20&t=cRyXSya2igDRcGLoobmnrQ)
+65. **IOTA Privacy**: [Amnesia Cash tweetet](https://twitter.com/amnesia_cash/status/1588986623177687041?s=20&t=cRyXSya2igDRcGLoobmnrQ) über ihren neuen Blogpost: [Let’s make some Noise!](https://medium.com/@amnesia_cash/lets-make-some-noise-b528b42559ad)
+66. **Crypto Adoption**: [Google Cloud tweetet](https://twitter.com/googlecloud/status/1588927902757933056?s=20&t=cRyXSya2igDRcGLoobmnrQ) darüber, dass sie eine Solana Node hosten
 
 
 
