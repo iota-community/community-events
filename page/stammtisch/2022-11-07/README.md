@@ -56,6 +56,7 @@
 64. **Twitter Hype**: BitBoy mit 900K Followern ist bullish auf IOTA: [Tweet](https://twitter.com/Bitboy_Crypto/status/1588944387660451841?s=20&t=cRyXSya2igDRcGLoobmnrQ)
 65. **IOTA Privacy**: [Amnesia Cash tweetet](https://twitter.com/amnesia_cash/status/1588986623177687041?s=20&t=cRyXSya2igDRcGLoobmnrQ) über ihren neuen Blogpost: [Let’s make some Noise!](https://medium.com/@amnesia_cash/lets-make-some-noise-b528b42559ad)
 66. **Crypto Adoption**: [Google Cloud tweetet](https://twitter.com/googlecloud/status/1588927902757933056?s=20&t=cRyXSya2igDRcGLoobmnrQ) darüber, dass sie eine Solana Node hosten
+67. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/234-wochenr%C3%BCckblick-vom-30-oktober-bis-5-november-2022/)
 
 
 
