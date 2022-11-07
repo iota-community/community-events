@@ -63,7 +63,7 @@
 71. **Twitter Hype**: Ein [arabischer Tweet](https://twitter.com/qusai_k_s_a/status/1589553033293492224?s=46&t=lhqSuEkMSjXP6bWdlw9ELQ) spricht von einer positiven Überraschung in den nächsten Tagen. Der hatte wohl mit Dom ein Arbeitsgespräch
 72. **IOTA Audio**: Neuer Moonaco Podcast mit [Euler Tools](https://twitter.com/EulerTools): [Episode 48: Euler Tools](https://open.spotify.com/episode/7rRXpMFiMEjT22fMD2tAcq?si=pOy8D7tGQ9SWmA7EqL3jUQ&nd=1); [Tweet](https://twitter.com/MoonacoPodcast/status/1589634054164709378?s=20&t=RmgEv0sPkuYXXRp3gxxHVw)
 73. **Crypto Politik**: [Christian Lindner tweetet](https://twitter.com/c_lindner/status/1589582194695344129?s=20&t=RmgEv0sPkuYXXRp3gxxHVw) über den digitalen Euro. Er hat wohl heute in Brüssel darüber geredet.
-74. **Twitter Gezwitscher**: [Hans Moog diskutiert](https://twitter.com/hus_qy/status/1589523939222437888?s=20&t=RmgEv0sPkuYXXRp3gxxHVw) mit [Shai Deshe](https://twitter.com/DesheShai) über IOTA 2.0 und die Ähnlichkeiten zur Quantenmechanik
+74. **Twitter Gezwitscher**: [Hans Moog diskutiert](https://twitter.com/hus_qy/status/1589523939222437888?s=20&t=RmgEv0sPkuYXXRp3gxxHVw) mit [Shai Deshe](https://twitter.com/DesheShai) über IOTA 2.0 und die Ähnlichkeiten zur Quantenmechanik; Er findet fundamentale Probleme die er [hier beschreibt](https://twitter.com/DesheShai/status/1589603203045560321?s=20&t=mVk2H_jGeaSi2lieuS0NOg)
 75. **Assembly Staking**: 4. Runde hat begonnen: [Tweet](https://twitter.com/assembly_net/status/1589618685886480386)
 
 
