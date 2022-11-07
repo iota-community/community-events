@@ -60,8 +60,11 @@
 68. **Crypto Drama**: [Binance tweetet](https://twitter.com/cz_binance/status/1589283421704290306?s=20&t=itBUO8UbZ_7ZGrbwEY8i9w), dass sie ihre FTT Bestände verkaufen wollen. Es geht darum, dass FTX zusammen mit Alameda Research irgendwie so ein Flywheel Schema aufgebaut hatten: [Tweet](https://twitter.com/DU09BTC/status/1589283736188690432?s=20&t=itBUO8UbZ_7ZGrbwEY8i9w); Youtube dazu: [Krypto in Gefahr: FTX & Alameda vor INSOLVENZ? Alle Infos & was Binance damit zu tun hat erklärt!](https://www.youtube.com/watch?v=eKiwQX7r0zk); CZ Binance tritt sogar nochmal nach mit seinem [Tweet](https://twitter.com/cz_binance/status/1589374530413215744?s=20&t=RmgEv0sPkuYXXRp3gxxHVw)
 69. **IOTA Ökosystem**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1589503667325263873?s=20&t=RmgEv0sPkuYXXRp3gxxHVw) darüber, dass sie eine Partnerschaft mit [Misses Browser](https://twitter.com/Mises001) eingegangen sind
 70. **IOTA Artikel**: von Crypto News Flash: (https://www.crypto-news-flash.com/iota-partners-with-industry-leader-mises-to-build-web3-infrustructure-will-miota-price-rise-to-5/)
-71. **Twitter Hype**: Ein [arabischer Tweet](https://twitter.com/qusai_k_s_a/status/1589553033293492224?s=46&t=lhqSuEkMSjXP6bWdlw9ELQ) spricht von einer positiven Überraschung in den nächsten Tagen. Der hatte wohl mit Dom ein Arbeitsgespräch: (![image](https://user-images.githubusercontent.com/45822157/200322994-0000d0e3-9628-4dee-9680-f73b73c4dc59.png)
-
+71. **Twitter Hype**: Ein [arabischer Tweet](https://twitter.com/qusai_k_s_a/status/1589553033293492224?s=46&t=lhqSuEkMSjXP6bWdlw9ELQ) spricht von einer positiven Überraschung in den nächsten Tagen. Der hatte wohl mit Dom ein Arbeitsgespräch
+72. **IOTA Audio**: Neuer Moonaco Podcast mit [Euler Tools](https://twitter.com/EulerTools): [Episode 48: Euler Tools](https://open.spotify.com/episode/7rRXpMFiMEjT22fMD2tAcq?si=pOy8D7tGQ9SWmA7EqL3jUQ&nd=1); [Tweet](https://twitter.com/MoonacoPodcast/status/1589634054164709378?s=20&t=RmgEv0sPkuYXXRp3gxxHVw)
+73. **Crypto Politik**: [Christian Lindner tweetet](https://twitter.com/c_lindner/status/1589582194695344129?s=20&t=RmgEv0sPkuYXXRp3gxxHVw) über den digitalen Euro. Er hat wohl heute in Brüssel darüber geredet.
+74. **Twitter Gezwitscher**: [Hans Moog diskutiert](https://twitter.com/hus_qy/status/1589523939222437888?s=20&t=RmgEv0sPkuYXXRp3gxxHVw) mit [Shai Deshe](https://twitter.com/DesheShai) über IOTA 2.0 und die Ähnlichkeiten zur Quantenmechanik
+75. **Assembly Staking**: 4. Runde hat begonnen: [Tweet](https://twitter.com/assembly_net/status/1589618685886480386)
 
 
 
