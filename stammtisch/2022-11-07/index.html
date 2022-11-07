@@ -1,0 +1,231 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>2022-11-07 - IOTA Stammtisch Themen</title>
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="../../">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../../stammtisch/welcome.html"><strong aria-hidden="true">1.</strong> Willkommen!</a></li><li class="chapter-item expanded "><a href="../../real_life/stammtisch/index.html"><strong aria-hidden="true">2.</strong> Real Life Stammtisch</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../real_life/stammtisch/berlin/index.html"><strong aria-hidden="true">2.1.</strong> Berlin</a></li><li class="chapter-item expanded "><a href="../../real_life/stammtisch/hamburg/index.html"><strong aria-hidden="true">2.2.</strong> Hamburg</a></li><li class="chapter-item expanded "><a href="../../real_life/stammtisch/mannheim/index.html"><strong aria-hidden="true">2.3.</strong> Mannheim</a></li><li class="chapter-item expanded "><a href="../../real_life/stammtisch/muenchen/index.html"><strong aria-hidden="true">2.4.</strong> München</a></li><li class="chapter-item expanded "><a href="../../real_life/stammtisch/saarbruecken/index.html"><strong aria-hidden="true">2.5.</strong> Saarbrücken</a></li><li class="chapter-item expanded "><a href="../../real_life/stammtisch/switzerland/index.html"><strong aria-hidden="true">2.6.</strong> Switzerland</a></li><li class="chapter-item expanded "><a href="../../real_life/stammtisch/south_tyrol/index.html"><strong aria-hidden="true">2.7.</strong> South Tyrol</a></li></ol></li><li class="chapter-item expanded "><a href="../../stammtisch/index.html"><strong aria-hidden="true">3.</strong> Virtual Stammtisch</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-03-01/index.html"><strong aria-hidden="true">4.</strong> 2021-03-01</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-03-08/index.html"><strong aria-hidden="true">5.</strong> 2021-03-08</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-03-15/index.html"><strong aria-hidden="true">6.</strong> 2021-03-15</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-03-22/index.html"><strong aria-hidden="true">7.</strong> 2021-03-22</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-03-29/index.html"><strong aria-hidden="true">8.</strong> 2021-03-29</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-04-05/index.html"><strong aria-hidden="true">9.</strong> 2021-04-05</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-04-12/index.html"><strong aria-hidden="true">10.</strong> 2021-04-12</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-04-19/index.html"><strong aria-hidden="true">11.</strong> 2021-04-19</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-04-26/index.html"><strong aria-hidden="true">12.</strong> 2021-04-26</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-05-03/index.html"><strong aria-hidden="true">13.</strong> 2021-05-03</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-05-10/index.html"><strong aria-hidden="true">14.</strong> 2021-05-10</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-05-17/index.html"><strong aria-hidden="true">15.</strong> 2021-05-17</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-05-24/index.html"><strong aria-hidden="true">16.</strong> 2021-05-24</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-05-31/index.html"><strong aria-hidden="true">17.</strong> 2021-05-31</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-06-07/index.html"><strong aria-hidden="true">18.</strong> 2021-06-07</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-06-14/index.html"><strong aria-hidden="true">19.</strong> 2021-06-14</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-06-21/index.html"><strong aria-hidden="true">20.</strong> 2021-06-21</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-06-28/index.html"><strong aria-hidden="true">21.</strong> 2021-06-28</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-07-05/index.html"><strong aria-hidden="true">22.</strong> 2021-07-05</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-07-12/index.html"><strong aria-hidden="true">23.</strong> 2021-07-12</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-07-19/index.html"><strong aria-hidden="true">24.</strong> 2021-07-19</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-07-26/index.html"><strong aria-hidden="true">25.</strong> 2021-07-26</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-08-02/index.html"><strong aria-hidden="true">26.</strong> 2021-08-02</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-08-09/index.html"><strong aria-hidden="true">27.</strong> 2021-08-09</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-08-16/index.html"><strong aria-hidden="true">28.</strong> 2021-08-16</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-08-23/index.html"><strong aria-hidden="true">29.</strong> 2021-08-23</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-08-30/index.html"><strong aria-hidden="true">30.</strong> 2021-08-30</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-09-06/index.html"><strong aria-hidden="true">31.</strong> 2021-09-06</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-09-13/index.html"><strong aria-hidden="true">32.</strong> 2021-09-13</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-09-20/index.html"><strong aria-hidden="true">33.</strong> 2021-09-20</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-09-27/index.html"><strong aria-hidden="true">34.</strong> 2021-09-27</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-10-04/index.html"><strong aria-hidden="true">35.</strong> 2021-10-04</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-10-11/index.html"><strong aria-hidden="true">36.</strong> 2021-10-11</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-10-18/index.html"><strong aria-hidden="true">37.</strong> 2021-10-18</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-10-25/index.html"><strong aria-hidden="true">38.</strong> 2021-10-25</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-11-01/index.html"><strong aria-hidden="true">39.</strong> 2021-11-01</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-11-08/index.html"><strong aria-hidden="true">40.</strong> 2021-11-08</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-11-15/index.html"><strong aria-hidden="true">41.</strong> 2021-11-15</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-11-22/index.html"><strong aria-hidden="true">42.</strong> 2021-11-22</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-11-29/index.html"><strong aria-hidden="true">43.</strong> 2021-11-29</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-12-06/index.html"><strong aria-hidden="true">44.</strong> 2021-12-06</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-12-13/index.html"><strong aria-hidden="true">45.</strong> 2021-12-13</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-12-20/index.html"><strong aria-hidden="true">46.</strong> 2021-12-20</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2021-12-27/index.html"><strong aria-hidden="true">47.</strong> 2021-12-27</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-01-03/index.html"><strong aria-hidden="true">48.</strong> 2022-01-03</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-01-10/index.html"><strong aria-hidden="true">49.</strong> 2022-01-10</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-01-17/index.html"><strong aria-hidden="true">50.</strong> 2022-01-17</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-01-24/index.html"><strong aria-hidden="true">51.</strong> 2022-01-24</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-01-31/index.html"><strong aria-hidden="true">52.</strong> 2022-01-31</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-02-07/index.html"><strong aria-hidden="true">53.</strong> 2022-02-07</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-02-14/index.html"><strong aria-hidden="true">54.</strong> 2022-02-14</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-02-21/index.html"><strong aria-hidden="true">55.</strong> 2022-02-21</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-02-28/index.html"><strong aria-hidden="true">56.</strong> 2022-02-28</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-03-07/index.html"><strong aria-hidden="true">57.</strong> 2022-03-07</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-03-14/index.html"><strong aria-hidden="true">58.</strong> 2022-03-14</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-03-21/index.html"><strong aria-hidden="true">59.</strong> 2022-03-21</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-03-28/index.html"><strong aria-hidden="true">60.</strong> 2022-03-28</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-04-04/index.html"><strong aria-hidden="true">61.</strong> 2022-04-04</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-04-11/index.html"><strong aria-hidden="true">62.</strong> 2022-04-11</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-04-18/index.html"><strong aria-hidden="true">63.</strong> 2022-04-18</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-04-25/index.html"><strong aria-hidden="true">64.</strong> 2022-04-25</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-05-02/index.html"><strong aria-hidden="true">65.</strong> 2022-05-02</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-05-09/index.html"><strong aria-hidden="true">66.</strong> 2022-05-09</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-05-16/index.html"><strong aria-hidden="true">67.</strong> 2022-05-16</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-05-23/index.html"><strong aria-hidden="true">68.</strong> 2022-05-23</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-05-30/index.html"><strong aria-hidden="true">69.</strong> 2022-05-30</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-06-06/index.html"><strong aria-hidden="true">70.</strong> 2022-06-06</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-06-13/index.html"><strong aria-hidden="true">71.</strong> 2022-06-13</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-06-20/index.html"><strong aria-hidden="true">72.</strong> 2022-06-20</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-06-27/index.html"><strong aria-hidden="true">73.</strong> 2022-06-27</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-07-04/index.html"><strong aria-hidden="true">74.</strong> 2022-07-04</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-07-11/index.html"><strong aria-hidden="true">75.</strong> 2022-07-11</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-07-18/index.html"><strong aria-hidden="true">76.</strong> 2022-07-18</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-07-25/index.html"><strong aria-hidden="true">77.</strong> 2022-07-25</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-08-01/index.html"><strong aria-hidden="true">78.</strong> 2022-08-01</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-08-08/index.html"><strong aria-hidden="true">79.</strong> 2022-08-08</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-08-15/index.html"><strong aria-hidden="true">80.</strong> 2022-08-15</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-08-22/index.html"><strong aria-hidden="true">81.</strong> 2022-08-22</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-08-29/index.html"><strong aria-hidden="true">82.</strong> 2022-08-29</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-09-05/index.html"><strong aria-hidden="true">83.</strong> 2022-09-05</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-09-12/index.html"><strong aria-hidden="true">84.</strong> 2022-09-12</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-09-19/index.html"><strong aria-hidden="true">85.</strong> 2022-09-19</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-09-26/index.html"><strong aria-hidden="true">86.</strong> 2022-09-26</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-10-03/index.html"><strong aria-hidden="true">87.</strong> 2022-10-03</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-10-10/index.html"><strong aria-hidden="true">88.</strong> 2022-10-10</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-10-17/index.html"><strong aria-hidden="true">89.</strong> 2022-10-17</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-10-24/index.html"><strong aria-hidden="true">90.</strong> 2022-10-24</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-10-31/index.html"><strong aria-hidden="true">91.</strong> 2022-10-31</a></li><li class="chapter-item expanded "><a href="../../stammtisch/2022-11-07/index.html" class="active"><strong aria-hidden="true">92.</strong> 2022-11-07</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">IOTA Stammtisch Themen</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h2 id="iota-stammtischthemen-für-montag-den-7112022"><a class="header" href="#iota-stammtischthemen-für-montag-den-7112022">IOTA Stammtischthemen für Montag, den 7.11.2022</a></h2>
+<ol>
+<li><strong>IF Quicktakes</strong>: <a href="https://www.youtube.com/watch?v=tJXenF3PI0c">IOTA Quicktakes 31.10.2022: Shimmer #defi Education Series Finale, New Twitter Spaces &amp; more!</a></li>
+<li><strong>Twitter Drama</strong>: Hans Moog <a href="https://twitter.com/hus_qy/status/1587169619026055174?s=20&amp;t=9p80e-KYMdxMslDMALG7BQ">tweetet</a> darüber, dass jemand ein Paper geschrieben hat mit den gleichen Angriffspunkten gegen Avalanche wie er damals angemerkt hat; Hier noch ein paar <a href="https://twitter.com/hus_qy/status/1587425453773578241?s=20&amp;t=9kGpvuddL4PBq4W5iCA1bw">Tweets von Hans Moog</a> dazu</li>
+<li><strong>IOTA Youtube</strong>: vom Bitcoin Trading Informant: <a href="https://www.youtube.com/watch?v=iO8Y64rEEwo">IOTA Meilenstein!</a></li>
+<li><strong>IOTA Youtube</strong>: <a href="https://www.youtube.com/watch?v=apLDaEx_-RE">IOTA Community Governance - Shimmer Treasury meeting 25/10/22</a></li>
+<li><strong>IOTA Youtube</strong>: von Lift Capital: <a href="https://www.youtube.com/watch?v=7yH_3lbYJnI">DLT: IOTA VS. DAG DATA IS THE NEW OIL</a></li>
+<li><strong>IOTA Adaption</strong>: <a href="https://twitter.com/Schpoopel">Adam von der IF</a> ist beim Cardano Summit 2022 und will offenbar Brücken bauen... <a href="https://twitter.com/Schpoopel/status/1587417775408091138?s=20&amp;t=9kGpvuddL4PBq4W5iCA1bw">Tweet</a></li>
+<li><strong>IOTA Ökosystem?</strong>: <a href="https://twitter.com/ChirpIoT/status/1587408678658899968?s=20&amp;t=9kGpvuddL4PBq4W5iCA1bw">Chirp tweetet</a> über ihren Blogpost: <a href="https://chirpiot.medium.com/introducing-the-chirp-network-the-worlds-first-multi-protocol-network-featuring-global-2-4ghz-73162dbc87b3">Introducing The Chirp Network, the World’s First Multi-Protocol Network featuring Global 2.4GHz LoRa</a></li>
+<li><strong>IOTA DeFi</strong>: <a href="https://twitter.com/Rob_Daykin/status/1587386292656029696?s=20&amp;t=9kGpvuddL4PBq4W5iCA1bw">Kappy tweetet</a> über <a href="https://twitter.com/DeeprFinance">Deepr finance</a> und den Fair Launch</li>
+<li><strong>IOTA Dev</strong>: Die <a href="https://twitter.com/iota/status/1587455414001713154?s=20&amp;t=9kGpvuddL4PBq4W5iCA1bw">IF tweetet</a> über: <a href="https://blog.iota.org/stronghold-1-0-stable-release/">Stronghold 1.0 Stable Release</a></li>
+<li><strong>Shimmer Animation</strong>: <a href="https://twitter.com/jsto_art/status/1587394844997177344?s=20&amp;t=9kGpvuddL4PBq4W5iCA1bw">JSTO tweetet</a> eine gut gemachte Shimmer Animation</li>
+<li><strong>IOTA Ökosystem Youtube</strong>: von Finanzgoblin: <a href="https://www.youtube.com/watch?v=6bqTNffdu5c">Tokenomics Review: Lendexe</a></li>
+<li><strong>IOTA Promote</strong>: <a href="https://twitter.com/TangleVerseWeb/status/1587467499813146628?s=20&amp;t=WWdO0C7UDetnKkdUrASOAA">Tangleverse verkündet</a>, dass es ein E-mail Newsletter geben wird</li>
+<li><strong>IOTA NFT</strong>: was ist das für eine Partnerschaft zwischen TFT und Munkiilabs? <a href="https://twitter.com/munkiilab/status/1587441146258591744?s=20&amp;t=9kGpvuddL4PBq4W5iCA1bw">Tweet</a></li>
+<li><strong>IOTA DeFi Learn</strong>: Die <a href="https://twitter.com/shimmernet/status/1587444353668190208?s=20&amp;t=oWD8xQK30FrsopRR2_Avnw">IF tweetet</a> über <a href="https://www.youtube.com/watch?v=YB7C5VPhtc8">Shimmer DeFi Education Session by Bankless Consulting: #7 - Risk Management practices 27/10/22</a></li>
+<li><strong>IOTA NFT Gaming</strong>: <a href="https://twitter.com/iotabots/status/1587694746859933696?s=20&amp;t=nP9wgNlNblfpKi16vQ2qrw">IOTAbots tweeten</a> über ihr baldiges Online Card Game</li>
+<li><strong>IOTA Audio</strong>: <a href="https://twitter.com/blockbytescom">Blockbytes</a> hat ein <a href="https://twitter.com/blockbytescom/status/1587650945214599168?s=20&amp;t=nP9wgNlNblfpKi16vQ2qrw">Twitter Spaces Event</a> mit Dom Schiener, Dr. Tangle und Christian Saur gemacht; Das lässt sich jetzt auch auf Youtube, Spotify, Apple Musik... anhören : <a href="https://twitter.com/blockbytescom/status/1588336638270517248?s=20&amp;t=vF-fIWYUXz7D6Xz_8c8x4w">Tweet</a></li>
+<li><strong>Shimmer Statistics</strong>: <a href="https://twitter.com/BruceGlance/status/1587655027518078977?s=20&amp;t=nP9wgNlNblfpKi16vQ2qrw">Capt. Bruceio tweetet</a> über seine Shimmer Statistik Seite: <a href="https://ogw.iota.love/metrics/shimmer">OG World</a></li>
+<li><strong>IOTA Video Tutorial</strong>: <a href="https://twitter.com/DomSchiener/status/1587774525290283008?s=20&amp;t=nP9wgNlNblfpKi16vQ2qrw">Dom Schiener tweetet</a> über <a href="https://www.youtube.com/watch?v=Hz9kiRyTMWM">Login With IOTA von walt.id</a></li>
+<li><strong>IOTA Audio</strong>: Roman Semko war im Sprachchat bei der TangleGang: <a href="https://twitter.com/GangTangleTalk/status/1587722242661572608">Tweet</a></li>
+<li><strong>IOTA Stammtisch</strong>: Am 11.11. ist IOTA Stammtisch in München (<a href="https://twitter.com/IotaMunchen/status/1587780778922020865?s=20&amp;t=ONJ3M1-cAE8ESZ5E9jmFvQ">Tweet</a>) und am 26.11. im Ruhrgebiet (<a href="https://www.meetup.com/de-DE/the-future-of-web3-iota-stammtisch-ruhrgebiet/events/289490900/">Tweet</a>)</li>
+<li><strong>IOTA Dev Talks</strong>: Hans und Evaldas haben in #tanglemath heiß diskutiert start 1.11. </li>
+<li><strong>Shimmer Ökosystem</strong>: <a href="https://twitter.com/shimmernet/status/1587806745438703617?s=20&amp;t=UtpRG63CM0Es0-NZDust7Q">Shimmer tweetet</a> darüber, dass <a href="https://twitter.com/auditone_team">AuditOne</a> dem Touchpoint Open Builders Program beigetreten ist: <a href="https://blog.shimmer.network/auditone-joins-touchpoint/">AuditOne Joins Touchpoint Open Builders Program - Making Web3 Audits More Efficient For Everyone</a></li>
+<li><strong>IOTA Youtube</strong>: Alexander <a href="https://twitter.com/shortaktien/status/1587844986950647808?s=20&amp;t=G9Em5j3FMwvxDrqXYd-JFQ">tweetet</a> über das neue Probably Nothing Video: <a href="https://www.youtube.com/watch?v=RwaPrTm3gps">Neuer Vorschlag von Dom für die Treasury</a></li>
+<li><strong>IOTA Youtube</strong>: von Iotapoet: <a href="https://www.youtube.com/watch?v=opFmtR9BbUQ">How to take part in Lendexe’s public sale [Step by Step] #Shimmer</a></li>
+<li><strong>IOTA Youtube</strong>: von Holger Kuhlmann: <a href="https://www.youtube.com/watch?v=UktFkg0btOY">Hat IOTA noch eine Zukunft? Analysten sehen weiteren Preisverfall</a></li>
+<li><strong>IOTA Ökosystem</strong>: <a href="https://twitter.com/PIPE_DATA/status/1587836682211971077?s=20&amp;t=57iZWMEaizOBjqD7obnLsA">Pipe tweetet</a> über den Artikel: <a href="https://tanglehub.eu/why-decentralized-storage-is-going-mainstream/">Why decentralized storage is going mainstream</a></li>
+<li><strong>IOTA Learn</strong>: <a href="https://twitter.com/crypto_slides/status/1587855470567358465?s=20&amp;t=BU2aO57oSsVlbU-TFK4DjQ">Crypto Slides tweetet</a> ein Video von Zebratechnologies zum Usecase mit IOTA </li>
+<li><strong>IOTA NFT</strong>: Banksyape &quot;G&quot; ist weiblich... <a href="https://twitter.com/MirumLabs/status/1587894651180421120?s=20&amp;t=BU2aO57oSsVlbU-TFK4DjQ">Tweet</a></li>
+<li><strong>Crypto News</strong>: <a href="https://twitter.com/Meta/status/1587929277864910849?s=20&amp;t=57iZWMEaizOBjqD7obnLsA">Meta (ehem. Facebook) tweetet</a> darüber, dass man bald NFTs minten kann auf Instagram und Co; Hier ein Artikel dazu von Polygon: <a href="https://blog.polygon.technology/meta-to-let-users-mint-and-sell-polygon-powered-nfts-on-instagram/">Meta to Let Users Mint and Sell Polygon-Powered NFTs on Instagram</a>; Auch <a href="https://twitter.com/instagram/status/1588232880244695041?s=20&amp;t=vF-fIWYUXz7D6Xz_8c8x4w">Instagram tweetet</a> darüber</li>
+<li><strong>IOTA Invest</strong>: Neuer Artikel von LendeXe: <a href="https://medium.com/@LendeXeFinance/tutorial-how-to-buy-lexe-tokens-b7843ce6690a">Tutorial : How to buy $LEXE Tokens</a></li>
+<li><strong>IOTA Ökosystem</strong>: Der <a href="https://twitter.com/bivreost">Bivreost</a> Founder macht ein <a href="https://twitter.com/RodionVikol/status/1588099934535966724?s=20&amp;t=Rp_3OLLNBuSJ8JYwAwlFRw">Twitter AMA</a></li>
+<li><strong>IOTA Ökosystem</strong>: <a href="https://twitter.com/JelleFm/status/1588162997335330824?s=20&amp;t=-VutYQ9v57GXDLzLvkK0Wg">Jelle Milenar tweetet</a> über <a href="https://twitter.com/ImpierceTech">Impierce Technologies</a>. Sie wollen bald mehr erzählen über ihre SSI Lösung. Sie sind &quot;Provider of Digital Identity Services including IDentity-as-a-Service,  Identity Wallet, and Consultancy&quot;</li>
+<li><strong>Shimmer PingPong</strong>: <a href="https://twitter.com/shimmernet/status/1588171526594908160?s=20&amp;t=-VutYQ9v57GXDLzLvkK0Wg">Shimmer tweetet</a> über ihr PingPong mit <a href="https://twitter.com/Moon_Vault_News">MoonVault</a></li>
+<li><strong>Twitter News</strong>: <a href="https://twitter.com/hus_qy/status/1588181210383192067?s=20&amp;t=-VutYQ9v57GXDLzLvkK0Wg">Hans Moog tweetet</a> über die Zero Point Energie Entwicklungen</li>
+<li><strong>Twitter Hype</strong>: Ein <a href="https://twitter.com/Qusai_K_S_A/status/1588160538177060864?s=20&amp;t=F3v5eEGQQKJ1n7PCiHlbTQ">Soon-Big-News-Tweet</a>, der auch von <a href="https://twitter.com/DomSchiener/status/1588168165221175296?s=20&amp;t=F3v5eEGQQKJ1n7PCiHlbTQ">Dom retweetet</a> wird</li>
+<li><strong>IOTA Learn</strong>: <a href="https://www.youtube.com/watch?v=Hz9kiRyTMWM">Video von walt.id</a> zum Thema login mit IOTA</li>
+<li><strong>Assembly Staking</strong>: <a href="https://twitter.com/assembly_net/status/1588169131701985280?s=20&amp;t=VlAtoS30ZDBlU5WdSRoSlw">Assembly tweetet</a> über die 4. Staking Runde. Prestaking ab Freitag, es zählt dann ab Montag: <a href="https://blog.iota.org/iota-staking-for-assembly-round-4/">IOTA Staking for Assembly: Round 4 - Introducing the Latest Round of Staking IOTA for ASMB</a></li>
+<li><strong>IOTA Youtube</strong>: <a href="https://www.youtube.com/watch?v=jMCr-7Ichcg">IOTA Community Regulation Call 02/11/2022: MiCA</a></li>
+<li><strong>IOTA Ökosystem</strong>: Blackpin ist schon wieder unter den Finalisten: <a href="https://twitter.com/BLACKPIN_GmbH/status/1588201798157729792?s=20&amp;t=vF-fIWYUXz7D6Xz_8c8x4w">Tweet</a></li>
+<li><strong>IOTA Artikel</strong>: vom Institute of Export &amp; International Trade: <a href="https://www.export.org.uk/news/news.asp?id=621490">Immutable data the key to trade digitalisation progress ahead of landmark Ecosystem of Trust pilots</a></li>
+<li><strong>IOTA Ökosystem</strong>: <a href="https://twitter.com/soon_labs/status/1588395618573160450?s=20&amp;t=FoGmHq9GoVtVz9S3lNOGvw">Soonaverse tweetet</a> darüber, dass man bald nur noch mit Soon Token das Launchpad umsonst benutzen kann</li>
+<li><strong>Shimmer Learn</strong>: <a href="https://twitter.com/shimmernet/status/1588440919392620544?s=20&amp;t=FoGmHq9GoVtVz9S3lNOGvw">Shimmer tweetet</a> über das <a href="https://www.youtube.com/watch?v=M3AmygF7Wxg">Tutorial - Wallet Lib in JS - Send Native Tokens</a></li>
+<li><strong>IOTA Nodes</strong>: <a href="https://twitter.com/TimsonLabs/status/1588302258739068929?s=20&amp;t=FoGmHq9GoVtVz9S3lNOGvw">TimsonLabs tweetet</a> über seine Übersicht zur Nodeverteilung aller Nodes die Autopeering verwenden. Leider sehr Germany-zentralisiert...</li>
+<li><strong>Firefly Mobile</strong>: Es gab ein Update um Assembly Staking Runde 4 anzuzeigen: <a href="https://firefly.iota.org/">firefly.iota.org</a></li>
+<li><strong>Crypto News</strong>: Artikel von CNBC: <a href="https://www.cnbc.com/2022/11/03/fidelity-to-open-commission-free-crypto-trading-to-retail-investors.html">Fidelity to open commission-free crypto trading to retail investors</a></li>
+<li><strong>IOTA Audio</strong>: Der Radix Founder <a href="https://twitter.com/fuserleer">Dan Hughes</a> will ein Tech-Podcas machen und Hans Moog einladen: Hier seine <a href="https://twitter.com/hus_qy/status/1588508508739497984?s=20&amp;t=FoGmHq9GoVtVz9S3lNOGvw">Antwort</a></li>
+<li><strong>IOTA DAO</strong>: Die <a href="https://shimmer-community-treasury.notion.site/Shimmer-Community-Treasury-DAO-ac49f464f3f941cc9e6ab68b810d82e5">Shimmer Community Treassury DAO</a> entwickelt sich prächtig. Es gibt jetzt auch eine <a href="https://shimmer-community-treasury.notion.site/Schedule-of-Governance-Tasks-62c8473123be417d90f5c28e48302460">Roadmap für  für die Governement Tasks (Aufgaben)</a></li>
+<li><strong>IOTA Nodes</strong>: <a href="https://twitter.com/dlt_green">DLT.green</a> hat jetzt auch eine Node Distribution auf seiner <a href="https://dlt.green/pool-status">Pool Status Übersichtssteite</a> hinzugefügt</li>
+<li><strong>IOTA Hype</strong>: <a href="https://twitter.com/cyrilXBT/status/1588577997753237505?s=20&amp;t=xAO161PW7oLliWC4UBlB1w">Cyril-DeFi tweetet</a> bereits Freitag über die Vorteile von dem IOTA Smart Contracts Release 0.3.0 der angeblich am nächsten Tag (Samstag) veröffentlicht werden sollte</li>
+<li><strong>IOTA DAO Invest</strong>: <a href="https://twitter.com/MirumHOTEL/status/1588841236924096512?s=20&amp;t=cRyXSya2igDRcGLoobmnrQ">Mirium Hotel tweetet</a> über ein Hotel, dass sie in Portugal bauen wollen mit dem Geld von IOTA Investoren</li>
+<li><strong>Shimmer Learn</strong>: Die <a href="https://twitter.com/shimmer_academy/status/1588859687226658818?s=20&amp;t=cRyXSya2igDRcGLoobmnrQ">Shimmer Academy tweetet</a> ein Übersichtsblatt zum UTXO Model und erklärt das UTXO Model in <a href="https://twitter.com/shimmer_academy/status/1588859691115106309?s=20&amp;t=cRyXSya2igDRcGLoobmnrQ">9 Tweets</a></li>
+<li><strong>Shimmer Drama</strong>: Es gab ein bisschen Drama, weil Dom angeblich immer öfter nur Shimmer hyped anstelle von IOTA: <a href="https://twitter.com/DomSchiener/status/1588478173074841603?s=20&amp;t=cRyXSya2igDRcGLoobmnrQ">Tweet 1</a>; <a href="https://twitter.com/DomSchiener/status/1588824952685625344?s=20&amp;t=cRyXSya2igDRcGLoobmnrQ">Tweet 2</a></li>
+<li><strong>Crypto Allgemein</strong>: Christoph Strnadl <a href="https://twitter.com/archimate/status/1588947037722066944?s=20&amp;t=cRyXSya2igDRcGLoobmnrQ">macht sich Sorgen</a> über die aktuelle Version vom EU Data Act, weiß aber auch schon eine Lösung wie er die Restriktionen mit IOTA smart contracts umgehen könnte: <a href="https://twitter.com/archimate/status/1588949381985673216?s=20&amp;t=v7jDk3_y5ISp8ifWF6AQ_Q">Tweet</a></li>
+<li><strong>Twitter Hype</strong>: <a href="https://twitter.com/Bitboy_Crypto">BitBoy</a> mit 900K Followern ist bullish auf IOTA: <a href="https://twitter.com/Bitboy_Crypto/status/1588944387660451841?s=20&amp;t=cRyXSya2igDRcGLoobmnrQ">Tweet</a></li>
+<li><strong>IOTA Privacy</strong>: <a href="https://twitter.com/amnesia_cash/status/1588986623177687041?s=20&amp;t=cRyXSya2igDRcGLoobmnrQ">Amnesia Cash tweetet</a> über ihren neuen Blogpost: <a href="https://medium.com/@amnesia_cash/lets-make-some-noise-b528b42559ad">Let’s make some Noise!</a></li>
+<li><strong>Crypto Adoption</strong>: Der Twitter Account von der <a href="https://twitter.com/googlecloud/status/1588927875314499590?s=20&amp;t=4tuoo3Ztnwbk9k42nSBH-w">Google Cloud tagged den founder von Solana und tweetet</a> darüber, dass sie eine Solana Validator Node hosten und es nächstes Jahr leichter machen werden eine Solana Node in der Cloud zu hosen: <a href="https://twitter.com/googlecloud/status/1588927896911069184?s=20&amp;t=4tuoo3Ztnwbk9k42nSBH-w">Tweet</a>. Und <a href="https://twitter.com/googlecloud/status/1588927902757933056?s=20&amp;t=4tuoo3Ztnwbk9k42nSBH-w">sie weisen nochmals darauf hin</a>, dass die Google Cloud bald auch crypto payments akzeptiert</li>
+<li><strong>IOTA Wochenrückblick</strong>: IOTA Talk <a href="https://www.iota-talk.com/index.php?article/234-wochenr%C3%BCckblick-vom-30-oktober-bis-5-november-2022/">Wochenrückblick</a></li>
+<li><strong>Crypto Drama</strong>: <a href="https://twitter.com/cz_binance/status/1589283421704290306?s=20&amp;t=itBUO8UbZ_7ZGrbwEY8i9w">Binance tweetet</a>, dass sie ihre FTT Bestände verkaufen wollen. Es geht darum, dass FTX zusammen mit Alameda Research irgendwie so ein Flywheel Schema aufgebaut hatten: <a href="https://twitter.com/DU09BTC/status/1589283736188690432?s=20&amp;t=itBUO8UbZ_7ZGrbwEY8i9w">Tweet</a>; Youtube dazu: <a href="https://www.youtube.com/watch?v=eKiwQX7r0zk">Krypto in Gefahr: FTX &amp; Alameda vor INSOLVENZ? Alle Infos &amp; was Binance damit zu tun hat erklärt!</a>; CZ Binance tritt sogar nochmal nach mit seinem <a href="https://twitter.com/cz_binance/status/1589374530413215744?s=20&amp;t=RmgEv0sPkuYXXRp3gxxHVw">Tweet</a></li>
+<li><strong>IOTA Ökosystem</strong>: <a href="https://twitter.com/tanglepaycom/status/1589503667325263873?s=20&amp;t=RmgEv0sPkuYXXRp3gxxHVw">TanglePay tweetet</a> darüber, dass sie eine Partnerschaft mit <a href="https://twitter.com/Mises001">Misses Browser</a> eingegangen sind</li>
+</ol>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../stammtisch/2022-10-31/index.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../stammtisch/2022-10-31/index.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        
+        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>
