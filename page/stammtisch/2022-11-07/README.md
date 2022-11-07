@@ -59,6 +59,7 @@
 67. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/234-wochenr%C3%BCckblick-vom-30-oktober-bis-5-november-2022/)
 68. **Crypto Drama**: [Binance tweetet](https://twitter.com/cz_binance/status/1589283421704290306?s=20&t=itBUO8UbZ_7ZGrbwEY8i9w), dass sie ihre FTT Bestände verkaufen wollen. Es geht darum, dass FTX zusammen mit Alameda Research irgendwie so ein Flywheel Schema aufgebaut hatten: [Tweet](https://twitter.com/DU09BTC/status/1589283736188690432?s=20&t=itBUO8UbZ_7ZGrbwEY8i9w); Youtube dazu: [Krypto in Gefahr: FTX & Alameda vor INSOLVENZ? Alle Infos & was Binance damit zu tun hat erklärt!](https://www.youtube.com/watch?v=eKiwQX7r0zk); CZ Binance tritt sogar nochmal nach mit seinem [Tweet](https://twitter.com/cz_binance/status/1589374530413215744?s=20&t=RmgEv0sPkuYXXRp3gxxHVw)
 69. **IOTA Ökosystem**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1589503667325263873?s=20&t=RmgEv0sPkuYXXRp3gxxHVw) darüber, dass sie eine Partnerschaft mit [Misses Browser](https://twitter.com/Mises001) eingegangen sind
+70. **IOTA Artikel**: von Crypto News Flash: (https://www.crypto-news-flash.com/iota-partners-with-industry-leader-mises-to-build-web3-infrustructure-will-miota-price-rise-to-5/)
 
 
 
