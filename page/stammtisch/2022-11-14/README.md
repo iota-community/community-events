@@ -18,4 +18,6 @@
 16. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in München: [Event](https://www.meetup.com/de-DE/iota-muc/events/288654602/)
 17. **IOTA Diskussion**: Die Diskussion zwischen Shai Deshe und Hans Moog und gingen weiter: [Tweet](https://twitter.com/DesheShai/status/1589888927535493121?s=20&t=NAAADsrshXZtTVsWcf25AQ)
 18. **IOTA Ökosystem**: [ShimmerSea tweetet](https://twitter.com/ShimmerSeaDEX/status/1590245302942007296?t=xr6YXT7trmJvL6UjGtjRpA&s=19) darüber, dass man Lumis wohl bald verkaufen kann in ihrem "new home"...
+19. **IOTA Ökosystem**: Ledger Integration soon bei TanglePay: [Tweet](https://twitter.com/tanglepaycom/status/1590266344578379777?s=20&t=LfxtJc0nZf_lbBWe1Q4VIA)
+20. 
 
