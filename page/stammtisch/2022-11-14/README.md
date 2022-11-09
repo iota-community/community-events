@@ -13,3 +13,9 @@
 11. **IOTA Promote**: [Bitforex tweetet](https://twitter.com/bitforexcom/status/1589890466840985600?s=20&t=LMazQ1_FRgW98kVuA9_hTA) eine Quizfrage über das Soonaverse
 12. **IOTA Artikel**: Blog über Blackpin: [WECONOMY-SIEGER BLACKPIN GMBH: „UNSER MESSENGER SETZT DA AN, WO WHATSAPP UND TEAMS NICHT MEHR WEITERKOMMEN.](https://www.staufen.ag/weconomy-sieger-blackpin-gmbh-unser-messenger-setzt-da-an-wo-whatsapp-und-teams-nicht-mehr-weiterkommen/)
 13. **Twitter Hype**: [Screenshot auf #tanglemath](https://twitter.com/Vrom14286662/status/1590058609635110912?s=20&t=LMazQ1_FRgW98kVuA9_hTA)
+14. **IOTA Adaption**: [Christoph Strnadl tweetet](https://twitter.com/archimate/status/1589709369566171138?s=20&t=LfxtJc0nZf_lbBWe1Q4VIA) darüber, dass die Software AG IOTA voran bringen will bei #GaiaX, #iECO und #GaiaX4AMS und somit die Aufgaben von der IF für Adaption zu sorgen übernommen haben
+15. **IOTA Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1590220780650254336?s=20&t=LfxtJc0nZf_lbBWe1Q4VIA) über ihren Blogpost: [Building out of the IOTA Bubble - How the Soonaverse L1/L2 strategy will transform crypto](https://soonlabs.medium.com/building-out-of-the-iota-bubble-2cafdb784017)
+16. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in München: [Event](https://www.meetup.com/de-DE/iota-muc/events/288654602/)
+17. **IOTA Diskussion**: Die Diskussion zwischen Shai Deshe und Hans Moog und gingen weiter: [Tweet](https://twitter.com/DesheShai/status/1589888927535493121?s=20&t=NAAADsrshXZtTVsWcf25AQ)
+18. **IOTA Ökosystem**: [ShimmerSea tweetet](https://twitter.com/ShimmerSeaDEX/status/1590245302942007296?t=xr6YXT7trmJvL6UjGtjRpA&s=19) darüber, dass man Lumis wohl bald verkaufen kann in ihrem "new home"...
+
