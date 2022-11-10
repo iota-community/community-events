@@ -28,5 +28,6 @@
 26. **Crypto Drama**: Solana stürzt auch ab -45% in 24h. In diesem [Tweet](https://twitter.com/weremeow/status/1590461628864397312?s=20&t=-_V6_lM9N4X_c8cEMzo2Jw) wird gemunkelt, dass Solana bei dem FTX Drama mitgezogen wird, weil FTX (oder Alameda) da irdendwelche wrapped token erstellt hatte 
 27. **IOTA Consensus**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1590476404776669185?s=20&t=-_V6_lM9N4X_c8cEMzo2Jw) über den social consensus den sie langfristig einbauen wollen bei IOTA; Hier einfacher zu lesen im [Threadreader](https://threadreaderapp.com/thread/1590476404776669185.html)
 28. **Crypto Drama**: Dom hat in einem Announcement in Discord das ganze Drama von FTX zusammen gefasst und beschrieben, was das für Crypto und für IOTA bedeutet: [Tweet mit Screenshots](https://twitter.com/Vrom14286662/status/1590594305424773120?s=20&t=-_V6_lM9N4X_c8cEMzo2Jw)
+29. **Crypto Drama**: Jetzt will Justin Sun FTX retten... [Tweet](https://twitter.com/justinsuntron/status/1590585495649923073?s=20&t=I49vTYAaUoV7S87ecHY4Ag)
 
 
