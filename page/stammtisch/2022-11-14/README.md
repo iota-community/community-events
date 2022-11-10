@@ -25,4 +25,8 @@
 23. **IOTA Ökosystem**: [TangleSwap gibt bekannt](https://twitter.com/TangleSwapE/status/1590346780809760773?s=20&t=bZSkL1p0jFcq4aBp1oYf7w), dass sie von [ZOKYO]https://twitter.com/ZOKYO_io) geaudited werden
 24. **IOTA Governement**: Phylo hat die ueberarbeitete [Version des Proposals um ein Shimmer Community Grant Committee](https://govern.iota.org/t/shimmer-community-grant-committee-version-2/1437) in Telegram geteilt; Hier der offizielle [Prozess wie Member in dieses Committee gewaehlt werden sollen](https://govern.iota.org/t/community-grant-committee-selection-proccess-specification/1436); sie suchen [Grant Reviewer](https://govern.iota.org/c/shimmer-governance-proposals/community-treasury-grant-reviewer-applications/58) und [Committee Lead Position](https://govern.iota.org/c/shimmer-governance-proposals/shimmer-community-treasury-coommittee-lead-appli/59)
 25. **Crypto Crash**: [Binance verkündet](https://twitter.com/binance/status/1590449161069268992?s=20&t=0XQC_uGj-H0V6kUYaF_gjA), dass sie FTX nicht retten wollen und der Bitcoin Kurs stürzt ab auf unter $16K
+26. **Crypto Drama**: Solana stürzt auch ab -45% in 24h. In diesem [Tweet](https://twitter.com/weremeow/status/1590461628864397312?s=20&t=-_V6_lM9N4X_c8cEMzo2Jw) wird gemunkelt, dass Solana bei dem FTX Drama mitgezogen wird, weil FTX (oder Alameda) da irdendwelche wrapped token erstellt hatte 
+27. **IOTA Consensus**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1590476404776669185?s=20&t=-_V6_lM9N4X_c8cEMzo2Jw) über den social consensus den sie langfristig einbauen wollen bei IOTA
+28. **Announcement von Dom**: [Tweet mit Screenshots](https://twitter.com/Vrom14286662/status/1590594305424773120?s=20&t=-_V6_lM9N4X_c8cEMzo2Jw)
+
 
