@@ -27,7 +27,7 @@
 25. **Crypto Crash**: [Binance verkündet](https://twitter.com/binance/status/1590449161069268992?s=20&t=0XQC_uGj-H0V6kUYaF_gjA), dass sie FTX nicht retten wollen und der Bitcoin Kurs stürzt ab auf unter $16K
 26. **Crypto Drama**: Solana stürzt auch ab -45% in 24h. In diesem [Tweet](https://twitter.com/weremeow/status/1590461628864397312?s=20&t=-_V6_lM9N4X_c8cEMzo2Jw) wird gemunkelt, dass Solana bei dem FTX Drama mitgezogen wird, weil FTX (oder Alameda) da irdendwelche wrapped token erstellt hatte 
 27. **IOTA Consensus**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1590476404776669185?s=20&t=-_V6_lM9N4X_c8cEMzo2Jw) über den social consensus den sie langfristig einbauen wollen bei IOTA; Hier einfacher zu lesen im [Threadreader](https://threadreaderapp.com/thread/1590476404776669185.html)
-28. **Crypto Drama**: Dom hat in einem Announcement in Discord das ganze Drama von FTX zusammen gefasst und beschrieben, was das für Crypto und für IOTA bedeutet: [Tweet mit Screenshots](https://twitter.com/Vrom14286662/status/1590594305424773120?s=20&t=-_V6_lM9N4X_c8cEMzo2Jw)
+28. **Crypto Drama**: Dom hat in einem Announcement in Discord das ganze Drama von FTX zusammen gefasst und beschrieben, was das für Crypto und für IOTA bedeutet: [Tweet mit Screenshots](https://twitter.com/Vrom14286662/status/1590594305424773120?s=20&t=-_V6_lM9N4X_c8cEMzo2Jw); Von [Thorsten Hensler wurde das kommentiert](https://twitter.com/theissler/status/1590662594863706112?s=20&t=9-taEyMbtVtLbeIe_UtQJg) und somit wissen wir jetzt worum es bei dem Streit zwischen den beiden wohl ging...
 29. **Crypto Drama**: Jetzt will Justin Sun FTX retten... [Tweet](https://twitter.com/justinsuntron/status/1590585495649923073?s=20&t=I49vTYAaUoV7S87ecHY4Ag)
 30. **IOTA Ökosystem**: [Iotaorigin tweetet](https://twitter.com/origin_iota/status/1590649848084123649?s=20&t=EK17upg2HF3W2CL5Oa7HJg) darüber, dass sie auf der Longlist für den Fintech Germany Award 2022 sind. Außerdem wurden sie in der "DIN SPEC 32790 for the standardisation of transparent supply chains using DLT" erwähnt: [Tweet](https://twitter.com/origin_iota/status/1586019756603502592?s=20&t=VH-xejQH9C6Jzdy55ncZVQ)
 31. **IOTA Audio**: Linus ist/war am Donnerstag zu Gast im Telegram Voice Chat der TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1590676739260547072?s=20&t=EK17upg2HF3W2CL5Oa7HJg)
@@ -35,5 +35,13 @@
 33. **Shimmer Ökosystem**: [Shimmer PingPong](https://twitter.com/shimmernet/status/1590702703310577664?s=20&t=1lk0e9rVz224tYbGOq388A) mit [HIFiDeFi](https://twitter.com/HiFiDeFi)
 34. **Crypto Drama**: [SBF meldet sich](https://twitter.com/SBF_FTX/status/1590709166515310593?s=20&t=v0--ZgkLVSNmaXWUafcwWw) in einem langen Tweetstorm und startet mit "I'm sorry.. I fucked it up"
 35. **IOTA Artikel**: von Geldhelden: [SECANT: IOTA-Foundation ist Teil des Forschungsprojektes der EU](https://geldhelden.org/secant-iota-foundation-ist-teil-des-forschungsprojektes-der-eu/?cn-reloaded=1)
+36. **Crypto Adoption**: Shell will auf der Bitcoin Konferenz in Miami sprechen; Artikel: [The company will speak on stage at the next Bitcoin Conference showcasing its new cooling solutions meant to improve the bitcoin mining industry](https://bitcoinmagazine.com/business/shell-signs-two-year-sponsorship-with-bitcoin-magazine)
+37. **IOTA Artikel**: [Brian Lewis tweetet](https://twitter.com/BrianLewisMDMPH/status/1590751944033079296?s=20&t=9-taEyMbtVtLbeIe_UtQJg) den Artikel von Small Woven Threads: [The Deep Renovation of IOTA](https://smallwoventhreads.medium.com/the-deep-renovation-of-iota-696a87b1ad1a)
+38. **IOTA Screenshot**: Ein [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1590755673524305920?s=20&t=9-taEyMbtVtLbeIe_UtQJg) über Dom seine Einschätzung zur finanziellen Lage der IF: 
+39. **IOTA Screenshot**: Noch ein [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1590756598632153089?s=20&t=9-taEyMbtVtLbeIe_UtQJg) von Hans Moog bezüglich eines Papers das er gerade schreibt
+40. **IOTA Hype**: [Roman Semko tweetet](https://twitter.com/romansemko/status/1590696695284740098?s=20&t=3eauqCi3GmbgyMB2DCCswA? über seinen Artikel: [Why Shimmer EVM is a big deal](https://romansemko.medium.com/why-shimmer-evm-is-a-big-deal-af71d8a6aa12)
+41. **IOTA Audio**: Neuer Moonaco Podacst: [Episode 49 - Nakama Labs](https://open.spotify.com/episode/0HbXeBYbpa3IInNaROsDOa?si=KXxQBnRBRRiZLRsRibgzmw&nd=1); [Tweet](https://twitter.com/MoonacoPodcast/status/1590663914953416709?s=20&t=3eauqCi3GmbgyMB2DCCswA)
+
+
 
 
