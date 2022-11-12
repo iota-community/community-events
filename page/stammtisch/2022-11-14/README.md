@@ -51,6 +51,12 @@
 49. **Crypto Drama**: Nächste Runde beim FTX Drama. Jetzt werden die verbliebenden Gelder auf FTX auch noch gehackt: Artikel: [FTX Official & FTX US’s wallets appear to be hacked, with over $600 million leaving the exchange](https://unusualwhales.com/news/ftx-official-ftx-uss-wallets-appear-to-be-hacked-with-over-600-million-leaving-the-exchange)
 50. **Shimmer Promote**: Die [Shimmer Academy tweetet](https://twitter.com/shimmer_academy/status/1590413377188560896?s=20&t=zaVl__NNRVdSoxvqYd2Y9w) über einen One-Pager zu Shimmer
 51. **IOTA Ökosystem**: [Deposy tweetet](https://twitter.com/deposyproject/status/1591084733408358403?s=20&t=zaVl__NNRVdSoxvqYd2Y9w) ein Video über ihre neue App
+52. **IOTA DeFi Learn**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1591385317956734977?s=20&t=z7sPgZjGtq4igfoKu1A1uQ) über ihre [DeFi Education Sessions](https://www.youtube.com/playlist?list=PLMbc46iGTB_TqmvVOYniwUaYZnvvi3xAn)
+53. **IOTA DeFi**: [Dom frägt](https://twitter.com/DomSchiener/status/1591022145156829184?s=20&t=z7sPgZjGtq4igfoKu1A1uQ) die Community was benötigt wird um DeFi erfolgreich zu machen
+54. **IOTA Artikel**: von Crypto News Flash: [IOTA kann den weltweiten Klima- und Finanzsystemwandel effektiv unterstützen](https://www.crypto-news-flash.com/de/iota-den-wandel-des-klima-und-finanzsystems-unterstuetzen-kann/)
+55. **Crypto Drama**: Elon Musk war in einem [Twitter Space](https://twitter.com/HypeManAlex/status/1591334633504808960?s=20&t=z7sPgZjGtq4igfoKu1A1uQ) und hat "Doge to the moon" gesagt, woraufhin Doge 15% gestiegen ist: [Tweet](https://twitter.com/CryptoVinco/status/1591337397538549760?s=20&t=z7sPgZjGtq4igfoKu1A1uQ)
+56. **Shimmer Governement**: [ShimmerGov tweetet](https://twitter.com/ShimmerGov/status/1591185904181612544?s=20&t=z7sPgZjGtq4igfoKu1A1uQ) üder den Stand der Bewerbungen für die Community Grant Reviewer Positionen: [Tweet](https://twitter.com/ShimmerGov/status/1591185904181612544?s=20&t=z7sPgZjGtq4igfoKu1A1uQ)
+
 
 
 
