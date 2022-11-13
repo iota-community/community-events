@@ -60,6 +60,10 @@
 58. **IOTA Adoption**: Artikel von TeleconSys: [dOra, ein verteiltes System für kritische industrielle Anwendungen](https://magazine.teleconsys.it/dora)
 59. **Shimmer Learn**: [ShimmerAcademy tweetet](https://twitter.com/shimmer_academy/status/1591452825716142082?s=20&t=z7sPgZjGtq4igfoKu1A1uQ) über die Vorteile von Shimmer
 60. **Crypto Drama**: Sind Crypto.com die nächsten? Artikel: [Crypto.com accidentally sends 320k ETH to Gate.io, recovers funds days after](https://cointelegraph.com/news/crypto-com-accidentally-sends-320k-eth-to-gate-io-recovers-funds-days-after); Es gab wohl auch unorthodoxe Zahlungen: [Tweet](https://twitter.com/adamscochran/status/1591632043880124418?s=20&t=Dx-OXOF3931dZISkMN-TXg); Außderdem etwas strange warum 20% in Shiba sind: [dashboard/crypto.com](https://portfolio.nansen.ai/dashboard/crypto.com)
+61. **IOTA Youtube**: [10/11/22 IOTA Community Governance meeting - Shimmer Treasury setup](https://www.youtube.com/watch?v=MZ08NYnI_7Y)
+62. **IOTA Audio**: Nächster TangleGang Sprachchat am Donnerstag mit Jonas Theis [IF] könnte interessant werder: [Tweet](https://twitter.com/GangTangleTalk/status/1591719744629268482?s=20&t=InQCW27GTSn8sn1E1Iyj4Q)
+63. **Crypto Drama**: Artikel: [FTX-Kollaps: Korruptionsverdacht – welche Rolle spielte der SEC-Vorsitzende Gensler?](https://de.investing.com/news/cryptocurrency-news/ftxkollaps-korruptionsverdacht--welche-rolle-spielte-der-secvorsitzende-gensler-2327704)
+64. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/236-wochenr%C3%BCckblick-vom-6-bis-12-november-2022/)
 
 
 
