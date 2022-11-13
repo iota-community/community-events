@@ -59,7 +59,7 @@
 57. **Shimmer DeFi**: [DeFire tweetet](https://twitter.com/DeFIRE_org/status/1589564248493113349?s=20&t=z7sPgZjGtq4igfoKu1A1uQ), dass sie auch Shimmer etwas bauen wollen. Im IOTA Discord [schreiben sie](https://discordapp.com/channels/397872799483428865/918064808383877130/1040715417045446696), dass sie ihr BLAZE Protokoll auf Shimmer starten wollen
 58. **IOTA Adoption**: Artikel von TeleconSys: [dOra, ein verteiltes System für kritische industrielle Anwendungen](https://magazine.teleconsys.it/dora)
 59. **Shimmer Learn**: [ShimmerAcademy tweetet](https://twitter.com/shimmer_academy/status/1591452825716142082?s=20&t=z7sPgZjGtq4igfoKu1A1uQ) über die Vorteile von Shimmer
-60. 
+60. **Crypto Drama**: Sind Crypto.com die nächsten? Artikel: [Crypto.com accidentally sends 320k ETH to Gate.io, recovers funds days after](https://cointelegraph.com/news/crypto-com-accidentally-sends-320k-eth-to-gate-io-recovers-funds-days-after); Es gab wohl auch unorthodoxe Zahlungen: [Tweet](https://twitter.com/adamscochran/status/1591632043880124418?s=20&t=Dx-OXOF3931dZISkMN-TXg); Außderdem etwas strange warum 20% in Shiba sind: [dashboard/crypto.com](https://portfolio.nansen.ai/dashboard/crypto.com)
 
 
 
