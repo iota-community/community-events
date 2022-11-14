@@ -16,7 +16,7 @@
 14. **IOTA Adaption**: [Christoph Strnadl tweetet](https://twitter.com/archimate/status/1589709369566171138?s=20&t=LfxtJc0nZf_lbBWe1Q4VIA) darüber, dass die Software AG IOTA voran bringen will bei #GaiaX, #iECO und #GaiaX4AMS und somit die Aufgaben von der IF teilweise übernommen hat um für Adaption zu sorgen 
 15. **IOTA Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1590220780650254336?s=20&t=LfxtJc0nZf_lbBWe1Q4VIA) über ihren Blogpost: [Building out of the IOTA Bubble - How the Soonaverse L1/L2 strategy will transform crypto](https://soonlabs.medium.com/building-out-of-the-iota-bubble-2cafdb784017)
 16. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in München: [Event](https://www.meetup.com/de-DE/iota-muc/events/288654602/)
-17. **IOTA Diskussion**: Die Diskussionen zwischen Shai Deshe und Hans Moog über IOTA 2.0 gingen weiter: [Tweet](https://twitter.com/DesheShai/status/1589888927535493121?s=20&t=NAAADsrshXZtTVsWcf25AQ)
+17. **IOTA Diskussion**: Die Diskussionen zwischen Shai Deshe und Hans Moog über IOTA 2.0 gingen weiter: [Tweet](https://twitter.com/DesheShai/status/1589888927535493121?s=20&t=NAAADsrshXZtTVsWcf25AQ); [Tweet](https://twitter.com/hus_qy/status/1592085460242911232?s=20&t=k73n8-BrgONbyE5r7nVgnw)
 18. **IOTA Ökosystem**: [ShimmerSea tweetet](https://twitter.com/ShimmerSeaDEX/status/1590245302942007296?t=xr6YXT7trmJvL6UjGtjRpA&s=19) darüber, dass man Lumis wohl bald verkaufen kann in ihrem "new home"...
 19. **IOTA Ökosystem**: Ledger Integration "soon" bei TanglePay: [Tweet](https://twitter.com/tanglepaycom/status/1590266344578379777?s=20&t=LfxtJc0nZf_lbBWe1Q4VIA)
 20. **IOTA Ökosystem**: [Chirp](https://twitter.com/ChirpIoT) (ehem. Mesh+) hat ihren ersten Master Gateway auf dem Fernsehturm in Köterberg verbaut: [Tweet](https://twitter.com/ChirpIoT/status/1590301171301814272?s=20&t=LfxtJc0nZf_lbBWe1Q4VIA)
@@ -67,6 +67,7 @@
 65. **IOTA Artikel**: von Crypto News Flash: [IOTA: Diese 4 Eigenschaften machen Shimmer anderen Blockchain-Ökosystemen in Zukunft überlegen](https://www.crypto-news-flash.com/de/vier-eigenschaften-machen-shimmer-anderen-blockchain-oekosystemen-ueberlegen/)
 66. **Twitter Hype**: Shimmer EVM ist mal wieder "some weeks away": [Tweet](https://twitter.com/Vrom14286662/status/1591903588900798464?s=20&t=b5_TAkLxOKfT81RX4zOIYQ)
 67. **IOTA Adoption**: [TeleconSys tweetet](https://twitter.com/Teleconsys/status/1591019676842459137?s=20&t=b5_TAkLxOKfT81RX4zOIYQ) den Artikel: [dOra, un sistema distribuito per applicazioni industriali critiche](https://magazine.teleconsys.it/dora) von [Stefano Della Valle](https://twitter.com/sdellava) mit IOTA inside
+68. **IOTA NFT Ökosystem**: Die [Rusty Robots tweeten](https://twitter.com/RustyRobotCC/status/1592091041993494533?s=20&t=k73n8-BrgONbyE5r7nVgnw) den Blogpost: [Rusty Robot Country Club Main Collection Sale!](https://medium.com/@RustyRobotCountryClub/rusty-robot-country-club-main-collection-sale-36ce3f84eb4b)
 
 
 
