@@ -66,6 +66,7 @@
 64. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/236-wochenr%C3%BCckblick-vom-6-bis-12-november-2022/)
 65. **IOTA Artikel**: von Crypto News Flash: [IOTA: Diese 4 Eigenschaften machen Shimmer anderen Blockchain-Ökosystemen in Zukunft überlegen](https://www.crypto-news-flash.com/de/vier-eigenschaften-machen-shimmer-anderen-blockchain-oekosystemen-ueberlegen/)
 66. **Twitter Hype**: Shimmer EVM ist mal wieder "some weeks away": [Tweet](https://twitter.com/Vrom14286662/status/1591903588900798464?s=20&t=b5_TAkLxOKfT81RX4zOIYQ)
+67. **IOTA Adoption**: [TeleconSys tweetet](https://twitter.com/Teleconsys/status/1591019676842459137?s=20&t=b5_TAkLxOKfT81RX4zOIYQ) den Artikel: [dOra, un sistema distribuito per applicazioni industriali critiche](https://magazine.teleconsys.it/dora) von [Stefano Della Valle](https://twitter.com/sdellava) mit IOTA inside
 
 
 
