@@ -64,6 +64,8 @@
 62. **IOTA Audio**: Nächster TangleGang Sprachchat am Donnerstag mit Jonas Theis [IF] könnte interessant werder: [Tweet](https://twitter.com/GangTangleTalk/status/1591719744629268482?s=20&t=InQCW27GTSn8sn1E1Iyj4Q)
 63. **Crypto Drama**: Artikel: [FTX-Kollaps: Korruptionsverdacht – welche Rolle spielte der SEC-Vorsitzende Gensler?](https://de.investing.com/news/cryptocurrency-news/ftxkollaps-korruptionsverdacht--welche-rolle-spielte-der-secvorsitzende-gensler-2327704)
 64. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/236-wochenr%C3%BCckblick-vom-6-bis-12-november-2022/)
+65. **IOTA Artikel**: von Crypto News Flash: [IOTA: Diese 4 Eigenschaften machen Shimmer anderen Blockchain-Ökosystemen in Zukunft überlegen](https://www.crypto-news-flash.com/de/vier-eigenschaften-machen-shimmer-anderen-blockchain-oekosystemen-ueberlegen/)
+
 
 
 
