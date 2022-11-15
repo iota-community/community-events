@@ -22,3 +22,5 @@
 20. **Crypto Drama**: Artikel von CoinMarketcap: [An analytics firm has now also accused Alameda of frontrunning FTX token listings](https://coinmarketcap.com/alexandria/article/ftx-allegations-keep-growing-as-details-emerge)
 21. **IOTA Drama**: [Dom Schiener tweetet](https://twitter.com/DomSchiener/status/1592583949217587201?s=20&t=f8cZ_WZB2GV7Io0rIZP-ew) gegen Solana und die Pre-Mine-Praktiken der VCs für die man früher in der Cryptowelt gesteinigt worden wäre
 22. **IOTA Ökosystem**: TangleBay hat offenbar finanzielle Schwierigkeiten und frägt nach Sponsoren für ICNS Nodes: [Tweet](https://twitter.com/tanglebay/status/1592610856092991488?s=20&t=f8cZ_WZB2GV7Io0rIZP-ew)
+23. **IOTA Firefly**: Neues von Nicole im [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1592621583818174465?s=20&t=KR19FCj6kbH8XdddzXh-Bw)
+24. **Crypto Drama**: Blockf Bankrot? Artikel: [BlockFi Facing Bankruptcy: Report](https://u.today/blockfi-facing-bankruptcy-report)
