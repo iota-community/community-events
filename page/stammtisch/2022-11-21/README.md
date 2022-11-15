@@ -15,4 +15,6 @@
 13. **Crypto Drama**: [SBF](), der CEO von FTX [tweetet](https://twitter.com/SBF_FTX/status/1591989554881658880?s=20&t=bOn_L_bbB1M2h7YcdcrjdA) über mehrere Tage: What H A P P E N E D und dann startet seine Erklärung hier: [Tweet](https://twitter.com/SBF_FTX/status/1592389472074682369?s=20&t=bOn_L_bbB1M2h7YcdcrjdA)
 14. **Shimmer Governements Vote**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1592517786743427073?s=20&t=bOn_L_bbB1M2h7YcdcrjdA) darüber, dass wir 3x abstimmen sollen in dem Dokument: [Your Turn to Contribute to Three New Shimmer Governance Proposals](https://blog.iota.org/shimmer-governance-in-action/)
 15. **IOTA Ökosystem**: Neuer Mitarbeiter bei Chirp der von T-Mobile gekommen ist: [Tweet](https://twitter.com/ChirpIoT/status/1592475498415890437?s=20&t=dtJT0CoKckpw35ciIII9_w)
-16. 
+16. **IOTA Hype**: [Dom tweetet](https://twitter.com/DomSchiener/status/1592561950290251778?s=20&t=f8cZ_WZB2GV7Io0rIZP-ew) den Hype Train
+17. **Crypto News**: [Edward Snowden retweetet](https://twitter.com/Snowden/status/1592587655178592256?s=20&t=f8cZ_WZB2GV7Io0rIZP-ew) den [Tweet von dem digitalen Dollar](https://twitter.com/WatcherGuru/status/1592547345841156096?s=20&t=f8cZ_WZB2GV7Io0rIZP-ew) mit "it begins"
+18. Crypto Drama**: [Die schlimmste Woche meines Lebens - Hoss & Hopf #15](https://www.youtube.com/watch?v=MAL7o6MwQhM); Der Hoss hat glaube ich 1 Millionen auf FTX gehabt
