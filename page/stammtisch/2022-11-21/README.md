@@ -21,4 +21,4 @@
 19. **IOTA Exchange**: [Guardarian tweetet](https://twitter.com/guardarian_com/status/1592526391920283651?s=20&t=f8cZ_WZB2GV7Io0rIZP-ew) darüber, dass sie IOTA gelistet haben auf [guardarian.com](https://guardarian.com/?utm_source=twitter&utm_medium=banner&utm_campaign=iota). Kauf ab 35 Eur möglich
 20. **Crypto Drama**: Artikel von CoinMarketcap: [An analytics firm has now also accused Alameda of frontrunning FTX token listings](https://coinmarketcap.com/alexandria/article/ftx-allegations-keep-growing-as-details-emerge)
 21. **IOTA Drama**: [Dom Schiener tweetet](https://twitter.com/DomSchiener/status/1592583949217587201?s=20&t=f8cZ_WZB2GV7Io0rIZP-ew) gegen Solana und die Pre-Mine-Praktiken der VCs für die man früher in der Cryptowelt gesteinigt worden wäre
-22. 
+22. **IOTA Ökosystem**: TangleBay hat offenbar finanzielle Schwierigkeiten und frägt nach Sponsoren für ICNS Nodes: [Tweet](https://twitter.com/tanglebay/status/1592610856092991488?s=20&t=f8cZ_WZB2GV7Io0rIZP-ew)
