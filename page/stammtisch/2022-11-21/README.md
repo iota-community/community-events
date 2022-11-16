@@ -27,4 +27,3 @@
 25. **Crypto Adoption**: Artikel von BTC-Echo: [Circle (USDC) kommt auf Apple Pay](https://www.btc-echo.de/schlagzeilen/usdc-stablecoin-von-circle-jetzt-auch-auf-apple-pay-154533/)
 26. **IOTA Diskussionen**: Es gab einige Diskussionen darüber ob sich von SoonLabs und iotabee nicht zu viele gemeldet haben für den Governement Approvals: [Tweet](https://twitter.com/LinusNaumann/status/1592485812696121346?s=20&t=YcwVAD9EYdBhV9E2o-knWg)
 27. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://twitter.com/ShimmerSeaDEX/status/1592773609021640704?s=20&t=-mpZXT3lipqOlsLN4fONmg) ihren Medium Post: [Why we build.](https://medium.com/@shimmerseadefi/why-we-build-8b39306083d8)
-
