@@ -23,8 +23,11 @@
 21. **IOTA Drama**: [Dom Schiener tweetet](https://twitter.com/DomSchiener/status/1592583949217587201?s=20&t=f8cZ_WZB2GV7Io0rIZP-ew) gegen Solana und die Pre-Mine-Praktiken der VCs für die man früher in der Cryptowelt gesteinigt worden wäre
 22. **IOTA Ökosystem**: TangleBay hat offenbar finanzielle Schwierigkeiten und frägt nach Sponsoren für ICNS Nodes: [Tweet](https://twitter.com/tanglebay/status/1592610856092991488?s=20&t=f8cZ_WZB2GV7Io0rIZP-ew)
 23. **IOTA Firefly**: Neues von Nicole im [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1592621583818174465?s=20&t=KR19FCj6kbH8XdddzXh-Bw)
-24. **Crypto Drama**: Blockf Bankrot? Artikel: [BlockFi Facing Bankruptcy: Report](https://u.today/blockfi-facing-bankruptcy-report)
+24. **Crypto Drama**: Blockfi Bankrot? Artikel: [BlockFi Facing Bankruptcy: Report](https://u.today/blockfi-facing-bankruptcy-report)
 25. **Crypto Adoption**: Artikel von BTC-Echo: [Circle (USDC) kommt auf Apple Pay](https://www.btc-echo.de/schlagzeilen/usdc-stablecoin-von-circle-jetzt-auch-auf-apple-pay-154533/)
 26. **IOTA Diskussionen**: Es gab einige Diskussionen darüber ob sich von SoonLabs und iotabee nicht zu viele gemeldet haben für den Governement Approvals: [Tweet](https://twitter.com/LinusNaumann/status/1592485812696121346?s=20&t=YcwVAD9EYdBhV9E2o-knWg)
 27. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://twitter.com/ShimmerSeaDEX/status/1592773609021640704?s=20&t=-mpZXT3lipqOlsLN4fONmg) ihren Medium Post: [Why we build.](https://medium.com/@shimmerseadefi/why-we-build-8b39306083d8)
-28. **IOTA Identity**: [Impierce Technologies tweetet] den Artikel von Jelle Milenar: [Twitter showcases the need for Verifiable Corporate Digital Identities](https://medium.com/@jelle.millenaar/twitter-showcases-the-need-for-verifiable-corporate-digital-identities-316a9846aca9)
+28. **IOTA Identity**: [Impierce Technologies tweetet] den Artikel von Jelle Milenar: [Twitter showcases the need for Verifiable Corporate Digital Identities](https://medium.com/@jelle.millenaar/twitter-showcases-the-need-for-verifiable-corporate-digital-identities-316a9846aca9); Wurde sogar von der [IF retweetet](https://twitter.com/iota/status/1592882715455782912?s=20&t=ZxnBY-of5_7uNVqE32INfA)
+29. **IOTA Adoption**: Holger Köther hatte einen Auftritt: [Tweet](https://twitter.com/HolgerKoether/status/1592792551110881281)
+30. **IOTA Ökosystem**: [Tanglehub tweeten](https://twitter.com/Tanglehub_eu/status/1592783005801926656?s=20&t=ZxnBY-of5_7uNVqE32INfA), dass sie Pipe bereits mit denPartnern von Touchpoint zusammen testen
+31. **IOTA NFT**: Der neue Banksyape "G" wurde released [auf Soonaverse](https://soonaverse.com/nft/0xda93471e60c6f48c5221eb2fb389937738488e52). Es wird die Protestbewegung der Iranerinnen dargestellt
