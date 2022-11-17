@@ -43,5 +43,6 @@
 41. **Crypto Adoption**: Christoph Strnadl war bei einem GaiaX Event und hat einige Tweets [auf seinem Twitter Profil](https://twitter.com/archimate) gepostet
 42. **IOTA Event**: IOTA ist oft vertreten in der INATBA digital Blockchain week vom 22.-25-Nov.: [IF Tweet](https://twitter.com/iota/status/1593182162303717376?s=20)
 43. **IOTA Audio**: [Moonaco Podcast tweetet](https://twitter.com/MoonacoPodcast/status/1593196773082009601?s=20) über den neuen Podcast: [Episode 51: Cyril](https://open.spotify.com/episode/2DhlJ5fJjdlHRdnq4j0GhO?si=SAglWAjYQ2WBAuS6IYHIxQ&nd=1)
+44. **Shimmer Ping Pong**: [Shimmer Ping Pong](https://twitter.com/shimmernet/status/1593239552151281664?s=20) mit [DeFIRE](https://twitter.com/DeFIRE_org)
 
 
