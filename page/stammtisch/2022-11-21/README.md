@@ -40,5 +40,8 @@
 38: **Crypto Adoption**: El Salvador will ab jetzt jeden Tag einen Bitcoin kaufen: [Artikel von BTC Echo](https://www.btc-echo.de/schlagzeilen/el-salvador-praesident-bukele-will-jeden-tag-einen-bitcoin-kaufen-154639/)
 39: **IOTA Video**: [How Iota aims to have feeless transactions](https://www.youtube.com/watch?v=X71Ev4ZbnRY)
 40: **Crypto Drama**: [Dom Schiener regt sich über SBF von FTX auf](https://twitter.com/DomSchiener/status/1592942409088118784?s=20), weil Mama und Papa ihn retten sollen und er sich nicht um die Leute sorgt die durch ihn alles verloren haben
+41. **Crypto Adoption**: Christoph Strnadl war bei einem GaiaX Event und hat einige Tweets [auf seinem Twitter Profil](https://twitter.com/archimate) gepostet
+42. **IOTA Event**: IOTA ist oft vertreten in der INATBA digital Blockchain week vom 22.-25-Nov.: [IF Tweet](https://twitter.com/iota/status/1593182162303717376?s=20)
+43. **IOTA Audio**: [Moonaco Podcast tweetet](https://twitter.com/MoonacoPodcast/status/1593196773082009601?s=20) über den neuen Podcast: [Episode 51: Cyril](https://open.spotify.com/episode/2DhlJ5fJjdlHRdnq4j0GhO?si=SAglWAjYQ2WBAuS6IYHIxQ&nd=1)
 
 
