@@ -52,6 +52,7 @@
 50. **IOTA Ökosystem**: Das [Soonaverse tweetet](https://twitter.com/soon_labs/status/1593483385640431616?s=20&t=ujKDz0s37BSsls6SGy1zLw) über ihren neuen Partner [FreeFlowDev](https://twitter.com/FreeflowDev) und ihren Blogpost: [The Soonaverse Announces Their First Solution Partner](https://soonlabs.medium.com/the-soonaverse-announces-their-first-solution-partner-4f859312e32f)
 51. **IOTA Artikel**: von Crypto News Flash: [„IOTA 2.0 ist ein lebendiges Biest“ – Große Updates für Konsensus, Tokenomics und Smart Contracts](https://www.crypto-news-flash.com/de/iota-ist-ein-lebendes-wesen-wichtige-updates-fuer-konsens-tokenomics-und-steuerung/)
 52. **IOTA Devs**: [Marco Besier tweetet](https://twitter.com/marcobesier/status/1593242603830403074?s=20&t=wEkBlr6Qnfmv41xleGUyDg) einige nützliche Links für Developer um mit Shimmer EVM zu starten
+53. **Crypto News**: [Binance tweetet](https://twitter.com/binance/status/1593531587337113600?s=20&t=ujKDz0s37BSsls6SGy1zLw) ein Promotion Video von C. Ronaldo für seine [NFT Serie](https://www.binance.com/en/nft/event/CristianoRonaldo)
 
 
 
