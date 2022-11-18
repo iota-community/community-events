@@ -55,6 +55,10 @@
 53. **Crypto News**: [Binance tweetet](https://twitter.com/binance/status/1593531587337113600?s=20&t=ujKDz0s37BSsls6SGy1zLw) ein Promotion Video von C. Ronaldo für seine [NFT Serie](https://www.binance.com/en/nft/event/CristianoRonaldo)
 54. **IOTA Youtube**: von ItsGigoTv: [IOTA brutale NEWS ! ALGORAND kein gutes INVESTMENT ? Krypto news](https://www.youtube.com/watch?v=pEHgxJYYI2U)
 55. **IOTA Audio**: Nächste Woche kommt Linus Nauman in den TangleGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1593597370297720832?s=20&t=ujKDz0s37BSsls6SGy1zLw)
+56. **IOTA Ökosystem**: [Iotaorigin tweetet](VcGBtVNpZ7Q4rt6) darüber, dass sie bei einem Startup Event dabei sind: [Startplatz Accelerator](https://www.startplatz.de/accelerator)
+57. **Crypto Adoption**: EBSI sucht Wallet Provider aus Europa: [Tweet](https://twitter.com/EU_EBSI/status/1593198732618731522?s=20&t=XskcS71FSNio22y4_jYqrA)
+
+
 
 
 
