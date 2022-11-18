@@ -53,6 +53,8 @@
 51. **IOTA Artikel**: von Crypto News Flash: [„IOTA 2.0 ist ein lebendiges Biest“ – Große Updates für Konsensus, Tokenomics und Smart Contracts](https://www.crypto-news-flash.com/de/iota-ist-ein-lebendes-wesen-wichtige-updates-fuer-konsens-tokenomics-und-steuerung/)
 52. **IOTA Devs**: [Marco Besier tweetet](https://twitter.com/marcobesier/status/1593242603830403074?s=20&t=wEkBlr6Qnfmv41xleGUyDg) einige nützliche Links für Developer um mit Shimmer EVM zu starten
 53. **Crypto News**: [Binance tweetet](https://twitter.com/binance/status/1593531587337113600?s=20&t=ujKDz0s37BSsls6SGy1zLw) ein Promotion Video von C. Ronaldo für seine [NFT Serie](https://www.binance.com/en/nft/event/CristianoRonaldo)
+54. **IOTA Youtube**: von ItsGigoTv: [IOTA brutale NEWS ! ALGORAND kein gutes INVESTMENT ? Krypto news](https://www.youtube.com/watch?v=pEHgxJYYI2U)
+55. 
 
 
 
