@@ -54,7 +54,7 @@
 52. **IOTA Devs**: [Marco Besier tweetet](https://twitter.com/marcobesier/status/1593242603830403074?s=20&t=wEkBlr6Qnfmv41xleGUyDg) einige nützliche Links für Developer um mit Shimmer EVM zu starten
 53. **Crypto News**: [Binance tweetet](https://twitter.com/binance/status/1593531587337113600?s=20&t=ujKDz0s37BSsls6SGy1zLw) ein Promotion Video von C. Ronaldo für seine [NFT Serie](https://www.binance.com/en/nft/event/CristianoRonaldo)
 54. **IOTA Youtube**: von ItsGigoTv: [IOTA brutale NEWS ! ALGORAND kein gutes INVESTMENT ? Krypto news](https://www.youtube.com/watch?v=pEHgxJYYI2U)
-55. 
+55. **IOTA Audio**: Nächste Woche kommt Linus Nauman in den TangleGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1593597370297720832?s=20&t=ujKDz0s37BSsls6SGy1zLw)
 
 
 
