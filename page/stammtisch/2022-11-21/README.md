@@ -44,5 +44,14 @@
 42. **IOTA Event**: IOTA ist oft vertreten in der INATBA digital Blockchain week vom 22.-25-Nov.: [IF Tweet](https://twitter.com/iota/status/1593182162303717376?s=20)
 43. **IOTA Audio**: [Moonaco Podcast tweetet](https://twitter.com/MoonacoPodcast/status/1593196773082009601?s=20) über den neuen Podcast: [Episode 51: Cyril](https://open.spotify.com/episode/2DhlJ5fJjdlHRdnq4j0GhO?si=SAglWAjYQ2WBAuS6IYHIxQ&nd=1)
 44. **Shimmer Ping Pong**: [Shimmer Ping Pong](https://twitter.com/shimmernet/status/1593239552151281664?s=20) mit [DeFIRE](https://twitter.com/DeFIRE_org)
+45. **Shimmer Learn**: [Tutorial - Wallet Lib in JS - Send an NFT](https://www.youtube.com/watch?v=Qp5OhAozvQ8)
+46. **IOTA Ökosystem**: LendeXe hat ein Audit von Certix bestanden: [Tweet](https://twitter.com/LendeXeFinance/status/1593253818443390978?s=20&t=ujKDz0s37BSsls6SGy1zLw)
+47. **IOTA Ökosystem Event**: [Spyce.5](https://twitter.com/SPYCE_5) ist diese Woche bei dem Slush Event in Helsinki: [Tweet](https://twitter.com/SPYCE_5/status/1593515382660386816?s=20&t=ujKDz0s37BSsls6SGy1zLw)
+48. **IOTA Adoption**: [Dominique Guinard tweetet](https://twitter.com/domguinard/status/1593335600094105602?s=20&t=ujKDz0s37BSsls6SGy1zLw) über das Demo Video mit [Digimarc](https://twitter.com/digimarc): [A Blueprint for a Decentralized EU Digital Product Passport Model](https://www.youtube.com/watch?v=NfJ4yiyAriw)
+49. **IOTA Vidoe**: [Spec Weekly - Episode 26: Enter the Soonaverse](https://www.youtube.com/watch?v=qTh8z-7f758&feature=youtu.be)
+50. **IOTA Ökosystem**: Das [Soonaverse tweetet](https://twitter.com/soon_labs/status/1593483385640431616?s=20&t=ujKDz0s37BSsls6SGy1zLw) über ihren neuen Partner [FreeFlowDev](https://twitter.com/FreeflowDev) und ihren Blogpost: [The Soonaverse Announces Their First Solution Partner](https://soonlabs.medium.com/the-soonaverse-announces-their-first-solution-partner-4f859312e32f)
+51. **IOTA Artikel**: von Crypto News Flash: [„IOTA 2.0 ist ein lebendiges Biest“ – Große Updates für Konsensus, Tokenomics und Smart Contracts](https://www.crypto-news-flash.com/de/iota-ist-ein-lebendes-wesen-wichtige-updates-fuer-konsens-tokenomics-und-steuerung/)
+52. **IOTA Devs**: [Marco Besier tweetet](https://twitter.com/marcobesier/status/1593242603830403074?s=20&t=wEkBlr6Qnfmv41xleGUyDg) einige nützliche Links für Developer um mit Shimmer EVM zu starten
+
 
 
