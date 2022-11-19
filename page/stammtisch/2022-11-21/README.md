@@ -57,6 +57,9 @@
 55. **IOTA Audio**: Nächste Woche kommt Linus Nauman in den TangleGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1593597370297720832?s=20&t=ujKDz0s37BSsls6SGy1zLw)
 56. **IOTA Ökosystem**: [Iotaorigin tweetet](VcGBtVNpZ7Q4rt6) darüber, dass sie bei einem Startup Event dabei sind: [Startplatz Accelerator](https://www.startplatz.de/accelerator)
 57. **Crypto Adoption**: EBSI sucht Wallet Provider aus Europa: [Tweet](https://twitter.com/EU_EBSI/status/1593198732618731522?s=20&t=XskcS71FSNio22y4_jYqrA)
+58. **IOTA Ökosystem**: Mirium Labs will eine IOTA Army Community gründen: [Tweet](https://twitter.com/MirumLabs/status/1593929658080399361?s=20&t=L8vS_pRNbBwzS5pG-OPDvQ)
+59. **IOTA Ökosystem**: TanglePay Update angeblich mit Shimmer NFT Support: [Tweet](https://twitter.com/tanglepaycom/status/1593978806494076934?s=20&t=L8vS_pRNbBwzS5pG-OPDvQ)
+60. 
 
 
 
