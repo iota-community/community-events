@@ -52,14 +52,22 @@
 50. **IOTA Ökosystem**: Das [Soonaverse tweetet](https://twitter.com/soon_labs/status/1593483385640431616?s=20&t=ujKDz0s37BSsls6SGy1zLw) über ihren neuen Partner [FreeFlowDev](https://twitter.com/FreeflowDev) und ihren Blogpost: [The Soonaverse Announces Their First Solution Partner](https://soonlabs.medium.com/the-soonaverse-announces-their-first-solution-partner-4f859312e32f)
 51. **IOTA Artikel**: von Crypto News Flash: [„IOTA 2.0 ist ein lebendiges Biest“ – Große Updates für Konsensus, Tokenomics und Smart Contracts](https://www.crypto-news-flash.com/de/iota-ist-ein-lebendes-wesen-wichtige-updates-fuer-konsens-tokenomics-und-steuerung/)
 52. **IOTA Devs**: [Marco Besier tweetet](https://twitter.com/marcobesier/status/1593242603830403074?s=20&t=wEkBlr6Qnfmv41xleGUyDg) einige nützliche Links für Developer um mit Shimmer EVM zu starten
-53. **Crypto News**: [Binance tweetet](https://twitter.com/binance/status/1593531587337113600?s=20&t=ujKDz0s37BSsls6SGy1zLw) ein Promotion Video von C. Ronaldo für seine [NFT Serie](https://www.binance.com/en/nft/event/CristianoRonaldo)
+53. **Crypto News**: [Binance tweetet](https://twitter.com/binance/status/1593531587337113600?s=20&t=ujKDz0s37BSsls6SGy1zLw) ein Promotion Video von C. Ronaldo für seine [NFT Serie](https://www.binance.com/en/nft/event/CristianoRonaldo); Hier [tweetet](https://twitter.com/Cristiano/status/1594359923537846273?s=20&t=BYZu_mr4BGt6eB-FIC23IA) er nochmal darüber
 54. **IOTA Youtube**: von ItsGigoTv: [IOTA brutale NEWS ! ALGORAND kein gutes INVESTMENT ? Krypto news](https://www.youtube.com/watch?v=pEHgxJYYI2U)
 55. **IOTA Audio**: Nächste Woche kommt Linus Nauman in den TangleGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1593597370297720832?s=20&t=ujKDz0s37BSsls6SGy1zLw)
 56. **IOTA Ökosystem**: [Iotaorigin tweetet](VcGBtVNpZ7Q4rt6) darüber, dass sie bei einem Startup Event dabei sind: [Startplatz Accelerator](https://www.startplatz.de/accelerator)
 57. **Crypto Adoption**: EBSI sucht Wallet Provider aus Europa: [Tweet](https://twitter.com/EU_EBSI/status/1593198732618731522?s=20&t=XskcS71FSNio22y4_jYqrA)
 58. **IOTA Ökosystem**: Mirium Labs will eine IOTA Army Community gründen: [Tweet](https://twitter.com/MirumLabs/status/1593929658080399361?s=20&t=L8vS_pRNbBwzS5pG-OPDvQ)
 59. **IOTA Ökosystem**: TanglePay Update angeblich mit Shimmer NFT Support: [Tweet](https://twitter.com/tanglepaycom/status/1593978806494076934?s=20&t=L8vS_pRNbBwzS5pG-OPDvQ)
-60. 
+60. **IOTA Audio**: Die Auzeichnung von dem 3h Gespräch mit Jonas Theis in der TangleGang ist jetzt im TelegramChannel zu finden: [Tweet](https://twitter.com/GangTangleTalk/status/1594132358076452865?s=20&t=PULoRtW4eyXY50id0tLxzQ) Jonas ist jetzt auch auf Twitter: [Tweet](https://twitter.com/jonastheis_/status/1594344992327274498?s=20&t=PULoRtW4eyXY50id0tLxzQ)
+61. **Twitter Drama**: Poll über die 1-2 Wochen von Hans war recht eindeutig: [Tweet](https://twitter.com/Vrom14286662/status/1593536423302467587?s=20&t=PULoRtW4eyXY50id0tLxzQ)
+62. **IOTA Dev**: Es gibt jetzt eine [Iota or Shimmer Wallet Library focusing on Stardust. For C# CSharp .NET implementation of wallet.rs using rust bindings and P/Invoke](https://github.com/IOTA-NET/IotaWallet.NET)
+63. **Allgemeine News**: [Elon Musk tweetet](https://twitter.com/elonmusk/status/1594131768298315777?s=20&t=PULoRtW4eyXY50id0tLxzQ) nach einer Twitter Abstimmung, dass Trump wieder freigeschaltet wird
+64. **IOTA Youtube**: von IotaPoet: [Why We Need IOTA/Shimmer more than EVER!](https://www.youtube.com/watch?v=Ymzm5FqIi1g)
+65. **Crypto Drama**: Der FTX Hacker dumpt wohl jetzt seine $270m ETH: [Tweet](https://twitter.com/kamikaz_ETH/status/1594257499129270273?t=OPsaydQuE477yy1i0Fq1tw&s=19); [ETH Adresse](https://etherscan.io/address/0x59abf3837fa962d6853b4cc0a19513aa031fd32b)
+66. **IOTA Youtube**: Ein für mich bisher [unbekanntes Video mit vielen Rückblicken zu IOTA](https://www.youtube.com/watch?v=p7W4C8afdgo)
+67. **Crypto Adaption**: Joe Biden hat sich scheinbar für eine Bitcoin Regulierung ausgesprochen nach dem FTX Drama: [Tweet](https://twitter.com/BitcoinMagazine/status/1594404979116310529?s=20&t=BYZu_mr4BGt6eB-FIC23IA)
+68. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/238-wochenr%C3%BCckblick-vom-13-bis-19-november-2022/)
 
 
 
