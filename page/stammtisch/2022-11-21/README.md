@@ -61,7 +61,7 @@
 59. **IOTA Ökosystem**: [TanglePay](https://twitter.com/tanglepaycom) Update angeblich mit Shimmer NFT Support: [Tweet](https://twitter.com/tanglepaycom/status/1593978806494076934?s=20&t=L8vS_pRNbBwzS5pG-OPDvQ)
 60. **IOTA Audio**: Die Aufeichnung von dem 3h Gespräch mit Jonas Theis in der TangleGang ist jetzt im Telegram Channel [IOTA D/A/CH News](https://t.me/IOTA_DACH_NEWS) oder in der [TangleGang](https://t.me/tangle_gang) zu finden: [Tweet](https://twitter.com/GangTangleTalk/status/1594132358076452865?s=20&t=PULoRtW4eyXY50id0tLxzQ) Jonas ist jetzt auch auf Twitter: [Tweet](https://twitter.com/jonastheis_/status/1594344992327274498?s=20&t=PULoRtW4eyXY50id0tLxzQ)
 61. **Twitter Drama**: Die Umfrage zu den 1-2 Wochen von Hans war recht eindeutig: [Tweet](https://twitter.com/Vrom14286662/status/1593536423302467587?s=20&t=PULoRtW4eyXY50id0tLxzQ)
-62. **IOTA Dev**: Es gibt jetzt auf GitHub eine [Iota or Shimmer Wallet Library focusing on Stardust. For C# CSharp .NET implementation of wallet.rs using rust bindings and P/Invoke](https://github.com/IOTA-NET/IotaWallet.NET)
+62. **IOTA Dev**: [Iota Wallet Net tweetet](https://twitter.com/iotawalletnet/status/1594219895142903808?s=20&t=Za75c4soiTtviH5aLkcAMg) über das neue GitHub Repro:: [Iota or Shimmer Wallet Library focusing on Stardust. For C# CSharp .NET implementation of wallet.rs using rust bindings and P/Invoke](https://github.com/IOTA-NET/IotaWallet.NET)
 63. **Allgemeine News**: [Elon Musk tweetet](https://twitter.com/elonmusk/status/1594131768298315777?s=20&t=PULoRtW4eyXY50id0tLxzQ) nach einer Twitter Abstimmung, dass Trump wieder freigeschaltet wird
 64. **IOTA Youtube**: von [IotaPoet](https://twitter.com/IotaPoet): [Why We Need IOTA/Shimmer more than EVER!](https://www.youtube.com/watch?v=Ymzm5FqIi1g)
 65. **Crypto Drama**: Der FTX Hacker dumpt wohl jetzt seine $270m ETH: [Tweet](https://twitter.com/kamikaz_ETH/status/1594257499129270273?t=OPsaydQuE477yy1i0Fq1tw&s=19); [ETH Adresse](https://etherscan.io/address/0x59abf3837fa962d6853b4cc0a19513aa031fd32b)
@@ -70,6 +70,8 @@
 68. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/238-wochenr%C3%BCckblick-vom-13-bis-19-november-2022/)
 69. **Crypto Drama**: Ripple will jetzt Teile von FTX kaufen: [Ripple Intends to Buy FTX's Assets](https://u.today/ripple-intends-to-buy-ftx-assets)
 70. **IOTA Ökosystem**: [ShimmerSea tweetet](https://twitter.com/ShimmerSeaDEX/status/1594585149206777862?s=20&t=BYCsDVMChFw7Rq0m2huCow) darüber, dass sie jetzt auch einen NFT Marktplatz anbieten werden und verlinken den Blogpost: [ShimmerSea’s NFT Marketplace](https://medium.com/@shimmerseadefi/shimmerseas-nft-marketplace-6ebbbed04075)
+71. **IOTA Adaption**: Die [IF tweetet](https://twitter.com/iota/status/1594681980582760449?s=20&t=Za75c4soiTtviH5aLkcAMg) über EBSI und darüber, dass sie unter den letzten 3 sind. Hier das offizielle Announcement von der EU: [European Blockchain Pre-Commercial Procurement](https://digital-strategy.ec.europa.eu/en/news/european-blockchain-pre-commercial-procurement); [Dom retweetet das](https://twitter.com/DomSchiener/status/1594682249718398976?s=20&t=BYCsDVMChFw7Rq0m2huCow) mit "Yes it's true! ..."
+
 
 
 
