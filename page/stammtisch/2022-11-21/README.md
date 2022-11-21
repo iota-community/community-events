@@ -42,7 +42,7 @@
 40. **Crypto Drama**: [Dom Schiener regt sich über SBF von FTX auf](https://twitter.com/DomSchiener/status/1592942409088118784?s=20), weil Mama und Papa ihn retten sollen und er sich nicht um die Leute sorgt die durch ihn alles verloren haben
 41. **Crypto Adaption**: Christoph Strnadl war bei einem GaiaX Event und hat dazu einige Tweets [auf seinem Twitter Profil](https://twitter.com/archimate) gepostet
 42. **IOTA Event**: IOTA ist oft vertreten in der INATBA digital Blockchain Week vom 22.-25-Nov.: [IF Tweet](https://twitter.com/iota/status/1593182162303717376?s=20)
-43. **IOTA Audio**: [Moonaco Podcast tweetet](https://twitter.com/MoonacoPodcast/status/1593196773082009601?s=20) über den neuen Podcast: [Episode 51 mit [Cyril](https://twitter.com/cyrilXBT)](https://open.spotify.com/episode/2DhlJ5fJjdlHRdnq4j0GhO?si=SAglWAjYQ2WBAuS6IYHIxQ&nd=1)
+43. **IOTA Audio**: [Moonaco Podcast tweetet](https://twitter.com/MoonacoPodcast/status/1593196773082009601?s=20) über den neuen Podcast: [Episode 51 mit Cyril](https://open.spotify.com/episode/2DhlJ5fJjdlHRdnq4j0GhO?si=SAglWAjYQ2WBAuS6IYHIxQ&nd=1)
 44. **Shimmer Ping Pong**: [Shimmer Ping Pong](https://twitter.com/shimmernet/status/1593239552151281664?s=20) mit [DeFIRE](https://twitter.com/DeFIRE_org)
 45. **Shimmer Learn**: IF Youtube [Tutorial - Wallet Lib in JS - Send an NFT](https://www.youtube.com/watch?v=Qp5OhAozvQ8)
 46. **IOTA Ökosystem**: [LendeXe](https://twitter.com/LendeXeFinance) hat ein Audit von [CertiK](https://twitter.com/CertiK) bestanden: [Tweet](https://twitter.com/LendeXeFinance/status/1593253818443390978?s=20&t=ujKDz0s37BSsls6SGy1zLw)
