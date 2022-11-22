@@ -8,3 +8,5 @@
 6. **Shimmer Promote**: [Crypto Nova (15K Follower] tweetet](https://twitter.com/CryptoGirlNova/status/1574866255428943872?s=20&t=v8LfXrpQkfO0Taa42lgP-Q) in 14 Tweet über die Vorteile von Shimmer
 7. **IOTA Promote**: [Marianna de la Roche tweetet](https://twitter.com/Marianadlrw/status/1594977046823829504?s=20&t=v8LfXrpQkfO0Taa42lgP-Q) in 8 Tweets eine Zusammenfassung zu dem Cardano Summit auf den sie eingeladen war
 8. **IOTA Youtube**: von Whales of Wallstreet: [IOTA | MEGA NEWS - Selected by European Commission & Chart Update](https://www.youtube.com/watch?v=6f35xOXaNik)
+9. **IOTA Event**: INATBA wird von Marianna de la Roche  [IF] auf der Digital Blockchain Week repräsentiert: [Tweet](https://twitter.com/Marianadlrw/status/1595004742274539520?s=20&t=v8LfXrpQkfO0Taa42lgP-Q)
+10. **IOTA Artikel**: von Crypto News Flash: [IOTA schafft es in die Finalrunde des EU-Blockchain-Wettbewerbs – Wird MIOTA Kurs auf 2$ steigen?](https://www.crypto-news-flash.com/de/iota-ist-im-finale-eu-blockchain-beschaffungsverfahrens/)
