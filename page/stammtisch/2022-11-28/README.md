@@ -1,0 +1,5 @@
+## IOTA Stammtischthemen für Montag, den 28.12.2022
+
+1. **IOTA Quicktakes**: [IF Tweets](https://twitter.com/iota/status/1594631853268426754?s=20&t=MSlHutIiUKW6oWDkbUp-xw) zu den [IOTA Quicktakes 21.11.2022: New Shimmer Governance Proposals, Flippin' Burgers Ep.3 & Office Hours](https://www.youtube.com/watch?v=lZTC80kNmmc)
+2. **IOTA Adaption**: [Alexander Süssemilch tweetet](https://twitter.com/asuessemilch/status/1594793466256564226?s=20&t=MSlHutIiUKW6oWDkbUp-xw) ein Video von [trive.me](https://twitter.com/triveme): [IOTA Wallet App - "Login mit Wallet" in zwei prototypischen Mobilitäts-Apps](https://www.youtube.com/watch?v=4SlGKDXbK5c)
+3. **IOTA Youtube**: von IotaPoet: [HUGE NEWS: IOTA is officially a European Blockchain Finalist #EBSI](https://www.youtube.com/watch?v=i-Omc7i1N0I)
