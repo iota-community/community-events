@@ -12,4 +12,8 @@
 10. **IOTA Artikel**: von Crypto News Flash: [IOTA schafft es in die Finalrunde des EU-Blockchain-Wettbewerbs – Wird MIOTA Kurs auf 2$ steigen?](https://www.crypto-news-flash.com/de/iota-ist-im-finale-eu-blockchain-beschaffungsverfahrens/)
 11. **IOTA Ökosystem**: [Impierce Technologies tweetet](https://twitter.com/ImpierceTech/status/1594975952576151552?s=20&t=B8BKLC9wiSwsyX6aJl8Zzw) darüber, dass sie gerade bei der [Dutch Blockchain Week](https://dutchblockchainweek.com/investor-track/) Angle Investoren suchen (und finden). Sie vergeben €30k for 1% of the shares: [Tweet](https://twitter.com/ImpierceTech/status/1594975954962907136?s=20&t=B8BKLC9wiSwsyX6aJl8Zzw)
 12. **Twitter Drama**: [Eric Wall tweetet](https://twitter.com/ercwl/status/1595124395852562432?s=20&t=Te_57oQz-i5xIF4PTABO0w) mal wieder einen Sidekick zum Coordicide und viele aus der IOTA Community reagieren darauf: [Hans Moogs Tweets](https://twitter.com/hus_qy/status/1595171900892000256?s=20&t=Te_57oQz-i5xIF4PTABO0w); [Dom Schiener Tweet](https://twitter.com/DomSchiener/status/1595131997651079168?s=20&t=Te_57oQz-i5xIF4PTABO0w); [Navin R. Tweet](https://twitter.com/navinram999/status/1595201592462032897?s=20&t=Te_57oQz-i5xIF4PTABO0w);...
+13. **Twitter Drama**: Hans Moog bezeichnet Cardanos eUTXO Lösung als "complete disaster": [Tweet](https://twitter.com/hus_qy/status/1595190503762337792?s=20&t=Te_57oQz-i5xIF4PTABO0w)
+14. **IOTA Dev Update**: [Protocol group - Weeks 46 - 47 #62](https://github.com/iotaledger/research-updates/discussions/62)
+15. **Twitter Hype**: Hans Moog: "we are just getting started": [Tweet](https://twitter.com/hus_qy/status/1594790610627600409?s=20&t=Te_57oQz-i5xIF4PTABO0w)
+16. 
 
