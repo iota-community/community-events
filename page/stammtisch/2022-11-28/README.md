@@ -15,5 +15,7 @@
 13. **Twitter Drama**: Hans Moog bezeichnet Cardanos eUTXO Lösung als "complete disaster": [Tweet](https://twitter.com/hus_qy/status/1595190503762337792?s=20&t=Te_57oQz-i5xIF4PTABO0w)
 14. **IOTA Dev Update**: [Protocol group - Weeks 46 - 47 #62](https://github.com/iotaledger/research-updates/discussions/62)
 15. **Twitter Hype**: Hans Moog: "we are just getting started": [Tweet](https://twitter.com/hus_qy/status/1594790610627600409?s=20&t=Te_57oQz-i5xIF4PTABO0w)
-16. 
+16. **IOTA Governement**: Es soll eine Version 3 geben, damit von einem Community Projekt nicht mehr als einer dabei sein darf: [Tweet](https://twitter.com/ShimmerGov/status/1595097648528343041?s=20&t=Te_57oQz-i5xIF4PTABO0w)
+17. **IOTA Ökosystem**: [Pipe tweetet](https://twitter.com/Tanglehub_eu/status/1595348880807395329?s=20&t=Te_57oQz-i5xIF4PTABO0w), dass ihre Daten "quantum secure" sind
+18. **IOTA Event**: Mariana de la Roche war bei einem Event (NextblockExpo): [Tweet](https://twitter.com/Marianadlrw/status/1595415295212019713?s=20&t=Te_57oQz-i5xIF4PTABO0w)
 
