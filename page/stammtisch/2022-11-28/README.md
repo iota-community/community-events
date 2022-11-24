@@ -24,5 +24,8 @@
 22. **IOTA Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1595632769337462784?s=20&t=M6ekz_CW1zV7r9gm0VekCA), über ihren Blogpost: [Updates to Space and Proposal Management](https://soonlabs.medium.com/updates-to-spaces-and-proposals-a7766d004213)
 23. **Crypto Drama**: NyTimes Event mit SBF soll weiterhin stattfinden: [Tweet von SBF](https://twitter.com/SBF_FTX/status/1595512579417378837?s=20&t=M6ekz_CW1zV7r9gm0VekCA); Selbst [Elon Musk frägt](https://twitter.com/elonmusk/status/1595587988926664704?s=20&t=M6ekz_CW1zV7r9gm0VekCA) sich was das soll
 24. **IOTA Ökosystem**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1595416891971047424?s=20&t=M6ekz_CW1zV7r9gm0VekCA), dass DarkMythos dem Open Builder Program beigetreten ist und verlinkt den Blogpost: [Dark Mythos Joins Touchpoint Open Builders Program](https://blog.shimmer.network/dark-mythos-becomes-part-of-touchpoint-open-builders-program/)
+25. **NFT Adaption**: Porsche NFTs soon: [Tweet](https://twitter.com/Porsche/status/1594826400233828354?s=20&t=ZIdlOVPJAZwNRTcga7N8hw)
+26. **Crypto Drama**: C. Hoskinson kritisiert ETH Staking als "Hotel California". "You can check out any time you like. But you can never leave": [Tweet](https://twitter.com/Cointelegraph/status/1595560371670114305?s=20&t=aA_Gu9SVlImHb1TAAC1cvA)
+27. **Crypto Mining**: Erste Miner gehen pleite: Artikel vom Blogtrainer: [Bitcoin Mining-Unternehmen „Iris Energy“ muss Geräte abschalten!](https://www.blocktrainer.de/iris-energy-muss-abschalten/)
 
 
