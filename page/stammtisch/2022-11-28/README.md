@@ -27,5 +27,11 @@
 25. **NFT Adaption**: Porsche NFTs soon: [Tweet](https://twitter.com/Porsche/status/1594826400233828354?s=20&t=ZIdlOVPJAZwNRTcga7N8hw)
 26. **Crypto Drama**: C. Hoskinson kritisiert ETH Staking als "Hotel California". "You can check out any time you like. But you can never leave": [Tweet](https://twitter.com/Cointelegraph/status/1595560371670114305?s=20&t=aA_Gu9SVlImHb1TAAC1cvA)
 27. **Crypto Mining**: Erste Miner gehen pleite: Artikel vom Blogtrainer: [Bitcoin Mining-Unternehmen „Iris Energy“ muss Geräte abschalten!](https://www.blocktrainer.de/iris-energy-muss-abschalten/)
+28. **Metamask Aufschrei**: Infura der RPC Provider in Metamask will IP Adressen tracken: [Tweet](https://twitter.com/hoss_crypto/status/1595699132181749760?s=20&t=bFhMRjOhKEWZZCmAGqjIxQ)
+29. **IOTA Event**: [TangleCon sucht Speacker](https://twitter.com/TangleCon/status/1595751174136893440?s=20&t=bFhMRjOhKEWZZCmAGqjIxQ) für das [TangleCon 2023 im May](https://reg.eventmobi.com/tanglecon)
+30. **IOTA Audio**: Der [Moonaco Podcast tweetet](https://twitter.com/MoonacoPodcast/status/1595734048403607552?s=20&t=kVqy94DQxLkq3JCLaxI9eQ) über den neuen Podcast mit ApeDAO: [Episode 52: ApeDAO](https://open.spotify.com/episode/5NaTed362RnjnZaw41CrZJ?si=ATS2irmSScmOwJR2N1KDPw&nd=1) 
+31. **Crypto News**: [Vitalik Buterin tweetet](https://twitter.com/VitalikButerin/status/1595754446042333197?s=20&t=kVqy94DQxLkq3JCLaxI9eQ) über das Treffen der ETH devs bezüglich EIP-4844 (proto-danksharding) und darüber, dass dadurch die Fees in L2 deutlich runter gehen würden
+32. **IOTA Youtube**: von It's Gigo TV: [IOTA übernimmt ALLES ! CARDANO MEGA UPDATE ! Krypto news](https://www.youtube.com/watch?v=9W7onDSqCnA)
+33. **IOTA Audio**: Linus Naumann war im TangleGang Sprachchat: [Tweet]8https://twitter.com/GangTangleTalk/status/1595781200261570563)
 
 
