@@ -18,4 +18,8 @@
 16. **IOTA Governement**: Es soll eine Version 3 geben, damit von einem Community Projekt nicht mehr als einer dabei sein darf: [Tweet](https://twitter.com/ShimmerGov/status/1595097648528343041?s=20&t=Te_57oQz-i5xIF4PTABO0w)
 17. **IOTA Ökosystem**: [Pipe tweetet](https://twitter.com/Tanglehub_eu/status/1595348880807395329?s=20&t=Te_57oQz-i5xIF4PTABO0w), dass ihre Daten "quantum secure" sind
 18. **IOTA Event**: Mariana de la Roche war bei einem Event (NextblockExpo): [Tweet](https://twitter.com/Marianadlrw/status/1595415295212019713?s=20&t=Te_57oQz-i5xIF4PTABO0w)
+19. **IOTA Artikel**: von Bitcoin Echo: [IOTA-Mitgründer Dominik Schiener “Wir sind sehr zufrieden mit der Entwicklung von Shimmer”](https://www.btc-echo.de/news/iota-sehr-zufrieden-mit-der-entwicklung-von-shimmer-154906/)
+20. **IOTA Nodes**: SWARM v2.7.5 wurde released.: [Tweet](https://twitter.com/tanglebay/status/1595544714320699393?s=20&t=M6ekz_CW1zV7r9gm0VekCA)
+21. **IOTA Newsletter**: TangleVerse verschickt den ersten TangleVerse Newsletter: [Tweet](https://twitter.com/TangleVerseWeb/status/1595507908971794455?s=20&t=M6ekz_CW1zV7r9gm0VekCA)
+
 
