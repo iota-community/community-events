@@ -20,6 +20,9 @@
 18. **IOTA Event**: Mariana de la Roche war bei einem Event (NextblockExpo): [Tweet](https://twitter.com/Marianadlrw/status/1595415295212019713?s=20&t=Te_57oQz-i5xIF4PTABO0w)
 19. **IOTA Artikel**: von Bitcoin Echo: [IOTA-Mitgründer Dominik Schiener “Wir sind sehr zufrieden mit der Entwicklung von Shimmer”](https://www.btc-echo.de/news/iota-sehr-zufrieden-mit-der-entwicklung-von-shimmer-154906/)
 20. **IOTA Nodes**: SWARM v2.7.5 wurde released.: [Tweet](https://twitter.com/tanglebay/status/1595544714320699393?s=20&t=M6ekz_CW1zV7r9gm0VekCA)
-21. **IOTA Newsletter**: TangleVerse verschickt den ersten TangleVerse Newsletter: [Tweet](https://twitter.com/TangleVerseWeb/status/1595507908971794455?s=20&t=M6ekz_CW1zV7r9gm0VekCA)
+21. **IOTA Newsletter**: TangleVerse verschickt den ersten TangleVerse Newsletter: [Tweet](https://twitter.com/TangleVerseWeb/status/1595507908971794455?s=20&t=M6ekz_CW1zV7r9gm0VekCA); Hier die [Webseite von Tangleverse.io](https://tangleverse.io/); [Tweets über TangleVerse](https://twitter.com/2xnmore/status/1595707105549242370?s=20&t=M6ekz_CW1zV7r9gm0VekCA)
+22. **IOTA Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1595632769337462784?s=20&t=M6ekz_CW1zV7r9gm0VekCA), über ihren Blogpost: [Updates to Space and Proposal Management](https://soonlabs.medium.com/updates-to-spaces-and-proposals-a7766d004213)
+23. **Crypto Drama**: NyTimes Event mit SBF soll weiterhin stattfinden: [Tweet von SBF](https://twitter.com/SBF_FTX/status/1595512579417378837?s=20&t=M6ekz_CW1zV7r9gm0VekCA); Selbst [Elon Musk frägt](https://twitter.com/elonmusk/status/1595587988926664704?s=20&t=M6ekz_CW1zV7r9gm0VekCA) sich was das soll
+24. **IOTA Ökosystem**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1595416891971047424?s=20&t=M6ekz_CW1zV7r9gm0VekCA), dass DarkMythos dem Open Builder Program beigetreten ist und verlinkt den Blogpost: [Dark Mythos Joins Touchpoint Open Builders Program](https://blog.shimmer.network/dark-mythos-becomes-part-of-touchpoint-open-builders-program/)
 
 
