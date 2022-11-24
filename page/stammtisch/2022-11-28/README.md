@@ -33,5 +33,6 @@
 31. **Crypto News**: [Vitalik Buterin tweetet](https://twitter.com/VitalikButerin/status/1595754446042333197?s=20&t=kVqy94DQxLkq3JCLaxI9eQ) über das Treffen der ETH devs bezüglich EIP-4844 (proto-danksharding) und darüber, dass dadurch die Fees in L2 deutlich runter gehen würden
 32. **IOTA Youtube**: von It's Gigo TV: [IOTA übernimmt ALLES ! CARDANO MEGA UPDATE ! Krypto news](https://www.youtube.com/watch?v=9W7onDSqCnA)
 33. **IOTA Audio**: Linus Naumann war im TangleGang Sprachchat: [Tweet]8https://twitter.com/GangTangleTalk/status/1595781200261570563)
+34. **IOTA Ökosystem**: [Tangleverse tweetet](https://twitter.com/TangleVerseWeb/status/1595457544973074433?s=20) ein Video das beschreibt, wie leicht man ein Projekt hinzufügen kann
 
 
