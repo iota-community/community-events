@@ -39,7 +39,8 @@
 37. **IOTA Event**: Mariana de la Roche war bei einem Event vom Umweltbundesamt: [Tweet vom IoT+Coffee Break: Sustainability](https://twitter.com/IOTplus_Network/status/1596048503553331200?s=20&t=4VnNZLBpxs3XRSWlBJj1Xw)
 38. **IOTA Community**: [IOTA Army tweetet](https://twitter.com/IotaArmy_/status/1595919240703447045?s=20&t=4VnNZLBpxs3XRSWlBJj1Xw) darüber, dass es jetzt die Webseite [iotaarmy.com](https://iotaarmy.com/) gibt
 39. **IOTA Ökosystem**: [TangleHub tweetet](https://twitter.com/Tanglehub_eu/status/1596103667287195648?s=20&t=JmzI_M7xl8qxwyz2CSwBDg) über ein Demo-Video ([PIPE Demo by TangleHUB](https://www.youtube.com/watch?v=s2c94O6Q4KE)) indem scheinbar das Uploaden und Downloaden von files auf einem dezentralen Datenspeicher gezeigt wird.
-40. 
+40. **IOTA Ökosystem**: [Regine von Spyce_5 tweetet](https://twitter.com/Energine/status/1596135123183112193?s=20&t=JmzI_M7xl8qxwyz2CSwBDg) darüber, dass sie sich mit der Politik getroffen hat. Es geht um ein AI Innovationspark wo IOTA offenbar eine Rolle spielt...
+41. **IOTA Konkurenz**: Hans Moog vs. Fantom: [Tweet](https://twitter.com/hus_qy/status/1596129431395139585?s=20&t=JmzI_M7xl8qxwyz2CSwBDg)
 
 
 
