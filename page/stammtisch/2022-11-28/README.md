@@ -32,7 +32,14 @@
 30. **IOTA Audio**: Der [Moonaco Podcast tweetet](https://twitter.com/MoonacoPodcast/status/1595734048403607552?s=20&t=kVqy94DQxLkq3JCLaxI9eQ) über den neuen Podcast mit ApeDAO: [Episode 52: ApeDAO](https://open.spotify.com/episode/5NaTed362RnjnZaw41CrZJ?si=ATS2irmSScmOwJR2N1KDPw&nd=1) 
 31. **Crypto News**: [Vitalik Buterin tweetet](https://twitter.com/VitalikButerin/status/1595754446042333197?s=20&t=kVqy94DQxLkq3JCLaxI9eQ) über das Treffen der ETH devs bezüglich EIP-4844 (proto-danksharding) und darüber, dass dadurch die Fees in L2 deutlich runter gehen würden
 32. **IOTA Youtube**: von It's Gigo TV: [IOTA übernimmt ALLES ! CARDANO MEGA UPDATE ! Krypto news](https://www.youtube.com/watch?v=9W7onDSqCnA)
-33. **IOTA Audio**: Linus Naumann war im TangleGang Sprachchat: [Tweet]8https://twitter.com/GangTangleTalk/status/1595781200261570563)
+33. **IOTA Audio**: Linus Naumann war im TangleGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1595781200261570563)
 34. **IOTA Ökosystem**: [Tangleverse tweetet](https://twitter.com/TangleVerseWeb/status/1595457544973074433?s=20) ein Video das beschreibt, wie leicht man ein Projekt hinzufügen kann
+35. **IOTA Youtube**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1596051067866820608?s=20&t=4VnNZLBpxs3XRSWlBJj1Xw) über das IF Tutorial: [Tutorial - Wallet Lib in JS - Burn NFTs](https://www.youtube.com/watch?v=8v5eR5_vwIw)
+36. **IOTA Youtube**: von CryptoCoinShow mit Dom Schiener: [Dominik Schiener, Co-Founder & Chairman of IOTA Foundation on Shimmer | Blockchain Interviews](https://www.youtube.com/watch?v=Qmph2lIyDgM)
+37. **IOTA Event**: Mariana de la Roche war bei einem Event vom Umweltbundesamt: [Tweet vom IoT+Coffee Break: Sustainability](https://twitter.com/IOTplus_Network/status/1596048503553331200?s=20&t=4VnNZLBpxs3XRSWlBJj1Xw)
+38. **IOTA Community**: [IOTA Army tweetet](https://twitter.com/IotaArmy_/status/1595919240703447045?s=20&t=4VnNZLBpxs3XRSWlBJj1Xw) darüber, dass es jetzt die Webseite [iotaarmy.com](https://iotaarmy.com/) gibt
+
+
+
 
 
