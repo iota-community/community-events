@@ -38,6 +38,8 @@
 36. **IOTA Youtube**: von CryptoCoinShow mit Dom Schiener: [Dominik Schiener, Co-Founder & Chairman of IOTA Foundation on Shimmer | Blockchain Interviews](https://www.youtube.com/watch?v=Qmph2lIyDgM)
 37. **IOTA Event**: Mariana de la Roche war bei einem Event vom Umweltbundesamt: [Tweet vom IoT+Coffee Break: Sustainability](https://twitter.com/IOTplus_Network/status/1596048503553331200?s=20&t=4VnNZLBpxs3XRSWlBJj1Xw)
 38. **IOTA Community**: [IOTA Army tweetet](https://twitter.com/IotaArmy_/status/1595919240703447045?s=20&t=4VnNZLBpxs3XRSWlBJj1Xw) darüber, dass es jetzt die Webseite [iotaarmy.com](https://iotaarmy.com/) gibt
+39. **IOTA Ökosystem**: [TangleHub tweetet](https://twitter.com/Tanglehub_eu/status/1596103667287195648?s=20&t=JmzI_M7xl8qxwyz2CSwBDg) über ein Demo-Video ([PIPE Demo by TangleHUB](https://www.youtube.com/watch?v=s2c94O6Q4KE)) indem scheinbar das Uploaden und Downloaden von files auf einem dezentralen Datenspeicher gezeigt wird.
+40. 
 
 
 
