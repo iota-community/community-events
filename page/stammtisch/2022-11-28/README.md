@@ -41,6 +41,7 @@
 39. **IOTA Ökosystem**: [TangleHub tweetet](https://twitter.com/Tanglehub_eu/status/1596103667287195648?s=20&t=JmzI_M7xl8qxwyz2CSwBDg) über ein Demo-Video ([PIPE Demo by TangleHUB](https://www.youtube.com/watch?v=s2c94O6Q4KE)) indem scheinbar das Uploaden und Downloaden von files auf einem dezentralen Datenspeicher gezeigt wird.
 40. **IOTA Ökosystem**: [Regine von Spyce_5 tweetet](https://twitter.com/Energine/status/1596135123183112193?s=20&t=JmzI_M7xl8qxwyz2CSwBDg) darüber, dass sie sich mit der Politik getroffen hat. Es geht um ein AI Innovationspark wo IOTA offenbar eine Rolle spielt...
 41. **IOTA Konkurenz**: Hans Moog vs. Fantom: [Tweet](https://twitter.com/hus_qy/status/1596129431395139585?s=20&t=JmzI_M7xl8qxwyz2CSwBDg)
+42. **IOTA Drama**: [Eric Wall Tweetstorm](https://twitter.com/ercwl/status/1596133714370891776?s=20&t=JmzI_M7xl8qxwyz2CSwBDg) über alte Geschichten und "wasting my time"
 
 
 
