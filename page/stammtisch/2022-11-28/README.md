@@ -43,6 +43,9 @@
 41. **IOTA Konkurenz**: Hans Moog vs. Fantom: [Tweet](https://twitter.com/hus_qy/status/1596129431395139585?s=20&t=JmzI_M7xl8qxwyz2CSwBDg)
 42. **IOTA Drama**: [Eric Wall Tweetstorm](https://twitter.com/ercwl/status/1596133714370891776?s=20&t=JmzI_M7xl8qxwyz2CSwBDg) über alte Geschichten und "wasting my time"; [Dom Schiener stimmt ihm zu](https://twitter.com/DomSchiener/status/1596157095694696455?s=20&t=LYJD9Z0RPh3fGpxrwJ0dpw)
 43. **IOTA Artikel**: von Crypto News Flash: [IOTA: TangleHUB wird in das Accelerator-Programm aufgenommen, um die Entwicklung des Ökosystems und die Akzeptanz zu fördern](https://www.crypto-news-flash.com/de/iota-tanglehub-wird-teil-des-acceleator-programms-zur-entwicklung-des-oekosystems-und-der-akzeptanz/)
+44. **IOTA Learn**: [Evaldas tweetet](https://twitter.com/lunfardo314/status/1596454597681446913?s=20&t=rD4s0LOLAwpppkkNbN6S5Q) den Teil 1 von seiner 4 teiligen Erklärungsreihe zu dem "constraint-based EasyUTXO model" was IOTA verwendet: [A constraint-based UTXO model (1/4)](https://medium.com/@lunfardo/a-constraint-based-utxo-model-1-4-a61df1b0c724)
+45. **Crypto Drama**: [BitBoy Crypto tweetet](https://twitter.com/Bitboy_Crypto/status/1596426010978926592?s=20&t=rD4s0LOLAwpppkkNbN6S5Q) darüber, dass Solana ein Scam ist und mit Alameda Research. Hier noch ein [Tweet](https://twitter.com/Bitboy_Crypto/status/1596423423042920448?s=20&t=rD4s0LOLAwpppkkNbN6S5Q) dazu und hier [ein Tweet](https://twitter.com/Bitboy_Crypto/status/1596476792226750464?s=20&t=rD4s0LOLAwpppkkNbN6S5Q), dass Alameda Research 13,25% aller Coins von Solana hat
+
 
 
 
