@@ -3,7 +3,7 @@
 1. **IOTA Quicktakes**: [IF Tweets](https://twitter.com/iota/status/1594631853268426754?s=20&t=MSlHutIiUKW6oWDkbUp-xw) zu den [IOTA Quicktakes 21.11.2022: New Shimmer Governance Proposals, Flippin' Burgers Ep.3 & Office Hours](https://www.youtube.com/watch?v=lZTC80kNmmc)
 2. **IOTA Adaption**: [Alexander Süssemilch tweetet](https://twitter.com/asuessemilch/status/1594793466256564226?s=20&t=MSlHutIiUKW6oWDkbUp-xw) ein Video von [trive.me](https://twitter.com/triveme): [IOTA Wallet App - "Login mit Wallet" in zwei prototypischen Mobilitäts-Apps](https://www.youtube.com/watch?v=4SlGKDXbK5c)
 3. **IOTA Youtube**: von [IotaPoet](https://twitter.com/IotaPoet): [HUGE NEWS: IOTA is officially a European Blockchain Finalist #EBSI](https://www.youtube.com/watch?v=i-Omc7i1N0I)
-4. **IOTA Event**: Es gibt wieder ein IOTA Sternstunden Event am 9. Dezember: [Tweet](https://twitter.com/iotashop/status/1594971023862022145?s=20&t=v8LfXrpQkfO0Taa42lgP-Q)
+4. **IOTA Event**: Es gibt wieder ein IOTA Sternstunden Event am 9. Dezember: [Tweet](https://twitter.com/iotashop/status/1594971023862022145?s=20&t=v8LfXrpQkfO0Taa42lgP-Q); Das Video wird auf Youtube Live gestreamed: [IOTA Review 2022 - Preview 2023](https://www.youtube.com/watch?v=n2vBD-oFgYg)
 5. **Crypto Adaption**: Bitpanda erhält Bafin Lizenz: [Bitpanda erhält BaFin-Lizenz für Kryptoverwahrgeschäft](https://de.cointelegraph.com/news/bitpanda-receives-bafin-licence-for-crypto-custody-business)
 6. **Shimmer Promote**: [Crypto Nova hat 15K Follower und macht 14 Tweets](https://twitter.com/CryptoGirlNova/status/1574866255428943872?s=20&t=v8LfXrpQkfO0Taa42lgP-Q) über die Vorteile von Shimmer
 7. **IOTA Promote**: [Marianna de la Roche tweetet](https://twitter.com/Marianadlrw/status/1594977046823829504?s=20&t=v8LfXrpQkfO0Taa42lgP-Q) in 8 Tweets eine Zusammenfassung zu dem Cardano Summit auf den sie eingeladen war
@@ -48,6 +48,12 @@
 46. **IOTA Stammtisch**: Am Freitag ist IOTA Stammtisch in München: [Tweet](https://twitter.com/IotaMunchen/status/1597110555612848133?s=20&t=J1EJJfHSTSKyUvaTTCvE0g)
 47. **IOTA Drama**: Nachdem sich Evaldas und Hans Moog für verschiedenen smart contracts ausgesprochen haben und [öffentlich auf Twitter](https://twitter.com/hus_qy/status/1596578965929398272?s=20&t=J1EJJfHSTSKyUvaTTCvE0g) darüber "diskutiert" haben, gibt es jetzt offenbar eine Task Force die entscheidet welchen Weg man gehen will: [Tweet mit Screenshot](https://twitter.com/unseriouscandle/status/1596880916592443396?s=20&t=J1EJJfHSTSKyUvaTTCvE0g)
 48. **Crypto Adaption**: Artikel von Crypto News Flash: [Putin will neues weltweites Zahlungssystem schaffen – Sind Ripple und XRP beteiligt?](https://www.crypto-news-flash.com/de/putin-will-neues-weltweites-zahlungssystem-ohne-swift/?feed_id=11336&_unique_id=6384911fbb72c)
+49. **IOTA Ökosystem**: [Chirp tweetet](https://twitter.com/ChirpIoT/status/1597186540693757955?s=20&t=EbQaAhAD5NxHIHRvMkAeOw), über ihren Blogpost: [What’s driving Chirp?](https://chirpiot.medium.com/whats-driving-chirp-f6771fd5da87)
+50. **IOTA Youtube**: von Spec Weekly: [Spec Weekly - Episode 27: Will the EBSI use IOTA? I think YES the EBSI WILL USE IOTA!!!](https://www.youtube.com/watch?v=dZsfdHtKPbY)
+51. **IOTA Youtube**: vom Bitcoin Trading Informant: [IOTA Assembly ASMB News #web3](https://www.youtube.com/watch?v=X3gcH0NivYQ)
+52. **IOTA Youtube**: von Common Sense Crypto: [IOTA WILL SHOCK MANY SOON💥TECHNOLOGY POWERHOUSE IS HERE🚨STILL GROWING & UNDERVALUED & OVERLOOKED](https://www.youtube.com/watch?v=VpNw5Aftwzw)
+53. **IOTA Artikel**: von Crypto News Flash: [IOTA kann Problem des blauen Verizifierungsbadges für Millionen von Menschen auf Twitter lösen](https://www.crypto-news-flash.com/de/iota-kann-das-problem-der-blauen-verifizierungsplakette-von-twitter-loesen/)
+54. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/240-wochenr%C3%BCckblick-vom-20-bis-26-november-2022/)
 
 
 
