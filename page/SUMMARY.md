@@ -102,3 +102,4 @@
 - [2022-11-14](./stammtisch/2022-11-14/README.md)
 - [2022-11-21](./stammtisch/2022-11-21/README.md)
 - [2022-11-28](./stammtisch/2022-11-28/README.md)
+- [2022-12-05](./stammtisch/2022-12-05/README.md)
