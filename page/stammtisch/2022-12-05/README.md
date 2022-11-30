@@ -13,4 +13,5 @@
 11. **Shimmer Event**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1597591216052486144?s=20&t=7hGOINtuML_5LCT0iEOEfA), dass es am Freitag ein Touchpoint Event im IOTA Discord gibt
 12. **IOTA Ökosystem**: Iotabee hat ein Audit von [Numen Cyber Technology](https://twitter.com/numencyber) bestanden: [Tweet](https://twitter.com/iotabee/status/1597592332940894208?s=20&t=04kvDKEp5Kwi0PJx3lE5GQ); [Smart Contract
 Audit Report](https://iotabee.com/Numen%20Smart%20Contract%20Audit%20Report%20for%20Iotabee.pdf)
+13. **Crypto Adaption**: Crypto in Brasilien: [BRAZIL APPROVES BILL REGULATING USE OF BITCOIN AS PAYMENT](https://bitcoinmagazine.com/legal/brazil-approves-use-of-bitcoin-as-payment)
 
