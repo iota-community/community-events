@@ -25,5 +25,9 @@ Audit Report](https://iotabee.com/Numen%20Smart%20Contract%20Audit%20Report%20fo
 21. **IOTA Ökosystem**: [TangleHub tweetet](https://twitter.com/Tanglehub_eu/status/1597991347167891457?s=20&t=X6rl0puPFuhGRDDrfeNZ5Q) darüber, dass sie mit dem Betatest von Pipedata angefangen haben
 22. **IOTA Ökosystem**: Sabo von LendeXe hat ein Medium Post geschrieben: [DeFi — niche analytical report
 Introduction to the industry](https://medium.com/@sabog/defi-niche-analytical-report-fe1474091d5)
+23. **IOTA Ökosystem**: [EDAG tweetet](https://twitter.com/EDAGGroup/status/1597969044321304578?s=20&t=X6rl0puPFuhGRDDrfeNZ5Q) über den Artikel im T3N Magazin: [Hochautomatisierte Roboterflotte im Deutsche Bank Park von Eintracht Frankfurt](https://t3n.de/news/hochautomatisierte-roboterflotte-im-deutsche-bank-park-von-eintracht-frankfurt-1510064/)
+24. **Crypto Adaption**: Telegramm will eine Cryptobörse und ein Wallet werden: [Tweet](https://twitter.com/BTC_Archive/status/1598002739187191808?s=20&t=X6rl0puPFuhGRDDrfeNZ5Q)
+25. **IOTA Audio**: Am Freitag war Flippin' Burgers: [Tweet](https://twitter.com/shimmernet/status/1597998899226198016?s=20&t=X6rl0puPFuhGRDDrfeNZ5Q)
+26. 
 
 
