@@ -20,4 +20,5 @@ Audit Report](https://iotabee.com/Numen%20Smart%20Contract%20Audit%20Report%20fo
 16. **IOTA Ökosystem**: [EBSI sucht](https://twitter.com/EU_EBSI/status/1597604630535495683?s=20&t=WRJeaN3iTgrq-9sYvgVvLQ) bereits Partner die bei der "3rd wave of the Early Adopters programme" mitmachen wollen
 17. **IOTA Event**: Am Mittwoch war ein Event "Connected Mobility" von [Alfried](https://twitter.com/alfried_fn): [Tweet](https://twitter.com/alfried_fn/status/1588139751080693761?s=20&t=XEXdVkfIgZvh5QgwU_3lNg)
 18. **Crypto Drama**: Die [ECB tweetet](https://twitter.com/ecb/status/1597894360510922752?s=20&t=lGHBjQaVuCgpDZa_qS2iLw) über Bitcoin und verlinkt den ECB Post: [Bitcoin’s last stand](https://www.ecb.europa.eu/press/blog/date/2022/html/ecb.blog221130~5301eecd19.en.html)
+19. **Crypto Drama**: Artikel von derCrypt: [Coinbase Wallet Delists XRP, Bitcoin Cash and Ethereum Classic](https://decrypt.co/115955/coinbase-wallet-delists-ripple-xrp-bitcoin-cash-ethereum-classic)
 
