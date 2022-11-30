@@ -14,4 +14,6 @@
 12. **IOTA Ökosystem**: Iotabee hat ein Audit von [Numen Cyber Technology](https://twitter.com/numencyber) bestanden: [Tweet](https://twitter.com/iotabee/status/1597592332940894208?s=20&t=04kvDKEp5Kwi0PJx3lE5GQ); [Smart Contract
 Audit Report](https://iotabee.com/Numen%20Smart%20Contract%20Audit%20Report%20for%20Iotabee.pdf)
 13. **Crypto Adaption**: Crypto in Brasilien: [BRAZIL APPROVES BILL REGULATING USE OF BITCOIN AS PAYMENT](https://bitcoinmagazine.com/legal/brazil-approves-use-of-bitcoin-as-payment)
+14. **IOTA Ökosystem**: Das [Projekt Alfried tweetet](https://twitter.com/alfried_fn/status/1597625758603567104?s=20&t=WRJeaN3iTgrq-9sYvgVvLQ) ein [Erklärvideo](https://alfried.net/) 
+15. **IOTA Status**: Dom Schiener hat ein längeres [Statement im IOTA Discord](https://discord.com/channels/397872799483428865/397872799483428867/1047158922898837535) abgegeben
 
