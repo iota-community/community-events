@@ -31,5 +31,6 @@ Introduction to the industry](https://medium.com/@sabog/defi-niche-analytical-re
 26. **Crypto Drama** Es gab im Europäischen Parlament eine Anhörung zu dem FTX Drama: [9 Tweets](https://twitter.com/BlockchainforEU/status/1598050483918508033?s=20&t=X6rl0puPFuhGRDDrfeNZ5Q); [Tweet von Stefan Berger CDU](https://twitter.com/DrStefanBerger/status/1597983480394416130?s=20&t=dnwpvLM1TWSV_X90vrJf-w)
 27. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in München: [Tweet mit Foto vom November Stammtisch](https://twitter.com/IotaMunchen/status/1597981770267656192?s=20&t=dnwpvLM1TWSV_X90vrJf-w)
 28. **Twitter Hype**: [Mat Yarger tweetet](https://twitter.com/Mat_Yarger/status/1597953098794012672?s=20&t=X6rl0puPFuhGRDDrfeNZ5Q) Daten zur Energieffizienz von IOTA
+29. **Crypto Drama**: Video: [Sam Bankman-Fried Interviewed Live About the Collapse of FTX](https://www.youtube.com/watch?v=IyoGdwVIwWw)
 
 
