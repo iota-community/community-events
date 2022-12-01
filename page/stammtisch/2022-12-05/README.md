@@ -32,5 +32,6 @@ Introduction to the industry](https://medium.com/@sabog/defi-niche-analytical-re
 27. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in München: [Tweet mit Foto vom November Stammtisch](https://twitter.com/IotaMunchen/status/1597981770267656192?s=20&t=dnwpvLM1TWSV_X90vrJf-w)
 28. **Twitter Hype**: [Mat Yarger tweetet](https://twitter.com/Mat_Yarger/status/1597953098794012672?s=20&t=X6rl0puPFuhGRDDrfeNZ5Q) Daten zur Energieffizienz von IOTA
 29. **Crypto Drama**: Video: [Sam Bankman-Fried Interviewed Live About the Collapse of FTX](https://www.youtube.com/watch?v=IyoGdwVIwWw)
+30. **IOTA Konfusion**: Ein Artikel auf CRN erscheint "[Fujitsu, Iota Services partner for water management IoT project](https://www.crn.com.au/news/fujitsu-iota-services-partner-for-water-management-iot-project-588530?utm_source=desktop&utm_medium=twitter&utm_campaign=share)", aber das Ganze hat nix mit IOTA zu tun
 
 
