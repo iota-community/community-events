@@ -31,7 +31,10 @@ Introduction to the industry](https://medium.com/@sabog/defi-niche-analytical-re
 26. **Crypto Drama** Es gab im Europäischen Parlament eine Anhörung zu dem FTX Drama: [9 Tweets](https://twitter.com/BlockchainforEU/status/1598050483918508033?s=20&t=X6rl0puPFuhGRDDrfeNZ5Q); [Tweet von Stefan Berger CDU](https://twitter.com/DrStefanBerger/status/1597983480394416130?s=20&t=dnwpvLM1TWSV_X90vrJf-w)
 27. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in München: [Tweet mit Foto vom November Stammtisch](https://twitter.com/IotaMunchen/status/1597981770267656192?s=20&t=dnwpvLM1TWSV_X90vrJf-w)
 28. **Twitter Hype**: [Mat Yarger tweetet](https://twitter.com/Mat_Yarger/status/1597953098794012672?s=20&t=X6rl0puPFuhGRDDrfeNZ5Q) Daten zur Energieffizienz von IOTA
-29. **Crypto Drama**: Video: [Sam Bankman-Fried Interviewed Live About the Collapse of FTX](https://www.youtube.com/watch?v=IyoGdwVIwWw)
+29. **Crypto Drama**: Video: [Sam Bankman-Fried Interviewed Live About the Collapse of FTX](https://www.youtube.com/watch?v=IyoGdwVIwWw); Und noch ein Interview bei [Good Morning America](https://twitter.com/GMA/status/1598089660172890113?s=20&t=oj4FK26hdPUrXtVtFYnepA)
 30. **IOTA Konfusion**: Ein Artikel auf CRN erscheint "[Fujitsu, Iota Services partner for water management IoT project](https://www.crn.com.au/news/fujitsu-iota-services-partner-for-water-management-iot-project-588530?utm_source=desktop&utm_medium=twitter&utm_campaign=share)", aber das Ganze hat nix mit IOTA zu tun
+31. **IOTA Ökosystem**: [Deepr Finance veröffentlicht](https://twitter.com/DeeprFinance/status/1598304092337557504?s=20&t=oj4FK26hdPUrXtVtFYnepA) ihre Tokenomics: [Deepr Finance Tokenomics](https://medium.com/@Deepr.Finance/deepr-finance-tokenomics-36555abc721b)
+32. **IOTA Artikel**: von Crypto News Flasch: [IOTA: Hodler von $SOON können ihre Token staken, massive Rabatte erhalten und mehr – Bericht](https://www.crypto-news-flash.com/de/iota-inhaber-von-soon-koennen-ihre-token-staken-hohe-rabatte-erhalten-und-mehr-incentives-bekommen/?feed_id=11383&_unique_id=6388ae9061a0c)
+33. 
 
 
