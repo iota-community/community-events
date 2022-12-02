@@ -37,6 +37,9 @@ Introduction to the industry](https://medium.com/@sabog/defi-niche-analytical-re
 32. **IOTA Artikel**: von Crypto News Flasch: [IOTA: Hodler von $SOON können ihre Token staken, massive Rabatte erhalten und mehr – Bericht](https://www.crypto-news-flash.com/de/iota-inhaber-von-soon-koennen-ihre-token-staken-hohe-rabatte-erhalten-und-mehr-incentives-bekommen/?feed_id=11383&_unique_id=6388ae9061a0c)
 33. **Crypto Drama**: Coinbase vs. Apple: [Tweets](https://twitter.com/CoinbaseWallet/status/1598354819735031809?s=20)
 34: **IOTA Ökosystem**: [Digimarc tweetet](https://twitter.com/digimarc/status/1598438574575456256?s=20) darüber, dass sie eine Partnerschaft mit Walmarkt haben. Interessant wenn man sieht was Digimarc mit IOTA machen will: [A Blueprint for a Decentralized EU Digital Product Passport Model](https://www.youtube.com/watch?v=NfJ4yiyAriw); Es gab auch ein Interview mit dem VP von Digimarc und ex CTO von Evrthng im [Moonaco Podcast Episode 40: Digimarc und Evrthng](https://open.spotify.com/episode/4HFxOb8ABx1ptJhJMZVgoQ?si=Eb5-NmmwRA2NtgomVSvC6g&nd=1)
+35. **IOTA Audio**: Es gab diese Woche einen englischen Stammtisch im Discord wo auch Eric Hop etwas über WASM, SCs, and EVM erzählt hat: [Tweet](https://twitter.com/Deep_Sea_Iotan/status/1598332615970459650?s=20)
+36. **IOTA Event**: SoonLabs macht ne Party zum 1. Soonaverse Jubiläum: [Tweet](https://twitter.com/soon_labs/status/1598583009510248448?s=20&t=CPN1c7f9VZswWKppKnsz9w)
+37. **IOTA Ökosystem**: [Iotaorigin tweetet](https://twitter.com/origin_iota/status/1598346119800668161?s=20) über ihren Blogpost: 
 
 
 
