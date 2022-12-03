@@ -46,6 +46,11 @@ Introduction to the industry](https://medium.com/@sabog/defi-niche-analytical-re
 41. **IOTA Youtube**: 
 42. **Shimmer Audio**: Im Discord wurde am Freitag von einem Touchpoint Expert über Tokenomics geredet: [Tweet](https://twitter.com/shimmernet/status/1597598449926643713?s=20)
 43. **Allgemeine News**: Tesla veröffentlicht ihren Semi Truck: [Tweet](https://twitter.com/Tesla/status/1598487290124255232?s=20)
+44. **IOTA Artikel**: von Crypto News Flash: [IOTA könnte Apple und Coinbase helfen, um Disput beizulegen – Bericht](https://www.crypto-news-flash.com/de/iota-koennte-apple-und-coinbase-helfen-eine-loesung-fuer-ihren-aktuellen-konflikt-zu-finden/?feed_id=11424&_unique_id=638a57a97bc8d)
+45. **IOTA Artikel**: von Burn2Invest: [Are IOTA and Ripple the Future of Crypto Apps?](https://www.crypto-news-flash.com/de/iota-koennte-apple-und-coinbase-helfen-eine-loesung-fuer-ihren-aktuellen-konflikt-zu-finden/?feed_id=11424&_unique_id=638a57a97bc8d)
+46. **IOTA Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1598908969896267776?s=20&t=dYlZUKPepkqfeX3JJOunFw) über den neuen Blogpost vom Staking Update: [Staking on the Soonaverse](https://soonlabs.medium.com/staking-on-the-soonaverse-1404f24a978f)
+47. **IOTA Ökosystem**: ACHTUNG!! Die gestaketen Soon Token werden aktuell noch nicht in TanglePay angezeigt: [Tweet](https://twitter.com/tanglepaycom/status/1598878432284540930?s=20&t=dYlZUKPepkqfeX3JJOunFw) 
+
 
 
 
