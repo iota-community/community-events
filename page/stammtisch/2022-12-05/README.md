@@ -57,6 +57,7 @@ Introduction to the industry](https://medium.com/@sabog/defi-niche-analytical-re
 52. **IOTA Dev Update**: [Protocol group Week 48 #63](https://github.com/iotaledger/research-updates/discussions/63)
 53. **IOTA Ökosystem**: [Blockchain Drenthe tweetet](https://twitter.com/BclDrenthe/status/1599715982016069633?s=20&t=27l2ebHBv-aHb92qgeHxOA) darüber, dass sie bei einem Event (Decentralized sustainability event) in Berlin waren
 54. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/242-wochenr%C3%BCckblick-vom-27-november-bis-3-dezember-2022/)
+55. **IOTA Drama**: Was passiert gerade mit den Funds der IF? Es wurde diese Woche scheinbar alles auf eine Binance Adresse überwiesen und schon 1,5 Tiota verkauft: [IOTA Adresse](https://thetangle.org/address/iota1qqkqat7dp0cz0nrgfaxrmmvktwmlw7nnyz4m2f57mphngr0tskfr6dym4wg)
 
 
 
