@@ -54,8 +54,8 @@ Introduction to the industry](https://medium.com/@sabog/defi-niche-analytical-re
 49. **IOTA Youtube**: [IOTA Community Governance meeting 01/12/22](https://www.youtube.com/watch?v=aWqNpQuQ47A)
 50. **IOTA Youtube**: Neue Folge von Spec Weekly: [Classic - Episode 28: Where does IOTA stand? I hope you're ready for some HOPIUM.](https://www.youtube.com/watch?v=8pdDnjXkL8o)
 51. **IOTA Artikel**: von Crypto Revolution: [IOTA löst Problem der unveränderlichen Daten in IOT-Märkten](https://kryptorevolution.de/iota-loest-problem-der-unveraenderlichen-daten-in-iot-maerkten/)
-51. **IOTA Dev Update**: [Protocol group Week 48 #63](https://github.com/iotaledger/research-updates/discussions/63)
-52. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/242-wochenr%C3%BCckblick-vom-27-november-bis-3-dezember-2022/)
+52. **IOTA Dev Update**: [Protocol group Week 48 #63](https://github.com/iotaledger/research-updates/discussions/63)
+53. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/242-wochenr%C3%BCckblick-vom-27-november-bis-3-dezember-2022/)
 
 
 
