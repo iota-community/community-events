@@ -5,4 +5,3 @@
 3. **Crypto News**: Ledger Stax: Artikel: [Crypto’s iPod Moment: Former Apple Designer Takes On Hardware Wallet](https://www.forbes.com/sites/ninabambysheva/2022/12/06/cryptos-ipod-moment-former-apple-designer-takes-on-hardware-wallet/?sh=49abc2a38f4e)
 4. **Crypto Adaption**: Artikel vom Bitcoin Magazin: [BITCOIN APP STRIKE LAUNCHES INSTANT, CHEAP REMITTANCES TO AFRICA](https://bitcoinmagazine.com/business/strike-launches-instant-african-remittances)
 5. **Allgemeine News**: Artikel: [EU-Staaten einigen sich auf digitale Brieftasche](https://www.golem.de/news/elektronische-identitaet-eu-staaten-einigen-sich-auf-digitale-brieftasche-2212-170298.html)
-
