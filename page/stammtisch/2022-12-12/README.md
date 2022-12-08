@@ -20,7 +20,10 @@
 18. **IOTA Youtube**: von Iotplus Network: [IoT+Coffee Break Sustainability with Umweltbundesamt, IOTA and BuildingMinds](https://www.youtube.com/watch?v=-mXuj8BPIFw&t=2778s) mit Mariana de la Roche
 19. **IOTA Youtube**: von Common Sense Crypto: [IOTA WILL SHOCK MANY SOONTECHNOLOGY POWERHOUSE IS HERE STILL GROWING & UNDERVALUED & OVERLOOKED](https://www.youtube.com/watch?v=VpNw5Aftwzw)
 20. **IOTA Youtube**: von dem Bitcoin Trading Informanten: [IOTA Shimmer - ACHTUNG - SOON Token Staking startet!](https://www.youtube.com/watch?v=7FNwF5FdGQA&t=85s)
+22. **IOTA Youtube**: vom IotaPoet: [Why IOTA/Shimmer are SUPERIOR To Polkadot And Cosmos](https://www.youtube.com/watch?v=hVU0IjLYwXs&t=327s)
 21. **IOTA Hype**: Die [IF tweetet](https://twitter.com/iota/status/1600762118734757889?s=20&t=c_j-ydBKs_LmRopkQ7ahLw) jetzt auch schon Antworten von der Ai zur Frage: Warum ist ein DAG besser als eine Blockchain. Darunter hat [Holger Köther noch einige interessante Kommentare über IOTA getweetet](https://twitter.com/HolgerKoether/status/1600802706901585924?s=20&t=KdNRb4wuXyRRf3_ZHUz82w)
 22. **IOTA Adaption?**: [Thorsten Kroke](https://twitter.com/KrokeThorsten) ist zu sehen im Video zur Kollaboration im Bereich digitaler Zwilling zwischen E-Class und der Industry 4.0 Alliance: [The Open Industry 4.0 Alliance Integrates ECLASS](https://www.mvpromedia.com/the-open-industry-4-0-alliance-integrates-eclass/)
-23. 
+23. **IOTA Audio**: Die 4 Flippin Burgers Folgen sind jetzt auch im [Youtube Channel der IOTA Foundation](https://www.youtube.com/@iotafoundation/videos) zu finden
+24. **IOTA Audio**: [TangleBay](https://twitter.com/tanglebay) war am Donnerstag in dem TangleGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1600884140269879297?s=20&t=IMy7ruxsLhYzm0KhwCC_oA)
+
 
