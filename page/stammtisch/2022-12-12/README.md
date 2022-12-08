@@ -5,3 +5,22 @@
 3. **Crypto News**: Ledger Stax: Artikel: [Crypto’s iPod Moment: Former Apple Designer Takes On Hardware Wallet](https://www.forbes.com/sites/ninabambysheva/2022/12/06/cryptos-ipod-moment-former-apple-designer-takes-on-hardware-wallet/?sh=49abc2a38f4e)
 4. **Crypto Adaption**: Artikel vom Bitcoin Magazin: [BITCOIN APP STRIKE LAUNCHES INSTANT, CHEAP REMITTANCES TO AFRICA](https://bitcoinmagazine.com/business/strike-launches-instant-african-remittances)
 5. **Allgemeine News**: Artikel: [EU-Staaten einigen sich auf digitale Brieftasche](https://www.golem.de/news/elektronische-identitaet-eu-staaten-einigen-sich-auf-digitale-brieftasche-2212-170298.html)
+6. **Tangle Ökosystem**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1600681434569936898?s=20&t=RhiRD0_gnFsAeBl2UF8YJA), dass es ein größeres Update gab und jetzt z.B. auch die gelockten Soon Token angezeigt werden
+7. **IOTA Video**: [Kumar Anirudha tweetet](https://twitter.com/kranirudha/status/1600752915790323713?s=20&t=RhiRD0_gnFsAeBl2UF8YJA) darüber, dass es [Twitter Spaces Event](https://twitter.com/nftonfandora/status/1599685739763372039?s=20&t=RhiRD0_gnFsAeBl2UF8YJA) mit ihm gibt wo sie über NFTs reden
+8. **Shimmer Governements**: Hier sind die Ergebnisse von der [Shimmer Community Grant Committee selection - Results of Phase 1 and kickoff of Phase 2](https://govern.iota.org/t/shimmer-community-grant-committee-selection-results-of-phase-1-and-kickoff-of-phase-2/1543); [Phylo hat auch darüber getweetet](https://twitter.com/PhyloIota/status/1600745300817477632?s=20&t=RhiRD0_gnFsAeBl2UF8YJA)
+9. **Tangle Ökosystem**: [SonnLabs tweetet](https://twitter.com/soon_labs/status/1600728959846469632?s=20&t=RhiRD0_gnFsAeBl2UF8YJA) über ihren neuen Blogpost: [Staking on the Soonaverse](https://soonlabs.medium.com/staking-on-the-soonaverse-1404f24a978f)
+10. **IOTA Research**: [Prof Bufanan tweetet](https://twitter.com/billatnapier/status/1600499501571182592?s=20&t=RhiRD0_gnFsAeBl2UF8YJA) über ein neues Paper: [The Future of Integrated Digital Governance in the EU: EBSI and GLASS](https://arxiv.org/abs/2212.03218) in dem auch IOTA erwähnt wird
+11. **Shimmer Spam**: Es gab am Mittwoch ein kurzes Spam Event im Shimmer Netzwerk mit 200 Bps (Blocks per second): [Tweet](https://twitter.com/Vrom14286662/status/1600559757244653571?s=20&t=RhiRD0_gnFsAeBl2UF8YJA)
+12. **IOTA Audio**: Es gab am Mittwoch einenen englischen Stammtisch im IOTA Discord Voice Chat: [Tweet](https://twitter.com/Deep_Sea_Iotan/status/1599793675261054976?s=20&t=RhiRD0_gnFsAeBl2UF8YJA)
+13. **IOTA Hype**: Dom Schiener hat sich auf Discord zu einigen Punkten (u.a. L1 Smart Contracts) geäußert: [Tweet](https://twitter.com/Vrom14286662/status/1600486908445990913?s=20&t=RhiRD0_gnFsAeBl2UF8YJA)
+14. **IOTA Youtube**: von der IOTA Foundation: [IOTA Review 2022 - Preview 2023](https://www.youtube.com/watch?v=n2vBD-oFgYg)
+15. **IOTA Youtube**: von Spec Weekly: [Classic - Episode 28: Where does IOTA stand? I hope you're ready for some HOPIUM.](https://www.youtube.com/watch?v=8pdDnjXkL8o&t=37s)
+16. **IOTA Youtube**: von IOTA Community Governements: [06/12/22 IOTA Community Governance meeting - Shimmer Treasury setup](https://www.youtube.com/watch?v=IsfmUhYS1Kk&t=6s)
+17. **IOTA Youtube**: von Retonix: [Was ist IOTA? ist es die Zukunft von uns? - IOTA Deutsch](https://www.youtube.com/watch?v=sXbqCwCsiSk)
+18. **IOTA Youtube**: von Iotplus Network: [IoT+Coffee Break Sustainability with Umweltbundesamt, IOTA and BuildingMinds](https://www.youtube.com/watch?v=-mXuj8BPIFw&t=2778s) mit Mariana de la Roche
+19. **IOTA Youtube**: von Common Sense Crypto: [IOTA WILL SHOCK MANY SOONTECHNOLOGY POWERHOUSE IS HERE STILL GROWING & UNDERVALUED & OVERLOOKED](https://www.youtube.com/watch?v=VpNw5Aftwzw)
+20. **IOTA Youtube**: von dem Bitcoin Trading Informanten: [IOTA Shimmer - ACHTUNG - SOON Token Staking startet!](https://www.youtube.com/watch?v=7FNwF5FdGQA&t=85s)
+21. **IOTA Hype**: Die [IF tweetet](https://twitter.com/iota/status/1600762118734757889?s=20&t=c_j-ydBKs_LmRopkQ7ahLw) jetzt auch schon Antworten von der Ai zur Frage: Warum ist ein DAG besser als eine Blockchain
+22. **IOTA Adaption?**: [Thorsten Kroke](https://twitter.com/KrokeThorsten) ist zu sehen im Video zur Kollaboration im Bereich digitaler Zwilling zwischen E-Class und der Industry 4.0 Alliance: [The Open Industry 4.0 Alliance Integrates ECLASS](https://www.mvpromedia.com/the-open-industry-4-0-alliance-integrates-eclass/)
+
+
