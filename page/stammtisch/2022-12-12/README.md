@@ -23,4 +23,3 @@
 21. **IOTA Hype**: Die [IF tweetet](https://twitter.com/iota/status/1600762118734757889?s=20&t=c_j-ydBKs_LmRopkQ7ahLw) jetzt auch schon Antworten von der Ai zur Frage: Warum ist ein DAG besser als eine Blockchain
 22. **IOTA Adaption?**: [Thorsten Kroke](https://twitter.com/KrokeThorsten) ist zu sehen im Video zur Kollaboration im Bereich digitaler Zwilling zwischen E-Class und der Industry 4.0 Alliance: [The Open Industry 4.0 Alliance Integrates ECLASS](https://www.mvpromedia.com/the-open-industry-4-0-alliance-integrates-eclass/)
 
-
