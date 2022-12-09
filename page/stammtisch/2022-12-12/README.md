@@ -25,5 +25,11 @@
 22. **IOTA Adaption?**: [Thorsten Kroke](https://twitter.com/KrokeThorsten) ist zu sehen im Video zur Kollaboration im Bereich digitaler Zwilling zwischen E-Class und der Industry 4.0 Alliance: [The Open Industry 4.0 Alliance Integrates ECLASS](https://www.mvpromedia.com/the-open-industry-4-0-alliance-integrates-eclass/)
 23. **IOTA Audio**: Die 4 Flippin Burgers Folgen sind jetzt auch im [Youtube Channel der IOTA Foundation](https://www.youtube.com/@iotafoundation/videos) zu finden
 24. **IOTA Audio**: [TangleBay](https://twitter.com/tanglebay) war am Donnerstag in dem TangleGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1600884140269879297?s=20&t=IMy7ruxsLhYzm0KhwCC_oA)
+25. **IOTA Hype**: Hans Moog [tweetet](https://twitter.com/hus_qy/status/1601011662760579072?s=20&t=yNNUMFLDQwUsghlzCQduZg) den aktuellen Status zu GoShimmer und IOTA 2.0
+26. **IOTA Artikel**: von Crypto News Flash: [Große Zukunft für IOTA: Auswahl des Shimmer Community Grant Committee beendet](https://www.crypto-news-flash.com/de/grosse-zukunft-fuer-iota-wahl-des-shimmer-community-grant-committee-beendet/)
+27. **IOTA Artikel**: von Outlook: [The Future Is Green For Crypto - These Eco-Friendly Cryptocurrencies Are Set To Explode](https://www.outlookindia.com/outlook-spotlight/the-future-is-green-for-crypto-these-eco-friendly-cryptocurrencies-are-set-to-explode-news-243381)
+28. **2 IOTA Ökosystem Artikel**: von HiFi Gaming Society: [Decentralizing the Player Referral System: Sharing Players and Incentivizing Referrals](https://hifigamingsociety.medium.com/decentralizing-the-player-referral-system-sharing-players-and-incentivizing-referrals-42f4dbfe50b5); [HiFi Gaming Society Improves Web3 Gaming Experience](https://hifigamingsociety.medium.com/hifi-gaming-society-improves-web3-gaming-experience-99882c1f376e)
+29. **IOTA Youtube Learn**: von die IOTA Foundation: [Tutorial - Wallet Lib Rust Part 2 - Generate Address](https://www.youtube.com/watch?v=sxBn3yxku0k)
+30. **IOTA Youtube**: von DEXES: [DEXES LIVE #106 - wieder -30% Rutsche? Crypto Market Meetup](https://www.youtube.com/watch?v=qmBCQ0VwEf4)
 
 
