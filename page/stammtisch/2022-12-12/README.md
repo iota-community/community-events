@@ -36,6 +36,10 @@
 33. **IOTA Ökosystem**: Positiver [Tweet von PropOps](https://twitter.com/propops_cloud/status/1601103607759183874?s=20&t=oxdxb_Iqe7zrIU2OJQ7TDg). Ihre Kunden verwenden IOTA by default und keiner ist bisher wieder ausgestiegen
 34. **Twitter Geschnatter**: Dom will das man statt "crypto" in Zukunft "digital assets" sagt: [Tweet](https://twitter.com/DomSchiener/status/1601126253331120129?s=20&t=MbtmCZVAwhq_LvQP74uSQw)
 35. **IOTA Youtube**: von Spec Weekly: [BLOGCHAIN: EPISODE 2 "Crypto Finance Group x Shimmer"](https://www.youtube.com/watch?v=w8m5KSE4XFs&feature=youtu.be)
+36. **IOTA Governement**: [ShimmerGov tweetet](https://twitter.com/ShimmerGov/status/1601216557929365505?s=20&t=8B2EZhBngsAUZP4J51rNkw) darüber, dass die Community aufgerufen ist für die [Grant Communittee Grant Reviewer](https://govern.iota.org/t/sgp-0002-shimmer-community-grant-committee-grant-reviewer-selection/1546) und für den [Program Lead](https://govern.iota.org/t/sgp-0001-shimmer-community-grant-committee-lead-selection/1544) zu voten
+37. **IOTA Ökosystem**: [Firefly tweetet](https://twitter.com/fireflywallet/status/1601204046966054912?s=20&t=XmehE2xG53Ijie__Gp3soA) darüber, dass der Firefly Shimmer 2.1.0 Alpha Test gestartet wurde. Hier [auf GitHub](https://github.com/iotaledger/firefly/releases/tag/desktop-2.1.0-alpha-1)
+38. **Twitter Learn**: [Sebastian Müller hat einen Twitter-Thread](https://twitter.com/NaitsabesMue/status/1601212670782210048?s=20&t=XmehE2xG53Ijie__Gp3soA) zum Thema Blockchain vs. DAG erstellt
+39. **IOTA Audio**: Die [TangleGang tweetet](https://twitter.com/GangTangleTalk/status/1601224204992462848?s=20&t=8B2EZhBngsAUZP4J51rNkw) darüber, dass die Audiodatei von dem Gespräch mit [TangleHub](https://twitter.com/Tanglehub_eu) jetzt im Telegram Channel zu finden ist
 
 
 
