@@ -33,5 +33,8 @@
 30. **IOTA Youtube**: von DEXES: [DEXES LIVE #106 - wieder -30% Rutsche? Crypto Market Meetup](https://www.youtube.com/watch?v=qmBCQ0VwEf4)
 31. **Crypto Adaption**: Strike expandiert nach Afrika: Artikel vom Blocktrainer: [Zahlungsdienstleister Strike expandiert nach Afrika](https://www.blocktrainer.de/strike-expandiert-nach-afrika/)
 32. **Crypto Drama**: CZ vs. O'Learry, der von FTX 15 Millionen bekommen hat und seit dem gut über Crypto und FTX redet: [Tweet](https://twitter.com/cz_binance/status/1601140809491185664?s=20&t=yNNUMFLDQwUsghlzCQduZg)
+33. **IOTA Ökosystem**: Positiver [Tweet von PropOps](https://twitter.com/propops_cloud/status/1601103607759183874?s=20&t=oxdxb_Iqe7zrIU2OJQ7TDg). Ihre Kunden verwenden IOTA by default und keiner ist bisher wieder ausgestiegen
+34. **Twitter Geschnatter**: Dom will das man statt "crypto" in Zukunft "digital assets" sagt: [Tweet](https://twitter.com/DomSchiener/status/1601126253331120129?s=20&t=MbtmCZVAwhq_LvQP74uSQw)
+
 
 
