@@ -41,7 +41,10 @@
 38. **Twitter Learn**: [Sebastian Müller hat einen Twitter-Thread](https://twitter.com/NaitsabesMue/status/1601212670782210048?s=20&t=XmehE2xG53Ijie__Gp3soA) zum Thema Blockchain vs. DAG erstellt
 39. **IOTA Audio**: Die [TangleGang tweetet](https://twitter.com/GangTangleTalk/status/1601224204992462848?s=20&t=8B2EZhBngsAUZP4J51rNkw) darüber, dass die Audiodatei von dem Gespräch mit [TangleHub](https://twitter.com/Tanglehub_eu) jetzt im Telegram Channel zu finden ist
 40. **Allgemeine News**: Artikel von T3n: [Digital-Gipfel verspricht schönes neues Daten-Deutschland](https://t3n.de/news/digitalgipfel-verspricht-schoenes-neues-daten-deutschland-1520013/)
-41. **IOTA Ökosystem**: [Pipe]() hat ihre dezentrale Speicherlösung bei dem Sternstunden Event präsentiert. Die Demo-Webseite ist bereits live: [demo.tanglehub.eu](https://demo.tanglehub.eu/)
+41. **IOTA Ökosystem**: [Pipe](https://twitter.com/PIPE_DATA) hat ihre dezentrale Speicherlösung bei dem Sternstunden Event präsentiert. Die Demo-Webseite ist bereits live: [demo.tanglehub.eu](https://demo.tanglehub.eu/); Siehe auch [Tweet von TangleHub](https://twitter.com/Tanglehub_eu/status/1601336819110801409?s=20&t=0yi5xKE5LYPOpgxvZ3nCZw); Es gibt auch eine [Roadmap](https://tanglehub.eu/roadmap/) (allerdings ohne ETAs ;-))
+42. **IOTA Youtube**: Multi hat ein neues Video gemacht: [Wie entwicklerfreundlich ist #IOTA?](https://www.youtube.com/watch?v=CBv6furtIzw)
+43. **IOTA Drama**: Die IF hat wohl einige IOTA verkauft. Wie lange hält das Geld noch und wie transparent soll die IF sein war großes Thema diese Woche im IOTA Dach Channel
+
 
 
 
