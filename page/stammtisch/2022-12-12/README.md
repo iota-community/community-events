@@ -44,6 +44,8 @@
 41. **IOTA Ökosystem**: [Pipe](https://twitter.com/PIPE_DATA) hat ihre dezentrale Speicherlösung bei dem Sternstunden Event präsentiert. Die Demo-Webseite ist bereits live: [demo.tanglehub.eu](https://demo.tanglehub.eu/); Siehe auch [Tweet von TangleHub](https://twitter.com/Tanglehub_eu/status/1601336819110801409?s=20&t=0yi5xKE5LYPOpgxvZ3nCZw); Es gibt auch eine [Roadmap](https://tanglehub.eu/roadmap/) (allerdings ohne ETAs ;-))
 42. **IOTA Youtube**: Multi hat ein neues Video gemacht: [Wie entwicklerfreundlich ist #IOTA?](https://www.youtube.com/watch?v=CBv6furtIzw)
 43. **IOTA Drama**: Die IF hat wohl einige IOTA verkauft. Wie lange hält das Geld noch und wie transparent soll die IF sein war großes Thema diese Woche im IOTA Dach Channel
+44. **IOTA Artikel**: von Crypto News Flash: [IOTA: Massive update improves ecosystem and performance – Will IOTA price rise to $4?](https://www.crypto-news-flash.com/iota-massive-update-improves-ecosystem-and-performance-will-miota-price-rise-to-4/)
+
 
 
 
