@@ -45,6 +45,9 @@
 42. **IOTA Youtube**: Multi hat ein neues Video gemacht: [Wie entwicklerfreundlich ist #IOTA?](https://www.youtube.com/watch?v=CBv6furtIzw)
 43. **IOTA Drama**: Die IF hat wohl einige IOTA verkauft. Wie lange hält das Geld noch und wie transparent soll die IF sein war großes Thema diese Woche im IOTA Dach Channel
 44. **IOTA Artikel**: von Crypto News Flash: [IOTA: Massive update improves ecosystem and performance – Will IOTA price rise to $4?](https://www.crypto-news-flash.com/iota-massive-update-improves-ecosystem-and-performance-will-miota-price-rise-to-4/)
+45. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/244-wochenr%C3%BCckblick-vom-04-bis-10-dezember-2022/)
+46. **IOTA AMA**: [Jonas Theis](https://twitter.com/jonastheis_) ist am Montag in einem AMA: [Tweet](https://twitter.com/CryptoMiners_Co/status/1601634941158453249?s=20&t=-0r34QErO4HnH38PQMZ0Zg)
+
 
 
 
