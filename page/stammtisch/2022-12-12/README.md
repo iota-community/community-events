@@ -53,6 +53,8 @@
 50. **IOTA Ökosystem**: [im.City tweetet](https://twitter.com/imCITY_app/status/1602206511748489216?s=20&t=p9kiVhAaqt3X-9YqDLp2wA) über [The IM.CITY’s approach of 2023](https://docs.im.city/2023-approach/)
 51. **IOTA Artikel**: von JD Sutton: [Risk! IT’S NOT JUST A GAME…](https://medium.com/@jamesjdsutton/risk-its-not-just-a-game-fa9363554fa4))
 52. **IOTA Artikel**: von overclocked: [Shimmer 2023](https://medium.com/@overclocked5900x/shimmer-2023-91d74e16d3b)
+53. **IOTA Tweet**: [Iotapenguin tweetet](https://twitter.com/iota_penguin/status/1602237930306785280?s=20&t=NDUdK_lnyUhDfAfgrQ5Qpg) eine Zusammenfassung zu der Firefly [Präsentation von Charley Varley beim Sternstundenevent](https://youtu.be/n2vBD-oFgYg?t=2946)
+54. **Twitter Drama**: [Evaldas tweetet](https://twitter.com/lunfardo314/status/1602242964021039104?s=20&t=NDUdK_lnyUhDfAfgrQ5Qpg) gegen Ethereum. Da wird scheinbar vorgeschlagen das Netzwerk zu stoppen
 
 
 
