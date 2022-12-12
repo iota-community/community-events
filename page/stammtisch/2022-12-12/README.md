@@ -47,6 +47,12 @@
 44. **IOTA Artikel**: von Crypto News Flash: [IOTA: Massive update improves ecosystem and performance – Will IOTA price rise to $4?](https://www.crypto-news-flash.com/iota-massive-update-improves-ecosystem-and-performance-will-miota-price-rise-to-4/)
 45. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/244-wochenr%C3%BCckblick-vom-04-bis-10-dezember-2022/)
 46. **IOTA AMA**: [Jonas Theis](https://twitter.com/jonastheis_) ist am Montag in einem AMA: [Tweet](https://twitter.com/CryptoMiners_Co/status/1601634941158453249?s=20&t=-0r34QErO4HnH38PQMZ0Zg)
+47. **IOTA Youtube**: neue Folge von Probably Nothing: [IOTA im Finale und ein voller November - IOTA News](https://www.youtube.com/watch?v=SJZIp22HP8Y)
+48. **IOTA Video**: [DeepSea tweetet](https://twitter.com/Deep_Sea_Iotan/status/1602078227752697858?s=20&t=p9kiVhAaqt3X-9YqDLp2wA) ein Video: [Shimmer Treasury Proof-of-Concept Process](https://vimeo.com/780188333)
+49. **IOTA Tokenomics**: Ein [Tweet mit Screenshot](https://twitter.com/Schmucklos_/status/1602013886257025028?s=20&t=p9kiVhAaqt3X-9YqDLp2wA) aus dem IOTa Discord, wo Phylo die Tokenomics erklärt
+50. **IOTA Ökosystem**: [im.City tweetet](https://twitter.com/imCITY_app/status/1602206511748489216?s=20&t=p9kiVhAaqt3X-9YqDLp2wA) über [The IM.CITY’s approach of 2023](https://docs.im.city/2023-approach/)
+51. **IOTA Artikel**: von JD Sutton: [Risk! IT’S NOT JUST A GAME…](https://medium.com/@jamesjdsutton/risk-its-not-just-a-game-fa9363554fa4)
+
 
 
 
