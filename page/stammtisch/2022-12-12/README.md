@@ -52,7 +52,7 @@
 49. **IOTA Tokenomics**: Ein [Tweet mit Screenshot](https://twitter.com/Schmucklos_/status/1602013886257025028?s=20&t=p9kiVhAaqt3X-9YqDLp2wA) aus dem IOTA Discord, zeigt wie [Phylo](https://twitter.com/PhyloIota) die Tokenomics von IOTA erklärt
 50. **IOTA Ökosystem**: [im.City tweetet](https://twitter.com/imCITY_app/status/1602206511748489216?s=20&t=p9kiVhAaqt3X-9YqDLp2wA) über [The IM.CITY’s approach of 2023](https://docs.im.city/2023-approach/)
 51. **IOTA Artikel**: von JD Sutton: [Risk! IT’S NOT JUST A GAME…](https://medium.com/@jamesjdsutton/risk-its-not-just-a-game-fa9363554fa4))
-52. **IOTA Artikel**: von overclocked: [Shimmer 2023](https://twitter.com/PhyloIota](https://medium.com/@overclocked5900x/shimmer-2023-91d74e16d3b)
+52. **IOTA Artikel**: von overclocked: [Shimmer 2023](https://medium.com/@overclocked5900x/shimmer-2023-91d74e16d3b)
 
 
 
