@@ -7,3 +7,6 @@
 5. **IOTA Ökosystem**: [Garret von TanglePay tweetet](https://twitter.com/GarrettBullish/status/1602477107187437568?s=20) eine Review 2022 und Preview 2023 für ihn und [TanglePay](https://twitter.com/tanglepaycom)
 6. **Crypto Drama**: SBF ist auf den Bahamas festgenommen worden: [Artikel vom Blocktrainer: FTX-Gründer Sam Bankman-Fried wurde verhaftet!](https://www.blocktrainer.de/ftx-gruender-sam-bankman-fried-wurde-verhaftet/)
 7. **IOTA Ökosystem**: [Digimine veröffentlicht](https://twitter.com/DigiMine_/status/1602601508146667522?s=20) ihre [TOKENOMICs, NFT-AIRDROPs AND OUR VISION ](https://www.digimine.de/wp-content/uploads/2022/12/Tokenomic_Paper.pdf)
+8. **IOTA Ökosystem**: [TangleHub tweetet](https://twitter.com/Vrom14286662/status/1602620304731275267?s=20&t=LhM8gMc0aRfHO3p5rxvBVw) ein one pager zu ihrer Api-Schnittstelle
+9. **Crypto Drama**: Bezahlter Binance FUD? [Tweet von CZ](https://twitter.com/cz_binance/status/1602590863451889665?s=20&t=8qPs1eYytVKpr92e4vfApQ)
+10. **IOTA Youtube**: von tmrwconf: [TMRW CONF: Nenad Gligorić, IOTA Foundation - Blockchain for DeFi, NFTs and DAOs](https://www.youtube.com/watch?v=SJpQ8hZ1fmc)
