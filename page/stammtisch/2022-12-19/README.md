@@ -10,3 +10,5 @@
 8. **IOTA Ökosystem**: [TangleHub tweetet](https://twitter.com/Vrom14286662/status/1602620304731275267?s=20&t=LhM8gMc0aRfHO3p5rxvBVw) ein one pager zu ihrer Api-Schnittstelle
 9. **Crypto Drama**: Bezahlter Binance FUD? [Tweet von CZ](https://twitter.com/cz_binance/status/1602590863451889665?s=20&t=8qPs1eYytVKpr92e4vfApQ)
 10. **IOTA Youtube**: von tmrwconf: [TMRW CONF: Nenad Gligorić, IOTA Foundation - Blockchain for DeFi, NFTs and DAOs](https://www.youtube.com/watch?v=SJpQ8hZ1fmc)
+11. **IOTA Ökosystem**: [Deepr Finance tweetet](https://twitter.com/DeeprFinance/status/1602666918913183745?s=20&t=RhN1wD8VI2eOqWz9CM9_oQ) über ihr [Deepr Finance Tokenomics](https://medium.com/@Deepr.Finance/deepr-finance-tokenomics-36555abc721b)
+12. **Crypto Pump**: Gute Nachrichten aus den USA lässt Bitcoin und Co pumpen am Dienstag: [Tweet](https://twitter.com/bitcoin2go/status/1602659324488196097?s=20&t=RhN1wD8VI2eOqWz9CM9_oQ) zu den gut
