@@ -11,4 +11,12 @@
 9. **Crypto Drama**: Bezahlter Binance FUD? [Tweet von CZ](https://twitter.com/cz_binance/status/1602590863451889665?s=20&t=8qPs1eYytVKpr92e4vfApQ)
 10. **IOTA Youtube**: von tmrwconf: [TMRW CONF: Nenad Gligorić, IOTA Foundation - Blockchain for DeFi, NFTs and DAOs](https://www.youtube.com/watch?v=SJpQ8hZ1fmc)
 11. **IOTA Ökosystem**: [Deepr Finance tweetet](https://twitter.com/DeeprFinance/status/1602666918913183745?s=20&t=RhN1wD8VI2eOqWz9CM9_oQ) über ihr [Deepr Finance Tokenomics](https://medium.com/@Deepr.Finance/deepr-finance-tokenomics-36555abc721b)
-12. **Crypto Pump**: Gute Nachrichten aus den USA lässt Bitcoin und Co pumpen am Dienstag: [Tweet](https://twitter.com/bitcoin2go/status/1602659324488196097?s=20&t=RhN1wD8VI2eOqWz9CM9_oQ) zu den gut
+12. **Crypto Pump**: Gute Nachrichten aus den USA lässt Bitcoin und Co pumpen am Dienstag: [Tweet](https://twitter.com/bitcoin2go/status/1602659324488196097?s=20&t=RhN1wD8VI2eOqWz9CM9_oQ) zu den guten Nachrichten
+13. **IOTA Ökosystem**: [Snowman retweetet](https://twitter.com/SnowMan_Finance/status/1602912827596939265?s=20&t=xsktR3WawCpTKUL0ybXHDg) den [Tweet vom Soonaverse](https://twitter.com/soon_labs/status/1602902456521748480) in dem verkündet wird, dass Snowman ein nächstes Service Modul im Soonaverse sein wird
+14. **IOTA Dev Update**: [Protocol group, Weeks 49-50 #65](https://github.com/iotaledger/research-updates/discussions/65)
+15. **IOTA Adaption**: [LF_Edge tweetet](https://twitter.com/LF_Edge/status/1602711451369611271?s=20&t=xsktR3WawCpTKUL0ybXHDg) über das Projekt Alvarium und verlinkt [das Projekt Clean Energy von Mathew Yarger](https://hubs.la/Q01vy97s0)
+16. **IOTA Learn**: [IDiota macht 40 Tweets](https://twitter.com/id_iota/status/1602696433974460416?s=20&t=xsktR3WawCpTKUL0ybXHDg) über IOTA
+17. **Assembly News**: Dom Schiener hat sich auf Discord zu Assembly geäußert: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1602686121623838725?s=20&t=xsktR3WawCpTKUL0ybXHDg)
+18. **Shimmer Governement**: Dom Schiener hat sein Proposal erneuert: [[SGP - 0003] Shimmer Growth Committee as part of the Tangle Ecosystem Association](https://govern.iota.org/t/sgp-0003-shimmer-growth-committee-as-part-of-the-tangle-ecosystem-association/1552)
+19. **IOTA Ökosystem**: [Neuer Tweet von Chirp](https://twitter.com/ChirpIoT/status/1602642491471286274?s=20&t=xsktR3WawCpTKUL0ybXHDg). Sie haben wohl 13km überbrückt mit 2.4 GHz LoRaWan
+
