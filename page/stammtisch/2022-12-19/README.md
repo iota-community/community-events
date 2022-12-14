@@ -23,4 +23,5 @@
 21. **IOTA Artikel**: von Crypto News Flash: [IOTA: Bank of Spain to launch CBDC trial – Will it be based on the tangle?](https://www.crypto-news-flash.com/iota-bank-of-spain-to-launch-cbdc-trial-will-it-be-based-on-the-tangle/)
 22. **IOTA Youtube**: vom Krypto Report: [IOTA: Kommt 2023 die Trendwende?](https://www.youtube.com/watch?v=pWyFXEtiJDQ)
 23. **IOTA Youtube**: von Probably Nothing: [IOTA im Finale und ein voller November - IOTA News](https://www.youtube.com/watch?v=SJZIp22HP8Y)
+24. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1602682429986291712?t=uPx0LBy2D4-oHJR1AoUAVg&s=19), dass sie eine Partnerschaft mit [Mineplexio](https://twitter.com/mineplexio) eingegangen sind. Allerdings wurde der Tweet wieder gelöscht... ?!?
 
