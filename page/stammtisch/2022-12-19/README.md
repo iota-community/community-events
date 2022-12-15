@@ -34,5 +34,6 @@
 32. **Crypto Adaption**: Es gab eine [Anhörung im Bundestag zu Web30 und Metaverse](https://www.bundestag.de/ausschuesse/a23_digitales/Anhoerungen/921548-921548)
 33. **IOTA Audio**: Es gab am Mittwoch wieder einen engl. Stammtisch im IOTA Discord: [Tweet](https://twitter.com/Deep_Sea_Iotan/status/1602422013888712705?s=20&t=MTblVJ0R0MVJOKRmYSzymw). Es gab aber keine Aufzeichnung
 34. **IOTA Umfrage**: [Dom Schiener will wissen](https://twitter.com/DomSchiener/status/1602996894740975617?s=20&t=MTblVJ0R0MVJOKRmYSzymw) welche Währung wir bei p2earn gamen gewinnen wollen
-35. 
+35. **IOTA Youtube**: [Anonio Nardella tweetet](https://twitter.com/antonionardella/status/1602583377516892160?s=20&t=MTblVJ0R0MVJOKRmYSzymw) darüber, dass das [Sternstunden Event jetzt mit Zeitstempel](https://www.youtube.com/watch?v=n2vBD-oFgYg) angesehen werden kann
+36. 
 
