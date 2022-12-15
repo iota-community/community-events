@@ -31,7 +31,7 @@
 29. **Shimmer Governements**: [Tweets von JD Sutton - DeepSea](https://twitter.com/Deep_Sea_Iotan/status/1603082628596375552?s=20&t=MTblVJ0R0MVJOKRmYSzymw) mit Link zu [Questions Regarding DAO Entity Formation 14-Dec. 2022](https://shimmer-community-treasury.notion.site/Questions-Regarding-DAO-Entity-Formation-14-Dec-2022-1a899fe803bd40ff9702b85c96ece54a)
 30. **IOTA Ökosystem**: Shimmer und Assembly tweeten beide über den Blogpost: [Touchpoint Open Builders Program Welcomes Accumulator](https://blog.assembly.sc/touchpoint-welcomes-accumulator/)
 31. **IOTA Artikel**: von Crypto News Flash: [Snowman Finance kommt ins IOTA-Ökosystem mit Gebühren, die in den Tresor für Staker und neue](https://www.crypto-news-flash.com/de/snowman-finance-kommt-ins-iota-oekosystem-mit-gebuehren-die-in-den-tresor-fuer-staker-und-neue/)
-32. **Crypto Adaption**: Es gab eine [Anhörung im Bundestag zu Web30 und Metaverse](https://www.bundestag.de/ausschuesse/a23_digitales/Anhoerungen/921548-921548)
+32. **Crypto Adaption**: Es gab eine [Anhörung im Bundestag zu Web30 und Metaverse](https://www.bundestag.de/ausschuesse/a23_digitales/Anhoerungen/921548-921548); Artikel dazu von BTC Echo: [Ideologie statt Wissenschaft: Ein schwarzer Tag für das Web3](https://www.btc-echo.de/news/ideologie-statt-wissenschaft-ein-schwarzer-tag-fuer-das-web3-156214/)
 33. **IOTA Audio**: Es gab am Mittwoch wieder einen engl. Stammtisch im IOTA Discord: [Tweet](https://twitter.com/Deep_Sea_Iotan/status/1602422013888712705?s=20&t=MTblVJ0R0MVJOKRmYSzymw). Es gab aber keine Aufzeichnung
 34. **IOTA Umfrage**: [Dom Schiener will wissen](https://twitter.com/DomSchiener/status/1602996894740975617?s=20&t=MTblVJ0R0MVJOKRmYSzymw) welche Währung wir bei p2earn gamen gewinnen wollen
 35. **IOTA Youtube**: [Anonio Nardella tweetet](https://twitter.com/antonionardella/status/1602583377516892160?s=20&t=MTblVJ0R0MVJOKRmYSzymw) darüber, dass das [Sternstunden Event jetzt mit Zeitstempel](https://www.youtube.com/watch?v=n2vBD-oFgYg) angesehen werden kann
@@ -41,3 +41,6 @@
 39. **Allgemeine News**: Kernfusion ist erstmals gelungen. [Hans Moog erklärt](https://twitter.com/hus_qy/status/1603374275821543424?s=20&t=RCzk3mfQs03xHGTiJ-PzsA) warum das nicht unbedingt ausschließlich gut ist
 40. **IOTA Smart Contracts**: [Evaldas tweetet](https://twitter.com/lunfardo314/status/1603379722590773255?s=20&t=L7WwJbEk2ofxFVeZ4B-XxA) über seinen Artikel: [UTXO Chains. Part 1](https://medium.com/@lunfardo/utxo-chains-1-5-ed3c3b71522c)
 41. **IOTA Ökosystem**: [Swarm Logistics Technologies tweetet](https://twitter.com/SwarmLogistics/status/1602351507990536193?s=20&t=L7WwJbEk2ofxFVeZ4B-XxA) über ein neues Teammitglied mit dem Hastag #IOTA
+42. **IOTA Audio**: Finanzgoblin zu Gast bei der TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1603407156686082049?s=20&t=JMGzmgyD3uoGub-67oU8CQ)
+43. **Crypto Adaption**: Donald Trump verkauft TrumNFTCards auf [collecttrumpcards.com](https://collecttrumpcards.com/)
+44. **
