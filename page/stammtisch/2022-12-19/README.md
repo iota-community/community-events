@@ -36,4 +36,7 @@
 34. **IOTA Umfrage**: [Dom Schiener will wissen](https://twitter.com/DomSchiener/status/1602996894740975617?s=20&t=MTblVJ0R0MVJOKRmYSzymw) welche Währung wir bei p2earn gamen gewinnen wollen
 35. **IOTA Youtube**: [Anonio Nardella tweetet](https://twitter.com/antonionardella/status/1602583377516892160?s=20&t=MTblVJ0R0MVJOKRmYSzymw) darüber, dass das [Sternstunden Event jetzt mit Zeitstempel](https://www.youtube.com/watch?v=n2vBD-oFgYg) angesehen werden kann
 36. **IOTA Artikel**: von BlockBuilder: [IOTA Stiftung: Finanzielle Reserven werden offenbar knapp](https://block-builders.de/iota-stiftung-finanzielle-reserven-werden-offenbar-knapp/)
-37. 
+37. **IOTA Event**: Die [IF tweetet](https://twitter.com/iota/status/1603389426343841793?s=20&t=RCzk3mfQs03xHGTiJ-PzsA) über ein Event am 22.12. mit Marianna de la Roche. Sie wird die Arbeit von [INATBA_org](https://twitter.com/INATBA_org) und [IOTA](https://twitter.com/iota) in der Region Afrika zeigen incl. [Origin_iota](https://twitter.com/origin_iota) und #TLIP: Mehr zu dem Event hier: [https://auxiliummaxcompany.ng/index.php/growafricaevent/](https://auxiliummaxcompany.ng/index.php/growafricaevent/)
+38. **IOTA Youtube**: [Marianna de la Roche tweetet](https://twitter.com/Marianadlrw/status/1603385210032340993?s=20&t=RCzk3mfQs03xHGTiJ-PzsA) über den [Pulsar Podcast : IOTA Foundation, How Blockchain Can Revolutionize Social Impact](https://www.youtube.com/watch?v=Gj-dFw17I-A&t=68s)
+39. **Allgemeine News**: Kernfusion ist erstmals gelungen. [Hans Moog erklärt](https://twitter.com/hus_qy/status/1603374275821543424?s=20&t=RCzk3mfQs03xHGTiJ-PzsA) warum das nicht unbedingt ausschließlich gut ist
+40. 
