@@ -40,3 +40,4 @@
 38. **IOTA Youtube**: [Marianna de la Roche tweetet](https://twitter.com/Marianadlrw/status/1603385210032340993?s=20&t=RCzk3mfQs03xHGTiJ-PzsA) über den [Pulsar Podcast : IOTA Foundation, How Blockchain Can Revolutionize Social Impact](https://www.youtube.com/watch?v=Gj-dFw17I-A&t=68s)
 39. **Allgemeine News**: Kernfusion ist erstmals gelungen. [Hans Moog erklärt](https://twitter.com/hus_qy/status/1603374275821543424?s=20&t=RCzk3mfQs03xHGTiJ-PzsA) warum das nicht unbedingt ausschließlich gut ist
 40. **IOTA Smart Contracts**: [Evaldas tweetet](https://twitter.com/lunfardo314/status/1603379722590773255?s=20&t=L7WwJbEk2ofxFVeZ4B-XxA) über seinen Artikel: [UTXO Chains. Part 1](https://medium.com/@lunfardo/utxo-chains-1-5-ed3c3b71522c)
+41. **IOTA Ökosystem**: [Swarm Logistics Technologies tweetet](https://twitter.com/SwarmLogistics/status/1602351507990536193?s=20&t=L7WwJbEk2ofxFVeZ4B-XxA) über ein neues Teammitglied mit dem Hastag #IOTA
