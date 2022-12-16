@@ -43,4 +43,7 @@
 41. **IOTA Ökosystem**: [Swarm Logistics Technologies tweetet](https://twitter.com/SwarmLogistics/status/1602351507990536193?s=20&t=L7WwJbEk2ofxFVeZ4B-XxA) über ein neues Teammitglied mit dem Hastag #IOTA
 42. **IOTA Audio**: Finanzgoblin zu Gast bei der TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1603407156686082049?s=20&t=JMGzmgyD3uoGub-67oU8CQ)
 43. **Crypto Adaption**: Donald Trump verkauft TrumNFTCards auf [collecttrumpcards.com](https://collecttrumpcards.com/)
-44. **
+44. **IOTA Event**: Neuer [Tweet von TangleCon](https://twitter.com/TangleCon/status/1603430642951360516?s=20&t=JMGzmgyD3uoGub-67oU8CQ) "Call for Workshop Instructors"
+45. **IOTA Artikel**: [Overclocked tweetet](https://twitter.com/overclocksalmon/status/1603562127150977025?s=20&t=JMGzmgyD3uoGub-67oU8CQ), über seine Artikel: [Schimmer 2023](https://medium.com/@overclocked5900x/shimmer-2023-91d74e16d3b)
+46. **IOTA Video**: [Blockbytes tweetet](https://twitter.com/blockbytescom/status/1603461136644382720?s=20&t=JMGzmgyD3uoGub-67oU8CQ) ein kurzen Zusammenschnitt mit den Highlights von dem Interview mit Dom und Levante Pep
+
