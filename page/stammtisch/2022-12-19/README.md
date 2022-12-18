@@ -58,5 +58,9 @@
 56. **IOTA Youtube**: [Marianna de la Roche tweetet](https://twitter.com/Marianadlrw/status/1603802823044612100?s=20&t=VCPbMu9TlWnI7KZPaoyEuA9 über: [Community of Practice Event: Blockchain for Climate Action [Recording](https://www.youtube.com/watch?v=K4IJ0bI3I0w)
 57. **IOTA Release**: [Dave de Fijter tweetet](https://twitter.com/fijter/status/1603832489780314117?s=20&t=VCPbMu9TlWnI7KZPaoyEuA) über das Release von [wasp-cli-0.4.0-alpha.1](https://github.com/iotaledger/wasp/releases/tag/v0.4.0-alpha.1) mit "various new EVM features including native asset sending and ERC20/721 interfaces for native assets, Historical state lookup allowing proper explorer/indexer support for EVM and much more"
 58. **IOTA Youtube**: von Tech Tree: [Pulsar Podcast : IOTA Foundation, How Blockchain Can Revolutionize Social Impact](https://www.youtube.com/watch?v=Gj-dFw17I-A)
+59. **IOTA Audio**: FinanzGoblin war bei der TangleGang und hat über DeFi erzählt: [Tweet](https://twitter.com/GangTangleTalk/status/1604442723590742018?s=20&t=ylsP4ZyU2bvX3cmROKMZhw) 
+60. **IOTA Audio**: Auch das Gespräch mit der TangleGang kann mittlerweile angehört werden: [Tweet](https://twitter.com/GangTangleTalk/status/1601135238100680704?s=20&t=ylsP4ZyU2bvX3cmROKMZhw)
+60. **IOTA Governement**: Wir müssen bald im Firefly voten: [Tweet](https://twitter.com/Deep_Sea_Iotan/status/1603780417215418368?s=20&t=ylsP4ZyU2bvX3cmROKMZhw)
+
 
 
