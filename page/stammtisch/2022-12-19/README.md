@@ -72,6 +72,7 @@
 69. **IOTA Governement**: Neues Proposal bekommt viel Aufmerksamkeit: [Counter Proposal SGP - 0003 Shimmer Growth Committee as part of the Tangle Ecosystem Association 51 A more Community Focused Shimmer Growth Committee](https://govern.iota.org/t/counter-proposal-sgp-0003-shimmer-growth-committee-as-part-of-the-tangle-ecosystem-association/1557)
 70. **IOTA Youtube**: Neues Video von Spec Weekly: [Classic - Episode 29: IOTA - 2022 year in review. Dom edition.](https://www.youtube.com/watch?v=or61FfGqTbA)
 71. **IOTA Wocherückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/246-wochenr%C3%BCckblick-vom-11-bis-17-dezember-2022/) bzw. [Week in Review](https://www.iota-talk.com/index.php?article/247-week-in-review-from-11th-to-17nd-december-2022/)
+72. **IOTA Adaption**: [Goldstandard veröffentlicht](https://www.goldstandard.org/our-work/innovations-consultations/white-paper-digitising-verification-climate-markets) ein Whitepaper: [PUBLIC CONSULTATION DRAFT WHITE PAPER ON DIGITISING VERIFICATION FOR CLIMATE MARKETS](https://www.goldstandard.org/our-work/innovations-consultations/white-paper-digitising-verification-climate-markets)
 
 
 
