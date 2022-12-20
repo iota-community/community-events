@@ -8,4 +8,5 @@
 6. **IOTA Ökosystem**: [2xnmore tweetet](https://twitter.com/2xnmore/status/1604783247770103808?s=20&t=3SYN_1Ha3eivvqxZvyVaYA) eine Zusammenfassung zum Soonaverse
 7. **IOTA Artikel**: von Crypto News Flash: [IOTA: Send NFT christmas postcards to your loved ones – Ecosystem development updates](https://www.crypto-news-flash.com/iota-send-nft-christmas-postcards-to-your-loved-ones-ecosystem-development-updates/)
 8. **Crypto Adaption**: Visa Artikel über automatische Bezahlungen via smart contracts auf Ethereum: [Visa Crypto for Leadership - Auto Payments for Self-Custodial Wallets](https://usa.visa.com/solutions/crypto/auto-payments-for-self-custodial-wallets.html)
-9. 
+9. **IOTA FUD**: [Vitalik Buterin macht seinen Running Gag](https://www.youtube.com/clip/UgkxXOq3ReA2uaThJy7eX8DM94hKLeRbvLFM) "Have IOTA even gotten rid of their coordinator? I forget always..." in der [Bankless Show 149 - Ethereum in 2023 with Vitalik Buterin](https://www.youtube.com/watch?v=QXKqIIf6_AE&feature=youtu.be); [Dom Schiener kommentiert] (https://twitter.com/DomSchiener/status/1605192497172463617?s=20&t=WGe-Q1ZgaM9_BuQJyaCviw) das auf Twitter
+10. 
