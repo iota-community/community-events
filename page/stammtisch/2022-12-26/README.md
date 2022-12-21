@@ -1,6 +1,6 @@
 ## IOTA Stammtischthemen für Montag, den 26.12.2022
 
-1. **IOTA Quicktakes**: 
+1. **IOTA Quicktakes**: Gab es diese Woche nicht 
 2. **IOTA Ökosystem**: [LendeXe macht 8 Tweets](https://twitter.com/LendeXeFinance/status/1604832261995745280?s=20&t=Iqilz3YvTMlJiU_81fBfCg)
 3. **IOTA Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1605077434998480896?s=20&t=Iqilz3YvTMlJiU_81fBfCg) über ihren Blogpost: [BUILDAVERSE: A Web3 Platform OS](https://soonlabs.medium.com/buildaverse-a-web3-platform-os-981c3aef5b5e)
 4. **IOTA Soon**: [Garret Jin verkündet](https://twitter.com/GarrettBullish/status/1603379605435744256?s=20&t=RHw1Kv8gA7iiLDgtZ_85lA) ein Big Announcement soon 
@@ -18,3 +18,6 @@
 16. **IOTA Ökosystem**: [filancore freut sich](https://twitter.com/FilancoreGmbH/status/1605484248311377921?s=20&t=zhyASLQCNe-YPFCGYM1TMw) darüber, dass sie als einzige Firma genannt wurden, die im SSI space "groundbreaking work in its field" machen. So steht das zumindest im [The German Blockchain Report 2022](https://www.certik.com/resources/blog/45sb7IJngkQuoTz9fWpWmQ-the-german-blockchain-report-2022) 
 17. **IOTA Ökosystem**: [Deepr Finance tweetet](https://twitter.com/DeeprFinance/status/1605222935714844677?s=20&t=L2o8s-mjCSmVfljBZg58Pw) darüber, dass sie ein Audit bestanden haben: [Deepr Protocol Completes Successful Audit By HashEx](https://medium.com/@Deepr.Finance/deepr-protocol-completes-successful-audit-by-hashex-70b10304031f)
 18. **IOTA Promote**: Die [IF tweetet](https://twitter.com/iota/status/1605491652851900424?s=20&t=_70r6vmPk7U58plHouJX2w) darüber, dass das [CoinmarketCap Profil von IOTA](https://coinmarketcap.com/community/profile/IOTA) schon über 190K Follower hat
+19. **IOTA Ökosystem**: [LendeXe gibt bekannt](https://twitter.com/LendeXeFinance/status/1605572982889496577?s=20&t=zhyASLQCNe-YPFCGYM1TMw), dass sie ihre Miota die sie bei $0,8/Miota für den NFT Verkauf bekommen haben, für $0,16$ verkaufen mussten, damit sie in 2023 gefundet sind
+20. **IOTA Artikel**: vom Tangleverse Express: [Tweet](https://twitter.com/TangleVerseWeb/status/1605554715181268992?s=20&t=zhyASLQCNe-YPFCGYM1TMw). Subscribe hier: [A hub that boosts the tangle triad](https://tangleverse.io/)
+21. 
