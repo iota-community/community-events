@@ -21,4 +21,10 @@
 19. **IOTA Ökosystem**: [LendeXe gibt bekannt](https://twitter.com/LendeXeFinance/status/1605572982889496577?s=20&t=zhyASLQCNe-YPFCGYM1TMw), dass sie ihre Miota die sie bei $0,8/Miota für den NFT Verkauf bekommen haben, für $0,16$ verkaufen mussten, damit sie in 2023 gefundet sind
 20. **IOTA Artikel**: vom Tangleverse Express: [Tweet](https://twitter.com/TangleVerseWeb/status/1605554715181268992?s=20&t=zhyASLQCNe-YPFCGYM1TMw). Subscribe hier: [A hub that boosts the tangle triad](https://tangleverse.io/)
 21. **IOTA Learn**: [ID.Iota macht 32 Tweets](https://twitter.com/id_iota/status/1605593975087239168?s=20&t=hDKxuAZ1OwjoGdSxW86dMg) über IOTA, EVM, Stardust und smart contracts und wie das alles zusammen hängt
+22. **IOTA Learn**: [The Scope DeFi macht 30 Tweets](https://twitter.com/ScopeDefi/status/1605245717605498880?s=20&t=f-WnBXQhoxGslxANp5IiJQ) zum Thema IOTA und Energieverbrauch
+23. **Shimmer Ökosystem**: [Charley Varley tweetet](https://twitter.com/c_varley/status/1605681273950810112?s=20&t=f-WnBXQhoxGslxANp5IiJQ) zum Thema Ledger und Shimmer Support. Scheinbar hat sich alles verzögert wegen dem Release von Ledger Stax
+24. **IOTA Exchange**: [EasyBit tweetet](https://twitter.com/EasyBit_com/status/1605667379874258971?s=20&t=f-WnBXQhoxGslxANp5IiJQ), dass sie IOTA gelistet haben
+25. **IOTA Ökosystem**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1605746170697248769?s=20&t=f-WnBXQhoxGslxANp5IiJQ) davon, dass TanglePay V 1.5.0 released wurde. Man kann jetzt scheinbar auch Shimmer NFTs anzeigen und versenden
+26. **IOTA Ökosystem**: [Spyce_5 macht Werbung](https://twitter.com/SPYCE_5/status/1605836111292600320?s=20&t=f-WnBXQhoxGslxANp5IiJQ) für Shimmer. Beta Test ist auch gestartet...
+27. 
 
