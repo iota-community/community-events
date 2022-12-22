@@ -26,5 +26,6 @@
 24. **IOTA Exchange**: [EasyBit tweetet](https://twitter.com/EasyBit_com/status/1605667379874258971?s=20&t=f-WnBXQhoxGslxANp5IiJQ), dass sie IOTA gelistet haben
 25. **IOTA Ökosystem**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1605746170697248769?s=20&t=f-WnBXQhoxGslxANp5IiJQ) davon, dass TanglePay V 1.5.0 released wurde. Man kann jetzt scheinbar auch Shimmer NFTs anzeigen und versenden
 26. **IOTA Ökosystem**: [Spyce_5 macht Werbung](https://twitter.com/SPYCE_5/status/1605836111292600320?s=20&t=f-WnBXQhoxGslxANp5IiJQ) für Shimmer. Beta Test ist auch gestartet...
-27. 
+27. **IOTA Artikel**: von Finanzen.net: [Kryptowährung IOTA - Was man über den vielversprechenden Bitcoin-Konkurrenten wissen muss](https://www.finanzen.net/nachricht/devisen/iota-token-kryptowaehrung-iota-was-man-ueber-den-vielversprechenden-bitcoin-konkurrenten-wissen-muss-5597663)
+28. **IOTA Youtube**: [19/12/22 IOTA Community Governance - Meeting with MIDAO - legal setup Shimmer Treasury Committee](https://www.youtube.com/watch?v=VCOWt7O8tfc)
 
