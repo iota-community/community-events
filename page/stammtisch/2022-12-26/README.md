@@ -30,4 +30,6 @@
 28. **IOTA Youtube**: [19/12/22 IOTA Community Governance - Meeting with MIDAO - legal setup Shimmer Treasury Committee](https://www.youtube.com/watch?v=VCOWt7O8tfc)
 29. **IOTA Artikel**: von Crypto News Flash: [IOTA recommended in “German blockchain report” for innovative technology on identity management](https://www.crypto-news-flash.com/iota-recommended-in-german-blockchain-report-for-innovative-technology-on-identity-management/)
 30. **IOTA Audio**: Neuer Moonaco Podcast mit TanglePay: [Tweet](https://twitter.com/MoonacoPodcast/status/1605900000923471873?s=20&t=doOsoRSvo_dqVmsIIZSAog); [Spotify Link](https://open.spotify.com/episode/6WHQkl3wgsnPUkfZrpSiJF?si=EQsExK_RT8ScBIABh9VDiA&nd=1)
+31. **IOTA Youtube**: [How to Mint NFTs On Shimmer For Free | PyChain 2022](https://www.youtube.com/watch?v=CXapvM-vM3A)
+32. 
 
