@@ -24,12 +24,19 @@
 22. **IOTA Learn**: [The Scope DeFi macht 30 Tweets](https://twitter.com/ScopeDefi/status/1605245717605498880?s=20&t=f-WnBXQhoxGslxANp5IiJQ) zum Thema IOTA und Energieverbrauch
 23. **Shimmer Ökosystem**: [Charley Varley tweetet](https://twitter.com/c_varley/status/1605681273950810112?s=20&t=f-WnBXQhoxGslxANp5IiJQ) zum Thema Ledger und Shimmer Support. Scheinbar hat sich alles verzögert wegen dem Release von Ledger Stax
 24. **IOTA Exchange**: [EasyBit tweetet](https://twitter.com/EasyBit_com/status/1605667379874258971?s=20&t=f-WnBXQhoxGslxANp5IiJQ), dass sie IOTA gelistet haben
-25. **IOTA Ökosystem**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1605746170697248769?s=20&t=f-WnBXQhoxGslxANp5IiJQ) davon, dass TanglePay V 1.5.0 released wurde. Man kann jetzt scheinbar auch Shimmer NFTs anzeigen und versenden
+25. **IOTA Ökosystem**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1605746170697248769?s=20&t=f-WnBXQhoxGslxANp5IiJQ) davon, dass TanglePay V 1.5.0 released wurde. Man kann jetzt scheinbar auch Shimmer NFTs anzeigen und versenden; vrom hat's getestet und es funktioniert: [Tweet](https://twitter.com/Vrom14286662/status/1606059326493274112?s=20&t=0TH63cnbkYCCgr0Ma83IYg)
 26. **IOTA Ökosystem**: [Spyce_5 macht Werbung](https://twitter.com/SPYCE_5/status/1605836111292600320?s=20&t=f-WnBXQhoxGslxANp5IiJQ) für Shimmer. Beta Test ist auch gestartet... [Tweet](https://twitter.com/SPYCE_5/status/1605967931355054081?s=20&t=q_55bpqa2TZTZ-YZ770S4Q) und [Holger Köther tweetet](https://twitter.com/HolgerKoether/status/1605971996528873483?s=20&t=q_55bpqa2TZTZ-YZ770S4Q)
 27. **IOTA Artikel**: von Finanzen.net: [Kryptowährung IOTA - Was man über den vielversprechenden Bitcoin-Konkurrenten wissen muss](https://www.finanzen.net/nachricht/devisen/iota-token-kryptowaehrung-iota-was-man-ueber-den-vielversprechenden-bitcoin-konkurrenten-wissen-muss-5597663)
 28. **IOTA Youtube**: [19/12/22 IOTA Community Governance - Meeting with MIDAO - legal setup Shimmer Treasury Committee](https://www.youtube.com/watch?v=VCOWt7O8tfc)
 29. **IOTA Artikel**: von Crypto News Flash: [IOTA recommended in “German blockchain report” for innovative technology on identity management](https://www.crypto-news-flash.com/iota-recommended-in-german-blockchain-report-for-innovative-technology-on-identity-management/)
 30. **IOTA Audio**: Neuer Moonaco Podcast mit TanglePay: [Tweet](https://twitter.com/MoonacoPodcast/status/1605900000923471873?s=20&t=doOsoRSvo_dqVmsIIZSAog); [Spotify Link](https://open.spotify.com/episode/6WHQkl3wgsnPUkfZrpSiJF?si=EQsExK_RT8ScBIABh9VDiA&nd=1)
 31. **IOTA Youtube**: [How to Mint NFTs On Shimmer For Free | PyChain 2022](https://www.youtube.com/watch?v=CXapvM-vM3A)
-32. 
+32. **IOTA Youtube**: von itsGigiTV: [IOTA mit brandneuen Updates ! TWITTER vor dem aus ? Krypto News](https://www.youtube.com/watch?v=-habSoRgMm0)
+33. **IOTA Youtube**: vom Bitcoin Traiding Informant: [IOTA, wann steigt er wieder?](https://www.youtube.com/watch?v=QQ2LvqcUwaY)
+34. **IOTA Youtube**: neues Video von Multi: [Kleine Datei, große Wirkung: #Shimmer-Entwicklung ab jetzt überall](https://www.youtube.com/watch?v=PXAV2qdVwPQ)
+35. **Crypto Drama**: SBF wird für $250 mio in Hausarest gesetzt: Artikel: [Sam Bankman-Fried to be released on $250 million bail and will be required to stay with parents ahead of FTX trial](https://www.businessinsider.com/sam-bankman-fried-bail-ftx-manhattan-court-appearance-hearing-2022-12)
+36. **IOTA Drama**: Digidus verkauft sein Auto um IOTA zu kaufen: [Tweet](https://twitter.com/DigidusPrime/status/1606049900658978816?s=20&t=0TH63cnbkYCCgr0Ma83IYg)
+37. **IOTA Artikel**: von beinCrypto: [Nächster Ethereum-Killer? IOTA implementiert Smart Contracts](https://de.beincrypto.com/naechster-ethereum-killer-iota-implementiert-smart-contracts/)
+38. **IOTA Draman**: Warum postet CFB wieder so viel (negatives) über IOTA?
+39. **Crypto News**: Avalanche haben jetzt scheinbar ein "universal, trustless interchain messaging feature" released: [Tweet](https://twitter.com/el33th4xor/status/1606015195519729665?t=Zfnh1uQ_yJN5L8tgINSKPQ&s=19)
 
