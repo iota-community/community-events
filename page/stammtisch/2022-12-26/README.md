@@ -39,4 +39,6 @@
 37. **IOTA Artikel**: von beinCrypto: [Nächster Ethereum-Killer? IOTA implementiert Smart Contracts](https://de.beincrypto.com/naechster-ethereum-killer-iota-implementiert-smart-contracts/)
 38. **IOTA Draman**: Warum postet CFB wieder so viel (negatives) über IOTA?
 39. **Crypto News**: Avalanche haben jetzt scheinbar ein "universal, trustless interchain messaging feature" released: [Tweet](https://twitter.com/el33th4xor/status/1606015195519729665?t=Zfnh1uQ_yJN5L8tgINSKPQ&s=19)
+40. **IOTA Youtube**: von Probably Nothing: [Weihnachtlicher Stress und die ruhe vor dem Sturm - IOTA News Deutsch](https://www.youtube.com/watch?v=YO40wMiqZXA)
+41. **IOTA Dev Update**: [wasp-cli-0.4.0-alpha.2](https://github.com/iotaledger/wasp/releases/tag/v0.4.0-alpha.2)
 
