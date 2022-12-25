@@ -44,6 +44,9 @@
 42. **IOTA Youtube**: von Spec Weekly: [Classic - Episode 30: IOTA - 2022 year in review. Regulations and Firefly.](https://www.youtube.com/watch?v=Aa-OforOLuM&t=160s)
 43. **IOTA Ökosystem**: [Iotabee tweetet](https://twitter.com/iotabee/status/1606567725014437888?s=20&t=coid4DLrT_gWiIHayS1K0A), dass man jetzt NFT Postkarten versenden kann auf [iotabee.com/2022-xmas-postcard](https://iotabee.com/2022-xmas-postcard); Hier ein [Tweet](https://twitter.com/KryptoniteAli/status/1606874213297840132?s=20&t=gtBthzxiz7vRJrt3Nciqqg) wo man ein paar NFTs sieht
 44. **IOTA NFT**: Die [Shi-Universe-Sage tweetet](https://twitter.com/Shiuniverse/status/1606411374028103703?s=20&t=gtBthzxiz7vRJrt3Nciqqg) ein neues Video: [2022 Review - CREATING SHI UNIVERSE](https://www.youtube.com/watch?v=T_3xQGIwg3M)
+45. **IOTA Artikel**: von Crypto News Flash: [IOTA: New upgrade allows to exchange data with Ethereum and Ripple with the tangle](https://www.crypto-news-flash.com/iota-new-upgrade-allows-to-exchange-data-with-ethereum-and-ripple-with-the-tangle/)
+46. **IOTA Artikel**: von Crypto News Flash: [IOTA startet Beta-Live-Test für Login-Lösung für Milliarden-$-Markt – Bericht](https://www.crypto-news-flash.com/iota-new-upgrade-allows-to-exchange-data-with-ethereum-and-ripple-with-the-tangle/)
+47. **IOTA Artikel**: von Crypto News Flash: [IOTA startet Beta-Live-Test für Login-Lösung für Milliarden-$-Markt – Bericht](https://www.crypto-news-flash.com/iota-starts-beta-live-testing-for-login-solution-for-billion-market-report/)
 
 
 
