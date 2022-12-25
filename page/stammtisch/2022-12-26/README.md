@@ -41,4 +41,9 @@
 39. **Crypto News**: Avalanche haben jetzt scheinbar ein "universal, trustless interchain messaging feature" released: [Tweet](https://twitter.com/el33th4xor/status/1606015195519729665?t=Zfnh1uQ_yJN5L8tgINSKPQ&s=19)
 40. **IOTA Youtube**: von Probably Nothing: [Weihnachtlicher Stress und die ruhe vor dem Sturm - IOTA News Deutsch](https://www.youtube.com/watch?v=YO40wMiqZXA)
 41. **IOTA Dev Update**: [wasp-cli-0.4.0-alpha.2](https://github.com/iotaledger/wasp/releases/tag/v0.4.0-alpha.2)
+42. **IOTA Youtube**: von Spec Weekly: [Classic - Episode 30: IOTA - 2022 year in review. Regulations and Firefly.](https://www.youtube.com/watch?v=Aa-OforOLuM&t=160s)
+43. **IOTA Ökosystem**: [Iotabee tweetet](https://twitter.com/iotabee/status/1606567725014437888?s=20&t=coid4DLrT_gWiIHayS1K0A), dass man jetzt NFT Postkarten versenden kann auf [iotabee.com/2022-xmas-postcard](https://iotabee.com/2022-xmas-postcard); Hier ein [Tweet](https://twitter.com/KryptoniteAli/status/1606874213297840132?s=20&t=gtBthzxiz7vRJrt3Nciqqg) wo man ein paar NFTs sieht
+44. **IOTA NFT**: Die [Shi-Universe-Sage tweetet](https://twitter.com/Shiuniverse/status/1606411374028103703?s=20&t=gtBthzxiz7vRJrt3Nciqqg) ein neues Video: [2022 Review - CREATING SHI UNIVERSE](https://www.youtube.com/watch?v=T_3xQGIwg3M)
+
+
 
