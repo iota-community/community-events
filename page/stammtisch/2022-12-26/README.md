@@ -51,6 +51,7 @@
 49. **IOTA Adaption**: Crypto Gin auf IOTA: [Tweet von Crypto-Gin](https://twitter.com/Crypto_Gin21/status/1607305859360784384?s=20&t=bk-6-rqDjsnD_mil-D4VWQ); [Tweet von Akkodis](https://twitter.com/akkodis_de/status/1607406003665920002)
 50. **IOTA Artikel**: von Crypto News A2Z: [IOTA begins beta live testing for login answer for billion $ market Report](https://cryptonewsa2z.com/iota-begins-beta-live-testing-for-login-answer-for-billion-market-report/)
 51. **IOTA Ökosystem**: [Chirp tweetet](https://twitter.com/ChirpIoT/status/1607337947820396545?s=20&t=bk-6-rqDjsnD_mil-D4VWQ) über ihren Artikel: [We have a token. It’s called $CHIRP.](https://chirpiot.medium.com/we-have-a-token-its-called-chirp-33cf10ade7e9)
+52. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1607460496264859652?s=20&t=HoOyrDwrCAs6M1Yxa_I9IA) über ein Wallet Update 0.2.1
 
 
 
