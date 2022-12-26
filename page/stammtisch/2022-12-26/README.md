@@ -48,6 +48,7 @@
 46. **IOTA Artikel**: von Crypto News Flash: [IOTA startet Beta-Live-Test für Login-Lösung für Milliarden-$-Markt – Bericht](https://www.crypto-news-flash.com/iota-new-upgrade-allows-to-exchange-data-with-ethereum-and-ripple-with-the-tangle/)
 47. **IOTA Learn**: [ID.iota macht 33 Tweets](https://twitter.com/id_iota/status/1605593975087239168?s=20&t=pyS285eF7u8csNi5IZwL5g) über Stardust, Shimmer und Co
 48. **Shimmer Pump**: Der [Shimmer Kurs](https://coinmarketcap.com/currencies/shimmer/) ist ordentlich gestiegen in der letzten Woche (von $0,041 auf $0,063) 
+49. **IOTA Adaption**: Crypto Gin auf IOTA: [Tweet von Crypto-Gin](https://twitter.com/Crypto_Gin21/status/1607305859360784384?s=20&t=bk-6-rqDjsnD_mil-D4VWQ); [Tweet von Akkodis](https://twitter.com/akkodis_de/status/1607406003665920002)
 
 
 
