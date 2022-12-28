@@ -11,3 +11,5 @@
 9. **IOTA Ökosystem**: [Evaldas tweetet](https://twitter.com/lunfardo314/status/1608091607462453248?s=20&t=KJezLHnfpMbFh5aclZK2Qg) über seine [UTXO Chains. Part 4 - Generic architecture. L2-validated chains. Chains with validity proofs](https://medium.com/@lunfardo/utxo-chains-part-4-499d12734abc)
 10. **Crypto News**: Microstrategie hat mal wieder 2500 BTC gekauft: [Tweet von Michael Saylor](https://twitter.com/saylor/status/1608086703843180544?s=20&t=2Hyz9Gm2C1q2gg-YdCq9VQ)
 11. **IOTA Artikel**: von Crypto News Flash: [IOTA: Huge NFT collection starts on tangle using the super secure Meta Anchor™](https://www.crypto-news-flash.com/iota-huge-nft-collection-starts-on-tangle-using-the-super-secure-meta-anchor/)
+12. **IOTA Ökosystem**: [Iotaorigin tweetet](https://twitter.com/origin_iota/status/1608077940344131584?s=20&t=KJezLHnfpMbFh5aclZK2Qg), dass sie scheinbar Commodities tokenisieren wollen...
+13. **IOTA Gedanken**: [Vrom Tweet](https://twitter.com/Vrom14286662/status/1608168197974269953?s=20&t=KJezLHnfpMbFh5aclZK2Qg) über das Problem mit fakeCoins
