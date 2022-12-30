@@ -21,3 +21,4 @@
 19. **IOTA Artikel**: von Crypto News Flash: [IOTA: Shimmer will drive tangle and the ecosystem in billion-$-market – All you need to know](https://www.crypto-news-flash.com/iota-shimmer-will-drive-tangle-and-the-ecosystem-in-billion-market-all-you-need-to-know/)
 20. **IOTA Audio**: Neuer Moonaco Podcast mit Akkordis: [Tweet](https://twitter.com/MoonacoPodcast/status/1608480777964261376); [Spotify Link](https://open.spotify.com/episode/0kvnw4SLCrmyE8VOI38fNf?si=OFRxDu8sSbWPPmMeeJ0U8A&nd=1)
 21. **Crypto Diskussion**: Hans Moog hat sich zum Constellation Network geäußert: [Tweet](https://twitter.com/hus_qy/status/1608555910565085184?s=20&t=AtSPK6fsl6CBjViLZ8QZTQ)
+22. **IOTA Youtube**: von Crypto Today: [SHOULD YOUB BUY IOTA BY THE END OF 2022?? - MIOTA PRICE PREDICTION & NEWS](https://www.youtube.com/watch?v=JILWU8RjG84)
