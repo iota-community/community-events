@@ -30,4 +30,5 @@
 28. **IOTA Charts**: $Shimmer und $Soon haben in der letzten Woche extrem gut performt. Beide sind um mehr als 60% gestiegen. Bemerkenswert vor allem, weil der Gesamtmarkt eher negativ war
 29. **IOTA Ökosystem**: [Mosquito Pay tweetet](https://twitter.com/MosquitoPay/status/1609116617971040257?s=20&t=MC8qBiaj4QdQkACNmQlxDQ) ein Video über ihre "next generation point of sales" Usecases
 30. **IOTA Promote**: [Dell tweetet](https://twitter.com/Dell_Edge/status/1609296284258557954) über ihren "top post of the year for #edge in 2022" in dem sie ihr [Project Alvarium Accurately Tracks Carbon Footprints with Edge Solutions](https://www.dell.com/en-us/dt/video-collateral/project-alvarium-tracks-carbon-footprint-with-edge-solutions.htm?dgc=SM&cid=160239&lid=spr8503268030&refid=sm_TWITTER_spr8503268030&linkId=195160904) angekündigt haben
-31. **IOTA Wochenrückblick**: Hier der [IOTA Talks Wochenrückblick](https://www.iota-talk.com/index.php?article/250-wochenr%C3%BCckblick-vom-25-bis-31-dezember-2022/)
+31. **IOTA Youtube**: von Spec Weekly: [Classic - Episode 31: $4 EOY and how REKT your boy Kutkraft really is.](https://www.youtube.com/watch?v=13zAzGwLibw)
+32. **IOTA Wochenrückblick**: Hier der [IOTA Talks Wochenrückblick](https://www.iota-talk.com/index.php?article/250-wochenr%C3%BCckblick-vom-25-bis-31-dezember-2022/)
