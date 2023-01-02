@@ -1,14 +1,6 @@
 # Summary
 
 - [Willkommen!](./stammtisch/welcome.md)
-- [Real Life Stammtisch](./real_life/stammtisch/README.md)
-    - [Berlin](./real_life/stammtisch/berlin/README.md)
-    - [Hamburg](./real_life/stammtisch/hamburg/README.md)
-    - [Mannheim](./real_life/stammtisch/mannheim/README.md)
-    - [München](./real_life/stammtisch/muenchen/README.md)
-    - [Saarbrücken](./real_life/stammtisch/saarbruecken/README.md)
-    - [Switzerland](./real_life/stammtisch/switzerland/README.md)
-    - [South Tyrol](./real_life/stammtisch/south_tyrol/README.md)
 - [Virtual Stammtisch](./stammtisch/README.md)
 - [2021-03-01](./stammtisch/2021-03-01/README.md)
 - [2021-03-08](./stammtisch/2021-03-08/README.md)
@@ -107,3 +99,4 @@
 - [2022-12-19](./stammtisch/2022-12-19/README.md)
 - [2022-12-26](./stammtisch/2022-12-26/README.md)
 - [2023-01-02](./stammtisch/2023-01-02/README.md)
+- [2023-01-09](./stammtisch/2023-01-09/README.md)
