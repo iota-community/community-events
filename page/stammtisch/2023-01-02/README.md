@@ -33,4 +33,5 @@
 31. **IOTA Youtube**: von Spec Weekly: [Classic - Episode 31: $4 EOY and how REKT your boy Kutkraft really is.](https://www.youtube.com/watch?v=13zAzGwLibw)
 32. **IOTA Wochenrückblick**: Hier der [IOTA Talks Wochenrückblick](https://www.iota-talk.com/index.php?article/250-wochenr%C3%BCckblick-vom-25-bis-31-dezember-2022/)
 33. **Twitter Hype**: [Dom tweete](https://twitter.com/DomSchiener/status/1609509914879090688?s=20&t=sVfyS4dJN-YzFgAdh9-vVQ) von der 2023 Rakete 
-34. **IOTA Statistiks**: [Sebastian Kremer tweetet](https://twitter.com/SebaKremer/status/1609211214860587018?s=20&t=sVfyS4dJN-YzFgAdh9-vVQ) einige Statiskien über den IOTA Discord. Hier auch nochmal die Statistiken von 2021: [Tweet](https://twitter.com/SebaKremer/status/1609211214860587018?s=20&t=sVfyS4dJN-YzFgAdh9-vVQ)
+34. **IOTA Statistics**: [Sebastian Kremer tweetet](https://twitter.com/SebaKremer/status/1609211214860587018?s=20&t=sVfyS4dJN-YzFgAdh9-vVQ) einige Statiskien über den IOTA Discord. Hier auch nochmal die Statistiken von 2021: [Tweet](https://twitter.com/SebaKremer/status/1609211214860587018?s=20&t=sVfyS4dJN-YzFgAdh9-vVQ)
+35. **IOTA Artikel**: von Krypto Guru: [DER KLEINE IOTA 2022-JAHRESRÜCKBLICK (TEIL 1)](https://krypto-guru.de/news/der-kleine-iota-2022-jahresrueckblick-teil-1/)
