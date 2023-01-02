@@ -35,3 +35,4 @@
 33. **Twitter Hype**: [Dom tweete](https://twitter.com/DomSchiener/status/1609509914879090688?s=20&t=sVfyS4dJN-YzFgAdh9-vVQ) von der 2023 Rakete 
 34. **IOTA Statistics**: [Sebastian Kremer tweetet](https://twitter.com/SebaKremer/status/1609211214860587018?s=20&t=sVfyS4dJN-YzFgAdh9-vVQ) einige Statiskien über den IOTA Discord. Hier auch nochmal die Statistiken von 2021: [Tweet](https://twitter.com/SebaKremer/status/1609211214860587018?s=20&t=sVfyS4dJN-YzFgAdh9-vVQ)
 35. **IOTA Artikel**: von Krypto Guru: [DER KLEINE IOTA 2022-JAHRESRÜCKBLICK (TEIL 1)](https://krypto-guru.de/news/der-kleine-iota-2022-jahresrueckblick-teil-1/)
+36. **Crypto Drama**: Artikel von BTC-Echo: [Bitcoin-Entwickler verliert all seine Coins durch Hack](https://www.btc-echo.de/schlagzeilen/bitcoin-entwickler-verliert-all-seine-coins-durch-hack-157093/)
