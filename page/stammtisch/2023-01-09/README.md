@@ -3,7 +3,7 @@
 1. **IOTA Learn**: [ID.iota tweetet](https://twitter.com/id_iota/status/1609957772845780992?s=20&t=pGReBICqxfgN2ov8ERDySg) 44 Tweets zu IOTA, Shimmer und Assembly
 2. **IOTA Ökosystem**: [LendeXe tweetet](https://twitter.com/LendeXeFinance/status/1609930924002623488?s=20&t=pGReBICqxfgN2ov8ERDySg) 10 Tweets zu ihrem "Ultimate Loan"
 3. **IOTA Youtube**: [CryptoTuts tweetet](https://twitter.com/CryptoTuts/status/1610683727499202561?s=20&t=7PGbq12oyjSqAH-WMBg_zg) über [IOTA steht kurz vor Coordicide - IOTA 2.0](https://www.youtube.com/watch?v=yhZJkelIl_o&t=28s)
-4. **IOTA Youtube**: von Kryptonight_Owl: [IOTA (MIOTA) News deutsch:💥"GLÄNZENDE ZUKUNFT"‼️JETZT KAUFEN⁉️BITCOIN & ETH WERDEN EXPLODIEREN 2023](https://www.youtube.com/watch?v=NGlZs45SDXY)
+4. **IOTA Youtube**: von Kryptonight_Owl: [IOTA (MIOTA) News deutsch: "GLÄNZENDE ZUKUNFT"‼️JETZT KAUFEN⁉️BITCOIN & ETH WERDEN EXPLODIEREN 2023](https://www.youtube.com/watch?v=NGlZs45SDXY)
 5. **IOTA Youtube**: vom Bitcoin Traiding Informant: [IOTA 2023 - Preisvorschau - warum ist der Kurs so besch***en](https://www.youtube.com/watch?v=p_naw0m4ACI)
 6. **IOTA Youtube**: von Crypto Today: [IOTA PRICE WILL +8000% ONCE THIS HAPPENS IN 2023 - PRICE PREDICTION & NEWS](https://www.youtube.com/watch?v=qC-aG9I_nUw)
 7. **IOTA Youtube**: von CryptoFayv: [Was ist IOTA | So geht smarte Zukunft!](https://www.youtube.com/watch?v=5zyw10U05hs)
@@ -25,3 +25,8 @@
 23. **IOTA Artikel**: von Cryptoticker: [IOTA endlich dezentral? – Warum 2023 das Jahr der Trendwende für das Netzwerk werden könnte!](https://cryptoticker.io/de/iota-endlich-dezentral-2023/)
 24. **Crypto Drama**: Kryptobörse Huobi vor dem aus? [9 Tweets von Furkan](https://twitter.com/FurkanCCTV/status/1611390581778923522?s=20&t=0RsE2juVTz5lPNDC4xPbnQ)
 25. **Crypto Drama**: Artikel von BTC Echo: [Celsius-Kunden sind selbst schuld!](https://www.btc-echo.de/news/celsius-kunden-sind-selbst-schuld-ein-kommentar-zum-us-urteil-157328/)
+26. **IOTA Youtube**: von Iotapoet: [Let's talk about IOTA…](https://www.youtube.com/watch?v=huIGhLOEj2k)
+27. **IOTA Youtube**: von Iotapoet: [Conversation with SpecWeekly - The bullcase for IOTA/Shimmer in 2023](https://www.youtube.com/watch?v=rRKxsjCCD9I)
+28. **IOTA Ökosystem**: Artikel von [IotaOrigin](https://twitter.com/origin_iota): [Introducing IotaOrigin](https://medium.com/@iotaorigin/introducing-iotaorigin-129c895b9f97)
+29. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1611297819008057344?s=20&t=0RsE2juVTz5lPNDC4xPbnQ) über ihre erste Seedrunde für die man sich jetzt bewerben kann
+30. 
