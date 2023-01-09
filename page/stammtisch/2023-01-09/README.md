@@ -1,8 +1,8 @@
 ## IOTA Stammtischthemen für Montag, den 9.1.2023
 
-1. **IOTA Learn**: [ID.iota tweetet](https://twitter.com/id_iota/status/1609957772845780992?s=20&t=pGReBICqxfgN2ov8ERDySg) 44 Tweets zu IOTA, Shimmer und Assembly
-2. **IOTA Ökosystem**: [LendeXe tweetet](https://twitter.com/LendeXeFinance/status/1609930924002623488?s=20&t=pGReBICqxfgN2ov8ERDySg) 10 Tweets zu ihrem "Ultimate Loan"
-3. **IOTA Youtube**: [CryptoTuts tweetet](https://twitter.com/CryptoTuts/status/1610683727499202561?s=20&t=7PGbq12oyjSqAH-WMBg_zg) über [IOTA steht kurz vor Coordicide - IOTA 2.0](https://www.youtube.com/watch?v=yhZJkelIl_o&t=28s)
+1. **IOTA Learn**: [ID.iota macht 44 Tweets](https://twitter.com/id_iota/status/1609957772845780992?s=20&t=pGReBICqxfgN2ov8ERDySg) über IOTA, Shimmer und Assembly
+2. **IOTA Ökosystem**: [LendeXe macht 10 Tweets](https://twitter.com/LendeXeFinance/status/1609930924002623488?s=20&t=pGReBICqxfgN2ov8ERDySg) über ihr Konzept vom "Ultimate Loan"
+3. **IOTA Youtube**: [CryptoTuts tweetet](https://twitter.com/CryptoTuts/status/1610683727499202561?s=20&t=7PGbq12oyjSqAH-WMBg_zg) über das Youtube-Video: [IOTA steht kurz vor Coordicide - IOTA 2.0](https://www.youtube.com/watch?v=yhZJkelIl_o&t=28s)
 4. **IOTA Youtube**: von Kryptonight_Owl: [IOTA (MIOTA) News deutsch: "GLÄNZENDE ZUKUNFT"!!JETZT KAUFEN!? BITCOIN & ETH WERDEN EXPLODIEREN 2023](https://www.youtube.com/watch?v=NGlZs45SDXY)
 5. **IOTA Youtube**: vom Bitcoin Traiding Informant: [IOTA 2023 - Preisvorschau - warum ist der Kurs so besch***en](https://www.youtube.com/watch?v=p_naw0m4ACI)
 6. **IOTA Youtube**: von Crypto Today: [IOTA PRICE WILL +8000% ONCE THIS HAPPENS IN 2023 - PRICE PREDICTION & NEWS](https://www.youtube.com/watch?v=qC-aG9I_nUw)
