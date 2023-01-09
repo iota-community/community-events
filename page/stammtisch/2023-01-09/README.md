@@ -37,3 +37,4 @@
 35. **IOTA Learn**: [The Scope De-Fi tweetet](https://twitter.com/ScopeDefi/status/1612191463365910528?s=20&t=KSGEkC8U1ldZM6ZytctQRw) über die Rolle von der [Crypto Finance Group](https://twitter.com/CryptoFinanceAG) (the first Licensed $SMR Custody and Brokerage Provider) bzüglich Shimmer
 36. **IOTA Wochenrückblick**: Hier der [IOTA-Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/252-wochenr%C3%BCckblick-vom-1-bis-7-januar-2023/)
 37. **IF Intern**: Die IF ist zurück aus den Ferien: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1612388476506218496?s=20&t=KSGEkC8U1ldZM6ZytctQRw)
+38. **Hornet Update**: Muxxer & Co geben Gas: Es gibt gleich 2 Updates: [HORNET-2.0.0-rc.4 for the Shimmer network (stardust)](https://github.com/iotaledger/hornet/releases/tag/v2.0.0-rc.4) und [HORNET-1.2.2 for the IOTA mainnet (chrysalis)](https://github.com/iotaledger/hornet/releases/tag/v1.2.2)
