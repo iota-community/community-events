@@ -8,8 +8,8 @@
 6. **IOTA Youtube**: von Crypto Today: [IOTA PRICE WILL +8000% ONCE THIS HAPPENS IN 2023 - PRICE PREDICTION & NEWS](https://www.youtube.com/watch?v=qC-aG9I_nUw)
 7. **IOTA Youtube**: von CryptoFayv: [Was ist IOTA | So geht smarte Zukunft!](https://www.youtube.com/watch?v=5zyw10U05hs)
 8. **IOTA Artikel**: vom Bitcoin Echo: [IOTA vor Coordicide - Auf dem Weg zur Dezentralität](https://www.btc-echo.de/news/iota-vor-coordicide-auf-dem-weg-zur-dezentralitaet-157139/)
-9. **IOTA Ökosystem**: [Swarm Logistics Technologies tweetet](https://twitter.com/SwarmLogistics/status/1610342862092115970?s=20&t=7PGbq12oyjSqAH-WMBg_zg) von einem Event wo sie lobend erähnt wurden
-10. **IOTA Ökosystem**: Neue Coins sind auf den Soonaverse gelistet: [Tweet](https://twitter.com/soon_labs/status/1610511266501767173?s=20&t=7PGbq12oyjSqAH-WMBg_zg)
+9. **IOTA Ökosystem**: [Swarm Logistics Technologies tweetet](https://twitter.com/SwarmLogistics/status/1610342862092115970?s=20&t=7PGbq12oyjSqAH-WMBg_zg) von einem Startup-Event, wo sie als lobend erähnt wurden
+10. **IOTA Ökosystem**: Neue Coins sind auf der Soonaverse Plattform gelistet: [Tweet](https://twitter.com/soon_labs/status/1610511266501767173?s=20&t=7PGbq12oyjSqAH-WMBg_zg)
 11. **IOTA Smart Contracts**: [Evaldas tweetet](https://twitter.com/lunfardo314/status/1610201678917124097?s=20&t=7PGbq12oyjSqAH-WMBg_zg) über Teil 5 von seinem Blogpost: [UTXO Chains. Part 5 L1-validated UTXO chains (L1 smart contracts). Conclusions](https://medium.com/@lunfardo/utxo-chains-part-5-c4c748566fc6)
 12. **IOTA Audio**: Der engl. Stammtisch war am Mittwoch: [Tweet](https://twitter.com/Deep_Sea_Iotan/status/1609967496248922112?s=20&t=7PGbq12oyjSqAH-WMBg_zg)
 13. **IOTA Audio**: Am Donnerstag war Akkodis im Sprachchat von der TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1610175629898416128?s=20&t=7PGbq12oyjSqAH-WMBg_zg); Die Aufzeichnung findet man auf Telegram
@@ -32,4 +32,7 @@
 30. **Shimmer Hype**: [ShimmerSea](https://twitter.com/ShimmerSeaDEX) testet bereits die Shimmer EVM und kann es kaum erwarten ihre ShimmerSea Training DEX zu starten: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1612350963905331201?s=20&t=u8zkOuC0DYPsQzV02jMg7A)
 31. **IOTA Ökosystem**: [Evvrything tweetet](https://twitter.com/TheEvvrything/status/1612131833063575554?t=2LUWcwVw1KfmqUH8MDVnCQ&s=19) darüber, dass sie bald ihre Social Media App public beta testen wollen. Die App basiert auf Shimmer bzw. IOTA
 32. **IOTA Artikel**: von Krypto Guro: [DER KLEINE IOTA-JAHRESRÜCKBLICK 2022](https://krypto-guru.de/news/der-kleine-iota-jahresrueckblick-2022-teil-2/)
-32. **IOTA Wochenrückblick**: Hier der [IOTA-Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/252-wochenr%C3%BCckblick-vom-1-bis-7-januar-2023/)
+33. **IOTA Youtube**: von Multi: [Meine IOTA Vision](https://www.youtube.com/watch?v=kG-uVavKQM0)
+34. **IOTA Youtube**: von DEXes: [Crypto Meetup #111 BTC IOTA XRP FET SOL](https://www.youtube.com/watch?v=qqtxnJNwrpo&t=573s)
+35. **IOTA Adaption**: [The Scope De-Fi tweetet](https://twitter.com/ScopeDefi/status/1612191463365910528?s=20&t=KSGEkC8U1ldZM6ZytctQRw) über die Rolle von der Crypto Finance Group (the first Licensed $SMR Custody and Brokerage Provider) bzüglich Shimmer
+36. **IOTA Wochenrückblick**: Hier der [IOTA-Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/252-wochenr%C3%BCckblick-vom-1-bis-7-januar-2023/)
