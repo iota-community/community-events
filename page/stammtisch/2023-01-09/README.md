@@ -36,3 +36,4 @@
 34. **IOTA Youtube**: von [DEXes](https://twitter.com/_DEXES_): [Crypto Meetup #111 BTC IOTA XRP FET SOL](https://www.youtube.com/watch?v=qqtxnJNwrpo&t=573s)
 35. **IOTA Learn**: [The Scope De-Fi tweetet](https://twitter.com/ScopeDefi/status/1612191463365910528?s=20&t=KSGEkC8U1ldZM6ZytctQRw) über die Rolle von der [Crypto Finance Group](https://twitter.com/CryptoFinanceAG) (the first Licensed $SMR Custody and Brokerage Provider) bzüglich Shimmer
 36. **IOTA Wochenrückblick**: Hier der [IOTA-Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/252-wochenr%C3%BCckblick-vom-1-bis-7-januar-2023/)
+37. **IF Intern**: Die IF ist zurück aus den Ferien: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1612388476506218496?s=20&t=KSGEkC8U1ldZM6ZytctQRw)
