@@ -8,7 +8,7 @@
 6. **IOTA Youtube**: von Crypto Today: [IOTA PRICE WILL +8000% ONCE THIS HAPPENS IN 2023 - PRICE PREDICTION & NEWS](https://www.youtube.com/watch?v=qC-aG9I_nUw)
 7. **IOTA Youtube**: von CryptoFayv: [Was ist IOTA | So geht smarte Zukunft!](https://www.youtube.com/watch?v=5zyw10U05hs)
 8. **IOTA Artikel**: vom Bitcoin Echo: [IOTA vor Coordicide - Auf dem Weg zur Dezentralität](https://www.btc-echo.de/news/iota-vor-coordicide-auf-dem-weg-zur-dezentralitaet-157139/)
-9. **IOTA Ökosystem**: [Swarm Logistics Technologies tweetet](https://twitter.com/SwarmLogistics/status/1610342862092115970?s=20&t=7PGbq12oyjSqAH-WMBg_zg) von einem Startup-Event, wo sie als lobend erähnt wurden
+9. **IOTA Ökosystem**: [Swarm Logistics Technologies tweetet](https://twitter.com/SwarmLogistics/status/1610342862092115970?s=20&t=7PGbq12oyjSqAH-WMBg_zg) von einem Startup-Event, wo sie lobend erähnt wurden
 10. **IOTA Ökosystem**: Neue Coins sind auf der Soonaverse Plattform gelistet: [Tweet](https://twitter.com/soon_labs/status/1610511266501767173?s=20&t=7PGbq12oyjSqAH-WMBg_zg)
 11. **IOTA Smart Contracts**: [Evaldas tweetet](https://twitter.com/lunfardo314/status/1610201678917124097?s=20&t=7PGbq12oyjSqAH-WMBg_zg) über Teil 5 von seinem Blogpost: [UTXO Chains. Part 5 L1-validated UTXO chains (L1 smart contracts). Conclusions](https://medium.com/@lunfardo/utxo-chains-part-5-c4c748566fc6)
 12. **IOTA Audio**: Der engl. Stammtisch war am Mittwoch: [Tweet](https://twitter.com/Deep_Sea_Iotan/status/1609967496248922112?s=20&t=7PGbq12oyjSqAH-WMBg_zg)
