@@ -38,3 +38,4 @@
 36. **IOTA Wochenrückblick**: Hier der [IOTA-Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/252-wochenr%C3%BCckblick-vom-1-bis-7-januar-2023/)
 37. **IF Intern**: Die IF ist zurück aus den Ferien: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1612388476506218496?s=20&t=KSGEkC8U1ldZM6ZytctQRw)
 38. **Hornet Update**: Muxxer & Co geben Gas: Es gibt gleich 2 Updates: [HORNET-2.0.0-rc.4 for the Shimmer network (stardust)](https://github.com/iotaledger/hornet/releases/tag/v2.0.0-rc.4) und [HORNET-1.2.2 for the IOTA mainnet (chrysalis)](https://github.com/iotaledger/hornet/releases/tag/v1.2.2)
+39. **Crypto Kurse**: Ist der Bullmarkt zurück? Heute am Montag 9.1.2023 sehen wir erstmals wieder zweistellige % Zahlen...
