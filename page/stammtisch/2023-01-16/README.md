@@ -12,3 +12,4 @@
 10. **IOTA Dev**: IOTA bei Proof of Github auf Platz 5: [Tweet](https://twitter.com/ProofofGitHub/status/1612720916286377985?s=20&t=r02r21sq5gmZpM_SQeTBsQ)
 11. **IOTA Ökosystem**: [TangleHub tweetet](https://twitter.com/Tanglehub_eu/status/1612769938074116098?s=20&t=r02r21sq5gmZpM_SQeTBsQ) darüber, dass ihr dev discord channel jetzt offen ist für alle und dass sie "20 new testers (companies/foundations/startups)" in ihrem GitHub repo onboarden konnten
 12. **IOTA Ökosystem**: [Deepr Finance tweetet](https://twitter.com/DeeprFinance/status/1612801148133548032?s=20&t=j0-mVcs1aHeiybQcj81B0w), dass sie auch schon die Shimmer EVM testen...
+13. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1612870701089693696?s=20&t=HiXdUCmUnyQD0B7HCquNFg) darüber, dass ihr nächstes Wallet Update Shimmer und IOTA Mainnet unterstützen wird
