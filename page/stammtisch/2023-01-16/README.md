@@ -26,3 +26,4 @@
 24. **IOTA Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1613059246966571014?s=20&t=j4L7-YtdYMNCfBnJVtYeoA) einen Jahresrückblick un dschreiben auch "EVM on the horizon"
 25. **IOTA Ökosystem?**: Die ETO-Gruppe ist auf einer Messe (farmunited): [Tweet von ETO Gruppe](https://twitter.com/EtoGruppe/status/1613056364128903170?s=20&t=j4L7-YtdYMNCfBnJVtYeoA) und 
 26. **Crypto Drama**: Es gab eine Tweet-/Briefwechsel zwischen der Digital Courency Group und C. Winkelvoss von der Genesis Börse: [Tweets mit Antworten](https://twitter.com/cameron/status/1612806661508567042?s=20&t=kDycjBExMf9J86JMh6v4ZA)
+27. **IOTA Youtube**: [CREATING APPS for SHIMMER / IOTA incl. the Demo-Project "Shimmer Playground"](https://www.youtube.com/watch?app=desktop&v=YUZOR5JXSJA)
