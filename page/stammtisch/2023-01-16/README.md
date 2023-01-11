@@ -27,3 +27,6 @@
 25. **IOTA Ökosystem?**: Die ETO-Gruppe ist auf einer Messe (farmunited): [Tweet von ETO Gruppe](https://twitter.com/EtoGruppe/status/1613056364128903170?s=20&t=j4L7-YtdYMNCfBnJVtYeoA) und 
 26. **Crypto Drama**: Es gab eine Tweet-/Briefwechsel zwischen der Digital Courency Group und C. Winkelvoss von der Genesis Börse: [Tweets mit Antworten](https://twitter.com/cameron/status/1612806661508567042?s=20&t=kDycjBExMf9J86JMh6v4ZA)
 27. **IOTA Youtube**: [CREATING APPS for SHIMMER / IOTA incl. the Demo-Project "Shimmer Playground"](https://www.youtube.com/watch?app=desktop&v=YUZOR5JXSJA)
+28. **IOTA NFT Ökosystem**: [Dark Mythos](https://twitter.com/DarkMythosIOTA) haben einen neue [Explorer Webseite](https://explorer.dark-mythos.com/) (https://twitter.com/DarkMythosIOTA/status/1613122123245158401?s=20&t=kDycjBExMf9J86JMh6v4ZA) für ihr NFT Projekt
+29. **IOTA NFT Ökosystem**: Die [iotapes(ApeDAO)](https://twitter.com/iotapes) haben eine neue [Webseite](http://apedao.finance:8080/#/)
+30. **IOTA Adaption**: [StMicroelectronics tweetet](https://twitter.com/ST_World/status/1613131865875005441?s=20&t=kDycjBExMf9J86JMh6v4ZA) über IOTA und ihren Blogpost: [X-CUBE-IOTA1 3.0: IOTA 1.5 Chrysalis with L2Sec and an STSAFE, blockchain in IoT done right](https://blog.st.com/iota/)
