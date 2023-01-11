@@ -20,3 +20,6 @@
 18. **IOTA chart**: Eine [IOTA Adresse](https://thetangle.org/address/iota1qqk3ncqdghex02tpnmsl3fwq4qstcl0wgurqc8ru4cdungwq696jk8htadc) hat offenbar über die letzten Monate 40 Tiota verkauft und ist jetzt fertig damit
 19. **IOTA Governements**: [DeepSea tweetet](https://twitter.com/Deep_Sea_Iotan/status/1612864216834215936?s=20&t=kDycjBExMf9J86JMh6v4ZA) über 3 neue Airtables um Struktur in die Aufgaben der Grand Reviewer zu bringen
 20. **IOTA Youtube**: von Investors Reality: [TIME TO BUY ALTCOINS WITH 96% DISCOUNT! IOTA MIOTA Will Generate 2,680% Return!](https://www.youtube.com/watch?v=U0r5y2bri80)
+21. **IOTA Youtube**: von Its Gigi Tv: [CARDANO einfach Stark ! IOTA zündet nochmal die Rakete ? Krypto News](https://www.youtube.com/watch?v=OFkVAfMMXmU)
+22. **Shimmer EVM**: Die Zeichen mehren sich, dass die Shimmer EVM im Testnetz soon kommt: [Tweet von Iotabee](https://twitter.com/iotabee/status/1613080500490600450?s=20&t=j4L7-YtdYMNCfBnJVtYeoA); [Tweet von LendeXe](https://twitter.com/LendeXeFinance/status/1612901369882484768?s=20&t=j4L7-YtdYMNCfBnJVtYeoA), die den public sale beenden (und es hieß damals es läuft so lange bis die EVM kommt..)
+23. **IOTA Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1613059246966571014?s=20&t=j4L7-YtdYMNCfBnJVtYeoA) einen Jahresrückblick un dschreiben auch "EVM on the horizon"
