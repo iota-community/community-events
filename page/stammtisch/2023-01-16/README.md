@@ -6,10 +6,10 @@
 4. **IOTA Artikel**: [Regine tweetet](https://twitter.com/Energine/status/1612495781121908742?s=20&t=BTWB4TNFQ8xzk0Uiu_GF7g) über den Artikel: [Female Founders in Web3](https://blockchain.digital-bb.de/en/female-founders-in-web3)
 5. **IOTA Artikel**: Bitpanda schreibt über IOTA und den Coordicide in ihrer Experten-Lektion 3: [Drei Zukunftsszenarien für die Verwendung von Kryptowährungen](https://www.bitpanda.com/academy/de/lektionen/drei-zukunftsszenarien-fur-die-verwendung-von-kryptowahrungen/)
 6. **IOTA Artikel**: von Crypto News Flash: [IOTA: Society2-powered social media app Evvrything launches to drive adoption in billion-$-market](https://www.crypto-news-flash.com/iota-society2-powered-social-media-app-evvrything-launches-to-drive-adoption-in-billion-market/)
-7. **IOTA Youtube**: AMA mit Jonas Theis vom 12.12. ist jetzt auf Youtube: [Twitter Space AMA Recording: Crypto Miners x IOTA](https://www.youtube.com/watch?v=tmQWNKO1k4o)
+7. **IOTA Youtube**: AMA mit Jonas Theis vom 12.12. ist jetzt auf Youtube: [Twitter Space AMA Recording: Crypto Miners x IOTA](https://www.youtube.com/watch?v=tmQWNKO1k4o); Auch die [IF tweetet]() darüber
 8. **IOTA Artikel**: [Electronics Media tweetet](https://twitter.com/electronics_med/status/1612719660201566209?s=20&t=r02r21sq5gmZpM_SQeTBsQ) über den Artikel: [X-CUBE-IOTA1 3.0: IOTA 1.5 Chrysalis with L2Sec and an STSAFE, blockchain in IoT done right](https://www.electronicsmedia.info/2023/01/10/x-cube-iota1-3-0-iota-1-5-chrysalis-with-l2sec-and-an-stsafe-blockchain-in-iot-done-right/)
 9. **IOTA Artikel**: Hier der gleiche Artikel als Blogpost von ST-Microelectronics: [X-CUBE-IOTA1 3.0: IOTA 1.5 Chrysalis with L2Sec and an STSAFE, blockchain in IoT done right](https://blog.st.com/iota/); [Navin Ramachandran retweetet](https://twitter.com/navinram999/status/1612753469685006337?s=20&t=r02r21sq5gmZpM_SQeTBsQ) den Artikel
-10. **IOTA Dev**: IOTA bei Proof of Github auf Platz 5: [Tweet](https://twitter.com/ProofofGitHub/status/1612720916286377985?s=20&t=r02r21sq5gmZpM_SQeTBsQ)
+10. **IOTA Dev**: IOTA bei Proof of Github auf Platz 5: [Tweet](https://twitter.com/ProofofGitHub/status/1613083315900227584?s=20&t=xdJ0Nw9nQ9MnkXVGBDlhMg)
 11. **IOTA Ökosystem**: [TangleHub tweetet](https://twitter.com/Tanglehub_eu/status/1612769938074116098?s=20&t=r02r21sq5gmZpM_SQeTBsQ) darüber, dass ihr dev discord channel jetzt offen ist für alle und dass sie "20 new testers (companies/foundations/startups)" in ihrem GitHub repo onboarden konnten
 12. **IOTA Ökosystem**: [Deepr Finance tweetet](https://twitter.com/DeeprFinance/status/1612801148133548032?s=20&t=j0-mVcs1aHeiybQcj81B0w), dass sie auch schon die Shimmer EVM testen...
 13. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1612870701089693696?s=20&t=HiXdUCmUnyQD0B7HCquNFg) darüber, dass ihr nächstes Wallet Update Shimmer und IOTA Mainnet unterstützen wird
@@ -37,4 +37,5 @@
 35. **IOTA Artikel**: von Crypto News Flash: [IOTA: Deepr Finance to release lend and borrow platform to conquer billion-$-market](https://www.crypto-news-flash.com/iota-deepr-finance-to-release-lend-and-borrow-platform-to-conquer-billion-market/)
 36. **Crypto Adaption**: Artikel: [El Salvador verabschiedet Gesetz für Bitcoin-Anleihen
 ](https://www.btc-echo.de/schlagzeilen/el-salvador-verabschiedet-gesetz-fuer-bitcoin-anleihen-157622/)
-37. 
+37. **IOTA Youtube**: von Common Sense Crypto: [IOTA SET TO GO PARABOLIC GROWTH & PARTNERSHIPS IOT & SMART CITIES TO ADD VALUE TO IOTA MIOTA!](https://www.youtube.com/watch?v=uqK6RGCB7x8)
+38. **IOTA Youtube**: von Altcoin Radar: [This Altcoin Is NOT A Blockchain!! (IOTA Deep Dive)](https://www.youtube.com/watch?v=EWBKpyhFCeg)
