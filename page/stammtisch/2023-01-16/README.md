@@ -44,3 +44,4 @@
 41. **IOTA Ökosystem**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1613721662993858560?s=20&t=ZLF9hvYM98Dm4H07qbSzzg), dass sie die EVM Beta unterstützen werden sobald sie online ist. Und fake SMR haben zumindest kein SMR Symbol mehr in TanglePay
 42. **Allg. News**: Artikel: [Zähler werden Pflicht - Was die Strom-Revolution für Verbraucher bedeutet](https://www.t-online.de/heim-garten/energie/id_100110352/stromzaehler-eine-revolution-fuer-kunden.html)
 43. **IOTA Youtube**: von Multi: [Docker Container als VS Code Workspace speichern und starten - Mein Dev-Setup](https://www.youtube.com/watch?v=03SDWs8rEt0)
+44. **IOTA Dev**: [stack tweetet](https://twitter.com/StackDotMoney/status/1613540567559933952?s=20&t=ZLF9hvYM98Dm4H07qbSzzg), dass die Developer Aktivität bei IOTA besonder hoch war im letzten Monat und verlinkt den Artikel: 
