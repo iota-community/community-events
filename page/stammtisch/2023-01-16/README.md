@@ -46,3 +46,4 @@
 43. **IOTA Youtube**: von Multi: [Docker Container als VS Code Workspace speichern und starten - Mein Dev-Setup](https://www.youtube.com/watch?v=03SDWs8rEt0)
 44. **IOTA Dev**: [stack - crypto dev tracker tweetet](https://twitter.com/StackDotMoney/status/1613540567559933952?s=20&t=ZLF9hvYM98Dm4H07qbSzzg), dass die [Developer Aktivität bei IOTA](https://stack.money/asset/iota) besonder hoch war im letzten Monat 
 45. **IOTA Youtube**: von BarriC: [$IOTA IS THE SLEEPING GIANT OF 2023 AND ISO20022! #crypto #cryptocurrency #iota #tangle #iso20022](https://www.youtube.com/watch?v=21iHipTDNdk)
+46. **IOTA Ökosystem**: [Chirp veröffentlicht](https://stack.money/asset/iota) einen Blogpost: [The Gears Powering Chirp Mechanics](https://chirpiot.medium.com/the-gears-powering-chirp-mechanics-2668f4f608fa)
