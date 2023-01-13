@@ -39,3 +39,8 @@
 ](https://www.btc-echo.de/schlagzeilen/el-salvador-verabschiedet-gesetz-fuer-bitcoin-anleihen-157622/)
 37. **IOTA Youtube**: von Common Sense Crypto: [IOTA SET TO GO PARABOLIC GROWTH & PARTNERSHIPS IOT & SMART CITIES TO ADD VALUE TO IOTA MIOTA!](https://www.youtube.com/watch?v=uqK6RGCB7x8)
 38. **IOTA Youtube**: von Altcoin Radar: [This Altcoin Is NOT A Blockchain!! (IOTA Deep Dive)](https://www.youtube.com/watch?v=EWBKpyhFCeg)
+39. **Crypto Promote**: Miss El Salvador läuft bei der Miss Univers im Bitcoin Outfit auf: [Tweet](https://twitter.com/Crypto_Crib_/status/1613569066203025409?s=20&t=ZLF9hvYM98Dm4H07qbSzzg)
+40. **Crypto Adaption**: 
+41. **IOTA Ökosystem**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1613721662993858560?s=20&t=ZLF9hvYM98Dm4H07qbSzzg), dass sie die EVM Beta unterstützen werden sobald sie online ist. Und fake SMR haben zumindest kein SMR Symbol mehr in TanglePay
+42. **Allg. News**: Artikel: [Zähler werden Pflicht - Was die Strom-Revolution für Verbraucher bedeutet](https://www.t-online.de/heim-garten/energie/id_100110352/stromzaehler-eine-revolution-fuer-kunden.html)
+43. **IOTA Youtube**: von Multi: [Docker Container als VS Code Workspace speichern und starten - Mein Dev-Setup](https://www.youtube.com/watch?v=03SDWs8rEt0)
