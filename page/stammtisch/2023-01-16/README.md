@@ -47,3 +47,6 @@
 44. **IOTA Dev**: [stack - crypto dev tracker tweetet](https://twitter.com/StackDotMoney/status/1613540567559933952?s=20&t=ZLF9hvYM98Dm4H07qbSzzg), dass die [Developer Aktivität bei IOTA](https://stack.money/asset/iota) besonder hoch war im letzten Monat 
 45. **IOTA Youtube**: von BarriC: [$IOTA IS THE SLEEPING GIANT OF 2023 AND ISO20022! #crypto #cryptocurrency #iota #tangle #iso20022](https://www.youtube.com/watch?v=21iHipTDNdk)
 46. **IOTA Ökosystem**: [Chirp veröffentlicht](https://stack.money/asset/iota) einen Blogpost: [The Gears Powering Chirp Mechanics](https://chirpiot.medium.com/the-gears-powering-chirp-mechanics-2668f4f608fa)
+47. **IOTA Ökosystem**: [Deepr Finance tweetet](https://twitter.com/DeeprFinance/status/1613901579551404032?s=20&t=ZLF9hvYM98Dm4H07qbSzzg) einen Sneak Preview von ihrer Webseite
+48. **Crypto Drama**: [Gary Gensler tweetet](https://twitter.com/GaryGensler/status/1613658338629230611?s=20&t=pTX9Xw6zpKOglixDQiKgsw), dass die SEC Gemini verklagt wegen "unregistered offer & sale of crypto asset securities through Gemini Earn"
+49. **IOTA Firefly**: Es gab ein Update zur Firefly Entwicklung: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1613912636831457281?s=20&t=ZLF9hvYM98Dm4H07qbSzzg)
