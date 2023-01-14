@@ -55,6 +55,8 @@
 52. **Crypto Pump**: Bitcoin steigt am Wochenende 2x um 10% und Solana kurzfristig um 60% in 24h. Ist der Boden erreicht?
 53. **IOTA Artikel**: von Crypto News Flash: [IOTA teaches that the success of blockchain technology depends not on the market cap’ – Report](https://www.crypto-news-flash.com/iota-teaches-that-the-success-of-blockchain-technology-depends-not-on-the-market-cap-report/)
 54. **IOTA Audio**: Aufzeichnung vom engl. IOTA Stammtisch: [Laura Kajtazi - Project Manager of EBSI for IOTA Foundation - 11-Jan, 2023.](https://www.youtube.com/watch?v=e5K5u1PMzDg)
-55. **Crypto Video**: Im Bayerischen Rundfunk gab es einen Bericht über Bitcoin: [Mittelständler als Bitcoin-Miner](https://www.br.de/br-fernsehen/programmkalender/ausstrahlung-3051126.html)
+55. **Crypto Video**: Im Bayerischen Rundfunk gab es einen Bericht über Bitcoin: [Mittelständler als Bitcoin-Miner](https://www.br.de/br-fernsehen/programmkalender/ausstrahlung-3051126.html); Hier nur der [Bitcoin-Bericht in einem Tweet](https://twitter.com/DocumentingBTC/status/1614294641075015682?s=20&t=QzaQSlUZY0kEzJNZZLgByw)
 56. **IOTA Ökosystem**: [Spyce_5 tweetet](https://twitter.com/SPYCE_5/status/1614263352116510720?s=20&t=QzaQSlUZY0kEzJNZZLgByw) ein Video wie schnell man mit Spyce_5 IOTA-Nodes erstellen kann. Sie wollen bald eine große Beta starten im Januar. Man kann sich schon für den [Early Access](https://spyce5.com/) anmelden 
 57. **IOTA Artikel**: [Tangleverse tweetet](https://twitter.com/TangleVerseWeb/status/1614260176361594880?s=20&t=QzaQSlUZY0kEzJNZZLgByw) über ihren neuen Artikel: [2023 - get ready for IOTA's Year of the Phoenix](https://iotacreator.substack.com/p/2023-get-ready-for-iotas-year-of?sd=pf)
+58. **IOTA Promote**: [Dr. Martin Hiesboek (70K Follower) tweetet](https://twitter.com/MHiesboeck/status/1614260096485187584?s=20&t=QzaQSlUZY0kEzJNZZLgByw) einen One-Pager über IOTA, Shimmer und Co
+59. 
