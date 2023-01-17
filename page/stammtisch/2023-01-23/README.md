@@ -12,3 +12,8 @@
 9. **IOTA Youtube**: von Crypto Bell: [IOTA (MIOTA) & Shimmer (SMR) Crypto -2023 EXPLOSIVE NEWS -Time to buy?](https://www.youtube.com/watch?v=RY1sfIxkpf0)
 10. **IOTA Youtube**: von Common Sense Crypto: [IOTA SET TO GO PARABOLIC💥GROWTH & PARTNERSHIPS🚨IOT & SMART CITIES TO ADD VALUE TO IOTA MIOTA!](https://www.youtube.com/watch?v=uqK6RGCB7x8)
 11. **IOTA Ökosystem**: [Deepr Finance tweetet](https://twitter.com/DeeprFinance/status/1615354475362881537?s=20&t=xjNDeMPCk8_SmjB8yuOcbw) über ihr AMA wo man NFTs bekommen kann. Dom Schiener will auch ein Subie: [Tweet](https://twitter.com/DomSchiener/status/1615362744877830145?s=20&t=xjNDeMPCk8_SmjB8yuOcbw)
+12. **IOTA Hype**: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1615453605384921103?s=20&t=A2ljQUGiD4H6EQ097PzeuQ) mit Details zum aktuellen Stand von Coordicide
+13. **IOTA Dev Update**: [Protocol group, Week 3, 2023 #66](https://github.com/iotaledger/research-updates/discussions/66)
+14. **IOTA Youtube**: von Multi: [Soonaverse Hands On: So kaufst du NFTs! (Soon Token ist explodiert)](https://www.youtube.com/watch?v=mAiG3Vw3Zk8)
+15. **IOTA Drama**: Evaldas spricht im Spec2 (FUD-)Channel über seine Smart Contracts und denkt, dass die IF einen Fehler macht wenn sie sich jetzt auf L1 smart contracts fokusiert
+16. **IOTA Ökosystem**: [LendeXe tweetet](https://twitter.com/LendeXeFinance/status/1615372111199207425?s=20&t=A2ljQUGiD4H6EQ097PzeuQ) vom Start ihrer dApp und veröffentlicht das Tutorial: [LendeXe on Ethereum Sepolia](https://medium.com/@LendeXeFinance/lendexe-on-ethereum-sepolia-c5e4996b85fd)
