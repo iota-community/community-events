@@ -17,3 +17,4 @@
 14. **IOTA Youtube**: von Multi: [Soonaverse Hands On: So kaufst du NFTs! (Soon Token ist explodiert)](https://www.youtube.com/watch?v=mAiG3Vw3Zk8)
 15. **IOTA Drama**: Evaldas spricht im Spec2 (FUD-)Channel über seine Smart Contracts und denkt, dass die IF einen Fehler macht wenn sie sich jetzt auf L1 smart contracts fokusiert
 16. **IOTA Ökosystem**: [LendeXe tweetet](https://twitter.com/LendeXeFinance/status/1615372111199207425?s=20&t=A2ljQUGiD4H6EQ097PzeuQ) vom Start ihrer dApp und veröffentlicht das Tutorial: [LendeXe on Ethereum Sepolia](https://medium.com/@LendeXeFinance/lendexe-on-ethereum-sepolia-c5e4996b85fd)
+17. **Crypto Adaption**: Erste (?) Bank in Deutschland implementiert Crypto: Artikel vom BTC-Echo: [N26 ermöglicht Bitcoin-Kauf in Deutschland](https://www.btc-echo.de/schlagzeilen/n26-krypto-neobank-ermoeglicht-bitcoin-kauf-in-deutschland-158167/)
