@@ -7,4 +7,5 @@
 4. **IOTA Artikel**: von Forbes: [Was ist IOTA? Wie funktioniert es?](https://www.forbes.com/advisor/de/geldanlage/krypto/was-ist-iota/)
 5. **IOTA Devs**: Am Dienstag sind jetzt wieder "Smart Contracts Office Hours" im Discord: [Tweet](https://twitter.com/shimmernet/status/1615031130905772037?s=20&t=lyMmyzm8CiOgU2YfadNGtQ)
 6. **IOTA Ökosystem**: [Numen tweetet](https://twitter.com/numencyber/status/1615270198415605760?s=20&t=lyMmyzm8CiOgU2YfadNGtQ), dass sie aktuell den Code von TanglePay auditieren (bzw. "the code of the #IOTA MPC platform & its bridge on #Shimmer")
-7. 
+7. **IOTA Ökosystem**: [Sphere DAO tweetet](https://twitter.com/Sphere_Hub_io/status/1615113837619056640?s=20&t=lyMmyzm8CiOgU2YfadNGtQ) darüber, dass man die ersten Funktionen von SphereHub auf der Shimmer EVM Testchain ausprobieren kann
+8. **IOTA Ökosystem**: [DAIOT (the first Decentraliced Artificial Intelligence Organization) tweetet](https://twitter.com/daiot_project/status/1615071970932183040?s=20&t=lyMmyzm8CiOgU2YfadNGtQ), dass sie ihr erstes IOT Projekt auf Shimmer launchen wollen
