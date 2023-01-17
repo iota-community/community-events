@@ -9,3 +9,5 @@
 6. **IOTA Ökosystem**: [Numen tweetet](https://twitter.com/numencyber/status/1615270198415605760?s=20&t=lyMmyzm8CiOgU2YfadNGtQ), dass sie aktuell den Code von TanglePay auditieren (bzw. "the code of the #IOTA MPC platform & its bridge on #Shimmer")
 7. **IOTA Ökosystem**: [Sphere DAO tweetet](https://twitter.com/Sphere_Hub_io/status/1615113837619056640?s=20&t=lyMmyzm8CiOgU2YfadNGtQ) darüber, dass man die ersten Funktionen von SphereHub auf der Shimmer EVM Testchain ausprobieren kann
 8. **IOTA Ökosystem**: [DAIOT (the first Decentraliced Artificial Intelligence Organization) tweetet](https://twitter.com/daiot_project/status/1615071970932183040?s=20&t=lyMmyzm8CiOgU2YfadNGtQ), dass sie ihr erstes IOT Projekt auf Shimmer launchen wollen
+9. **IOTA Youtube**: von Crypto Bell: [IOTA (MIOTA) & Shimmer (SMR) Crypto -2023 EXPLOSIVE NEWS -Time to buy?](https://www.youtube.com/watch?v=RY1sfIxkpf0)
+10. ++IOTA Youtube**: von Common Sense Crypto: [IOTA SET TO GO PARABOLIC💥GROWTH & PARTNERSHIPS🚨IOT & SMART CITIES TO ADD VALUE TO IOTA MIOTA!](https://www.youtube.com/watch?v=uqK6RGCB7x8)
