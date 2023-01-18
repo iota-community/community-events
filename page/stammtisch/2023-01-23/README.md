@@ -21,4 +21,5 @@
 18. **IOTA Artikel**: [IOTA joins the blockchain for the UN to serve billions of people and companies with superior tech – Report](https://www.crypto-news-flash.com/iota-joins-the-blockchain-for-the-un-to-serve-billions-of-people-and-companies-with-superior-tech-report/)
 19. **IOTA Youtube**: [10/01/22 IOTA Community Governance meeting](https://www.youtube.com/watch?v=6PYkhE5Cpm0)
 20. **IOTA Ökosystem**: Mehrere [Tweets von Garrett Jin](https://twitter.com/GarrettBullish/status/1615566340164825090?t=_NfgwNw6YF7i9T3edSAiqg&s=19) über ihr IOTA SMCP (Secure Multi-party Computation Platform) das offenbar starten kann mit der Test EVM und sobald die Testvalidator gewählt wurden. Er verlinkt nochmal der Governements Beitrag: [Selection of validators for IOTA Secure Multi-party Computation Platform](https://govern.iota.org/t/selection-of-validators-for-iota-secure-multi-party-computation-platform/1572/1)
-21. **
+21. **IOTA Learn**: Am 18.Feb gibt es ein Event: [IOTA Course for Managers // Learning App with Premium Support](https://www.eventbrite.de/e/iota-course-for-managers-learning-app-with-premium-support-tickets-458106467777)
+22. 
