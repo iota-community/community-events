@@ -35,4 +35,9 @@
 32. **IOTA Adaption**: [EBSI tweetet](https://twitter.com/EU_EBSI/status/1616012913998716928?s=20&t=UzW0sIMG6UNucYdpZoTSUQ) darüber, dass sie [Early Adopters Programme](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/Early+Adopters/?pk_source=twitter&pk_medium=social_media_organic&pk_campaign=JRC_Study) gestartet
 33. **IOTA Youtube**: Die [IF tweetet](https://twitter.com/iota/status/1616027695816605697?s=20&t=269rsvORaa2YT1y2_aVKBQ) über ein Video-Interview: [Mariana de la Roche Wills | Human Rights Law Expert on Social Impact & Policy Makers](https://www.youtube.com/watch?v=mJkrVCx2f-o)
 34. **IOTA Audio**: [Moonaco Podcast tweetet](https://twitter.com/MoonacoPodcast/status/1616027081032466433?s=20&t=vRJaFTnUe6k7nzDIN1xbZA) über die neue [Episode 59 mit Teng Yang über NFTs und Co](https://open.spotify.com/episode/3BNV9hMy7usw8DItPcYO3Q?si=BNxAq4kESD-I6qZvK6_xKA&nd=1) 
+35. **IOTA Artikel**: [Blockbyte tweetet](https://twitter.com/blockbytescom/status/1616069229136211969?s=20&t=UzW0sIMG6UNucYdpZoTSUQ) über den Artikel: [IOTA 2022 – SMALL STEPS, BIG YEAR](https://blockbytes.com/2023/01/18/iota-2022-small-steps-big-year/)
+36. **IOTA Ökosystem**: [Tweet mit Video von Bivreost](https://twitter.com/bivreost/status/1616092254954717184?s=20&t=UzW0sIMG6UNucYdpZoTSUQ) dem Telegram Wallet für IOTA
+37. **IOTA Ökosystem**: [Sexypotato tweetet](https://twitter.com/sexypotato_P/status/1483888170601222144?s=20&t=UzW0sIMG6UNucYdpZoTSUQ) über seine [Google-Liste vom Ökosystem](https://docs.google.com/spreadsheets/d/16xbRbo5lF9fUSY5kaB38lN-5lB7vlaiKhHGMSitqW8A/edit#gid=0)
+38. **IOTA Event**: [TangleCon tweetet](https://twitter.com/TangleCon/status/1616099918833221633?s=20&t=UzW0sIMG6UNucYdpZoTSUQ) dass sie nur ein Online Event machen und zeigen schon 3 Speaker
+39. 
 
