@@ -1,6 +1,6 @@
 ## IOTA Stammtischthemen für Montag, den 23.1.2023
 
-1. **IOTA Quicktakes**: 
+1. **IOTA Quicktakes**: [IF Tweets vom 1.6.](https://twitter.com/iota/status/1614941534478106624?s=20&t=UzW0sIMG6UNucYdpZoTSUQ) über [IOTA Quicktakes 16.01.2023: Year in Review, IotaHeroes Joins Touchpoint, Shimmer Governance & More](https://www.youtube.com/watch?v=Zpz2YRnMvos)
 2. **IOTA Ökosystem**: [LendeXe gibt bekannt](https://twitter.com/LendeXeFinance/status/1615124491277070336?s=20&t=lyMmyzm8CiOgU2YfadNGtQ), dass sie erstmal auf Ethereum und erst später auf Shimmer ([Tweet](https://twitter.com/MichaelLendeXe/status/1615275201008205825?s=20&t=lyMmyzm8CiOgU2YfadNGtQ)) launchen. Hier noch ein [Tweet von Michael](https://twitter.com/MichaelLendeXe/status/1615128289529454592?s=20&t=lyMmyzm8CiOgU2YfadNGtQ) und ein [Tweet von Sabo](https://twitter.com/Sabo_lendexe/status/1615126166708391938?s=20&t=lyMmyzm8CiOgU2YfadNGtQ) dazu.
 3. **IOTA Adaption**: [Mariana de la Roche tweetet](https://twitter.com/Marianadlrw/status/1615109777201274883?s=20&t=lyMmyzm8CiOgU2YfadNGtQ) über den Report von INATBA: [Peer-to-Peer Energy Trading Task Force Report](https://inatba.org/reports/peer-to-peer-energy-trading-task-force-report/) in dem laut Mariana "several references to 
 @iota" zu finden sind
