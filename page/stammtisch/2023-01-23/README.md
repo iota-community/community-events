@@ -39,5 +39,12 @@
 36. **IOTA Ökosystem**: [Tweet mit Video von Bivreost](https://twitter.com/bivreost/status/1616092254954717184?s=20&t=UzW0sIMG6UNucYdpZoTSUQ) dem Telegram Wallet für IOTA
 37. **IOTA Ökosystem**: [Sexypotato tweetet](https://twitter.com/sexypotato_P/status/1483888170601222144?s=20&t=UzW0sIMG6UNucYdpZoTSUQ) über seine [Google-Liste vom Ökosystem](https://docs.google.com/spreadsheets/d/16xbRbo5lF9fUSY5kaB38lN-5lB7vlaiKhHGMSitqW8A/edit#gid=0)
 38. **IOTA Event**: [TangleCon tweetet](https://twitter.com/TangleCon/status/1616099918833221633?s=20&t=UzW0sIMG6UNucYdpZoTSUQ) dass sie nur ein Online Event machen und zeigen schon 3 Speaker
-39. 
+39. **IOTA Explain**: [Hans Moog macht 20 Tweets](https://twitter.com/hus_qy/status/1616232962697084934?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ) über "IOTA's new consensus mechanism in situations like network splits"
+40. **IOTA Stammtisch**: Am Freitag 3.2. ist ein [IOTA Stammtisch in München](https://www.meetup.com/de-DE/iota-muc/events/rjcftsyfcdbfb/) und am 27.1. ein [IOTA Stammtisch in Köln](https://www.meetup.com/de-DE/the-future-of-web3-iota-stammtisch-koln/events/290274840/)
+41. **Crypto Drama**: [C. Winkelvoss tweetet](https://twitter.com/cameron/status/1616298056097624064?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ), dass Genesis Global Capital Insolvenz angemeldet hat
+42. **IOTA Promote**: Die [IF twetet](https://twitter.com/iota/status/1616088090338070531?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ), dass IOTA von beincrypto im Bericht [The Top 5 IoT Companies to Keep an Eye out for in 2023](https://beincrypto.com/top-5-iot-companies-for-2023/) erwähnt wurde
+43. **IOTA NFT Ökosystem**: Der [ApeDAO tweetet](https://twitter.com/iotapes/status/1616089512689668098?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ), dass man auf ihrer Testchain schon die Liquid Apes
+44. **IOTA Dev**: IOTA ist wieder Platz 8 bei Proof of Github: [Tweet](https://twitter.com/ProofofGitHub/status/1616344805860073472?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ)
+45. **IOTA Firefly**: Scheinbar geht es weiter mit der Ledger Integration von Shimmer: [Tweet mit Screenshot](https://twitter.com/unseriouscandle/status/1616094774905434116?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ); [Tweet von Ledger](https://twitter.com/Ledger_Support/status/1616035925573648386?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ)
+46. **IOTA Event**: Am Donnerstag ist ein [1. Twitter Space vom Content Creator DAO](https://twitter.com/IOTAcontentDAO/status/1616054003875332100?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ)
 
