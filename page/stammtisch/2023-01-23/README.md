@@ -47,4 +47,5 @@
 44. **IOTA Dev**: IOTA ist wieder Platz 8 bei Proof of Github: [Tweet](https://twitter.com/ProofofGitHub/status/1616344805860073472?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ)
 45. **IOTA Firefly**: Scheinbar geht es weiter mit der Ledger Integration von Shimmer: [Tweet mit Screenshot](https://twitter.com/unseriouscandle/status/1616094774905434116?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ); [Tweet von Ledger](https://twitter.com/Ledger_Support/status/1616035925573648386?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ)
 46. **IOTA Event**: Am Donnerstag ist ein [1. Twitter Space vom Content Creator DAO](https://twitter.com/IOTAcontentDAO/status/1616054003875332100?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ)
+47. **IOTA Ökosystem Learn**: [LendeXe macht 7 Tweets](https://twitter.com/LendeXeFinance/status/1616370605850238976?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ) zu ihrem XSD Stablecoin
 
