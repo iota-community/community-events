@@ -48,4 +48,7 @@
 45. **IOTA Firefly**: Scheinbar geht es weiter mit der Ledger Integration von Shimmer: [Tweet mit Screenshot](https://twitter.com/unseriouscandle/status/1616094774905434116?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ); [Tweet von Ledger](https://twitter.com/Ledger_Support/status/1616035925573648386?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ)
 46. **IOTA Event**: Am Donnerstag ist ein [1. Twitter Space vom Content Creator DAO](https://twitter.com/IOTAcontentDAO/status/1616054003875332100?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ)
 47. **IOTA Ökosystem Learn**: [LendeXe macht 7 Tweets](https://twitter.com/LendeXeFinance/status/1616370605850238976?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ) zu ihrem XSD Stablecoin
+48. **IOTA Youtube**: von Mind Crypto: [NEWS! IOTA will EXPLODE SOON - $50-$200 - THE SLEEPING GIANT #iota](https://www.youtube.com/watch?v=sWtcG7laFJ8&feature=youtu.be)
+49. **IOTA Youtube**: von walt.id: [Login With IOTA | Demo](https://www.youtube.com/watch?v=samp2o65nX8)
+50. **IOTA Youtube**: Das TangleGang Gespräch mit Muxxer ist jetzt auf Youtube: [Interwiev mit Muxxer vom 21.07.22](https://youtu.be/nu_rIyojT48)
 
