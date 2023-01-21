@@ -43,7 +43,7 @@
 40. **IOTA Stammtisch**: Am Freitag 3.2. ist ein [IOTA Stammtisch in München](https://www.meetup.com/de-DE/iota-muc/events/rjcftsyfcdbfb/) und am 27.1. ein [IOTA Stammtisch in Köln](https://www.meetup.com/de-DE/the-future-of-web3-iota-stammtisch-koln/events/290274840/)
 41. **Crypto Drama**: [C. Winkelvoss tweetet](https://twitter.com/cameron/status/1616298056097624064?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ), dass Genesis Global Capital Insolvenz angemeldet hat
 42. **IOTA Promote**: Die [IF twetet](https://twitter.com/iota/status/1616088090338070531?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ), dass IOTA von beincrypto im Bericht [The Top 5 IoT Companies to Keep an Eye out for in 2023](https://beincrypto.com/top-5-iot-companies-for-2023/) erwähnt wurde
-43. **IOTA NFT Ökosystem**: Der [ApeDAO tweetet](https://twitter.com/iotapes/status/1616089512689668098?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ), dass man auf ihrer Testchain schon die Liquid Apes
+43. **IOTA NFT Ökosystem**: Der [ApeDAO tweetet](https://twitter.com/iotapes/status/1616089512689668098?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ), dass man auf ihrer Testchain schon das Kaufen von Lil'Apes testen kann; In der [Apedao Dokumentation](https://docs.apedao.finance/ape-nfts/liquid-apes-and-ape-split) gibt es mehr Details dazu  [docs.apedao.finance]
 44. **IOTA Dev**: IOTA ist wieder Platz 8 bei Proof of Github: [Tweet](https://twitter.com/ProofofGitHub/status/1616344805860073472?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ)
 45. **IOTA Firefly**: Scheinbar geht es weiter mit der Ledger Integration von Shimmer: [Tweet mit Screenshot](https://twitter.com/unseriouscandle/status/1616094774905434116?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ); [Tweet von Ledger](https://twitter.com/Ledger_Support/status/1616035925573648386?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ)
 46. **IOTA Event**: Am Donnerstag ist ein [1. Twitter Space vom Content Creator DAO](https://twitter.com/IOTAcontentDAO/status/1616054003875332100?s=20&t=CDGzkMY2RF-ZdArbBAiCqQ)
@@ -51,4 +51,10 @@
 48. **IOTA Youtube**: von Mind Crypto: [NEWS! IOTA will EXPLODE SOON - $50-$200 - THE SLEEPING GIANT #iota](https://www.youtube.com/watch?v=sWtcG7laFJ8&feature=youtu.be)
 49. **IOTA Youtube**: von walt.id: [Login With IOTA | Demo](https://www.youtube.com/watch?v=samp2o65nX8)
 50. **IOTA Youtube**: Das TangleGang Gespräch mit Muxxer ist jetzt auf Youtube: [Interwiev mit Muxxer vom 21.07.22](https://youtu.be/nu_rIyojT48)
-
+51. **IOTA Twitter**: Was mein Dom mit seinem [Tweet](https://twitter.com/NotDomSchiener/status/1616372467169206273?s=20&t=Fv9zavV_p_-_fg4nOjY0Jw): "#IOTA is unkillable quit tryin"
+52. **IOTA Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1616692630297141250?s=20&t=Fv9zavV_p_-_fg4nOjY0Jw) über ihr Developer Update: [Our First DEV UPDATE of 2023!](https://soonlabs.medium.com/our-first-dev-update-of-2023-4572667fd3aa); Sie weisen nochmals darauf hin, dass sie nur Verbesserungen einarbeiten können, die in [GitHub als New Request](https://github.com/soonaverse/soonaverse-dao/issues) angefordert werden
+53. **IOTA Youtube**: von Spec Weekly: [Coinmunity - Episode 1: Featuring Rob Daykin (aka Kappy) from NAKAMA LABS.](https://youtu.be/TRRTo2Kd4O8)
+54. **IOTA Artikel**: von CoinTelegraph: [Toshiba-Studie sieht Schlüsselrolle für IOTA im Bereich Energiemanagement - Die Tangle-Technologie von IOTA bietet Lösung für P2P-Energiehandel](https://de.cointelegraph.com/news/toshibas-study-sees-key-role-for-iota-in-the-field-of-energy-management)
+55. **IOTA Youtube Learn**: [CREATING APPS for SHIMMER / IOTA - Part 2: "Shimmer Playground" on iOS](https://youtu.be/uMP1hsjd_xg)
+56. **IOTA NFT Ökosystem**: Die MoonMorons machen einen Popsong mit einem bekannten Künstler: [Tweet](https://twitter.com/MoonMorons/status/1616483688438730753?s=20&t=T6uSldPSNTPrIhEgXns3uA)
+57. **IOTA Ökosystem**: DAIOT (https://twitter.com/daiot_project/status/1616479389608181783?s=20&t=T6uSldPSNTPrIhEgXns3uA)
