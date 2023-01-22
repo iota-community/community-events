@@ -51,7 +51,7 @@
 48. **IOTA Youtube**: von Mind Crypto: [NEWS! IOTA will EXPLODE SOON - $50-$200 - THE SLEEPING GIANT #iota](https://www.youtube.com/watch?v=sWtcG7laFJ8&feature=youtu.be)
 49. **IOTA Youtube**: von walt.id: [Login With IOTA | Demo](https://www.youtube.com/watch?v=samp2o65nX8)
 50. **IOTA Youtube**: Das TangleGang Gespräch mit Muxxer ist jetzt auf Youtube: [Interwiev mit Muxxer vom 21.07.22](https://youtu.be/nu_rIyojT48)
-51. **IOTA Twitter**: Was mein Dom mit seinem [Tweet](https://twitter.com/NotDomSchiener/status/1616372467169206273?s=20&t=Fv9zavV_p_-_fg4nOjY0Jw): "#IOTA is unkillable quit tryin"
+51. **IOTA Twitter**: Was mein Dom mit seinem [Tweet](https://twitter.com/NotDomSchiener/status/1616372467169206273?s=20&t=Fv9zavV_p_-_fg4nOjY0Jw): "#IOTA is unkillable quit tryin"; Auflösung: "FAKE ACCOUNT!!!"
 52. **IOTA Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1616692630297141250?s=20&t=Fv9zavV_p_-_fg4nOjY0Jw) über ihr Developer Update: [Our First DEV UPDATE of 2023!](https://soonlabs.medium.com/our-first-dev-update-of-2023-4572667fd3aa); Sie weisen nochmals darauf hin, dass sie nur Verbesserungen einarbeiten können, die in [GitHub als New Request](https://github.com/soonaverse/soonaverse-dao/issues) angefordert werden
 53. **IOTA Youtube**: von Spec Weekly: [Coinmunity - Episode 1: Featuring Rob Daykin (aka Kappy) from NAKAMA LABS.](https://youtu.be/TRRTo2Kd4O8)
 54. **IOTA Artikel**: von CoinTelegraph: [Toshiba-Studie sieht Schlüsselrolle für IOTA im Bereich Energiemanagement - Die Tangle-Technologie von IOTA bietet Lösung für P2P-Energiehandel](https://de.cointelegraph.com/news/toshibas-study-sees-key-role-for-iota-in-the-field-of-energy-management)
