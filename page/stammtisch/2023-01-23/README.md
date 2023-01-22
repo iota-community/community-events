@@ -68,4 +68,5 @@
 65. **IOTA Artikel**: von Krypto Guru: [IOTA IST IM LENKUNGSAUSSCHUSS DES EU-PROJEKTES BC100+ VERTRETEN](https://krypto-guru.de/news/iota-eu-projekt-bc100/)
 66. **IOTA Wochenrückblick**: IOTATalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/256-wochenr%C3%BCckblick-vom-15-bis-21-januar-2023/)
 67. **IOTA Youtube**: von Multi: [Wie benutzerfreundlich ist das neue #Shimmer Netzwerk?](https://www.youtube.com/watch?v=2Y3z9ki0Wt0)
+68. **IOTA NFT Ökosystem**: [Shimmer Doge DAO veröffentlicht](https://twitter.com/shimmerdogedao/status/1617204069193375746?s=20&t=Bd-ySAXGPTAHynr1hMIATw) ihr Whitepaper: [SHIMMER DOGE DAO WHITEPAPER 2.0](https://drive.google.com/file/d/1zyolmnlkurjUORjgjJ4C-EpVTN_0z7ti/view)
 
