@@ -67,4 +67,5 @@
 64. **IOTA Artikel**: von Krypto Guru: [IOTA PROGNOSE: MIOTA KURS 2023, 2025 UND 2030](https://krypto-guru.de/news/iota-prognose/)
 65. **IOTA Artikel**: von Krypto Guru: [IOTA IST IM LENKUNGSAUSSCHUSS DES EU-PROJEKTES BC100+ VERTRETEN](https://krypto-guru.de/news/iota-eu-projekt-bc100/)
 66. **IOTA Wochenrückblick**: IOTATalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/256-wochenr%C3%BCckblick-vom-15-bis-21-januar-2023/)
+67. **IOTA Youtube**: von Multi: [Wie benutzerfreundlich ist das neue #Shimmer Netzwerk?](https://www.youtube.com/watch?v=2Y3z9ki0Wt0)
 
