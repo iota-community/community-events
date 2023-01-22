@@ -60,3 +60,11 @@
 57. **IOTA Ökosystem**: DAIOT (https://twitter.com/daiot_project/status/1616479389608181783?s=20&t=T6uSldPSNTPrIhEgXns3uA)
 58. **IOTA Governement**: [Phylo tweetet](https://twitter.com/PhyloIota/status/1616057977244643330?s=20&t=Fv9zavV_p_-_fg4nOjY0Jw) über das [Shimmer Community Grant Committee - Version 3 - 17/01/23](https://govern.iota.org/t/shimmer-community-treasury-grant-committee-version-3/1575) und darüber, dass die DAO mit der Treassury jetzt ganz legal auf den Mashall Islands registriert wird
 59. **IOTA Promote**: [Shimmer Tweetet](https://twitter.com/shimmernet/status/1616752474915840002?s=20&t=Fv9zavV_p_-_fg4nOjY0Jw) über den CoinmarketCap Artikel: [IOTAHeroes Joins the Touchpoint Open Builders Program](https://coinmarketcap.com/community/articles/63bec870eeeed457cd8aa906)
+60. **IOTA Youtube**: von Nind Crypto: [NEWS! #IOTA MASSIVE UITILITY AND PARTNERSHIPS - BIG THINGS INCOMING (Not Financial advice).](https://www.youtube.com/watch?v=VyhItlROAVY)
+61. **IOTA Youtube Learn**: von DJKaiota: [CREATING APPS for SHIMMER / IOTA - Part 2: "Shimmer Playground" on iOS](https://www.youtube.com/watch?v=uMP1hsjd_xg)
+62. **IOTA Artikel**: von Crypto News Flash: [IOTA: On Tangle-Requests, Token-basierte Abstimmungen, die Zukunft der Suche – Das Ökosystem wächst superschnell](https://www.crypto-news-flash.com/de/iota-das-erste-entwickler-update-des-jahres-demonstriert-oekosystem-waechst-rasant/?feed_id=12468&_unique_id=63cc438d0c561)
+63. **IOTA Artikel**: von Crypto News Flash: [IOTA wird als DLT für Peer-to-Peer-Energiehandel dienen wegen niedriger Gebühren und fast unendlicher Skalierbarkeit für riesigen Zukunftsmarkt](https://www.crypto-news-flash.com/de/iotas-digital-ledger-technologie-soll-dank-geringer-kosten-und-hoher-skalierbarkeit-dem-energiehandel-zugute-kommen/)
+64. **IOTA Artikel**: von Krypto Guru: [IOTA PROGNOSE: MIOTA KURS 2023, 2025 UND 2030](https://krypto-guru.de/news/iota-prognose/)
+65. **IOTA Artikel**: von Krypto Guru: [IOTA IST IM LENKUNGSAUSSCHUSS DES EU-PROJEKTES BC100+ VERTRETEN](https://krypto-guru.de/news/iota-eu-projekt-bc100/)
+66. **IOTA Wochenrückblick**: IOTATalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/256-wochenr%C3%BCckblick-vom-15-bis-21-januar-2023/)
+
