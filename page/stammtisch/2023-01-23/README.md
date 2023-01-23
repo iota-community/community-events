@@ -79,3 +79,4 @@
 76. **IOTA Diskussionen**: Ein [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1617529177850400773?s=20&t=0FfqO2-SjSxAwrELULcAdA) zu Doms Aussagen bezüglich der Shimmer EVM
 77. **IOTA Audio**: [Deepr Finance tweetet](https://twitter.com/DeeprFinance/status/1617540915618541570?s=20&t=kllcL7lx3sButxDkyvJT0Q) darüber, dass ihr AMA jetzt auf Youtube ist: [DEEPR AMA Session #1](https://www.youtube.com/watch?v=gQLSEzdDPiw)
 78. **IOTA Artikel**: von Crypto News Flash: [IOTA: TangleHUB launches decentralized storage solution for enterprises in billion-$-market](https://www.youtube.com/watch?v=gQLSEzdDPiw)
+79. **IOTA Governements**: [https://govern.iota.org/t/sgp-0005-shimmer-community-treasury-grant-committee/1576](https://govern.iota.org/t/sgp-0005-shimmer-community-treasury-grant-committee/1576)
