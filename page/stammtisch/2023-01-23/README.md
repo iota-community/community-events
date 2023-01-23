@@ -77,4 +77,3 @@
 74. **Twitter Diskussionen**: [Hans Moog philosophiert](https://twitter.com/hus_qy/status/1617317433332891648?s=20&t=0FfqO2-SjSxAwrELULcAdA) mit [Michael Levin](https://twitter.com/drmichaellevin) und [Ruth E.Kastner](https://twitter.com/rekastner) über die Welle/Teilchen Welt und ob ein Teilchen State_Udates macht und ob die Zukunft über die Vergangenheit entscheiden kann.
 75. **IOTA Ökosystem**: [P2B Crypto Exchange tweetet](https://twitter.com/p2b_exchange/status/1617501296038400003?s=20&t=0FfqO2-SjSxAwrELULcAdA) über LendeXe und den IEO mit "comming soon"
 76. **IOTA Diskussionen**: Ein [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1617529177850400773?s=20&t=0FfqO2-SjSxAwrELULcAdA) zu Doms Aussagen bezüglich der Shimmer EVM
-
