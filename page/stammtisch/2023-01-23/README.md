@@ -70,4 +70,5 @@
 67. **IOTA Youtube**: von Multi: [Wie benutzerfreundlich ist das neue #Shimmer Netzwerk?](https://www.youtube.com/watch?v=2Y3z9ki0Wt0)
 68. **IOTA NFT Ökosystem**: [Shimmer Doge DAO veröffentlicht](https://twitter.com/shimmerdogedao/status/1617204069193375746?s=20&t=Bd-ySAXGPTAHynr1hMIATw) ihr Whitepaper: [SHIMMER DOGE DAO WHITEPAPER 2.0](https://drive.google.com/file/d/1zyolmnlkurjUORjgjJ4C-EpVTN_0z7ti/view)
 69. **IOTA Smart Contracts**: Die Diskussionen über L1/L2 Smart Contracts gingen weiter. Evaldas kämpft weiter für seine Lösung in [#SmartContracts im Discord](https://discordapp.com/channels/397872799483428865/930642401016557609/1065898016957014046)
+70. **IOTA Ökosystem**: [TangleHub verkünden](https://twitter.com/Tanglehub_eu/status/1617444688159727616?s=20&t=0FfqO2-SjSxAwrELULcAdA) ihre HUB Cloud ("the ultimate solution for all your #decentralized cloud #storage needs") und verlinken die Pressemitteilung: [TangleHUB Launches Decentralized Storage Solution for Enterprises](https://www.prlog.org/12948184-tanglehub-launches-decentralized-storage-solution-for-enterprises.html)
 
