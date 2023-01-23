@@ -72,5 +72,5 @@
 69. **IOTA Smart Contracts**: Die Diskussionen über L1/L2 Smart Contracts gingen weiter. Evaldas kämpft weiter für seine Lösung in [#SmartContracts im Discord](https://discordapp.com/channels/397872799483428865/930642401016557609/1065898016957014046)
 70. **IOTA Ökosystem**: [TangleHub verkünden](https://twitter.com/Tanglehub_eu/status/1617444688159727616?s=20&t=0FfqO2-SjSxAwrELULcAdA) ihre HUB Cloud ("the ultimate solution for all your #decentralized cloud #storage needs") und verlinken die Pressemitteilung: [TangleHUB Launches Decentralized Storage Solution for Enterprises](https://www.prlog.org/12948184-tanglehub-launches-decentralized-storage-solution-for-enterprises.html)
 71. **IOTA Youtube**: von Mind Crypto: [NEWS! IOTA is Booming - MASS UTILITY, PARTNERSHIPS - BIG GAINZ TO COME (NOT FINANCIAL ADVICE)](https://www.youtube.com/watch?v=Pka_qyfwLFg)
-72. **Crypto Promote**: Das Bitcoin Zeichen hat jemand an den Berliner Fernsehturm projeziert: [Tweet]8https://twitter.com/RobinSeyr/status/1617067087545106433?s=20&t=0FfqO2-SjSxAwrELULcAdA)
+72. **Crypto Promote**: Das Bitcoin Zeichen hat jemand an den Berliner Fernsehturm projeziert: [Tweet](https://twitter.com/RobinSeyr/status/1617067087545106433?s=20&t=0FfqO2-SjSxAwrELULcAdA)
 
