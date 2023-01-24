@@ -7,3 +7,5 @@
 5. **Shimmer Hype** Auch [Deepr Finance tweetet](https://threadreaderapp.com/thread/1617874890081841153.html) darüber, dass sie die Shimmer EVM bereits getestet sind und es kaum erwarten können die neue Alpha Version zu testen. Sie freuen sich vor allem über einzigartige Features bei der Shimmer EVM
 6. **IOTA Youtube**: [CryptoLewLew](https://twitter.com/cryptolewlew) hat ein IOTA Video gemacht: [IOTA Is Going To Be A Monster!](https://www.youtube.com/watch?v=Kt6cYFcm0vU)
 7. **IOTA Dev**: Am Dienstag war eine Smart Contract Office Hour: [Tweet](https://twitter.com/shimmernet/status/1617567856585064456?s=20&t=G7h1xCmTQmnSpFAV35QQ-Q)
+8. **IOTA Youtube**: von MindCrypto: [News - IOTA Solving Huge Issues! Utility is Key  (Not Financial Advice).](https://www.youtube.com/watch?v=YXEQS5zC0eU)
+9. **IOTA Youtube**: Videoreihe von DEXes über Shimmer: [Was ist Shimmer 🏼(#SMR Token) Part 1](https://www.youtube.com/watch?v=JOBWdNP1DN0)
