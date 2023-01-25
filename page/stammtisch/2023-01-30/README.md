@@ -8,7 +8,7 @@
 6. **IOTA Youtube**: [CryptoLewLew](https://twitter.com/cryptolewlew) hat ein IOTA Video gemacht: [IOTA Is Going To Be A Monster!](https://www.youtube.com/watch?v=Kt6cYFcm0vU)
 7. **IOTA Dev**: Am Dienstag war eine Smart Contract Office Hour: [Tweet](https://twitter.com/shimmernet/status/1617567856585064456?s=20&t=G7h1xCmTQmnSpFAV35QQ-Q)
 8. **IOTA Youtube**: von MindCrypto: [News - IOTA Solving Huge Issues! Utility is Key  (Not Financial Advice).](https://www.youtube.com/watch?v=YXEQS5zC0eU)
-9. **IOTA Youtube**: Videoreihe von DEXes über Shimmer: [Was ist Shimmer 🏼(#SMR Token) Part 1](https://www.youtube.com/watch?v=JOBWdNP1DN0)
+9. **IOTA Youtube**: Videoreihe von DEXes über Shimmer: [Was ist Shimmer 🏼(#SMR Token) Part 1](https://www.youtube.com/watch?v=JOBWdNP1DN0); [Tangle! Was ist das?🏼 (SMR Token) Part 2](https://www.youtube.com/watch?v=T9MMBd8tWXQ)
 10. **IOTA Ökosystem**: [LendeXe tweetet](https://twitter.com/LendeXeFinance/status/1617931338782486529?s=20&t=1ilz9hJDwHaLeECbWJIafw) über den Ultimate Loan
 11. **IOTA Ökosystem**: Laut ThomasQV ist die Jaguar Land Rover Partnerschaft Geschichte: [Tweet](https://twitter.com/ThomasQvOG/status/1617929355329671169?s=20&t=1ilz9hJDwHaLeECbWJIafw)
 12. **IOTA Artikel**: von The Currency Analytics: [Share your IOTA Knowledge at TangleCon 2023 Online Only Event](https://twitter.com/ThomasQvOG/status/1617929355329671169?s=20&t=1ilz9hJDwHaLeECbWJIafw)
@@ -27,4 +27,5 @@
 25. **IOTA Artikel**: von Crypto News Flash: [IOTA: This is why billion-$-companies and Nakama Labs build on the tangle and Shimmer Ecosystem – Report](https://www.crypto-news-flash.com/iota-this-is-why-billion-companies-and-nakama-labs-build-on-the-tangle-and-shimmer-ecosystem-report/)
 26. **IOTA Ökosystem**: [IOTAorigin tweetet](https://twitter.com/origin_iota/status/1618203504128163841?s=20&t=lwuLzlH-148wxQw8YImy7g) darüber, dass sie von INATBA als eines von 4 "Most Exciting Project of 2023 in #ReFi" ausgewählt wurden. Das Event ist am 31.1.
 27. **IOTA Ökosystem**: Video-Interview mit chirp: [How Chirp is Using Decentralization to Build the Internet of Everything](https://midasletter.com/2023/01/how-chirp-is-using-decentralization-to-build-the-internet-of-everything/)
+28. **IOTA Audio**: Der TangleGang Voice-Chat mit Digirocket ist jetzt verfügbar: [Interview mit Digi Rocket vom 08.09.22](https://www.youtube.com/watch?v=iYe8-j21X_E)
 
