@@ -23,5 +23,8 @@
 21. **IOTA Audio**: Am Mittwoch war ein [AMA von LendeXe](https://twitter.com/dens_club/status/1617539110738231296?s=20&t=wQWvPuZfRK_3p-c-WAs-zg)
 22. **IOTA Dev**: IOTA ist wieder Platz 7 bei ProofOfGithub: [Tweet](https://twitter.com/ProofofGitHub/status/1618156735356698624?s=20&t=lwuLzlH-148wxQw8YImy7g)
 23. **IOTA Dev Update**: Im [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1618175255381676032?s=20&t=lwuLzlH-148wxQw8YImy7g) findet man Aussagen von Jonas Theis zum aktuellen Stand bzgl. Coordicide MVP und den folgenden Aufgaben
-24. **IOTA Ökosystem**: Interessante [Einblicke von Adam](https://twitter.com/adam_unchained/status/1618127338117664768?s=20&t=lwuLzlH-148wxQw8YImy7g) in die Zukunft von Soonaverse. Sie bereiten sich z.B. bereits auf L1 Smart Contracts vor
+24. **IOTA Ökosystem**: Interessante [Einblicke von Adam](https://twitter.com/adam_unchained/status/1618127338117664768?s=20&t=lwuLzlH-148wxQw8YImy7g) in die Zukunft von Soonaverse. Sie bereiten sich z.B. bereits auf L1 Smart Contracts vor)](
+25. **IOTA Artikel**: von Crypto News Flash: [IOTA: This is why billion-$-companies and Nakama Labs build on the tangle and Shimmer Ecosystem – Report](https://www.crypto-news-flash.com/iota-this-is-why-billion-companies-and-nakama-labs-build-on-the-tangle-and-shimmer-ecosystem-report/)
+26. **IOTA Ökosystem**: [IOTAorigin tweetet](https://twitter.com/origin_iota/status/1618203504128163841?s=20&t=lwuLzlH-148wxQw8YImy7g) darüber, dass sie von INATBA als eines von 4 "Most Exciting Project of 2023 in #ReFi" ausgewählt wurden. Das Event ist am 31.1.
+27. **IOTA Ökosystem**: Video-Interview mit chirp: [How Chirp is Using Decentralization to Build the Internet of Everything](https://midasletter.com/2023/01/how-chirp-is-using-decentralization-to-build-the-internet-of-everything/)
 
