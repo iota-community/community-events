@@ -21,4 +21,7 @@
 19. **Crypto Adaption**: Artikel von t3n: [Samsung und Ledger schnüren Kryptopaket mit Smartphone, Hardware-Wallet und Gratis-NFT](https://t3n.de/news/krypto-paket-samsung-bundle-ledger-hardware-wallet-nano-x-gratis-kostenlos-nft-1528332/)
 20. **IOTA Youtube**: von CryptoLewLew: [IOTA Is Going To Be A Monster!](https://www.youtube.com/watch?v=Kt6cYFcm0vU) 
 21. **IOTA Audio**: Am Mittwoch war ein [AMA von LendeXe](https://twitter.com/dens_club/status/1617539110738231296?s=20&t=wQWvPuZfRK_3p-c-WAs-zg)
+22. **IOTA Dev**: IOTA ist wieder Platz 7 bei ProofOfGithub: [Tweet](https://twitter.com/ProofofGitHub/status/1618156735356698624?s=20&t=lwuLzlH-148wxQw8YImy7g)
+23. **IOTA Dev Update**: Im [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1618175255381676032?s=20&t=lwuLzlH-148wxQw8YImy7g) findet man Aussagen von Jonas Theis zum aktuellen Stand bzgl. Coordicide MVP und den folgenden Aufgaben
+24. **IOTA Ökosystem**: Interessante [Einblicke von Adam](https://twitter.com/adam_unchained/status/1618127338117664768?s=20&t=lwuLzlH-148wxQw8YImy7g) in die Zukunft von Soonaverse. Sie bereiten sich z.B. bereits auf L1 Smart Contracts vor
 
