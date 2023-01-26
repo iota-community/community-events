@@ -41,6 +41,4 @@
 39. **Allgemeine News**: [Swift verkündet](https://www.swift.com/iso20022readiness?utm_campaign=&utm_content=Oktopost-twitter&utm_medium=organic_social&utm_source=twitter), dass ab März 2023 jeder die ISO 20022 CBPR+ messages für cross-boarder payments versenden kann
 40. **IOTA Audio**: Neuer Moonaco Podcast mit Kutkraft: [Episode 60 - Kutkraft, Spec Weekly Host](https://open.spotify.com/episode/0FS1Dv5Ebso87D3pXHqoDB)
 41. **IOTA Artikel**: von Crypto News Flash: [IOTA: Deepr Finance to release lend and borrow platform to conquer billion-$-market](https://www.crypto-news-flash.com/iota-deepr-finance-to-release-lend-and-borrow-platform-to-conquer-billion-market/)
-
-
-
+42. **Crypto Drama**: Artikel: [FTX Owes Money to Apple, Binance, Netflix, and More According to New Filings](https://watcher.guru/news/ftx-owes-money-to-apple-binance-netflix-and-more-according-to-new-filings)
