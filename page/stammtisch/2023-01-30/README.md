@@ -40,6 +40,7 @@
 38. **IOTA Patent**: [Wonderer tweetet](https://twitter.com/Wondere12985276/status/1618357266125844480?s=20&t=zRxjLUFgwoG9MF9PNOpaaw) über dieses Patent: [Vorrichtung und Verfahren zur Stabilisierung des Stromnetzes durch Einbindung von privaten Stromspeichern mittels Signalisierung von Netzzuständen für Not-Strom und Abrechnung zwischen Netzbetreiber und Endverbraucher](https://worldwide.espacenet.com/patent/search/family/084534115/publication/DE102021001945A1?q=pn%3DDE102021001945A1)
 39. **Allgemeine News**: [Swift verkündet](https://www.swift.com/iso20022readiness?utm_campaign=&utm_content=Oktopost-twitter&utm_medium=organic_social&utm_source=twitter), dass ab März 2023 jeder die ISO 20022 CBPR+ messages für cross-boarder payments versenden kann
 40. **IOTA Audio**: Neuer Moonaco Podcast mit Kutkraft: [Episode 60 - Kutkraft, Spec Weekly Host](https://open.spotify.com/episode/0FS1Dv5Ebso87D3pXHqoDB)
+41. **IOTA Artikel**: von Crypto News Flash: [IOTA: Deepr Finance to release lend and borrow platform to conquer billion-$-market](https://www.crypto-news-flash.com/iota-deepr-finance-to-release-lend-and-borrow-platform-to-conquer-billion-market/)
 
 
 
