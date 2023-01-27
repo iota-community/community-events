@@ -8,7 +8,7 @@
 6. **IOTA Youtube**: [CryptoLewLew](https://twitter.com/cryptolewlew) hat ein IOTA Video gemacht: [IOTA Is Going To Be A Monster!](https://www.youtube.com/watch?v=Kt6cYFcm0vU)
 7. **IOTA Dev**: Am Dienstag war eine Smart Contract Office Hour: [Tweet](https://twitter.com/shimmernet/status/1617567856585064456?s=20&t=G7h1xCmTQmnSpFAV35QQ-Q)
 8. **IOTA Youtube**: von MindCrypto: [News - IOTA Solving Huge Issues! Utility is Key  (Not Financial Advice).](https://www.youtube.com/watch?v=YXEQS5zC0eU)
-9. **IOTA Youtube**: Videoreihe von DEXes über Shimmer: [Was ist Shimmer 🏼(#SMR Token) Part 1](https://www.youtube.com/watch?v=JOBWdNP1DN0); [Tangle! Was ist das?🏼 (SMR Token) Part 2](https://www.youtube.com/watch?v=T9MMBd8tWXQ); [SHIMMER VS. IOTA ein aktueller Vergleich (SMR Token) Part 3](https://www.youtube.com/watch?v=2sTm_3DNYJk)
+9. **IOTA Youtube**: Videoreihe von DEXes über Shimmer: [Was ist Shimmer 🏼(#SMR Token) Part 1](https://www.youtube.com/watch?v=JOBWdNP1DN0); [Tangle! Was ist das?🏼 (SMR Token) Part 2](https://www.youtube.com/watch?v=T9MMBd8tWXQ); [SHIMMER VS. IOTA ein aktueller Vergleich (SMR Token) Part 3](https://www.youtube.com/watch?v=2sTm_3DNYJk); [Wo kann ich Shimmer kaufen? (SMR Token)  Part 4](https://www.youtube.com/watch?v=5d8cb7DxbIw)
 10. **IOTA Ökosystem**: [LendeXe tweetet](https://twitter.com/LendeXeFinance/status/1617931338782486529?s=20&t=1ilz9hJDwHaLeECbWJIafw) über den Ultimate Loan
 11. **IOTA Ökosystem**: Laut ThomasQV ist die Jaguar Land Rover Partnerschaft Geschichte: [Tweet](https://twitter.com/ThomasQvOG/status/1617929355329671169?s=20&t=1ilz9hJDwHaLeECbWJIafw)
 12. **IOTA Artikel**: von The Currency Analytics: [Share your IOTA Knowledge at TangleCon 2023 Online Only Event](https://twitter.com/ThomasQvOG/status/1617929355329671169?s=20&t=1ilz9hJDwHaLeECbWJIafw)
@@ -52,3 +52,5 @@
 50. **IOTA Ökosystem**: Der [dlt.green](https://twitter.com/dlt_green) spielt auch schon mit der Shimmer EVM Testchain herum: [Tweet](https://twitter.com/dlt_green/status/1618691611483054080?s=20&t=UILeGxvMwRBabLude71zsQ)
 51. **IOTA Audio**: Die TangleGang hat wieder neue Interviews (mit DigiRocket, mit Antonio Nardella) hoch geladen in ihrem [TangleGang Youtube Channel](https://www.youtube.com/@tangle_gang/videos)
 52. **IOTA Artikel**: von Crypto News Flash: [IOTA: Customer loyalty project launches on Shimmer with major German coffee brands onboard](https://www.crypto-news-flash.com/iota-customer-loyalty-project-launches-on-shimmer-with-major-german-coffee-brands-onboard/)
+53. **Crypto Adaption**: Artikel: [Arizona state senator introduces bill to make Bitcoin legal tender](https://www.aa.com.tr/en/americas/arizona-state-senator-introduces-bill-to-make-bitcoin-legal-tender/2798666)
+54. **IOTA Artikel**: von beincrypto: [DeFi und ReFi: Ein alternatives System für eine gerechtere Welt?](https://de.beincrypto.com/defi-und-refi-ein-alternatives-system-fuer-eine-gerechtere-welt/)
