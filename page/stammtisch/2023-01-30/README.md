@@ -57,4 +57,9 @@
 55. **IOTA Adaption**: Die [IF tweetet](https://twitter.com/iota/status/1618926817150132227?s=20&t=nB5ZHF2kpILug4ZZaiY9tw) über den Blogpost: [IOTA Enters Next Phase of EU Blockchain PCP - IOTA Selected for Next Phase of European Commission’s Blockchain Pre-Commercial Procurement](https://blog.iota.org/iota-eu-blockchain-pcp/); Dom Schiener hat das [kommentiert]8https://twitter.com/DomSchiener/status/1618950909886885895?s=20&t=nB5ZHF2kpILug4ZZaiY9tw)
 56. **IOTA Dev**: Neus Wasp Release: [wasp-cli-0.4.0-alpha.3](https://github.com/iotaledger/wasp/releases/tag/v0.4.0-alpha.3)
 57. **IOTA Artikel**: von Crypto News Flash: [Grösste Partnerschaft in der Geschichte von IOTA und Shimmernet“: SPYCE.5 und BUILDAVERSE bauen gemeinsam Web3](https://www.crypto-news-flash.com/de/mega-allianz-von-iota-und-shimmernet-spyce-5-und-buildaverse-bauen-das-web3/?feed_id=12566&_unique_id=63d3c68723dd5)
-58. 
+58. **IOTA Artikel**: von The New Stack [IOTA Distributed Ledger: Beyond Blockchain for Supply Chains](https://thenewstack.io/iota-distributed-ledger-beyond-blockchain-for-supply-chains/)
+59. **IOTA Youtube**: von Multi: [Ich habe meinen eigenen #Shimmer Wallet Service gebaut | Konzeption und Funktion](https://www.youtube.com/watch?v=y4gPRa55IeE)
+60. **IOTA Patent**: von der ETO Gruppe: [Multifunktionstag](https://worldwide.espacenet.com/patent/search?q=pn%3DDE102021118998A1)
+61. **IOTA Adaption**: Die [IF tweetet](https://twitter.com/iota/status/1618987205417910272?s=20&t=cgr0544OJwln0XFA4PZHGw) über ein Zoom-Event am 31.1.23: [BC for global and EU goals in climate & sustainability](https://us02web.zoom.us/j/85374894698#success)
+62. **IF Intern**: Michele Nati verlässt die IF: [Tweet](https://twitter.com/michelenati/status/1619039726530445472?s=20&t=cgr0544OJwln0XFA4PZHGw)
+
