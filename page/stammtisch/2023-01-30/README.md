@@ -62,4 +62,9 @@
 60. **IOTA Patent**: von der ETO Gruppe: [Multifunktionstag](https://worldwide.espacenet.com/patent/search?q=pn%3DDE102021118998A1)
 61. **IOTA Adaption**: Die [IF tweetet](https://twitter.com/iota/status/1618987205417910272?s=20&t=cgr0544OJwln0XFA4PZHGw) über ein Zoom-Event am 31.1.23: [BC for global and EU goals in climate & sustainability](https://us02web.zoom.us/j/85374894698#success)
 62. **IF Intern**: Michele Nati verlässt die IF: [Tweet](https://twitter.com/michelenati/status/1619039726530445472?s=20&t=cgr0544OJwln0XFA4PZHGw)
+63. **IOTA Artikel**: von Crypto News Flash: [IOTA eine Runde weiter bei Millionenschwerem EU Blockchain Forschungsprojekt – Kann MIOTA Kurs profitieren?](https://www.crypto-news-flash.com/de/iota-eine-runde-weiter-bei-millionenschwerem-eu-blockchain-forschungsprojekt-kann-miota-kurs-profitieren/?feed_id=12583&_unique_id=63d53d1f0a232)
+64. **IOTA Youtube**: von Spec Weekly: [Classic - Episode 33: MPC on IOTA and SHIMMER - a glimpse to our ecosystem's future](https://www.youtube.com/watch?v=ie7NNyqMNzI)
+65. **IOTA Song**: Timson Labs hat einen IOTA Rap Song geschrieben: [Tweet](https://twitter.com/TimsonLabs/status/1618878295818526723?s=20&t=cgr0544OJwln0XFA4PZHGw)
+66. **IOTA Ausblick**: Dom Schiener hat im Discord einen Ausblick zu Shimmer und IOTA gegeben: [Tweet mit Screenshot](https://twitter.com/IotaPoet/status/1619777423805132802?s=20&t=AEdL_Nb7MUSRvTsCa7vP2w), Und noch ein [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1619790307004129280?s=20&t=AEdL_Nb7MUSRvTsCa7vP2w)
+67. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/258-wochenr%C3%BCckblick-vom-22-bis-28-januar-2023/)
 
