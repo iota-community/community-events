@@ -73,5 +73,5 @@
 71. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/258-wochenr%C3%BCckblick-vom-22-bis-28-januar-2023/)
 72. **Twitter Hype**: Die Software AG ist weiterhin bei EBSI dabei: [Tweet](https://twitter.com/archimate/status/1620036336899219456?s=20&t=Y0oZeVjdF2Eo61otzpNcjg)
 73. **IOTA Ökosystem**: Interview mit Simon von TheFansTogether: [TFT Keano Roundup — no.1](https://thefanstogether.medium.com/tft-keano-roundup-no-1-81bf72956f58)
-74. **IF Intern**: Eine [Stellenauschreibung (Senior Software Engineer (Rust) von der IF](https://iota-foundation.jobs.personio.com/job/989795?display=en) lässt aufhorchen: "We are looking into extending IOTA through the means of integrating layer 1 smart contracts by integrating the MoveVM and the IOTA specific framework around it into the core protocol"
+74. **IF Intern**: Eine [Stellenauschreibung (Senior Software Engineer (Rust)) von der IF](https://iota-foundation.jobs.personio.com/job/989795?display=en) lässt aufhorchen: "We are looking into extending IOTA through the means of integrating layer 1 smart contracts by integrating the MoveVM and the IOTA specific framework around it into the core protocol"
 
