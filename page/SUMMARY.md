@@ -103,3 +103,4 @@
 - [2023-01-16](./stammtisch/2023-01-16/README.md)
 - [2023-01-23](./stammtisch/2023-01-23/README.md)
 - [2023-01-30](./stammtisch/2023-01-30/README.md)
+- [2023-02-06](./stammtisch/2023-02-06/README.md)
