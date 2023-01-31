@@ -16,3 +16,6 @@
 14. **Crypto Adaption**: [Jack Mallers tweetet](https://twitter.com/jackmallers/status/1620486166964477952?s=20&t=AG3EMHGtanjuebPROS85Zw) darüber, dass Strike User auf den Philippinen US Dollars direct in ihrer Bank oder Mobile Account empfangen können
 15. **IOTA Adaption**: [Evvrything lädt](https://twitter.com/TheEvvrything/status/1620507290888704001?s=20&t=AG3EMHGtanjuebPROS85Zw) zur Open Beta ein
 16. **Crypto Adaption**: Artikel: [Lebanon to devalue currency by 90% on Feb. 1, central bank chief says](https://www.reuters.com/markets/currencies/lebanon-devalue-currency-by-90-feb-1-cbank-chief-says-2023-01-31/)
+17. **Crypto Adaption**: Artikel von beinCrypto: [DekaBank bietet Krypto und Bitcoin für Anleger in Deutschland an](https://de.beincrypto.com/dekabank-bietet-krypto-und-bitcoin-fuer-anleger-in-deutschland-an/)
+18. **IOTA Artikel**: von Crypto News Flash: [IOTA: Smart contracts team improved Wasp node and ready to launch ShimmerEVM – Report](https://www.crypto-news-flash.com/iota-smart-contracts-team-improved-wasp-node-and-ready-to-launch-shimmerevm-report/)
+19. **IOTA Audio**: Am Donnerstag war [Timson Labs](https://twitter.com/timhartwig) im TangleGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1620528783030915073?s=20&t=opWsuimp75CIuLW7RQTOfA)
