@@ -4,4 +4,4 @@
 2. **IOTA Event**: Von "Let's talk about Regulations" waren 2 Events diese Woche im iota Discord: [Tweet](https://twitter.com/iota/status/1620059263782510592?s=20&t=DoW5FtZAgzRf2UzVsQzOyg)
 3. **IOTA Audio**: Ein [Twitter Spaces Event](https://twitter.com/paloma_chain/status/1620081926244823040?s=20&t=DoW5FtZAgzRf2UzVsQzOyg) mit [Kumar Anirudha](https://twitter.com/kranirudha) in dem über Shimmer IOTA und Phython gesprochen wird
 4. **IOTA Song**: [Timson Labs veröffentlicht](https://twitter.com/TimsonLabs/status/1619632007788789762?s=20&t=DoW5FtZAgzRf2UzVsQzOyg) einen IOTA Song. Einen deutschen Rap der die IOTA Community huldigt. In der [Kollektion auf Soonaverse](https://soonaverse.com/collection/0xa659a7436d8fc8b8d3f5151d8391526352b5097e) kann man den anhören, runterladen oder als NFT kaufen
-
+5. **IOTA Audio**: Das TangleGang Interview mit [Jonas Theis](https://twitter.com/jonastheis_) ist jetzt verfügbar: [Interview mit Jonas Theis vom 17.11.22](https://www.youtube.com/watch?v=tjMu5X3CYJQ)
