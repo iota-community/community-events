@@ -13,4 +13,6 @@
 11. **IOTA Adaption**: Die [IF tweetet](https://twitter.com/iota/status/1620497145970270232?s=20&t=AG3EMHGtanjuebPROS85Zw) über [Views sought on Governance of MRV Methodologies and Digital Infrastructure as Public Goods in the Carbon Market](https://www.goldstandard.org/blog-item/views-sought-governance-mrv-methodologies-and-digital-infrastructure-public-goods-carbon)
 12. **IOTA Adaption**: [loyal tweetet](https://twitter.com/loyal_web3/status/1620486614471573504?s=20&t=AG3EMHGtanjuebPROS85Zw), dass die Public Beta live ist und man sie testen soll
 13. **IOTA Stammtisch**: Iotapunks will sich ab jetzt um 3 Stammtische im Ruhrgebiet kümmern: [Tweet](https://twitter.com/IotaPunks_71/status/1620408508683530241?s=20&t=AG3EMHGtanjuebPROS85Zw)
-14. **
+14. **Crypto Adaption**: [Jack Mallers tweetet](https://twitter.com/jackmallers/status/1620486166964477952?s=20&t=AG3EMHGtanjuebPROS85Zw) darüber, dass Strike User auf den Philippinen US Dollars direct in ihrer Bank oder Mobile Account empfangen können
+15. **IOTA Adaption**: [Evvrything lädt](https://twitter.com/TheEvvrything/status/1620507290888704001?s=20&t=AG3EMHGtanjuebPROS85Zw) zur Open Beta ein
+16. 
