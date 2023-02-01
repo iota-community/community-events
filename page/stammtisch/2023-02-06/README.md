@@ -19,3 +19,7 @@
 17. **Crypto Adaption**: Artikel von beinCrypto: [DekaBank bietet Krypto und Bitcoin für Anleger in Deutschland an](https://de.beincrypto.com/dekabank-bietet-krypto-und-bitcoin-fuer-anleger-in-deutschland-an/)
 18. **IOTA Artikel**: von Crypto News Flash: [IOTA: Smart contracts team improved Wasp node and ready to launch ShimmerEVM – Report](https://www.crypto-news-flash.com/iota-smart-contracts-team-improved-wasp-node-and-ready-to-launch-shimmerevm-report/)
 19. **IOTA Audio**: Am Donnerstag war [Timson Labs](https://twitter.com/timhartwig) im TangleGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1620528783030915073?s=20&t=opWsuimp75CIuLW7RQTOfA)
+20. **IOTA Dev**: Die Validatoren für das IOTA MPC von TanglePay sind gewählt worden: [Tweet](https://twitter.com/GarrettBullish/status/1620678338795765760?s=20&t=rGdmxwYiA0ndxqB4w2nxTw)
+21. **IOTA Event**: Mariana de la Roche hat beim EBSI Event etwas gewonnen: [Tweet](https://twitter.com/Marianadlrw/status/1620659891294867456?s=20&t=rGdmxwYiA0ndxqB4w2nxTw)
+22. **IOTA Ökosystem**: [AuditOne tweetet](https://twitter.com/auditone_team/status/1620671897989189636?s=20&t=rGdmxwYiA0ndxqB4w2nxTw) über den Trustlayer den sie für das Soonaverse bauen wollen; Es gab auch ein [Twitter Space Event mit AuditOne](https://twitter.com/auditone_team/status/1619995582520762370?s=20&t=rGdmxwYiA0ndxqB4w2nxTw)
+
