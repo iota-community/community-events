@@ -26,4 +26,5 @@
 24. **IOTA Ökosystem**: Es bildet sich offenbar ein DAO um den Fee Token den man zum Üben beim Soonaverse bekommen hat; Artikel: [Building a Decentralized Future with $FEE and FeeDAO: The Power of Community-Driven Development](https://medium.com/@feedao/building-a-decentralized-future-with-fee-and-feedao-the-power-of-community-driven-development-ad0a49ccae6)
 25. **IOTA Audio**: Am Mittwoch war ein [Lendexe AMA auf Twitter Spaces](https://twitter.com/CryptoMiners_Co/status/1620684887656386562?s=20&t=YZc_zdrLapXxRJh_7vfkfA)
 26. **IOTA Adaption**: Die [IF tweetet](https://twitter.com/iota/status/1620784048887955462?s=20&t=qJcJYGAIO7w1b_2DWSNiNQ) über den Blogpost: [Incentivizing Energy Savings with EnergieKnip and IOTA - Using Data to Cut Energy Use and Boost Local Economies](https://blog.iota.org/using-data-to-cut-energy-use-while-boosting-local-economies/); [Dom freut sich](https://twitter.com/DomSchiener/status/1620803243638140930?s=20&t=CvMrEf0lFsqhDaNAxg9ilg) über Real World Adaption
+27. **Crypto Adaption**: Artikel: [UK unveils wide-ranging plans to regulate crypto industry](https://www.ft.com/content/6f5539f7-19ff-419b-8a64-5ed528de5abf)
 
