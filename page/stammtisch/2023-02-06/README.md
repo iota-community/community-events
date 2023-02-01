@@ -22,4 +22,6 @@
 20. **IOTA Dev**: Die Validatoren für das IOTA MPC von TanglePay sind gewählt worden: [Tweet](https://twitter.com/GarrettBullish/status/1620678338795765760?s=20&t=rGdmxwYiA0ndxqB4w2nxTw)
 21. **IOTA Event**: Mariana de la Roche hat beim EBSI Event etwas gewonnen: [Tweet](https://twitter.com/Marianadlrw/status/1620659891294867456?s=20&t=rGdmxwYiA0ndxqB4w2nxTw)
 22. **IOTA Ökosystem**: [AuditOne tweetet](https://twitter.com/auditone_team/status/1620671897989189636?s=20&t=rGdmxwYiA0ndxqB4w2nxTw) über den Trustlayer den sie für das Soonaverse bauen wollen; Es gab auch ein [Twitter Space Event mit AuditOne](https://twitter.com/auditone_team/status/1619995582520762370?s=20&t=rGdmxwYiA0ndxqB4w2nxTw)
+23. **IOTA Dev**: IOTA ist auf Platz 8 und auf Platz 6 bei ProofofGitHub: [Tweet](https://twitter.com/ProofofGitHub/status/1620331058712530946?s=20&t=rGdmxwYiA0ndxqB4w2nxTw); [Tweet](https://twitter.com/ProofofGitHub/status/1620693475481063425?s=20&t=rGdmxwYiA0ndxqB4w2nxTw)
+24. **IOTA Ökosystem**: Es bildet sich offenbar ein DAO um den Fee Token den man zum Üben beim Soonaverse bekommen hat; Artikel: [Building a Decentralized Future with $FEE and FeeDAO: The Power of Community-Driven Development](https://medium.com/@feedao/building-a-decentralized-future-with-fee-and-feedao-the-power-of-community-driven-development-ad0a49ccae6)
 
