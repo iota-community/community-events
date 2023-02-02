@@ -33,4 +33,8 @@
 31. **IOTA Promote**: Issausus mit einem neuen One-Pager über die "IOTA Secure Multiparty Computation Plattform": [Tweet](https://twitter.com/Issaus2020/status/1620837691461087233?s=20&t=InvF49AJKS3rrEF1pzrLvA); Und hier noch [ein One-Pager zum Thema "Login with IOTA"](https://twitter.com/Issaus2020/status/1620128584617852928?s=20&t=InvF49AJKS3rrEF1pzrLvA)
 32. **IOTA Adaption**: Die [IF tweetet](https://twitter.com/iota/status/1621070937926803457?s=20&t=yzqNgFgByciEgqY90a84Ng) über den Artikel: [IOTA Distributed Ledger: Beyond Blockchain for Supply Chains](https://thenewstack.io/iota-distributed-ledger-beyond-blockchain-for-supply-chains/?utm_content=buffered396&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 33. **IOTA NFT Ökosystem**: Holger Köther ist jetzt bei Dark Mythos im Advisory Board: [Tweet](https://twitter.com/DarkMythosIOTA/status/1621102310872039425?s=20&t=iw-MDR7A5FZl4qWdkvdZqQ)
+34. **IOTA Dev**: Es gab ein Firefly Desktop Pre-Release: [Firefly Desktop 2.1.0 Alpha 4](https://github.com/iotaledger/firefly/releases/tag/desktop-2.1.0-alpha-4)
+35. **IOTA Dev**: Es gab ein wasp Pre-Release: [v0.4.0-alpha.6](https://github.com/iotaledger/wasp/releases/tag/v0.4.0-alpha.6)
+36. **IOTA Audio**: Das TangleGang Interview mit Linus ist jetzt online: [Interview mit Linus vom 24.11.22](https://www.youtube.com/watch?v=fhmKxG98vSs)
+37. **IOTA Audio**: Neuer Moonaco Podcast mit Adri von EnergieKnip: [Tweet](https://twitter.com/MoonacoPodcast/status/1621101680501878784?s=20&t=PQmUYyA6TVbzJ0hckPwmHg); [Spotify Link](https://open.spotify.com/show/387nS9czdx47kJZ6Mho28m)
 
