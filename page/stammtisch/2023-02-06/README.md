@@ -32,4 +32,5 @@
 30. **Crypto Adaption**: Artikel von BTC Echo: [Südafrikanischer Einzelhandelsriese Pick n Pay akzeptiert Bitcoin](https://www.btc-echo.de/schlagzeilen/suedafrikanischer-einzelhandelsriese-pick-n-pay-akzeptiert-bitcoin-158823/)
 31. **IOTA Promote**: Issausus mit einem neuen One-Pager über die "IOTA Secure Multiparty Computation Plattform": [Tweet](https://twitter.com/Issaus2020/status/1620837691461087233?s=20&t=InvF49AJKS3rrEF1pzrLvA); Und hier noch [ein One-Pager zum Thema "Login with IOTA"](https://twitter.com/Issaus2020/status/1620128584617852928?s=20&t=InvF49AJKS3rrEF1pzrLvA)
 32. **IOTA Adaption**: Die [IF tweetet](https://twitter.com/iota/status/1621070937926803457?s=20&t=yzqNgFgByciEgqY90a84Ng) über den Artikel: [IOTA Distributed Ledger: Beyond Blockchain for Supply Chains](https://thenewstack.io/iota-distributed-ledger-beyond-blockchain-for-supply-chains/?utm_content=buffered396&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+33. **IOTA NFT Ökosystem**: Holger Köther ist jetzt bei Dark Mythos im Advisory Board: [Tweet](https://twitter.com/DarkMythosIOTA/status/1621102310872039425?s=20&t=iw-MDR7A5FZl4qWdkvdZqQ)
 
