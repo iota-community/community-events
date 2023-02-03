@@ -44,5 +44,8 @@
 42. **IOTA Youtube**: von Crypto Chronicles: [IOTA (MIOTA): Steht die RALLYE KURZ BEVOR? Kursanalyse, Preisprognose & Potenzial für 2023 Deutsch](https://www.youtube.com/watch?v=57-tYLX51YQ&t=67s)
 43. **IOTA Youtube**: von Its Gigi TV: [IOTA die Reise beginnt ! AVALANCHE brutale Partnerschaft ! Krypto News](https://www.youtube.com/watch?v=NHMs167QpCo)
 44. **IOTA Youtube**: von Crypto Tuts: [IOTA steht kurz vor Coordicide - IOTA 2.0](https://www.youtube.com/watch?v=yhZJkelIl_o&t=358s)
-45. **IOTA Stammtisch**: am Freitag war IOTA Stammtisch in München
-46. **IOTA Adaption**: TradeMark East Afrika heißt jetzt TradeMark Africa und [Dom Schiener gratuliert](https://twitter.com/DomSchiener/status/1621451242558967809?s=20&t=4ghxjc8rFiLUL5wLbF8vsw)
+45. **IOTA Youtube**: von DEXes: [Crypto Meetup #119 EZB Zinsentscheidung, TradeMark Africa & IOTA](https://www.youtube.com/watch?v=glEg-nttXNk&t=2s)
+46. **IOTA Stammtisch**: am Freitag war IOTA Stammtisch in München
+47. **IOTA Adaption**: TradeMark East Afrika heißt jetzt TradeMark Africa und [Dom Schiener gratuliert](https://twitter.com/DomSchiener/status/1621451242558967809?s=20&t=4ghxjc8rFiLUL5wLbF8vsw)
+48. **IOTA Hype**: [Kowei tweetet](https://twitter.com/kowei1995/status/1621398649770242048?s=20&t=4ghxjc8rFiLUL5wLbF8vsw) darüber, dass er mit einem Google Mitarbeiter im Google Büro über "wallets, stablecoins, different L1s and definitely @iota/@shimmernet" gesprochen hat
+49. **IOTA Dev**: [Marco Besier tweetet](https://twitter.com/marcobesier/status/1621471176584306688?s=20&t=4ghxjc8rFiLUL5wLbF8vsw) am Freitag über sein "FREE Shimmer EVM Workshop today at 5 pm CET"
