@@ -37,3 +37,4 @@
 35. **IOTA Dev**: Es gab ein wasp Pre-Release: [v0.4.0-alpha.6](https://github.com/iotaledger/wasp/releases/tag/v0.4.0-alpha.6)
 36. **IOTA Audio**: Das TangleGang Interview mit Linus ist jetzt online: [Interview mit Linus vom 24.11.22](https://www.youtube.com/watch?v=fhmKxG98vSs)
 37. **IOTA Audio**: Neuer Moonaco Podcast mit Adri von EnergieKnip: [Tweet](https://twitter.com/MoonacoPodcast/status/1621101680501878784?s=20&t=PQmUYyA6TVbzJ0hckPwmHg); [Spotify Link](https://open.spotify.com/show/387nS9czdx47kJZ6Mho28m)
+38. **IOTA Youtube**: von IOTA Foundation: [IOTA Community Regulation Call 01/02/2023: GDPR](https://www.youtube.com/watch?v=xk8CTGn5j7c)
