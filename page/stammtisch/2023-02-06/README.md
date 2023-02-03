@@ -44,3 +44,5 @@
 42. **IOTA Youtube**: von Crypto Chronicles: [IOTA (MIOTA): Steht die RALLYE KURZ BEVOR? Kursanalyse, Preisprognose & Potenzial für 2023 Deutsch](https://www.youtube.com/watch?v=57-tYLX51YQ&t=67s)
 43. **IOTA Youtube**: von Its Gigi TV: [IOTA die Reise beginnt ! AVALANCHE brutale Partnerschaft ! Krypto News](https://www.youtube.com/watch?v=NHMs167QpCo)
 44. **IOTA Youtube**: von Crypto Tuts: [IOTA steht kurz vor Coordicide - IOTA 2.0](https://www.youtube.com/watch?v=yhZJkelIl_o&t=358s)
+45. **IOTA Stammtisch**: am Freitag war IOTA Stammtisch in München
+46. **IOTA Adaption**: TradeMark East Afrika heißt jetzt TradeMark Africa und [Dom Schiener gratuliert](https://twitter.com/DomSchiener/status/1621451242558967809?s=20&t=4ghxjc8rFiLUL5wLbF8vsw)
