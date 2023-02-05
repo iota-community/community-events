@@ -60,8 +60,8 @@
 58. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1621554114587934721?s=20&t=4qekmI4J5kKRpVqTEy-WAA) über den Artikel von invezz: [IOTA promotes sustainable energy consumption with EnergieKnip](https://invezz.com/news/2023/02/01/iota-promotes-sustainable-energy-consumption-with-energieknip/)
 59. **IOTA Youtube**: von Mind Crypto: [IOTA CRYPTO IS ON FIRE! MAKING BIG MOVES IN THE ENERGY INDUSTRY! #iota (NOT FINANCIAL ADVICE)](https://www.youtube.com/watch?v=eZThBXow094)
 60. **IOTA Adaption**: [Der Engel tweetet](https://twitter.com/EngelTeufel4/status/1577769545682587664?s=20&t=SRnOHH2qZgoTz9PaJa6M5A) über die wichtigsten Projekte und Partnerschaften von IOTA
-61. **IOTA Youtube**: [SpecWeekly tweetet](https://twitter.com/SpecWeekly/status/1622147040624115712?s=20&t=SRnOHH2qZgoTz9PaJa6M5A) über eine neue [Classic - Episode 34: PIPE from HUB Cloud - TAKING OVER DECENTRALIZED DATA STORAGE!!!](https://www.youtube.com/watch?v=a2XV3wvalp4)
-62. **IOTA Ökosystem**: [Bevreost macht 5 Tweets](https://twitter.com/bivreost/status/1622281648233451522?s=20&t=SRnOHH2qZgoTz9PaJa6M5A) über ihren aktuellen Stand von dem Telegram Wallet
+61. **IOTA Youtube**: [SpecWeekly tweetet](https://twitter.com/SpecWeekly/status/1622147040624115712?s=20&t=SRnOHH2qZgoTz9PaJa6M5A) über eine neue [Classic - Episode 34: PIPE from HUB Cloud - TAKING OVER DECENTRALIZED DATA STORAGE!!!](https://www.youtube.com/watch?v=a2XV3wvalp4); Darin wird von einer ausichtsreichen Zusammenarbeit mit Seagate gesprochen einem weltweit führenden Unternehmen für Hardware- und Computer Speicher Lösungen gesprochen: [Tweet](https://twitter.com/_JeffR/status/1622283092810690561?s=20&t=SRnOHH2qZgoTz9PaJa6M5A)
+62. **IOTA Ökosystem**: [Bivreost macht 5 Tweets](https://twitter.com/bivreost/status/1622281648233451522?s=20&t=SRnOHH2qZgoTz9PaJa6M5A) über ihren aktuellen Stand von dem Telegram Wallet
 63. **IOTA Ökosystem**: [Serverox tweetet](https://twitter.com/servrox/status/1622223535463604227?s=20&t=SRnOHH2qZgoTz9PaJa6M5A) über ein Multisig Wallet wo er bereits die Ui zeigt; Hier noch [ein Tweet](https://twitter.com/servrox/status/1621996617497722882?s=20&t=SRnOHH2qZgoTz9PaJa6M5A) darüber
 64. **IOTA Audio**: Am Donnerstag kommt Dr. Electron in den TangleGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1622156064404668416?s=20&t=SRnOHH2qZgoTz9PaJa6M5A)
 65. **IOTA Youtube**: von BariC: [THE REASON I’M BUYING #IOTA RIGHT NOW! $IOTA #crypto #cryptocurrency #energy #iso20022 #netherlands](https://www.youtube.com/watch?v=thDPc-d0SLQ)
@@ -70,7 +70,8 @@
 68. **IOTA Science**: [Bill (Prof. Buchanan) tweetet](https://twitter.com/billatnapier/status/1621867374746943490?s=20&t=WhgNqpBIDA30SuIC7OwwbQ) darüber, dass EdDSA signature ein guter Zug von IOTA war darauf zu setzen
 67. **Allg. News**: Es gibt bald Fördergelder für allgemeinwohlorientierte Unternehmen: [Tweet](https://twitter.com/sven_giegold/status/1622171744353017856?s=20&t=SRnOHH2qZgoTz9PaJa6M5A)
 68. **IOTA Youtube**: von Crypto Whitehat: [IOTA News Deutsch: Projektvorstellung mit ultimativen Partnern wie Europäische Kommission oder Del](https://www.youtube.com/watch?v=1ExocbGQEbY)
-68. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/260-wochenr%C3%BCckblick-vom-29-januar-bis-4-februar-2023/)
+69. **IOTA Youtube**: 
+70. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/260-wochenr%C3%BCckblick-vom-29-januar-bis-4-februar-2023/)
 
 
 
