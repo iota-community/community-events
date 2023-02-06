@@ -72,7 +72,8 @@
 70. **IOTA Youtube**: von Crypto Whitehat: [IOTA News Deutsch: Projektvorstellung mit ultimativen Partnern wie Europäische Kommission oder Del](https://www.youtube.com/watch?v=1ExocbGQEbY) 
 71. **IOTA Youtube**: von It's Gigi TV: [SHIBA INU makier dir den 14ten Februar ! IOTA mega Partnerschaft ! Krypto News](https://www.youtube.com/watch?v=-fj7jJVoK_M)
 72. **IOTA Youtube**: von Multi: [How to create your #Shimmer passphrase really fast online!](https://www.youtube.com/watch?v=kxlD05H4NIY)
-73. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/260-wochenr%C3%BCckblick-vom-29-januar-bis-4-februar-2023/)
+73. **IOTA Gaming**: [Sphere DAO tweetet](https://twitter.com/EtoGruppe/status/1622517826744360965?s=20&t=FG8kuZaKzRUhlmyhez5ESQ) über ihren Fortschritt bei ihrem [Sphere-Hub Metaverse](https://sphere-hub.io/Metasphere/)
+74. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/260-wochenr%C3%BCckblick-vom-29-januar-bis-4-februar-2023/)
 
 
 
