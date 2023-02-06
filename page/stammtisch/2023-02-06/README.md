@@ -71,7 +71,8 @@
 69. **Allg. News**: Es gibt bald Fördergelder für allgemeinwohlorientierte Unternehmen: [Tweet](https://twitter.com/sven_giegold/status/1622171744353017856?s=20&t=SRnOHH2qZgoTz9PaJa6M5A); Könnten DAOs davon profitieren? Blockchain Drenthe sieht auf jeden Fall auch ein großes Potential: [Tweet](https://twitter.com/BclDrenthe/status/1622501031769669632?s=20&t=SSAyT_wS86jvSb029gkj2Q)
 70. **IOTA Youtube**: von Crypto Whitehat: [IOTA News Deutsch: Projektvorstellung mit ultimativen Partnern wie Europäische Kommission oder Del](https://www.youtube.com/watch?v=1ExocbGQEbY) 
 71. **IOTA Youtube**: von It's Gigi TV: [SHIBA INU makier dir den 14ten Februar ! IOTA mega Partnerschaft ! Krypto News](https://www.youtube.com/watch?v=-fj7jJVoK_M)
-72. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/260-wochenr%C3%BCckblick-vom-29-januar-bis-4-februar-2023/)
+72. **IOTA Youtube**: von Multi: [How to create your #Shimmer passphrase really fast online!](https://www.youtube.com/watch?v=kxlD05H4NIY)
+73. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/260-wochenr%C3%BCckblick-vom-29-januar-bis-4-februar-2023/)
 
 
 
