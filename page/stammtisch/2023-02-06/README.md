@@ -68,10 +68,10 @@
 66. **IOTA Promote**: Die [IF tweetet](https://twitter.com/iota/status/1621825905583603713?s=20&t=SRnOHH2qZgoTz9PaJa6M5A) über den CoinmarketCap Artikel: [Touchpoint Open Builders Program Welcomes loyal](https://coinmarketcap.com/community/articles/63d297145ee18115d18db687/)
 67. **Assembly Staking**: Die [IF tweetet](https://twitter.com/assembly_net/status/1622236863481143296) darüber, dass die 4. Assembly Staking Runde vorbei ist und die 5. "soon" startet
 68. **IOTA Science**: [Bill (Prof. Buchanan) tweetet](https://twitter.com/billatnapier/status/1621867374746943490?s=20&t=WhgNqpBIDA30SuIC7OwwbQ) darüber, dass die Einführung von EdDSA Signaturen ein guter Zug von IOTA war 
-67. **Allg. News**: Es gibt bald Fördergelder für allgemeinwohlorientierte Unternehmen: [Tweet](https://twitter.com/sven_giegold/status/1622171744353017856?s=20&t=SRnOHH2qZgoTz9PaJa6M5A)
-68. **IOTA Youtube**: von Crypto Whitehat: [IOTA News Deutsch: Projektvorstellung mit ultimativen Partnern wie Europäische Kommission oder Del](https://www.youtube.com/watch?v=1ExocbGQEbY) ; Könnten DAOs davon profitieren?
-69. **IOTA Youtube**: von It's Gigi TV: [SHIBA INU makier dir den 14ten Februar ! IOTA mega Partnerschaft ! Krypto News](https://www.youtube.com/watch?v=-fj7jJVoK_M)
-70. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/260-wochenr%C3%BCckblick-vom-29-januar-bis-4-februar-2023/)
+69. **Allg. News**: Es gibt bald Fördergelder für allgemeinwohlorientierte Unternehmen: [Tweet](https://twitter.com/sven_giegold/status/1622171744353017856?s=20&t=SRnOHH2qZgoTz9PaJa6M5A); Könnten DAOs davon profitieren?
+70. **IOTA Youtube**: von Crypto Whitehat: [IOTA News Deutsch: Projektvorstellung mit ultimativen Partnern wie Europäische Kommission oder Del](https://www.youtube.com/watch?v=1ExocbGQEbY) 
+71. **IOTA Youtube**: von It's Gigi TV: [SHIBA INU makier dir den 14ten Februar ! IOTA mega Partnerschaft ! Krypto News](https://www.youtube.com/watch?v=-fj7jJVoK_M)
+72. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/260-wochenr%C3%BCckblick-vom-29-januar-bis-4-februar-2023/)
 
 
 
