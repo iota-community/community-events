@@ -74,7 +74,7 @@
 72. **IOTA Youtube**: von Multi: [How to create your #Shimmer passphrase really fast online!](https://www.youtube.com/watch?v=kxlD05H4NIY)
 73. **IOTA Gaming**: [Sphere DAO tweetet](https://twitter.com/EtoGruppe/status/1622517826744360965?s=20&t=FG8kuZaKzRUhlmyhez5ESQ) über ihren Fortschritt bei ihrem [Sphere-Hub Metaverse](https://sphere-hub.io/Metasphere/)
 74. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/260-wochenr%C3%BCckblick-vom-29-januar-bis-4-februar-2023/)
-75. **IOTA Youtube**: von [BarriC](#IOTA AND DELL PARTNERSHIP! BUILDING THE CITIES OF THE FUTURE! $IOTA #crypto #cryptocurrency #dell)
+75. **IOTA Youtube**: von BarriC: [#IOTA AND DELL PARTNERSHIP! BUILDING THE CITIES OF THE FUTURE! $IOTA #crypto #cryptocurrency #dell](https://www.youtube.com/watch?v=DhgHUl2Usvo)
 
 
 
