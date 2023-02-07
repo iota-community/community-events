@@ -12,3 +12,5 @@
 10. **IOTA Dev**: IOTA ist bei ProofOfGithub auf Platzt 10: [Tweet](https://twitter.com/ProofofGitHub/status/1622867786488766465?s=20&t=s32X4t9XRn27zdeyr7L6nA)
 11. **IOTA Community Event**: [Iotapunks tweetet](https://twitter.com/IotaPunks_71/status/1622532700178468867?s=20&t=s32X4t9XRn27zdeyr7L6nA) über ein Pokerturnier am Freitag 10.2.2021
 12. **IOTA Artikel**: von Crypto News Flash: [IOTA: Smart Contracts-Team verbessert Wasp-Knoten und ist bereit, ShimmerEVM zu starten – Bericht](https://www.crypto-news-flash.com/de/iota-smart-contracts-team-verbessert-wasp-knoten-und-ist-bereit-shimmerevm-zu-starten-bericht/)
+13. **Twitter Promote**: [Pipe tweetet](https://twitter.com/PIPE_DATA/status/1622904515639869440?s=20&t=s32X4t9XRn27zdeyr7L6nA) über ihr Whitepaper, das "soon" kommt
+14. 
