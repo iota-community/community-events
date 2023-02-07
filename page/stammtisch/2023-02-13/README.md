@@ -13,4 +13,5 @@
 11. **IOTA Community Event**: [Iotapunks tweetet](https://twitter.com/IotaPunks_71/status/1622532700178468867?s=20&t=s32X4t9XRn27zdeyr7L6nA) über ein Pokerturnier am Freitag 10.2.2021
 12. **IOTA Artikel**: von Crypto News Flash: [IOTA: Smart Contracts-Team verbessert Wasp-Knoten und ist bereit, ShimmerEVM zu starten – Bericht](https://www.crypto-news-flash.com/de/iota-smart-contracts-team-verbessert-wasp-knoten-und-ist-bereit-shimmerevm-zu-starten-bericht/)
 13. **Twitter Promote**: [Pipe tweetet](https://twitter.com/PIPE_DATA/status/1622904515639869440?s=20&t=s32X4t9XRn27zdeyr7L6nA) über ihr Whitepaper, das "soon" kommt
-14. 
+14. **IOTA Artikel**: von Crypto News Flash: [63,5% des IOTA-Token-Supplys gestaked, über 1 Milliarde Assembly-Token ausgeschüttet – Ökosystem wächst rasant](https://www.crypto-news-flash.com/de/63-5-des-iota-token-volumens-eingesetzt-ueber-eine-milliarde-assembly-token-vergeben-oekosystem-waechst-rasant/?feed_id=12774&_unique_id=63e24f0fe5533)
+15. 
