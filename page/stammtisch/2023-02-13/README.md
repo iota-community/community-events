@@ -14,4 +14,9 @@
 12. **IOTA Artikel**: von Crypto News Flash: [IOTA: Smart Contracts-Team verbessert Wasp-Knoten und ist bereit, ShimmerEVM zu starten – Bericht](https://www.crypto-news-flash.com/de/iota-smart-contracts-team-verbessert-wasp-knoten-und-ist-bereit-shimmerevm-zu-starten-bericht/)
 13. **Twitter Promote**: [Pipe tweetet](https://twitter.com/PIPE_DATA/status/1622904515639869440?s=20&t=s32X4t9XRn27zdeyr7L6nA) über ihr Whitepaper, das "soon" kommt
 14. **IOTA Artikel**: von Crypto News Flash: [63,5% des IOTA-Token-Supplys gestaked, über 1 Milliarde Assembly-Token ausgeschüttet – Ökosystem wächst rasant](https://www.crypto-news-flash.com/de/63-5-des-iota-token-volumens-eingesetzt-ueber-eine-milliarde-assembly-token-vergeben-oekosystem-waechst-rasant/?feed_id=12774&_unique_id=63e24f0fe5533)
-15. 
+15. **IOTA Ökosystem**: ShimmerSea verteilt Lumis über die Engagement-Tracking-Plattform: [crew3.xyz/](https://crew3.xyz/c/shimmersea/invite/zikW2A__rIouDMx9vBQzD)
+16. **IOTA Adaption**: [Dominique tweetet](https://twitter.com/domguinard/status/1622966023866417152?s=20&t=KEvg8zfoW5Ui2m96mKqDjQ) über den digitalen Produkt Passport und seinen Medium-Artikel: [A Decentralized Blueprint for Digital Product Passports](https://domguinard.medium.com/a-decentralized-blueprint-for-digital-product-passports-cd1314f008c6)
+17. **IOTA Promote**: [Issausus tweetet](https://twitter.com/Issaus2020/status/1622979600794910720?s=20&t=KEvg8zfoW5Ui2m96mKqDjQ) einen neuen ONe-Pager zum Thema "Storage Deposit"
+18. **IOTA Adaption**: [DELL tweetet](https://twitter.com/Dell_Edge/status/1623023790027378688?s=20&t=KEvg8zfoW5Ui2m96mKqDjQ) darüber, dass sie beim Project Alvarium mit Hedera arbeitet. Heißt das IOTA ist raus?!?
+19. **IOTA Artikel**: von Crypto News Flash: [2023 wird die Geburt von IOTA 2.0 und der Beginn einer bahnbrechenden neuen Blockchain-Ära sein – Bericht](https://www.crypto-news-flash.com/de/2023-ist-das-jahr-von-iota-2-punkt-0-und-der-beginn-einer-neuen-blockchain-aera/)
+20. **IOTA Youtube**: [AMA MEET THE TEAM BEHIND LENDEXE (LEXE) PROJECT ON #LATOKEN](https://www.youtube.com/watch?v=hEHuEXPsGds)
