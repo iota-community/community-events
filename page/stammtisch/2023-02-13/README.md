@@ -33,4 +33,4 @@
 31. **IOTA NFT Ökosystem**: [Dark Mythos tweetet]() über ihr neues ["Compare"-Feature](https://explorer.dark-mythos.com/compare) auf ihrer sehr gelungenen [Webseite](https://explorer.dark-mythos.com/cards); Auch [Dom Schiener lobt](https://twitter.com/DomSchiener/status/1623242190175588353?s=20&t=YWzDP8OMOg8Z3gf9eGln4w) das Projekt
 32. **IOTA Patent**: [Muandelo tweetet](https://twitter.com/muandelo/status/1622608606645440512?s=20&t=YWzDP8OMOg8Z3gf9eGln4w) über ein neues Patent von Hitachi Transport Systems: [TRADE LOGISTICS DELIVERY ARRANGEMENT SYSTEM, TRADE LOGISTICS DELIVERY ARRANGEMENT METHOD, AND PROGRAM THEREOF](https://worldwide.espacenet.com/patent/search/family/084979179/publication/WO2023002551A1?q=pn%3DWO2023002551A1)
 33. **IOTA Audio**: Das Interview von Akkodis in der TangleGang wurde veröffentlicht: [Interview mit Sebastian Weber von Akkodis am 05.01.23](https://www.youtube.com/watch?v=O5ZASZaxbSo)
-34. 
+34. **IOTA Audio**: Das Interview mit dem Finanzgoblin in der TangleGang wurde veröffentlicht: [Interview mit dem Finanzgoblin vom 15.12.22](https://www.youtube.com/watch?v=Y4NcKy9xZDs)
