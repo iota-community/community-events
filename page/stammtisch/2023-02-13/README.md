@@ -36,3 +36,5 @@
 34. **IOTA Audio**: Das Interview mit dem Finanzgoblin in der TangleGang wurde veröffentlicht: [Interview mit dem Finanzgoblin vom 15.12.22](https://www.youtube.com/watch?v=Y4NcKy9xZDs)
 35. **IOTA Hype**: Ein [Tweet mit Screenshot](https://twitter.com/TangleVerseWeb/status/1623306295460724737?s=20&t=YWzDP8OMOg8Z3gf9eGln4w) mit Aussagen von Dom Schiener bezüglich dem Stand von L1 Smart Contracts
 36. **IOTA Dev**: Es gibt ein neues Release für das inx-dashboard: [v1.0.0-rc.2](https://github.com/iotaledger/inx-dashboard/releases/tag/v1.0.0-rc.2)
+37. **Assembly Staking**: [Assembly tweetet](https://twitter.com/assembly_net/status/1623320761728393219?s=20&t=YWzDP8OMOg8Z3gf9eGln4w) über: [IOTA Staking for Assembly: Round 5](https://blog.iota.org/iota-staking-for-assembly-round-5/)
+38. **IOTA Philosophie**: Hans Moog philosophiert wieder über IOTA, Chaos und Randomness und die Welt: [20 Tweets](https://twitter.com/hus_qy/status/1623338107255791616?s=20&t=YWzDP8OMOg8Z3gf9eGln4w)
