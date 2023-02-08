@@ -20,3 +20,11 @@
 18. **IOTA Adaption**: [DELL tweetet](https://twitter.com/Dell_Edge/status/1623023790027378688?s=20&t=KEvg8zfoW5Ui2m96mKqDjQ) darüber, dass sie beim Project Alvarium mit Hedera arbeitet. Heißt das IOTA ist raus?!?
 19. **IOTA Artikel**: von Crypto News Flash: [2023 wird die Geburt von IOTA 2.0 und der Beginn einer bahnbrechenden neuen Blockchain-Ära sein – Bericht](https://www.crypto-news-flash.com/de/2023-ist-das-jahr-von-iota-2-punkt-0-und-der-beginn-einer-neuen-blockchain-aera/)
 20. **IOTA Youtube**: [AMA MEET THE TEAM BEHIND LENDEXE (LEXE) PROJECT ON #LATOKEN](https://www.youtube.com/watch?v=hEHuEXPsGds)
+21. **IOTA Artikel**: vom Bitcoin Kurier: [IOTA: Die Gemeinde Emmen spart Strom mit DLT](https://bitcoin-kurier.de/iota-die-gemeinde-emmen-spart-strom-mit-dlt/)
+22. **IOTA Ökosystem**: [Deepsea tweetet](https://twitter.com/Deep_Sea_Iotan/status/1623102563477340161?s=20&t=YWzDP8OMOg8Z3gf9eGln4w) darüber, dass er die [Webseite von der Shimmer Community Treasury](https://www.shimmergov.community/) verschönert hat und jetzt nur noch auf die Governements Integration in Firefly wartet damit es los gehen kann
+23. **IOTA Ökosystem**: [TangleHub tweetet](https://twitter.com/Tanglehub_eu/status/1623044416452567040?s=20&t=YWzDP8OMOg8Z3gf9eGln4w), dass sie wohl gut voran kommen
+24. **Allgemeine News**: Announcement-Video von Bing und ChatGPT: [Introducing your copilot for the web: AI-powered Bing and Microsoft Edge](https://www.youtube.com/watch?v=rOeRWRJ16yY)
+25. **Allgemeine News**: Kommt jetzt die Antwort darauf von Google?: 
+26. **IOTA Hype**: Scheinbar will IOTA auch auf den Ki Train aufspringen: [Tweet von Dom Schiener](https://twitter.com/DomSchiener/status/1623220039049527298?s=20&t=YWzDP8OMOg8Z3gf9eGln4w)
+27. **Allgemeine News**: Elon Musk will am 1. März die Energieprobleme der Welt retten... [Tweet](https://twitter.com/elonmusk/status/1623152067547394050?s=20&t=YWzDP8OMOg8Z3gf9eGln4w)
+28. **IOTA Artikel**: von Cryptoticker: [Kann IOTA durch den Hype um Künstliche Intelligenz profitieren?](https://cryptoticker.io/de/iota-kuenstliche-intelligenz/)
