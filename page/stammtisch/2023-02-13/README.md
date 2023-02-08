@@ -35,3 +35,4 @@
 33. **IOTA Audio**: Das Interview von Akkodis in der TangleGang wurde veröffentlicht: [Interview mit Sebastian Weber von Akkodis am 05.01.23](https://www.youtube.com/watch?v=O5ZASZaxbSo)
 34. **IOTA Audio**: Das Interview mit dem Finanzgoblin in der TangleGang wurde veröffentlicht: [Interview mit dem Finanzgoblin vom 15.12.22](https://www.youtube.com/watch?v=Y4NcKy9xZDs)
 35. **IOTA Hype**: Ein [Tweet mit Screenshot](https://twitter.com/TangleVerseWeb/status/1623306295460724737?s=20&t=YWzDP8OMOg8Z3gf9eGln4w) mit Aussagen von Dom Schiener bezüglich dem Stand von L1 Smart Contracts
+36. **IOTA Dev**: Es gibt ein neues Release für das inx-dashboard: [v1.0.0-rc.2](https://github.com/iotaledger/inx-dashboard/releases/tag/v1.0.0-rc.2)
