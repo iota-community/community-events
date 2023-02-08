@@ -38,3 +38,6 @@
 36. **IOTA Dev**: Es gibt ein neues Release für das inx-dashboard: [v1.0.0-rc.2](https://github.com/iotaledger/inx-dashboard/releases/tag/v1.0.0-rc.2)
 37. **Assembly Staking**: [Assembly tweetet](https://twitter.com/assembly_net/status/1623320761728393219?s=20&t=YWzDP8OMOg8Z3gf9eGln4w) über: [IOTA Staking for Assembly: Round 5](https://blog.iota.org/iota-staking-for-assembly-round-5/)
 38. **IOTA Philosophie**: Hans Moog philosophiert wieder über IOTA, Chaos und Randomness und die Welt: [20 Tweets](https://twitter.com/hus_qy/status/1623338107255791616?s=20&t=YWzDP8OMOg8Z3gf9eGln4w)
+39. **IOTA NFT Ökosystem**: [Magic Meme Money tweetet](https://twitter.com/Magic_MemeMoney/status/1623352203233853440?s=20&t=6h1kQ_PSGHotVN99diyE3A) über die neue [Webseite](https://www.magicmememoney.com/)
+40. **IOTA Artikel**: von INVEZZ: [IOTA promotes sustainable energy consumption with EnergieKnip](https://invezz.com/news/2023/02/01/iota-promotes-sustainable-energy-consumption-with-energieknip/)
+41. **IOTA Youtube**: von Kryptonight_Owl: [XRP &Vechain HEFTIGE News‼️IOTA(2.0) KOMMT💥ENDLICH-ES IST SOWEIT💥Stellungnahme zu gestern☝️crypto](https://www.youtube.com/watch?v=K96OjeA6Sno)
