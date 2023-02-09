@@ -45,4 +45,5 @@
 43. **IOTA Artikel**: vom BTC Echo: [IOTA verdienen und Stromsparen? Diese App will das ermöglichen](https://www.btc-echo.de/schlagzeilen/iota-stromsparen-und-krypto-token-verdienen-mit-neuer-app-158851/)
 44. **IOTA Artikel**: von Crypto News Flash: [IOTA soll als technische Schicht für den digitalen Produktpass für die europäische Blockchain dienen – Bericht](https://www.crypto-news-flash.com/de/iota-soll-als-technische-schicht-fuer-den-digitalen-produktpass-fuer-die-europaeische-blockchain-dienen-bericht/)
 45. **IOTA Dev**: wasp Pre-Release: [v0.5.0-alpha.1](https://github.com/iotaledger/wasp/releases)
-46. 
+46. **IOTA Youtube**: von Mind Crypto: [#IOTA NEWS This is Massive for 2023 Big thing incoming 4 Miota](https://www.youtube.com/watch?v=u_vCIEliGoY)
+47. **IOTA Adaption**: Die [IF tweetet](https://twitter.com/iota/status/1623683142430097413?s=20&t=fTH9yF92AWAQxcYIgHdnFg) über den Blogpost: [INATBA and the IOTA Foundation](https://blog.iota.org/inatba-and-the-iota-foundation/)
