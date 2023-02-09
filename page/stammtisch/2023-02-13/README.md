@@ -41,3 +41,7 @@
 39. **IOTA NFT Ökosystem**: [Magic Meme Money tweetet](https://twitter.com/Magic_MemeMoney/status/1623352203233853440?s=20&t=6h1kQ_PSGHotVN99diyE3A) über die neue [Webseite](https://www.magicmememoney.com/)
 40. **IOTA Artikel**: von INVEZZ: [IOTA promotes sustainable energy consumption with EnergieKnip](https://invezz.com/news/2023/02/01/iota-promotes-sustainable-energy-consumption-with-energieknip/)
 41. **IOTA Youtube**: von Kryptonight_Owl: [XRP &Vechain HEFTIGE News‼️IOTA(2.0) KOMMT💥ENDLICH-ES IST SOWEIT💥Stellungnahme zu gestern☝️crypto](https://www.youtube.com/watch?v=K96OjeA6Sno)
+42. **IOTA Artikel**: von Bitcoin Kurier: [IOTA: Die Gemeinde Emmen spart Strom mit DLT](https://bitcoin-kurier.de/iota-die-gemeinde-emmen-spart-strom-mit-dlt/)
+43. **IOTA Artikel**: vom BTC Echo: [IOTA verdienen und Stromsparen? Diese App will das ermöglichen](https://www.btc-echo.de/schlagzeilen/iota-stromsparen-und-krypto-token-verdienen-mit-neuer-app-158851/)
+44. **IOTA Artikel**: von Crypto News Flash: [IOTA soll als technische Schicht für den digitalen Produktpass für die europäische Blockchain dienen – Bericht](https://www.crypto-news-flash.com/de/iota-soll-als-technische-schicht-fuer-den-digitalen-produktpass-fuer-die-europaeische-blockchain-dienen-bericht/)
+45. **
