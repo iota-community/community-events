@@ -44,4 +44,5 @@
 42. **IOTA Artikel**: von Bitcoin Kurier: [IOTA: Die Gemeinde Emmen spart Strom mit DLT](https://bitcoin-kurier.de/iota-die-gemeinde-emmen-spart-strom-mit-dlt/)
 43. **IOTA Artikel**: vom BTC Echo: [IOTA verdienen und Stromsparen? Diese App will das ermöglichen](https://www.btc-echo.de/schlagzeilen/iota-stromsparen-und-krypto-token-verdienen-mit-neuer-app-158851/)
 44. **IOTA Artikel**: von Crypto News Flash: [IOTA soll als technische Schicht für den digitalen Produktpass für die europäische Blockchain dienen – Bericht](https://www.crypto-news-flash.com/de/iota-soll-als-technische-schicht-fuer-den-digitalen-produktpass-fuer-die-europaeische-blockchain-dienen-bericht/)
-45. **
+45. **IOTA Dev**: wasp Pre-Release: [v0.5.0-alpha.1](https://github.com/iotaledger/wasp/releases)
+46. 
