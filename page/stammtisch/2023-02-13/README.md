@@ -60,5 +60,9 @@
 58. **IOTA Spekulation**: Der [Tweet von der Crypto Finance Group](https://twitter.com/CryptoFinanceAG/status/1623630646508658688?s=20&t=D3s84BN2yU-P85UeNLv1kg) löst Spekulationen aus: [Tweet](https://twitter.com/HongkieKong/status/1623959974023163905?s=20&t=D3s84BN2yU-P85UeNLv1kg); Es gab ja mal den IF Blogpost: [Crypto Finance AG and IOTA: The Virtues of Collaboration](https://blog.iota.org/crypto-finance-ag-and-iota/)
 59. **IOTA Adaption**: [Digimarc tweetet](https://twitter.com/digimarc/status/1623714440263639043?s=20&t=D3s84BN2yU-P85UeNLv1kg) über den Artikel: [A Decentralized Blueprint for Digital Product Passports](https://www.linkedin.com/pulse/decentralized-blueprint-digital-product-passports-dominique-guinard/?trackingId=l6uFXc2FSHaT2qXZ1Gl9oQ%3D%3D)
 60. **Allgemeine News**: Space X hat ihren Booster 7 getestet: [Tweet](https://twitter.com/SpaceX/status/1623812763415093249?s=20&t=D3s84BN2yU-P85UeNLv1kg)
+61. **IOTA Ökosystem**: [TangleSwap tweetet]() über den Artikel: [TangleSwap — Upcoming DeFi platform in IOTA ecosystem](https://medium.com/@lennart.schuldt/tangleswap-upcoming-defi-platform-in-iota-ecosystem-c43617c86cb1)
+62. **Assembly News**: Dom Schiener hat sich nochmal zu Assembly geäußert: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1624019916935385090?s=20&t=Xmngv7JDpV2JxV-UmF2mdg)
+63. **IOTA Ökosystem**: LendeXe mit 2 Artikeln: Auf CoinmarketCap: [LendeXe: Revolutionizing Decentralized Finance with Stablecoins, P2P Lending, and Governance](https://coinmarketcap.com/community/articles/63e62acea49d5a116de06405/) und auf Binance: [LendeXe Revolutionizing Decentralized Finance with Stablecoins, P2P Lending, and Governance](https://www.binance.com/en/feed/post/210383)
+64. **IOTA Audio**: Die TangleGang hat das Interview mit MosquitoPay verffentlicht: [Interview mit Mosquito Pay vom 12.01.23](https://www.youtube.com/watch?v=fnzmhdzbOOI)
 
 
