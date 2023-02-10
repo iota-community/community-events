@@ -66,6 +66,8 @@
 64. **IOTA Audio**: Die TangleGang hat das Interview mit MosquitoPay verffentlicht: [Interview mit Mosquito Pay vom 12.01.23](https://www.youtube.com/watch?v=fnzmhdzbOOI)
 65. **IOTA Defi Umfrage:** Die [IF tweetet](https://twitter.com/iota/status/1624054989646700545?s=20&t=vxRi_4Q59EST2VPSwPfnyA) über diese Umfrage: [DeFi Definition ](https://docs.google.com/forms/d/e/1FAIpQLSedL1SvjKP5kbEqMSz3QbZO4CrL__4l8gIWxuogmaaID4Emag/viewform)
 66. **Crypto Adaption**: Rhianna verkauft Song als NFT: [Rihanna Song NFTs Enables Holders to Earn When it Plays](https://blockworks.co/news/rihanna-song-nfts-enables-holders-to-earn-when-it-plays)
-67. **
+67. **IOTA NFT Ökosystem**: Die [Rusti Robots tweeten](https://twitter.com/RustyRobotCC/status/1624123832502976530?s=20&t=BkT71geO1DTxcFxZCtCSBg) über ihren ersten Song: [Rusty Remixes - One Outta One (Midnight DnB Remix) - Rusty Rejects](https://www.youtube.com/watch?v=Q4lEyMBhKAw)
+68. **IOTA NFT Ökosystem**: [Dark Mythos tweetet](https://twitter.com/DarkMythosIOTA/status/1623932275883753473?s=20&t=nG5dBEGWlJJFufAgUkG6Uw) darüber, dass [Iotaben](https://twitter.com/iotaben) von den [Iotabots](https://twitter.com/iotabots) jetzt auch im Advisory Board ist
+69. **IOTA Youtube**: von Crypto White James [Iota (MIOTA) should hit $3 per coin (currently $0.24)](https://www.youtube.com/watch?v=ZnWTCs2LdFI)
 
 
