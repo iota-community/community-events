@@ -44,6 +44,17 @@
 42. **IOTA Artikel**: von Bitcoin Kurier: [IOTA: Die Gemeinde Emmen spart Strom mit DLT](https://bitcoin-kurier.de/iota-die-gemeinde-emmen-spart-strom-mit-dlt/)
 43. **IOTA Artikel**: vom BTC Echo: [IOTA verdienen und Stromsparen? Diese App will das ermöglichen](https://www.btc-echo.de/schlagzeilen/iota-stromsparen-und-krypto-token-verdienen-mit-neuer-app-158851/)
 44. **IOTA Artikel**: von Crypto News Flash: [IOTA soll als technische Schicht für den digitalen Produktpass für die europäische Blockchain dienen – Bericht](https://www.crypto-news-flash.com/de/iota-soll-als-technische-schicht-fuer-den-digitalen-produktpass-fuer-die-europaeische-blockchain-dienen-bericht/)
-45. **IOTA Dev**: wasp Pre-Release: [v0.5.0-alpha.1](https://github.com/iotaledger/wasp/releases)
+45. **IOTA Dev**: wasp Pre-Releases: [v0.5.0-alpha.1](https://github.com/iotaledger/wasp/releases) und kurze Zeit später [v0.5.0-alpha.1](https://github.com/iotaledger/wasp/releases)
 46. **IOTA Youtube**: von Mind Crypto: [#IOTA NEWS This is Massive for 2023 Big thing incoming 4 Miota](https://www.youtube.com/watch?v=u_vCIEliGoY)
 47. **IOTA Adaption**: Die [IF tweetet](https://twitter.com/iota/status/1623683142430097413?s=20&t=fTH9yF92AWAQxcYIgHdnFg) über den Blogpost: [INATBA and the IOTA Foundation](https://blog.iota.org/inatba-and-the-iota-foundation/)
+48. **Crypto Drama**: Die SEC will Staking-As-A-Service und auch Yield-as-a-Service verbieten; [Gary Gensler tweetet](https://twitter.com/GaryGensler/status/1623777842000539648?s=20&t=qDFEBANmjeo8ShSzt7xLrA) sein Erklärvideo dazu: [Staking-as-a-Service | Office Hours with Gary Gensler](https://www.youtube.com/watch?v=hmPpIjfC9DY); Artikel von Bitcoin Echo: [Kraken stellt Staking für US-Kunden ein](https://www.btc-echo.de/schlagzeilen/kraken-stellt-staking-fuer-us-kunden-ein-159268/)
+49. **IOTA Youtube**: [Coinmunity - Episode 3: Featuring Dennis from TangleHUB.](https://www.youtube.com/watch?app=desktop&v=3o8ja5QDDWY)
+50. **IOTA Youtube**: von CryptoTuts: [IOTA EU Anwendungsfall & Shimmer EVM Testnet Start](https://www.youtube.com/watch?v=7YLcR8G0XIw)
+51. **IOTA Audio**: Neue Folge vom Moonaco Podcast: [Tweet](https://twitter.com/MoonacoPodcast/status/1623637580435578880?s=20&t=qDFEBANmjeo8ShSzt7xLrA); [Spotify Link](https://open.spotify.com/episode/252T3CgNkZi2VwU0Xbp37Z?si=4zMH75AATNmgFWr_KZhqMA&nd=1)
+52. **IOTA Ökosystem**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1623924022789677056?s=20&t=qDFEBANmjeo8ShSzt7xLrA), dass sie ASMB Staking in ihrer Wallet ermöglicht haben
+53. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1623788832612130818?s=20&t=qDFEBANmjeo8ShSzt7xLrA) über [Incentivizing Energy Savings with EnergieKnip and IOTA](https://coinmarketcap.com/community/articles/63da731646d7e2035af84c44/)
+54. **Twitter Hype**: [Iotabee tweetet](https://twitter.com/iotabee/status/1623917117459566593?s=20&t=qDFEBANmjeo8ShSzt7xLrA) über ihre DEX und freut sich auf die EVM und auf nächste Woche?!? (Sie schreiben: "..it's time to prepare for the upcoming ShimmerEVM. Join us next week")
+55. **IOTA Artikel**: von Krypto Guru: [UPDATE: IOTA’S LIVE-ANWENDUNG GEGEN DIE ENERGIEKRISE GEMEINSAM MIT ENERGIEKNIP](https://krypto-guru.de/news/iotas-live-anwendung-energiekrise/)
+56. **Shimmer Hype**: Dom hat im Discord geschrieben, dass man mit seinen IOTA im Shimmer Netzwerk Yield verdienen kann: [Tweet mit Screenshot](https://twitter.com/SpecWeekly/status/1623707940367798273?s=20&t=qDFEBANmjeo8ShSzt7xLrA)
+57. **
+
