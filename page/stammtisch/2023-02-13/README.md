@@ -53,8 +53,12 @@
 51. **IOTA Audio**: Neue Folge vom Moonaco Podcast: [Tweet](https://twitter.com/MoonacoPodcast/status/1623637580435578880?s=20&t=qDFEBANmjeo8ShSzt7xLrA); [Spotify Link](https://open.spotify.com/episode/252T3CgNkZi2VwU0Xbp37Z?si=4zMH75AATNmgFWr_KZhqMA&nd=1)
 52. **IOTA Ökosystem**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1623924022789677056?s=20&t=qDFEBANmjeo8ShSzt7xLrA), dass sie ASMB Staking in ihrer Wallet ermöglicht haben
 53. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1623788832612130818?s=20&t=qDFEBANmjeo8ShSzt7xLrA) über [Incentivizing Energy Savings with EnergieKnip and IOTA](https://coinmarketcap.com/community/articles/63da731646d7e2035af84c44/)
-54. **Twitter Hype**: [Iotabee tweetet](https://twitter.com/iotabee/status/1623917117459566593?s=20&t=qDFEBANmjeo8ShSzt7xLrA) über ihre DEX und freut sich auf die EVM und auf nächste Woche?!? (Sie schreiben: "..it's time to prepare for the upcoming ShimmerEVM. Join us next week")
+54. **Twitter Hype**: [Iotabee tweetet](https://twitter.com/iotabee/status/1623917117459566593?s=20&t=qDFEBANmjeo8ShSzt7xLrA) über ihre DEX und freut sich auf die EVM und auf nächste Woche?!? (Sie schreiben: "..it's time to prepare for the upcoming ShimmerEVM. Join us next week"); [SoonLabs retweetet](https://twitter.com/soon_labs/status/1623955367595212804?s=20&t=D3s84BN2yU-P85UeNLv1kg) das auch nochmal. Sie sind auch gehyped...
 55. **IOTA Artikel**: von Krypto Guru: [UPDATE: IOTA’S LIVE-ANWENDUNG GEGEN DIE ENERGIEKRISE GEMEINSAM MIT ENERGIEKNIP](https://krypto-guru.de/news/iotas-live-anwendung-energiekrise/)
 56. **Shimmer Hype**: Dom hat im Discord geschrieben, dass man mit seinen IOTA im Shimmer Netzwerk Yield verdienen kann: [Tweet mit Screenshot](https://twitter.com/SpecWeekly/status/1623707940367798273?s=20&t=qDFEBANmjeo8ShSzt7xLrA)
-57. **
+57. **IOTA Promote**: [Infiota tweetet](https://twitter.com/infiota/status/1623765397836034050?s=20&t=REKXUlGVoREsFhkqkapBog) einen neuen One-Pager über "Introduction to Defi"
+58. **IOTA Spekulation**: Der [Tweet von der Crypto Finance Group](https://twitter.com/CryptoFinanceAG/status/1623630646508658688?s=20&t=D3s84BN2yU-P85UeNLv1kg) löst Spekulationen aus: [Tweet](https://twitter.com/HongkieKong/status/1623959974023163905?s=20&t=D3s84BN2yU-P85UeNLv1kg); Es gab ja mal den IF Blogpost: [Crypto Finance AG and IOTA: The Virtues of Collaboration](https://blog.iota.org/crypto-finance-ag-and-iota/)
+59. **IOTA Adaption**: [Digimarc tweetet](https://twitter.com/digimarc/status/1623714440263639043?s=20&t=D3s84BN2yU-P85UeNLv1kg) über den Artikel: [A Decentralized Blueprint for Digital Product Passports](https://www.linkedin.com/pulse/decentralized-blueprint-digital-product-passports-dominique-guinard/?trackingId=l6uFXc2FSHaT2qXZ1Gl9oQ%3D%3D)
+60. **Allgemeine News**: Space X hat ihren Booster 7 getestet: [Tweet](https://twitter.com/SpaceX/status/1623812763415093249?s=20&t=D3s84BN2yU-P85UeNLv1kg)
+
 
