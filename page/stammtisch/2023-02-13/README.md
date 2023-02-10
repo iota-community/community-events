@@ -65,5 +65,7 @@
 63. **IOTA Ökosystem**: LendeXe mit 2 Artikeln: Auf CoinmarketCap: [LendeXe: Revolutionizing Decentralized Finance with Stablecoins, P2P Lending, and Governance](https://coinmarketcap.com/community/articles/63e62acea49d5a116de06405/) und auf Binance: [LendeXe Revolutionizing Decentralized Finance with Stablecoins, P2P Lending, and Governance](https://www.binance.com/en/feed/post/210383)
 64. **IOTA Audio**: Die TangleGang hat das Interview mit MosquitoPay verffentlicht: [Interview mit Mosquito Pay vom 12.01.23](https://www.youtube.com/watch?v=fnzmhdzbOOI)
 65. **IOTA Defi Umfrage:** Die [IF tweetet](https://twitter.com/iota/status/1624054989646700545?s=20&t=vxRi_4Q59EST2VPSwPfnyA) über diese Umfrage: [DeFi Definition ](https://docs.google.com/forms/d/e/1FAIpQLSedL1SvjKP5kbEqMSz3QbZO4CrL__4l8gIWxuogmaaID4Emag/viewform)
+66. **Crypto Adaption**: Rhianna verkauft Song als NFT: [Rihanna Song NFTs Enables Holders to Earn When it Plays](https://blockworks.co/news/rihanna-song-nfts-enables-holders-to-earn-when-it-plays)
+67. **
 
 
