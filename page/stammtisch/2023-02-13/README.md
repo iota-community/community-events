@@ -81,5 +81,8 @@
 79. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/262-wochenr%C3%BCckblick-vom-5-bis-11-februar-2023/)
 80. **Crypto Drama**: Paxos darf offenbar keine BUSD Stablecoin mehr heraus geben, weil BUS Security eingestuft wird: [Tweet von CZ-Binance](https://twitter.com/cz_binance/status/1625067484368740353?s=20&t=OSDLiEN7RxI2IBWy-h6_GA); Artikel dazu: [SEC erwägt Klage gegen BUSD-Betreiber Paxos](https://www.btc-echo.de/schlagzeilen/sec-erwaegt-klage-gegen-busd-betreiber-paxos-159379/)
 81. **IOTA Ökosystem**: [Tangleswap veröffentlichen](https://twitter.com/TangleSwapE/status/1625103020278091776?s=20&t=OSDLiEN7RxI2IBWy-h6_GA) ihr [Business Whitepaper](http://whitepaper.tangleswap.exchange/)
+82. **IOTA Ökosystem**: Noch 2x AMA mit LendeXe: [Tweet](https://twitter.com/LendeXeFinance/status/1625108379134840832?s=20&t=OSDLiEN7RxI2IBWy-h6_GA)
+83. **IOTA Artikel**: Neue IOTA Content Creator DAO [(ICCD-)Newsletter](https://iotacreator.substack.com/p/building-our-way-out-of-the-bear?r=1ic5o4&utm_campaign=post&utm_medium=web)
+84. **Crypto News**: $100K Board Ape jetzt auf Bitcoin? [Tweet](https://twitter.com/BitcoinMagazine/status/1625116965957439489?s=20&t=OSDLiEN7RxI2IBWy-h6_GA)
 
 
