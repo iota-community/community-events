@@ -84,5 +84,6 @@
 82. **IOTA Ökosystem**: Noch 2x AMA mit LendeXe: [Tweet](https://twitter.com/LendeXeFinance/status/1625108379134840832?s=20&t=OSDLiEN7RxI2IBWy-h6_GA)
 83. **IOTA Artikel**: Neue IOTA Content Creator DAO [(ICCD-)Newsletter](https://iotacreator.substack.com/p/building-our-way-out-of-the-bear?r=1ic5o4&utm_campaign=post&utm_medium=web)
 84. **Crypto News**: $100K Board Ape jetzt auf Bitcoin? [Tweet](https://twitter.com/BitcoinMagazine/status/1625116965957439489?s=20&t=OSDLiEN7RxI2IBWy-h6_GA)
+85. **IOTA Ökosystem**: Neuer Artikel von chirp: [How Chirp Will Drive IoT Adoption](https://chirpiot.medium.com/how-chirp-will-drive-iot-adoption-387e0d359824)
 
 
