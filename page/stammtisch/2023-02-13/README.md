@@ -80,5 +80,6 @@
 78. **IOTA Youtube**: von der IOTA Community Governance: [09/02/23 IOTA/Shimmer Community Governance meeting](https://www.youtube.com/watch?v=THKBRteXVq4)
 79. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/262-wochenr%C3%BCckblick-vom-5-bis-11-februar-2023/)
 80. **Crypto Drama**: Paxos darf offenbar keine BUSD Stablecoin mehr heraus geben, weil BUS Security eingestuft wird: [Tweet von CZ-Binance](https://twitter.com/cz_binance/status/1625067484368740353?s=20&t=OSDLiEN7RxI2IBWy-h6_GA); Artikel dazu: [SEC erwägt Klage gegen BUSD-Betreiber Paxos](https://www.btc-echo.de/schlagzeilen/sec-erwaegt-klage-gegen-busd-betreiber-paxos-159379/)
+81. **IOTA Ökosystem**: [Tangleswap veröffentlichen](https://twitter.com/TangleSwapE/status/1625103020278091776?s=20&t=OSDLiEN7RxI2IBWy-h6_GA) ihr [Business Whitepaper](http://whitepaper.tangleswap.exchange/)
 
 
