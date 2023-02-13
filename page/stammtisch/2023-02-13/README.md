@@ -76,6 +76,7 @@
 74. **Twitter Hype**: [Dom Schiener tweetet](https://twitter.com/DomSchiener/status/1624691558636310528?s=20&t=T8K4CaowDZUotl883ub_9A) u.a. "We will realize our vision and become one of the leading L1 networks, no matter what. "
 75. **IOTA Adaption**: [ImperierceTech tweetet](https://twitter.com/ImpierceTech/status/1624068305320394753?s=20&t=T8K4CaowDZUotl883ub_9A), dass sie als erstes eIDAS 2.0 identity wallets and services anbieten wollen und verlinken den Artikel: [EUDI Architecture and Reference Framework](https://www.intesigroup.com/en/news/eudi-arf/)
 76. **GoShimmer Hyper**: Ein [Tweet von id.iota](https://twitter.com/id_iota/status/1624388318837325824?s=20&t=T8K4CaowDZUotl883ub_9A) und ein [Tweet von Torsten Heissler](https://twitter.com/theissler/status/1624428703584247814?s=20&t=T8K4CaowDZUotl883ub_9A) lässt auf IOTA 2.0 bzw. ein neues GoShimmer Release hoffen... Hier noch ein [Update Tweet von id.iota](https://twitter.com/id_iota/status/1625045056531927041?s=20&t=T8K4CaowDZUotl883ub_9A)
-77. 
+77. **IOTA Dev Update:** [Protocol group, Week 6 #68](https://github.com/iotaledger/research-updates/discussions/68)
+78. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/262-wochenr%C3%BCckblick-vom-5-bis-11-februar-2023/)
 
 
