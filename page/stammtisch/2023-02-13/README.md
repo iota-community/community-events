@@ -69,5 +69,13 @@
 67. **IOTA NFT Ökosystem**: Die [Rusti Robots tweeten](https://twitter.com/RustyRobotCC/status/1624123832502976530?s=20&t=BkT71geO1DTxcFxZCtCSBg) über ihren ersten Song: [Rusty Remixes - One Outta One (Midnight DnB Remix) - Rusty Rejects](https://www.youtube.com/watch?v=Q4lEyMBhKAw)
 68. **IOTA NFT Ökosystem**: [Dark Mythos tweetet](https://twitter.com/DarkMythosIOTA/status/1623932275883753473?s=20&t=nG5dBEGWlJJFufAgUkG6Uw) darüber, dass [Iotaben](https://twitter.com/iotaben) von den [Iotabots](https://twitter.com/iotabots) jetzt auch im Advisory Board ist
 69. **IOTA Youtube**: von Crypto White James [Iota (MIOTA) should hit $3 per coin (currently $0.24)](https://www.youtube.com/watch?v=ZnWTCs2LdFI)
+70. **Crypto Drama**: Artikel: [Coinbase Will Happily Defend Staking Services in Court, Says Brian Armstrong](https://watcher.guru/news/coinbase-will-happily-defend-staking-services-in-court-says-brian-armstrong)
+71. **IOTA Youtube**: von BarriC: [THE REASON I’M BUYING #IOTA RIGHT NOW! $IOTA #crypto #cryptocurrency #energy #iso20022 #netherlands](https://www.youtube.com/watch?v=thDPc-d0SLQ)
+72. **IOTA Youtube**: von Multi: [Mein Wallet Service ist fertig: Kryptozahlungen abwickeln wie Profis und Scammer](https://www.youtube.com/watch?v=CFTWyX7n_8U)
+73. **IOTA Youtube**: von der TangleGang: [Interview mit Thoralf Müller vom 19.01.23](https://www.youtube.com/watch?v=6p_0hEnjb18&t=4s)
+74. **Twitter Hype**: [Dom Schiener tweetet](https://twitter.com/DomSchiener/status/1624691558636310528?s=20&t=T8K4CaowDZUotl883ub_9A) u.a. "We will realize our vision and become one of the leading L1 networks, no matter what. "
+75. **IOTA Adaption**: [ImperierceTech tweetet](https://twitter.com/ImpierceTech/status/1624068305320394753?s=20&t=T8K4CaowDZUotl883ub_9A), dass sie als erstes eIDAS 2.0 identity wallets and services anbieten wollen und verlinken den Artikel: [EUDI Architecture and Reference Framework](https://www.intesigroup.com/en/news/eudi-arf/)
+76. **GoShimmer Hyper**: Ein [Tweet von id.iota](https://twitter.com/id_iota/status/1624388318837325824?s=20&t=T8K4CaowDZUotl883ub_9A) und ein [Tweet von Torsten Heissler](https://twitter.com/theissler/status/1624428703584247814?s=20&t=T8K4CaowDZUotl883ub_9A) lässt auf IOTA 2.0 bzw. ein neues GoShimmer Release hoffen... Hier noch ein [Update Tweet von id.iota](https://twitter.com/id_iota/status/1625045056531927041?s=20&t=T8K4CaowDZUotl883ub_9A)
+77. 
 
 
