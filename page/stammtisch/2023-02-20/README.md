@@ -7,3 +7,4 @@
 5. **IOTA Audio**: Am Mittwoch war ein AMA über Shimmer [im Discord von den CryptoChefs](https://go.cryptochefs.io/discord) (https://twitter.com/cryptochefs_io/status/1625193092151185424?s=20&t=bm_qthnzqwDit2RR5X1HLQ)
 6. **IOTA Stammtisch**: Am Samstag ist/war ein IOTA Stammtisch im Ruhrgebiet: [Tweet](https://twitter.com/IotaPunks_71/status/1625091752720838656?s=20&t=bm_qthnzqwDit2RR5X1HLQ); [Event](https://www.meetup.com/de-DE/the-future-of-web3-iota-stammtisch-ruhrgebiet/events/291309437/)
 7. **IOTA Youtube**: von Crypto Whitehat: [IOTA News Deutsch: Du hast die Kontrolle über deine digitale Identität und Digimarc Partner von IOTA](https://www.youtube.com/watch?v=w7zFdDT8hBE&feature=youtu.be)
+8. **Crypto Steuern**: Es gab diese Woche beim deutschen Bundesfinanzhof die erste Verhandlung zur Frage einer potentiellen Steuerpflicht auf Krypto-Gewinne: [Tweet](https://twitter.com/blockpit_io/status/1625478892575158272?s=20&t=QwDEN1PEk6O-lJbwzQMJBA)
