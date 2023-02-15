@@ -14,5 +14,8 @@
 12. **IOTA Ökosystem**: [TangleHub tweetet](https://twitter.com/Tanglehub_eu/status/1625522990388486145?s=20&t=Neh_mjjQiPCqMjY7CQkc8g) über ihre Partnerschaft mit [DLT.green]() und verlinken den Artikel: [TangleHUB joins forces with node provider DLT.GREEN to expand PIPE’s decentralized storage reach across Europe](https://tanglehub.eu/tanglehub-dlt-green-partnership-expand-pipe-decentralized-storage-europe/)
 13. **IOTA Audio**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1625525343711887362?s=20&t=Neh_mjjQiPCqMjY7CQkc8g) über [Flippin Burgers am Freitag](https://twitter.com/i/spaces/1eaKbrRpXZRKX)
 14. **IOTA Ökosystem**: [Digimarc tweetet](https://twitter.com/digimarc/status/1625556430278340608?s=20&t=-Ncd-NUsFsXFPaPHr-Ne6Q) über das Video: [A Blueprint for a Decentralized EU Digital Product Passport Model](https://www.youtube.com/watch?v=NfJ4yiyAriw)
-15. 
+15. **IOTA Ökosystem**: [TanglePay verkündet](https://twitter.com/tanglepaycom/status/1625749600874426368?s=20&t=ajR_kRh91wuFL7fjDgPD2Q), dass die Iceberg Ledgens NFTs bald ins Shimmer Netz migriert werden und dort dann Features freisetzen und Soon Token ausschüttungen bekommen
+16. **IOTA 2.0 MVP Update**: Mehr zu dem Stand von GoShimmer im [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1625719635487166464?s=20&t=ajR_kRh91wuFL7fjDgPD2Q)
+17. **IOTA Exchanges**: Mehr zum Stand von Bitpanda und Co im [Tweet mit Screenshot](https://twitter.com/TangleVerseWeb/status/1625611092813553694?s=20&t=ajR_kRh91wuFL7fjDgPD2Q) mit Aussagen von Dom
+
 
