@@ -19,6 +19,9 @@
 17. **IOTA Exchanges**: Mehr zum Stand von Bitpanda und Co im [Tweet mit Screenshot](https://twitter.com/TangleVerseWeb/status/1625611092813553694?s=20&t=ajR_kRh91wuFL7fjDgPD2Q) mit Aussagen von Dom
 18. **IOTA Youtube**: von BarriC: [HUGE #IOTA NEWS! A WORLD FIRST FOR #DELL $IOTA AND SUSTAINABLE ENERGY #crypto #cryptocurrency](https://www.youtube.com/watch?v=uHShMpsieT4)
 19. **IOTA Ökosystem**: AMA Antworten von Deepr Finance: [Tweet](https://twitter.com/DeeprFinance/status/1625858113474801669?s=20&t=ajR_kRh91wuFL7fjDgPD2Q)
-20. 
+20. **IOTA Ökosystem**: Das Soonaverse will auch so etwas wie crew3 rausbringen: [Tweet 1 von Adam](https://twitter.com/adam_unchained/status/1625914557666578432?s=20&t=NGnPeY-PNS2QP3O3z-LkNA); [Tweet 2 von Adam](https://twitter.com/adam_unchained/status/1625915036152791045?s=20&t=NGnPeY-PNS2QP3O3z-LkNA); [Tweet 3 von Adam](https://twitter.com/adam_unchained/status/1625933892032294913?s=20&t=NGnPeY-PNS2QP3O3z-LkNA); Hier noch ein [Tweet mit Video](https://twitter.com/adam_unchained/status/1625938861833715712?s=20&t=NGnPeY-PNS2QP3O3z-LkNA) wo Adam so ein Quest erstellt
+21. **IOTA Dev**: Neuer Alpha Release von [wasp v0.5.0-alpha.6](https://github.com/iotaledger/wasp/releases/tag/v0.5.0-alpha.6)
+22. **IOTA Youtube**: von Probably Nothing: [Assembly Runde 5 hat begonnen & Shimmer EVM startet bald, du solltest es nicht verpassen - IOTA News](https://www.youtube.com/watch?v=cGeXWRC7pn4)
+23. **
 
 
