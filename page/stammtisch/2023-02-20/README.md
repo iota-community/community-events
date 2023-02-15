@@ -17,5 +17,6 @@
 15. **IOTA Ökosystem**: [TanglePay verkündet](https://twitter.com/tanglepaycom/status/1625749600874426368?s=20&t=ajR_kRh91wuFL7fjDgPD2Q), dass die Iceberg Ledgens NFTs bald ins Shimmer Netz migriert werden und dort dann Features freisetzen und Soon Token ausschüttungen bekommen
 16. **IOTA 2.0 MVP Update**: Mehr zu dem Stand von GoShimmer im [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1625719635487166464?s=20&t=ajR_kRh91wuFL7fjDgPD2Q)
 17. **IOTA Exchanges**: Mehr zum Stand von Bitpanda und Co im [Tweet mit Screenshot](https://twitter.com/TangleVerseWeb/status/1625611092813553694?s=20&t=ajR_kRh91wuFL7fjDgPD2Q) mit Aussagen von Dom
+18. **IOTA Youtube**: von BarriC: [HUGE #IOTA NEWS! A WORLD FIRST FOR #DELL $IOTA AND SUSTAINABLE ENERGY #crypto #cryptocurrency](https://www.youtube.com/watch?v=uHShMpsieT4)
 
 
