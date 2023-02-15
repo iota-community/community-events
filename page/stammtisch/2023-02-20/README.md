@@ -2,7 +2,7 @@
 
 1. **IOTA Quicktakes**: Die [IF tweetet](https://twitter.com/iota/status/1625072415683362816?s=20&t=bm_qthnzqwDit2RR5X1HLQ) über die [IOTA Quicktakes 13.02.2023: IOTA x INATBA Highlights, Assembly Staking Round 5 & Join Us at EBC!](https://www.youtube.com/watch?v=mYoWP3GJ2ok)
 2. **IOTA Dev**: Eine neue Version von [Hornet v1.2.3](https://github.com/iotaledger/hornet/releases/tag/v1.2.3) wurde veröffentlicht und noche eine neue Version: [Hornet v1.2.4](https://github.com/iotaledger/hornet/releases/tag/v1.2.4)
-3. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1625413244297805826?s=20&t=bm_qthnzqwDit2RR5X1HLQ) über den Fortschritt von ihrem Telegram Web Wallet
+3. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1625413244297805826?s=20&t=bm_qthnzqwDit2RR5X1HLQ) über den Fortschritt von ihrem Telegram Web Wallet; Es gab auch ein AMA von Bivreost in ihrem Discord: [Tweet](https://twitter.com/bivreost/status/1625536941058818049?s=20&t=ajR_kRh91wuFL7fjDgPD2Q)
 4. **IOTA Audio**: Am Mittwoch war [Adam von der IF](https://twitter.com/Schpoopel) in einem [Twitter Spaces Event von Generation Infinity](https://twitter.com/GenfinityIO/status/1625218112000868352?s=20&t=bm_qthnzqwDit2RR5X1HLQ)
 5. **IOTA Audio**: Am Mittwoch war ein AMA über Shimmer [im Discord von den CryptoChefs](https://go.cryptochefs.io/discord) (https://twitter.com/cryptochefs_io/status/1625193092151185424?s=20&t=bm_qthnzqwDit2RR5X1HLQ)
 6. **IOTA Stammtisch**: Am Samstag ist/war ein IOTA Stammtisch im Ruhrgebiet: [Tweet](https://twitter.com/IotaPunks_71/status/1625091752720838656?s=20&t=bm_qthnzqwDit2RR5X1HLQ); [Event](https://www.meetup.com/de-DE/the-future-of-web3-iota-stammtisch-ruhrgebiet/events/291309437/)
@@ -18,5 +18,7 @@
 16. **IOTA 2.0 MVP Update**: Mehr zu dem Stand von GoShimmer im [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1625719635487166464?s=20&t=ajR_kRh91wuFL7fjDgPD2Q)
 17. **IOTA Exchanges**: Mehr zum Stand von Bitpanda und Co im [Tweet mit Screenshot](https://twitter.com/TangleVerseWeb/status/1625611092813553694?s=20&t=ajR_kRh91wuFL7fjDgPD2Q) mit Aussagen von Dom
 18. **IOTA Youtube**: von BarriC: [HUGE #IOTA NEWS! A WORLD FIRST FOR #DELL $IOTA AND SUSTAINABLE ENERGY #crypto #cryptocurrency](https://www.youtube.com/watch?v=uHShMpsieT4)
+19. **IOTA Ökosystem**: AMA Antworten von Deepr Finance: [Tweet](https://twitter.com/DeeprFinance/status/1625858113474801669?s=20&t=ajR_kRh91wuFL7fjDgPD2Q)
+20. 
 
 
