@@ -22,6 +22,6 @@
 20. **IOTA Ökosystem**: Das Soonaverse will auch so etwas wie crew3 rausbringen: [Tweet 1 von Adam](https://twitter.com/adam_unchained/status/1625914557666578432?s=20&t=NGnPeY-PNS2QP3O3z-LkNA); [Tweet 2 von Adam](https://twitter.com/adam_unchained/status/1625915036152791045?s=20&t=NGnPeY-PNS2QP3O3z-LkNA); [Tweet 3 von Adam](https://twitter.com/adam_unchained/status/1625933892032294913?s=20&t=NGnPeY-PNS2QP3O3z-LkNA); Hier noch ein [Tweet mit Video](https://twitter.com/adam_unchained/status/1625938861833715712?s=20&t=NGnPeY-PNS2QP3O3z-LkNA) wo Adam so ein Quest erstellt
 21. **IOTA Dev**: Neuer Alpha Release von [wasp v0.5.0-alpha.6](https://github.com/iotaledger/wasp/releases/tag/v0.5.0-alpha.6)
 22. **IOTA Youtube**: von Probably Nothing: [Assembly Runde 5 hat begonnen & Shimmer EVM startet bald, du solltest es nicht verpassen - IOTA News](https://www.youtube.com/watch?v=cGeXWRC7pn4)
-23. **
+23. **Crypto Adaption**: Artikel im Handelsblatt: [Die Krypto-Blase ist geplatzt – nie war das deutlicher als jetzt](https://www.handelsblatt.com/meinung/kommentare/kommentar-die-krypto-blase-ist-geplatzt-nie-war-das-deutlicher-als-jetzt/28980158.html)
 
 
