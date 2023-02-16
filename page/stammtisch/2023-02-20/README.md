@@ -35,6 +35,8 @@
 33. **IOTA Audio**: Das Gespräch von der [TangleGang](https://twitter.com/GangTangleTalk) mit [DarkMythos](https://twitter.com/DarkMythosIOTA) wurde auf Youtube veröffentlicht: [Interview mit Mika von Dark Mythos vom 25.08.22](https://www.youtube.com/watch?v=FMyp-z_2kHU)
 34. **IOTA Audio**: Das Gespräch von der [TangleGang](https://twitter.com/GangTangleTalk) mit Thoralf [IF] wurde auf Youtube veröffentlicht: [Interview mit Thoralf Müller Vom 19.01.23](https://www.youtube.com/watch?v=6p_0hEnjb18&t=2599s)
 35. **IOTA Artikel**: [TangleVerse tweetet](https://twitter.com/TangleVerseWeb/status/1623382772122263728?s=20&t=MD7yUdnNSxN-76ovzb5cJA) über den Artikel: [Building Our Way Out of the Bear](https://iotacreator.substack.com/p/building-our-way-out-of-the-bear?sd=pf)
+36. **IOTA Ökosystem**: Der [LeXe Token Sale](https://twitter.com/LendeXeFinance/status/1626005501241589762?s=20&t=MD7yUdnNSxN-76ovzb5cJA) hat begonnen: [Tweet](https://twitter.com/LendeXeFinance/status/1626005501241589762?s=20&t=MD7yUdnNSxN-76ovzb5cJA) 
+37. **IOTA Artikel**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1626219859703914497?s=20&t=MD7yUdnNSxN-76ovzb5cJA) über den Artikel vom ICCD: [Beginner's Guide to Crypto Wallets: Part 1](https://blog.shimmer.network/beginners-guide-crypto-wallets-part1/); 
 
 
 
