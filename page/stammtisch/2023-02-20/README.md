@@ -20,7 +20,7 @@
 18. **IOTA Youtube**: von BarriC: [HUGE #IOTA NEWS! A WORLD FIRST FOR #DELL $IOTA AND SUSTAINABLE ENERGY #crypto #cryptocurrency](https://www.youtube.com/watch?v=uHShMpsieT4)
 19. **IOTA Ökosystem**: AMA Antworten von Deepr Finance: [Tweet](https://twitter.com/DeeprFinance/status/1625858113474801669?s=20&t=ajR_kRh91wuFL7fjDgPD2Q)
 20. **IOTA Ökosystem**: Das Soonaverse will auch so etwas wie crew3 rausbringen: [Tweet 1 von Adam](https://twitter.com/adam_unchained/status/1625914557666578432?s=20&t=NGnPeY-PNS2QP3O3z-LkNA); [Tweet 2 von Adam](https://twitter.com/adam_unchained/status/1625915036152791045?s=20&t=NGnPeY-PNS2QP3O3z-LkNA); [Tweet 3 von Adam](https://twitter.com/adam_unchained/status/1625933892032294913?s=20&t=NGnPeY-PNS2QP3O3z-LkNA); Hier noch ein [Tweet mit Video](https://twitter.com/adam_unchained/status/1625938861833715712?s=20&t=NGnPeY-PNS2QP3O3z-LkNA) wo Adam so ein Quest erstellt
-21. **IOTA Dev**: Neuer Alpha Release von [wasp v0.5.0-alpha.6](https://github.com/iotaledger/wasp/releases/tag/v0.5.0-alpha.6)
+21. **IOTA Dev**: Neuer Alpha Release von [wasp v0.5.0-alpha.6](https://github.com/iotaledger/wasp/releases/tag/v0.5.0-alpha.6) und später Alpha Release von [wasp v0.5.0-alpha.7](https://github.com/iotaledger/wasp/releases/tag/v0.5.0-alpha.7)
 22. **IOTA Youtube**: von Probably Nothing: [Assembly Runde 5 hat begonnen & Shimmer EVM startet bald, du solltest es nicht verpassen - IOTA News](https://www.youtube.com/watch?v=cGeXWRC7pn4)
 23. **Crypto Adaption**: Artikel im Handelsblatt: [Die Krypto-Blase ist geplatzt – nie war das deutlicher als jetzt](https://www.handelsblatt.com/meinung/kommentare/kommentar-die-krypto-blase-ist-geplatzt-nie-war-das-deutlicher-als-jetzt/28980158.html)
 24. **IOTA Artikel**: von God of Knowledge: [DLT.GREEN and TangleHUB Join Forces to Expand PIPE Decentralized Storage Solution Across Europe](https://medium.com/@God-of-Knowledge/dlt-green-and-tanglehub-join-forces-to-expand-pipe-decentralized-storage-solution-across-europe-79ef4e0233d)
@@ -39,6 +39,8 @@
 37. **IOTA Artikel**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1626219859703914497?s=20&t=MD7yUdnNSxN-76ovzb5cJA) über den Artikel vom ICCD: [Beginner's Guide to Crypto Wallets: Part 1](https://blog.shimmer.network/beginners-guide-crypto-wallets-part1/); 
 38. **Firefly Soon**: [Nicole tweetet](https://twitter.com/cheerful_nicole/status/1626195170751381505?s=20&t=MD7yUdnNSxN-76ovzb5cJA) "wen jpegs in 
 @fireflywallet?"... Nachdem sie im Firefly Team ist
+39. **Firefly Beta**: Pre-Releas von [Firefly Desktop 2.1.0 Beta 1](https://github.com/iotaledger/firefly/releases/tag/desktop-2.1.0-beta-1); Hier ein [Screenshot mit den Änderungen](https://twitter.com/bennnni_web3/status/1626253459488968714?s=20) und ein [Tweet mit Video](https://twitter.com/bohl_oliver/status/1626282822909456384?s=20) von Oliver Bohl in dem man die neuen Funktionen von Firefly sieht
+40. **IOTA Youtube**: von Crypto Q & A: [Ist IOTA am ENDE!?](https://www.youtube.com/watch?v=gKWUmtVjI4A)
 
 
 
