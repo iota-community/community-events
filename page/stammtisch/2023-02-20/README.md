@@ -31,6 +31,7 @@
 29. **IOTA Artikel**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1626158010753253376?s=20&t=MD7yUdnNSxN-76ovzb5cJA) über ihren Artikel: [Idenetity-based Sharing with IOTA/Shimmer](https://medium.com/@tanglepay/idenetity-based-sharing-with-iota-shimmer-5779ad110efd)
 30. **IOTA Adaption**: Akkodis ist jetzt im Touchpoint Projekt: [Tweet](https://twitter.com/Sebasti65365174/status/1626152008611684352?s=20&t=MD7yUdnNSxN-76ovzb5cJA)
 31. **IOTA Hash Funktion**: Der [Prof Buchana tweetet](https://twitter.com/billatnapier/status/1626143282680963074?s=20&t=MD7yUdnNSxN-76ovzb5cJA) darüber, dass IOTA die viel bessere Hashfunktion (EdDSA) wie Bitcoin oder Ethereum (ECDSA) verwendet
+32. **IOTA Audio**: Neuer Moonaco Podcast mit den Semkos: [Tweet](https://twitter.com/MoonacoPodcast/status/1626173618957824001?s=20&t=MD7yUdnNSxN-76ovzb5cJA); Spotify Link - Episode 63: Minted Vodka](https://open.spotify.com/episode/6Zs4kYQCAKp0EcQNAplGRB?si=EfsP2rdlTgWpcaBtOP02AA&nd=1)
 
 
 
