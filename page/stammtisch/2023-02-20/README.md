@@ -23,5 +23,10 @@
 21. **IOTA Dev**: Neuer Alpha Release von [wasp v0.5.0-alpha.6](https://github.com/iotaledger/wasp/releases/tag/v0.5.0-alpha.6)
 22. **IOTA Youtube**: von Probably Nothing: [Assembly Runde 5 hat begonnen & Shimmer EVM startet bald, du solltest es nicht verpassen - IOTA News](https://www.youtube.com/watch?v=cGeXWRC7pn4)
 23. **Crypto Adaption**: Artikel im Handelsblatt: [Die Krypto-Blase ist geplatzt – nie war das deutlicher als jetzt](https://www.handelsblatt.com/meinung/kommentare/kommentar-die-krypto-blase-ist-geplatzt-nie-war-das-deutlicher-als-jetzt/28980158.html)
+24. **IOTA Artikel**: von God of Knowledge: [DLT.GREEN and TangleHUB Join Forces to Expand PIPE Decentralized Storage Solution Across Europe](https://medium.com/@God-of-Knowledge/dlt-green-and-tanglehub-join-forces-to-expand-pipe-decentralized-storage-solution-across-europe-79ef4e0233d)
+25. **IOTA Games**: IOTA Community Poker am Freitag: [Tweet](https://twitter.com/IotaPunks_71/status/1626111156745117696?s=20)
+26. **IOTA Audio**: Gespräch über [Crypto Made Easy - IOTA AZERO HBAR XRP & MORE aufTwitter Spaces](https://twitter.com/Schpoopel/status/1625959547637563402?s=20)
+27. **IOTA Audio**: [web3 Berlin Talks mit Adam von der IF auf Twitter Spaces](https://twitter.com/berlinweb3com/status/1625500494302167042?s=20)
+
 
 
