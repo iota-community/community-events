@@ -16,7 +16,7 @@
 14. **IOTA Ökosystem**: [Digimarc tweetet](https://twitter.com/digimarc/status/1625556430278340608?s=20&t=-Ncd-NUsFsXFPaPHr-Ne6Q) über das Video: [A Blueprint for a Decentralized EU Digital Product Passport Model](https://www.youtube.com/watch?v=NfJ4yiyAriw)
 15. **IOTA Ökosystem**: [TanglePay verkündet](https://twitter.com/tanglepaycom/status/1625749600874426368?s=20&t=ajR_kRh91wuFL7fjDgPD2Q), dass die Iceberg Ledgens NFTs bald ins Shimmer Netz migriert werden und dort dann Features freisetzen und Soon Token ausschüttungen bekommen
 16. **IOTA 2.0 MVP Update**: Mehr zu dem Stand von GoShimmer im [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1625719635487166464?s=20&t=ajR_kRh91wuFL7fjDgPD2Q)
-17. **IOTA Exchanges**: Mehr zum Stand von Bitpanda und Co im [Tweet mit Screenshot](https://twitter.com/TangleVerseWeb/status/1625611092813553694?s=20&t=ajR_kRh91wuFL7fjDgPD2Q) mit Aussagen von Dom
+17. **IOTA Exchanges**: Mehr zum Stand von Bitpanda und Co im [Tweet mit Screenshot](https://twitter.com/TangleVerseWeb/status/1625611092813553694?s=20&t=ajR_kRh91wuFL7fjDgPD2Q) mit Aussagen von Dom und im [Tweet mit Screehshot](https://twitter.com/Vrom14286662/status/1626131775691825152?s=20&t=MD7yUdnNSxN-76ovzb5cJA) und Aussagen von Phylo
 18. **IOTA Youtube**: von BarriC: [HUGE #IOTA NEWS! A WORLD FIRST FOR #DELL $IOTA AND SUSTAINABLE ENERGY #crypto #cryptocurrency](https://www.youtube.com/watch?v=uHShMpsieT4)
 19. **IOTA Ökosystem**: AMA Antworten von Deepr Finance: [Tweet](https://twitter.com/DeeprFinance/status/1625858113474801669?s=20&t=ajR_kRh91wuFL7fjDgPD2Q)
 20. **IOTA Ökosystem**: Das Soonaverse will auch so etwas wie crew3 rausbringen: [Tweet 1 von Adam](https://twitter.com/adam_unchained/status/1625914557666578432?s=20&t=NGnPeY-PNS2QP3O3z-LkNA); [Tweet 2 von Adam](https://twitter.com/adam_unchained/status/1625915036152791045?s=20&t=NGnPeY-PNS2QP3O3z-LkNA); [Tweet 3 von Adam](https://twitter.com/adam_unchained/status/1625933892032294913?s=20&t=NGnPeY-PNS2QP3O3z-LkNA); Hier noch ein [Tweet mit Video](https://twitter.com/adam_unchained/status/1625938861833715712?s=20&t=NGnPeY-PNS2QP3O3z-LkNA) wo Adam so ein Quest erstellt
@@ -27,6 +27,7 @@
 25. **IOTA Games**: IOTA Community Poker am Freitag: [Tweet](https://twitter.com/IotaPunks_71/status/1626111156745117696?s=20)
 26. **IOTA Audio**: Gespräch über [Crypto Made Easy - IOTA AZERO HBAR XRP & MORE aufTwitter Spaces](https://twitter.com/Schpoopel/status/1625959547637563402?s=20)
 27. **IOTA Audio**: [web3 Berlin Talks mit Adam von der IF auf Twitter Spaces](https://twitter.com/berlinweb3com/status/1625500494302167042?s=20)
+28. **IOTA Dev**: IOTA ist auf Platz 5 bei Proof Of Github: [Tweet](https://twitter.com/ProofofGitHub/status/1626129268542504960?s=20&t=MD7yUdnNSxN-76ovzb5cJA)
 
 
 
