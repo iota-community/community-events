@@ -7,7 +7,7 @@
 5. **IOTA Audio**: Am Mittwoch war ein AMA über Shimmer [im Discord von den CryptoChefs](https://go.cryptochefs.io/discord) (https://twitter.com/cryptochefs_io/status/1625193092151185424?s=20&t=bm_qthnzqwDit2RR5X1HLQ)
 6. **IOTA Stammtisch**: Am Samstag ist/war ein IOTA Stammtisch im Ruhrgebiet: [Tweet](https://twitter.com/IotaPunks_71/status/1625091752720838656?s=20&t=bm_qthnzqwDit2RR5X1HLQ); [Event](https://www.meetup.com/de-DE/the-future-of-web3-iota-stammtisch-ruhrgebiet/events/291309437/)
 7. **IOTA Youtube**: von Crypto Whitehat: [IOTA News Deutsch: Du hast die Kontrolle über deine digitale Identität und Digimarc Partner von IOTA](https://www.youtube.com/watch?v=w7zFdDT8hBE&feature=youtu.be)
-8. **Crypto Steuern**: Es gab diese Woche beim deutschen Bundesfinanzhof die erste Verhandlung zur Frage einer potentiellen Steuerpflicht auf Krypto-Gewinne: [Tweet](https://twitter.com/blockpit_io/status/1625478892575158272?s=20&t=QwDEN1PEk6O-lJbwzQMJBA)
+8. **Crypto Steuern**: Es gab diese Woche beim deutschen Bundesfinanzhof die erste Verhandlung zur Frage einer potentiellen Steuerpflicht auf Krypto-Gewinne: [Tweet](https://twitter.com/blockpit_io/status/1625478892575158272?s=20&t=QwDEN1PEk6O-lJbwzQMJBA); Artikel: [Kryptowährungen bald komplett steuerfrei? Entscheidung liegt nun beim BFH!](https://www.blocktrainer.de/kryptowaehrungen-bald-steuerfrei-bfh/)
 9. **Crypto Adaption**: Blogpost von Siemens: [Siemens issues first digital bond on blockchain](https://press.siemens.com/global/en/pressrelease/siemens-issues-first-digital-bond-blockchain)
 10. **Crypot Ökosystem**: [Pantos tweetet](https://twitter.com/PantosIO/status/1625505944690954245?s=20&t=MnhyLS-atGfrHwfweq5ZdQ) über ihren Artikel: [The public beta is here! All you need to know](https://medium.com/@PantosIO/the-public-beta-is-here-all-you-need-to-know-8adc2112a97b); Noch ein Artikel: [Pantos: Bitpanda-Tochter bringt Alternative zu gefährlichen Krypto-Bridges](https://www.trendingtopics.eu/pantos-crypto-bridges/); Dewr Kurs steigt dafaufhin um 40% in 24h
 11. **IOTA Firefly Dev**: Es gab ein Firefly-Alpha Release: [Firefly Desktop 2.1.0 Alpha 6](https://github.com/iotaledger/firefly/releases/tag/desktop-2.1.0-alpha-6)
@@ -15,7 +15,7 @@
 13. **IOTA Audio**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1625525343711887362?s=20&t=Neh_mjjQiPCqMjY7CQkc8g) über [Flippin Burgers am Freitag](https://twitter.com/i/spaces/1eaKbrRpXZRKX)
 14. **IOTA Ökosystem**: [Digimarc tweetet](https://twitter.com/digimarc/status/1625556430278340608?s=20&t=-Ncd-NUsFsXFPaPHr-Ne6Q) über das Video: [A Blueprint for a Decentralized EU Digital Product Passport Model](https://www.youtube.com/watch?v=NfJ4yiyAriw)
 15. **IOTA Ökosystem**: [TanglePay verkündet](https://twitter.com/tanglepaycom/status/1625749600874426368?s=20&t=ajR_kRh91wuFL7fjDgPD2Q), dass die Iceberg Ledgens NFTs bald ins Shimmer Netz migriert werden und dort dann Features freisetzen und Soon Token ausschüttungen bekommen
-16. **IOTA 2.0 MVP Update**: Mehr zu dem Stand von GoShimmer im [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1625719635487166464?s=20&t=ajR_kRh91wuFL7fjDgPD2Q)
+16. **IOTA 2.0 MVP Update**: Mehr zu dem Stand von GoShimmer im [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1625719635487166464?s=20&t=ajR_kRh91wuFL7fjDgPD2Q) und im [Tweet von id.IOTA](https://twitter.com/id_iota/status/1626147176261861376?s=20&t=MD7yUdnNSxN-76ovzb5cJA)
 17. **IOTA Exchanges**: Mehr zum Stand von Bitpanda und Co im [Tweet mit Screenshot](https://twitter.com/TangleVerseWeb/status/1625611092813553694?s=20&t=ajR_kRh91wuFL7fjDgPD2Q) mit Aussagen von Dom und im [Tweet mit Screehshot](https://twitter.com/Vrom14286662/status/1626131775691825152?s=20&t=MD7yUdnNSxN-76ovzb5cJA) und Aussagen von Phylo
 18. **IOTA Youtube**: von BarriC: [HUGE #IOTA NEWS! A WORLD FIRST FOR #DELL $IOTA AND SUSTAINABLE ENERGY #crypto #cryptocurrency](https://www.youtube.com/watch?v=uHShMpsieT4)
 19. **IOTA Ökosystem**: AMA Antworten von Deepr Finance: [Tweet](https://twitter.com/DeeprFinance/status/1625858113474801669?s=20&t=ajR_kRh91wuFL7fjDgPD2Q)
@@ -28,6 +28,9 @@
 26. **IOTA Audio**: Gespräch über [Crypto Made Easy - IOTA AZERO HBAR XRP & MORE aufTwitter Spaces](https://twitter.com/Schpoopel/status/1625959547637563402?s=20)
 27. **IOTA Audio**: [web3 Berlin Talks mit Adam von der IF auf Twitter Spaces](https://twitter.com/berlinweb3com/status/1625500494302167042?s=20)
 28. **IOTA Dev**: IOTA ist auf Platz 5 bei Proof Of Github: [Tweet](https://twitter.com/ProofofGitHub/status/1626129268542504960?s=20&t=MD7yUdnNSxN-76ovzb5cJA)
+29. **IOTA Artikel**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1626158010753253376?s=20&t=MD7yUdnNSxN-76ovzb5cJA) über ihren Artikel: [Idenetity-based Sharing with IOTA/Shimmer](https://medium.com/@tanglepay/idenetity-based-sharing-with-iota-shimmer-5779ad110efd)
+30. **IOTA Adaption**: Akkodis ist jetzt im Touchpoint Projekt: [Tweet](https://twitter.com/Sebasti65365174/status/1626152008611684352?s=20&t=MD7yUdnNSxN-76ovzb5cJA)
+31. **IOTA Hash Funktion**: Der [Prof Buchana tweetet](https://twitter.com/billatnapier/status/1626143282680963074?s=20&t=MD7yUdnNSxN-76ovzb5cJA) darüber, dass IOTA die viel bessere Hashfunktion (EdDSA) wie Bitcoin oder Ethereum (ECDSA) verwendet
 
 
 
