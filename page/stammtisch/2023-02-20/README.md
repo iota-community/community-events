@@ -45,6 +45,7 @@
 42. **IOTA Youtube**: von Probably Nothing: [TangleSwap: Alles, was du über diese revolutionäre DeFi-Plattform wissen musst - IOTA News](https://www.youtube.com/watch?v=8ZVjQZ8oLCo)
 43. **IOTA Ökosystem**: [Adam tweetet](https://twitter.com/adam_unchained/status/1626279922347184128?s=20) über ein neues Feature im Soonaverse, mit dem man in den DAO-Gruppen anhand seiner Token wählen kann
 44. **IOTA Artikel**: von Crypto News Flash: [NEWS IOTA: TangleHub expandiert in Europa um dezentrale Speicherlösung in Milliarden-$-Markt anzubieten](https://www.crypto-news-flash.com/de/iota-tanglehub-expandiert-in-europa-und-bietet-dezentrale-speicherloesung/?feed_id=13060&_unique_id=63ef64750d1a1)
+45. **IOTA Dev**: Release von Inx-api-core-v1.0.0.0-rc.2 
 
 
 
