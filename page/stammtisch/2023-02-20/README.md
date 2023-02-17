@@ -15,7 +15,7 @@
 13. **IOTA Audio**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1625525343711887362?s=20&t=Neh_mjjQiPCqMjY7CQkc8g) über [Flippin Burgers am Freitag](https://twitter.com/i/spaces/1eaKbrRpXZRKX)
 14. **IOTA Ökosystem**: [Digimarc tweetet](https://twitter.com/digimarc/status/1625556430278340608?s=20&t=-Ncd-NUsFsXFPaPHr-Ne6Q) über das Video: [A Blueprint for a Decentralized EU Digital Product Passport Model](https://www.youtube.com/watch?v=NfJ4yiyAriw)
 15. **IOTA Ökosystem**: [TanglePay verkündet](https://twitter.com/tanglepaycom/status/1625749600874426368?s=20&t=ajR_kRh91wuFL7fjDgPD2Q), dass die Iceberg Ledgens NFTs bald ins Shimmer Netz migriert werden und dort dann Features freisetzen und Soon Token ausschüttungen bekommen
-16. **IOTA 2.0 MVP Update**: Mehr zu dem Stand von GoShimmer im [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1625719635487166464?s=20&t=ajR_kRh91wuFL7fjDgPD2Q) und im [Tweet von id.IOTA](https://twitter.com/id_iota/status/1626147176261861376?s=20&t=MD7yUdnNSxN-76ovzb5cJA)
+16. **IOTA 2.0 MVP Update**: Mehr zu dem Stand von GoShimmer im [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1625719635487166464?s=20&t=ajR_kRh91wuFL7fjDgPD2Q) und im [Tweet von id.IOTA](https://twitter.com/id_iota/status/1626147176261861376?s=20&t=MD7yUdnNSxN-76ovzb5cJA); Hier noch ein neuer [Tweet von id.IOTA](https://twitter.com/id_iota/status/1626510825065177090?s=20)
 17. **IOTA Exchanges**: Mehr zum Stand von Bitpanda und Co im [Tweet mit Screenshot](https://twitter.com/TangleVerseWeb/status/1625611092813553694?s=20&t=ajR_kRh91wuFL7fjDgPD2Q) mit Aussagen von Dom und im [Tweet mit Screehshot](https://twitter.com/Vrom14286662/status/1626131775691825152?s=20&t=MD7yUdnNSxN-76ovzb5cJA) und Aussagen von Phylo
 18. **IOTA Youtube**: von BarriC: [HUGE #IOTA NEWS! A WORLD FIRST FOR #DELL $IOTA AND SUSTAINABLE ENERGY #crypto #cryptocurrency](https://www.youtube.com/watch?v=uHShMpsieT4)
 19. **IOTA Ökosystem**: AMA Antworten von Deepr Finance: [Tweet](https://twitter.com/DeeprFinance/status/1625858113474801669?s=20&t=ajR_kRh91wuFL7fjDgPD2Q)
@@ -41,6 +41,10 @@
 @fireflywallet?"... Nachdem sie im Firefly Team ist
 39. **Firefly Beta**: Pre-Releas von [Firefly Desktop 2.1.0 Beta 1](https://github.com/iotaledger/firefly/releases/tag/desktop-2.1.0-beta-1); Hier ein [Screenshot mit den Änderungen](https://twitter.com/bennnni_web3/status/1626253459488968714?s=20) und ein [Tweet mit Video](https://twitter.com/bohl_oliver/status/1626282822909456384?s=20) von Oliver Bohl in dem man die neuen Funktionen von Firefly sieht
 40. **IOTA Youtube**: von Crypto Q & A: [Ist IOTA am ENDE!?](https://www.youtube.com/watch?v=gKWUmtVjI4A)
+41. **IOTA Youtube**: Erklärvideos über TangleSwap: Part 1 von Iotapoet: [TangleSwap Whitepaper EXPLAINED for non-developers](https://www.youtube.com/watch?v=JdL8taGODgw); Part 2 von Spec Weekly: [Classic - Episode 35: TANGLESWAP WHITEPAPER TOKENOMICS](https://www.youtube.com/watch?v=Inb3qADlgq4); Part 3 von Blockbyte: 
+42. **IOTA Youtube**: von Probably Nothing: [TangleSwap: Alles, was du über diese revolutionäre DeFi-Plattform wissen musst - IOTA News](https://www.youtube.com/watch?v=8ZVjQZ8oLCo)
+43. **IOTA Ökosystem**: [Adam tweetet](https://twitter.com/adam_unchained/status/1626279922347184128?s=20) über ein neues Feature im Soonaverse, mit dem man in den DAO-Gruppen anhand seiner Token wählen kann
+
 
 
 
