@@ -44,6 +44,7 @@
 41. **IOTA Youtube**: Erklärvideos über TangleSwap: Part 1 von Iotapoet: [TangleSwap Whitepaper EXPLAINED for non-developers](https://www.youtube.com/watch?v=JdL8taGODgw); Part 2 von Spec Weekly: [Classic - Episode 35: TANGLESWAP WHITEPAPER TOKENOMICS](https://www.youtube.com/watch?v=Inb3qADlgq4); Part 3 von Blockbyte: [TangleSwap DEX on Shimmer Network | Whitepaper: Liquidity Farming, Staking & Void Energy | Video 2](https://www.youtube.com/watch?v=JmsbEil8Hy4)
 42. **IOTA Youtube**: von Probably Nothing: [TangleSwap: Alles, was du über diese revolutionäre DeFi-Plattform wissen musst - IOTA News](https://www.youtube.com/watch?v=8ZVjQZ8oLCo)
 43. **IOTA Ökosystem**: [Adam tweetet](https://twitter.com/adam_unchained/status/1626279922347184128?s=20) über ein neues Feature im Soonaverse, mit dem man in den DAO-Gruppen anhand seiner Token wählen kann
+44. **IOTA Artikel**: von Crypto News Flash: [NEWS IOTA: TangleHub expandiert in Europa um dezentrale Speicherlösung in Milliarden-$-Markt anzubieten](https://www.crypto-news-flash.com/de/iota-tanglehub-expandiert-in-europa-und-bietet-dezentrale-speicherloesung/?feed_id=13060&_unique_id=63ef64750d1a1)
 
 
 
