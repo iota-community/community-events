@@ -41,7 +41,7 @@
 @fireflywallet?"... Nachdem sie im Firefly Team ist
 39. **Firefly Beta**: Pre-Releas von [Firefly Desktop 2.1.0 Beta 1](https://github.com/iotaledger/firefly/releases/tag/desktop-2.1.0-beta-1); Hier ein [Screenshot mit den Änderungen](https://twitter.com/bennnni_web3/status/1626253459488968714?s=20) und ein [Tweet mit Video](https://twitter.com/bohl_oliver/status/1626282822909456384?s=20) von Oliver Bohl in dem man die neuen Funktionen von Firefly sieht
 40. **IOTA Youtube**: von Crypto Q & A: [Ist IOTA am ENDE!?](https://www.youtube.com/watch?v=gKWUmtVjI4A)
-41. **IOTA Youtube**: Erklärvideos über TangleSwap: Part 1 von Iotapoet: [TangleSwap Whitepaper EXPLAINED for non-developers](https://www.youtube.com/watch?v=JdL8taGODgw); Part 2 von Spec Weekly: [Classic - Episode 35: TANGLESWAP WHITEPAPER TOKENOMICS](https://www.youtube.com/watch?v=Inb3qADlgq4); Part 3 von Blockbyte: 
+41. **IOTA Youtube**: Erklärvideos über TangleSwap: Part 1 von Iotapoet: [TangleSwap Whitepaper EXPLAINED for non-developers](https://www.youtube.com/watch?v=JdL8taGODgw); Part 2 von Spec Weekly: [Classic - Episode 35: TANGLESWAP WHITEPAPER TOKENOMICS](https://www.youtube.com/watch?v=Inb3qADlgq4); Part 3 von Blockbyte: [TangleSwap DEX on Shimmer Network | Whitepaper: Liquidity Farming, Staking & Void Energy | Video 2](https://www.youtube.com/watch?v=JmsbEil8Hy4)
 42. **IOTA Youtube**: von Probably Nothing: [TangleSwap: Alles, was du über diese revolutionäre DeFi-Plattform wissen musst - IOTA News](https://www.youtube.com/watch?v=8ZVjQZ8oLCo)
 43. **IOTA Ökosystem**: [Adam tweetet](https://twitter.com/adam_unchained/status/1626279922347184128?s=20) über ein neues Feature im Soonaverse, mit dem man in den DAO-Gruppen anhand seiner Token wählen kann
 
