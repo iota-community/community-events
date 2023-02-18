@@ -62,6 +62,8 @@
 59. **IOTA 2.0**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1627012592341336065?s=20) ein Update zum MVP und schreibt u.a. "We are almost there guys!"
 60. **IOTA Youtube**: Miss Crypto will ein IOTA2.0 Video machen: [Tweet](https://twitter.com/MissCryptoGER/status/1627005327395770369?s=20)
 61. **IOTA Hype**: Adam hat auf Discord etwas über "We may be getting a derivate platform.." gesagt: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1627020072635060227?s=20)
+62. **IOTA Youtube Tutorial**: [Oliver Bohl tweetet](https://twitter.com/bohl_oliver/status/1627059449004433410?s=20) ein Video Tutorial "[MIOTA to SMR with Firefly - tanglepay and iotabee](https://www.youtube.com/watch?v=cErPr1-8Lik)" wie man IOTA in Shimmer wechselt mit der Hilfe von [iotabe.com](https://iotabee.com/) und [TanglePay](https://twitter.com/tanglepaycom)
+63. **IOTA Youtube**: von DEXes: [DEXES LIVE - IOTA, SMR, COORDICIDE](https://www.youtube.com/watch?v=UAXrhsAASBg)
 
 
 
