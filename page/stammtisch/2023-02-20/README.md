@@ -57,6 +57,8 @@
 54. **IOTA Youtube**: von Spec Weekly: [Coinmunity - Episode 4: Featuring Sevane from TangleSwap.](https://www.youtube.com/watch?v=2dOaCJxR7PM)
 55. **IOTA Ökosystem**: Man kann jetzt Shimmer NFTs zum Soonaverse schicken und mit dem eigenen Profil verbinden, bzw die Eigentumsrechte durch eine Transaktion erhalten: [Tweet von Adam](https://twitter.com/adam_unchained/status/1626817612071194624?s=20)
 56. **IOTA Ökosystem**: [Corval tweetet](https://twitter.com/MasonCorval/status/1626696551253921810?s=20) eine Zusammenfasssung von dem [TangleSwap Whitepaper](http://whitepaper.tangleswap.exchange/)
+57. **Shimmer Promote**: [Austin tweetet](https://twitter.com/austin_bbytes/status/1626769518801436674?s=20), dass Blockbytes bald eine Shimmer News Show machen wollen
+58. **Crypto Ökosystem**: [OpenSea tweetet](https://twitter.com/opensea/status/1626682043655507969?s=20) darüber, dass sie in Zukunft Royalties verringern und vorübergehend keine Fees verlangen wollen
 
 
 
