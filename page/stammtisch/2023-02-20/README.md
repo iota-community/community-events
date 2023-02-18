@@ -53,7 +53,10 @@
 50. **IOTA Audio**: [TangleCon tweetet](https://twitter.com/TangleCon/status/1626597309801967616?s=20) über das Interview: [byte5 Founder & CEO Christian Wendler in Interview - About IOTA and the TangleCon 2023](https://tanglecon.vercel.app/blog/interview-with-christian-wendler/)
 51. **IOTA Learn**: [Marco Besier tweetet](https://twitter.com/marcobesier/status/1626537515535458304?s=20) darüber, dass er ein 1h Tutorial über "Mastering Gas Optimization in Shimmer EVM" in seiner [web3 Developer Academy](https://membership.marcobesier.com/) hochgeladen hat
 52. **IOTA Artikel**: von Crypto News Flash: [IOTA gets massive upgrade to mint L1 token, create native NFTs on L1 – Shimmer ramping up the future of blockchain](https://www.crypto-news-flash.com/iota-gets-massive-upgrade-to-mint-l1-token-create-native-nfts-on-l1-shimmer-ramping-up-the-future-of-blockchain/)
-53. 
+53. **IOTA Dev**: Neues wasp Pre-Release: [v0.5.0-alpha.8](https://github.com/iotaledger/wasp/releases/tag/v0.5.0-alpha.8)
+54. **IOTA Youtube**: von Spec Weekly: [Coinmunity - Episode 4: Featuring Sevane from TangleSwap.](https://www.youtube.com/watch?v=2dOaCJxR7PM)
+55. **IOTA Ökosystem**: Man kann jetzt Shimmer NFTs zum Soonaverse schicken und mit dem eigenen Profil verbinden, bzw die Eigentumsrechte durch eine Transaktion erhalten: [Tweet von Adam](https://twitter.com/adam_unchained/status/1626817612071194624?s=20)
+56. **IOTA Ökosystem**: [Corval tweetet](https://twitter.com/MasonCorval/status/1626696551253921810?s=20) eine Zusammenfasssung von dem [TangleSwap Whitepaper](http://whitepaper.tangleswap.exchange/)
 
 
 
