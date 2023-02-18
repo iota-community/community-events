@@ -27,7 +27,7 @@
 25. **IOTA Games**: IOTA Community Poker am Freitag: [Tweet](https://twitter.com/IotaPunks_71/status/1626111156745117696?s=20)
 26. **IOTA Audio**: Gespräch über [Crypto Made Easy - IOTA AZERO HBAR XRP & MORE aufTwitter Spaces](https://twitter.com/Schpoopel/status/1625959547637563402?s=20)
 27. **IOTA Audio**: [web3 Berlin Talks mit Adam von der IF auf Twitter Spaces](https://twitter.com/berlinweb3com/status/1625500494302167042?s=20)
-28. **IOTA Dev**: IOTA ist auf Platz 5 bei Proof Of Github: [Tweet](https://twitter.com/ProofofGitHub/status/1626129268542504960?s=20&t=MD7yUdnNSxN-76ovzb5cJA)
+28. **IOTA Dev**: IOTA ist auf Platz 5 bei Proof Of Github ([Tweet](https://twitter.com/ProofofGitHub/status/1626129268542504960?s=20&t=MD7yUdnNSxN-76ovzb5cJA)) und Platz 9 ([Tweet](https://twitter.com/ProofofGitHub/status/1626854083939258368?s=20))
 29. **IOTA Artikel**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1626158010753253376?s=20&t=MD7yUdnNSxN-76ovzb5cJA) über ihren Artikel: [Idenetity-based Sharing with IOTA/Shimmer](https://medium.com/@tanglepay/idenetity-based-sharing-with-iota-shimmer-5779ad110efd)
 30. **IOTA Adaption**: Akkodis ist jetzt im Touchpoint Projekt: [Tweet](https://twitter.com/Sebasti65365174/status/1626152008611684352?s=20&t=MD7yUdnNSxN-76ovzb5cJA)
 31. **IOTA Hash Funktion**: Der [Prof Buchana tweetet](https://twitter.com/billatnapier/status/1626143282680963074?s=20&t=MD7yUdnNSxN-76ovzb5cJA) darüber, dass IOTA die viel bessere Hashfunktion (EdDSA) wie Bitcoin oder Ethereum (ECDSA) verwendet
@@ -51,6 +51,9 @@
 48. **IOTA Adaption**: [LF tweetet](https://twitter.com/LF_Edge/status/1626613214799712258?s=20) über den Artikel: [How LF Edge's Alvarium and EVE projects help to securely and accurately monitor the Carbon Footprint in the world's first BioGas Plant](https://www.lfedge.org/wp-content/uploads/2023/02/LFEdge_ProjectAlvariumEVE_CaseStudy_013123.pdf?utm_content=237861204&utm_medium=social&utm_source=twitter&hss_channel=tw-1085641282175741952)
 49. **IOTA Ökosystem**: Man kann jetzt auch das TanglePay Wallet mit dem Soonaverse verbinden: [Tweet von Adam](https://twitter.com/adam_unchained/status/1626640113597042690?s=20)
 50. **IOTA Audio**: [TangleCon tweetet](https://twitter.com/TangleCon/status/1626597309801967616?s=20) über das Interview: [byte5 Founder & CEO Christian Wendler in Interview - About IOTA and the TangleCon 2023](https://tanglecon.vercel.app/blog/interview-with-christian-wendler/)
+51. **IOTA Learn**: [Marco Besier tweetet](https://twitter.com/marcobesier/status/1626537515535458304?s=20) darüber, dass er ein 1h Tutorial über "Mastering Gas Optimization in Shimmer EVM" in seiner [web3 Developer Academy](https://membership.marcobesier.com/) hochgeladen hat
+52. **IOTA Artikel**: von Crypto News Flash: [IOTA gets massive upgrade to mint L1 token, create native NFTs on L1 – Shimmer ramping up the future of blockchain](https://www.crypto-news-flash.com/iota-gets-massive-upgrade-to-mint-l1-token-create-native-nfts-on-l1-shimmer-ramping-up-the-future-of-blockchain/)
+53. 
 
 
 
