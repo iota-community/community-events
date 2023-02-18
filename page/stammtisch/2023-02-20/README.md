@@ -59,6 +59,8 @@
 56. **IOTA Ökosystem**: [Corval tweetet](https://twitter.com/MasonCorval/status/1626696551253921810?s=20) eine Zusammenfasssung von dem [TangleSwap Whitepaper](http://whitepaper.tangleswap.exchange/)
 57. **Shimmer Promote**: [Austin tweetet](https://twitter.com/austin_bbytes/status/1626769518801436674?s=20), dass Blockbytes bald eine Shimmer News Show machen wollen
 58. **Crypto Ökosystem**: [OpenSea tweetet](https://twitter.com/opensea/status/1626682043655507969?s=20) darüber, dass sie in Zukunft Royalties verringern und vorübergehend keine Fees verlangen wollen
+59. **IOTA 2.0**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1627012592341336065?s=20) ein Update zum MVP und schreibt u.a. "We are almost there guys!"
+60. **IOTA Youtube**: Miss Crypto will ein IOTA2.0 Video machen: [Tweet](https://twitter.com/MissCryptoGER/status/1627005327395770369?s=20)
 
 
 
