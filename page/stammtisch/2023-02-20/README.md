@@ -68,6 +68,11 @@
 65. **IOTA Youtube**: von Mind Crypto: [IoTA Top #5 Crypto | Leading the way 🚀 | Utility and Regulation | Not Financial Advice](https://www.youtube.com/watch?v=3_GGKiyegM4)
 66. **IOTA Youtube**: von Multi: [Shimmer EXPLODIERT! Ich tausche #IOTA in #SMR mit Iotabee](https://www.youtube.com/watch?v=rogvPVquxwE&t=271s)
 67. **IOTA Youtube Tutorial**: [Oliver Bohl tweetet](https://twitter.com/bohl_oliver/status/1627337911526952960?s=20) ein neues Tutorial: [Soonaverse - Metamask - buy NFT - TanglePay - iotabee swap - $SOON staking](https://www.youtube.com/watch?v=BoysKkHFnj4)
+68. **IOTA NFT Ökosystem**: Die [Crypto Gin NFTs](https://soonaverse.com/collection/0x3a1030fcdf52f1b4da02c38a6da28848e0d65307) wurde in 1h alle 80 verkauft trotz der hohen Preise von 400Miota
+69. **IOTA NFT Ökosystem**: TFT: Nach langer Durststrecke fast ohne Informationen, gibt es jetzt zumindest eine [neue Webseite von TFT](https://www.thefanstogether.io/about)
+70. **IOTA NFT Ökosystem**: Das [Shi-Universe tweetet](https://twitter.com/Shiuniverse/status/1627056049713987584?s=20) ein neues Video
+
+
 
 
 
