@@ -27,7 +27,7 @@
 25. **IOTA Games**: IOTA Community Poker am Freitag: [Tweet](https://twitter.com/IotaPunks_71/status/1626111156745117696?s=20)
 26. **IOTA Audio**: Gespräch über [Crypto Made Easy - IOTA AZERO HBAR XRP & MORE aufTwitter Spaces](https://twitter.com/Schpoopel/status/1625959547637563402?s=20)
 27. **IOTA Audio**: [web3 Berlin Talks mit Adam von der IF auf Twitter Spaces](https://twitter.com/berlinweb3com/status/1625500494302167042?s=20)
-28. **IOTA Dev**: IOTA ist auf Platz 5 bei Proof Of Github ([Tweet](https://twitter.com/ProofofGitHub/status/1626129268542504960?s=20&t=MD7yUdnNSxN-76ovzb5cJA)) und Platz 9 ([Tweet](https://twitter.com/ProofofGitHub/status/1626854083939258368?s=20))
+28. **IOTA Dev**: IOTA ist auf Platz 5 bei Proof Of Github ([Tweet](https://twitter.com/ProofofGitHub/status/1626129268542504960?s=20&t=MD7yUdnNSxN-76ovzb5cJA)) und Platz 9 ([Tweet](https://twitter.com/ProofofGitHub/status/1626854083939258368?s=20)); Platz 6: [Tweet](https://twitter.com/ProofofGitHub/status/1627216456222928896?s=20) und Platz 9: [Tweet](https://twitter.com/ProofofGitHub/status/1627276843727347720?s=20)
 29. **IOTA Artikel**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1626158010753253376?s=20&t=MD7yUdnNSxN-76ovzb5cJA) über ihren Artikel: [Idenetity-based Sharing with IOTA/Shimmer](https://medium.com/@tanglepay/idenetity-based-sharing-with-iota-shimmer-5779ad110efd)
 30. **IOTA Adaption**: Akkodis ist jetzt im Touchpoint Projekt: [Tweet](https://twitter.com/Sebasti65365174/status/1626152008611684352?s=20&t=MD7yUdnNSxN-76ovzb5cJA)
 31. **IOTA Hash Funktion**: Der [Prof Buchana tweetet](https://twitter.com/billatnapier/status/1626143282680963074?s=20&t=MD7yUdnNSxN-76ovzb5cJA) darüber, dass IOTA die viel bessere Hashfunktion (EdDSA) wie Bitcoin oder Ethereum (ECDSA) verwendet
@@ -65,6 +65,8 @@
 62. **IOTA Youtube Tutorial**: [Oliver Bohl tweetet](https://twitter.com/bohl_oliver/status/1627059449004433410?s=20) ein Video Tutorial "[MIOTA to SMR with Firefly - tanglepay and iotabee](https://www.youtube.com/watch?v=cErPr1-8Lik)" wie man IOTA in Shimmer wechselt mit der Hilfe von [iotabe.com](https://iotabee.com/) und [TanglePay](https://twitter.com/tanglepaycom)
 63. **IOTA Youtube**: von DEXes: [DEXES LIVE - IOTA, SMR, COORDICIDE](https://www.youtube.com/watch?v=UAXrhsAASBg)
 64. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/264-wochenr%C3%BCckblick-vom-12-bis-18-februar-2023/)
+65. **IOTA Youtube**: von Mind Crypto: [IoTA Top #5 Crypto | Leading the way 🚀 | Utility and Regulation | Not Financial Advice](https://www.youtube.com/watch?v=3_GGKiyegM4)
+66. **IOTA Youtube**: von Multi: [Shimmer EXPLODIERT! Ich tausche #IOTA in #SMR mit Iotabee](https://www.youtube.com/watch?v=rogvPVquxwE&t=271s)
 
 
 
