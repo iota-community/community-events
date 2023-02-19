@@ -67,6 +67,7 @@
 64. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/264-wochenr%C3%BCckblick-vom-12-bis-18-februar-2023/)
 65. **IOTA Youtube**: von Mind Crypto: [IoTA Top #5 Crypto | Leading the way 🚀 | Utility and Regulation | Not Financial Advice](https://www.youtube.com/watch?v=3_GGKiyegM4)
 66. **IOTA Youtube**: von Multi: [Shimmer EXPLODIERT! Ich tausche #IOTA in #SMR mit Iotabee](https://www.youtube.com/watch?v=rogvPVquxwE&t=271s)
+67. **IOTA Youtube Tutorial**: [Oliver Bohl tweetet](https://twitter.com/bohl_oliver/status/1627337911526952960?s=20) ein neues Tutorial: [Soonaverse - Metamask - buy NFT - TanglePay - iotabee swap - $SOON staking](https://www.youtube.com/watch?v=BoysKkHFnj4)
 
 
 
