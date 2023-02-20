@@ -80,6 +80,7 @@
 77. **IOTA Artikel**: [TangleVerse tweetet](https://twitter.com/TangleVerseWeb/status/1627613479690555392?s=20) über den Artikel: [Community Member Spotlight: ID.iota (@id_iota)](https://medium.com/@iotacontentcreators/community-member-spotlight-id-iota-id-iota-175122827a27)
 78. **Crypto Drama**: [Dom Schiener tweetet](https://twitter.com/DomSchiener/status/1627376842582773763?s=20) darüber, dass man aufhören soll Cryptocurrencies als Weltwährung zu bezeichnung und verteufeln, sondern sie endlich als Technologie wertschätzen
 79. **IOTA Promote**: [WilfiCon tweetet](https://twitter.com/WilfiCon/status/1627654405028827136?s=20) eine schöne Vergleichstabelle für IOTA, Bitcoin, Fiat und Gold
+80. **IOTA Ökosystem**: [Olwatch tweetet](https://twitter.com/beyond7777/status/1627649997163601922?s=20) über TangleSwap und verlinkt einige sehr positive [Community Kommentare zum Whitepaper](https://docs.google.com/document/d/1Q725Cl1oKkYslU3ZQCH21qy4zAfQ2GtCBvhF3OfE7cs/edit)
 
 
 
