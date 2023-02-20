@@ -74,6 +74,13 @@
 71. **IOTA NFT Ökosystem**: TFT: Nach langer Durststrecke fast ohne Informationen, gab es jetzt eine [neue Webseite von TFT](https://www.thefanstogether.io/about)
 72. **IOTA NFT Ökosystem**: Das [Shi-Universe tweetet](https://twitter.com/Shiuniverse/status/1627056049713987584?s=20) ein neues Video
 73. **IOTA Ökosystem**: In dem [Tweet von Adam](https://twitter.com/adam_unchained/status/1627366945988431872?s=20) zeigt er, wie man bald ganz einfach NFT Airdrops im Soonaverse machen kann
+74. **IOTA Ökosystem**: Der [Apedao tweetet](https://twitter.com/iotapes/status/1627581247902953474?s=20) über ihren Blogpost: [ApeDAO: Insights into the emerging DeFi hub](https://iotapes.medium.com/apedao-insights-into-the-emerging-defi-hub-2ed2151ba098)
+75. **IOTA Ökosystem**: [AuditOne tweetet](https://twitter.com/auditone_team/status/1627628702128390145?s=20) über ihr Third Party Modul für KYC und Projekt Audits das sie bald in das Soonaverse integrieren; im [Auditone Discord Announcement](https://discord.com/channels/892481940953915433/1066621414611898429/1077146976900096030) findet man noch etwas mehr dazu
+76. **IOTA Promote**: [Multi tweetet](https://twitter.com/multifolio/status/1627570342330875906?s=20), dass er ein [r/Shimmer DACH](https://www.reddit.com/r/ShimmerDACH/) Channel in Reddit erstellt hat
+77. **IOTA Artikel**: [TangleVerse tweetet](https://twitter.com/TangleVerseWeb/status/1627613479690555392?s=20) über den Artikel: [Community Member Spotlight: ID.iota (@id_iota)](https://medium.com/@iotacontentcreators/community-member-spotlight-id-iota-id-iota-175122827a27)
+78. **Crypto Drama**: [Dom Schiener tweetet](https://twitter.com/DomSchiener/status/1627376842582773763?s=20) darüber, dass man aufhören soll Cryptocurrencies als Weltwährung zu bezeichnung und verteufeln, sondern sie endlich als Technologie wertschätzen
+79. **IOTA Promote**: [WilfiCon tweetet](https://twitter.com/WilfiCon/status/1627654405028827136?s=20) eine schöne Vergleichstabelle für IOTA, Bitcoin, Fiat und Gold
+
 
 
 
