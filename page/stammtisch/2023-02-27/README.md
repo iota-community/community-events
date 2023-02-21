@@ -1,0 +1,7 @@
+## IOTA Stammtischthemen für Montag, den 27.2.2023
+
+1. **IOTA Quicktakes**: Die [IF tweetet](https://twitter.com/iota/status/1627609098840686594?s=20) über die [IOTA Quicktakes 20.02.2023: Beginner's Guide to Crypto Wallets, Flippin Burgers Episode 6 & more!](https://www.youtube.com/watch?v=YzgHo2EA2Hs)
+2. **IOTA Artikel**: von Krypto Guru: [GOSHIMMER: STEHT IOTA MIT SHIMMER KURZ VOR EINER KURSEXPLOSION DURCH DIE DEZENTRALITÄT?](https://krypto-guru.de/news/shimmer-kurz-dezentralitaet/)
+3. **IOTA Ökosystem**: [iotabee tweetet](https://twitter.com/iotabee/status/1627892932731707393?s=20) darüber, dass sie TVL von einer Millionen Dollar überschritten haben
+4. **IOTA Dev**: IOTA auf Platz 9 bei Proof of GitHub [Tweet](https://twitter.com/ProofofGitHub/status/1627941210189967365?s=20)
+5. **IOTA Dev**: Neuer Release: [v0.5.0-alpha.9](https://github.com/iotaledger/wasp/releases/tag/v0.5.0-alpha.9)
