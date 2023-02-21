@@ -5,3 +5,4 @@
 3. **IOTA Ökosystem**: [iotabee tweetet](https://twitter.com/iotabee/status/1627892932731707393?s=20) darüber, dass sie TVL von einer Millionen Dollar überschritten haben
 4. **IOTA Dev**: IOTA auf Platz 9 bei Proof of GitHub [Tweet](https://twitter.com/ProofofGitHub/status/1627941210189967365?s=20)
 5. **IOTA Dev**: Neuer Release: [v0.5.0-alpha.9](https://github.com/iotaledger/wasp/releases/tag/v0.5.0-alpha.9)
+6. **IOTA Youtube**: von BarriC: [WHY I BELIEVE #IOTA IS UNSTOPPABLE!! SUPER BULLISH!! $IOTA #crypto #cryptocurrency](https://www.youtube.com/watch?v=ZGnIqH8lVk8)
