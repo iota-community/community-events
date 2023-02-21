@@ -6,3 +6,4 @@
 4. **IOTA Dev**: IOTA auf Platz 9 bei Proof of GitHub [Tweet](https://twitter.com/ProofofGitHub/status/1627941210189967365?s=20)
 5. **IOTA Dev**: Neuer Release: [v0.5.0-alpha.9](https://github.com/iotaledger/wasp/releases/tag/v0.5.0-alpha.9)
 6. **IOTA Youtube**: von BarriC: [WHY I BELIEVE #IOTA IS UNSTOPPABLE!! SUPER BULLISH!! $IOTA #crypto #cryptocurrency](https://www.youtube.com/watch?v=ZGnIqH8lVk8)
+7. **IOTA Dev**: Wichtiger Merge: [Update to hive.go modules and cleanup](https://github.com/iotaledger/goshimmer/pull/2568)
