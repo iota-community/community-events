@@ -8,3 +8,4 @@
 6. **IOTA Youtube**: von BarriC: [WHY I BELIEVE #IOTA IS UNSTOPPABLE!! SUPER BULLISH!! $IOTA #crypto #cryptocurrency](https://www.youtube.com/watch?v=ZGnIqH8lVk8)
 7. **IOTA Dev**: Wichtiger Merge: [Update to hive.go modules and cleanup](https://github.com/iotaledger/goshimmer/pull/2568)
 8. **Crypto Adaption**: Artikel: [Fetch.ai Partners with Bosch to Form a Foundation to Promote Industrial Applications Using Web3 Technology](https://medium.com/fetch-ai/fetch-ai-partners-with-bosch-to-form-a-foundation-to-promote-industrial-applications-using-web3-58b11ba70871); Fetch.ai hatte ja auch mal eine Partnerschaft mit IOTA angekündigt (im Juni 2021): [Tweet](https://twitter.com/Fetch_ai/status/1404050180098363392?s=20)
+9. **IOTA Nodes**: [swarm v2.8.0 release](https://community.tanglebay.com/forum/thread/1-swarm-changelog/?postID=254#post254)
