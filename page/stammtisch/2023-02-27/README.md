@@ -25,6 +25,8 @@ e to Crypto Wallets, Flippin Burgers Episode 6 & more!](https://www.youtube.com/
 22. **IOTA Artikel**: [Devdiscurse mit 216K Followern tweetet](https://twitter.com/Dev_Discourse/status/1628315399447285760?s=20) über den Artikel: [Blockchain vs IOTA: Understanding the Fundamental Differences](https://www.devdiscourse.com/article/agency-wire/2360465-blockchain-vs-iota-understanding-the-fundamental-differences)
 23. **Crypto Adaption**: Coinbase bringt am 22.2.23 einen EUR Stablecoin raus: [Tweet](https://twitter.com/CoinbaseAssets/status/1628077717596798986?s=20)
 24. **IOTA Dev Update**: Neuer [wasp v0.5.0-alpha.10](https://github.com/iotaledger/wasp/releases/tag/v0.5.0-alpha.10) Release
+25. **IOTA Ökosystem**: [Swarm Logistics Technologies tweetet](https://twitter.com/SwarmLogistics/status/1628169188744339456?s=20) (mit #IOTA) darüber, dass sie in die Top 10 (von 700) gewählt wurden bei den "next-gen digital twin startups". Mehr dazu im Artikel: [Top 10 Industries utilizing Digital Twins in 2023](https://www.startus-insights.com/innovators-guide/digital-twin-startups/)
+26. **IOTA Artikel**: von Crypto News Flash: [IOTA: MVP is feature complete and IOTABee reaches massive milestone as markets ramping up](https://www.crypto-news-flash.com/iota-mvp-is-feature-complete-and-iotabee-reaches-massive-milestone-as-markets-ramping-up/)
 
 
 
