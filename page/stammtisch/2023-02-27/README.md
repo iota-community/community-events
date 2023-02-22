@@ -28,6 +28,8 @@ e to Crypto Wallets, Flippin Burgers Episode 6 & more!](https://www.youtube.com/
 25. **IOTA Ökosystem**: [Swarm Logistics Technologies tweetet](https://twitter.com/SwarmLogistics/status/1628169188744339456?s=20) (mit #IOTA) darüber, dass sie in die Top 10 (von 700) gewählt wurden bei den "next-gen digital twin startups". Mehr dazu im Artikel: [Top 10 Industries utilizing Digital Twins in 2023](https://www.startus-insights.com/innovators-guide/digital-twin-startups/)
 26. **IOTA Artikel**: von Crypto News Flash: [IOTA: MVP is feature complete and IOTABee reaches massive milestone as markets ramping up](https://www.crypto-news-flash.com/iota-mvp-is-feature-complete-and-iotabee-reaches-massive-milestone-as-markets-ramping-up/)
 27. **IOTA Ökosystem**: [Tweet von Pipe](https://twitter.com/PIPE_DATA/status/1628465111525429249?s=20) mit einem kleinen Einblick in das Whitepaper
+28. **IOTA Intern**: Es gibt einen neuen Channel im iota Discord: #opportunities-board: [Tweet mit Announcement Screenshot](https://twitter.com/Vrom14286662/status/1628496301712191490?s=20)
+29. 
 
 
 
