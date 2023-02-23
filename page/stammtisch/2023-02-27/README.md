@@ -29,7 +29,8 @@ e to Crypto Wallets, Flippin Burgers Episode 6 & more!](https://www.youtube.com/
 26. **IOTA Artikel**: von Crypto News Flash: [IOTA: MVP is feature complete and IOTABee reaches massive milestone as markets ramping up](https://www.crypto-news-flash.com/iota-mvp-is-feature-complete-and-iotabee-reaches-massive-milestone-as-markets-ramping-up/)
 27. **IOTA Ökosystem**: [Tweet von Pipe](https://twitter.com/PIPE_DATA/status/1628465111525429249?s=20) mit einem kleinen Einblick in das Whitepaper
 28. **IOTA Intern**: Es gibt einen neuen Channel im iota Discord: #opportunities-board: [Tweet mit Announcement Screenshot](https://twitter.com/Vrom14286662/status/1628496301712191490?s=20)
-29. 
+29. **IOTA Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1628635853282246656?s=20) über ihr [February 2023 Dev Update](https://soonlabs.medium.com/february-2023-dev-update-5c8932c83691). Sie wollen alle 2.700+ Awards und 60.000+ Badges als SMR NFTs verteilen was man in den [Shimmer Statistiken](https://explorer.iota.org/shimmer/statistics/) bereits deutlich merkt
+30. **Crypto Adaption**: Spotify will wohl NFTs einfügen... [Tweet](https://twitter.com/AltcoinDailyio/status/1628608735731130368?s=20)
 
 
 
