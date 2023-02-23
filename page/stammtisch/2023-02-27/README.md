@@ -31,6 +31,9 @@ e to Crypto Wallets, Flippin Burgers Episode 6 & more!](https://www.youtube.com/
 28. **IOTA Intern**: Es gibt einen neuen Channel im iota Discord: #opportunities-board: [Tweet mit Announcement Screenshot](https://twitter.com/Vrom14286662/status/1628496301712191490?s=20)
 29. **IOTA Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1628635853282246656?s=20) über ihr [February 2023 Dev Update](https://soonlabs.medium.com/february-2023-dev-update-5c8932c83691). Sie wollen alle 2.700+ Awards und 60.000+ Badges als SMR NFTs verteilen was man in den [Shimmer Statistiken](https://explorer.iota.org/shimmer/statistics/) bereits deutlich merkt
 30. **Crypto Adaption**: Spotify will wohl NFTs einfügen... [Tweet](https://twitter.com/AltcoinDailyio/status/1628608735731130368?s=20)
+31. **IOTA Ökosystem**: [Deepr Finance tweetet](https://twitter.com/DeeprFinance/status/1628397153260343297?s=20) ein paar Antworten zu ihrem AMA; Hier die [Übersetzung auf IOTA Talks](https://www.iota-talk.com/forum/index.php?thread/1539-deepr-finance/&postID=114857#post114857)
+32. **IOTA Stammtisch**: am Sa. 1.4.2023 in Köln: [Tweet](https://twitter.com/IotaPunks_71/status/1628380570702037000?s=20)
+33. **IOTA Stammtisch**: am Fr. 3.3.2023 in München: 
 
 
 
