@@ -40,6 +40,8 @@ e to Crypto Wallets, Flippin Burgers Episode 6 & more!](https://www.youtube.com/
 37. **IOTA Youtube**: von iotaPoet: [David De Troch: The Future of Firefly IOTA](https://www.youtube.com/watch?v=rnl-Dqo5Gek)
 38. **Shimmer Governements**: [Shimmer Governement tweetet](https://twitter.com/ShimmerGov/status/1628927769345249281?s=20) darüber, dass es jetzt einen [Shimmer Governements Überblick im Shimmer Wiki](https://wiki.iota.org/shimmer/learn/governance/shimmer-governance-intro/) gibt
 39. **IOTA Dev**: Neues wasp Release: [wasp - v0.5.0-alpha.11](https://github.com/iotaledger/wasp/releases/tag/v0.5.0-alpha.11)
+40. **IOTA Poker**: war am Freitag: [Tweet](https://twitter.com/IotaPunks_71/status/1629003661480280064?s=20)
+41. 
 
 
 
