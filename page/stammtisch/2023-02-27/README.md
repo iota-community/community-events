@@ -35,8 +35,11 @@ e to Crypto Wallets, Flippin Burgers Episode 6 & more!](https://www.youtube.com/
 32. **IOTA Stammtisch**: am Sa. 1.4.2023 in Köln: [Tweet](https://twitter.com/IotaPunks_71/status/1628380570702037000?s=20)
 33. **IOTA Stammtisch**: am Fr. 3.3.2023 in München: [Tweet](https://twitter.com/IotaMunchen/status/1628682506143670277?s=20)
 34. **Crypto Adoption**: [Coinbase Announcement von Base](https://twitter.com/coinbase/status/1628760201254903809?s=20); Hier ein Video-Interview von Bankless: [Coinbase Announces Base🔵, an Ethereum L2 Network Powered by Optimism](https://www.youtube.com/watch?v=iSIosTP4IJI); Neuer Twitter Account: [Base](https://twitter.com/BuildOnBase/status/1628757381457883136?s=20) "A new Ethereum L2, incubated by Coinbase and built on the open-source OP Stack. We have no plans to issue a new network token."
-35. **IOTA Artike**: von freie Presse: [IOTA Kurs Prognose 2023](https://www.freiepresse.de/erfahrungen/trading/krypto/prognose/iota/)
-36. 
+35. **IOTA Artikel**: von freie Presse: [IOTA Kurs Prognose 2023](https://www.freiepresse.de/erfahrungen/trading/krypto/prognose/iota/)
+36. **IOTA Audio**: Neuer Moonaco Podcast mit [Dave de Fijter](https://twitter.com/fijter): [Tweet](https://twitter.com/MoonacoPodcast/status/1628711669290479617?s=20); [Spotify Link](https://open.spotify.com/episode/0bbOeKqCrwN7CHSmSHyQPJ?si=D9mF4LDqQSeXXSHgHm-d-Q&nd=1); Es gab auch ein [Retweet](https://twitter.com/DomSchiener/status/1628827688138833920?s=20) mit Lob von Dom
+37. **IOTA Youtube**: von iotaPoet: [David De Troch: The Future of Firefly IOTA](https://www.youtube.com/watch?v=rnl-Dqo5Gek)
+38. **Shimmer Governements**: [Shimmer Governement tweetet](https://twitter.com/ShimmerGov/status/1628927769345249281?s=20) darüber, dass es jetzt einen [Shimmer Governements Überblick im Shimmer Wiki](https://wiki.iota.org/shimmer/learn/governance/shimmer-governance-intro/) gibt
+
 
 
 
