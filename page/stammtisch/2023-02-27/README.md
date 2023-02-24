@@ -39,6 +39,7 @@ e to Crypto Wallets, Flippin Burgers Episode 6 & more!](https://www.youtube.com/
 36. **IOTA Audio**: Neuer Moonaco Podcast mit [Dave de Fijter](https://twitter.com/fijter): [Tweet](https://twitter.com/MoonacoPodcast/status/1628711669290479617?s=20); [Spotify Link](https://open.spotify.com/episode/0bbOeKqCrwN7CHSmSHyQPJ?si=D9mF4LDqQSeXXSHgHm-d-Q&nd=1); Es gab auch ein [Retweet](https://twitter.com/DomSchiener/status/1628827688138833920?s=20) mit Lob von Dom
 37. **IOTA Youtube**: von iotaPoet: [David De Troch: The Future of Firefly IOTA](https://www.youtube.com/watch?v=rnl-Dqo5Gek)
 38. **Shimmer Governements**: [Shimmer Governement tweetet](https://twitter.com/ShimmerGov/status/1628927769345249281?s=20) darüber, dass es jetzt einen [Shimmer Governements Überblick im Shimmer Wiki](https://wiki.iota.org/shimmer/learn/governance/shimmer-governance-intro/) gibt
+39. **IOTA Dev**: Neues wasp Release: [wasp - v0.5.0-alpha.11](https://github.com/iotaledger/wasp/releases/tag/v0.5.0-alpha.11)
 
 
 
