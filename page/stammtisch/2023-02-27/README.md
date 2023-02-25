@@ -47,6 +47,9 @@ e to Crypto Wallets, Flippin Burgers Episode 6 & more!](https://www.youtube.com/
 44. **Allg. News**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1629274132226400258?s=20) über ein Paper: [First Realization of Quantum Energy Teleportation on Superconducting Quantum Hardware](https://arxiv.org/abs/2301.02666)
 45. **IOTA Governements**: Neues von [[SGP - 0005] - Shimmer Community Treasury Grant Committee](https://govern.iota.org/t/sgp-0005-shimmer-community-treasury-grant-committee/1576/8)
 46. **IOTA Artikel**: von Cointelegraph: [IOTA und EnergieKnip wollen Energieverbrauch niederländischer Haushalte senken](https://de.cointelegraph.com/news/iota-and-energieknip-want-to-reduce-the-energy-consumption-of-dutch-households?utm_source=coingecko&utm_content=coingecko&utm_campaign=coingecko&utm_medium=coingecko&utm_term=coingecko)
+47. **IOTA Ökosystem**: LendeXe Token wird Uniswap gelistet: [Tweet](https://twitter.com/LendeXeFinance/status/1629595290058588160?s=20)
+48. **IOTA Youtube**: Erstes Video von Digidus Prime: [Setting Up Your First Shimmer $SMR Digital Assets Firefly Wallet](https://www.youtube.com/watch?v=W7Wu_gffCq8&list=PL8eAvBxQ4oHL5wSpWdZ03sN4KGpBXEOKe&index=1)
+49. **IOTA Artikel**: von Crypto News Flash: [Sobald EVM live ist und Coordinator beseitigt ist, wird IOTA 2.0 ein Biest sein – Das steht auf der Agenda](https://www.crypto-news-flash.com/de/iota-2-wird-dank-evm-ohne-koordinator-in-hoechstform-kommen/?feed_id=13304&_unique_id=63fa42725e84b)
 
 
 
