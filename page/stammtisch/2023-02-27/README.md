@@ -46,6 +46,7 @@ e to Crypto Wallets, Flippin Burgers Episode 6 & more!](https://www.youtube.com/
 43. **IOTA Ökosystem**: [Yenna Tech tweetet](https://twitter.com/YennaTech/status/1629043500279910401?s=20) über ihr Announcement, dass sie ihr erstes Land gekauft haben
 44. **Allg. News**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1629274132226400258?s=20) über ein Paper: [First Realization of Quantum Energy Teleportation on Superconducting Quantum Hardware](https://arxiv.org/abs/2301.02666)
 45. **IOTA Governements**: Neues von [[SGP - 0005] - Shimmer Community Treasury Grant Committee](https://govern.iota.org/t/sgp-0005-shimmer-community-treasury-grant-committee/1576/8)
+46. **IOTA Artikel**: von Cointelegraph: [IOTA und EnergieKnip wollen Energieverbrauch niederländischer Haushalte senken](https://de.cointelegraph.com/news/iota-and-energieknip-want-to-reduce-the-energy-consumption-of-dutch-households?utm_source=coingecko&utm_content=coingecko&utm_campaign=coingecko&utm_medium=coingecko&utm_term=coingecko)
 
 
 
