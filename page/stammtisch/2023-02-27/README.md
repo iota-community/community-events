@@ -45,6 +45,7 @@ e to Crypto Wallets, Flippin Burgers Episode 6 & more!](https://www.youtube.com/
 42. **IOTA Artikel**: von Crypto News Flash: [Bullische IOTA-Updates: Shimmer EVM, Stardust, NFT-Galerie, Soonaverse und Tanglesea – Bericht](https://www.crypto-news-flash.com/de/iota-updates-fuer-shimmer-evm-stardust-nft-gallery-soonaverse-und-tangle-sea/)
 43. **IOTA Ökosystem**: [Yenna Tech tweetet](https://twitter.com/YennaTech/status/1629043500279910401?s=20) über ihr Announcement, dass sie ihr erstes Land gekauft haben
 44. **Allg. News**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1629274132226400258?s=20) über ein Paper: [First Realization of Quantum Energy Teleportation on Superconducting Quantum Hardware](https://arxiv.org/abs/2301.02666)
+45. **IOTA Governements**: Neues von [[SGP - 0005] - Shimmer Community Treasury Grant Committee](https://govern.iota.org/t/sgp-0005-shimmer-community-treasury-grant-committee/1576/8)
 
 
 
