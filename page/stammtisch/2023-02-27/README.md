@@ -54,6 +54,7 @@ e to Crypto Wallets, Flippin Burgers Episode 6 & more!](https://www.youtube.com/
 51. **IOTA Dev**: Es gibt jetzt wohl eine Selective Permanode Implementation: [INX-collector](https://github.com/teleconsys/inx-collector)
 52. **Crypto News**: Solana war mal wieder down: [Tweet](https://twitter.com/Ledger_Support/status/1629428123497295873?s=20)
 53. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/266-wochenr%C3%BCckblick-vom-19-bis-25-februar-2023/)
+54. **Twitter Hype**: [Jonas Theis tweetet](https://twitter.com/jonastheis_/status/1629912446944047106?s=20) über MEV, Sandwich Attacks und warum IOTA diese Probleme löst
 
 
 
