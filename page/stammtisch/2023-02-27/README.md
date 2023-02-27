@@ -59,9 +59,7 @@ e to Crypto Wallets, Flippin Burgers Episode 6 & more!](https://www.youtube.com/
 56. **IOTA Dev**: Neuer Release vom inx-dashboard: [v1.0.0-rc.5](https://github.com/iotaledger/inx-dashboard/releases/tag/v1.0.0-rc.5)
 57. **IOTA Audio**: Am Donnerstag kommt [Luca Moser](https://twitter.com/luca__moser) zur TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1630081892702715905?s=20))
 58. **IOTA Artikel**: von Crypto News Flash: [Sobald EVM live ist und Coordinator beseitigt ist, wird IOTA 2.0 ein Biest sein – Das steht auf der Agenda](https://www.crypto-news-flash.com/de/iota-2-wird-dank-evm-ohne-koordinator-in-hoechstform-kommen/)
-
-
-
+59. **Shimmer Exchange**: Shimmer bald auf Bitpanda?: [Tweet 1](https://twitter.com/Team40_BEST/status/1630198947800023041?s=20); [Tweet 2](https://twitter.com/Vrom14286662/status/1630206613691793409?s=20)
 
 
 
