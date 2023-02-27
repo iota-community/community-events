@@ -58,6 +58,7 @@ e to Crypto Wallets, Flippin Burgers Episode 6 & more!](https://www.youtube.com/
 55. **IOTA Ökosystem**: [TangleSwap](https://twitter.com/TangleSwapE) öffnen ihre [crew3 Web Community](https://crew3.xyz/c/tangleswap/invite/pVrE2fLBcGn05ZpVvaMD-) und man kann 50,000 and +300,000 $SMR, 333 Soul NFTs oder "Top Explorers" gewinnen: [Tweet](https://twitter.com/TangleSwapE/status/1630145620999647232?s=20)
 56. **IOTA Dev**: Neuer Release vom inx-dashboard: [v1.0.0-rc.5](https://github.com/iotaledger/inx-dashboard/releases/tag/v1.0.0-rc.5)
 57. **IOTA Audio**: Am Donnerstag kommt [Luca Moser](https://twitter.com/luca__moser) zur TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1630081892702715905?s=20))
+58. **IOTA Artikel**: von Crypto News Flash: [Sobald EVM live ist und Coordinator beseitigt ist, wird IOTA 2.0 ein Biest sein – Das steht auf der Agenda](https://www.crypto-news-flash.com/de/iota-2-wird-dank-evm-ohne-koordinator-in-hoechstform-kommen/)
 
 
 
