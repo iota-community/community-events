@@ -55,6 +55,9 @@ e to Crypto Wallets, Flippin Burgers Episode 6 & more!](https://www.youtube.com/
 52. **Crypto News**: Solana war mal wieder down: [Tweet](https://twitter.com/Ledger_Support/status/1629428123497295873?s=20); Bitcoin Echo schreibt: [Solana-Netzwerk nach Störung wieder online](https://www.btc-echo.de/schlagzeilen/solana-blockchain-nach-stoerung-und-neustart-wieder-online-160168/)
 53. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/266-wochenr%C3%BCckblick-vom-19-bis-25-februar-2023/)
 54. **Twitter Hype**: [Jonas Theis tweetet](https://twitter.com/jonastheis_/status/1629912446944047106?s=20) über MEV, Sandwich Attacks und warum IOTA diese Probleme löst
+55. **IOTA Ökosystem**: TangleSwap öffnen ihre [crew3 Web Community](https://crew3.xyz/c/tangleswap/invite/pVrE2fLBcGn05ZpVvaMD-) und man kann 50,000 and +300,000 $SMR, 333 Soul NFTs oder "Top Explorers" gewinnen: [Tweet](https://twitter.com/TangleSwapE/status/1630145620999647232?s=20)
+56. **IOTA Dev**: inx-dashboard release: [v1.0.0-rc.5](https://github.com/iotaledger/inx-dashboard/releases/tag/v1.0.0-rc.5)
+57. **IOTA Audio**: Am Donnerstag kommt [Luca Moser](https://twitter.com/luca__moser) zur TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1630081892702715905?s=20))
 
 
 
