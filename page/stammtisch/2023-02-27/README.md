@@ -52,7 +52,7 @@ e to Crypto Wallets, Flippin Burgers Episode 6 & more!](https://www.youtube.com/
 49. **IOTA Artikel**: von Crypto News Flash: [Sobald EVM live ist und Coordinator beseitigt ist, wird IOTA 2.0 ein Biest sein – Das steht auf der Agenda](https://www.crypto-news-flash.com/de/iota-2-wird-dank-evm-ohne-koordinator-in-hoechstform-kommen/?feed_id=13304&_unique_id=63fa42725e84b)
 50. **IOTA Stammtisch**: Am Freitag ist IOTA Stammtisch in MÜnchen: [Tweet](https://twitter.com/IotaMunchen/status/1628682506143670277?s=20); [Event](https://www.meetup.com/de-DE/iota-muc/events/rjcftsyfcfbfb/)
 51. **IOTA Dev**: Es gibt jetzt wohl eine Selective Permanode Implementation: [INX-collector](https://github.com/teleconsys/inx-collector)
-52. **Crypto News**: Solana war mal wieder down: [Tweet](https://twitter.com/Ledger_Support/status/1629428123497295873?s=20)
+52. **Crypto News**: Solana war mal wieder down: [Tweet](https://twitter.com/Ledger_Support/status/1629428123497295873?s=20); Bitcoin Echo schreibt: [Solana-Netzwerk nach Störung wieder online](https://www.btc-echo.de/schlagzeilen/solana-blockchain-nach-stoerung-und-neustart-wieder-online-160168/)
 53. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/266-wochenr%C3%BCckblick-vom-19-bis-25-februar-2023/)
 54. **Twitter Hype**: [Jonas Theis tweetet](https://twitter.com/jonastheis_/status/1629912446944047106?s=20) über MEV, Sandwich Attacks und warum IOTA diese Probleme löst
 
