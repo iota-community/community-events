@@ -11,3 +11,4 @@
 9. **IOTA Ökosystem**: [Issaus tweetet](https://twitter.com/Issaus2020/status/1630624850703204359?s=20) einen One Pager zu TangleSwap
 10. **IOTA Dev**: [inx-chronicle v1.0.0-beta.33](https://github.com/iotaledger/inx-chronicle/releases/tag/v1.0.0-beta.33)
 11. **Krypto Steuern**: Artikel im Handelsblatt über den Präzedenzfall: [Bundesfinanzhof: Krypto-Gewinne sind steuerpflichtig](https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuerrecht-bundesfinanzhof-krypto-gewinne-sind-steuerpflichtig/29007418.html)
+12. **IOTA Adaption**: [Filancore tweetet](https://twitter.com/FilancoreGmbH/status/1497188618686898193?s=20) darüber, dass die ETO Gruppe als strategischer Partner investiert. Es gibt auch eine Pressemitteilung dazu: [https://www.etogruppe.com/)
