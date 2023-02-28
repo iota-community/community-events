@@ -6,3 +6,4 @@
 4. **IOTA Ökosystem**: [LendeXe](https://twitter.com/LendeXeFinance) startet am Dienstag 28.2. auf ETH: [Tweet](https://twitter.com/LendeXeFinance/status/1630500660478193664?s=20)
 5. **Shimmer Promote**: [Nakama tweetet](https://twitter.com/Nakama_Labs/status/1630560010232029184?s=20) über die Vorteile on Shimmer
 6. **IOTA Artikel**: von Crypto News Flash: [IOTA braucht keine MEV und Sandwich-Attacken sind nicht möglich – deshalb ist die Tangle-Technologie überlegen](https://www.crypto-news-flash.com/de/iota-braucht-keinen-mev-mehr-und-sandwich-attacken-sind-unmoeglich-deshalb-ist-die-iota-technologie-ueberlegen/?feed_id=13355&_unique_id=63fe098ab09af)
+7. **IOTA Ökosystem**: [IotaOrigin tweetet](https://twitter.com/origin_iota/status/1630552234122420224?s=20) darüber, dass sie NFTpools auf Shimmer starten wollen und NFT-Projekte suchen die das ausprobieren
