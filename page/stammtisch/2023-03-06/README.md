@@ -3,7 +3,7 @@
 1. **IOTA Quicktakes**: Die [IF tweetet](https://twitter.com/iota/status/1630145871470907394?s=20) über [IOTA Quicktakes 20.02.2023: Beginner's Guide to Crypto Wallets, Flippin Burgers Episode 6 & more!](https://www.youtube.com/watch?v=YzgHo2EA2Hs)
 2. **IOTA Youtube**: von Crypto Whitehat: [Ripple XRP News und IOTA sowie Stellar: YES Bank Indien ist mit dabei und Iota Carbon Footprint](https://www.youtube.com/watch?v=Y6PC00TVWN8)
 3. **IOTA Artikel**: Ein [Tweet](https://twitter.com/kowei1995/status/1630377127446208519?s=20) darüber, dass in Taiwan ein Artikel über Tangleswap im Blocktempo Magazin veröffentlicht wurde: [Artikel](https://www.blocktempo.com/all-about-iota-shimmer-eco-project-tangleswap/)
-4. **IOTA Ökosystem**: [LendeXe](https://twitter.com/LendeXeFinance) startet am Dienstag 28.2. auf ETH: [Tweet](https://twitter.com/LendeXeFinance/status/1630500660478193664?s=20)
+4. **IOTA Ökosystem**: [LendeXe](https://twitter.com/LendeXeFinance) startet am Dienstag 28.2. auf ETH: [Tweet](https://twitter.com/LendeXeFinance/status/1630500660478193664?s=20); Dafür kommt LEXE bald auf P2B Crypto Exchange](https://www.youtube.com/watch?v=Hl1zEzVUV7w): [Tweet](https://www.youtube.com/watch?v=Hl1zEzVUV7w)
 5. **Shimmer Promote**: [Nakama tweetet](https://twitter.com/Nakama_Labs/status/1630560010232029184?s=20) über die Vorteile on Shimmer
 6. **IOTA Artikel**: von Crypto News Flash: [IOTA braucht keine MEV und Sandwich-Attacken sind nicht möglich – deshalb ist die Tangle-Technologie überlegen](https://www.crypto-news-flash.com/de/iota-braucht-keinen-mev-mehr-und-sandwich-attacken-sind-unmoeglich-deshalb-ist-die-iota-technologie-ueberlegen/?feed_id=13355&_unique_id=63fe098ab09af)
 7. **IOTA Ökosystem**: [IotaOrigin tweetet](https://twitter.com/origin_iota/status/1630552234122420224?s=20) darüber, dass sie NFTpools auf Shimmer starten wollen und NFT-Projekte suchen die das ausprobieren
@@ -28,5 +28,8 @@
 26. **IOTA Regulation**: Die [IF tweetet](https://twitter.com/iota/status/1628394185949601794?s=20) über das Discord Event "deep dive into crypto regulations"
 27. **Allgem. News**: Diese Woche war der Tesla investors day auf Youtube: [2023 Investor Day](https://www.youtube.com/watch?v=Hl1zEzVUV7w)
 28. **Shimmer Exchange**: Der [Tweet von Bitpanda](https://twitter.com/bitpanda/status/1631221893997969408?s=20) über Introducing Bitpanda Spotlight zeigt Shimmer... [Dom retweetet](https://twitter.com/DomSchiener/status/1631226461490225152?s=20) das mit den Worten "Shimmer is coming to Bitpanda" und auch [Shimmer retweetet](https://twitter.com/shimmernet/status/1631222517456154627?s=20); In diesem [Tweet mit Screenshot](https://twitter.com/Uglybots/status/1631225006007959553?s=20) sieht man, dass Shimmer wohl am 7.3. gelistet wird; Hier der [Link zu Bitpanda spotlight](https://web.bitpanda.com/spotlight) wo man schon Shimmer folgen kann
+29. **Shimmer Ökosystem**: [Iotabee tweetet](https://twitter.com/iotabee/status/1631264336122454019?s=20) darüber, dass sie ein Faucet für Testtoken zum Start von der EVM Testchain bereitstellen wollen
+30. **IOTA Audio**: Neuer Moonaco Podcast mit walt.ID: [Tweet](https://twitter.com/MoonacoPodcast/status/1631245653304016896?s=20); [Spotify Link](https://open.spotify.com/episode/6AZb1F6Il6obZCdXKHqCGb?si=-kkFBivdRH2ERIL38ONjcw&nd=1)
+31. **IOTA 2.0 MVP**: [id.IOTA tweetet seine Zusammenfassung am Donnerstag](https://twitter.com/id_iota/status/1631275356236775426?s=20)
 
 
