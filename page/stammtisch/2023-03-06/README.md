@@ -34,7 +34,8 @@
 32. **IOTA Artikel**: von BTC Echo: [IOTA Auf dem Weg zur Dezentralität](https://www.btc-echo.de/news/iota-mit-dem-update-coordicide-zur-dezentralitaet-160438/)
 33. **Shimmer Artikel**: von U-Today: [IOTA's Shimmer (SMR) Makes New Listing on Top European Exchange: Details](https://u.today/iotas-shimmer-smr-makes-new-listing-on-top-european-exchange-details)
 34. **IOTA Youtube**: Das Gespräch mit Dr. Electron in der TangleGang wurde auf Youtube hoch geladen: [Interview mit Dr Electron von der IF](Interview mit Dr Electron von der IF)
-35. **IOTA Ökosystem**: Einer ([laut SoonLabs](https://twitter.com/soon_labs/status/1631544901023469568?s=20)) [der besten Developer vom Soonaverse tweetet](https://twitter.com/__flyingrabbit/status/1631339524306477070?s=20), dass man jetzt On-Tangle-Request beim Erstellen von Rewards verwenden kann und dass bald ein Repo raus kommt mit "tons of examples".
+35. **IOTA Ökosystem**: Einer ([laut SoonLabs](https://twitter.com/soon_labs/status/1631544901023469568?s=20)) [der besten Developer vom Soonaverse tweetet](https://twitter.com/__flyingrabbit/status/1631339524306477070?s=20), dass man jetzt On-Tangle-Request beim Erstellen von Rewards verwenden kann und dass bald ein Repo raus kommt mit "tons of examples"
+36. **IOTA Artikel**: von Crypto News Flash: [IOTA: TangleSwap revolutioniert die DeFi-Industrie mit Multi-Chain-Protokoll und modernsten Innovationen – Bericht](https://www.crypto-news-flash.com/de/iota-tangleswap-revolutioniert-die-defi-industrie-mit-multi-chain-protokoll-und-modernsten-innovationen-bericht/?feed_id=13399&_unique_id=63ffa7d27c271)
 
 
 
