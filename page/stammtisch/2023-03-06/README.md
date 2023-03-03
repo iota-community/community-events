@@ -38,4 +38,3 @@
 36. **IOTA Artikel**: von Crypto News Flash: [IOTA: TangleSwap revolutioniert die DeFi-Industrie mit Multi-Chain-Protokoll und modernsten Innovationen – Bericht](https://www.crypto-news-flash.com/de/iota-tangleswap-revolutioniert-die-defi-industrie-mit-multi-chain-protokoll-und-modernsten-innovationen-bericht/?feed_id=13399&_unique_id=63ffa7d27c271)
 
 
-
