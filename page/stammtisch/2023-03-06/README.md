@@ -38,5 +38,13 @@
 36. **IOTA Artikel**: von Crypto News Flash: [IOTA: TangleSwap revolutioniert die DeFi-Industrie mit Multi-Chain-Protokoll und modernsten Innovationen – Bericht](https://www.crypto-news-flash.com/de/iota-tangleswap-revolutioniert-die-defi-industrie-mit-multi-chain-protokoll-und-modernsten-innovationen-bericht/?feed_id=13399&_unique_id=63ffa7d27c271)
 37. **Crypto Adaption**: Artikel vom Blocktrainer: [Xapo Bank: Die erste Bank, die auf das Lightning Netzwerk setzt!](https://www.blocktrainer.de/xapo-bank-bietet-lightning-zahlungen-an/)
 38. **Crypto Drama**: Silvergate: Artikel vom BTC-Echo: [Zahlungspartner nehmen Abstand von Krypto-Bank Silvergate](https://www.btc-echo.de/schlagzeilen/silvergate-coinbase-und-co-trennen-sich-von-krypto-bank-160470/)
+39. **IOTA Youtube**: von CryptoTuts: [Starke IOTA Initiative - Strom sparen & Belohnung verdienen](https://www.youtube.com/watch?v=C_ykQKG6dpU)
+40. **IOTA Youtube**: von Crypto Bellwether: [IOTA, Shimmer, TangleSwap, Aurora & MultiChain to revolutionize DeFi #iota #cryptobellwether](https://www.youtube.com/watch?v=nDRhBem-kU0)
+41. **IOTA Dev**: IOTA auf Platz 5 bei Proof of Github: [Tweet](https://twitter.com/ProofofGitHub/status/1631927479609831425?s=20)
+42. **IOTA Artikel**: von Sycryptoz: [IOTA: Billion-$-Exchange To List Shimmer And Deep Dive Of Why Tangle Technology Is Superior To Blockchain](https://sucryptoz.com/iota-billion-exchange-to-list-shimmer-and-deep-dive-of-why-tangle-technology-is-superior-to-blockchain/)
+43. **IOTA Artikel**: von Crypto News Flash: [IOTA: Kryptobörse Bitpanda will Shimmer notieren – Tangle-Technologie sei der Blockchain überlegen](https://www.crypto-news-flash.com/de/iota-kryptoboerse-bitpanda-will-shimmer-notieren-tangle-technologie-sei-der-blockchain-ueberlegen/?feed_id=13459&_unique_id=6401fb2573ff1)
+44. **Shimmer Hype**: Ein [Tweet mit Screenshot](https://twitter.com/SamannSebastian/status/1631746429193519120?s=20) über die Shimmer EVM und was uns erwarten könnte
+
+
 
 
