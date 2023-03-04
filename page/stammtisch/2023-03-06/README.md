@@ -44,6 +44,9 @@
 42. **IOTA Artikel**: von Sycryptoz: [IOTA: Billion-$-Exchange To List Shimmer And Deep Dive Of Why Tangle Technology Is Superior To Blockchain](https://sucryptoz.com/iota-billion-exchange-to-list-shimmer-and-deep-dive-of-why-tangle-technology-is-superior-to-blockchain/)
 43. **IOTA Artikel**: von Crypto News Flash: [IOTA: Kryptobörse Bitpanda will Shimmer notieren – Tangle-Technologie sei der Blockchain überlegen](https://www.crypto-news-flash.com/de/iota-kryptoboerse-bitpanda-will-shimmer-notieren-tangle-technologie-sei-der-blockchain-ueberlegen/?feed_id=13459&_unique_id=6401fb2573ff1)
 44. **Shimmer Hype**: Ein [Tweet mit Screenshot](https://twitter.com/SamannSebastian/status/1631746429193519120?s=20) über die Shimmer EVM und was uns erwarten könnte
+45. **IOTA Ökosystem**: Immer mehr Projekte nutzen crew3: [Iotabee](https://crew3.xyz/c/iotabee/invite/FVdSVGyXDZlwCS9-iFn0I); [Apedao](https://crew3.xyz/c/apedao/invite/ZJSsF_9xlW7mGQADs5BPF); [Dark Mythos](https://crew3.xyz/c/darkmythos/invite/h6bXztIVUS5Jyhttft4Bk); [ShimmerSea](https://crew3.xyz/c/shimmersea/invite/zikW2A__rIouDMx9vBQzD); [TangleSwap](https://crew3.xyz/c/tangleswap/invite/pVrE2fLBcGn05ZpVvaMD-); [EpochZero](https://crew3.xyz/c/epochzero/invite/OyNIakiVzxWOMuCGrpJ7q), [MagicMemeMoney](https://crew3.xyz/c/magicmememoney/invite/VYVZ-tf4UdxpBznW-VOrQ)
+46. **IOTA Artikel**: von Crypto News Flash: [IOTA: Will it be possible to earn money with Mana? Discussion and important updates](https://www.crypto-news-flash.com/iota-will-it-be-possible-to-earn-money-with-mana-discussion-and-important-updates/#)
+47. **IOTA FUD Drama**: Es wird spekuliert, ob Dom 2022 40 Tiota verkauft hat: [Tweet](https://twitter.com/fudsfuddy/status/1631743932047536128?s=20)
 
 
 
