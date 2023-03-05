@@ -47,6 +47,11 @@
 45. **IOTA Ökosystem**: Immer mehr Projekte nutzen crew3: [Iotabee](https://crew3.xyz/c/iotabee/invite/FVdSVGyXDZlwCS9-iFn0I); [Apedao](https://crew3.xyz/c/apedao/invite/ZJSsF_9xlW7mGQADs5BPF); [Dark Mythos](https://crew3.xyz/c/darkmythos/invite/h6bXztIVUS5Jyhttft4Bk); [ShimmerSea](https://crew3.xyz/c/shimmersea/invite/zikW2A__rIouDMx9vBQzD); [TangleSwap](https://crew3.xyz/c/tangleswap/invite/pVrE2fLBcGn05ZpVvaMD-); [EpochZero](https://crew3.xyz/c/epochzero/invite/OyNIakiVzxWOMuCGrpJ7q), [MagicMemeMoney](https://crew3.xyz/c/magicmememoney/invite/VYVZ-tf4UdxpBznW-VOrQ), [IotaOrigin](https://crew3.xyz/c/iotaorigin/invite/5vVlxl2KveF-F54z7q3oH)
 46. **IOTA Artikel**: von Crypto News Flash: [IOTA: Will it be possible to earn money with Mana? Discussion and important updates](https://www.crypto-news-flash.com/iota-will-it-be-possible-to-earn-money-with-mana-discussion-and-important-updates/#)
 47. **IOTA FUD Drama**: Es wird spekuliert, ob Dom 2022 40 Tiota verkauft hat: [Tweet](https://twitter.com/fudsfuddy/status/1631743932047536128?s=20)
+48. **Crypto Adaption**: NFTs vom Kölner DOM in der [tagesschau](https://www.tagesschau.de/wirtschaft/technologie/koeln-dom-nft-101.html)
+49. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1632046972264652802?s=20) darüber, dass sie am 18.3. starten mit ihrer Telegram Wallet
+50. **IOTA Audio**: Nächste Woche Donnerstag kommt [Serverox]() in den TangleGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1632314648304185347?s=20)
+51. **IOTA Ökosystem**: [SenfDa Tzu tweetet](https://twitter.com/SenfdaTzu/status/1632317794569138179?s=20) über seinen Medium Post: [DeFi can make you cry. Putting money into a solid investment DAOs could be a smart alternative.](https://medium.com/@karsten.bienek/make-a-lot-of-money-with-investment-daos-a5788a265256)
+52. **IOTA Wochenrückblick**: [IOTA-Talk tweetet](https://twitter.com/Iota_Talk_/status/1632293320654200833?s=20) über den [Wochenrückblick](https://www.iota-talk.com/index.php?article/269-week-in-review-from-26th-february-to-4nd-march-2023/)
 
 
 
