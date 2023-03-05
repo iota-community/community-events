@@ -3,7 +3,7 @@
 1. **IOTA Quicktakes**: Die [IF tweetet](https://twitter.com/iota/status/1630145871470907394?s=20) über [IOTA Quicktakes 20.02.2023: Beginner's Guide to Crypto Wallets, Flippin Burgers Episode 6 & more!](https://www.youtube.com/watch?v=YzgHo2EA2Hs)
 2. **IOTA Youtube**: von Crypto Whitehat: [Ripple XRP News und IOTA sowie Stellar: YES Bank Indien ist mit dabei und Iota Carbon Footprint](https://www.youtube.com/watch?v=Y6PC00TVWN8)
 3. **IOTA Artikel**: Ein [Tweet](https://twitter.com/kowei1995/status/1630377127446208519?s=20) darüber, dass in Taiwan ein Artikel über Tangleswap im Blocktempo Magazin veröffentlicht wurde: [Artikel](https://www.blocktempo.com/all-about-iota-shimmer-eco-project-tangleswap/)
-4. **IOTA Ökosystem**: [LendeXe](https://twitter.com/LendeXeFinance) startet am Dienstag 28.2. auf ETH: [Tweet](https://twitter.com/LendeXeFinance/status/1630500660478193664?s=20); Dafür kommt LEXE bald auf P2B Crypto Exchange](https://www.youtube.com/watch?v=Hl1zEzVUV7w):  [Tweet](https://www.youtube.com/watch?v=Hl1zEzVUV7w)
+4. **IOTA Ökosystem**: [LendeXe](https://twitter.com/LendeXeFinance) startet am Dienstag 28.2. auf ETH: [Tweet](https://twitter.com/LendeXeFinance/status/1630500660478193664?s=20); Dafür kommt LEXE bald auf der [P2B Crypto Exchange](https://www.youtube.com/watch?v=Hl1zEzVUV7w):  [Tweet](https://www.youtube.com/watch?v=Hl1zEzVUV7w)
 5. **Shimmer Promote**: [Nakama tweetet](https://twitter.com/Nakama_Labs/status/1630560010232029184?s=20) über die Vorteile on Shimmer
 6. **IOTA Artikel**: von Crypto News Flash: [IOTA braucht keine MEV und Sandwich-Attacken sind nicht möglich – deshalb ist die Tangle-Technologie überlegen](https://www.crypto-news-flash.com/de/iota-braucht-keinen-mev-mehr-und-sandwich-attacken-sind-unmoeglich-deshalb-ist-die-iota-technologie-ueberlegen/?feed_id=13355&_unique_id=63fe098ab09af)
 7. **IOTA Ökosystem**: [IotaOrigin tweetet](https://twitter.com/origin_iota/status/1630552234122420224?s=20) darüber, dass sie NFTpools auf Shimmer starten wollen und NFT-Projekte suchen die das ausprobieren
@@ -48,10 +48,12 @@
 46. **IOTA Artikel**: von Crypto News Flash: [IOTA: Will it be possible to earn money with Mana? Discussion and important updates](https://www.crypto-news-flash.com/iota-will-it-be-possible-to-earn-money-with-mana-discussion-and-important-updates/#)
 47. **IOTA FUD Drama**: Es wird spekuliert, ob Dom 2022 40 Tiota verkauft hat: [Tweet](https://twitter.com/fudsfuddy/status/1631743932047536128?s=20)
 48. **Crypto Adaption**: NFTs vom Kölner DOM in der [tagesschau](https://www.tagesschau.de/wirtschaft/technologie/koeln-dom-nft-101.html)
-49. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1632046972264652802?s=20) darüber, dass sie am 18.3. starten mit ihrer Telegram Wallet
+49. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1632046972264652802?s=20) darüber, dass sie am 18.3. starten mit ihrer Telegram Wallet; Hier noch ein paar [Tweets](https://twitter.com/bivreost/status/1632376997249785856?s=20)
 50. **IOTA Audio**: Nächste Woche Donnerstag kommt [Serverox]() in den TangleGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1632314648304185347?s=20)
 51. **IOTA Ökosystem**: [SenfDa Tzu tweetet](https://twitter.com/SenfdaTzu/status/1632317794569138179?s=20) über seinen Medium Post: [DeFi can make you cry. Putting money into a solid investment DAOs could be a smart alternative.](https://medium.com/@karsten.bienek/make-a-lot-of-money-with-investment-daos-a5788a265256)
 52. **IOTA Wochenrückblick**: [IOTA-Talk tweetet](https://twitter.com/Iota_Talk_/status/1632293320654200833?s=20) über den [Wochenrückblick](https://www.iota-talk.com/index.php?article/269-week-in-review-from-26th-february-to-4nd-march-2023/)
+53. **IOTA Youtube**: von IotaPoet: [What Is The Future of Lendexe with IOTA?](https://www.youtube.com/watch?v=1PeSjl_MSyg)
+54. **IOTA Ökosystem**: [250 Chirp Miner wurden über opensea](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/54813439029422678614255467127229219691220660521908286887215386026725926240556)
 
 
 
