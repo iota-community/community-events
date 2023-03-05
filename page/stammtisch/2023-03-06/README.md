@@ -53,7 +53,7 @@
 51. **IOTA Ökosystem**: [SenfDa Tzu tweetet](https://twitter.com/SenfdaTzu/status/1632317794569138179?s=20) über seinen Medium Post: [DeFi can make you cry. Putting money into a solid investment DAOs could be a smart alternative.](https://medium.com/@karsten.bienek/make-a-lot-of-money-with-investment-daos-a5788a265256)
 52. **IOTA Wochenrückblick**: [IOTA-Talk tweetet](https://twitter.com/Iota_Talk_/status/1632293320654200833?s=20) über den [Wochenrückblick](https://www.iota-talk.com/index.php?article/269-week-in-review-from-26th-february-to-4nd-march-2023/)
 53. **IOTA Youtube**: von IotaPoet: [What Is The Future of Lendexe with IOTA?](https://www.youtube.com/watch?v=1PeSjl_MSyg)
-54. **IOTA Ökosystem**: [250 Chirp Miner wurden über opensea](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/54813439029422678614255467127229219691220660521908286887215386026725926240556)
+54. **IOTA Ökosystem**: [250 Chirp Miner wurden über opensea](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/54813439029422678614255467127229219691220660521908286887215386026725926240556) verkauft
 
 
 
