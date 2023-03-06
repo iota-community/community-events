@@ -58,6 +58,7 @@
 56. **IOTA Ökosystem**: [Iotabee](https://twitter.com/iotabee) hinterlegt Assets  im Wer von "6567 $IOTA, 18059 $SMR, 539 $SOON" im Soonaverse: [Tweet](https://twitter.com/iotabee/status/1632549261064949760?s=20)
 57. **IOTA Ökosystem**: [IotaOrigin tweetet](https://twitter.com/origin_iota/status/1632654820292149254?s=20) über [snippool.xyz](https://snippool.xyz/), ihrer neuen NFT-DeFi-Plattform ("Create your own NFTpools, Buy & Sell NFTs, provide liquidity and do #NFT  liquidity mining")
 58. **IOTA Audio**: Das Interview von der [TangleGang](https://twitter.com/GangTangleTalk) mit [Crypto-Gin](https://twitter.com/Crypto_Gin21) ist jetzt auf Youtube verfügbar: [Interview mit Andy und Eicke von Crypto Gin vom 23.02.23](https://www.youtube.com/watch?v=oXz_tgkKPdw)
+59. **IOTA dev**: Swarm v2.8.5 update: [Tweet](https://twitter.com/tanglebay/status/1632696025474383874?s=20)
 
 
 
