@@ -55,7 +55,8 @@
 53. **IOTA Youtube**: von IotaPoet: [What Is The Future of Lendexe with IOTA?](https://www.youtube.com/watch?v=1PeSjl_MSyg)
 54. **IOTA Ökosystem**: [Chirp tweetet](https://twitter.com/ChirpIoT/status/1632473567957774340?s=20) darüber, dass [250 Chirp Miner auf opensea](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/54813439029422678614255467127229219691220660521908286887215386026725926240556) gekauft werden können
 55. **IOTA Youtube**: von Common Sense Crypto: [IOTA 2023 WILL BE MASSIVE - IOTA IOT POWERHOUSE - IOTA MIOTA 4TH INDUSTRIAL REVOLUTION IS HERE WAKE UP!](https://www.youtube.com/watch?v=QPQrrdhBE8U)
-56. 
+56. **IOTA Ökosystem**: Iotabee hinterlegt Assets (6567 $IOTA, 18059 $SMR, 539 $SOON ) im Soonaverse: [Tweet](https://twitter.com/iotabee/status/1632549261064949760?s=20)
+57. **IOTA Ökosystem**: [IotaOrigin tweetet](https://twitter.com/origin_iota/status/1632654820292149254?s=20) über [https://snippool.xyz/](https://snippool.xyz/), eine NFT-DeFi platform: "Create your own NFTpools, Buy & Sell NFTs, provide liquidity and do #NFT  liquidity mining" 
 
 
 
