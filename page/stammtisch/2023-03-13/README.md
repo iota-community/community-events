@@ -5,4 +5,5 @@
 3. **Shimmer Promote**: [Chris Müller fasst in 8 Tweets](https://twitter.com/ChrisMuellerHI/status/1633018309728673793?s=20) Shimmer zusammen
 4. **IOTA Ökosystem**: [Senfda Tzu tweetet](https://twitter.com/SenfdaTzu/status/1633072532071886850?s=20) über seinen 2. Teil von [A deep dive into ApeDAO Are these Ape NFTs overpriced or still a steal?](https://medium.com/@karsten.bienek/a-deep-dive-into-apedao-are-these-ape-nfts-overpriced-or-still-a-steal-459b207eab82)
 5. **IOTA Ökosystem**: [AuditOne tweetet](https://twitter.com/auditone_team/status/1633034246963986433?s=20) darüber, dass sie gerade [SoonLabs (Soonaverse)]8https://twitter.com/soon_labs) Smart Contracts auditieren
-6. **Shimmer Exchange**: Shimmer wurde am Dienstag auf Shimmer gelistet: [Tweet](https://twitter.com/Vrom14286662/status/1633090475253981185?s=20)
+6. **Shimmer Exchange**: Shimmer wurde am Dienstag auf Shimmer gelistet: [Tweet](https://twitter.com/Vrom14286662/status/1633090475253981185?s=20) und ist an dem Tag um 20% im Wert gestiegen
+7. 
