@@ -15,4 +15,6 @@
 13. **IOTA Ökosystem**: [LendeXe ist jetzt auf Coingecko](https://www.coingecko.com/en/coins/lendexe-finance) gelistet
 14. **Crypto Adaption**: Artikel: [Amazon NFTs Will Be Tied to Real-world Assets, Token Possible](https://blockworks.co/news/amazon-nfts-real-world-assets-token)
 15. **IOTA Artikel**: von Crypto News Flash: [Research Engineer working on IOTA 2.0 reveals crucial progress on GoShimmer MVP launch to revolutionize billion-$-market](https://www.crypto-news-flash.com/research-engineer-working-on-iota-2-0-reveals-crucial-progress-on-goshimmer-mvp-launch-to-revolutionize-billion-market/?feed_id=13580&_unique_id=640888caad5b7)
-16. **Twitter Hype**: von TANGLEHUB: [Tweet](https://twitter.com/Tanglehub_eu/status/1633460587224240128?s=20) mit "calm before the storm.."
+16. **Twitter Hype**: von TANGLEHUB: [Tweet](https://twitter.com/Tanglehub_eu/status/1633460587224240128?s=20) mit "calm before the storm..."
+17. **IOTA Adaption**: Die [IF tweetet](https://twitter.com/iota/status/1633467619373187074?s=20) darüber, dass "Login with IOTA" hier ist und verlinken den Blogpost: [Login With IOTA is Here - IOTA and walt.id Deliver Login Solution for Web2 and Web3](https://blog.iota.org/login-with-iota-is-here/)
+18. **Crypto Adaption**: Artikel: [Amazon NFTs Will Be Tied to Real-world Assets, Token Possible](https://blockworks.co/news/amazon-nfts-real-world-assets-token)
