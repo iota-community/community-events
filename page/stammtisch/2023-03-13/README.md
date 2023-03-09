@@ -16,6 +16,9 @@
 14. **Crypto Adaption**: Artikel: [Amazon NFTs Will Be Tied to Real-world Assets, Token Possible](https://blockworks.co/news/amazon-nfts-real-world-assets-token)
 15. **IOTA Artikel**: von Crypto News Flash: [Research Engineer working on IOTA 2.0 reveals crucial progress on GoShimmer MVP launch to revolutionize billion-$-market](https://www.crypto-news-flash.com/research-engineer-working-on-iota-2-0-reveals-crucial-progress-on-goshimmer-mvp-launch-to-revolutionize-billion-market/?feed_id=13580&_unique_id=640888caad5b7)
 16. **Twitter Hype**: von TANGLEHUB: [Tweet](https://twitter.com/Tanglehub_eu/status/1633460587224240128?s=20) mit "calm before the storm..."
-17. **IOTA Adaption**: Die [IF tweetet](https://twitter.com/iota/status/1633467619373187074?s=20) darüber, dass "Login with IOTA" hier ist und verlinken den Blogpost: [Login With IOTA is Here - IOTA and walt.id Deliver Login Solution for Web2 and Web3](https://blog.iota.org/login-with-iota-is-here/)
+17. **IOTA Adaption**: Die [IF tweetet](https://twitter.com/iota/status/1633467619373187074?s=20) darüber, dass "Login with IOTA" hier ist und verlinken den Blogpost: [Login With IOTA is Here - IOTA and walt.id Deliver Login Solution for Web2 and Web3](https://blog.iota.org/login-with-iota-is-here/); Auch [walt.id retweetet](https://twitter.com/walt_id/status/1633487236598562816?s=20) das
 18. **Crypto Adaption**: Artikel: [Amazon NFTs Will Be Tied to Real-world Assets, Token Possible](https://blockworks.co/news/amazon-nfts-real-world-assets-token)
 19. **IOTA Adaption**: [LFEdge tweetet](https://twitter.com/LF_Edge/status/1633138044214599681?s=20) über das Mat Yager Interview von dem Projekt Alvarium
+20. **Crypto Adaption**: Artikel: [Hongkong öffnet sich Kryptowährungen!](https://krypto-x.biz/2023/03/09/hongkong-oeffnet-sich-kryptowaehrungen/)
+21. **IOTA AMA**: Am Freitag gab es ein AMA von Tangleverse: [Ankündigungs-Tweet](https://twitter.com/TangleVerseWeb/status/1633543628264988682?s=20)
+22. **IOTA NFTs**: Das Sonnaverse verkauft 240 Einzelbilder von der FIRST SOONAVERSE NFT ART COLLECTION: [Tweet](https://twitter.com/iotahawaii/status/1633707655398301698?s=20)
