@@ -24,3 +24,4 @@
 22. **IOTA NFTs**: Das Sonnaverse verkauft 240 Einzelbilder von der FIRST SOONAVERSE NFT ART COLLECTION: [Tweet](https://twitter.com/iotahawaii/status/1633707655398301698?s=20)
 23. **Crypto Crash**: Artikel: [Crypto Friendly' Bank Silvergate to Wind Down Operations](https://decrypt.co/123024/crypto-friendly-bank-silvergate-to-wind-down-operations)
 24. **IOTA Adaption**: [EBSI tweetet](https://twitter.com/EU_EBSI/status/1633397039986794497?s=20) über ihren Blogpost: [EBSI and the Digital Rights Declaration: how we design with your rights in mind](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/EBSI+and+the+Digital+Rights+Declaration+-+how+we+design+with+your+rights+in+mind/?pk_source=twitter&pk_medium=social_media_organic&pk_campaign=Digital_right)
+25. **IOTA Science**: Ein neues Paper ist aufgetaucht: [P-IOTA: A Cloud-Based Geographically Distributed Threat Alert System that Leverages P4 and IOTA](https://www.mdpi.com/1424-8220/23/6/2955)
