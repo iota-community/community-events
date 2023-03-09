@@ -22,3 +22,5 @@
 20. **Crypto Adaption**: Artikel: [Hongkong öffnet sich Kryptowährungen!](https://krypto-x.biz/2023/03/09/hongkong-oeffnet-sich-kryptowaehrungen/)
 21. **IOTA AMA**: Am Freitag gab es ein AMA von Tangleverse: [Ankündigungs-Tweet](https://twitter.com/TangleVerseWeb/status/1633543628264988682?s=20)
 22. **IOTA NFTs**: Das Sonnaverse verkauft 240 Einzelbilder von der FIRST SOONAVERSE NFT ART COLLECTION: [Tweet](https://twitter.com/iotahawaii/status/1633707655398301698?s=20)
+23. **Crypto Crash**: Artikel: [Crypto Friendly' Bank Silvergate to Wind Down Operations](https://decrypt.co/123024/crypto-friendly-bank-silvergate-to-wind-down-operations)
+24. **IOTA Adaption**: [EBSI tweetet](https://twitter.com/EU_EBSI/status/1633397039986794497?s=20) über ihren Blogpost: [EBSI and the Digital Rights Declaration: how we design with your rights in mind](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/EBSI+and+the+Digital+Rights+Declaration+-+how+we+design+with+your+rights+in+mind/?pk_source=twitter&pk_medium=social_media_organic&pk_campaign=Digital_right)
