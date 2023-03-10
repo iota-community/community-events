@@ -41,3 +41,5 @@
 39. **Crypto Drama**: Artikel: [Huobi Token Tanks 93% in Minutes, Justin Sun Blames Liquidations and ‘Market Behavior’](https://beincrypto.com/huobi-token-tanks-93-minutes-justin-sun-liquidations-market/)
 40. **IOTA Artikel**: in U-Today: [IOTA (MIOTA) Unveils Web3 Innovation, Price Stays Positive](https://u.today/iota-miota-unveils-web3-innovation-price-stays-positive)
 41. **IOTA Artikel**: auf ETh news: [IOTA and Walt.id Revolutionize User Onboarding with Login with IOTA](https://www.ethnews.com/iota-and-wait-id-revolutionize-user-onboarding-with-login-with-iota/)
+42. **IOTA Artikel**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1634147140812386311?s=20) über den Guest Post auf CoinmarketCap: [Beginner's Guide to Crypto Wallets: Part 3](https://coinmarketcap.com/community/articles/63f88b98fd311907dea28029/)
+43. **Twitter Hype**: [Tweet mit Screenshot](https://twitter.com/Schmucklos_/status/1634151826713870336?s=20) zu Aussagen von Phylo zum Iota smart contract protocol (ISCP)
