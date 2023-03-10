@@ -45,3 +45,6 @@
 43. **Twitter Hype**: [Tweet mit Screenshot](https://twitter.com/Schmucklos_/status/1634151826713870336?s=20) zu Aussagen von Phylo zum Iota smart contract protocol (ISCP)
 44. **IOTA Audio**: Die Jungs von [loyal](https://twitter.com/loyal_web3) waren im TangleGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1634163039564967938?s=20)
 45. **IOTA Ökosystem**: 
+46. **IOTA Dev**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1634198800175710213?s=20), dass der [Shimmer Explorer](https://explorer.shimmer.network/shimmer/) upgegraded wurde. 
+47. **IOTA Audio**: Am Freitag war ein AMA im ICCDAO: [Tweet](https://twitter.com/IOTAcontentDAO/status/1633784046911193088?s=20)
+48. **IOTA Artikel**: von Crypto News Flash: [IOTA liefert Login-Lösung mit selbstverwalteter Identität zum Einbinden von Benutzern in Web2- und Web3-Anwendungen](https://www.crypto-news-flash.com/de/iota-liefert-login-loesung-mit-selbstverwalteter-identitaet-zum-einbinden-von-benutzern-in-web2-und-web3-anwendungen/)
