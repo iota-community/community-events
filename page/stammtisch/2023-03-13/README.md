@@ -27,3 +27,14 @@
 25. **IOTA Science**: Ein neues Paper ist aufgetaucht: [P-IOTA: A Cloud-Based Geographically Distributed Threat Alert System that Leverages P4 and IOTA](https://www.mdpi.com/1424-8220/23/6/2955)
 26. **IOTA Audio**: Neuer Moonaco Podcast mit Crypto Gin: [Tweet](https://twitter.com/MoonacoPodcast/status/1633785515630624778?s=20): [Episode 66: Crypto-Gin](https://open.spotify.com/episode/0CrqeganqLJq35ovK11bHm?si=1jP7RStaQgO3-vWmUpWqkA&app_destination=copy-link&nd=1)
 27. **IOTA Ökosystem**: Die [ETO Gruppe tweetet](https://twitter.com/EtoGruppe/status/1633799973308358656?s=20) darüber, dass [Swarm Logistics](https://twitter.com/SwarmLogistics) unter die ersten 10 von 741 Startups gewählt wurde im Bereich "digitaler Zwilling"
+28. **Shimmer Firefly**: [Firefly tweetet](https://twitter.com/fireflywallet/status/1633894734736310276?s=20) über einen neuen Pre-Release von [Firefly Desktop 2.1.0 Beta 2](https://github.com/iotaledger/firefly/releases/tag/desktop-2.1.0-beta-2) 
+29. **Crypto News**: Swift testet ihre CBDC Sandbox: "18 central & commercial banks showed clear value et 18 CBDC Tests" :[Tweet](https://twitter.com/swiftcommunity/status/1633815692070756355?s=20)
+30. **IOTA Adaption**: U.a. Adri vom [BlockchainLab Drenthe](https://twitter.com/BclDrenthe) erklärt dem [BLINGproject (Blockchain in Governements)](https://twitter.com/BLINGprojectNSR) die Vorteile von DLTs... [Tweet mit Fotos](https://twitter.com/BLINGprojectNSR/status/1633162014557106194?s=20)
+31. **IOTA Artikel**: [Using Blockchain for Local Economies: The Netherlands Case Study](https://web-mind.io/blockchain/using-blockchain-for-local-economies-the-netherlands-case-study)
+32. **Crypto Adaption**: Biden will 30% Steuern auf Bitcoin Mining einführen: [Tweet](https://twitter.com/BitcoinMagazine/status/1633933119920168965?s=20)
+33. **Crypto Adaption**: Witzige neue [Coinbase Werbung](https://twitter.com/scottmelker/status/1633783094028255232?s=20)
+34. **IOTA Ökosystem**: Das [Soonaverse tweetet](https://twitter.com/soon_labs/status/1634069758575529985?s=20) eine [Volumenübersicht von NFT Verkäufen](https://docs.google.com/spreadsheets/d/1EkhJ8CD7Q97HgKOpFHbqZz31ZIlH5AJvS2z9hJKUGTU/edit#gid=438328424)
+35. **IOTA 2.0 MVP**: Neue [Aussagen von Hans Moog](https://twitter.com/hus_qy/status/1633879317498167302?s=20) zum iota2.0 MVP... (1-2 Wochen ;-))
+36. **IOTA Ökosystem**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1634088811725733893?s=20) über die MPC Validatoren, die einen "major milestone by generating the public key and running the nodes" erreicht haben
+37. **IOTA Drama**: [CFB tweetet](https://twitter.com/c___f___b/status/1634101881852026885?s=20), dass die IF ein Gerichtsverfahren gegen ihn verloren hat
+38. **
