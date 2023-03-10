@@ -27,7 +27,7 @@
 25. **IOTA Science**: Ein neues Paper ist aufgetaucht: [P-IOTA: A Cloud-Based Geographically Distributed Threat Alert System that Leverages P4 and IOTA](https://www.mdpi.com/1424-8220/23/6/2955)
 26. **IOTA Audio**: Neuer Moonaco Podcast mit Crypto Gin: [Tweet](https://twitter.com/MoonacoPodcast/status/1633785515630624778?s=20): [Episode 66: Crypto-Gin](https://open.spotify.com/episode/0CrqeganqLJq35ovK11bHm?si=1jP7RStaQgO3-vWmUpWqkA&app_destination=copy-link&nd=1)
 27. **IOTA Ökosystem**: Die [ETO Gruppe tweetet](https://twitter.com/EtoGruppe/status/1633799973308358656?s=20) darüber, dass [Swarm Logistics](https://twitter.com/SwarmLogistics) unter die ersten 10 von 741 Startups gewählt wurde im Bereich "digitaler Zwilling"
-28. **Shimmer Firefly**: [Firefly tweetet](https://twitter.com/fireflywallet/status/1633894734736310276?s=20) über einen neuen Pre-Release von [Firefly Desktop 2.1.0 Beta 2](https://github.com/iotaledger/firefly/releases/tag/desktop-2.1.0-beta-2) 
+28. **Shimmer Firefly**: [Firefly tweetet](https://twitter.com/fireflywallet/status/1633894734736310276?s=20) über einen neuen Pre-Release von [Firefly Desktop 2.1.0 Beta 2](https://github.com/iotaledger/firefly/releases/tag/desktop-2.1.0-beta-2) bzw. [Firefly Desktop 2.1.0 Beta 3](https://github.com/iotaledger/firefly/releases/tag/desktop-2.1.0-beta-3)
 29. **Crypto News**: Swift testet ihre CBDC Sandbox: "18 central & commercial banks showed clear value et 18 CBDC Tests" :[Tweet](https://twitter.com/swiftcommunity/status/1633815692070756355?s=20)
 30. **IOTA Adaption**: U.a. Adri vom [BlockchainLab Drenthe](https://twitter.com/BclDrenthe) erklärt dem [BLINGproject (Blockchain in Governements)](https://twitter.com/BLINGprojectNSR) die Vorteile von DLTs... [Tweet mit Fotos](https://twitter.com/BLINGprojectNSR/status/1633162014557106194?s=20)
 31. **IOTA Artikel**: [Using Blockchain for Local Economies: The Netherlands Case Study](https://web-mind.io/blockchain/using-blockchain-for-local-economies-the-netherlands-case-study)
@@ -48,3 +48,7 @@
 46. **IOTA Dev**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1634198800175710213?s=20), dass der [Shimmer Explorer](https://explorer.shimmer.network/shimmer/) upgegraded wurde. 
 47. **IOTA Audio**: Am Freitag war ein AMA im ICCDAO: [Tweet](https://twitter.com/IOTAcontentDAO/status/1633784046911193088?s=20)
 48. **IOTA Artikel**: von Crypto News Flash: [IOTA liefert Login-Lösung mit selbstverwalteter Identität zum Einbinden von Benutzern in Web2- und Web3-Anwendungen](https://www.crypto-news-flash.com/de/iota-liefert-login-loesung-mit-selbstverwalteter-identitaet-zum-einbinden-von-benutzern-in-web2-und-web3-anwendungen/)
+49. **Fiat Drama**: Artikel: [Lehman Brothers 2.0 - US-Regierung übernimmt Silicon Valley Bank](https://www.btc-echo.de/schlagzeilen/silicon-valley-bank-usa-uebernehmen-kriselndes-geldhaus-160877/); USDC wohl auch 
+50. **IOTA Artikel**: Dom Schiener war in der Titelstory vom Focus Magazin (6. Ausgabe); Hier der ganze Text: [Titelthema - Schein oder nicht Schein](https://m.focus.de/magazin/archiv/titelthema-schein-oder-nicht-schein_id_184898014.html)
+51. **IOTA Ökosystem**: [Tweet mit Foto](https://twitter.com/IOTA_TCG/status/1634269281364979712?s=20) von den physischen IOTA Trading Cards
+
