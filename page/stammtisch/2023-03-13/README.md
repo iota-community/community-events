@@ -51,4 +51,5 @@
 49. **Fiat Drama**: Artikel: [Lehman Brothers 2.0 - US-Regierung übernimmt Silicon Valley Bank](https://www.btc-echo.de/schlagzeilen/silicon-valley-bank-usa-uebernehmen-kriselndes-geldhaus-160877/); USDC wohl auch 
 50. **IOTA Artikel**: Dom Schiener war in der Titelstory vom Focus Magazin (6. Ausgabe); Hier der ganze Text: [Titelthema - Schein oder nicht Schein](https://m.focus.de/magazin/archiv/titelthema-schein-oder-nicht-schein_id_184898014.html)
 51. **IOTA Ökosystem**: [Tweet mit Foto](https://twitter.com/IOTA_TCG/status/1634269281364979712?s=20) von den physischen IOTA Trading Cards
+52. **IOTA Dev**: Neuer [Pre-Release von inx chronicle v1.0.0-beta.36](https://github.com/iotaledger/inx-chronicle/releases/tag/v1.0.0-beta.36)
 
