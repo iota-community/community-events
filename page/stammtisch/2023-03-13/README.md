@@ -66,4 +66,6 @@
 64. **IOTA Patent**: von der ETO Gruppe: [Dezentrales Flotten-Steuerungssystem und dezentrales Flotten-Steuerungsverfahren](https://worldwide.espacenet.com/patent/search/family/083903440/publication/DE102021123194A1?q=DE102021123194A1)
 65. **IOTA Youtube**: ein Teaser von [swarm logistics](https://twitter.com/SwarmLogistics): [Swarm Logistics Teaser for the Startup Summit BW in Stuttgart 2022.](https://www.youtube.com/watch?v=c0QvVh4gC_E)
 66. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/270-wochenr%C3%BCckblick-vom-5-bis-11-m%C3%A4rz-2023/)
+67. **Allg. News**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1634949524300124166?s=20) über [Evidence of near-ambient superconductivity in a N-doped lutetium hydride](https://www.nature.com/articles/s41586-023-05742-0)
+68. 
 
