@@ -62,5 +62,8 @@
 60. **IOTA Artikel**: von Crypto Guru: [IOTA: ERSETZT DIE UMFASSENDE LOGIN WEB3-LÖSUNG SPÄTER MAL APPLE UND GOOGLE?](https://krypto-guru.de/news/iota-login-web3-loesung/)
 61. **IOTA Intern**: Wolfgang Welz verlässt die IF und geht zu Risk Zero. Das hat er [auf LinkedIn bekannt gegeben](https://www.linkedin.com/posts/wolfgang-welz_im-excited-to-share-that-after-more-than-activity-7037360308994105344-Zuri/)
 62. **IOTA 2.0**: Ein [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1634491880607035392?s=20) zeigt die Aussagen von Dom zu Mana und Layer 1 smart contracts
-63.  
+63. **IOTA Ökosystem**: LendeXe hat diese Woche einige Tutorials hochgeladen auf dem [LendeXe Youtube Channel](https://www.youtube.com/@lendexefinance3303)
+64. **IOTA Patent**: von der ETO Gruppe: [Dezentrales Flotten-Steuerungssystem und dezentrales Flotten-Steuerungsverfahren](https://worldwide.espacenet.com/patent/search/family/083903440/publication/DE102021123194A1?q=DE102021123194A1)
+65. **IOTA Youtube**: ein Teaser von [swarm logistics](https://twitter.com/SwarmLogistics): [Swarm Logistics Teaser for the Startup Summit BW in Stuttgart 2022.](https://www.youtube.com/watch?v=c0QvVh4gC_E)
+66. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/270-wochenr%C3%BCckblick-vom-5-bis-11-m%C3%A4rz-2023/)
 
