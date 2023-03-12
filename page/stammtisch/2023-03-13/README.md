@@ -49,9 +49,18 @@
 47. **IOTA Audio**: Am Freitag war ein AMA im ICCDAO: [Tweet](https://twitter.com/IOTAcontentDAO/status/1633784046911193088?s=20)
 48. **IOTA Artikel**: von Crypto News Flash: [IOTA liefert Login-Lösung mit selbstverwalteter Identität zum Einbinden von Benutzern in Web2- und Web3-Anwendungen](https://www.crypto-news-flash.com/de/iota-liefert-login-loesung-mit-selbstverwalteter-identitaet-zum-einbinden-von-benutzern-in-web2-und-web3-anwendungen/)
 49. **Fiat Drama**: Artikel: [Lehman Brothers 2.0 - US-Regierung übernimmt Silicon Valley Bank](https://www.btc-echo.de/schlagzeilen/silicon-valley-bank-usa-uebernehmen-kriselndes-geldhaus-160877/)
-50. **IOTA Artikel**: Dom Schiener war in der Titelstory vom Focus Magazin (6. Ausgabe); Hier der ganze Text: [Titelthema - Schein oder nicht Schein](https://m.focus.de/magazin/archiv/titelthema-schein-oder-nicht-schein_id_184898014.html)
+50. **IOTA Artikel**: Dom Schiener war in der Titelstory vom Focus Magazin (6. Ausgabe); Hier der ganze Text: [Titelthema - Schein oder nicht Schein](https://m.focus.de/magazin/archiv/titelthema-schein-oder-nicht-schein_id_184898014.html); Hier der Text im [Tweet mit Screenshots](https://twitter.com/Vrom14286662/status/1634596742422315009?s=20)
 51. **IOTA Ökosystem**: [Tweet mit Foto](https://twitter.com/IOTA_TCG/status/1634269281364979712?s=20) von den physischen IOTA Trading Cards
 52. **IOTA Dev**: Neuer [Pre-Release von inx chronicle v1.0.0-beta.36](https://github.com/iotaledger/inx-chronicle/releases/tag/v1.0.0-beta.36)
 53. **Crypto Stablecoin Drama**: Der [USDC Stablecoin](https://coinmarketcap.com/currencies/usd-coin/usdc/eur/) fällt auf 84 cents am Samstag weil sie 3,3 von 40 Milliarden auf der Silicon Valley Bank hatten: [Tweet von Circle](https://twitter.com/circle/status/1634391505988206592?s=20) dazu; Auch der [Stablecoin DAI](https://coinmarketcap.com/currencies/multi-collateral-dai/) ist betroffen, weil er teilweise mit USDC gepegged ist
 54. **IOTA Drama**: Hans Moog ist frustriert von dem FUD und reagiert mit [mehreren Tweets](https://twitter.com/hus_qy/status/1634319887467261952?s=20) auf die Kritik ein "Scammer" zu sein. Auf die Entschuldigung reagiert er nochmal mit einem [Tweet](https://twitter.com/hus_qy/status/1634335835280535552?s=20) "...We know exactly how important a functional prototype is to reignite confidence in the project and we are working as much as we physically can to make this happen ASAP."
+55. **IOTA NFT**: Die 2. Kollektion (insgesamt 4068 Stück) von Dark Mythos wurde in 1h ausverkauft: [Tweet](https://twitter.com/DarkMythosIOTA/status/1634902480298598400?s=20)
+56. **IOTA Youtube**: von IotaPoet: [How will Shimmer grow? With Austin (IOTA Foundation)](https://www.youtube.com/watch?v=GQg0HC3ht7M&t=234s)
+57. **IOTA Science**: Science Paper: [Enabling Secure Data Exchange through the IOTA Tangle for IoT Constrained Devices](https://www.mdpi.com/1424-8220/22/4/1384)
+58. **IOTA Ökosystem**: [TangleLabs tweetet](https://twitter.com/Tangle_Labs/status/1634826591816630278?s=20) über ihren [Identity Manager](https://www.npmjs.com/package/@tanglelabs/identity-manager) der schon 339x runter geladen wurde in der letzten Woche
+59. **IOTA Youtube**: von IOTA Community Governements: [09/03/23 IOTS/Shimmer Community Governance call](https://www.youtube.com/watch?v=4pyJS2q9bpk)
+60. **IOTA Artikel**: von Crypto Guru: [IOTA: ERSETZT DIE UMFASSENDE LOGIN WEB3-LÖSUNG SPÄTER MAL APPLE UND GOOGLE?](https://krypto-guru.de/news/iota-login-web3-loesung/)
+61. **IOTA Intern**: Wolfgang Welz verlässt die IF und geht zu Risk Zero. Das hat er [auf LinkedIn bekannt gegeben](https://www.linkedin.com/posts/wolfgang-welz_im-excited-to-share-that-after-more-than-activity-7037360308994105344-Zuri/)
+62. **IOTA 2.0**: Ein [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1634491880607035392?s=20) zeigt die Aussagen von Dom zu Mana und Layer 1 smart contracts
+63.  
 
