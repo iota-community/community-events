@@ -67,5 +67,7 @@
 65. **IOTA Youtube**: ein Teaser von [swarm logistics](https://twitter.com/SwarmLogistics): [Swarm Logistics Teaser for the Startup Summit BW in Stuttgart 2022.](https://www.youtube.com/watch?v=c0QvVh4gC_E)
 66. **IOTA Wochenrückblick**: IOTA Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/270-wochenr%C3%BCckblick-vom-5-bis-11-m%C3%A4rz-2023/)
 67. **Allg. News**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1634949524300124166?s=20) über [Evidence of near-ambient superconductivity in a N-doped lutetium hydride](https://www.nature.com/articles/s41586-023-05742-0)
-68. 
+68. **Crypto Drama**: Ripple ist wohl auch Opfer von SVB: [Tweet](https://twitter.com/WatcherGuru/status/1635030547335626752?s=20) "CEO confirms the company had an undisclosed amount of cash in Silicon Valley Bank $SIVB."
+69. **Crypto News**: [Binance verkündet](https://twitter.com/cz_binance/status/1635131601884700674?s=20), dass sie die übrig gebliebene Reserve von $1 Milliarde von dem "Industry Recovery Initiative fund" von BUSD in Crypto konvertieren wollen, vor allem BTC BNB und ETH
+70. **Allg. News**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1635108811844272129?s=20) über Zero Energie und schreibt, dass am Montag
 
