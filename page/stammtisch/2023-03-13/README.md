@@ -60,7 +60,7 @@
 58. **IOTA Ökosystem**: [TangleLabs tweetet](https://twitter.com/Tangle_Labs/status/1634826591816630278?s=20) über ihren [Identity Manager](https://www.npmjs.com/package/@tanglelabs/identity-manager) der schon 339x runter geladen wurde in der letzten Woche
 59. **IOTA Youtube**: von IOTA Community Governements: [09/03/23 IOTS/Shimmer Community Governance call](https://www.youtube.com/watch?v=4pyJS2q9bpk)
 60. **IOTA Artikel**: von Crypto Guru: [IOTA: ERSETZT DIE UMFASSENDE LOGIN WEB3-LÖSUNG SPÄTER MAL APPLE UND GOOGLE?](https://krypto-guru.de/news/iota-login-web3-loesung/)
-61. **IOTA Intern**: Wolfgang Welz verlässt die IF und geht zu [Risc Zero](https://twitter.com/RiscZero. Das hat er [auf LinkedIn bekannt gegeben](https://www.linkedin.com/posts/wolfgang-welz_im-excited-to-share-that-after-more-than-activity-7037360308994105344-Zuri/)
+61. **IOTA Intern**: Wolfgang Welz verlässt die IF und geht zu [Risc Zero](https://twitter.com/RiscZero). Das hat er [auf LinkedIn bekannt gegeben](https://www.linkedin.com/posts/wolfgang-welz_im-excited-to-share-that-after-more-than-activity-7037360308994105344-Zuri/)
 62. **IOTA 2.0**: Ein [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1634491880607035392?s=20) zeigt die Aussagen von Dom zu Mana und Layer 1 Smart Contracts
 63. **IOTA Ökosystem**: [LendeXe](https://twitter.com/LendeXeFinance) hat diese Woche einige Tutorials hochgeladen auf dem [LendeXe Youtube Channel](https://www.youtube.com/@lendexefinance3303)
 64. **IOTA Patent**: von der [ETO Gruppe](https://twitter.com/EtoGruppe): [Dezentrales Flotten-Steuerungssystem und dezentrales Flotten-Steuerungsverfahren](https://worldwide.espacenet.com/patent/search/family/083903440/publication/DE102021123194A1?q=DE102021123194A1)
