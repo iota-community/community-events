@@ -10,7 +10,9 @@
 8. **IOTA Ökosystem**: Der [Iota Content Creator DAO tweetet](https://twitter.com/IOTAcontentDAO/status/1635666391092142083?s=20) darüber, was sie alles anbieten, um Projekte aus dem IOTA Ökosystem zu unterstützen
 9. **IOTA 2.0 MVP**: Update zum IOTA2.0 MVP von id.iota [am Dienstag](https://twitter.com/id_iota/status/1635665965836021760?s=20)
 10. **IOTA Event**: Shimmer ist beim Web3Berlin Conference am 10-11- Juni dabei und [iotashops tweetet](https://twitter.com/iotashop/status/1635652508126179329?s=20) darüber, dass er evtl. ne Aftershow Party organisieren will...
-11. 
-
+11. **IOTA Ökosystem**: Multisig Wallet ist auf dem Weg... [Tweet von servrox solution](https://twitter.com/servrox/status/1635716018889687060?s=20)
+12. **IOTA Artikel**: [Tweet von Bitcoin-Meeting](https://twitter.com/Bitcoin_meeting/status/1635720390130507776?s=20) über den Artikel: [Wie Directed Acyclic Graphs (DAGs) das Problem des Forking lösen](https://steemit.com/iota/@uwe69/wie-directed-acyclic-graphs-dags-das-problem-des-forking-loesen)
+13. **Shimmer Firefly**: Am Dienstag kam nochmal ein Pre-Release: [Firefly Desktop 2.1.0 Beta 6](https://github.com/iotaledger/firefly/releases/tag/desktop-2.1.0-beta-6)
+14. 
 
 
