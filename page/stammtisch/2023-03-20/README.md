@@ -21,5 +21,8 @@
 19. **IOTA 2.0**: [Iotapenguin tweetet](https://twitter.com/iota_penguin/status/1636002789380747264?s=20) eine Zusammenfassung von der Präsentation: "robustness of the IOTA 2.0 consensus mechanism" 
 20. **IOTA Youtube**: von Mind Crypto: [IOTA EXPANSION IS ON ANOTHER LEVEL - NOT FINANCIAL ADVICE.](https://www.youtube.com/watch?v=ZXIDWcRYqRI)
 21. **IOTA Adaption**: Neues von INATBA: [Tweet von Mariana de la Roche](https://twitter.com/Marianadlrw/status/1636037070446624770?s=20)
+22. **IOTA Audio**: [Niall Murphy tweetet](https://twitter.com/nialltweet/status/1636063150813466628?s=20) den Podcast: [Living in the future with Dom Schiener](https://open.spotify.com/episode/6e7AOOof5K7gPVw7z2yLlU)
+23. **IOTA Research Update**: [Protocol group - Week 11](https://github.com/iotaledger/research-updates/discussions/71)
+24. **IOTA Patent**: [Wonderer tweetet](https://twitter.com/Wondere12985276/status/1636090732715954176?s=20) über ein neues Patent das IOTA erwähnt
 
 
