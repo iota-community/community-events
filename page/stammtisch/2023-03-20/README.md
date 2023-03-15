@@ -15,6 +15,5 @@
 13. **Shimmer Firefly**: Am Dienstag kam nochmal ein Pre-Release: [Firefly Desktop 2.1.0 Beta 6](https://github.com/iotaledger/firefly/releases/tag/desktop-2.1.0-beta-6)
 14. **IOTA Ökosystem Promote**: Neuer One-Pager zum Soon Staking im [Tweet von Infiota](https://twitter.com/infiota/status/1635726649911136258?s=20) 
 15. **IOTA Ökosystem**: [Audit One tweetet](https://twitter.com/auditone_team/status/1611288027539673092?s=20) eine 6 Punkte Roadmap und ist jetzt auch eine [Crew3-Community](https://crew3.xyz/c/auditone/invite/iyknuS0RJo9pX7iroP0CW)
-16. 
 
 
