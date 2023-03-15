@@ -5,7 +5,7 @@
 3. **IOTA Exchanges**: [Coin DCX tweetet](https://twitter.com/CoinDCX/status/1635271724160913409?s=20), dass sie IOTA auf der indischen Börse [CoinDCX](https://coindcx.com/) listen
 4. **IOTA DeFi Learn**: [IOTA Penguin tweetet](https://twitter.com/iota_penguin/status/1635627310119256065?s=20) über Tokenomics für die IOTA und Shimmer Community
 5. **Crypto Pump**: Bitcoin steigt am Montag und Dienstag jeweils um +15% 
-6. **IOTA Youtube**: von Mind Crypto: [IOTA 2.0 IS ON THE HORIZON❗💥 👀 Not Financial Advice](https://www.youtube.com/watch?v=_8FdB_2Zk14)
+6. **IOTA Youtube**: von Mind Crypto: [IOTA 2.0 IS ON THE HORIZON - Not Financial Advice](https://www.youtube.com/watch?v=_8FdB_2Zk14)
 7. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1635641940518551553?s=20) über den Artikel: [How Directed Acyclic Graphs (DAGs) Solve the Problem of Forking](https://beincrypto.com/learn/directed-acyclic-graphs/)
 8. **IOTA Ökosystem**: Der [Iota Content Creator DAO tweetet](https://twitter.com/IOTAcontentDAO/status/1635666391092142083?s=20) darüber, was sie alles anbieten, um Projekte aus dem IOTA Ökosystem zu unterstützen
 9. **IOTA 2.0 MVP**: Update zum IOTA2.0 MVP von id.iota [am Dienstag](https://twitter.com/id_iota/status/1635665965836021760?s=20)
@@ -18,5 +18,7 @@
 16. **Allgem. News**: ChatGPT4 wurde veröffentlicht: [OpenAI Reveals GPT-4 Demo (Watch It Here)](https://www.youtube.com/watch?v=hdhZwyf24mE)
 17. **Allgem. News**: Credit Swuisse Bank -20%: [Aktienabsturz! Großbank Credit Suisse gerät unter Druck](https://www.blocktrainer.de/credit-suisse-unter-druck/?twitter)
 18. **Shimmer Firefly**: Die Shimmer Nodes sollen bereits die Governements Voting Events einfügen: [Tweet](https://twitter.com/Vrom14286662/status/1635917323633676288?s=20)
+19. **IOTA 2.0**: [Iotapenguin tweetet](https://twitter.com/iota_penguin/status/1636002789380747264?s=20) eine Zusammenfassung von der Präsentation: "robustness of the IOTA 2.0 consensus mechanism" 
+20. **IOTA Youtube**: von Mind Crypto: [IOTA EXPANSION IS ON ANOTHER LEVEL - NOT FINANCIAL ADVICE.](https://www.youtube.com/watch?v=ZXIDWcRYqRI)
 
 
