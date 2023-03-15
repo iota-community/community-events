@@ -20,5 +20,6 @@
 18. **Shimmer Firefly**: Die Shimmer Nodes sollen bereits die Governements Voting Events einfügen: [Tweet](https://twitter.com/Vrom14286662/status/1635917323633676288?s=20)
 19. **IOTA 2.0**: [Iotapenguin tweetet](https://twitter.com/iota_penguin/status/1636002789380747264?s=20) eine Zusammenfassung von der Präsentation: "robustness of the IOTA 2.0 consensus mechanism" 
 20. **IOTA Youtube**: von Mind Crypto: [IOTA EXPANSION IS ON ANOTHER LEVEL - NOT FINANCIAL ADVICE.](https://www.youtube.com/watch?v=ZXIDWcRYqRI)
+21. **IOTA Adaption**: Neues von INATBA: [Tweet von Mariana de la Roche](https://twitter.com/Marianadlrw/status/1636037070446624770?s=20)
 
 
