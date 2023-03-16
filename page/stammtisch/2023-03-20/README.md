@@ -28,5 +28,8 @@
 26. **Crypto News**: Artikel: [Fed to Launch Instant Payments System ‘FedNow’ in July](https://watcher.guru/news/fed-to-launch-instant-payments-system-fednow-in-july)
 27. **Allg. News**: Midjourney V5 wurde released
 28. **IOTA Audio**: Neuer Moonaco Podcast mit TangleSwap: [Tweet](https://twitter.com/MoonacoPodcast/status/1636325342360076289?s=20); [Spotify](https://open.spotify.com/episode/5GKFMN3UmmyiWt4GXakXZB?si=54HzG-jsROezZkVO6CG7Ow&nd=1&_branch_match_id=831471740586149876&utm_medium=sharing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq9TLyczL1i8vKc9J8wnJSKlMAgDxAq8fIAAAAA%3D%3D)
+29. **Shimmer Firefly Release!!!**: [Frefly tweetet](https://twitter.com/fireflywallet/status/1636340376028995584?s=20) über den Release von [Firefly Desktop 2.1.0](https://github.com/iotaledger/firefly/releases/tag/desktop-2.1.0)
+30. **Shimmer EVM Update**: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1636343953707376645?s=20) zu dem Update von [Dave](https://twitter.com/fijter) zur Shimmer EVM Entwicklung
+31. 
 
 
