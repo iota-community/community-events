@@ -38,7 +38,7 @@
 36. **IOTA Artikel**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1636683803786706944?s=20) über den Guest Post auf CoinmarketCap: [Beginner's Guide to Crypto Wallets: Part 4](https://coinmarketcap.com/community/articles/63f88bf22a4c367cc50e8ed4/)
 37. **Crypto Pump**: Am Freitag steigt Bitcoin nochmal um 8% auf über $27K
 38. **IOTA Youtube**: von IOTA Community Governements: [16/03/23 IOTA/Shimmer Community Governance meeting](https://www.youtube.com/watch?v=uGZTDPYVN54)
-39. 
+39. **IOTA Youtube**: [Soonaverse Tutorial](https://www.youtube.com/watch?v=kBeeJo0QwyM)
 40. 
 
 
