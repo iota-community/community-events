@@ -33,6 +33,7 @@
 31. **Shimmer Governements Voting**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1636351621159587840?s=20), dass ab jetzt auch gevotet werden kann/sollte und dann [nochmal](https://twitter.com/shimmernet/status/1636351636913135618?s=20), dass die Nodes das Voting Event in ihrem Dashboard als Plugin hinzufügen können um mitzuzählen
 32. **IOTA Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1636453142442442752?s=20) über ein neues Feature im Soonaverse, dass es ermöglicht Token oder NFTs zu verteilen basierend auf absolvierten CREW3 Quests
 33. **Ki News**: Microsoft enabled Copilot in Word, Excel, Powerpoint, ...  Blogpost: [Introducing Microsoft 365 Copilot – your copilot for work](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
+34. **Digitale Identität**: Artikel: [Parlament stimmt für EU-weite Wallet](https://www.btc-echo.de/schlagzeilen/digitale-identitaeten-parlament-stimmt-fuer-eu-weite-wallet-161146/)
 
 
 
