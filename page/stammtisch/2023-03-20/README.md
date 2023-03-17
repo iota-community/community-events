@@ -26,11 +26,14 @@
 24. **IOTA Patent**: [Wonderer tweetet](https://twitter.com/Wondere12985276/status/1636090732715954176?s=20) über ein neues Patent das IOTA erwähnt
 25. **Crypto Adaption**: Artikel: [Fidelity Crypto quietly went live, giving millions of retail customers access to bitcoin, ether](https://www.theblock.co/post/220298/fidelity-crypto-quietly-went-live-giving-millions-of-retail-customers-access-to-bitcoin-ether)
 26. **Crypto News**: Artikel: [Fed to Launch Instant Payments System ‘FedNow’ in July](https://watcher.guru/news/fed-to-launch-instant-payments-system-fednow-in-july)
-27. **Allg. News**: Midjourney V5 wurde released
+27. **Ki News**: Midjourney V5 wurde released: [Recent Showcases](https://www.midjourney.com/showcase/recent/)
 28. **IOTA Audio**: Neuer Moonaco Podcast mit TangleSwap: [Tweet](https://twitter.com/MoonacoPodcast/status/1636325342360076289?s=20); [Spotify](https://open.spotify.com/episode/5GKFMN3UmmyiWt4GXakXZB?si=54HzG-jsROezZkVO6CG7Ow&nd=1&_branch_match_id=831471740586149876&utm_medium=sharing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq9TLyczL1i8vKc9J8wnJSKlMAgDxAq8fIAAAAA%3D%3D)
 29. **Shimmer Firefly Release!!!**: [Frefly tweetet](https://twitter.com/fireflywallet/status/1636340376028995584?s=20) über den Release von [Firefly Desktop 2.1.0](https://github.com/iotaledger/firefly/releases/tag/desktop-2.1.0)
 30. **Shimmer EVM Update**: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1636343953707376645?s=20) zu dem Update von [Dave](https://twitter.com/fijter) zur Shimmer EVM Entwicklung
 31. **Shimmer Governements Voting**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1636351621159587840?s=20), dass ab jetzt auch gevotet werden kann/sollte und dann [nochmal](https://twitter.com/shimmernet/status/1636351636913135618?s=20), dass die Nodes das Voting Event in ihrem Dashboard als Plugin hinzufügen können um mitzuzählen
+32. **IOTA Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1636453142442442752?s=20) über ein neues Feature im Soonaverse, dass es ermöglicht Token oder NFTs zu verteilen basierend auf absolvierten CREW3 Quests
+33. **Ki News**: Microsoft enabled Copilot in Word, Excel, Powerpoint, ...  Blogpost: [Introducing Microsoft 365 Copilot – your copilot for work](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
+
 
 
 
