@@ -33,15 +33,15 @@
 31. **Shimmer Governements Voting**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1636351621159587840?s=20), dass ab jetzt auch gevotet werden kann/sollte und dann [nochmal](https://twitter.com/shimmernet/status/1636351636913135618?s=20), dass die Nodes das Voting Event in ihrem Dashboard als Plugin hinzufügen können um mitzuzählen
 32. **IOTA Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1636453142442442752?s=20) über ein neues Feature im Soonaverse, dass es ermöglicht Token oder NFTs zu verteilen basierend auf absolvierten CREW3 Quests
 33. **Ki News**: Microsoft enabled Copilot in Word, Excel, Powerpoint, ...  Blogpost: [Introducing Microsoft 365 Copilot – your copilot for work](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
-34. **Digitale Identität**: Artikel: [Parlament stimmt für EU-weite Wallet](https://www.btc-echo.de/schlagzeilen/digitale-identitaeten-parlament-stimmt-fuer-eu-weite-wallet-161146/); Interessant auch, dass [TangleLabs darüber tweetet](https://twitter.com/Tangle_Labs/status/1636697617286455296?s=20) mit den Worten: "With the Vira Identity Wallet built to be 100% eIDAS 2.0 compliant & our upcoming EU based UNESCO pilots, we're very excited about this"
-35. **IOTA Artikel**: von ETH News: [https://www.ethnews.com/iota-2-0s-robust-voting-mechanism-enhances-blockchain-performance-report/](https://www.ethnews.com/iota-2-0s-robust-voting-mechanism-enhances-blockchain-performance-report/)
+34. **Digitale Identität**: Artikel: [Parlament stimmt für EU-weite Wallet](https://www.btc-echo.de/schlagzeilen/digitale-identitaeten-parlament-stimmt-fuer-eu-weite-wallet-161146/); Interessant auch, dass [TangleLabs darüber tweetet](https://twitter.com/Tangle_Labs/status/1636697617286455296?s=20) mit den Worten: "With the Vira Identity Wallet built to be 100% eIDAS 2.0 compliant & our upcoming EU based UNESCO pilots, we're very excited about this"; Hier noch ein [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1636986275717607424?s=20) von einem TangleLabs Announcement mit "April is going to be very exciting.."
+35. 35. **IOTA Artikel**: von ETH News: [https://www.ethnews.com/iota-2-0s-robust-voting-mechanism-enhances-blockchain-performance-report/](https://www.ethnews.com/iota-2-0s-robust-voting-mechanism-enhances-blockchain-performance-report/)
 36. **IOTA Artikel**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1636683803786706944?s=20) über den Guest Post auf CoinmarketCap: [Beginner's Guide to Crypto Wallets: Part 4](https://coinmarketcap.com/community/articles/63f88bf22a4c367cc50e8ed4/)
 37. **Crypto Pump**: Am Freitag steigt Bitcoin nochmal um 8% auf über $27K
 38. **IOTA Youtube**: von IOTA Community Governements: [16/03/23 IOTA/Shimmer Community Governance meeting](https://www.youtube.com/watch?v=uGZTDPYVN54)
 39. **IOTA Youtube**: [Soonaverse Tutorial](https://www.youtube.com/watch?v=kBeeJo0QwyM)
 40. **Allg. News**: Artikel: [Internationaler Strafgerichtshof erlässt Haftbefehl gegen russischen Präsidenten Putin](https://www.welt.de/politik/ausland/article244350971/Haftbefehl-gegen-Putin-Internationaler-Strafgerichtshof-ermittelt-wegen-Ukraine-Krieg.html)
 41. **IOTA Youtube**: von Probably Nothing: [Mana Monetarisierung und die vorbereitung die Kryptowelt zu übernehmen - IOTA & Shimmer News](https://www.youtube.com/watch?v=fLtRdCnj1Sk)
-42. 
+42. **Crypto News**: Arbitrum Airdrop Artikel: [Arbitrum to Airdrop New Token and Transition to DAO](https://www.coindesk.com/tech/2023/03/16/arbitrum-to-airdrop-new-token-and-transition-to-dao/)
 
 
 
