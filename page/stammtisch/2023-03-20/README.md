@@ -42,6 +42,8 @@
 40. **Allg. News**: Artikel: [Internationaler Strafgerichtshof erlässt Haftbefehl gegen russischen Präsidenten Putin](https://www.welt.de/politik/ausland/article244350971/Haftbefehl-gegen-Putin-Internationaler-Strafgerichtshof-ermittelt-wegen-Ukraine-Krieg.html)
 41. **IOTA Youtube**: von Probably Nothing: [Mana Monetarisierung und die vorbereitung die Kryptowelt zu übernehmen - IOTA & Shimmer News](https://www.youtube.com/watch?v=fLtRdCnj1Sk)
 42. **Crypto News**: Arbitrum Airdrop Artikel: [Arbitrum to Airdrop New Token and Transition to DAO](https://www.coindesk.com/tech/2023/03/16/arbitrum-to-airdrop-new-token-and-transition-to-dao/)
+43. **IOTA Youtube**: von Crypto Solana: [Stake IOTA for Assembly in the Firefly Wallet](https://www.youtube.com/watch?v=zI9V_71Ohjc)
+44. 
 
 
 
