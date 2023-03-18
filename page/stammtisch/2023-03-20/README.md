@@ -8,7 +8,7 @@
 6. **IOTA Youtube**: von Mind Crypto: [IOTA 2.0 IS ON THE HORIZON - Not Financial Advice](https://www.youtube.com/watch?v=_8FdB_2Zk14)
 7. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1635641940518551553?s=20) über den Artikel: [How Directed Acyclic Graphs (DAGs) Solve the Problem of Forking](https://beincrypto.com/learn/directed-acyclic-graphs/)
 8. **IOTA Ökosystem**: Der [Iota Content Creator DAO tweetet](https://twitter.com/IOTAcontentDAO/status/1635666391092142083?s=20) darüber, was sie alles anbieten, um Projekte aus dem IOTA Ökosystem zu unterstützen
-9. **IOTA 2.0 MVP**: Update zum IOTA2.0 MVP von id.iota [am Dienstag](https://twitter.com/id_iota/status/1635665965836021760?s=20), [am Donnerstag](https://twitter.com/id_iota/status/1636406722209390592?s=20) und [am Freitag](https://twitter.com/id_iota/status/1636795087937224704?s=20)
+9. **IOTA 2.0 MVP**: Update zum IOTA2.0 MVP von id.iota [am Dienstag](https://twitter.com/id_iota/status/1635665965836021760?s=20), [am Donnerstag](https://twitter.com/id_iota/status/1636406722209390592?s=20) und [am Freitag](https://twitter.com/id_iota/status/1636795087937224704?s=20) und [am Samstag](https://twitter.com/id_iota/status/1637072805178273793?s=20)
 10. **IOTA Event**: Shimmer ist beim Web3Berlin Conference am 10-11- Juni dabei und [iotashops tweetet](https://twitter.com/iotashop/status/1635652508126179329?s=20) darüber, dass er evtl. ne Aftershow Party organisieren will...
 11. **IOTA Ökosystem**: Multisig Wallet ist auf dem Weg... [Tweet von servrox solution](https://twitter.com/servrox/status/1635716018889687060?s=20) und [Marcel Mayer](https://twitter.com/servrox1337), der Web3 Topic Lead at [@porschedigital](https://twitter.com/Porschedigital) und CEO von Serverox, [freut sich darüber](https://twitter.com/servrox1337/status/1635719888000909318?s=20); [Tweet](https://twitter.com/servrox/status/1635717041368727588?s=20) mit "public testing asap"
 12. **IOTA Artikel**: [Tweet von Bitcoin-Meeting](https://twitter.com/Bitcoin_meeting/status/1635720390130507776?s=20) über den Artikel: [Wie Directed Acyclic Graphs (DAGs) das Problem des Forking lösen](https://steemit.com/iota/@uwe69/wie-directed-acyclic-graphs-dags-das-problem-des-forking-loesen)
@@ -43,7 +43,8 @@
 41. **IOTA Youtube**: von Probably Nothing: [Mana Monetarisierung und die vorbereitung die Kryptowelt zu übernehmen - IOTA & Shimmer News](https://www.youtube.com/watch?v=fLtRdCnj1Sk)
 42. **Crypto News**: Arbitrum Airdrop Artikel: [Arbitrum to Airdrop New Token and Transition to DAO](https://www.coindesk.com/tech/2023/03/16/arbitrum-to-airdrop-new-token-and-transition-to-dao/)
 43. **IOTA Youtube**: von Crypto Solana: [Stake IOTA for Assembly in the Firefly Wallet](https://www.youtube.com/watch?v=zI9V_71Ohjc)
-44. 
+44. **IOTA Drama**: [Doms Tweet](https://twitter.com/DomSchiener/status/1637024771429761024?s=20) über "Glück" verunsichert die Community wie man in den Kommentaren sieht, auch beim [Tweet von vrom](https://twitter.com/Vrom14286662/status/1637124377165676549?s=20) 
+45. **Crypto News**: Scheinbar will Microsoft beim Edge Browser ein Wallet integrieren: [Tweet](https://twitter.com/WatcherGuru/status/1637053952632971265?s=20)
 
 
 
