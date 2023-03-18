@@ -39,7 +39,9 @@
 37. **Crypto Pump**: Am Freitag steigt Bitcoin nochmal um 8% auf über $27K
 38. **IOTA Youtube**: von IOTA Community Governements: [16/03/23 IOTA/Shimmer Community Governance meeting](https://www.youtube.com/watch?v=uGZTDPYVN54)
 39. **IOTA Youtube**: [Soonaverse Tutorial](https://www.youtube.com/watch?v=kBeeJo0QwyM)
-40. 
+40. **Allg. News**: Artikel: [Internationaler Strafgerichtshof erlässt Haftbefehl gegen russischen Präsidenten Putin](https://www.welt.de/politik/ausland/article244350971/Haftbefehl-gegen-Putin-Internationaler-Strafgerichtshof-ermittelt-wegen-Ukraine-Krieg.html)
+41. **IOTA Youtube**: von Probably Nothing: [Mana Monetarisierung und die vorbereitung die Kryptowelt zu übernehmen - IOTA & Shimmer News](https://www.youtube.com/watch?v=fLtRdCnj1Sk)
+42. 
 
 
 
