@@ -47,8 +47,9 @@
 45. **Crypto News**: Scheinbar will Microsoft beim Edge Browser ein Wallet integrieren: [Tweet](https://twitter.com/WatcherGuru/status/1637053952632971265?s=20)
 46. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/272-wochenr%C3%BCckblick-vom-12-bis-18-m%C3%A4rz-2023/)
 47. **IOTA Artikel**: von Crypto News Flash: [IOTA: Shimmer Firefly-Wallet erhält bedeutende Funktionserweiterungen](https://www.crypto-news-flash.com/de/iota-shimmer-firefly-wallet-erhaelt-bedeutende-funktionserweiterungen/?feed_id=13931&_unique_id=6416eabb08060)
-48. **IOTA Ökosystem**: Neue Partnerschaft zwischen Bivreost und TangleSwap: [Tweet von Bivreost](https://twitter.com/bivreost); [Tweet von TangleSwap](https://twitter.com/TangleSwapE)
+48. **IOTA Ökosystem**: Neue Partnerschaft zwischen Bivreost und TangleSwap: [Tweet von Bivreost](https://twitter.com/bivreost); [Tweet von TangleSwap](https://twitter.com/TangleSwapE); Es gibt auch schon ein [Tutorial von Tangle Collectibles](https://www.iotatradingcards.com/tutorials/bivreost-the-telegram-wallet)
 49. **IOTA Ökosystem**: Das Telegramm Wallet von [Bivreost](https://twitter.com/bivreost) für SMR und IOTA wiurde released: [Tweet](https://twitter.com/bivreost/status/1637505395529850883?s=20)
+50. **IOTA Tutorial**: [Tangle Collectibles tweetet](https://twitter.com/IOTA_TCG/status/1637127089466867713?s=20) über ein Tutorial [How to Soonaverse with TanglePay Mobile](https://www.iotatradingcards.com/tutorials/soonaverse-with-tanglepay)
 
 
 
