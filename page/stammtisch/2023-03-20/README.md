@@ -45,6 +45,10 @@
 43. **IOTA Youtube**: von Crypto Solana: [Stake IOTA for Assembly in the Firefly Wallet](https://www.youtube.com/watch?v=zI9V_71Ohjc)
 44. **IOTA Drama**: [Doms Tweet](https://twitter.com/DomSchiener/status/1637024771429761024?s=20) über "Glück" verunsichert die Community wie man in den Kommentaren sieht, auch beim [Tweet von vrom](https://twitter.com/Vrom14286662/status/1637124377165676549?s=20) 
 45. **Crypto News**: Scheinbar will Microsoft beim Edge Browser ein Wallet integrieren: [Tweet](https://twitter.com/WatcherGuru/status/1637053952632971265?s=20)
+46. **IOTA Wochenrückblick**: IOTA Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/272-wochenr%C3%BCckblick-vom-12-bis-18-m%C3%A4rz-2023/)
+47. **IOTA Artikel**: von Crypto News Flash: [IOTA: Shimmer Firefly-Wallet erhält bedeutende Funktionserweiterungen](https://www.crypto-news-flash.com/de/iota-shimmer-firefly-wallet-erhaelt-bedeutende-funktionserweiterungen/?feed_id=13931&_unique_id=6416eabb08060)
+
+
 
 
 
