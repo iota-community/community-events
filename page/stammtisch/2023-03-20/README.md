@@ -56,6 +56,7 @@
 54. **IOTA Ökosystem**: Die [IOTA Foundation tweetet](https://twitter.com/iota/status/1637816280144138241?s=20) über ihr erstes Spin Off und verlinkt den Blockpost: [SPYCE.5 to Accelerate Enterprise Adoption - Launch of First IOTA Foundation Spin-Off Entity](https://blog.iota.org/welcome-spyce-5/); Hier der [Tweet von Spyce.5](https://twitter.com/SPYCE_5/status/1637818939286732809?s=20) dazu
 55. **IOTA Dev**: Es gibt ein neues Pre-Release von wasp: [v0.5.1-alpha.2](https://github.com/iotaledger/wasp/releases) und kurz später ein [v0.5.1-alpha.3](https://github.com/iotaledger/wasp/releases)
 56. **IOTA Chart**: Der BTC/IOTA Chart ist aktuell beim ATL: [Tweet](https://twitter.com/Vrom14286662/status/1637836429253279744?s=20)
+57. **IOTA Hopium**: Ein [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1637876526426324993?s=20) mit Aussagen von Dom zur Shimmer EVM macht Hoffnung
 
 
 
