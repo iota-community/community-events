@@ -53,7 +53,7 @@
 51. **IOTA Adaption**: [Christoph Strnadl tweetet](https://twitter.com/archimate/status/1637584933039271937?s=20) darüber, dass die [Software AG](https://twitter.com/SoftwareAG) in 2 Projekten (#iECO — Construction business; #GaiaX4AMS — Advanced mobility services) IOTA verwendet
 52. **IOTA Governements Voting**: Am Donnerstag beginnt die Voting Periode!!! Hier nochmal der IF-Blogpost dazu: [Shimmer Governance: Time to Vote](https://blog.shimmer.network/vote-governance-proposals/)
 53. **Fiat Drama**: Heute am Montag gibt es ein großes Banken-Treffen. Die Europäische Zentralbank schreibt dazu eine Presse Mitteilung: [Coordinated central bank action to enhance the provision of US dollar liquidity](https://www.ecb.europa.eu/press/pr/date/2023/html/ecb.pr230319_1~8d62af24ac.de.html)
-54. **IOTA Ökosystem**: Die [IOTA Foundation tweetet](https://twitter.com/iota/status/1637816280144138241?s=20) über ihr erstes Spin Off und verlinkt den Blockpost: [SPYCE.5 to Accelerate Enterprise Adoption - Launch of First IOTA Foundation Spin-Off Entity](https://blog.iota.org/welcome-spyce-5/)
+54. **IOTA Ökosystem**: Die [IOTA Foundation tweetet](https://twitter.com/iota/status/1637816280144138241?s=20) über ihr erstes Spin Off und verlinkt den Blockpost: [SPYCE.5 to Accelerate Enterprise Adoption - Launch of First IOTA Foundation Spin-Off Entity](https://blog.iota.org/welcome-spyce-5/); Hier der [Tweet von Spyce.5](https://twitter.com/SPYCE_5/status/1637818939286732809?s=20) dazu
 
 
 
