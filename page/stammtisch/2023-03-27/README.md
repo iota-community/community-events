@@ -18,4 +18,5 @@
 16. **IOTA Youtube**: von STVNOfficial: [IOTA mit Shimmer-Netzwerk #bullish #dyor](https://www.youtube.com/watch?app=desktop&v=9bxTkiVfZGY)
 17. **IOTA Dev**: Neuer inx-chronicle pre-release: [v1.0.0-beta.37](https://github.com/iotaledger/inx-chronicle/releases/tag/v1.0.0-beta.37)
 18. **Allg. News**: Fake News, mit Ki Bildern die die Verhaftung von Donald Trump zeigen machen die Runde: [Tweet](https://twitter.com/LilMoonLambo/status/1638204868430053377?s=20)
+19. **IOTA Artikel**: IOTA in der Wiwo: [IOTA: Vorteile durch Smart Devices?](https://www.wiwo.de/finanzen/geldanlage/iota-miota-im-ueberblick-iota-vorteile-durch-smart-devices/28922438.html)
 
