@@ -7,4 +7,6 @@
 5. **IOTA Youtube**: von Mind Crypto: [IOTA EXPANSION IS ON ANOTHER LEVEL - NOT FINANCIAL ADVICE](https://www.youtube.com/watch?v=ZXIDWcRYqRI&t=51s)
 6. **IOTA 2.0 MVP**: [id.Iota](https://twitter.com/id_iota) hat uns wieder versorgt mit seiner Zusammefassung der GitHub Aktivitäten [am Dienstag](https://twitter.com/id_iota/status/1638088075502047233?s=20)
 7. **IOTA Ökosystem**: [Daniel Trauth tweetet](https://twitter.com/DanielTrauth/status/1637844300334497796?s=20) über NFTs auf Ethereum mit Freibiergarantie?!?
+8. **Shimmer Promote**: [Issausus tweetet](https://twitter.com/Issaus2020/status/1638179406752645121?s=20) über einen neuen One-Pager zum Thema Multi-Asset-Ledger
+9. **IOTA Youtube**: [Bebo Sendo tweetet](https://twitter.com/Bboy_Sendo/status/1638140892744671233?s=20) über sein [Soonaverse Tutorial](https://www.youtube.com/watch?v=jL7oY-yHNMY&t=3s)
 
