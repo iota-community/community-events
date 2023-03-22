@@ -18,5 +18,10 @@
 16. **IOTA Youtube**: von STVNOfficial: [IOTA mit Shimmer-Netzwerk #bullish #dyor](https://www.youtube.com/watch?app=desktop&v=9bxTkiVfZGY)
 17. **IOTA Dev**: Neuer inx-chronicle pre-release: [v1.0.0-beta.37](https://github.com/iotaledger/inx-chronicle/releases/tag/v1.0.0-beta.37)
 18. **Allg. News**: Fake News, mit Ki Bildern die die Verhaftung von Donald Trump zeigen machen die Runde: [Tweet](https://twitter.com/LilMoonLambo/status/1638204868430053377?s=20)
-19. **IOTA Artikel**: IOTA in der Wiwo: [IOTA: Vorteile durch Smart Devices?](https://www.wiwo.de/finanzen/geldanlage/iota-miota-im-ueberblick-iota-vorteile-durch-smart-devices/28922438.html)
+19. **IOTA Artikel**: IOTA in der WiWo: [IOTA: Vorteile durch Smart Devices?](https://www.wiwo.de/finanzen/geldanlage/iota-miota-im-ueberblick-iota-vorteile-durch-smart-devices/28922438.html)
+20. **Ki News**: Trump Fake Bilder von der Verhaftung machen die Runde
+21. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1638435264912584707?s=20) ein Video über ihr Wallet und [verkündenn](https://twitter.com/bivreost/status/1638473443048935425?s=20), dass sie ihren Code von Auditone auditieren lassen und auch open source zur Verfügung stellen
+22. **Allgemeine News**: 3 Tage China und Putin treffen: [Tweet](https://twitter.com/WatcherGuru/status/1638349879171792896?s=20) darüber, dass sie nicht mehr mit Dollar traden wollen
+23. **IOTA Foundation**: die [IF tweetet](https://twitter.com/iota/status/1638495742468784130?s=20) über ein [Open Letter for the preservation of the Electronic Ledger’s provisions in eIDAS 2](https://inatba.org/news/savesection11-eidas2-trusted-electronic-ledgers-open-letter/) den alle Unterzeichnen sollen
+
 
