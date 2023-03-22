@@ -25,6 +25,10 @@
 23. **IOTA Foundation**: Die [IF tweetet](https://twitter.com/iota/status/1638495742468784130?s=20) über ein [Open Letter for the preservation of the Electronic Ledger’s provisions in eIDAS 2](https://inatba.org/news/savesection11-eidas2-trusted-electronic-ledgers-open-letter/) den alle Unterzeichnen sollen
 24. **IOTA Adaption**: Die [IF tweetet](https://twitter.com/iota/status/1638284348829908993?s=20) über [P-IOTA: A Cloud-Based Geographically Distributed Threat Alert System That Leverages P4 and IOTA](https://www.mdpi.com/1424-8220/23/6/2955)
 25. **Shimmer Voting**: Letzer [Aufruf von Shimmer](https://twitter.com/shimmernet/status/1638541047293702146?s=20) zum Governements Voting: [Governance Voting in Shimmer Explained](https://blog.shimmer.network/governance-voting-shimmer/)
-26. 
+26. **IOTA Governements**: [DeepSea tweetet](https://twitter.com/Deep_Sea_Iotan/status/1638550007954526209?s=20) über [TangleTreasury.org](https://www.tangletreasury.org/)
+27. **IOTA Ökosystem**: cheaqs und walt.id Partnerschaft: [Tweet](https://twitter.com/cheqd_io/status/1638206109046456320?s=20)
+28. **Ki News**: Microsoft integriert chatGPT3 in GitHUb als Copilot X: [Tweet](https://twitter.com/AlphaSignalAI/status/1638571132474511361?s=20)
+29. **IOTA Dev**: Update [Protocol group - Week 12 #72](https://github.com/iotaledger/research-updates/discussions/72)
+30. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1638556143713677312?s=20) über den EU Artikel: [Tokenization of Assets and Blockchain](https://www.eublockchainforum.eu/research-paper/tokenization-assets-and-blockchain)
 
 
