@@ -40,5 +40,8 @@
 38. **Crypto Drama**: Artikel: [BREAKING: Do Kwon Reportedly Arrested in Montenegro](https://coinmarketcap.com/alexandria/article/breaking:-do-kwon-reportedly-arrested-in-montenegro)
 39. **IOTA Dev**: wasp pre-release: [v0.6.0-alpha.2](https://github.com/iotaledger/wasp/releases)
 40. **IOTA Youtube**: [23/02/23 IOTA/Shimmer Community Governance Call - How to vote with Firefly](https://www.youtube.com/watch?v=oXlLdfgq1Js)
+41. **IOTA Patent**: [Tweet](https://twitter.com/Wondere12985276/status/1639013353279434759?s=20)
+42. **IOTA Youtube**: mit Marianna de la Roche: [Enterprise Blockchain for a Sustainable Future](https://www.youtube.com/watch?v=yX4-eUxbmJ8)
+43. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1639009123764404224?s=20) über den Blogpost: [IOTA 2.0’s Robust Voting Mechanism Enhances Blockchain Performance – Report](https://www.ethnews.com/iota-2-0s-robust-voting-mechanism-enhances-blockchain-performance-report/)
 
 
