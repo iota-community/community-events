@@ -38,5 +38,6 @@
 36. **Crypto News**: Am Donnerstag war der Arbitrum Airdrop
 37. **IOTA Audio**: [Moonaco Podcast tweetet](https://twitter.com/MoonacoPodcast/status/1638864015391637506?s=20) über den Podcast mit [Revest Finance](https://twitter.com/RevestFinance): [Spotify Link](https://open.spotify.com/episode/0TlwVWoJw0nMfyooHMU5YI?si=MwQ81fT9R-eidt9LYztXNA)
 38. **Crypto Drama**: Artikel: [BREAKING: Do Kwon Reportedly Arrested in Montenegro](https://coinmarketcap.com/alexandria/article/breaking:-do-kwon-reportedly-arrested-in-montenegro)
+39. **IOTA Dev**: wasp pre-release: [v0.6.0-alpha.2](https://github.com/iotaledger/wasp/releases)
 
 
