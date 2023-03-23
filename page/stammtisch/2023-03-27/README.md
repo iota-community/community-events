@@ -36,6 +36,7 @@
 34. **Shimmer Exchange**: Gerüchte über Binance machen die Runde, ist aber wohl nur ein Pricefeed der neuerdings angezeigt wird auf Binance.us: [Tweet](https://twitter.com/Levi_Jeans4353/status/1638602144088563712?s=20); Man kann jetzt zumindest bei Binance fordern, dass Shimmer gelistet wird. Der [Tweet von Adam](https://twitter.com/Schpoopel/status/1638825380894109696?s=20) zeigt wie es geht.
 35. **Crypto News**: Aleph Zero startet am 29. März smart contracts im Mainnet... [Tweet](https://twitter.com/Aleph__Zero/status/1638559876824662017?s=20)
 36. **Crypto News**: Am Donnerstag war der Arbitrum Airdrop
-
+37. **IOTA Audio**: [Moonaco Podcast tweetet](https://twitter.com/MoonacoPodcast/status/1638864015391637506?s=20) über den Podcast mit [Revest Finance](https://twitter.com/RevestFinance): [Spotify Link](https://open.spotify.com/episode/0TlwVWoJw0nMfyooHMU5YI?si=MwQ81fT9R-eidt9LYztXNA)
+38. **Crypto Drama**: Artikel: [BREAKING: Do Kwon Reportedly Arrested in Montenegro](https://coinmarketcap.com/alexandria/article/breaking:-do-kwon-reportedly-arrested-in-montenegro)
 
 
