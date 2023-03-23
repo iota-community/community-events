@@ -30,9 +30,9 @@
 28. **Ki News**: Microsoft integriert chatGPT3 in GitHUb als Copilot X: [Tweet](https://twitter.com/AlphaSignalAI/status/1638571132474511361?s=20)
 29. **IOTA Dev**: Update [Protocol group - Week 12 #72](https://github.com/iotaledger/research-updates/discussions/72)
 30. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1638556143713677312?s=20) über den EU Artikel: [Tokenization of Assets and Blockchain](https://www.eublockchainforum.eu/research-paper/tokenization-assets-and-blockchain)
-31. **Crypto Drama**: Die SEC geht weiter gegen Crypto vor. Jetzt geht es gegen Coinbase, Justin Sun und Logan Paul: [Tweet](https://twitter.com/TheRobynHD/status/1638654458614751233?s=20)
+31. **Crypto Drama**: Die SEC geht weiter gegen Crypto vor. Jetzt geht es gegen Coinbase, Justin Sun und Logan Paul: [Tweet](https://twitter.com/TheRobynHD/status/1638654458614751233?s=20); Artikel: [SEC greift durch: Coinbase und Justin Sun betroffen](https://www.btc-echo.de/schlagzeilen/sec-greift-durch-coinbase-und-justin-sun-betroffen-161470/)
 32. **IOTA Ökosystem**: [Chainlink tweetet](https://twitter.com/ChainlinkToday/status/1638663597357244421?s=20) über LendeXe und verlinkt den Blogpost: [LendeXe Boosts Decentralization With Chainlink Price Feeds](https://chainlinktoday.com/lendexe-boosts-decentralization-with-chainlink-price-feeds/)
-33. **Shimmer Exchange**: Gerüchte über Binance machen die Runde, ist aber wohl nur ein Pricefeed der neuerdings angezeigt wird auf Binance.us: [Tweet](https://twitter.com/Levi_Jeans4353/status/1638602144088563712?s=20); Artikel: [SEC greift durch: Coinbase und Justin Sun betroffen](https://www.btc-echo.de/schlagzeilen/sec-greift-durch-coinbase-und-justin-sun-betroffen-161470/)
+33. **Shimmer Exchange**: Gerüchte über Binance machen die Runde, ist aber wohl nur ein Pricefeed der neuerdings angezeigt wird auf Binance.us: [Tweet](https://twitter.com/Levi_Jeans4353/status/1638602144088563712?s=20); Man kann jetzt zumindest bei Binance fordern, dass Shimmer gelistet wird. Der [Tweet von Adam](https://twitter.com/Schpoopel/status/1638825380894109696?s=20) zeigt wie es geht.
 34. **Crypto News**: Aleph Zero startet am 29. März smart contracts im Mainnet... [Tweet](https://twitter.com/Aleph__Zero/status/1638559876824662017?s=20)
 35. **Crypto News**: Am Donnerstag war der Arbitrum Airdrop
 
