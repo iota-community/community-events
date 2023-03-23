@@ -1,6 +1,6 @@
 ## IOTA Stammtischthemen für Montag, den 27.3.2023
 
-1. **IOTA Quicktakes**: Die [IF tweetet](https://twitter.com/iota/status/1637755981701562369?s=20) über die []()
+1. **IOTA Quicktakes**: Die [IF tweetet](https://twitter.com/iota/status/1637755981701562369?s=20) über die [IOTA Quicktakes 20.03.2023: Vote now on #shimmer Governance Proposals, New Flippin Burgers Ep & more](https://www.youtube.com/watch?v=_E9M0av-DIY)
 2. **IOTA Event**: Am Mittwoch ist/war Marianna de la Roche bei einem Hackathon: [Tweet](https://twitter.com/Marianadlrw/status/1637026135119740930?s=20)
 3. **IOTA Audio**: Kurzes Interview mit Michael Nati über "Web3 makes sense for Telcos": [Tweet](https://twitter.com/michelenati/status/1637795923219693569?s=20)
 4. **Shimmer Exchange**: Es gibt offenbar bis zu 6% Zinsen für SMR bei Bitforex: [Tweet](https://twitter.com/bitforexcom/status/1637993385998036992?s=20)
@@ -39,5 +39,6 @@
 37. **IOTA Audio**: [Moonaco Podcast tweetet](https://twitter.com/MoonacoPodcast/status/1638864015391637506?s=20) über den Podcast mit [Revest Finance](https://twitter.com/RevestFinance): [Spotify Link](https://open.spotify.com/episode/0TlwVWoJw0nMfyooHMU5YI?si=MwQ81fT9R-eidt9LYztXNA)
 38. **Crypto Drama**: Artikel: [BREAKING: Do Kwon Reportedly Arrested in Montenegro](https://coinmarketcap.com/alexandria/article/breaking:-do-kwon-reportedly-arrested-in-montenegro)
 39. **IOTA Dev**: wasp pre-release: [v0.6.0-alpha.2](https://github.com/iotaledger/wasp/releases)
+40. **IOTA Youtube**: [23/02/23 IOTA/Shimmer Community Governance Call - How to vote with Firefly](https://www.youtube.com/watch?v=oXlLdfgq1Js)
 
 
