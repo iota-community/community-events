@@ -43,5 +43,6 @@
 41. **IOTA Patent**: [Tweet](https://twitter.com/Wondere12985276/status/1639013353279434759?s=20)
 42. **IOTA Youtube**: mit Marianna de la Roche: [Enterprise Blockchain for a Sustainable Future](https://www.youtube.com/watch?v=yX4-eUxbmJ8)
 43. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1639009123764404224?s=20) über den Blogpost: [IOTA 2.0’s Robust Voting Mechanism Enhances Blockchain Performance – Report](https://www.ethnews.com/iota-2-0s-robust-voting-mechanism-enhances-blockchain-performance-report/)
+44. **IOTA Speculation**: Hat diese Bosh E-Lade Geschichte etwas mit IOTA zu tun? Oder eher mit fetch.ai? [Tweet](https://twitter.com/MOBIXWALLET/status/1638970898169626624?s=20)
 
 
