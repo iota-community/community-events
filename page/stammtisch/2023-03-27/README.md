@@ -38,11 +38,16 @@
 36. **Crypto News**: Am Donnerstag war der Arbitrum Airdrop
 37. **IOTA Audio**: [Moonaco Podcast tweetet](https://twitter.com/MoonacoPodcast/status/1638864015391637506?s=20) über den Podcast mit [Revest Finance](https://twitter.com/RevestFinance): [Spotify Link](https://open.spotify.com/episode/0TlwVWoJw0nMfyooHMU5YI?si=MwQ81fT9R-eidt9LYztXNA)
 38. **Crypto Drama**: Artikel: [BREAKING: Do Kwon Reportedly Arrested in Montenegro](https://coinmarketcap.com/alexandria/article/breaking:-do-kwon-reportedly-arrested-in-montenegro)
-39. **IOTA Dev**: wasp pre-release: [v0.6.0-alpha.2](https://github.com/iotaledger/wasp/releases)
+39. **IOTA Dev**: wasp pre-release: [v0.6.0-alpha.2](https://github.com/iotaledger/wasp/releases) und [v0.6.0-alpha.3](https://github.com/iotaledger/wasp/releases/tag/v0.6.0-alpha.3)
 40. **IOTA Youtube**: [23/02/23 IOTA/Shimmer Community Governance Call - How to vote with Firefly](https://www.youtube.com/watch?v=oXlLdfgq1Js)
 41. **IOTA Patent**: [Tweet](https://twitter.com/Wondere12985276/status/1639013353279434759?s=20)
 42. **IOTA Youtube**: mit Marianna de la Roche: [Enterprise Blockchain for a Sustainable Future](https://www.youtube.com/watch?v=yX4-eUxbmJ8)
 43. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1639009123764404224?s=20) über den Blogpost: [IOTA 2.0’s Robust Voting Mechanism Enhances Blockchain Performance – Report](https://www.ethnews.com/iota-2-0s-robust-voting-mechanism-enhances-blockchain-performance-report/)
 44. **IOTA Speculation**: Hat diese Bosh E-Lade Geschichte etwas mit IOTA zu tun? Oder eher mit fetch.ai? [Tweet](https://twitter.com/MOBIXWALLET/status/1638970898169626624?s=20)
+45. **IOTA Ökosystem**: Funding Oportunity: [Tweet mit Screenshot](https://twitter.com/antonionardella/status/1639204021654155265?s=20)
+46. **IOTA Youtube**: Luca Moser bei der TangleGang: [Interview mit Luca Moser von der IF vom 02.03.23](https://www.youtube.com/watch?v=SXkQPNsuG0c)
+47. **IOTA 2.0 MVP**: Wir haben einen neuen ETA ("merge in April")... [Tweet von Hans](https://twitter.com/hus_qy/status/1639186193261948930?s=20)
+48. **IOTA Ökosystem**: [LendeXe tweetet](https://twitter.com/LendeXeFinance/status/1639209164693032960?s=20) über das Tutorial: [#DefiEducationWeek Day 4: Learn How to Participate in LendeXe Finance's Lock-Drop-Staking-Program](https://www.youtube.com/watch?v=RqfjE7lyEDg)
+49. **Crypto Drama**: Binance steht still: [Tweet](https://twitter.com/cz_binance/status/1639235255054860290?s=20)
 
 
