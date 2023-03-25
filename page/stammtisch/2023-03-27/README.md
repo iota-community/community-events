@@ -28,7 +28,7 @@
 26. **IOTA Governements**: [DeepSea tweetet](https://twitter.com/Deep_Sea_Iotan/status/1638550007954526209?s=20) über [TangleTreasury.org](https://www.tangletreasury.org/)
 27. **IOTA Ökosystem**: cheaqs und walt.id Partnerschaft: [Tweet](https://twitter.com/cheqd_io/status/1638206109046456320?s=20)
 28. **Ki News**: Microsoft integriert chatGPT3 in GitHUb als Copilot X: [Tweet](https://twitter.com/AlphaSignalAI/status/1638571132474511361?s=20)
-29. **Ki News**: Opera integriert chatGPT in den Browser: [Tweet]8https://twitter.com/rowancheung/status/1638558865414582272?s=20)
+29. **Ki News**: Opera integriert chatGPT in den Browser: [Tweet](https://twitter.com/rowancheung/status/1638558865414582272?s=20)
 30. **IOTA Dev**: Update [Protocol group - Week 12 #72](https://github.com/iotaledger/research-updates/discussions/72)
 31. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1638556143713677312?s=20) über den EU Artikel: [Tokenization of Assets and Blockchain](https://www.eublockchainforum.eu/research-paper/tokenization-assets-and-blockchain)
 32. **Crypto Drama**: Die SEC geht weiter gegen Crypto vor. Jetzt geht es gegen Coinbase, Justin Sun und Logan Paul: [Tweet von Coinbase CEO](https://twitter.com/brian_armstrong/status/1638654192138199041?s=20); [Tweet](https://twitter.com/TheRobynHD/status/1638654458614751233?s=20); Artikel: [SEC greift durch: Coinbase und Justin Sun betroffen](https://www.btc-echo.de/schlagzeilen/sec-greift-durch-coinbase-und-justin-sun-betroffen-161470/)
@@ -50,6 +50,7 @@
 48. **IOTA Ökosystem**: [LendeXe tweetet](https://twitter.com/LendeXeFinance/status/1639209164693032960?s=20) über das Tutorial: [#DefiEducationWeek Day 4: Learn How to Participate in LendeXe Finance's Lock-Drop-Staking-Program](https://www.youtube.com/watch?v=RqfjE7lyEDg)
 49. **Crypto Drama**: Binance steht still: [Tweet](https://twitter.com/cz_binance/status/1639235255054860290?s=20)
 50. **IOTA Youtube**: von TangleGang: [Interview mit Luca Moser von der IF vom 02.03.23](https://www.youtube.com/watch?v=SXkQPNsuG0c)
-51. 
+51. **IOTA Audio**: Adri war am Donnerstag in der TangleGang im Sprachchat und hat über EBSI geredet
+52. **Crypto Adaption**: Artikel: [Bitpanda Expands Technology Solutions to Financial Institutions via Collaboration with Visa](https://blockchainreporter.net/bitpanda-expands-technology-solutions-to-financial-institutions-via-collaboration-with-visa/)
 
 
