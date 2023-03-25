@@ -59,6 +59,7 @@
 57. **Shimmer Artikel**: von Crypto News Flash: [IOTA: Is Shimmer the distributed ledger solution crypto has been waiting for? SMR could be a 100x potential asset](https://www.crypto-news-flash.com/iota-is-shimmer-the-distributed-ledger-solution-crypto-has-been-waiting-for-smr-could-be-a-100x-potential-asset/?feed_id=14082&_unique_id=641dd1033aa24)
 58. **IOTA Audio**: [LendeXe AMA](https://twitter.com/LendeXeFinance/status/1639702691273228288?s=20)
 59. **Crypto Adaption**: Artikel: [Nasdaq to Launch Crypto Custody Services in Q2 2023](https://watcher.guru/news/nasdaq-to-launch-crypto-custody-services-in-q2-2023)
-60. 
+60. **IOTA NFT Ökosystem**: [Dark Mythos tweetet](https://twitter.com/DarkMythosIOTA/status/1638492630546800642?s=20) darüber, dass sie jetzt eine registrierte Firma in Deutschland sind und sie entwickeln wohl ein Marktplatz Modul für ihre NFTs: [Tweet](https://twitter.com/DarkMythosIOTA/status/1639638204084113410?s=20)
+61. **Hans Science**: [Hans tweetet](https://twitter.com/hus_qy/status/1638578841881923585?s=20) über Multiway Graphs und verlinkt seinen Artikel von der [The Trust Machine — Part3: Quadruple entry accounting](https://husqy.medium.com/the-trust-machine-part3-quadruple-entry-accounting-6da022f5e832), allerdings [sieht sein Diskussionspartner](https://twitter.com/getjonwithit/status/1639075331024773120?s=20) das offenbar ganz anders
 
 
