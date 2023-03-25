@@ -52,5 +52,13 @@
 50. **IOTA Youtube**: von TangleGang: [Interview mit Luca Moser von der IF vom 02.03.23](https://www.youtube.com/watch?v=SXkQPNsuG0c)
 51. **IOTA Audio**: Adri war am Donnerstag in der TangleGang im Sprachchat und hat über EBSI geredet
 52. **Crypto Adaption**: Artikel: [Bitpanda Expands Technology Solutions to Financial Institutions via Collaboration with Visa](https://blockchainreporter.net/bitpanda-expands-technology-solutions-to-financial-institutions-via-collaboration-with-visa/)
+53. **IOTA Ökosystem**: Das Soonaverse hat diese Woche jeden Tag eine NFT Auktion gemacht und dabei gut verkauft... [SoonLabs Twitter](https://twitter.com/soon_labs) 
+54. **IOTA Youtube** Über 5h Content von Probably Nothing: [1 Jahr IOTA Entwicklung - IOTA, Shimmer und Assembly "FULL Movie"](https://www.youtube.com/watch?v=jykUtGTMPY0)
+55. **Crypto Drama**: Artikel: [Greenpeace versus Bitcoin: Community feiert Kunstprojekt](https://www.btc-echo.de/news/greenpeace-vs-bitcoin-community-feiert-skull-of-satoshi-161564/)
+56. **Crypto Adaption**: Artikel: [Over 1,200 German banks can now offer Bitcoin trading to their retail customers](https://finbold.com/over-1200-german-banks-can-now-offer-bitcoin-trading-to-their-retail-customers/)
+57. **Shimmer Artikel**: von Crypto News Flash: [IOTA: Is Shimmer the distributed ledger solution crypto has been waiting for? SMR could be a 100x potential asset](https://www.crypto-news-flash.com/iota-is-shimmer-the-distributed-ledger-solution-crypto-has-been-waiting-for-smr-could-be-a-100x-potential-asset/?feed_id=14082&_unique_id=641dd1033aa24)
+58. **IOTA Audio**: [LendeXe AMA](https://twitter.com/LendeXeFinance/status/1639702691273228288?s=20)
+59. **Crypto Adaption**: Artikel: [Nasdaq to Launch Crypto Custody Services in Q2 2023](https://watcher.guru/news/nasdaq-to-launch-crypto-custody-services-in-q2-2023)
+60. 
 
 
