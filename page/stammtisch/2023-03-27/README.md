@@ -49,5 +49,7 @@
 47. **IOTA 2.0 MVP**: Wir haben einen neuen ETA ("merge in April")... [Tweet von Hans](https://twitter.com/hus_qy/status/1639186193261948930?s=20)
 48. **IOTA Ökosystem**: [LendeXe tweetet](https://twitter.com/LendeXeFinance/status/1639209164693032960?s=20) über das Tutorial: [#DefiEducationWeek Day 4: Learn How to Participate in LendeXe Finance's Lock-Drop-Staking-Program](https://www.youtube.com/watch?v=RqfjE7lyEDg)
 49. **Crypto Drama**: Binance steht still: [Tweet](https://twitter.com/cz_binance/status/1639235255054860290?s=20)
+50. **IOTA Youtube**: von TangleGang: [Interview mit Luca Moser von der IF vom 02.03.23](https://www.youtube.com/watch?v=SXkQPNsuG0c)
+51. 
 
 
