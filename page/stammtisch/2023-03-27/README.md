@@ -70,6 +70,7 @@
 68. **Crypto Evolution**: [zKsync tweetet](https://twitter.com/zksync/status/1639251197898129408?s=20) über ihren Blogpost: [gm zkEVM! Yes, zkSync Era Mainnet is now open to all](https://blog.matter-labs.io/gm-zkevm-171b12a26b36)
 69. **IOTA Audio**: Am Donnerstag kommt [Regine](https://twitter.com/Energine) von [Spyce_5](https://twitter.com/SPYCE_5) zum Sprachchat in der TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1639949087859417089?s=20)
 70. **Crypto Adaption**: Den Artikel von The Block "[Crypto payment restrictions back on self-hosted wallets in final EU Parliament AML text](https://www.theblock.co/post/222390/crypto-payment-restrictions-back-self-hosted-wallets-eu)" hat [Mariana de la Roche kommentiert](https://twitter.com/Marianadlrw/status/1639220228390367234?s=20)
+71. **IOTA Tokenomics**: [Dom hat im Discord](https://discord.com/channels/397872799483428865/397872799483428867/1089534552344641596) etwas zu den Tokenomics mit Mana verraten und leaked auch ein [Übersichts-Schaubild](https://twitter.com/Vrom14286662/status/1639979473717043202?s=20) zum Thema. Vielleicht aus dem Tokenomics Paper?
 
 
 
