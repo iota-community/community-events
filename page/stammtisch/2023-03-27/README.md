@@ -69,6 +69,7 @@
 67. **IOTA Wochenrückblick**: Iota Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/274-wochenr%C3%BCckblick-vom-19-bis-25-m%C3%A4rz-2023/)
 68. **Crypto Evolution**: [zKsync tweetet](https://twitter.com/zksync/status/1639251197898129408?s=20) über ihren Blogpost: [gm zkEVM! Yes, zkSync Era Mainnet is now open to all](https://blog.matter-labs.io/gm-zkevm-171b12a26b36)
 69. **IOTA Audio**: Am Donnerstag kommt [Regine](https://twitter.com/Energine) von [Spyce_5](https://twitter.com/SPYCE_5) zum Sprachchat in der TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1639949087859417089?s=20)
+70. **Crypto Adaption**: Den Artikel von The Block "[Crypto payment restrictions back on self-hosted wallets in final EU Parliament AML text](https://www.theblock.co/post/222390/crypto-payment-restrictions-back-self-hosted-wallets-eu)" hat [Mariana de la Roche kommentiert](https://twitter.com/Marianadlrw/status/1639220228390367234?s=20)
 
 
 
