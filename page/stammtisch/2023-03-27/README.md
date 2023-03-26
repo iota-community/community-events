@@ -64,9 +64,10 @@
 62. **IOTA Audio**: Es gab ein AMA mit TangleSwap in der chinesischen Telegram Gruppe [IOTAmoon](https://t.me/IOTAmoon). Aber es wurde glaube ich nicht aufgezeichnet: [Tweet](https://twitter.com/kowei1995/status/1639872570056114176?s=20)
 63. **Shimmer Promote**: [20 Tweets von CharlieXDeFi](https://twitter.com/CharlieXDeFi/status/1639735383704608773?s=20) erklärt die Vorteile von Shimmer 
 64. **Crypto Adaption**: Man kann jetzt USDT über Telegram versenden (auf der Tron Chain): [Artikel](https://www.btc-echo.de/schlagzeilen/telegram-integriert-usdt-in-wallet-bot-161503/)
-65. **Ki News**: Elon Musk hat bedenken, dass Open Ai closed source ist, aber Hans Moog meint das ist kein Problem weil chat GPT leicht kopiert werden kann bzw. schon wurde: [ Hans retweetet](https://twitter.com/hus_qy/status/1639285030936616963?s=20) den den [Tweet von Brian Roemmele](https://twitter.com/BrianRoemmele/status/1637871062246649856?s=20) der schreibt: "I installed a full ChatGPT knowledge set and interface fully trained on my local computer and it needs no Internet once installed"
-66. **IOTA Wochenrückblick**: Iota Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/274-wochenr%C3%BCckblick-vom-19-bis-25-m%C3%A4rz-2023/)
-67. **Crypto Evolution**: [zKsync tweetet](https://twitter.com/zksync/status/1639251197898129408?s=20) über ihren Blogpost: [gm zkEVM! Yes, zkSync Era Mainnet is now open to all](https://blog.matter-labs.io/gm-zkevm-171b12a26b36)
+65. **Ki News**: Elon Musk hat bedenken, dass Open Ai closed source ist, aber Hans Moog meint das ist kein Problem weil chat GPT leicht kopiert werden kann bzw. schon wurde: [ Hans retweetet](https://twitter.com/hus_qy/status/1639285030936616963?s=20) den den [Tweet von Brian Roemmele](https://twitter.com/BrianRoemmele/status/1637871062246649856?s=20) der schreibt: "I installed a full ChatGPT knowledge set and interface fully trained on my local computer and it needs no Internet once installed"; Hier ein Video dazu: [ChatGPT-Klon läuft lokal auf jedem Rechner | Alpaca/LLaMA ausprobiert](https://www.youtube.com/watch?v=XsCVVFNuG2U)
+66. **IOTA Youtube**: von Mind Crypto: [IOTA | SHIMMER GROWTH INCOMING 🚀 | All GOOD THINGS COME TO THOSE WHO WAIT | NOT FINANCIAL](https://www.youtube.com/watch?v=KRYdnp4r1eQ)
+67. **IOTA Wochenrückblick**: Iota Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/274-wochenr%C3%BCckblick-vom-19-bis-25-m%C3%A4rz-2023/)
+68. **Crypto Evolution**: [zKsync tweetet](https://twitter.com/zksync/status/1639251197898129408?s=20) über ihren Blogpost: [gm zkEVM! Yes, zkSync Era Mainnet is now open to all](https://blog.matter-labs.io/gm-zkevm-171b12a26b36)
 
 
 
