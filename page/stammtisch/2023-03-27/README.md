@@ -68,6 +68,7 @@
 66. **IOTA Youtube**: von Mind Crypto: [IOTA | SHIMMER GROWTH INCOMING 🚀 | All GOOD THINGS COME TO THOSE WHO WAIT | NOT FINANCIAL](https://www.youtube.com/watch?v=KRYdnp4r1eQ)
 67. **IOTA Wochenrückblick**: Iota Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/274-wochenr%C3%BCckblick-vom-19-bis-25-m%C3%A4rz-2023/)
 68. **Crypto Evolution**: [zKsync tweetet](https://twitter.com/zksync/status/1639251197898129408?s=20) über ihren Blogpost: [gm zkEVM! Yes, zkSync Era Mainnet is now open to all](https://blog.matter-labs.io/gm-zkevm-171b12a26b36)
+69. **IOTA Audio**: Am Donnerstag kommt [Regine](https://twitter.com/Energine) von [Spyce_5](https://twitter.com/SPYCE_5) zum Sprachchat in der TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1639949087859417089?s=20)
 
 
 
