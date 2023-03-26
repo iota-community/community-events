@@ -73,7 +73,7 @@
 71. **IOTA Tokenomics**: [Dom hat im Discord](https://discord.com/channels/397872799483428865/397872799483428867/1089534552344641596) etwas zu den Tokenomics mit Mana verraten und leaked auch ein [Übersichts-Schaubild](https://twitter.com/Vrom14286662/status/1639979473717043202?s=20) zum Thema. Vielleicht aus dem Tokenomics Paper?
 72. **IOTA Youtube**: vom Bitcoin Trading Informant: [IOTA am Rande des Wahnsinns?](https://www.youtube.com/watch?v=WA2JBlbqFrw)
 73. **Crypto Adaption**: Bloomberg Artikel: [Nasdaq Eyes Crypto Custody Launch by End of Second Quarter](https://www.bloomberg.com/news/articles/2023-03-24/nasdaq-eyes-crypto-custody-launch-by-end-of-second-quarter#xj4y7vzkg)
-74. 
+74. **IOTA Ökosystem**: Immer mehr Projekte nutzen crew3: [IotaOrigin](https://crew3.xyz/c/iotaorigin/invite/5vVlxl2KveF-F54z7q3oH); [Iotabee](https://crew3.xyz/c/iotabee/invite/FVdSVGyXDZlwCS9-iFn0I); [Apedao](https://crew3.xyz/c/apedao/invite/ZJSsF_9xlW7mGQADs5BPF); [Dark Mythos](https://crew3.xyz/c/darkmythos/invite/h6bXztIVUS5Jyhttft4Bk); [ShimmerSea](https://crew3.xyz/c/shimmersea/invite/zikW2A__rIouDMx9vBQzD); [TangleSwap](https://crew3.xyz/c/tangleswap/invite/pVrE2fLBcGn05ZpVvaMD-); [EpochZero](https://crew3.xyz/c/epochzero/invite/OyNIakiVzxWOMuCGrpJ7q), [MagicMemeMoney](https://crew3.xyz/c/magicmememoney/invite/VYVZ-tf4UdxpBznW-VOrQ), [IotaOrigin](https://crew3.xyz/c/iotaorigin/invite/5vVlxl2KveF-F54z7q3oH); [ShimmerDogeDAO](https://crew3.xyz/c/shimmerdogedao/invite/-VPz3W6FhujMdJW180V3w); [AuditOne](https://crew3.xyz/c/auditone/invite/iyknuS0RJo9pX7iroP0CW)
 
 
 
