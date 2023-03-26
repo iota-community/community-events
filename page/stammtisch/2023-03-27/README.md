@@ -61,5 +61,13 @@
 59. **Crypto Adaption**: Artikel: [Nasdaq to Launch Crypto Custody Services in Q2 2023](https://watcher.guru/news/nasdaq-to-launch-crypto-custody-services-in-q2-2023)
 60. **IOTA NFT Ökosystem**: [Dark Mythos tweetet](https://twitter.com/DarkMythosIOTA/status/1638492630546800642?s=20) darüber, dass sie jetzt eine registrierte Firma in Deutschland sind und sie entwickeln wohl ein Marktplatz Modul für ihre NFTs: [Tweet](https://twitter.com/DarkMythosIOTA/status/1639638204084113410?s=20)
 61. **Hans Science**: [Hans tweetet](https://twitter.com/hus_qy/status/1638578841881923585?s=20) über Multiway Graphs und verlinkt seinen Artikel von der [The Trust Machine — Part3: Quadruple entry accounting](https://husqy.medium.com/the-trust-machine-part3-quadruple-entry-accounting-6da022f5e832), allerdings [sieht sein Diskussionspartner](https://twitter.com/getjonwithit/status/1639075331024773120?s=20) das offenbar ganz anders
+62. **IOTA Audio**: Es gab ein AMA mit TangleSwap in der chinesischen Telegram Gruppe [IOTAmoon](https://t.me/IOTAmoon). Aber es wurde glaube ich nicht aufgezeichnet: [Tweet](https://twitter.com/kowei1995/status/1639872570056114176?s=20)
+63. **Shimmer Promote**: [20 Tweets von CharlieXDeFi](https://twitter.com/CharlieXDeFi/status/1639735383704608773?s=20) erklärt die Vorteile von Shimmer 
+64. **Crypto Adaption**: Man kann jetzt USDT über Telegram versenden (auf der Tron Chain): [Artikel](https://www.btc-echo.de/schlagzeilen/telegram-integriert-usdt-in-wallet-bot-161503/)
+65. **Ki News**: Elon Musk hat bedenken, dass Open Ai closed source ist, aber Hans Moog meint das ist kein Problem weil chat GPT leicht kopiert werden kann bzw. schon wurde: [ Hans retweetet](https://twitter.com/hus_qy/status/1639285030936616963?s=20) den den [Tweet von Brian Roemmele](https://twitter.com/BrianRoemmele/status/1637871062246649856?s=20) der schreibt: "I installed a full ChatGPT knowledge set and interface fully trained on my local computer and it needs no Internet once installed"
+66. **IOTA Wochenrückblick**: Iota Talks [Wochenrückblick](https://www.iota-talk.com/index.php?article/274-wochenr%C3%BCckblick-vom-19-bis-25-m%C3%A4rz-2023/)
+67. **Crypto Evolution**: [zKsync tweetet](https://twitter.com/zksync/status/1639251197898129408?s=20) über ihren Blogpost: [gm zkEVM! Yes, zkSync Era Mainnet is now open to all](https://blog.matter-labs.io/gm-zkevm-171b12a26b36)
+
+
 
 
