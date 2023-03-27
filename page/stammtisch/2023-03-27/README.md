@@ -81,6 +81,7 @@
 79. **IOTA Stammtisch**: Morgen ist ein IOTA Stammtisch in Stuttgart: [The future of Web3 | IOTA Stammtisch Stuttgart](https://www.meetup.com/de-DE/iota-stuttgart/events/292171446/)
 80. **IOTA Promote**: [Marian de la Roche](https://twitter.com/Marianadlrw) darf weiterhin als Expertin bei der [EUBlockchain](https://twitter.com/EUBlockchain) mitarbeiten: [Tweet](https://twitter.com/Marianadlrw/status/1640336656187236358?s=20)
 81. **Crypto News**: Microstrategie hat wieder Bitcoin gekauft: [MicroStrategy Repays $205M Bitcoin-Collateralized Loan in Full at 22% Discount for $160M, Acquires Additional 6,455 BTC and Now Holds 138,955 BTC](https://www.microstrategy.com/en/investor-relations/financial-documents/microstrategy-repaid-silvergate-loan-and-increased-bitcoin-holdings-by-6455-and-now-holds-138955-btc_3-27-2023); [Michael Saylor](https://twitter.com/saylor) hat aber die Sicherheit bei Bitcoin offenbar nicht verstanden: [Tweet](https://twitter.com/saylor/status/1639770979021778948?s=20)
+82. **Crypto News**: [Aleph Zero](https://twitter.com/Aleph__Zero) wird am 3.4. auf Bitpanda gelistet: [Tweet](https://twitter.com/bitpanda/status/1640356698870235142?s=20); Und am 29.3 starten die Smart Contracts auf dem Mainnet: [Tweet](https://twitter.com/Aleph__Zero/status/1638559876824662017?s=20)
 
 
 
