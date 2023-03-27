@@ -78,7 +78,9 @@
 76. **IOTA NFT Ökosystem**: Blogpost von [Epoch Zero](https://twitter.com/Epoch_0): [The MINT !](https://medium.com/@EpochZer0/the-mint-fa0a60d85cf2)
 77. **IOTA Metavers**: [MetaTangle tweetet](https://twitter.com/MetaTangle/status/1640031984578707457?s=20) über das [MetaTangleAlphaLand auf spartial.io](https://www.spatial.io/s/MetaTangle-AlphaLand-640480b5f0a902db0d6d0204?share=6422320928642952329) das er kreiert hat
 78. **IOTA Event**: Die [IF tweetet](https://twitter.com/iota/status/1640307682593714178?s=20) über ein Event von morgen: [#14 Measuring Climate Impact: theory & learnings from web3 ReFi projects](https://www.eventbrite.com/e/14-measuring-climate-impact-theory-learnings-from-web3-refi-projects-tickets-588478152997)
-79. **IOTA Test**
+79. **IOTA Stammtisch**: Morgen ist ein IOTA Stammtisch in Stuttgart: [The future of Web3 | IOTA Stammtisch Stuttgart](https://www.meetup.com/de-DE/iota-stuttgart/events/292171446/)
+80. **IOTA Promote**: [Marian de la Roche](https://twitter.com/Marianadlrw) darf weiterhin als Expertin bei der [EUBlockchain](https://twitter.com/EUBlockchain) mitarbeiten: [Tweet](https://twitter.com/Marianadlrw/status/1640336656187236358?s=20)
+81. **Crypto News**: Microstrategie hat wieder Bitcoin gekauft: [MicroStrategy Repays $205M Bitcoin-Collateralized Loan in Full at 22% Discount for $160M, Acquires Additional 6,455 BTC and Now Holds 138,955 BTC](https://www.microstrategy.com/en/investor-relations/financial-documents/microstrategy-repaid-silvergate-loan-and-increased-bitcoin-holdings-by-6455-and-now-holds-138955-btc_3-27-2023); [Michael Saylor](https://twitter.com/saylor) hat aber die Sicherheit bei Bitcoin offenbar nicht verstanden: [Tweet](https://twitter.com/saylor/status/1639770979021778948?s=20)
 
 
 
