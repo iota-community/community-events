@@ -74,6 +74,8 @@
 72. **IOTA Youtube**: vom Bitcoin Trading Informant: [IOTA am Rande des Wahnsinns?](https://www.youtube.com/watch?v=WA2JBlbqFrw)
 73. **Crypto Adaption**: Bloomberg Artikel: [Nasdaq Eyes Crypto Custody Launch by End of Second Quarter](https://www.bloomberg.com/news/articles/2023-03-24/nasdaq-eyes-crypto-custody-launch-by-end-of-second-quarter#xj4y7vzkg)
 74. **IOTA Ökosystem**: Immer mehr Projekte nutzen crew3: [IotaOrigin](https://crew3.xyz/c/iotaorigin/invite/5vVlxl2KveF-F54z7q3oH); [Iotabee](https://crew3.xyz/c/iotabee/invite/FVdSVGyXDZlwCS9-iFn0I); [Apedao](https://crew3.xyz/c/apedao/invite/ZJSsF_9xlW7mGQADs5BPF); [Dark Mythos](https://crew3.xyz/c/darkmythos/invite/h6bXztIVUS5Jyhttft4Bk); [ShimmerSea](https://crew3.xyz/c/shimmersea/invite/zikW2A__rIouDMx9vBQzD); [TangleSwap](https://crew3.xyz/c/tangleswap/invite/pVrE2fLBcGn05ZpVvaMD-); [EpochZero](https://crew3.xyz/c/epochzero/invite/OyNIakiVzxWOMuCGrpJ7q), [MagicMemeMoney](https://crew3.xyz/c/magicmememoney/invite/VYVZ-tf4UdxpBznW-VOrQ), [IotaOrigin](https://crew3.xyz/c/iotaorigin/invite/5vVlxl2KveF-F54z7q3oH); [ShimmerDogeDAO](https://crew3.xyz/c/shimmerdogedao/invite/-VPz3W6FhujMdJW180V3w); [AuditOne](https://crew3.xyz/c/auditone/invite/iyknuS0RJo9pX7iroP0CW)
+75. **Bitcoin Adaption**: CNBC-Artikel: [Bitcoin is poised to blow up Africa’s $86 billion banking system](https://www.cnbc.com/2023/03/26/bitcoin-is-poised-to-blow-up-africas-86-billion-banking-system.html?__source=sharebar|twitter&par=sharebar)
+76. **IOTA NFT Ökosystem**: Blogpost von [Epoch Zero](https://twitter.com/Epoch_0): [The MINT !](https://medium.com/@EpochZer0/the-mint-fa0a60d85cf2)
 
 
 
