@@ -77,6 +77,7 @@
 75. **Bitcoin Adaption**: CNBC-Artikel: [Bitcoin is poised to blow up Africa’s $86 billion banking system](https://www.cnbc.com/2023/03/26/bitcoin-is-poised-to-blow-up-africas-86-billion-banking-system.html?__source=sharebar|twitter&par=sharebar)
 76. **IOTA NFT Ökosystem**: Blogpost von [Epoch Zero](https://twitter.com/Epoch_0): [The MINT !](https://medium.com/@EpochZer0/the-mint-fa0a60d85cf2)
 77. **IOTA Metavers**: [MetaTangle tweetet](https://twitter.com/MetaTangle/status/1640031984578707457?s=20) über das [MetaTangleAlphaLand auf spartial.io](https://www.spatial.io/s/MetaTangle-AlphaLand-640480b5f0a902db0d6d0204?share=6422320928642952329) das er kreiert hat
+78. **IOTA Event**: Die [IF tweetet](https://twitter.com/iota/status/1640307682593714178?s=20) über ein Event von morgen: [#14 Measuring Climate Impact: theory & learnings from web3 ReFi projects](https://www.eventbrite.com/e/14-measuring-climate-impact-theory-learnings-from-web3-refi-projects-tickets-588478152997)
 
 
 
