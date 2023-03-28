@@ -1,6 +1,6 @@
 ## IOTA Stammtischthemen für Montag, den 3.4.2023
 
-1. **IOTA Quicktakes**: Die [IF tweetet](https://twitter.com/iota/status/1640277568594010113?s=20) über die []()
+1. **IOTA Quicktakes**: Die [IF tweetet](https://twitter.com/iota/status/1640277568594010113?s=20) über die [IOTA Quicktakes 27.03.2023: Meet SPYCE5, #shimmer Governance Voting explained & more!](https://www.youtube.com/watch?v=zW0Mbpuy5dI)
 2. **Crypto Drama**: THORchain down? [Tweet](https://twitter.com/THORChain/status/1640569760974008320?s=20)
 3. **IOTA Stammtisch**: Am 1.4. in Köln: [#IOTA Stammtisch - Köln](https://www.meetup.com/de-DE/the-future-of-web3-iota-stammtisch-koln/events/291792068/); [Tweet](https://twitter.com/IotaPunks_71/status/1639938776083439617?s=20)
 4. **IOTA Ökosystem**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1640619228717002752?s=20) darüber, dass sie Developer suchen/einstellen und auch [Garret tweetet](https://twitter.com/GarrettBullish/status/1640620200784703489?s=20) darüber
@@ -11,6 +11,7 @@
 9. **IOTA Artikel**: von Crypto News Flash: [IOTA: Ausfälle von Solana und Avalanche zeigen ein größeres Problem mit L1s Ökosystemen auf – Kann Shimmer das zuverlässigste und skalierbarste Netzwerk sein?](https://www.crypto-news-flash.com/de/iota-ausfaelle-von-solana-und-avalanche-zeigen-ein-groesseres-problem-mit-l1s-oekosystemen-auf-kann-shimmer-das-zuverlaessigste-und-skalierbarste-netzwerk-sein/?feed_id=14157&_unique_id=6421fa642e520)
 10. **Crypto Adaption**: La Garde, die Präsidentin von der European Central Bank über CBDCs: [Tweet](https://twitter.com/WatcherGuru/status/1640531089751171073?s=20)
 11. **Crypto Drama**: Artikel: [Sam Bankman-Fried Faces New U.S. Indictment Over Chinese Bribery Charge](https://www.coindesk.com/policy/2023/03/28/sam-bankman-fried-faces-new-us-indictment-over-chinese-bribery/)
-12. **Shimmer Dev**: wasp Pre-Release: [v0.6.0-alpha.4](https://github.com/iotaledger/wasp/releases/tag/v0.6.0-alpha.4)
+12. **Shimmer Dev**: wasp Pre-Release: [v0.6.0-alpha.4](https://github.com/iotaledger/wasp/releases/tag/v0.6.0-alpha.4), [v0.6.0-alpha.5](https://github.com/iotaledger/wasp/releases/tag/v0.6.0-alpha.5) und [v0.6.0-alpha.6](https://github.com/iotaledger/wasp/releases/tag/v0.6.0-alpha.6), alle Updates kamen am Dienstag
 13. **IOTA Governements**: [Phylo tweetet](https://twitter.com/PhyloIota/status/1640662089734963200?s=20) über das Governements Meeting am Donnerstag
+14. **IOTA Event**: Die [IF tweetet](https://twitter.com/iota/status/1640715375066374144?s=20) über ein Event mit [Mariana de la Roche](https://twitter.com/Marianadlrw): [Joining the International Association for Trusted Blockchain Applications (INATBA) to facilitate international collaboration and adoption of the blockchain technology across economy](https://eufordigital.eu/joining-the-international-association-for-trusted-blockchain-applications-inatba-to-facilitate-international-collaboration-and-adoption-of-the-blockchain-technology-across-economy/)
 
