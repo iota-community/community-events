@@ -9,4 +9,4 @@
 7. **Crypto Drama**: Artikel: [Breaking: Binance and CZ sued by CFTC over US regulatory violations](https://cointelegraph.com/news/binance-and-cz-sued-by-cftc-over-us-regulatory-violations)
 8. **IOTA 2.0 MVP**: Zusammenfassung [am Dienstag](https://twitter.com/id_iota/status/1640668392658182144?s=20)
 9. **IOTA Artikel**: von Crypto News Flash: [IOTA: Ausfälle von Solana und Avalanche zeigen ein größeres Problem mit L1s Ökosystemen auf – Kann Shimmer das zuverlässigste und skalierbarste Netzwerk sein?](https://www.crypto-news-flash.com/de/iota-ausfaelle-von-solana-und-avalanche-zeigen-ein-groesseres-problem-mit-l1s-oekosystemen-auf-kann-shimmer-das-zuverlaessigste-und-skalierbarste-netzwerk-sein/?feed_id=14157&_unique_id=6421fa642e520)
-10. **Crypto Adaption**: La Garde, die Präsidentin von der European Central Bank über CBDCs: (https://twitter.com/WatcherGuru/status/1640531089751171073?s=20)
+10. **Crypto Adaption**: La Garde, die Präsidentin von der European Central Bank über CBDCs: [Tweet](https://twitter.com/WatcherGuru/status/1640531089751171073?s=20)
