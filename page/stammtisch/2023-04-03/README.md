@@ -23,4 +23,5 @@
 21. **Shimmer Ökosystem**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1641071960670220288?s=20), dass man ein Shimmer Testnetz Wallet in TanglePay erstellen kann
 22. **IOTA Artikel**: von Coindesk: [IOTA Releases Shimmer Public Test Chain Ahead of Native Ethereum Virtual Machine Launch](https://www.coindesk.com/tech/2023/03/29/iota-releases-shimmer-public-test-chain-ahead-of-native-ethereum-virtual-machine-launch/)
 23. **IOTA NFT Ökosystem**: Beim ApeDAO gab es Bananen Airdrop: [Tweet](https://twitter.com/iotapes/status/1641077766824030211?s=20)
+24. **IOTA Youtube**: [Alexander tweetet](https://twitter.com/shortaktien/status/1641083527557963776?s=20) über ein [Interview mit Mosquitopay](https://youtu.be/cc1D5kQcuGQ)
 
