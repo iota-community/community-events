@@ -25,6 +25,9 @@
 23. **IOTA NFT Ökosystem**: Beim ApeDAO gab es Bananen Airdrop: [Tweet](https://twitter.com/iotapes/status/1641077766824030211?s=20)
 24. **IOTA Youtube**: [Alexander tweetet](https://twitter.com/shortaktien/status/1641083527557963776?s=20) über ein [Interview mit Mosquitopay](https://youtu.be/cc1D5kQcuGQ)
 25. **Crypto Promote**: Das Hochhaus der Europäischen Zentralbank wurde mit dem Bitcoin Zeichen angestrahlt: [Tweet](https://twitter.com/WatcherGuru/status/1641192397961846787?s=20)
-26. **Shimmer Youtube AMA**: Fragen: [[Double-AMA] Ask the Smart Contracts Team on Reddit and Dom on YouTube anything, April 4th & 5th 2023!](https://www.reddit.com/r/Iota/comments/125ozrx/doubleama_ask_the_smart_contracts_team_on_reddit/); [Youtube AMA mit Dom und Dave](https://www.youtube.com/watch?v=eklFukSb69o
-27. 
+26. **Shimmer Youtube AMA**: Fragen: [[Double-AMA] Ask the Smart Contracts Team on Reddit and Dom on YouTube anything, April 4th & 5th 2023!](https://www.reddit.com/r/Iota/comments/125ozrx/doubleama_ask_the_smart_contracts_team_on_reddit/); [Youtube AMA mit Dom und Dave](https://www.youtube.com/watch?v=eklFukSb69o)
+27. **Shimmer Youtube**: von Blockbytes: [3 Major DeFi Opportunities](https://www.youtube.com/live/iCgQx4ThmR4?feature=share&t=3588)
+28. **Shimmer Ökosystem**: [Auditone tweetet](https://twitter.com/auditone_team/status/1641340686795522048?s=20), dass sie 20% Rabatt geben bis zur Shimmer EVM mainnet release.
+29. **IOTA Event**: [Adam](https://twitter.com/Schpoopel) wird auf der [rypto Rockstars Cruise](https://crypto-rockstars.com/) sprechen: [Tweet](https://twitter.com/Schpoopel/status/1641154870051782658?s=20); Es gibt auch ein 20% Rabattcode: "IOTA_CRC_20"
+30. **Shimmer Artikel**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1641347180190392320?s=20) über den Artikel von cryptonews: [Today in Crypto: BitKeep Rebrands to Bitget Wallet, IOTA Launches ShimmerEVM Test Chain, Bitso Trippled US-Mexico Transactions in Partnership with Ripple](https://cryptonews.com/news/today-in-crypto-bitkeep-rebrands-to-bitget-wallet-iota-launches-shimmerevm-test-chain-bitso-trippled-us-mexico-transactions-in-partnership-with-ripple.htm)
 
