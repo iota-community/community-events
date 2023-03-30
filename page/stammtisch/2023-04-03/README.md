@@ -24,4 +24,6 @@
 22. **IOTA Artikel**: von Coindesk: [IOTA Releases Shimmer Public Test Chain Ahead of Native Ethereum Virtual Machine Launch](https://www.coindesk.com/tech/2023/03/29/iota-releases-shimmer-public-test-chain-ahead-of-native-ethereum-virtual-machine-launch/)
 23. **IOTA NFT Ökosystem**: Beim ApeDAO gab es Bananen Airdrop: [Tweet](https://twitter.com/iotapes/status/1641077766824030211?s=20)
 24. **IOTA Youtube**: [Alexander tweetet](https://twitter.com/shortaktien/status/1641083527557963776?s=20) über ein [Interview mit Mosquitopay](https://youtu.be/cc1D5kQcuGQ)
+25. **Crypto Promote**: Das Hochhaus der Europäischen Zentralbank wurde mit dem Bitcoin Zeichen angestrahlt: [Tweet](https://twitter.com/WatcherGuru/status/1641192397961846787?s=20)
+26. **Shimmer AMA**: Fragen: [[Double-AMA] Ask the Smart Contracts Team on Reddit and Dom on YouTube anything, April 4th & 5th 2023!](https://www.reddit.com/r/Iota/comments/125ozrx/doubleama_ask_the_smart_contracts_team_on_reddit/); 
 
