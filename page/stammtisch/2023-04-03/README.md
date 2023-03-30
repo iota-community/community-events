@@ -39,3 +39,4 @@
 37. **IOTA Ökosystem Audio**: [LendeXe AMA zum Lock-Drop auf ETH](https://twitter.com/LendeXeFinance/status/1638940269050761216?s=20)
 38. **IOTA Voting**: ist beendet: Hier die Resultate im [Tweet von id.Iota](https://twitter.com/id_iota/status/1641430297442160642?s=20) und [hier der Aufruf von Shimmer](https://twitter.com/shimmernet/status/1641429065595777024?s=20) das [Ergebnis zu verifizieren](https://github.com/iota-community/Shimmer-governance-participation-events/pull/4)
 39. **IOTA Event**: [Tweet von TangleCon](https://twitter.com/TangleCon/status/1641443342641946627?s=20) darüber, dass [Marco Besier](https://twitter.com/marcobesier) Tutorials machen wird auf der [anglecon am 11.-12.05.23](https://www.tanglecon.com/)
+40. **Shimmer Umfrage**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1641470348360142850?s=20) über die Umfrage: [The Q1 Survey](https://tally.so/r/3jera4)
