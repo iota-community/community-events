@@ -24,7 +24,7 @@
 22. **IOTA Artikel**: von Coindesk: [IOTA Releases Shimmer Public Test Chain Ahead of Native Ethereum Virtual Machine Launch](https://www.coindesk.com/tech/2023/03/29/iota-releases-shimmer-public-test-chain-ahead-of-native-ethereum-virtual-machine-launch/)
 23. **IOTA NFT Ökosystem**: Beim ApeDAO gab es Bananen Airdrop: [Tweet](https://twitter.com/iotapes/status/1641077766824030211?s=20)
 24. **IOTA Youtube**: [Alexander tweetet](https://twitter.com/shortaktien/status/1641083527557963776?s=20) über ein [Interview mit Mosquitopay](https://youtu.be/cc1D5kQcuGQ)
-25. **Crypto Promote**: Das Hochhaus der Europäischen Zentralbank wurde mit dem Bitcoin Zeichen angestrahlt: [Tweet](https://twitter.com/WatcherGuru/status/1641192397961846787?s=20); [Video Tweet](https://twitter.com/btcecho/status/1641149877617819668?s=20)
+25. **Crypto Promote**: Das Hochhaus der Europäischen Zentralbank wurde mit dem Bitcoin Zeichen angestrahlt: [Tweet](https://twitter.com/WatcherGuru/status/1641192397961846787?s=20); [Video Tweet](https://twitter.com/btcecho/status/1641149877617819668?s=20); [Video Tweet](https://twitter.com/BitcoinMemeHub/status/1641311562123059200?s=20)
 26. **Shimmer Youtube AMA**: Fragen: [[Double-AMA] Ask the Smart Contracts Team on Reddit and Dom on YouTube anything, April 4th & 5th 2023!](https://www.reddit.com/r/Iota/comments/125ozrx/doubleama_ask_the_smart_contracts_team_on_reddit/); [Youtube AMA mit Dom und Dave](https://www.youtube.com/watch?v=eklFukSb69o)
 27. **Shimmer Youtube**: von Blockbytes: [3 Major DeFi Opportunities](https://www.youtube.com/live/iCgQx4ThmR4?feature=share&t=3588)
 28. **Shimmer Ökosystem**: [Auditone tweetet](https://twitter.com/auditone_team/status/1641340686795522048?s=20), dass sie 20% Rabatt geben bis zur Shimmer EVM mainnet release.
@@ -36,5 +36,6 @@
 34. **IOTA Artikel**: von BTC Echo: [DeFi-Durchbruch? IOTA launcht ShimmerEVM-Testchain](https://www.btc-echo.de/news/defi-durchbruch-iota-launcht-shimmerevm-testchain-161575/)
 35. **Crypto Adaption**: Artikel: [Stuttgart Stock Exchange Unit Secures BaFin License for Crypto Custody](https://www.coindesk.com/business/2023/03/30/stuttgart-stock-exchange-unit-secures-bafin-license-for-crypto-custody/)
 36. **IOTA Youtube**: von Its Gigo TV: [IOTA mit mega Ankündigung ! XRP weiterer Anstieg steht bevor ? Krypto News](https://www.youtube.com/watch?v=_J9Bzigapc0)
-37. 
+37. **IOTA Ökosystem Audio**: [LendeXe AMA zum Lock-Drop auf ETH](https://twitter.com/LendeXeFinance/status/1638940269050761216?s=20)
+38. **IOTA Voting**: ist beendet: Hier die Resultate im [Tweet von id.Iota](https://twitter.com/id_iota/status/1641430297442160642?s=20)
 
