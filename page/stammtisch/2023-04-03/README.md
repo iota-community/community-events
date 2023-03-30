@@ -37,5 +37,6 @@
 35. **Crypto Adaption**: Artikel: [Stuttgart Stock Exchange Unit Secures BaFin License for Crypto Custody](https://www.coindesk.com/business/2023/03/30/stuttgart-stock-exchange-unit-secures-bafin-license-for-crypto-custody/)
 36. **IOTA Youtube**: von Its Gigo TV: [IOTA mit mega Ankündigung ! XRP weiterer Anstieg steht bevor ? Krypto News](https://www.youtube.com/watch?v=_J9Bzigapc0)
 37. **IOTA Ökosystem Audio**: [LendeXe AMA zum Lock-Drop auf ETH](https://twitter.com/LendeXeFinance/status/1638940269050761216?s=20)
-38. **IOTA Voting**: ist beendet: Hier die Resultate im [Tweet von id.Iota](https://twitter.com/id_iota/status/1641430297442160642?s=20)
+38. **IOTA Voting**: ist beendet: Hier die Resultate im [Tweet von id.Iota](https://twitter.com/id_iota/status/1641430297442160642?s=20) und [hier der Aufruf von Shimmer](https://twitter.com/shimmernet/status/1641429065595777024?s=20) das [Ergebnis zu verifizieren](https://github.com/iota-community/Shimmer-governance-participation-events/pull/4)
+39. 
 
