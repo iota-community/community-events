@@ -34,4 +34,5 @@
 32. **IOTA Artikel**: von invezz.com: [IOTA launches ShimmerEVM testnet as it seeks ecosystem growth](https://invezz.com/news/2023/03/29/iota-launches-shimmerevm-testnet-as-it-seeks-ecosystem-growth/)
 33. **IOTA Artikel**: von Crypto News Flash: [Die dezentralisierte IOTA-Technologie soll die Gesellschaft verbessern und reale Probleme lösen helfen](https://www.crypto-news-flash.com/de/die-dezentralisierte-iota-technologie-soll-die-gesellschaft-verbessern-und-reale-probleme-loesen-helfen/)
 34. **Crypto Adaption**: Artikel: [Stuttgart Stock Exchange Unit Secures BaFin License for Crypto Custody](https://www.coindesk.com/business/2023/03/30/stuttgart-stock-exchange-unit-secures-bafin-license-for-crypto-custody/)
+35. **IOTA Youtube**: von Its Gigo TV: [IOTA mit mega Ankündigung ! XRP weiterer Anstieg steht bevor ? Krypto News](https://www.youtube.com/watch?v=_J9Bzigapc0)
 
