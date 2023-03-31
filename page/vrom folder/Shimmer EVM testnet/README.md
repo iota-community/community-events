@@ -1,4 +1,4 @@
-## All links, where you can test the Shimmer EVM Testnet and connect your Metamask/Tanglepay Wallet
+## All links, where you can test the Shimmer EVM Testnet and connect a website to your Metamask/Tanglepay Wallet
 
 You can also find many dApps in [#shimmerevm-testnet-dapps Ecosystem Channel in IOTA Discord](https://discord.com/channels/397872799483428865/1091292560464564256)
 
