@@ -50,3 +50,4 @@
 48. **IOTA Youtube**: von IOTA Community Governance: [30/03/23 IOTA/Shimmer Community Governance Call - Statements from the Grant Committee](https://www.youtube.com/watch?v=fnKiScoOkQs)
 49. **IOTA Artikel**: von Times Tabloid: [IOTA Launches ShimmerEVM Test Chain, approaching Full DeFi Ecosystem](https://timestabloid.com/iota-launches-shimmerevm-test-chain-approaching-full-defi-ecosystem/)
 50. **IOTA Gaming**: [Tweet von Ioterry](https://twitter.com/io_terry/status/1641542598212096000?s=20) über [WINR Games](https://play.google.com/store/apps/developer?id=WINR+Games+Inc) die ein ersten Spiel erstellt haben in dem man für Werbung anschauen IOTA verdient: [Solitaire Make Money Crypto](https://play.google.com/store/apps/details?id=com.winrgames.solitaire2&pli=1)
+51. **Shimmer EVM**: [Iotabee startet](https://twitter.com/iotabee/status/1641730156535357441?s=20) die Testphase! 
