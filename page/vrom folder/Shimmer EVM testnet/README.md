@@ -13,4 +13,3 @@ You can also find many dApps in [#shimmerevm-testnet-dapps Ecosystem Channel in 
 9. **Daobee (NFT Game)**:
 10. **ApeDao (NFT DeFi)**:
 11. **DarkMythos (NFT Game)**:
-
