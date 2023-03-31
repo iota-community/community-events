@@ -51,3 +51,7 @@
 49. **IOTA Artikel**: von Times Tabloid: [IOTA Launches ShimmerEVM Test Chain, approaching Full DeFi Ecosystem](https://timestabloid.com/iota-launches-shimmerevm-test-chain-approaching-full-defi-ecosystem/)
 50. **IOTA Gaming**: [Tweet von Ioterry](https://twitter.com/io_terry/status/1641542598212096000?s=20) über [WINR Games](https://play.google.com/store/apps/developer?id=WINR+Games+Inc) die ein ersten Spiel erstellt haben in dem man für Werbung anschauen IOTA verdient: [Solitaire Make Money Crypto](https://play.google.com/store/apps/details?id=com.winrgames.solitaire2&pli=1)
 51. **Shimmer EVM**: [Iotabee startet](https://twitter.com/iotabee/status/1641730156535357441?s=20) die Testphase! 
+52. **IOTA Audio**: [Flippin Burgers Spaces](https://twitter.com/MHiesboeck/status/1641797336018956289?s=20) war am Freitag
+53. **Crypo Ökosystem**: Chirp (ehem. Mesh+) baut auf Sui: [Tweet](https://twitter.com/ChirpIoT/status/1641804954146050048?s=20)
+54. **Crypto News**: Die [EU Blockchain tweetet](https://twitter.com/EUBlockchain/status/1641781717886279683?s=20) über den [Report on PoW Energy Consumption in the EU](https://www.eublockchainforum.eu/news/report-pow-energy-consumption-eu?pk_campaign=reports&pk_source=twitter&pk_medium=social) der gerade erschienen ist
+55. 
