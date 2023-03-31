@@ -46,3 +46,4 @@
 44. **Tangle Treasury**: [TangleTreasury tweetet](https://twitter.com/TangleTreasury/status/1641509746632011776?s=20) darüber, dass die Genesis Transaktion für die TangleTreasury getätigt wurde; Hier der Link: [tangletreasury.org/treasury-expenses](https://www.tangletreasury.org/treasury-expenses)
 45. **Fiat Drama**: Russland, China, Indien, Brasilien und SüdAfrika starten offenbar eine eigene Währung: [Tweet](https://twitter.com/WatcherGuru/status/1641655197595213827?s=20)
 46. **Shimmer EVM testing**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1641696836900515840?s=20), dass wir alle die Shimmer EVM ausgiebig testen sollen
+47. **IOTA Youtube**: Tutorial von Multi: [Soonaverse NFT zur Firefly Wallet senden | Tutorial](https://www.youtube.com/watch?v=X8VyL792b_k)
