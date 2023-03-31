@@ -54,4 +54,6 @@
 52. **IOTA Audio**: [Flippin Burgers Spaces](https://twitter.com/MHiesboeck/status/1641797336018956289?s=20) war am Freitag
 53. **Crypo Ökosystem**: Chirp (ehem. Mesh+) baut auf Sui: [Tweet](https://twitter.com/ChirpIoT/status/1641804954146050048?s=20)
 54. **Crypto News**: Die [EU Blockchain tweetet](https://twitter.com/EUBlockchain/status/1641781717886279683?s=20) über den [Report on PoW Energy Consumption in the EU](https://www.eublockchainforum.eu/news/report-pow-energy-consumption-eu?pk_campaign=reports&pk_source=twitter&pk_medium=social) der gerade erschienen ist
-55. 
+55. **IOTA Drama**: [SenfdaZu macht Stimmung](https://twitter.com/SenfdaTzu/status/1641818493682155520?s=20) gegen Dom und will einen längeren Artikel dazu heraus bringen
+56. **Ki Drama**: Italien banned chatGPT und [Antonio Nardella kommentiert](https://twitter.com/antonionardella/status/1641845129840304128?s=20) das; Hier ein Artikel darüber: [Italian privacy regulator bans ChatGPT](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
+57. 
