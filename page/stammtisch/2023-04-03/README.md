@@ -65,5 +65,6 @@
 63. **IOTA Event**: [Tweet von der IF](https://twitter.com/iota/status/1641757240045584384?s=20) über den nächsten Community Regulation Call
 64. **IOTA Event**: Community Poker am 7.4.: [Tweet](https://twitter.com/IotaPunks_71/status/1642067681061879808?s=20)
 65. **Crypto Adaption**: Artikel: [DIE EUROPÄISCHE UNION VERABSCHIEDET EINE NEUE REGELUNG FÜR UNVERIFIZIERTE KRYPTO-NUTZER](https://krypto-guru.de/news/die-europaeische-union-neue-regelung/)
-66. **Crypto Speculation**: Video: [Massiver Bitcoin Abverkauf steht bevor ($1 MRD USD)](https://www.youtube.com/watch?v=RtOnZbqsabU)
+66. **Crypto Speculation**: Video: [Massiver Bitcoin Abverkauf steht bevor ($1 MRD USD)](https://www.youtube.com/watch?v=RtOnZbqsabU); [Justin Sun tweetet](https://twitter.com/justinsuntron/status/1641862563662282753?s=20) darüber, dass er die Bitcoins OTC kaufen würde
+67. **IOTA Artikel**: von Cryptoticker: [How IOTA Smart Contracts Could Skyrocket the Value of MIOTA?](https://cryptoticker.io/en/iota-smart-contracts-skyrocket/)
 
