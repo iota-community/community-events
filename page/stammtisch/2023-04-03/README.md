@@ -68,5 +68,7 @@
 66. **Crypto Spekulation**: Video: [Massiver Bitcoin Abverkauf steht bevor ($1 MRD USD)](https://www.youtube.com/watch?v=RtOnZbqsabU); [Justin Sun tweetet](https://twitter.com/justinsuntron/status/1641862563662282753?s=20) darüber, dass er die Bitcoins OTC kaufen würde
 67. **IOTA Artikel**: von Cryptoticker: [How IOTA Smart Contracts Could Skyrocket the Value of MIOTA?](https://cryptoticker.io/en/iota-smart-contracts-skyrocket/)
 68. **Crypto Drama**: Ein [Tweetstorm](https://twitter.com/DotsamaApe/status/1641967416396722178?s=20) darüber wie die DOT Treassury $12 Millionen verprasst hat
-69. 
+69. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1642104530354466816?s=20) über den Guestpost von Coinmarketcap: [SPYCE.5 to Accelerate Enterprise Adoption](https://coinmarketcap.com/community/articles/64142e8f7948a07de257e0cc/)
+70. **IOTA Audio**: Am Montag 2.4. ist ein AMA mit TangleSwap: [Tweet von ShimmerDogeDao](https://twitter.com/shimmerdogedao/status/1642214095544827905?s=20)
+
 
