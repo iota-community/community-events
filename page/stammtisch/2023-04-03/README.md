@@ -58,4 +58,5 @@
 56. **Ki Drama**: Italien banned chatGPT und [Antonio Nardella kommentiert](https://twitter.com/antonionardella/status/1641845129840304128?s=20) das; Hier ein Artikel darüber: [Italian privacy regulator bans ChatGPT](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
 57. **Crypto Promote**: Justin Sun will USA BTC over the counter kaufen: [Tweet](https://twitter.com/justinsuntron/status/1641862563662282753?s=20)
 58. **Allg. News**: Twitter Open Source: [Tweet von Twitter](https://twitter.com/TwitterEng/status/1641872259320274944?s=20); Hier noch eine [Twitter Open Source Space Discussion](https://twitter.com/elonmusk/status/1641880448061120513?s=20) darüber
-59. 
+59. **IOTA Youtube**: by Blockbuilders: [The Beginning of the Shimmer Network (SOON!)](https://www.youtube.com/watch?v=TM44azKPXtU)
+
