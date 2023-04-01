@@ -61,4 +61,5 @@
 59. **IOTA Youtube**: by Blockbuilders: [The Beginning of the Shimmer Network (SOON!)](https://www.youtube.com/watch?v=TM44azKPXtU)
 60. **IOTA Artikel**: von ETH-News: [Revolutionizing Industries with IOTA Blockchain: A Look at Real-World Applications](https://www.ethnews.com/revolutionizing-industries-with-iota-blockchain-a-look-at-real-world-applications/)
 61. **Crypto News**: Artikel von CoinDesk: [U.S. Government Sold $216M of Seized Silk Road Bitcoin This Month](https://www.coindesk.com/business/2023/03/31/us-government-sold-216m-of-seized-silk-road-bitcoin-this-month/)
+62. **Shimmer EVM**: Wir sollten uns mal über den neuen [L2-Blockexplorer](https://explorer.evm.testnet.shimmer.network/) von der EVM-Chain unterhalten und die Unterschiede zum [L1-Shimmer Explorer](https://explorer.iota.org/testnet) vom Testnetz besprechen
 
