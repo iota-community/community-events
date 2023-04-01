@@ -59,4 +59,6 @@
 57. **Crypto Promote**: Justin Sun will USA BTC over the counter kaufen: [Tweet](https://twitter.com/justinsuntron/status/1641862563662282753?s=20)
 58. **Allg. News**: Twitter Open Source: [Tweet von Twitter](https://twitter.com/TwitterEng/status/1641872259320274944?s=20); Hier noch eine [Twitter Open Source Space Discussion](https://twitter.com/elonmusk/status/1641880448061120513?s=20) darüber
 59. **IOTA Youtube**: by Blockbuilders: [The Beginning of the Shimmer Network (SOON!)](https://www.youtube.com/watch?v=TM44azKPXtU)
+60. **IOTA Artikel**: von ETH-News: [Revolutionizing Industries with IOTA Blockchain: A Look at Real-World Applications](https://www.ethnews.com/revolutionizing-industries-with-iota-blockchain-a-look-at-real-world-applications/)
+61. **Crypto News**: Artikel von CoinDesk: [U.S. Government Sold $216M of Seized Silk Road Bitcoin This Month](https://www.coindesk.com/business/2023/03/31/us-government-sold-216m-of-seized-silk-road-bitcoin-this-month/)
 
