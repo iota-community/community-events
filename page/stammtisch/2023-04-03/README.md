@@ -67,4 +67,6 @@
 65. **Crypto Adaption**: Artikel: [DIE EUROPÄISCHE UNION VERABSCHIEDET EINE NEUE REGELUNG FÜR UNVERIFIZIERTE KRYPTO-NUTZER](https://krypto-guru.de/news/die-europaeische-union-neue-regelung/)
 66. **Crypto Spekulation**: Video: [Massiver Bitcoin Abverkauf steht bevor ($1 MRD USD)](https://www.youtube.com/watch?v=RtOnZbqsabU); [Justin Sun tweetet](https://twitter.com/justinsuntron/status/1641862563662282753?s=20) darüber, dass er die Bitcoins OTC kaufen würde
 67. **IOTA Artikel**: von Cryptoticker: [How IOTA Smart Contracts Could Skyrocket the Value of MIOTA?](https://cryptoticker.io/en/iota-smart-contracts-skyrocket/)
+68. **Crypto Drama**: Ein [Tweetstorm](https://twitter.com/DotsamaApe/status/1641967416396722178?s=20) darüber wie die DOT Treassury $12 Millionen verprasst hat
+69. 
 
