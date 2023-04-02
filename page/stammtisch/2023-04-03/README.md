@@ -72,6 +72,7 @@
 70. **IOTA Audio**: Am Montag 2.4. ist ein AMA mit TangleSwap: [Tweet von ShimmerDogeDao](https://twitter.com/shimmerdogedao/status/1642214095544827905?s=20)
 71. **IOTA Adaption**: 2 Tweets von Chr. Strnadl: [Tweet 1](https://twitter.com/archimate/status/1642247227807617025?s=20) darüber, dass er ein Advisor für Spyce-5 ist und [ein Tweet](https://twitter.com/archimate/status/1642269132803514368?s=20) darüber, dass die SoftwareAG offiziell vom Projekt Sponsor ([Deutschen Zentrum für Luft- und Raumfahrt](https://twitter.com/DLR_de)) gebeten wurde, die Aufgaben der IF im Bezug auf [iECO (Inteligent Empowerment of Construction Industry) von gaiaX](https://ieco-gaiax.de/) zu übernehmen. Als mögliche Anwendungsfälle von IOTA werden "Identity for GaiaX personal & org’l credentials #DID’s", "Tangle as tamper-proof TX registry via IOTA Streams" und "ISCP (Smart Contracts) for multi-party shared state for policies iECO" gesehen: [Tweet](https://twitter.com/archimate/status/1642269965095936001?s=20)
 72. **Privacy News**: Artikel von heise.de: [Crypto Wars: USA und EU fordern Einbau von Klartext-Zugang in die Technik](https://www.heise.de/news/Crypto-Wars-USA-und-EU-fordern-Einbau-von-Klartext-Zugang-in-die-Technik-8335278.html)
+73. **Shimmer Youtube**: von Finanz Goblin: [Shimmer Testnet: So farmst du Airdrops und interagierst mit dem Ökosystem!](https://www.youtube.com/watch?v=z93Xoiybbd0)
 
 
 
