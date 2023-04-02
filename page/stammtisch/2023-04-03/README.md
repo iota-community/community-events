@@ -74,6 +74,9 @@
 72. **Privacy News**: Artikel von heise.de: [Crypto Wars: USA und EU fordern Einbau von Klartext-Zugang in die Technik](https://www.heise.de/news/Crypto-Wars-USA-und-EU-fordern-Einbau-von-Klartext-Zugang-in-die-Technik-8335278.html)
 73. **Shimmer Youtube**: von Finanz Goblin: [Shimmer Testnet: So farmst du Airdrops und interagierst mit dem Ökosystem!](https://www.youtube.com/watch?v=z93Xoiybbd0)
 74. **1. April Scherze**: [visualio tweetet](https://twitter.com/visualio/status/1642240985831727106?s=20) einige lustige Fakenews zu IOTA und auf den [vrom Tweet](https://twitter.com/Vrom14286662/status/1642068461621747715?s=20) sind auch einige rein gefallen; Die [Antwort von chat GPT zu IOTA](https://twitter.com/rohmeo_de/status/1642043970963357698?s=20) war etwas verändert und der Artikel von Blocktrainer: [Neue Energiequelle: eine Gefahr für Bitcoin & der Grund hinter dem Allzeithoch der Hashrate?](https://www.blocktrainer.de/neue-energiequelle-gefahr-bitcoin) frei erfunden (auch wenn man darüber mal diskutieren könnte: Was passiert wenn jemand eine neue Energiequelle findet und heimlich BTC mined?)
+75. **IOTA Artikel**: von Krypto Guru: [IOTA: 1. SHIMMER-EVM TESTNET WURDE GESTARTET!](https://krypto-guru.de/news/iota-shimmer-evm-gestartet/)
+76. **IOTA Audio**: am Donnerstag kommt [serverox](https://twitter.com/servrox) in den TangleGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1642436213444431873?s=20)
+77. **IOTA Wochenrückblick**: Iota Talk [Wochenrückblick](https://twitter.com/Iota_Talk_/status/1642423235726700550)
 
 
 
