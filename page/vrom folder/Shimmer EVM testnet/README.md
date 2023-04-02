@@ -11,6 +11,6 @@ You can also find many dApps in the IOTA Discrod: [#shimmerevm-testnet-dapps ins
 7. **Deeprfinance (DeFi DEX)**: 
 8. **LendeXe (DeFi Lending)**:
 9. **Daobee (NFT Game)**:
-10. **ApeDao (NFT DeFi)**:
+10. **ApeDao (NFT DeFi)**: [Voting Test](https://snapshot.org/#/iotapes.eth/proposal/0x456c6c9e1a8d8634e495e24126350de77b8f2479ab603c0b55950ec294a12800), gefunden im [Tweet von AlphaRo](https://twitter.com/0xAlphaRho/status/1642599485787320320?s=20)
 11. **DarkMythos (NFT Game)**:
 12. **IotaBots (NFT Game)**:
