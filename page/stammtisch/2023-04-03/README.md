@@ -78,5 +78,3 @@
 76. **IOTA Audio**: am Donnerstag kommt [serverox](https://twitter.com/servrox) in den TangleGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1642436213444431873?s=20)
 77. **IOTA Wochenrückblick**: Iota Talk [Wochenrückblick](https://twitter.com/Iota_Talk_/status/1642423235726700550)
 
-
-
