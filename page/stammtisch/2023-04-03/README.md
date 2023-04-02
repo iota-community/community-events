@@ -80,5 +80,5 @@
 78. **Crypto Drama**: Arbitrum DAO Drama: [Tweet](https://twitter.com/0xedenau/status/1642502145839890432?s=20); Artikel: [Arbitrum Foundation Sold ARB Tokens Ahead of 'Ratification' Vote on Governance, Budget](https://www.coindesk.com/business/2023/04/02/contentious-arbitrum-vote-over-1b-in-tokens-ratification-not-request-says-foundation/)
 79. **Shimmer Artikel**: von Crowdfund Insider: [DLT, Web3: IOTA to Support DeFi Ecosystem with ShimmerEVM Test Chain Launch](https://www.crowdfundinsider.com/2023/03/204429-dlt-web3-iota-to-support-defi-ecosystem-with-shimmerevm-test-chain-launch/)
 80. **Fiat Drama**: Artikel über den Cum Cum Skandal in Frankreich: [Haben Großbanken Milliarden Steuern hinterzogen?](https://www.n-tv.de/wirtschaft/Haben-Grossbanken-Milliarden-Steuern-hinterzogen-article24026642.html)
-
+81. **IOTA Ökosystem**: Das [Bivreost Wallet](https://twitter.com/bivreost) bekommt ein Update: [Tweet](https://twitter.com/bivreost/status/1642545534216052739?s=20) Man kann dann auf Zahlungen mit Herzchen usw. reagieren
 
