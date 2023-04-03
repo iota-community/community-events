@@ -1,7 +1,7 @@
 ## IOTA Stammtischthemen für Montag, den 3.4.2023
 
 1. **IOTA Quicktakes**: Die [IF tweetet](https://twitter.com/iota/status/1640277568594010113?s=20) über die [IOTA Quicktakes 27.03.2023: Meet SPYCE5, #shimmer Governance Voting explained & more!](https://www.youtube.com/watch?v=zW0Mbpuy5dI)
-2. **Crypto Drama**: THORchain down? [Tweet](https://twitter.com/THORChain/status/1640569760974008320?s=20)
+2. **Crypto Drama**: THORChain down? [Tweet](https://twitter.com/THORChain/status/1640569760974008320?s=20)
 3. **IOTA Stammtisch**: Am 1.4. in Köln: [#IOTA Stammtisch - Köln](https://www.meetup.com/de-DE/the-future-of-web3-iota-stammtisch-koln/events/291792068/); [Tweet](https://twitter.com/IotaPunks_71/status/1639938776083439617?s=20)
 4. **IOTA Ökosystem**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1640619228717002752?s=20) darüber, dass sie Developer suchen/einstellen und auch [Garret tweetet](https://twitter.com/GarrettBullish/status/1640620200784703489?s=20) darüber
 5. **IOTA Artikel**: von Crypto News Flash: [IOTA: Shimmer könnte das Distributed-Ledger sein, auf das die Branche gewartet hat – auf jeden Fall hat es ein enormes Potenzial](https://www.crypto-news-flash.com/de/iota-shimmer-koennte-das-distributed-ledger-sein-auf-das-die-branche-gewartet-hat-auf-jeden-fall-hat-es-ein-enormes-potenzial/?feed_id=14129&_unique_id=64215bd1c5814)
