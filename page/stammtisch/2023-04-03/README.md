@@ -88,5 +88,5 @@
 86. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://twitter.com/ShimmerSeaDEX/status/1642859501765140480?s=20), dass sie jetzt Live im Testnetz sind auf [https://shimmersea.finance/](https://shimmersea.finance/)
 87. **Shimmer Ökosystem**: [ApeDAO tweetet](https://twitter.com/iotapes/status/1642860203237310465?s=20), dass [app.apedao.finance](https://app.apedao.finance/) auch ausprobiert werden kann
 88. **Shimmer Voting**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1642889701307691009) über die Voting Ergebnisse: [Shimmer Governance Voting Results March 2023](https://blog.shimmer.network/governance-voting-results-march-2023/)
-89. **IOTA Stammtisch**: in München am Sa. 15.4.21. : [Tweet](https://twitter.com/IotaMunchen/status/1642910722496552962?s=20)
+89. **IOTA Stammtisch**: in München am Sa. 15.4.21. : [Tweet](https://twitter.com/IotaMunchen/status/1642910722496552962?s=20); [Event](https://www.meetup.com/de-DE/iota-muc/events/rjcftsyfcgbkb/)
 
