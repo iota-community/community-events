@@ -8,3 +8,5 @@
 6. **Doge Promote**: Elon Musk hatte am Montag den Vogel von Twitter durch das Doge Symbol ersetzt: Hintergrund im Artikel von Blocktrainer: [Auf den Hund gekommen: DOGE ersetzt Twitter-Logo](https://www.blocktrainer.de/auf-den-hund-gekommen-doge-ersetzt-twitter-logo/)
 7. **Community Treassury**: Es gab ein Kick-Off Meeting: [Tweet](https://twitter.com/TangleTreasury/status/1642959162861813761?s=20)
 8. **IOTA Youtube**: von Finanzgoblin: [Shimmer Testnet: So farmst du Airdrops und interagierst mit dem Ökosystem!](https://www.youtube.com/watch?v=z93Xoiybbd0&t=283s)
+9. **IOTA Artikel**: von ETH News: [IOTA: Shimmer Network Unveils Grant & Growth Committees to Boost Ecosystem](https://www.ethnews.com/iota-shimmer-network-unveils-grant-growth-committees-to-boost-ecosystem/)
+10. **IOTA Event**: Für das [berlinweb3 Event](https://t.co/kbqdQq00wA) am 10.-11.06. kann man Tickets gewinnen in dem [Tweet von Adam](https://twitter.com/Schpoopel/status/1643163919106621440?s=20)
