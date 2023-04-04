@@ -15,3 +15,4 @@
 13. **IOTA Drama**: [Senfda Tzu tweetet](https://twitter.com/SenfdaTzu/status/1643217909592776704?s=20) über seinen Artikel: [For a real fresh start at IOTA, a change at the top is needed.](https://medium.com/@karsten.bienek/for-a-real-fresh-start-at-iota-a-change-at-the-top-is-needed-66252724f7e1)
 14. **IOTA 2.0 MVP**: Neuer [1-2 Wochen-Tweet von Hans Moog](https://twitter.com/hus_qy/status/1643208529640140800?s=20)?
 15. **IOTA SC Drama**: Im Discord gab es einen [offenen Schlagabtausch](https://discord.com/channels/397872799483428865/399035929106579466/1092719648182632448) zwischen Hans Moog und Evaldas über Smart Contracts
+16. **IOTA AMA**: Hier die [Fragen und Antworten von Dave auf Reddit](https://www.reddit.com/r/Iota/comments/125ozrx/doubleama_ask_the_smart_contracts_team_on_reddit/)
