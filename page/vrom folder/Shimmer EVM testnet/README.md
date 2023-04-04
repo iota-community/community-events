@@ -15,6 +15,6 @@ After that use Metamask Wallet to connect to the following websites:
 8. **Deeprfinance (DeFi DEX)**: 
 9. **LendeXe (DeFi Lending)**:
 10. **Daobee (NFT Game)**:
-11. **ApeDao (NFT DeFi)**: [Voting Test](https://snapshot.org/#/iotapes.eth/proposal/0x456c6c9e1a8d8634e495e24126350de77b8f2479ab603c0b55950ec294a12800), gefunden im [Tweet von AlphaRo](https://twitter.com/0xAlphaRho/status/1642599485787320320?s=20); [app.apedao.finance](https://app.apedao.finance/) gefunden im ApeDao Discord
+11. **ApeDao (NFT DeFi)**: [Voting Test](https://snapshot.org/#/iotapes.eth/proposal/0x456c6c9e1a8d8634e495e24126350de77b8f2479ab603c0b55950ec294a12800), found in [Tweet from AlphaRo](https://twitter.com/0xAlphaRho/status/1642599485787320320?s=20); [app.apedao.finance](https://app.apedao.finance/) found inside the ApeDao Discord
 12. **DarkMythos (NFT Game)**:
 13. **IotaBots (NFT Game)**:
