@@ -5,7 +5,7 @@ You can also find many dApps in the IOTA Discrod: [#shimmerevm-testnet-dapps ins
 Check out the the [explorer.evm.testnet.shimmer.network](https://explorer.evm.testnet.shimmer.network/) first, if the testnet is running.
 After that use Metamask Wallet to connect to the following websites:
 
-1. **Official Shimmer EVM Toolkit and Faucet**: [https://evm-toolkit.evm.testnet.shimmer.network/](https://evm-toolkit.evm.testnet.shimmer.network/)
+1. **Official Shimmer EVM Toolkit and Faucet**: [https://evm-toolkit.evm.testnet.shimmer.network/](https://evm-toolkit.evm.testnet.shimmer.network/); Token gibt es aber auch auf [https://evm-faucet.testnet.shimmer.network/](https://evm-faucet.testnet.shimmer.network)
 2. **Tanglechains.org from Spyce_5**: [https://www.tanglechains.org/](https://www.tanglechains.org/?testnets=true); Der Link ist aus diesem [Tweet von Spyce_5](https://twitter.com/TangleChains/status/1635535969679036417?s=20)
 3. **Iotabee (DeFi DEX)**: [https://earlybee.iotabee.com](https://earlybee.iotabee.com/); Der Link ist aus diesem [Tweet von Iotabee](https://twitter.com/iotabee/status/1641730156535357441?s=20)
 4. **ShimmerSea (DeFi DEX)**: [https://shimmersea.finance](https://shimmersea.finance)
