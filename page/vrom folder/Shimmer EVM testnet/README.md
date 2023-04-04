@@ -6,7 +6,7 @@ Check out the the [explorer.evm.testnet.shimmer.network](https://explorer.evm.te
 After that use Metamask Wallet to connect to the following websites:
 
 1. **Official Shimmer EVM Toolkit and Faucet**: [evm-toolkit.evm.testnet.shimmer.network](https://evm-toolkit.evm.testnet.shimmer.network/)
-2. **Get Token**: You can get SMR on [evm-toolkit.evm.testnet.shimmer.network](https://evm-toolkit.evm.testnet.shimmer.network/). Many other token you get on, [earlybee.iotabee.com](https://earlybee.iotabee.com/dex/faucets) or on [evm-faucet.testnet.shimmer.network](https://evm-faucet.testnet.shimmer.network)
+2. **Get Token**: You can get SMR test token on [evm-toolkit.evm.testnet.shimmer.network](https://evm-toolkit.evm.testnet.shimmer.network/). Other token you can get on, [earlybee.iotabee.com](https://earlybee.iotabee.com/dex/faucets) or on [evm-faucet.testnet.shimmer.network](https://evm-faucet.testnet.shimmer.network), or just swap SMR to other coins on [shimmersea.finance](https://shimmersea.finance) or [earlybee.iotabee.com](https://earlybee.iotabee.com/)
 3. **Tanglechains.org from Spyce_5**: [tanglechains.org](https://www.tanglechains.org/?testnets=true); Der Link ist aus diesem [Tweet von Spyce_5](https://twitter.com/TangleChains/status/1635535969679036417?s=20)
 4. **Iotabee (DeFi DEX)**: [earlybee.iotabee.com](https://earlybee.iotabee.com/); The link is from this [Tweet from Iotabee](https://twitter.com/iotabee/status/1641730156535357441?s=20)
 5. **ShimmerSea (DeFi DEX)**: [shimmersea.finance](https://shimmersea.finance)
