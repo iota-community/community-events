@@ -13,3 +13,4 @@
 11. **Crypto Adaption**: Artikel: [Bitpanda kooperiert mit dem Berliner Fintech-Unicorn Mambu](https://www.trendingtopics.eu/bitpanda-kooperiert-mit-dem-berliner-fintech-unicorn-mambu/)
 12. **IF Intern**: Die [IF sucht](https://twitter.com/iota/status/1643191692265127936?s=20) einen [Senior Software Engineer](https://iota-foundation.jobs.personio.com/job/1069610?display=en)
 13. **IOTA Drama**: [Senfda Tzu tweetet](https://twitter.com/SenfdaTzu/status/1643217909592776704?s=20) über seinen Artikel: [For a real fresh start at IOTA, a change at the top is needed.](https://medium.com/@karsten.bienek/for-a-real-fresh-start-at-iota-a-change-at-the-top-is-needed-66252724f7e1)
+14. **IOTA 2.0 MVP**: Neuer [1-2 Wochen-Tweet von Hans Moog](https://twitter.com/hus_qy/status/1643208529640140800?s=20)?
