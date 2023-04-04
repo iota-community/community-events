@@ -16,3 +16,5 @@
 14. **IOTA 2.0 MVP**: Neuer [1-2 Wochen-Tweet von Hans Moog](https://twitter.com/hus_qy/status/1643208529640140800?s=20)?
 15. **IOTA SC Drama**: Im Discord gab es einen [offenen Schlagabtausch](https://discord.com/channels/397872799483428865/399035929106579466/1092719648182632448) zwischen Hans Moog und Evaldas über Smart Contracts
 16. **IOTA AMA**: Hier die [Fragen und Antworten von Dave auf Reddit](https://www.reddit.com/r/Iota/comments/125ozrx/doubleama_ask_the_smart_contracts_team_on_reddit/)
+17. **IOTA Ökosystem**: [LendeXe tweetet](https://twitter.com/LendeXeFinance/status/1643312379323662337?s=20) über ihr stetig steigendes TVL und darüber, dass jetzt [LendeXe auf DefiLlame](https://defillama.com/protocol/lendexe-finance) zu finden ist
+18. 
