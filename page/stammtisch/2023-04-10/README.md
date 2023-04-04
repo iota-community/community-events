@@ -7,3 +7,4 @@
 5. **IOTA Ökosystem**: [Iotabots tweetet](https://twitter.com/iotabots/status/1642890117307064320?s=20) darüber, dass die [1043 Iotabots auf der Shimmer EVM Testnetz](https://explorer.evm.testnet.shimmer.network/token/0xb5A53615170e4684E488C9E1c641aB9dDC307489/inventory) zu finden sind
 6. **Doge Promote**: Elon Musk hatte am Montag den Vogel von Twitter durch das Doge Symbol ersetzt: Hintergrund im Artikel von Blocktrainer: [Auf den Hund gekommen: DOGE ersetzt Twitter-Logo](https://www.blocktrainer.de/auf-den-hund-gekommen-doge-ersetzt-twitter-logo/)
 7. **Community Treassury**: Es gab ein Kick-Off Meeting: [Tweet](https://twitter.com/TangleTreasury/status/1642959162861813761?s=20)
+8. **IOTA Youtube**: von Finanzgoblin: [Shimmer Testnet: So farmst du Airdrops und interagierst mit dem Ökosystem!](https://www.youtube.com/watch?v=z93Xoiybbd0&t=283s)
