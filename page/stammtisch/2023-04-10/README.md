@@ -6,7 +6,7 @@
 4. **IOTA DeFi**: [ZeroSwapNFT tweetet](https://twitter.com/ZeroSwapNFT/status/1642871695185682433?s=20) über ihren Blogpost: [ZeroSwapNFT Updates: New Improvements and Content Available](https://zeroswapnft.medium.com/zeroswapnft-updates-new-improvements-and-content-available-6ce45a8028be); Später [tweeten sie](https://twitter.com/ZeroSwapNFT/status/1642901005183377410?s=20) über ihr [ZeroSwapNFT Whitepaper](https://whitepaper.zeroswapnft.com/) und hier ein [Tweet mit Video](https://twitter.com/ZeroSwapNFT/status/1642900904226574337?s=20) über ihre NFTs
 5. **IOTA Ökosystem**: [Iotabots tweetet](https://twitter.com/iotabots/status/1642890117307064320?s=20) darüber, dass die [1043 Iotabots auf der Shimmer EVM Testnetz](https://explorer.evm.testnet.shimmer.network/token/0xb5A53615170e4684E488C9E1c641aB9dDC307489/inventory) zu finden sind
 6. **Doge Promote**: Elon Musk hatte am Montag den Vogel von Twitter durch das Doge Symbol ersetzt: Hintergrund im Artikel von Blocktrainer: [Auf den Hund gekommen: DOGE ersetzt Twitter-Logo](https://www.blocktrainer.de/auf-den-hund-gekommen-doge-ersetzt-twitter-logo/)
-7. **Community Treassury**: Es gab ein Kick-Off Meeting: [Tweet](https://twitter.com/TangleTreasury/status/1642959162861813761?s=20)
+7. **Community Treassury**: Es gab ein Kick-Off Meeting: [Tweet 1](https://twitter.com/TangleTreasury/status/1642959162861813761?s=20); [Tweet 2](https://twitter.com/TangleTreasury/status/1643334663098839041?s=20) mit den [Meeting Minutes](https://www.tangletreasury.org/governance-and-treasury-minutes)
 8. **IOTA Youtube**: von Finanzgoblin: [Shimmer Testnet: So farmst du Airdrops und interagierst mit dem Ökosystem!](https://www.youtube.com/watch?v=z93Xoiybbd0&t=283s)
 9. **IOTA Artikel**: von ETH News: [IOTA: Shimmer Network Unveils Grant & Growth Committees to Boost Ecosystem](https://www.ethnews.com/iota-shimmer-network-unveils-grant-growth-committees-to-boost-ecosystem/)
 10. **IOTA Event**: Für das [berlinweb3 Event](https://t.co/kbqdQq00wA) am 10.-11.06. kann man Tickets gewinnen in dem [Tweet von Adam](https://twitter.com/Schpoopel/status/1643163919106621440?s=20)
@@ -17,4 +17,5 @@
 15. **IOTA SC Drama**: Im Discord gab es einen [offenen Schlagabtausch](https://discord.com/channels/397872799483428865/399035929106579466/1092719648182632448) zwischen Hans Moog und Evaldas über Smart Contracts
 16. **IOTA AMA**: Hier die [Fragen und Antworten von Dave auf Reddit](https://www.reddit.com/r/Iota/comments/125ozrx/doubleama_ask_the_smart_contracts_team_on_reddit/)
 17. **IOTA Ökosystem**: [LendeXe tweetet](https://twitter.com/LendeXeFinance/status/1643312379323662337?s=20) über ihr stetig steigendes TVL und darüber, dass jetzt [LendeXe auf DefiLlame](https://defillama.com/protocol/lendexe-finance) zu finden ist
-18. 
+18. **IOTA Artikel**: von Crypto News Flash: [IOTA: Shimmer will implement 4 super important governance proposals to foster ecosystem development in billion-$-market – All you need to know](https://www.crypto-news-flash.com/iota-shimmer-will-implement-4-super-important-governance-proposals-to-foster-ecosystem-development-in-billion-market-all-you-need-to-know/)
+19. 
