@@ -1,6 +1,6 @@
 ## All links, where you can test the Shimmer EVM Testnet and connect a website to your Metamask/Tanglepay Wallet
 
-You can also find many dApps in the IOTA Discrod: [#shimmerevm-testnet-dapps inside the Ecosystem Channel](https://discord.com/channels/397872799483428865/1091292560464564256)
+You can also find many dApps in the IOTA Discord Channel: [#shimmerevm-testnet-dapps](https://discord.com/channels/397872799483428865/1091292560464564256) inside the Ecosystem Channel
 
 Check out the the [explorer.evm.testnet.shimmer.network](https://explorer.evm.testnet.shimmer.network/) first, if the testnet is running.
 After that use Metamask Wallet to connect to the following websites:
