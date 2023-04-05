@@ -19,3 +19,4 @@
 17. **IOTA Ökosystem**: [LendeXe tweetet](https://twitter.com/LendeXeFinance/status/1643312379323662337?s=20) über ihr stetig steigendes TVL und darüber, dass jetzt [LendeXe auf DefiLlame](https://defillama.com/protocol/lendexe-finance) zu finden ist
 18. **IOTA Artikel**: von Crypto News Flash: [IOTA: Shimmer will implement 4 super important governance proposals to foster ecosystem development in billion-$-market – All you need to know](https://www.crypto-news-flash.com/iota-shimmer-will-implement-4-super-important-governance-proposals-to-foster-ecosystem-development-in-billion-market-all-you-need-to-know/)
 19. **IOTA 2.0 MVP**: GoShimmer GitHub-Zusammenfassung von [id.iota](https://twitter.com/id_iota) [am Mittwoch](https://twitter.com/id_iota/status/1643508792120979456?s=20)
+20. **Shimmer Event**: Am Samstag ist/war ein ["Shimmer L1 L2 workshop" im ApeDAO Discord](https://discord.com/events/952695802415943750/1093074821455302698)
