@@ -21,3 +21,5 @@
 19. **IOTA 2.0 MVP**: GoShimmer GitHub-Zusammenfassung von [id.iota](https://twitter.com/id_iota) [am Mittwoch](https://twitter.com/id_iota/status/1643508792120979456?s=20)
 20. **Shimmer Event**: Am Samstag ist/war ein ["Shimmer L1 L2 workshop" im ApeDAO Discord](https://discord.com/events/952695802415943750/1093074821455302698)
 21. **IOTA Ökosystem**: [Darkmythos tweetet] über ihren Blogpost[Crypto TCG with NFT Authentication: The Future of Online Card Games](https://darkmythos.medium.com/crypto-tcg-with-nft-authentication-the-future-of-online-card-games-250f0ba59148) 
+22. **Shimmer Ökosystem**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1643599380975345665?s=20) über den Blogpost: [Shimmer Partners With Multichain](https://blog.shimmer.network/shimmer-partners-with-multichain/); [Dom retweetet](https://twitter.com/DomSchiener/status/1643608116473233412?s=20) das
+23. **Shimmer EVM**: Die Shimmer EVM wurde nochmal geupdated und ist jetzt viel schneller: [Tweet mit Screenshot](https://twitter.com/TangleVerseWeb/status/1643572817777119233?s=20); [Video von vrom](https://www.youtube.com/watch?v=sE9Lpzr-CSg&t=3s)
