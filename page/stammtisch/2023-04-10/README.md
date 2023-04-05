@@ -20,3 +20,4 @@
 18. **IOTA Artikel**: von Crypto News Flash: [IOTA: Shimmer will implement 4 super important governance proposals to foster ecosystem development in billion-$-market – All you need to know](https://www.crypto-news-flash.com/iota-shimmer-will-implement-4-super-important-governance-proposals-to-foster-ecosystem-development-in-billion-market-all-you-need-to-know/)
 19. **IOTA 2.0 MVP**: GoShimmer GitHub-Zusammenfassung von [id.iota](https://twitter.com/id_iota) [am Mittwoch](https://twitter.com/id_iota/status/1643508792120979456?s=20)
 20. **Shimmer Event**: Am Samstag ist/war ein ["Shimmer L1 L2 workshop" im ApeDAO Discord](https://discord.com/events/952695802415943750/1093074821455302698)
+21. **IOTA Ökosystem**: [Darkmythos tweetet] über ihren Blogpost[Crypto TCG with NFT Authentication: The Future of Online Card Games](https://darkmythos.medium.com/crypto-tcg-with-nft-authentication-the-future-of-online-card-games-250f0ba59148) 
