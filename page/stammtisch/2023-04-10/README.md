@@ -30,3 +30,15 @@
 28. **IOTA Community Governements**: von IOTA Community Governance: [4 Apr, 2023: Tangle Community Treasury Meeting #1](https://www.youtube.com/watch?v=al8vnZaHDBw)
 29. **Crypto Adaption**: Schweizer Postbank will 2,5 Millionen Nutzern Crypto ermöglichen; Artikel: [Swiss Government-Owned Bank PostFinance to Offer Customers Crypto](https://www.coindesk.com/business/2023/04/05/swiss-government-owned-bank-postfinance-to-offer-customers-crypto/)
 30. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1643605641418743812?s=20) über ihr neues [Whitepaper](https://drive.google.com/file/d/1Qfc7WK4Rqdqeeze7q1aKZ19t6wDZ8VKe/view)
+31. **IF Blogpost**: Die [IF tweetet](https://twitter.com/iota/status/1643961763971383296?s=20) über den [Progress Report Q1 2023 - Latest Developments Across IOTA and Shimmer]((https://blog.iota.org/progress-report-q1-2023/)
+32. **IOTA Promote**: Guerilla IOTA Marketing in Frankfurt: [Tweet](https://twitter.com/Vrom14286662/status/1643922993704235010?s=20)
+33. **IOTA Audio**: Neuer [Moonaco Podcast Episode 70 mit Speak](https://open.spotify.com/episode/1NNNJqAH7O12wiUGbq0zVI?si=AdN_cq8-SKe3Ph9yflYHuQ&dd=1): [Tweet](https://twitter.com/MoonacoPodcast/status/1643917953333706752?s=20)
+34. **IOTA Artikel**: von ETH News: [IOTA partners with Multichain to enable cross-chain interoperability with Shimmer, Bitcoin, Ethereum, and other ecosystems](https://www.ethnews.com/iota-partners-with-multichain-to-enable-cross-chain-interoperability-with-shimmer-bitcoin-ethereum-and-other-ecosystems/)
+35. **Crypto Adaption**: Artikel von Crypto News Flash: [Ralph Lauren integrates Polygon (MATIC) in cooperation with BitPay as payment option in billion-$-market – Report](https://www.crypto-news-flash.com/ralph-lauren-integrates-polygon-matic-in-cooperation-with-bitpay-as-payment-option-in-billion-market-report/?feed_id=14446&_unique_id=642e6928f3dff)
+36. **Bitcoin Marketing**: Das Bitcoin Whitepaper ist in jedem Apple Gerät wenn man den command: "open /System/Library/Image\ Capture/Devices/VirtualScanner.app/Contents/Resources/simpledoc.pdf" ausführt: [Tweet](https://twitter.com/kranirudha/status/1643889717870739456?s=20)
+37. **IOTA Artikel**: von Invezz: [IOTA price surges towards 3-month high after Shimmer & Multichain partnership](https://invezz.com/news/2023/04/05/iota-price-surges-towards-3-month-high-after-shimmer-multichain-partnership/)
+38. **IOTA Youtube**: von Rene: [ShimmerEVM Testnet Demo Speed Geschwindigkeit Deepr.finance ShimmerSea Shimmer EVM](https://www.youtube.com/watch?v=o3Q3MwuqRQk)
+39. **IOTA Audio**: [Invotalks tweetet](https://twitter.com/invotalks/status/1643679777780563969?s=20) über ein baldiges Interview mit Mariana de la Roche
+40. **Fiat Drama**: In Frankreich wurde die Zentrale von Blackrock gestürmt: [Tweet](https://twitter.com/TOysmueller/status/1643926653603651587?s=20)
+
+
