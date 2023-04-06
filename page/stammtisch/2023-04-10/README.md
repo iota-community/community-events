@@ -40,5 +40,17 @@
 38. **IOTA Youtube**: von Rene: [ShimmerEVM Testnet Demo Speed Geschwindigkeit Deepr.finance ShimmerSea Shimmer EVM](https://www.youtube.com/watch?v=o3Q3MwuqRQk)
 39. **IOTA Audio**: [Invotalks tweetet](https://twitter.com/invotalks/status/1643679777780563969?s=20) über ein baldiges Interview mit Mariana de la Roche
 40. **Fiat Drama**: In Frankreich wurde die Zentrale von Blackrock gestürmt: [Tweet](https://twitter.com/TOysmueller/status/1643926653603651587?s=20)
+41. **IOTA Science**: Die [IF tweetet](https://twitter.com/iota/status/1643871167546007553?s=20) über ein neues Paper: [STABILITY OF LOCAL TIP POOL SIZES von SEBASTIAN MÜLLER*, ISABEL AMIGO, ALEXANDRE REIFFERS-MASSON, AND SANTIAGO RUANO-RINCÓN](https://arxiv.org/pdf/2302.01625.pdf)
+42. **IOTA Governements**: Es gab am Donnerstag ein Governements Meeting im iota Discord: [Tweet](https://twitter.com/PhyloIota/status/1643649998092115969?s=20)
+43. **Crypto/Fiat Drama**: Artikel: [US Treasury Says Decentralized Crypto Markets Threaten National Security](https://watcher.guru/news/us-treasury-says-decentralized-crypto-markets-threaten-national-security)
+44. **IOTA Artikel**: von The Crypto Basic: [IOTA Moves Towards Interoperability With Shimmers With Multichain Partnership](https://thecryptobasic.com/2023/04/05/iota-moves-towards-interoperability-with-shimmers-with-multichain-partnership/)
+45. **IOTA Artikel**: von steemit: [Shimmer (SMR): IOTA's side project collaborates with Multichain (MULTI)](https://steemit.com/iota/@uwe69/shimmer-smr-iota-s-side-project-collaborates-with-multichain-multi)
+46. **IOTA Artikel**: von Crypto News Flash: [Massive IOTA updates: ShimmerEVM, Ledger support for Shimmer, governance proposals and Iotabee and ShimmerSeDEX](https://www.crypto-news-flash.com/massive-iota-updates-shimmerevm-ledger-support-for-shimmer-governance-proposals-and-iotabee-and-shimmersedex/?feed_id=14440&_unique_id=642da5e95a90d)
+47. **IOTA Adaption**: [Gold Standard tweetet](https://twitter.com/goldstandard/status/1643977627865329670?s=20) darüber, dass sie zusammen mit [Mat Yager](https://twitter.com/Mat_Yarger) eine Konsultation zu digitalen Systemen gestartet haben, die das Wachstum des freiwilligen CO2-Marktes unterstützen werden und verlinken den Artikel: [From Paper to Pixels: Consultation on Developing Digital Infrastructure and APIs for the Carbon Market](https://www.goldstandard.org/blog-item/paper-pixels-consultation-developing-digital-infrastructure-and-apis-carbon-market)
+48. **IOTA Artikel**: von Blockzeit: [ISO20022 Projects: Can IOTA Hit $100 In 2023?](https://blockzeit.com/iso20022-projects-can-iota-make-hit-100-in-2023/)
+49. **IOTA Artikel**: von Invester Observer: [What's Next for Very Bullish Rated IOTA (MIOTA)?](https://www.investorsobserver.com/news/crypto-update/whats-next-for-very-bullish-rated-iota-miota-3)
+50. **Crypto Adaption**: Die [EU Blockchain tweetet](https://twitter.com/EUBlockchain/status/1643969229883052034?s=20) darüber, dass die [European blockchain regulatory sandbox for Distributed Ledger Technologies](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/Sandbox+Project) gestartet ist
+51. **IOTA Event**: [Spyce_5 tweetet](https://twitter.com/SPYCE_5/status/1643963037219422209?s=20) über die [Blockchain@HTW Conference](https://blockchainhtwkonferenz.com/) wo sie nächste Woche dabei sind. Auch die [IF tweetet](https://twitter.com/iota/status/1643916463470792705) darüber
+52. 
 
 
