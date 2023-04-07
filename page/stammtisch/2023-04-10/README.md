@@ -65,6 +65,7 @@
 63. **IOTA Youtube**: von Bee Kreative: [IOTA New Crypto AirDrop GiveAway | Claim 500$ Now For New Users | Best Method 2023 | No Deposit](https://www.youtube.com/watch?v=vxG9A7JFrcU)
 64. **IOTA Artikel**: von ETH news: [IOTA 2.0 Sparks Excitement with Breakthroughs in Research and Development](https://www.ethnews.com/iota-2-0-sparks-excitement-with-breakthroughs-in-research-and-development/)
 65. **IOTA Artikel**: von U-Today: [IOTA (MIOTA) Shares Exciting Growth Updates in First 2023 Report: Details](https://u.today/iota-miota-shares-exciting-growth-updates-in-first-2023-report-details)
+67. **Shimmer Ökosystem**: [ShimmerSea tweeten](https://twitter.com/ShimmerSeaDEX/status/1644248650241961986?s=20) über das [MetaTangle AlphaLand](https://www.spatial.io/s/MetaTangle-AlphaLand-640480b5f0a902db0d6d0204?share=6422320928642952329)
 
 
 
