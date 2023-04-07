@@ -51,6 +51,15 @@
 49. **IOTA Artikel**: von Invester Observer: [What's Next for Very Bullish Rated IOTA (MIOTA)?](https://www.investorsobserver.com/news/crypto-update/whats-next-for-very-bullish-rated-iota-miota-3)
 50. **Crypto Adaption**: Die [EU Blockchain tweetet](https://twitter.com/EUBlockchain/status/1643969229883052034?s=20) darüber, dass die [European blockchain regulatory sandbox for Distributed Ledger Technologies](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/Sandbox+Project) gestartet ist
 51. **IOTA Event**: [Spyce_5 tweetet](https://twitter.com/SPYCE_5/status/1643963037219422209?s=20) über die [Blockchain@HTW Conference](https://blockchainhtwkonferenz.com/) wo sie nächste Woche dabei sind. Auch die [IF tweetet](https://twitter.com/iota/status/1643916463470792705) darüber
-52. 
+52. **IOTA Ökosystem**: Neuer Medium Artikel vom ApeDAO: [NewspAPEr — edition 5](https://iotapes.medium.com/newspaper-edition-5-a1eeda8601d4)
+53. **IOTA Ökosystem**: Die [IotaMorons tweetet](https://twitter.com/iotamorons/status/1644233994697953283?s=20) über ihren [Public Sale](https://iotamorons.art/public-sale/) von den tokenisierten physischen Moron Trading cardsNFTs; Im [Tweet von Grobian](https://twitter.com/grobian1/status/1643515426482028544?s=20) sieht man in einem Video wie das dann funktioniert; Verkauft wird das ganze auf [tokenized.kiwi](https://tokenized.kiwi/products/morons?variant=43996184281355), die damit auch erstmals aktiv werden mit ihrer Verkaufsplattform ("TOKENIZE EVERYTHING We make use of the Shimmer network, allowing the tokenization of real-world assets, which will transform the concept and the exchange of value as we know it. Feeless, scalable, and secure.") 
+54. **IOTA Youtube**: von Iotapoet: [BIG EBSI update: IOTA EBSI Team EXPLAINS all](https://www.youtube.com/watch?v=MCRGNPdPIwQ)
+55. **IOTA Audio**: AMA von ZeroSwapNFT.com soon: [Tweet](https://twitter.com/ZeroSwapNFT/status/1644269656121700352?s=20)
+56. **IOTA Dev**: IOTA auf Platz 7 bei ProofofGithub: [Tweet](https://twitter.com/ProofofGitHub/status/1644248667518382086?s=20)
+57. **IOTA Ökosystem**: Osterchallenge für ein Lumi: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1644248650241961986?s=20)
+58. **Crypto Adaption**: Artikel von BTC Echo: [Aktien auf der Blockchain: Deutschland wagt den nächsten Schritt](https://www.btc-echo.de/news/aktien-auf-der-blockchain-deutschland-wagt-den-naechsten-schritt-162335/)
+59. **IOTA Event**: Am Freitag war ein Community Poker Turnier: [Tweet](https://twitter.com/IotaPunks_71/status/1642067681061879808?s=20)
+60. **
+
 
 
