@@ -64,7 +64,7 @@
 62. **IOTA Youtube**: von Whales Of Wall Street: [IOTA | 30 billion devices by 2030, dMRV, Dell & Chart Update](https://www.youtube.com/watch?v=c-qc_rD2x8I&t=149s)
 63. **IOTA Youtube**: von Bee Kreative: [IOTA New Crypto AirDrop GiveAway | Claim 500$ Now For New Users | Best Method 2023 | No Deposit](https://www.youtube.com/watch?v=vxG9A7JFrcU)
 64. **IOTA Artikel**: von ETH news: [IOTA 2.0 Sparks Excitement with Breakthroughs in Research and Development](https://www.ethnews.com/iota-2-0-sparks-excitement-with-breakthroughs-in-research-and-development/)
-65. **
+65. **IOTA Artikel**: von U-Today: [IOTA (MIOTA) Shares Exciting Growth Updates in First 2023 Report: Details](https://u.today/iota-miota-shares-exciting-growth-updates-in-first-2023-report-details)
 
 
 
