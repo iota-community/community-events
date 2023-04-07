@@ -32,7 +32,7 @@
 30. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1643605641418743812?s=20) über ihr neues [Whitepaper](https://drive.google.com/file/d/1Qfc7WK4Rqdqeeze7q1aKZ19t6wDZ8VKe/view)
 31. **IF Blogpost**: Die [IF tweetet](https://twitter.com/iota/status/1643961763971383296?s=20) über den [Progress Report Q1 2023 - Latest Developments Across IOTA and Shimmer]((https://blog.iota.org/progress-report-q1-2023/)
 32. **IOTA Promote**: Guerilla IOTA Marketing in Frankfurt: [Tweet](https://twitter.com/Vrom14286662/status/1643922993704235010?s=20)
-33. **IOTA Audio**: Neuer [Moonaco Podcast Episode 70 mit Speak](https://open.spotify.com/episode/1NNNJqAH7O12wiUGbq0zVI?si=AdN_cq8-SKe3Ph9yflYHuQ&dd=1): [Tweet](https://twitter.com/MoonacoPodcast/status/1643917953333706752?s=20)
+33. **IOTA Audio**: Neuer [Moonaco Podcast Episode 70 mit Speak](https://open.spotify.com/episode/1NNNJqAH7O12wiUGbq0zVI?si=AdN_cq8-SKe3Ph9yflYHuQ&dd=1): [Tweet](https://twitter.com/MoonacoPodcast/status/1643917953333706752?s=20); Die wollen bald ihre NFTs auf Soonaverse verkaufen: [Tweet](https://twitter.com/SpeakNFT/status/1644285553720938496?s=20)
 34. **IOTA Artikel**: von ETH News: [IOTA partners with Multichain to enable cross-chain interoperability with Shimmer, Bitcoin, Ethereum, and other ecosystems](https://www.ethnews.com/iota-partners-with-multichain-to-enable-cross-chain-interoperability-with-shimmer-bitcoin-ethereum-and-other-ecosystems/)
 35. **Crypto Adaption**: Artikel von Crypto News Flash: [Ralph Lauren integrates Polygon (MATIC) in cooperation with BitPay as payment option in billion-$-market – Report](https://www.crypto-news-flash.com/ralph-lauren-integrates-polygon-matic-in-cooperation-with-bitpay-as-payment-option-in-billion-market-report/?feed_id=14446&_unique_id=642e6928f3dff)
 36. **Bitcoin Marketing**: Das Bitcoin Whitepaper ist in jedem Apple Gerät wenn man den command: "open /System/Library/Image\ Capture/Devices/VirtualScanner.app/Contents/Resources/simpledoc.pdf" ausführt: [Tweet](https://twitter.com/kranirudha/status/1643889717870739456?s=20)
@@ -59,7 +59,10 @@
 57. **IOTA Ökosystem**: Osterchallenge für ein Lumi: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1644248650241961986?s=20)
 58. **Crypto Adaption**: Artikel von BTC Echo: [Aktien auf der Blockchain: Deutschland wagt den nächsten Schritt](https://www.btc-echo.de/news/aktien-auf-der-blockchain-deutschland-wagt-den-naechsten-schritt-162335/)
 59. **IOTA Event**: Am Freitag war ein Community Poker Turnier: [Tweet](https://twitter.com/IotaPunks_71/status/1642067681061879808?s=20)
-60. **
+60. **IOTA Drama**: [Senfda Tzu veröffentlicht](https://twitter.com/SenfdaTzu/status/1644017600865640456?s=20) seinen 2. Blogpost in dem er Dom und seine Führungsrolle in den letzten Jahren kritisiert
+61. **IOTA Youtube**: von Crypto News: [IOTA to have a Resurgence to ATH next Bullrun? Here's why.](https://www.youtube.com/watch?v=XOd1V6gtu1k&t=69s)
+62. **IOTA Youtube**: von Whales Of Wall Street: [IOTA | 30 billion devices by 2030, dMRV, Dell & Chart Update](https://www.youtube.com/watch?v=c-qc_rD2x8I&t=149s)
+63. **IOTA Youtube**: von Bee Kreative: [IOTA New Crypto AirDrop GiveAway | Claim 500$ Now For New Users | Best Method 2023 | No Deposit](https://www.youtube.com/watch?v=vxG9A7JFrcU)
 
 
 
