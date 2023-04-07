@@ -59,7 +59,7 @@
 57. **IOTA Ökosystem**: Osterchallenge für ein Lumi: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1644248650241961986?s=20)
 58. **Crypto Adaption**: Artikel von BTC Echo: [Aktien auf der Blockchain: Deutschland wagt den nächsten Schritt](https://www.btc-echo.de/news/aktien-auf-der-blockchain-deutschland-wagt-den-naechsten-schritt-162335/)
 59. **IOTA Event**: Am Freitag war ein Community Poker Turnier: [Tweet](https://twitter.com/IotaPunks_71/status/1642067681061879808?s=20)
-60. **IOTA Drama**: [Senfda Tzu veröffentlicht](https://twitter.com/SenfdaTzu/status/1644017600865640456?s=20) seinen 2. Blogpost in dem er Dom und seine Führungsrolle in den letzten Jahren kritisiert
+60. **IOTA Drama**: [Senfda Tzu veröffentlicht](https://twitter.com/SenfdaTzu/status/1644017600865640456?s=20) seinen 2. Blogpost in dem er Dom und seine Führungsrolle in den letzten Jahren kritisiert: [Why a real fresh start at IOTA also requires a change at the top management level](https://medium.com/@karsten.bienek/why-a-real-fresh-start-at-iota-also-requires-a-change-at-the-top-management-level-3526c17a8a58)
 61. **IOTA Youtube**: von Crypto News: [IOTA to have a Resurgence to ATH next Bullrun? Here's why.](https://www.youtube.com/watch?v=XOd1V6gtu1k&t=69s)
 62. **IOTA Youtube**: von Whales Of Wall Street: [IOTA | 30 billion devices by 2030, dMRV, Dell & Chart Update](https://www.youtube.com/watch?v=c-qc_rD2x8I&t=149s)
 63. **IOTA Youtube**: von Bee Kreative: [IOTA New Crypto AirDrop GiveAway | Claim 500$ Now For New Users | Best Method 2023 | No Deposit](https://www.youtube.com/watch?v=vxG9A7JFrcU)
