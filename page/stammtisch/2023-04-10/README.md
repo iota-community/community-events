@@ -18,7 +18,7 @@
 16. **IOTA AMA**: Hier die [Fragen und Antworten von Dave auf Reddit](https://www.reddit.com/r/Iota/comments/125ozrx/doubleama_ask_the_smart_contracts_team_on_reddit/)
 17. **IOTA Ökosystem**: [LendeXe tweetet](https://twitter.com/LendeXeFinance/status/1643312379323662337?s=20) über ihr stetig steigendes TVL und darüber, dass jetzt [LendeXe auf DefiLlame](https://defillama.com/protocol/lendexe-finance) zu finden ist
 18. **IOTA Artikel**: von Crypto News Flash: [IOTA: Shimmer will implement 4 super important governance proposals to foster ecosystem development in billion-$-market – All you need to know](https://www.crypto-news-flash.com/iota-shimmer-will-implement-4-super-important-governance-proposals-to-foster-ecosystem-development-in-billion-market-all-you-need-to-know/)
-19. **IOTA 2.0 MVP**: GoShimmer GitHub-Zusammenfassung von [id.iota](https://twitter.com/id_iota) [am Mittwoch](https://twitter.com/id_iota/status/1643508792120979456?s=20)
+19. **IOTA 2.0 MVP**: GoShimmer GitHub-Zusammenfassung von [id.iota](https://twitter.com/id_iota) [am Mittwoch](https://twitter.com/id_iota/status/1643508792120979456?s=20) und [am Samstag](https://twitter.com/id_iota/status/1644684115453808642?s=20)
 20. **Shimmer Event**: Am Samstag ist/war ein ["Shimmer L1 L2 workshop" im ApeDAO Discord](https://discord.com/events/952695802415943750/1093074821455302698)
 21. **IOTA Ökosystem**: [Darkmythos tweetet] über ihren Blogpost[Crypto TCG with NFT Authentication: The Future of Online Card Games](https://darkmythos.medium.com/crypto-tcg-with-nft-authentication-the-future-of-online-card-games-250f0ba59148) 
 22. **Shimmer Ökosystem**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1643599380975345665?s=20) über den Blogpost: [Shimmer Partners With Multichain](https://blog.shimmer.network/shimmer-partners-with-multichain/); [Dom retweetet](https://twitter.com/DomSchiener/status/1643608116473233412?s=20) das
@@ -66,6 +66,8 @@
 64. **IOTA Artikel**: von ETH news: [IOTA 2.0 Sparks Excitement with Breakthroughs in Research and Development](https://www.ethnews.com/iota-2-0-sparks-excitement-with-breakthroughs-in-research-and-development/)
 65. **IOTA Artikel**: von U-Today: [IOTA (MIOTA) Shares Exciting Growth Updates in First 2023 Report: Details](https://u.today/iota-miota-shares-exciting-growth-updates-in-first-2023-report-details)
 67. **Shimmer Ökosystem**: [ShimmerSea tweeten](https://twitter.com/ShimmerSeaDEX/status/1644248650241961986?s=20) über das [MetaTangle AlphaLand](https://www.spatial.io/s/MetaTangle-AlphaLand-640480b5f0a902db0d6d0204?share=6422320928642952329)
+68. **IOTA Youtube**: Miss Crypto will nochmal ein Video über IOTA machen: [Tweet](https://twitter.com/Vrom14286662/status/1644634273800941569?s=20)
+69. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1644611039177129985?s=20) über den Guestpost bei Coinmarketcap: [ShimmerEVM Testnet Launch](https://coinmarketcap.com/community/articles/642a938dfc99f652d14bbc0b/)
 
 
 
