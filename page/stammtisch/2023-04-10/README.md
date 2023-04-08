@@ -68,6 +68,9 @@
 67. **Shimmer Ökosystem**: [ShimmerSea tweeten](https://twitter.com/ShimmerSeaDEX/status/1644248650241961986?s=20) über das [MetaTangle AlphaLand](https://www.spatial.io/s/MetaTangle-AlphaLand-640480b5f0a902db0d6d0204?share=6422320928642952329)
 68. **IOTA Youtube**: Miss Crypto will nochmal ein Video über IOTA machen: [Tweet](https://twitter.com/Vrom14286662/status/1644634273800941569?s=20)
 69. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1644611039177129985?s=20) über den Guestpost bei Coinmarketcap: [ShimmerEVM Testnet Launch](https://coinmarketcap.com/community/articles/642a938dfc99f652d14bbc0b/)
+70. **IOTA Youtube**: [DeeprFinance tweetet](https://twitter.com/DeeprFinance/status/1644584706959106048?s=20) über mehrere Tutorial Videos die sie gemacht haben: [Setting up a wallet and getting faucet tokens](https://www.youtube.com/watch?v=U1AOeR1zuNA); [Lending assets in Deepr Finance](https://www.youtube.com/watch?v=wuDdxvV3uUk); [Borrowing in Deepr Finance](https://www.youtube.com/watch?v=J6aQLdIsm6Y); [Managing Debt Position in Deepr Finance](https://www.youtube.com/watch?v=Jgn5UKCC4Ck); [Utilization Rate in Deepr Finance](https://www.youtube.com/watch?v=uDW4qS_c7Qw)
+71. **IOTA Youtube**: [Bahnbrechende Innovation! Die unterschätzte Kryptowährung, die bald zum Durchbruch kommt!?](https://www.youtube.com/watch?v=3ALtbIEau2E)
+72. 
 
 
 
