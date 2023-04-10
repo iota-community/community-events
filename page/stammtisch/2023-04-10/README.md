@@ -78,6 +78,10 @@
 77. **Crypto Drama**: Sushiswap Hack; Artikel: [SushiSwap hacked, Head Chef says 'revoke all chains'](https://www.theblock.co/post/225473/sushiswap-hack)
 78. **IOTA Drama**: Multi hat diese Woche sein Video über ein Firefly Hack herausgebracht. Ohne das Video zu verlinken ging es wohl "nur" darum, dass man beim erneuten eingeben der 24 Wörter (Security Check) einen Fehler machen kann und es trotzdem weiter geht, also FUd als Klickbait?
 79. **IOTA Ökosystem**: Es gab diese Woche eine [Osterchallenge von ShimmerSea](https://twitter.com/ShimmerSeaDEX/status/1644248650241961986?s=20) und eine weitere [Osterchallenge von Iotabee](https://twitter.com/iotabee/status/1645031640576540672?s=20)
+80. **IOTA Artikel**: [Chris Müller tweetet](https://twitter.com/ChrisMuellerHI/status/1645387337659039745?s=20) über seinen neuen IOTA Weekly Artikel: [Status Quo: IOTA oder Shimmer?](https://medium.com/@IotaWeekly/status-quo-iota-oder-shimmer-7ae3cefddc6f)
+81. **Shimmer Promote**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1645366088908132352?s=20) mehrere Aussagen über den Shimmer Token
+82. **IOTA Audio**: Morgen am Dienstag 11.4.23 kommt [Phylo](https://twitter.com/PhyloIota) zum TangleGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1645333476755877888?s=20)
+83. **IOTA Ökosystem**: Der [ApeDAO tweetet](https://twitter.com/iotapes/status/1645342370416803840?s=20) über ihren neuen Blogpost: [Liquid Apes — solving the illiquidity of [ApeDAO] NFTs](https://iotapes.medium.com/liquid-apes-solving-the-illiquidity-of-apedao-nfts-e041d1ad61ff)
 
 
 
