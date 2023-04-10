@@ -82,6 +82,7 @@
 81. **Shimmer Promote**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1645366088908132352?s=20) mehrere Aussagen über den Shimmer Token
 82. **IOTA Audio**: Morgen am Dienstag 11.4.23 kommt [Phylo](https://twitter.com/PhyloIota) zum TangleGang Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1645333476755877888?s=20)
 83. **IOTA Ökosystem**: Der [ApeDAO tweetet](https://twitter.com/iotapes/status/1645342370416803840?s=20) über ihren neuen Blogpost: [Liquid Apes — solving the illiquidity of [ApeDAO] NFTs](https://iotapes.medium.com/liquid-apes-solving-the-illiquidity-of-apedao-nfts-e041d1ad61ff)
+84. **IOTA Artikel**: von Turish NY Radio: [IOTA Coin Weekly Analysis And Price Prediction](https://www.turkishnyradio.com/iota-coin-weekly-analysis-and-price-prediction/)
 
 
 
