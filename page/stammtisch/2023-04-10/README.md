@@ -70,7 +70,12 @@
 69. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1644611039177129985?s=20) über den Guestpost bei Coinmarketcap: [ShimmerEVM Testnet Launch](https://coinmarketcap.com/community/articles/642a938dfc99f652d14bbc0b/)
 70. **IOTA Youtube**: [DeeprFinance tweetet](https://twitter.com/DeeprFinance/status/1644584706959106048?s=20) über mehrere Tutorial Videos die sie gemacht haben: [Setting up a wallet and getting faucet tokens](https://www.youtube.com/watch?v=U1AOeR1zuNA); [Lending assets in Deepr Finance](https://www.youtube.com/watch?v=wuDdxvV3uUk); [Borrowing in Deepr Finance](https://www.youtube.com/watch?v=J6aQLdIsm6Y); [Managing Debt Position in Deepr Finance](https://www.youtube.com/watch?v=Jgn5UKCC4Ck); [Utilization Rate in Deepr Finance](https://www.youtube.com/watch?v=uDW4qS_c7Qw)
 71. **IOTA Youtube**: [Bahnbrechende Innovation! Die unterschätzte Kryptowährung, die bald zum Durchbruch kommt!?](https://www.youtube.com/watch?v=3ALtbIEau2E)
-72. 
+72. **IOTA Youtube**: von ApeDAO: [ApeDAO DeFi Workshop - Shimmer EVM Testnet](https://www.youtube.com/watch?v=8KirQskBPUQ)
+73. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/278-wochenr%C3%BCckblick-vom-2-bis-8-april-2023/)
+74. **IOTA Ökosystem**: Ein [Tweet von Daobee](https://twitter.com/Daobeegame/status/1645129495408517123?s=20) zum aktuellen Stand des Projekts
+75. **IOTA Ökosystem**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1645265756916178946?s=20), dass sie den Ledger Support für EVM implementiert haben und einige andere Sachen optimiert haben in der neuen Version v.1.5.4
+76. **IOTA Ökosystem**: [IOTAMPC tweetet](https://twitter.com/iotampc/status/1645260135605112833?s=20), dass ihr Smart Contract von [Number Cyber](https://twitter.com/numencyber) auditiert wurde: [Audit](https://www.numencyber.com/resources/audit-report/); [garret tweetet](https://twitter.com/GarrettBullish/status/1645263868556615680?s=20), dass man den Smart Contract bereits im Laufe der Woche testen werden kann
+77. **Crypto Drama**: Sushiswap Hack; Artikel: [SushiSwap hacked, Head Chef says 'revoke all chains'](https://www.theblock.co/post/225473/sushiswap-hack)
 
 
 
