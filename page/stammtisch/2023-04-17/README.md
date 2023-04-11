@@ -9,7 +9,7 @@
 7. **IOTA Artikel**: von Chris Müller: [Status Quo: IOTA oder Shimmer?](https://medium.com/@IotaWeekly/status-quo-iota-oder-shimmer-7ae3cefddc6f)
 8. **IOTA Audio**: Phylo war am Dienstag im Sprachchat von der TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1645706474721533956?s=20)
 9. **Shimmer Ökosystem Gaming**: [Iotabot tweetet](https://twitter.com/iotabots/status/1645660448790917120?s=20) über [https://spacebots.iotabots.io/](https://spacebots.iotabots.io/), ein Spiel das man nur spielen kann wenn man einen Spacebot in der Metamask Wallet hat
-10. **Bitcoin Pump**: Am Dienstag hat Bitcoin die $30K durchbrochen
+10. **Bitcoin Pump**: Am Dienstag hat Bitcoin die $30K durchbrochen => Bitcoin auf tageschau.de: [Aufwärtstrend bei Kryptowährung - Bitcoin wieder über 30.000 Dollar](https://www.tagesschau.de/wirtschaft/finanzen/bitcoin-kryptowaehrungen-krisenwaehrung-101.html)
 11. **IOTA Artikel**: von DAGnostics: [Shimmer EVM Testnet Launch: A New Era for IOTA’s Ecosystem](https://medium.com/@dagnostics/shimmer-evm-testnet-launch-a-new-era-for-iotas-ecosystem-90dc1a4753d0)
 12. **IOTA Youtube**: von IOTA Community Governements: [10-Apr, 2023: Tangle Community Treasury Meeting #2](https://www.youtube.com/watch?v=AA6aAnsh7D4)
 13. **Shimmer Governements**: Erste Gelder wurden ausgeschüttet ([Tweet](ahttps://twitter.com/TangleTreasury/status/1645474970384859161?s=20)) an [Everything Tangle](https://twitter.com/allthingstangle) die sich in [diesem Tweet](https://twitter.com/allthingstangle/status/1645517315692466176?s=20) bedanken und ihr Proposal "[TCT-1: Everything Tangle - Shimmer Education and Marketing](https://www.tangletreasury.org/proposal-detailed?recordId=recHrMTgJztPSSFmo)" verlinken
@@ -17,3 +17,5 @@
 15. **IOTA Artikel**: von [Spike Swipe](https://twitter.com/SpikeSwipe) (Chris Berg): [IOTA and the Future of DAGs: A Deep Dive into the Exciting World of Distributed Ledgers](https://www.spikeswipe.com/post/iota-and-the-future-of-dags-a-deep-dive-into-the-exciting-world-of-distributed-ledgers)
 16. **IOTA Youtube**: von Blockbytes: [Setting Up and Using Firefly Wallet for Shimmer Network!](https://www.youtube.com/watch?v=S8dUlr5oR24)
 17. **IOTA Dev**: [wasp release - v0.6.1-alpha.8](https://github.com/iotaledger/wasp/releases/tag/v0.6.1-alpha.8)
+18. **IOTA Artikel**: von Crypto News Flash: [IOTA: This is why the token distribution from Shimmer is superior for the future development compared to other blockchains](https://www.crypto-news-flash.com/de/iota-this-is-why-the-token-distribution-from-shimmer-is-superior-for-the-future-development-compared-to-other-blockchains/)
+19. **IOTA Youtube**: von ApeDAO: [ApeDAO DeFi Workshop - Shimmer EVM Testnet](https://www.youtube.com/watch?v=8KirQskBPUQ)
