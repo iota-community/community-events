@@ -12,4 +12,8 @@
 10. **Bitcoin Pump**: Am Dienstag hat Bitcoin die $30K durchbrochen
 11. **IOTA Artikel**: von DAGnostics: [Shimmer EVM Testnet Launch: A New Era for IOTA’s Ecosystem](https://medium.com/@dagnostics/shimmer-evm-testnet-launch-a-new-era-for-iotas-ecosystem-90dc1a4753d0)
 12. **IOTA Youtube**: von IOTA Community Governements: [10-Apr, 2023: Tangle Community Treasury Meeting #2](https://www.youtube.com/watch?v=AA6aAnsh7D4)
-13. **Shimmer Governements**: Erste Grants wurden ausgeschüttet ([Tweet](ahttps://twitter.com/TangleTreasury/status/1645474970384859161?s=20)) an [Everything Tangle](https://twitter.com/allthingstangle)
+13. **Shimmer Governements**: Erste Gelder wurden ausgeschüttet ([Tweet](ahttps://twitter.com/TangleTreasury/status/1645474970384859161?s=20)) an [Everything Tangle](https://twitter.com/allthingstangle) die sich in [diesem Tweet](https://twitter.com/allthingstangle/status/1645517315692466176?s=20) bedanken und ihr Proposal "[TCT-1: Everything Tangle - Shimmer Education and Marketing](https://www.tangletreasury.org/proposal-detailed?recordId=recHrMTgJztPSSFmo)" verlinken
+14. **IOTA Artikel**: von U-Today: [IOTA (MIOTA) Reveals Result of Shimmer Governance Vote: Details](https://u.today/iota-miota-reveals-result-of-shimmer-governance-vote-details)
+15. **IOTA Artikel**: von [Spike Swipe](https://twitter.com/SpikeSwipe) (Chris Berg): [IOTA and the Future of DAGs: A Deep Dive into the Exciting World of Distributed Ledgers](https://www.spikeswipe.com/post/iota-and-the-future-of-dags-a-deep-dive-into-the-exciting-world-of-distributed-ledgers)
+16. **IOTA Youtube**: von Blockbytes: [Setting Up and Using Firefly Wallet for Shimmer Network!](https://www.youtube.com/watch?v=S8dUlr5oR24)
+17. **IOTA Dev**: [wasp release - v0.6.1-alpha.8](https://github.com/iotaledger/wasp/releases/tag/v0.6.1-alpha.8)
