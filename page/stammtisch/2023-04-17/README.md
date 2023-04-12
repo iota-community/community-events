@@ -25,4 +25,5 @@
 23. **IOTA Exchanges**: Bitpanda Pro delistet scheinbar das Miota/Euro Paar: [Tweet](https://twitter.com/cryptos4ever/status/1646192090957901824?s=20)
 24. **Crypto News**: Ethereum macht Shanghai Update am Dienstag 12.04.23 oder wie der Spiegel schreiben würde bzw. schreibt: [Ethereum macht vor, was Bitcoin verweigert](https://www.spiegel.de/netzwelt/web/kryptowaehrungen-ethereum-macht-vor-was-bitcoin-verweigert-a-c564cc80-5650-45a8-874d-543bfa27632c)
 25. **Crypto Drama**: Artikel von Coindesk: [Crypto Exchange FTX Could Reopen, Its Attorney Says; Firm’s FTT Token Surges](https://www.coindesk.com/business/2023/04/12/crypto-exchange-ftx-could-reopen-its-attorney-says-firms-ftt-token-surges/)
+26. **IOTA Ökosystem**: Die [IF tweetet](https://twitter.com/iota/status/1646241787361755138?s=20) über das Video: 
 
