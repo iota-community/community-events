@@ -45,5 +45,7 @@
 43. **Shimmer Adaption**: [Dank Travetown aus dem ApeDAO](https://twitter.com/iotapes/status/1646527237909540866?s=20) hat [Revoke.cash](https://twitter.com/RevokeCash) Shimmer integriert: [Tweet](https://twitter.com/RevokeCash/status/1646501326602338305?s=20)
 44. **IOTA Artikel**: von Times Tabloid: [IOTA Announces Shimmer’s Partnership with Multichain to Boost Cross-chain Interoperability]()
 45. **IOTA Artikel**: von Born2Invest: [IOTA Price Forecast: Latest Developments in Shimmer Give Investors Reason for Hope](https://born2invest.com/articles/iota-price-shimmer-investors-hope/)
+46. **IOTA 2.0 MVP**: [id.iota](https://twitter.com/id_iota) tweetet wieder über den Fortschritt: [Tweet am Donnerstag](https://twitter.com/id_iota/status/1646609399681810432?s=20)
+47. **Tangle Treassury**: Es gab ein paar Neuigkeiten im [TANGLE COMMUNITY TREASURY PROPOSALS](https://www.tangletreasury.org/proposals)
 
 
