@@ -7,7 +7,7 @@
 5. **IOTA Ökosystem**: [LF Edge tweetet](https://twitter.com/LF_Edge/status/1645804937149030411?s=20) über [New LFEdge Usecases](https://www.lfedge.org/resources/case-studies/?hss_channel=tw-1085641282175741952) mit IOTA inside
 6. **IOTA Audio**: [Twitter Spaces Event: DeFi is Female](https://twitter.com/Nightly_app/status/1645738922452963328?s=20) mit [Mariana de la Roche](https://twitter.com/Marianadlrw)
 7. **IOTA Artikel**: von Chris Müller: [Status Quo: IOTA oder Shimmer?](https://medium.com/@IotaWeekly/status-quo-iota-oder-shimmer-7ae3cefddc6f)
-8. **IOTA Audio**: Phylo war am Dienstag im Sprachchat von der TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1645706474721533956?s=20)
+8. **IOTA Audio**: Phylo war am Dienstag im Sprachchat von der TangleGang: [Tweet 1](https://twitter.com/GangTangleTalk/status/1645706474721533956?s=20); [Tweet 2](https://twitter.com/GangTangleTalk/status/1646404998459269120?s=20)
 9. **Shimmer Ökosystem Gaming**: [Iotabot tweetet](https://twitter.com/iotabots/status/1645660448790917120?s=20) über [https://spacebots.iotabots.io/](https://spacebots.iotabots.io/), ein Spiel das man nur spielen kann wenn man einen Spacebot in der Metamask Wallet hat
 10. **Bitcoin Pump**: Am Dienstag hat Bitcoin die $30K durchbrochen => Bitcoin auf tageschau.de: [Aufwärtstrend bei Kryptowährung - Bitcoin wieder über 30.000 Dollar](https://www.tagesschau.de/wirtschaft/finanzen/bitcoin-kryptowaehrungen-krisenwaehrung-101.html)
 11. **IOTA Artikel**: von DAGnostics: [Shimmer EVM Testnet Launch: A New Era for IOTA’s Ecosystem](https://medium.com/@dagnostics/shimmer-evm-testnet-launch-a-new-era-for-iotas-ecosystem-90dc1a4753d0)
@@ -23,7 +23,11 @@
 21. **IOTA Exchange**: [Gate.io tweetet](https://twitter.com/GateEarn/status/1646061193025687552?s=20) darüber, dass man bis zu 90% APi auf IOT bekommt
 22. **IOTA Ökosystem**: [ShimmerSea tweetet](https://twitter.com/ShimmerSeaDEX/status/1646073776855982080?s=20) über ihren Blogpost: [Dive into the ShimmerSea Training DEX Competition and win amazing Prices!](https://medium.com/@shimmerseadefi/dive-into-the-shimmersea-training-dex-competition-and-win-amazing-prices-2ac05d53f832)
 23. **IOTA Exchanges**: Bitpanda Pro delistet scheinbar das Miota/Euro Paar: [Tweet](https://twitter.com/cryptos4ever/status/1646192090957901824?s=20)
-24. **Crypto News**: Ethereum macht Shanghai Update am Dienstag 12.04.23 oder wie der Spiegel schreiben würde bzw. schreibt: [Ethereum macht vor, was Bitcoin verweigert](https://www.spiegel.de/netzwelt/web/kryptowaehrungen-ethereum-macht-vor-was-bitcoin-verweigert-a-c564cc80-5650-45a8-874d-543bfa27632c)
+24. **Crypto News**: Ethereum macht Shanghai Update am Dienstag 12.04.23 oder wie der Spiegel schreiben würde bzw. schreibt: [Ethereum macht vor, was Bitcoin verweigert](https://www.spiegel.de/netzwelt/web/kryptowaehrungen-ethereum-macht-vor-was-bitcoin-verweigert-a-c564cc80-5650-45a8-874d-543bfa27632c); Artikel von BTC Echo: [Ethereum Upgrade erfolgreich aktiviert](https://www.btc-echo.de/schlagzeilen/ethereum-upgrade-erfolgreich-aktiviert-162585/)
 25. **Crypto Drama**: Artikel von Coindesk: [Crypto Exchange FTX Could Reopen, Its Attorney Says; Firm’s FTT Token Surges](https://www.coindesk.com/business/2023/04/12/crypto-exchange-ftx-could-reopen-its-attorney-says-firms-ftt-token-surges/)
-26. **IOTA Ökosystem**: Die [IF tweetet](https://twitter.com/iota/status/1646241787361755138?s=20) über das Video: 
+26. **IOTA Ökosystem**: Die [IF tweetet](https://twitter.com/iota/status/1646241787361755138?s=20) über das Video: [BIG EBSI update: IOTA EBSI Team EXPLAINS all](https://www.youtube.com/watch?v=MCRGNPdPIwQ)
+27. **IOTA Adaption**: [Shimmer gratuliert](https://twitter.com/shimmernet/status/1646044402299617280?s=20) [JR Studio](https://twitter.com/JRStudio_) dafür, dass sie es beim 2023 Techstars Web3 Cohort ins Techstars web3 Accelerator Programm geschafft haben
+28. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in München: [Tweet](https://twitter.com/IotaMunchen/status/1642910722496552962?s=20)
+29. **IOTA Dev**: IOTA auf Platz 5 bei Proof of Github: [Tweet](https://twitter.com/ProofofGitHub/status/1646423006489587713?s=20)
+30. **IOTA Ökosystem**: [Iotabee tweetet](https://twitter.com/iotabee/status/1646425349083856897?s=20) dass man die Bridge testen kann, wenn man den Schritte aus dem Guide "[Welcome to Iotabee DEX(testnet) Start Guide!](https://dexguide.iotabee.com/)" folgt
 
