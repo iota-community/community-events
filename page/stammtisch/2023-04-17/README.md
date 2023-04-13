@@ -30,4 +30,11 @@
 28. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in München: [Tweet](https://twitter.com/IotaMunchen/status/1642910722496552962?s=20)
 29. **IOTA Dev**: IOTA auf Platz 5 bei Proof of Github: [Tweet](https://twitter.com/ProofofGitHub/status/1646423006489587713?s=20)
 30. **IOTA Ökosystem**: [Iotabee tweetet](https://twitter.com/iotabee/status/1646425349083856897?s=20) dass man die Bridge testen kann, wenn man den Schritte aus dem Guide "[Welcome to Iotabee DEX(testnet) Start Guide!](https://dexguide.iotabee.com/)" folgt
+31. **Crypto Adaption**: Twitter und Etoro: [Tweet von eToro](https://twitter.com/eToro/status/1646430266401890304?s=20); Tweet von Twitter](); Dazu passend der Artikel von NTV: [Teil von großer Vision? Konzern Twitter ändert seinen Namen](https://www.n-tv.de/wirtschaft/Konzern-Twitter-aendert-seinen-Namen-article24049370.html)
+32. **IOTA Audio**: Neuer Moonaco Podcast mit Alpaca Finance: [Tweet](https://twitter.com/MoonacoPodcast/status/1646452891706638337?s=20); [Spotify Link](https://open.spotify.com/episode/6ZMF3M2WrqXIqEfDvxF15j?si=hUpV4KUUTOWLh7EYivUPTg&dd=1&nd=1)
+33. **IOTA Audio**: IOTA Governements Meeting: [Tweet](https://twitter.com/PhyloIota/status/1646479927758446592?s=20)
+34. **IOTA Firefly**: Neuer [Firefly 2.1.1-beta 1](https://github.com/iotaledger/firefly/releases/tag/desktop-2.1.1-beta-1) release
+35. **IOTA Dev**: wasp Update: [v0.6.1-alpha.9](https://github.com/iotaledger/wasp/releases/tag/v0.6.1-alpha.9)
+36. **Shimmer EVM Hype**: [Deepr Finance tweetet](https://twitter.com/DeeprFinance/status/1646492298316742658?s=20), dass sie sehr zufrieden sind mit der Shimmer EVM und freuen sich über +10K Usern
+37. **IOTA Artikel**: Artikel auf Steemit: [Buy IOTA now on Twitter through Elon Musk's new deal with eTORO!](https://steemit.com/iota/@uwe69/buy-iota-now-on-twitter-through-elon-musk-s-new-deal-with-etoro)
 
