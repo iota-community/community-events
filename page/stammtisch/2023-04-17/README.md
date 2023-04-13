@@ -22,7 +22,7 @@
 20. **IOTA Artikel**: [IotaOrigin tweetet](https://twitter.com/origin_iota/status/1646208698564464640?s=20) über ihren Blogpost: [NFTs are the front, DeFi the back-end](https://medium.com/@iotaorigin/nfts-are-the-front-defi-the-back-end-ece03d0c338d)
 21. **IOTA Exchange**: [Gate.io tweetet](https://twitter.com/GateEarn/status/1646061193025687552?s=20) darüber, dass man bis zu 90% APi auf IOT bekommt
 22. **IOTA Ökosystem**: [ShimmerSea tweetet](https://twitter.com/ShimmerSeaDEX/status/1646073776855982080?s=20) über ihren Blogpost: [Dive into the ShimmerSea Training DEX Competition and win amazing Prices!](https://medium.com/@shimmerseadefi/dive-into-the-shimmersea-training-dex-competition-and-win-amazing-prices-2ac05d53f832)
-23. **IOTA Exchanges**: Bitpanda Pro delistet scheinbar das Miota/Euro Paar: [Tweet](https://twitter.com/cryptos4ever/status/1646192090957901824?s=20)
+23. **IOTA Exchanges**: Bitpanda Pro delistet das Miota/Euro Paar: [Tweet](https://twitter.com/cryptos4ever/status/1646192090957901824?s=20); [Tweet von Bitpanda](https://twitter.com/BitpandaPro/status/1646484307320483840?s=20)
 24. **Crypto News**: Ethereum macht Shanghai Update am Dienstag 12.04.23 oder wie der Spiegel schreiben würde bzw. schreibt: [Ethereum macht vor, was Bitcoin verweigert](https://www.spiegel.de/netzwelt/web/kryptowaehrungen-ethereum-macht-vor-was-bitcoin-verweigert-a-c564cc80-5650-45a8-874d-543bfa27632c); Artikel von BTC Echo: [Ethereum Upgrade erfolgreich aktiviert](https://www.btc-echo.de/schlagzeilen/ethereum-upgrade-erfolgreich-aktiviert-162585/)
 25. **Crypto Drama**: Artikel von Coindesk: [Crypto Exchange FTX Could Reopen, Its Attorney Says; Firm’s FTT Token Surges](https://www.coindesk.com/business/2023/04/12/crypto-exchange-ftx-could-reopen-its-attorney-says-firms-ftt-token-surges/)
 26. **IOTA Ökosystem**: Die [IF tweetet](https://twitter.com/iota/status/1646241787361755138?s=20) über das Video: [BIG EBSI update: IOTA EBSI Team EXPLAINS all](https://www.youtube.com/watch?v=MCRGNPdPIwQ)
@@ -43,6 +43,7 @@
 41. **IOTA Artikel**: The Tangleverse Times: [AMA with Adam and Austin from IOTA’s business development team](https://medium.com/@iotacontentcreators/ama-with-adam-and-austin-from-iotas-business-development-team-6eb554b785ad)
 42. **Crypto News**: Artikel von BTC Echo: [Krypto-Tagessieger Radix - XRD-Kurs im Turbogang](https://www.btc-echo.de/schlagzeilen/xrd-kurs-im-turbogang-162599/)
 43. **Shimmer Adaption**: [Dank Travetown aus dem ApeDAO](https://twitter.com/iotapes/status/1646527237909540866?s=20) hat [Revoke.cash](https://twitter.com/RevokeCash) Shimmer integriert: [Tweet](https://twitter.com/RevokeCash/status/1646501326602338305?s=20)
-44. 
+44. **IOTA Artikel**: von Times Tabloid: [IOTA Announces Shimmer’s Partnership with Multichain to Boost Cross-chain Interoperability]()
+45. **IOTA Artikel**: von Born2Invest: [IOTA Price Forecast: Latest Developments in Shimmer Give Investors Reason for Hope](https://born2invest.com/articles/iota-price-shimmer-investors-hope/)
 
 
