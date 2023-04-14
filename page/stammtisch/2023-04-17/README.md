@@ -63,5 +63,6 @@
 61. **IOTA Youtube**: von IOTA Community Governance [13/04/23 IOTA/Shimmer Community Governance meeting](https://www.youtube.com/watch?v=oY9IJ5c3WWI)
 62. **IOTA Youtube**: von Finanzgoblin: [Deepr Finance Testbericht & Ultimativer Airdrop Farming Guide: Alles, was du wissen musst!](https://www.youtube.com/watch?v=5rQj0R2uFi8)
 63. **IOTA EVM Games**: [Iotabots tweeten](https://twitter.com/iotabots/status/1646952431606013953?s=20) über ihr web3 game auf [games.iotabots.io/soonabots](http://games.iotabots.io/soonabots)
+64. **Crypto Evolution**: EOS hat jetzt ne EVM: [Tweet](https://twitter.com/everstake_pool/status/1646866113018380289?s=20); Sie schreiben etwas von "Millions transactions per second": [Tweet](https://twitter.com/everstake_pool/status/1646866576111534081?s=20)
 
 
