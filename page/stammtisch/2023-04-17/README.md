@@ -55,5 +55,6 @@
 53. **IOTA Research Update**: [Protocol group, Week 15 #74](https://github.com/iotaledger/research-updates/discussions/74); Was meinen sie wohl mit "Stored Mana might not be present in the October release"? 
 54. **IOTA Artikel**: [TangleSwap tweetet](https://twitter.com/TangleSwap/status/1646792660005408776?s=20) über ihren Blogpost: [Year in Review: TangleSwap Lift-off Sequence](https://blog.tangleswap.exchange/year-in-review-bc580fdf84c3)
 55. **IOTA Youtube**: von TangleGang: [Interview mit Regine von Spyce5](https://www.youtube.com/watch?v=IJNQfUWsksA)
+56. **IOTA Youtube**: von Blockbytes: [How To Mint NFTs on Shimmer Network! (SUPER EASY)](https://www.youtube.com/watch?v=sE_EXP6WwlQ)
 
 
