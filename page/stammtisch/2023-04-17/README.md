@@ -53,5 +53,6 @@
 51. **IOTA Artikel**: von ETH News: [Wrapped Bitcoin or Wrapped Ethereum on IOTA, Everything is Possible](https://www.ethnews.com/wrapped-bitcoin-or-wrapped-ethereum-on-iota-everything-is-possible/)
 52. **IOTA Promote**: [Blockchain for Europe tweetet](https://twitter.com/BlockchainforEU/status/1646829153071558658?s=20) über den 14 seitigen Bericht (7 x "IOTA"): [An Overview of Blockchain for Climate Action and Sustainability](https://www.blockchain4europe.eu/wp-content/uploads/2023/04/An-Overview-of-Blockchain-for-Climate-Action-and-Sustainability-BC4EU-IOTA-April-2023.pdf); Geschrieben als Co-Autor von Mariana de la Roche: [Tweet](https://twitter.com/Marianadlrw/status/1646843801112043520?s=20)
 53. **IOTA Research Update**: [Protocol group, Week 15 #74](https://github.com/iotaledger/research-updates/discussions/74); Was meinen sie wohl mit "Stored Mana might not be present in the October release"? 
+54. **IOTA Artikel**: [TangleSwap tweetet](https://twitter.com/TangleSwap/status/1646792660005408776?s=20) über ihren Blogpost: [Year in Review: TangleSwap Lift-off Sequence](https://blog.tangleswap.exchange/year-in-review-bc580fdf84c3)
 
 
