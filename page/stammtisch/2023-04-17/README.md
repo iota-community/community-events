@@ -56,5 +56,12 @@
 54. **IOTA Artikel**: [TangleSwap tweetet](https://twitter.com/TangleSwap/status/1646792660005408776?s=20) über ihren Blogpost: [Year in Review: TangleSwap Lift-off Sequence](https://blog.tangleswap.exchange/year-in-review-bc580fdf84c3)
 55. **IOTA Youtube**: von TangleGang: [Interview mit Regine von Spyce5](https://www.youtube.com/watch?v=IJNQfUWsksA)
 56. **IOTA Youtube**: von Blockbytes: [How To Mint NFTs on Shimmer Network! (SUPER EASY)](https://www.youtube.com/watch?v=sE_EXP6WwlQ)
+57. **IOTA Ökosystem**: [CryptoGin tweetet](https://twitter.com/Crypto_Gin21/status/1646903621479460866?s=20) darüber, dass sie die EVM testen zusammen mit [Akkodis](https://twitter.com/akkodis_global)
+58. **IOTA Youtube**: von Iotabee: [Iotabee DEX: How to swap on Shimmer EVM](https://www.youtube.com/watch?v=uru79-W8VaE)
+59. **Crypto Adaption**: Artikel: [Solana to Launch Crypto-Focused ‘Saga’ Smartphone on May 8th](https://watcher.guru/news/solana-to-launch-crypto-focused-saga-smartphone-on-may-8th)
+60. **Crypto Drama**: Artikel: [Bitrue Exchange Hacked for 200 Billion SHIB, Millions of QNT, GALA, MATIC: Details](https://u.today/bitrue-exchange-hacked-for-200-billion-shib-millions-of-qnt-gala-matic-details)
+61. **IOTA Youtube**: von IOTA Community Governance [13/04/23 IOTA/Shimmer Community Governance meeting](https://www.youtube.com/watch?v=oY9IJ5c3WWI)
+62. **IOTA Youtube**: von Finanzgoblin: [Deepr Finance Testbericht & Ultimativer Airdrop Farming Guide: Alles, was du wissen musst!](https://www.youtube.com/watch?v=5rQj0R2uFi8)
+63. **IOTA EVM Games**: [Iotabots tweeten](https://twitter.com/iotabots/status/1646952431606013953?s=20) über ihr web3 game auf [games.iotabots.io/soonabots](http://games.iotabots.io/soonabots)
 
 
