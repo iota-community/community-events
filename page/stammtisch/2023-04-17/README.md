@@ -47,5 +47,7 @@
 45. **IOTA Artikel**: von Born2Invest: [IOTA Price Forecast: Latest Developments in Shimmer Give Investors Reason for Hope](https://born2invest.com/articles/iota-price-shimmer-investors-hope/)
 46. **IOTA 2.0 MVP**: [id.iota](https://twitter.com/id_iota) tweetet wieder über den Fortschritt: [Tweet am Donnerstag](https://twitter.com/id_iota/status/1646609399681810432?s=20)
 47. **Tangle Treassury**: Es gab ein paar Neuigkeiten im [TANGLE COMMUNITY TREASURY PROPOSALS](https://www.tangletreasury.org/proposals)
+48. **IOTA Event**: Am Wochenende war ein Event bei der Hochschule für Technik und Wirtschaft in Berlin: [Tweet](https://twitter.com/iota/status/1643916463470792705?s=20); [Blockchain Experts meet Academy and Government. Opportunity to exchange ideas and experiences. Enhance your blockchain network](https://blockchainhtwkonferenz.com/#register); Spyce_5 war auch dabei: [Tweet](https://twitter.com/SPYCE_5/status/1643963037219422209?s=20)
+49. **
 
 
