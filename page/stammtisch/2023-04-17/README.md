@@ -67,5 +67,6 @@
 65. **Fiat Drama**: Hillary Clinton warns Bitcoin could  "destabilize nations" - Bloomberg: [Tweet](https://twitter.com/BitcoinNewsCom/status/1646941755353210901?s=20)
 66. **Tangle Treassury**: [Tweet](https://twitter.com/TangleTreasury/status/1646912002441322501?s=20) von den [Tangle Community Treasury Minutes 14-Apr, 2023](https://tangletreasury.notion.site/Tangle-Community-Treasury-Minutes-14-Apr-2023-85509272b5414f9596007e7e43cf62a3)
 67. **Crypto Dev**: [EOS tweetet](https://twitter.com/EOSnFoundation/status/1646693958792146944?s=20) über den Blogpost: [EOS EVM Mainnet Is Live!](https://eosnetwork.com/blog/eos-evm-mainnet-is-live/); Hier ein paar Daten zur [EOS -EVM](https://eosnetwork.com/eos-evm/)
+68. **Shimmer Promote**: [Tweet von Shimmer](https://twitter.com/shimmernet/status/1647177953262948353?s=20)
 
 
