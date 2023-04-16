@@ -64,7 +64,7 @@
 62. **IOTA Youtube**: von Finanzgoblin: [Deepr Finance Testbericht & Ultimativer Airdrop Farming Guide: Alles, was du wissen musst!](https://www.youtube.com/watch?v=5rQj0R2uFi8)
 63. **IOTA EVM Games**: [Iotabots tweeten](https://twitter.com/iotabots/status/1646952431606013953?s=20) über ihr web3 game auf [games.iotabots.io/soonabots](http://games.iotabots.io/soonabots)
 64. **Crypto Evolution**: EOS hat jetzt ne EVM: [Tweet](https://twitter.com/everstake_pool/status/1646866113018380289?s=20); Sie schreiben etwas von "Millions transactions per second": [Tweet](https://twitter.com/everstake_pool/status/1646866576111534081?s=20)
-65. **Fiat Drama**: Hillary Clinton warns Bitcoin could  "destabilize nations" - Bloomberg: [Tweet](https://twitter.com/BitcoinNewsCom/status/1646941755353210901?s=20)
+65. **Fiat Drama**: Hillary Clinton warns Bitcoin could  "destabilize nations" - Bloomberg: [Tweet](https://twitter.com/BitcoinNewsCom/status/1646941755353210901?s=20); [Tweet mit Video](https://twitter.com/ydemombynes/status/1647233630882656257?s=20)
 66. **Tangle Treassury**: [Tweet](https://twitter.com/TangleTreasury/status/1646912002441322501?s=20) von den [Tangle Community Treasury Minutes 14-Apr, 2023](https://tangletreasury.notion.site/Tangle-Community-Treasury-Minutes-14-Apr-2023-85509272b5414f9596007e7e43cf62a3)
 67. **Crypto Dev**: [EOS tweetet](https://twitter.com/EOSnFoundation/status/1646693958792146944?s=20) über den Blogpost: [EOS EVM Mainnet Is Live!](https://eosnetwork.com/blog/eos-evm-mainnet-is-live/); Hier ein paar Daten zur [EOS -EVM](https://eosnetwork.com/eos-evm/)
 68. **Shimmer Promote**: [Tweet von Shimmer](https://twitter.com/shimmernet/status/1647177953262948353?s=20)
@@ -73,6 +73,8 @@
 71. **IOTA Science**: Die [IF tweetet](https://twitter.com/iota/status/1647585638101794817?s=20) über ein Paper published am 28. März 23: [Decentralized brokered enabled ecosystem for data marketplace in smart cities towards a data sharing economy](https://link.springer.com/article/10.1007/s10669-023-09907-0); [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1647610807784468480?s=20)
 72. **IOTA Artikel**: von Crypto News Flash: [IOTA und Dell wollen den Milliarden-$-Markt mit 30 Milliarden Geräten und 2,5 Mio. vernetzten Apps für eine nachhaltige Zukunft erobern](https://www.crypto-news-flash.com/de/iota-und-dell-wollen-den-milliarden-markt-mit-30-milliarden-geraeten-und-25-mio-vernetzten-apps-fuer-eine-nachhaltige-zukunft-erobern/)
 73. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/280-wochenr%C3%BCckblick-vom-9-bis-15-april-2023/)
+74. **USA Drama**: Elon Musk sagt im Interview, dass die US-Regierung vollen Zugriff auf Twitter hatte, inklusive persönlicher Nachrichten: [Tweet](https://twitter.com/WatcherGuru/status/1647686211090219010?s=20)
+75. **IOTA Artikel**: von BeInCrypto: [IOTA: Massiv unterbewertet oder dem Untergang geweiht?](https://de.beincrypto.com/iota-massiv-unterbewertet-oder-dem-untergang-geweiht/)
 
 
 
