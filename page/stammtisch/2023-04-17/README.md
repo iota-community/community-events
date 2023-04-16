@@ -45,7 +45,7 @@
 43. **Shimmer Adaption**: [Dank Travetown aus dem ApeDAO](https://twitter.com/iotapes/status/1646527237909540866?s=20) hat [Revoke.cash](https://twitter.com/RevokeCash) Shimmer integriert: [Tweet](https://twitter.com/RevokeCash/status/1646501326602338305?s=20)
 44. **IOTA Artikel**: von Times Tabloid: [IOTA Announces Shimmer’s Partnership with Multichain to Boost Cross-chain Interoperability]()
 45. **IOTA Artikel**: von Born2Invest: [IOTA Price Forecast: Latest Developments in Shimmer Give Investors Reason for Hope](https://born2invest.com/articles/iota-price-shimmer-investors-hope/)
-46. **IOTA 2.0 MVP**: [id.iota](https://twitter.com/id_iota) tweetet wieder über den Fortschritt: [Tweet am Donnerstag](https://twitter.com/id_iota/status/1646609399681810432?s=20)
+46. **IOTA 2.0 MVP**: [id.iota](https://twitter.com/id_iota) tweetet wieder über den Fortschritt: [Tweets am Donnerstag](https://twitter.com/id_iota/status/1646609399681810432?s=20); [Tweets am Sonntag](https://twitter.com/id_iota/status/1647542581621030912?s=20)
 47. **Tangle Treassury**: Es gab ein paar Neuigkeiten im [TANGLE COMMUNITY TREASURY PROPOSALS](https://www.tangletreasury.org/proposals)
 48. **IOTA Event**: Am Wochenende war ein Event bei der Hochschule für Technik und Wirtschaft in Berlin: [Tweet](https://twitter.com/iota/status/1643916463470792705?s=20); [Blockchain Experts meet Academy and Government. Opportunity to exchange ideas and experiences. Enhance your blockchain network](https://blockchainhtwkonferenz.com/#register); Spyce_5 war auch dabei: [Tweet](https://twitter.com/SPYCE_5/status/1643963037219422209?s=20); [Holger Köther tweetet](https://twitter.com/HolgerKoether/status/1646790126553509888?s=20) davon
 49. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://twitter.com/ShimmerSeaDEX/status/1646755163120582658?s=20) über ihre Timeline für die ShimmerSea Training Competition
@@ -68,5 +68,11 @@
 66. **Tangle Treassury**: [Tweet](https://twitter.com/TangleTreasury/status/1646912002441322501?s=20) von den [Tangle Community Treasury Minutes 14-Apr, 2023](https://tangletreasury.notion.site/Tangle-Community-Treasury-Minutes-14-Apr-2023-85509272b5414f9596007e7e43cf62a3)
 67. **Crypto Dev**: [EOS tweetet](https://twitter.com/EOSnFoundation/status/1646693958792146944?s=20) über den Blogpost: [EOS EVM Mainnet Is Live!](https://eosnetwork.com/blog/eos-evm-mainnet-is-live/); Hier ein paar Daten zur [EOS -EVM](https://eosnetwork.com/eos-evm/)
 68. **Shimmer Promote**: [Tweet von Shimmer](https://twitter.com/shimmernet/status/1647177953262948353?s=20)
+69. **IOTA Promote**: Artikel auf CIO.com gesponsert von Dell und Intel: [Project Alvarium and The Rise of Data Confidence](https://www.cio.com/article/191705/project-alvarium-and-the-rise-of-data-confidence.html)
+70. **IOTA Artikel**: [Iotaread tweetet](https://twitter.com/iotaread/status/1647266692219666433?s=20) über ein NFT mit dem man ein IOTA Magazin bekommt mit Interview von Holger Köther
+71. **IOTA Science**: Die [IF tweetet](https://twitter.com/iota/status/1647585638101794817?s=20) über ein Paper published am 28. März 23: [Decentralized brokered enabled ecosystem for data marketplace in smart cities towards a data sharing economy](https://link.springer.com/article/10.1007/s10669-023-09907-0); [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1647610807784468480?s=20)
+72. **IOTA Artikel**: von Crypto News Flash: [IOTA und Dell wollen den Milliarden-$-Markt mit 30 Milliarden Geräten und 2,5 Mio. vernetzten Apps für eine nachhaltige Zukunft erobern](https://www.crypto-news-flash.com/de/iota-und-dell-wollen-den-milliarden-markt-mit-30-milliarden-geraeten-und-25-mio-vernetzten-apps-fuer-eine-nachhaltige-zukunft-erobern/)
+73. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/280-wochenr%C3%BCckblick-vom-9-bis-15-april-2023/)
+
 
 
