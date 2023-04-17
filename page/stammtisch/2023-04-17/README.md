@@ -79,6 +79,9 @@
 77. **IOTA Artikel**: von Chris Berg: [IOTA and Shimmer: The Future of Decentralized Finance and Why They Outshine Bitcoin & Ethereum](https://www.spikeswipe.com/post/iota-and-shimmer-the-future-of-decentralized-finance-and-why-they-outshine-bitcoin-ethereum)
 78. **EVM Dev**: [Thorsten H. tweetet](https://twitter.com/theissler/status/1647199878680805377?s=20) von dem neuen ERC-5773 und ERC-6059 Standards, die bereits auf der EVM möglich sind und z.B. NFTs mit mehreren Outputs ermöglichen (NFTs own other NFTs)
 79. **IOTA Dev**: wasp- Release: [v0.6.1-alpha.10](https://github.com/iotaledger/wasp/releases/tag/v0.6.1-alpha.10)
+80. **IOTA Artikel**: von Crypto NewsMedia: [This is How IOTA Can Help Elon Musk With Twitter Blue Badge Verification Issue](https://crypto-newsmedia.com/this-is-how-iota-can-help-elon-musk-with-twitter-blue-badge-verification-issue/)
+81. **IOTA Promote**: [Mariana de la Roche](https://twitter.com/Marianadlrw) von der IF ist ins Board of Directors gewählt worden beim INATBA: [Tweet](https://twitter.com/Marianadlrw/status/1647888676095942656?s=20)
+82. **IOTA Artikel**: von SpikeSwipe: [Assembly: The Next Frontier of Decentralized Scalable Consensus and Cooperation](https://www.spikeswipe.com/post/assembly-the-next-frontier-of-decentralized-scalable-consensus-and-cooperation)
 
 
 
