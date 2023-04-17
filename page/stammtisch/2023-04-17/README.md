@@ -82,6 +82,7 @@
 80. **IOTA Artikel**: von Crypto NewsMedia: [This is How IOTA Can Help Elon Musk With Twitter Blue Badge Verification Issue](https://crypto-newsmedia.com/this-is-how-iota-can-help-elon-musk-with-twitter-blue-badge-verification-issue/)
 81. **IOTA Promote**: [Mariana de la Roche](https://twitter.com/Marianadlrw) von der IF ist ins Board of Directors gewählt worden beim INATBA: [Tweet](https://twitter.com/Marianadlrw/status/1647888676095942656?s=20)
 82. **IOTA Artikel**: von SpikeSwipe: [Assembly: The Next Frontier of Decentralized Scalable Consensus and Cooperation](https://www.spikeswipe.com/post/assembly-the-next-frontier-of-decentralized-scalable-consensus-and-cooperation)
+83. **IOTA NFT**: [IotaOrigin tweetet](https://twitter.com/snippool/status/1646621878163832839?s=20) über ein NFT Rumble
 
 
 
