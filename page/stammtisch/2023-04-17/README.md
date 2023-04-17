@@ -85,6 +85,7 @@
 83. **IOTA NFT**: [IotaOrigin tweetet](https://twitter.com/snippool/status/1646621878163832839?s=20) über ein NFT Rumble
 84. **Crypto Adaption**: Artikel über [Kryptoaktien - Referentenentwurf offenbart Details zur elektronischen Aktie](https://www.btc-echo.de/news/kryptoaktien-diese-details-offenbart-der-referentenentwurf-162663/)
 85. **IOTA Ökosystem**: [Spyce_5 veröffentlicht](https://twitter.com/SPYCE_5/status/1647943016336838656?s=20) ihren Service als Open Beta: [spyce5.com](https://spyce5.com/)
+86. **Crypto Adaption**: Twitter und Etoro: [Tweet](https://twitter.com/WatcherGuru/status/1647964285123936259?s=20)
 
 
 
