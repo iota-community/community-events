@@ -87,7 +87,7 @@
 85. **IOTA Ökosystem**: [Spyce_5 veröffentlicht](https://twitter.com/SPYCE_5/status/1647943016336838656?s=20) ihren Service als Open Beta: [spyce5.com](https://spyce5.com/)
 86. **Crypto Adaption**: Twitter und Etoro: [Tweet](https://twitter.com/WatcherGuru/status/1647964285123936259?s=20)
 87. **IOTA Artikel**: von Crypto News Flash: [Iotabee verbindet Shimmer, IOTA, Ethereum, Bitcoin und alles, was das Universum bietet – Bericht](https://www.crypto-news-flash.com/de/iotabee-verbindet-shimmer-iota-ethereum-bitcoin-und-alles-was-das-universum-bietet-bericht/?feed_id=14788&_unique_id=643d2ccdde663)
-88. **IOTA Event**: Morgen ist Sebastian Müller bei der Hochschule und redet über IOTA 2.0 Consensus: [Tweet](https://twitter.com/uzh_blockchain/status/1640696621464682498?s=20)
+88. **IOTA Event**: Morgen ist Sebastian Müller bei der Hochschule und redet über den IOTA 2.0 Consensus: [Tweet](https://twitter.com/uzh_blockchain/status/1640696621464682498?s=20)
 
 
 
