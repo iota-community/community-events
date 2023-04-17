@@ -83,6 +83,8 @@
 81. **IOTA Promote**: [Mariana de la Roche](https://twitter.com/Marianadlrw) von der IF ist ins Board of Directors gewählt worden beim INATBA: [Tweet](https://twitter.com/Marianadlrw/status/1647888676095942656?s=20)
 82. **IOTA Artikel**: von SpikeSwipe: [Assembly: The Next Frontier of Decentralized Scalable Consensus and Cooperation](https://www.spikeswipe.com/post/assembly-the-next-frontier-of-decentralized-scalable-consensus-and-cooperation)
 83. **IOTA NFT**: [IotaOrigin tweetet](https://twitter.com/snippool/status/1646621878163832839?s=20) über ein NFT Rumble
+84. **Crypto Adaption**: Artikel über [Kryptoaktien - Referentenentwurf offenbart Details zur elektronischen Aktie](https://www.btc-echo.de/news/kryptoaktien-diese-details-offenbart-der-referentenentwurf-162663/)
+85. **IOTA Ökosystem**: [Spyce_5 veröffentlicht](https://twitter.com/SPYCE_5/status/1647943016336838656?s=20) ihren Service als Open Beta: [spyce5.com](https://spyce5.com/)
 
 
 
