@@ -77,6 +77,7 @@
 75. **IOTA Artikel**: von BeInCrypto: [IOTA: Massiv unterbewertet oder dem Untergang geweiht?](https://de.beincrypto.com/iota-massiv-unterbewertet-oder-dem-untergang-geweiht/)
 76. **Allg. News**: SpaceX: Heute soll die Starship Rakete starten mit dem Super Heavy Rocket
 77. **IOTA Artikel**: von Chris Berg: [IOTA and Shimmer: The Future of Decentralized Finance and Why They Outshine Bitcoin & Ethereum](https://www.spikeswipe.com/post/iota-and-shimmer-the-future-of-decentralized-finance-and-why-they-outshine-bitcoin-ethereum)
+78. **EVM Dev**: [Thorsten H. tweetet](https://twitter.com/theissler/status/1647199878680805377?s=20) von dem neuen ERC-5773 und ERC-6059 Standards, die bereits auf der EVM möglich sind und z.B. NFTs mit mehreren Outputs ermöglichen (NFTs own other NFTs)
 
 
 
