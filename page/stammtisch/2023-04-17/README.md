@@ -78,6 +78,7 @@
 76. **Allg. News**: SpaceX: Heute soll die Starship Rakete starten mit dem Super Heavy Rocket
 77. **IOTA Artikel**: von Chris Berg: [IOTA and Shimmer: The Future of Decentralized Finance and Why They Outshine Bitcoin & Ethereum](https://www.spikeswipe.com/post/iota-and-shimmer-the-future-of-decentralized-finance-and-why-they-outshine-bitcoin-ethereum)
 78. **EVM Dev**: [Thorsten H. tweetet](https://twitter.com/theissler/status/1647199878680805377?s=20) von dem neuen ERC-5773 und ERC-6059 Standards, die bereits auf der EVM möglich sind und z.B. NFTs mit mehreren Outputs ermöglichen (NFTs own other NFTs)
+79. **IOTA Dev**: wasp- Release: [v0.6.1-alpha.10](https://github.com/iotaledger/wasp/releases/tag/v0.6.1-alpha.10)
 
 
 
