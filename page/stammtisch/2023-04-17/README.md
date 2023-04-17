@@ -38,7 +38,7 @@
 36. **IOTA Dev**: inx Update: [inx-api-core-v1/v1.0.0-rc.3](https://github.com/iotaledger/inx-api-core-v1/releases/tag/v1.0.0-rc.3)
 37. **Shimmer EVM Hype**: [Deepr Finance tweetet](https://twitter.com/DeeprFinance/status/1646492298316742658?s=20), dass sie sehr zufrieden sind mit der Shimmer EVM und freuen sich über +10K Usern
 38. **IOTA Artikel**: Artikel auf Steemit: [Buy IOTA now on Twitter through Elon Musk's new deal with eTORO!](https://steemit.com/iota/@uwe69/buy-iota-now-on-twitter-through-elon-musk-s-new-deal-with-etoro)
-39. **Crypto Drama**: Artikel vom Blocktrainer:[Insolvente Börse FTX plant Neustart: Mehr als 7 Milliarden USD wieder aufgetaucht!](https://www.blocktrainer.de/ftx-vor-dem-neustart/)
+39. **Crypto Drama**: Artikel vom Blocktrainer: [Insolvente Börse FTX plant Neustart: Mehr als 7 Milliarden USD wieder aufgetaucht!](https://www.blocktrainer.de/ftx-vor-dem-neustart/)
 40. **Shimmer DeFi Education**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1646498479433293824?s=20) über den Blogpost: [DEX vs. CEX - Part 1](https://blog.shimmer.network/dex-vs-cex-part-1/) und später noch ein [Tweet](https://twitter.com/shimmernet/status/1646543774695260161?s=20) über L1/L2 NFTs mit dem [Link zu Native Assets in wiki.iota.org](https://wiki.iota.org/shimmer/learn/native-assets/)
 41. **IOTA Artikel**: The Tangleverse Times: [AMA with Adam and Austin from IOTA’s business development team](https://medium.com/@iotacontentcreators/ama-with-adam-and-austin-from-iotas-business-development-team-6eb554b785ad)
 42. **Crypto News**: Artikel von BTC Echo: [Krypto-Tagessieger Radix - XRD-Kurs im Turbogang](https://www.btc-echo.de/schlagzeilen/xrd-kurs-im-turbogang-162599/)
