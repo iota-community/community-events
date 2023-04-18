@@ -8,5 +8,7 @@
 6. **IOTA Audio**: Am Freitag wird es ein AMA von der Tangle Treasury geben: [Tweet](https://twitter.com/TangleTreasury/status/1648038757394706443?s=20)
 7. **Shimmer Promote**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1648219871279210497?s=20) über die Shimmer Tokenomics
 8. **Crypto Drama**: Gary Gensler will testify before the House Financial Services Committee: [](https://www.youtube.com/watch?v=tvqOPYcpMtI)
+9. **Crypto Drama**: Artikel von Crypto News Flash: [SEC verklagt Ethereum-Börse Bittrex wegen des Betriebs nicht registrierter Wertpapiere, Kongress will Gary Gensler feuern – Bericht](https://www.crypto-news-flash.com/de/sec-verklagt-ethereum-boerse-bittrex-wegen-des-betriebs-nicht-registrierter-wertpapiere-kongress-will-gary-gensler-feuern-bericht/?feed_id=14813&_unique_id=643e5f2935d46)
+10. **IOTA Artikel**: von Crypto News Flash: [IOTA Emerges as the Key Technology for Building Smart Cities of the Future, With Tangle Ensuring Data Integrity and Immutability](https://www.crypto-news-flash.com/iota-emerges-as-the-key-technology-for-building-smart-cities-of-the-future-with-tangle-ensuring-data-integrity-and-immutability/)
 
 
