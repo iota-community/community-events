@@ -114,4 +114,5 @@
 - [2023-04-03](./stammtisch/2023-04-03/README.md)
 - [2023-04-10](./stammtisch/2023-04-10/README.md)
 - [2023-04-17](./stammtisch/2023-04-17/README.md)
+- [2023-04-24](./stammtisch/2023-04-24/README.md)
 
