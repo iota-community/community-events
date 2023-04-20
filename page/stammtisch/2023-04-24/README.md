@@ -2,7 +2,7 @@
 
 1. **IOTA Quicktakes**: Die [IF tweetet](2023-04-24/README.md) über die [IOTA Quicktakes 17.04.2023: CEX vs #dex, Weekly Community #governance Meetings & #shimmer #wiki](https://www.youtube.com/watch?v=wgfZMybWiqc&list=PLMbc46iGTB_QyqqU-QwbFsrVd9-HN55i_&index=1)
 2. **IOTA Dev**: IOTA mal wieder auf Platz 5 bei Proof of Github: [Tweet](https://twitter.com/ProofofGitHub/status/1648234930051137537?s=20)
-3. **IOTA Event**: Sebastian Müller hatte seinen Auftritt über "Beyond Chains: the potential and challenges of DAG-based Distributed Ledgers" in der Uni im UZH Blockchaincenter [Tweet](https://twitter.com/uzh_blockchain/status/1647904420162682889?s=20)
+3. **IOTA Event**: Sebastian Müller hatte seinen Auftritt über "Beyond Chains: the potential and challenges of DAG-based Distributed Ledgers" in der Uni im UZH Blockchaincenter [Tweet](https://twitter.com/uzh_blockchain/status/1647904420162682889?s=20); Im [Tweet von vrom](https://twitter.com/Vrom14286662/status/1648952882501230592?s=20) findet ihr einen [Link zur Präsentation](https://drive.google.com/file/d/1rjE-qoyncIoFVhP5u-ekesOrdNDqU9C9/view)
 4. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1648053662504087552?s=20) über ihren Blogpost: [Bivreost 1 year!](https://bivreostwallet.medium.com/%D0%B1%D0%B8%D0%B2%D1%80%D0%B5%D0%BE%D1%81%D1%82-1-%D0%B3%D0%BE%D0%B4-1a6d8d268515)
 5. **IOTA Artikel**: von Cointelegraph: [IOTA und andere Kryptowährungen](https://de.cointelegraph.com/learn/iota-und-andere-kryptow%C3%A4hrungen)
 6. **IOTA Audio**: Am Freitag wird es ein AMA von der Tangle Treasury geben: [Tweet](https://twitter.com/TangleTreasury/status/1648038757394706443?s=20)
@@ -26,5 +26,7 @@
 24. **IOTA Ökosystem**: [Epoch Zero verkündet](https://twitter.com/Epoch_0/status/1648371770355859467?s=20) sein [Epoch Zero - Token & NFT Staking](https://medium.com/@EpochZer0/staking-657bf6adfe44)
 25. **IOTA 2.0 MVP**: [Jonas Theis](https://twitter.com/jonastheis_) hat sich im Discord zum Fortschritt von IOTA 2.0 MVP geäußert: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1648693580100169729?s=20)
 26. **IOTA Youtube**: von Probably Nothing: [Schneller als Bitcoin und günstiger als Ethereum. Shimmer erobert den Markt - IOTA News](https://www.youtube.com/watch?v=ZBEnkaGR6Sw)
-27. 
+27. **IOTA Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1648913450981269504?s=20) über ihren Blogpost: [Our April 2023 Dev Update](https://soonlabs.medium.com/our-april-2023-dev-update-f15827e2b3cd) 
+28. **IOTA Ökosystem**: [EBSI tweetet](https://twitter.com/EU_EBSI/status/1648972453916422144?s=20) über das Video von [EBSI Milestones 2022](https://youtu.be/so6oZ5opAA8)
+29. **IOTA Ökosystem**: [Roman Semko tweetet](https://twitter.com/romansemko/status/1648961356194881536?s=20) darüber, dass NFTs auf dem Shimmer Testnetz später ins Mainnet gebridged werden können. Mehr dazu auf [minted.vodka/shimmer](https://minted.vodka/shimmer)
 
