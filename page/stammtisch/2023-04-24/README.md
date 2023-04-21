@@ -60,4 +60,4 @@
 58. **IOTA Ökosystem**: [Blackpin tweetet](https://twitter.com/BLACKPIN_GmbH/status/1649413300805853186?s=20) über ihr neues Video: [Warum kooperieren die 3 sichersten Messenger Deutschlands miteinander?](https://www.youtube.com/watch?v=6jgaLnJik_8)
 59. **IOTA Event**: [TangleCon tweetet](https://twitter.com/TangleCon/status/1649421586963759104?s=20) über ihren Event (11.-12. Mai in Frankfurt), wo noch Plätze frei sind
 60. **IOTA 2.0 MVP(Drama)**: [Dom hat im Discord gesagt](https://discord.com/channels/397872799483428865/738665041217323068/1098883584196096010), dass man zugunsten von einem früheren Start in iota core wohl auf ein öffentliches Iota 2.0 MVP in GoShimmer verzichtet. [Laut Dom im Discord](https://discord.com/channels/397872799483428865/738665041217323068/1098884115610222622) und [nochmal hier](https://discord.com/channels/397872799483428865/738665041217323068/1098884927073820723) läuft das MVP wohl schon intern
-61. 
+61. **IOTA Dev Update**: [wasp v0.6.1-alpha.13](https://github.com/iotaledger/wasp/releases/tag/v0.6.1-alpha.13) release
