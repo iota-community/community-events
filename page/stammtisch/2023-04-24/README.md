@@ -52,3 +52,5 @@
 50. **IOTA Artikel**: von ETH News: [IOTA and Dell Secure Future of IoT with Joint Patent for Distributed Ledger Technology](https://www.ethnews.com/iota-and-dell-secure-future-of-iot-with-joint-patent-for-distributed-ledger-technology/)
 51. **Shimmer Ökosystem**: Am Sonntag ist ein ShimmerSea AMA mit Dr. Tangle: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1649291876736856065?s=20)
 52. **Shimmer Artikel**: von Bitcoin Insider: [IOTA to boost ShimmerEVM testing with 1.3M token airdrop](https://www.bitcoininsider.org/article/212722/iota-boost-shimmerevm-testing-13m-token-airdrop)
+53. **IOTA Artikel**: von Times Tabloid: [IOTA to Reward ShimmerEVM Testers with 1.3 Million Token Airdrop: Details](https://timestabloid.com/iota-to-reward-shimmerevm-testers-with-1-3-million-token-airdrop-details/)
+54. **Crypto News**: Der Blocktrainer ist jetzt Experte bei Focusonline ([Tweet](https://twitter.com/blocktrainer/status/1649357757617774592?s=20)); Hier sein erster Artikel: [Kryptowährung und Klimawandel - Der wahre Stromverbrauch von Bitcoin](https://www.focus.de/experten/kryptowaehrung-und-klimawandel-der-wahre-stromverbrauch-von-bitcoin_id_191705084.html)
