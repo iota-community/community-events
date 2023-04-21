@@ -43,4 +43,10 @@
 41. **IOTA Artikel**: von timestabloid: [Iota to reward Shimmer EVM testers with 1,3 million SMR - Token airdrop details](https://timestabloid.com/iota-to-reward-shimmerevm-testers-with-1-3-million-token-airdrop-details/)
 42. **IOTA Event**: Am 26.4.23: [Tweet](https://twitter.com/iota/status/1649050290858106886?s=20)
 43. **Shimmer Youtube**: von Blockbytes: [Discovering Memecoins, Treasures of Shimmer Campaign, MICA Worlds First Crypto Regulation in EU](https://www.youtube.com/watch?v=wRvLYbkxdEQ)
+44. **IOTA Audio**: Neuer Moonaco Podcast mit [Learning Nodes](https://twitter.com/learning_nodes): [Tweet](https://twitter.com/MoonacoPodcast/status/1648991259896209411?s=20); [Spotify](https://open.spotify.com/episode/02LvgQIg1JJOe0i0q5OXwm?si=fgoD0EAsQQGz-CJfVNWMaQ&dd=1&nd=1)
+45. **IOTA Artikel**: von Crypto News Flash: [IOTA: Shimmer holt superwichtigen Branchenriesen an Bord, um Ökosystem auf Milliarden-$-Markt vorzubereiten – Bericht](https://www.crypto-news-flash.com/de/iota-shimmer-holt-superwichtigen-branchenriesen-an-bord-um-oekosystem-auf-milliarden-markt-vorzubereiten-bericht/)
+46. **IOTA Youtube**: Die [IF tweetet](https://twitter.com/iota/status/1649140884397588480?s=20) über [IOTA Community Regulation Call 05/04/2023: Digital Assets vs Traditional Finance?](https://www.youtube.com/watch?v=SQV9ACh_2fY)
+47. **IOTA 2.0**: Dom hat sich im Discord zu IOTA2.0 geäußert: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1649268058538557441?s=20)
+48. **Tangle Treassury**: [Tangle Community Treasury tweetet](https://twitter.com/TangleTreasury/status/1649088284532916234?s=20) über die [Tangle Community Treasury Minutes 20-Apr, 2023 Draft](https://tangletreasury.notion.site/Tangle-Community-Treasury-Minutes-20-Apr-2023-Draft-65b82ff404324199ace70dedbbc8dd88)
+49. **IOTA Youtube**: von Blockchain Drenthe: [BlockchainLab Drenthe Monthly Meetup Apr. 20th 2023 19:00](https://www.youtube.com/watch?v=R99pIOm0onM)
 
