@@ -13,7 +13,7 @@
 11. **Crypto News**: Artikel: [Intel Discontinues Bitcoin Mining Chip Series](https://www.coindesk.com/tech/2023/04/18/intel-discontinues-bitcoin-mining-chip-series/)
 12. **IOTA Youtube Tutorial**: von Blockbytes: [Shimmer Testnet is LIVE! Everything You Need To Know!](https://www.youtube.com/watch?v=uPI8VzPeCT0)
 13. **Shimmer Adaption**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1648310420396965889?s=20) über den Blogpost: [Pyth Launches Price Oracles on ShimmerEVM Testnet](https://blog.shimmer.network/pyth-launches-on-shimmerevm-testnet/); Hier der [Tweet von Pythnetwork](https://twitter.com/PythNetwork/status/1648311792597344262?s=20) dazu und auch [Dom hat das kommentiert](https://twitter.com/DomSchiener/status/1648314021236424705?s=20)
-14. **Shimmer Hype**: Dom Schiener [tweetet](https://twitter.com/DomSchiener/status/1648402860764266498?s=20) ein Bild vom Meer mit den Worten "The future is shimmering"
+14. **Shimmer Hype**: Dom Schiener [tweetet](https://twitter.com/DomSchiener/status/1648402860764266498?s=20) ein Bild vom Meer mit den Worten "The future is shimmering" und später in der Woche [tweetet er](https://twitter.com/DomSchiener/status/1649062875699326977?s=20) nochmal ein Bild vom Meer aus Abu Dhabi
 15. **Shimmer Promote**: [Gary tweetet](https://twitter.com/GarrettBullish/status/1648557382635597825?s=20) darüber, dass er nach der web3 Konferenz in Hongkong jetzt nach Texas zur Consensus Konferenz von Coindesk (26.-28.04.) fährt
 16. **IOTA Ökosystem**: [Iotaorigin tweetet](https://twitter.com/origin_iota/status/1528717699928440833?s=20) darüber, dass sie mit [fecomico.org](https://fecomico.org/) eine Partnerschaft haben
 17. **Crypto Adaption**: Artikel: [Neue NFT-Kollektion von Donald Trump nach wenigen Stunden ausverkauft](https://www.btc-echo.de/schlagzeilen/neue-nft-kollektion-von-donald-trump-nach-wenigen-stunden-ausverkauft-162933/)
@@ -32,7 +32,7 @@
 30. **Fiat Adaption**: Apple und Goldman Sachs arbeiten offenbar zusammen an der iBank und geben aktuell 4,15% Zinsen auf Festgeld in der Apple Wallet: [Tweet](https://twitter.com/marcfriedrich7/status/1648556385905307649?s=20)
 31. **IOTA 2.0 MVP**: GitHub Status Update von [ID.iota](https://twitter.com/id_iota): [Zusammenfassung der GitHub Aktivitäten am Dienstag](https://twitter.com/id_iota/status/1648944605336043522?s=20) ([hier auf deutsch](https://www.iota-talk.com/forum/index.php?thread/14-iota-talk/&postID=117006#post117006))
 32. **IOTA Adaption**: Die [Umfrage von vrom](https://twitter.com/Vrom14286662/status/1648542075208572929?s=20) zeigt, dass 78% seiner Follower in Europa wohnen. 
-33. **Allg. News**: Am Mittwoch war der 2. Versuch von SpaceX die Super Heavy Rocket zu starten: [Spacex.com Homepage](https://www.spacex.com/launches/mission/?missionId=starship-flight-test)
+33. **Allg. News**: Am Mittwoch war der 2. Versuch von SpaceX die Super Heavy Rocket zu starten: [Starship Flight Test](https://www.youtube.com/live/-1wcilQ58hI?feature=share&t=2664)
 34. **Crypto Drama**: Coinbase will USA in Richtung Bermudas verlassen... Artikel: [Coinbase Expands Offshore With Bermuda License as US Regulators Remain Hostile Towards Crypto Industry](https://coinpedia.org/news/coinbase-expands-offshore-with-bermuda-license-as-us-regulators-remain-hostile-towards-crypto-industry/); [Coinbase will Offshore-Börse in Bermuda eröffnen](https://www.btc-echo.de/schlagzeilen/coinbase-will-offshore-boerse-in-bermuda-eroeffnen-163028/)
 35. **Shimmer Youtube**: Neues Video Tutorail von iotabee: [iotabee Bridge Explained (bridge assets from ETH & other EVM chains to IOTA/Shimmer ecosystem](https://www.youtube.com/watch?v=wZIB54F-ioE&t=6s)
 36. **IOTA Youtube**: Neues Video mit IOTA News von Probably Nothing: [Schneller als Bitcoin und günstiger als Ethereum. Shimmer erobert den Markt - IOTA News](https://youtu.be/ZBEnkaGR6Sw) 
@@ -49,4 +49,5 @@
 47. **IOTA 2.0**: Dom hat sich im Discord zu IOTA2.0 geäußert: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1649268058538557441?s=20)
 48. **Tangle Treassury**: [Tangle Community Treasury tweetet](https://twitter.com/TangleTreasury/status/1649088284532916234?s=20) über die [Tangle Community Treasury Minutes 20-Apr, 2023 Draft](https://tangletreasury.notion.site/Tangle-Community-Treasury-Minutes-20-Apr-2023-Draft-65b82ff404324199ace70dedbbc8dd88)
 49. **IOTA Youtube**: von Blockchain Drenthe: [BlockchainLab Drenthe Monthly Meetup Apr. 20th 2023 19:00](https://www.youtube.com/watch?v=R99pIOm0onM)
+50. **IOTA Artikel**: von ETH News: [IOTA and Dell Secure Future of IoT with Joint Patent for Distributed Ledger Technology](https://www.ethnews.com/iota-and-dell-secure-future-of-iot-with-joint-patent-for-distributed-ledger-technology/)
 
