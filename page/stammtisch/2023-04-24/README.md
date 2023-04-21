@@ -51,4 +51,3 @@
 49. **IOTA Youtube**: von Blockchain Drenthe: [BlockchainLab Drenthe Monthly Meetup Apr. 20th 2023 19:00](https://www.youtube.com/watch?v=R99pIOm0onM)
 50. **IOTA Artikel**: von ETH News: [IOTA and Dell Secure Future of IoT with Joint Patent for Distributed Ledger Technology](https://www.ethnews.com/iota-and-dell-secure-future-of-iot-with-joint-patent-for-distributed-ledger-technology/)
 51. **Shimmer Ökosystem**: Am Sonntag ist ein ShimmerSea AMA mit Dr. Tangle: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1649291876736856065?s=20)
-
