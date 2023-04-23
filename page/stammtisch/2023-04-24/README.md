@@ -71,3 +71,4 @@
 69. **IOTA Ökosystem**: [ShimmerSea tweetet](https://twitter.com/ShimmerSeaDEX/status/1649761767227105281?s=20), dass der Testnetz Fairlaunch für Lumi Besitzer bereits am Montag 24.4. startet; Es gab am Sonntag auch ein AMA im Discord von ShimmerSea
 70. **IOTA Drama**: [ThomasQV](https://twitter.com/ThomasQvOG) ([MoonacoPodcast](https://twitter.com/MoonacoPodcast)) will vielleicht aufhören: [Tweet](https://twitter.com/ThomasQvOG/status/1650124096657670147?s=20)
 71. **IOTA Artikel**: von ETH News: [Revolutionizing App Development: Tangle Community Treasury Funds IOTA for Flutter Led by Experienced Developer](https://www.ethnews.com/revolutionizing-app-development-tangle-community-treasury-funds-iota-for-flutter-led-by-experienced-developer/)
+72. **IOTA Ökosystem**: [IotaOrigin tweetet](https://twitter.com/origin_iota/status/1650152101698318337?s=20) über ihre Partnerschaft mit [Baton Finance](https://twitter.com/BatonFinance)
