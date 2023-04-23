@@ -72,3 +72,4 @@
 70. **IOTA Drama**: [ThomasQV](https://twitter.com/ThomasQvOG) ([MoonacoPodcast](https://twitter.com/MoonacoPodcast)) will vielleicht aufhören: [Tweet](https://twitter.com/ThomasQvOG/status/1650124096657670147?s=20)
 71. **IOTA Artikel**: von ETH News: [Revolutionizing App Development: Tangle Community Treasury Funds IOTA for Flutter Led by Experienced Developer](https://www.ethnews.com/revolutionizing-app-development-tangle-community-treasury-funds-iota-for-flutter-led-by-experienced-developer/)
 72. **IOTA Ökosystem**: [IotaOrigin tweetet](https://twitter.com/origin_iota/status/1650152101698318337?s=20) über ihre Partnerschaft mit [Baton Finance](https://twitter.com/BatonFinance)
+73. **IOTA Artikel**: von KryptoGuru: [IOTA’S TESTNETZWERK SHIMMER RÜSTET SICH MIT 2 WEITEREN WICHTIGEN UPDATES!](https://krypto-guru.de/news/iota/shimmer-ruestet-mit-2-updates/)
