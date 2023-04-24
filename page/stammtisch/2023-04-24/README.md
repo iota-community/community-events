@@ -73,3 +73,4 @@
 71. **IOTA Artikel**: von ETH News: [Revolutionizing App Development: Tangle Community Treasury Funds IOTA for Flutter Led by Experienced Developer](https://www.ethnews.com/revolutionizing-app-development-tangle-community-treasury-funds-iota-for-flutter-led-by-experienced-developer/)
 72. **IOTA Ökosystem**: [IotaOrigin tweetet](https://twitter.com/origin_iota/status/1650152101698318337?s=20) über ihre Partnerschaft mit [Baton Finance](https://twitter.com/BatonFinance)
 73. **IOTA Artikel**: von KryptoGuru: [IOTA’S TESTNETZWERK SHIMMER RÜSTET SICH MIT 2 WEITEREN WICHTIGEN UPDATES!](https://krypto-guru.de/news/iota/shimmer-ruestet-mit-2-updates/)
+74. **IOTA Ökosystem**: [TangleSwap tweetet](https://twitter.com/TangleSwap/status/1650402305085173762?s=20) über den Blogpost: [Explorer’s Manual: first steps into Concentrated Liquidity — the future of DeFi](https://medium.com/explorers-manual/first-steps-into-concentrated-liquidity-a2aba0c1b48a)
