@@ -75,3 +75,4 @@
 73. **IOTA Artikel**: von KryptoGuru: [IOTA’S TESTNETZWERK SHIMMER RÜSTET SICH MIT 2 WEITEREN WICHTIGEN UPDATES!](https://krypto-guru.de/news/iota/shimmer-ruestet-mit-2-updates/)
 74. **IOTA Ökosystem**: [TangleSwap tweetet](https://twitter.com/TangleSwap/status/1650402305085173762?s=20) über den Blogpost: [Explorer’s Manual: first steps into Concentrated Liquidity — the future of DeFi](https://medium.com/explorers-manual/first-steps-into-concentrated-liquidity-a2aba0c1b48a)
 75. **IOTA Promote**: [CoinmarketCap tweetet](https://twitter.com/CoinMarketCap/status/1650386590726868997?s=20) über ihren Blogpost: [Treasures of Shimmer](https://coinmarketcap.com/community/articles/643fe6b41e2012137aa27064/)
+76. **IOTA Event**: Mariana de la Roche ist am 23.-24.05 in Brüssel auf einem INATBA Event von [web3eurosummit](https://twitter.com/web3eurosummit): [Tweet](https://twitter.com/web3eurosummit/status/1650430551491313665?s=20)
