@@ -16,6 +16,6 @@ After that use Metamask Wallet to connect to the following websites:
 9. **LendeXe (DeFi Lending)**:
 10. **Daobee (NFT Game)**:
 11. **ApeDao (NFT DeFi)**: [Voting Test](https://snapshot.org/#/iotapes.eth/proposal/0x456c6c9e1a8d8634e495e24126350de77b8f2479ab603c0b55950ec294a12800), found in [Tweet from AlphaRo](https://twitter.com/0xAlphaRho/status/1642599485787320320?s=20); [app.apedao.finance](https://app.apedao.finance/) found inside the ApeDao Discord
-12. **DarkMythos (NFT Game)**: [explorer.dark-mythos.com/cards](https://explorer.dark-mythos.com/cards) noch nicht EVM Testchain kompatibel
+12. **DarkMythos (NFT Game)**: [explorer.dark-mythos.com/cards](https://explorer.dark-mythos.com/cards) noch nicht Shimmer EVM Testchain kompatibel
 13. **IotaBots (NFT Game)**: [Tweet from Iotabots](https://twitter.com/iotabots/status/1646952431606013953?s=20) with link to the game: [games.iotabots.io/soonabots](http://games.iotabots.io/soonabots) (you need a Soonabot to play); [Tweet from Iotabots](https://twitter.com/huhn511/status/1648268194015051777?s=20) with the link to [games.iotabots.io/games](games.iotabots.io/games) (you need an Iotabot to play)
 14. **MintedVodka**: [minted.vodka/shimmer](https://minted.vodka/shimmer) ; The link is from [twitter.com/MintedVodka](https://twitter.com/MintedVodka)
