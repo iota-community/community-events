@@ -10,7 +10,7 @@ After that use Metamask Wallet to connect to the following websites:
 3. **Tanglechains.org from Spyce_5**: [tanglechains.org](https://www.tanglechains.org/?testnets=true); The link is from this [Tweet from Spyce_5](https://twitter.com/TangleChains/status/1635535969679036417?s=20)
 4. **Iotabee (DeFi DEX)**: [earlybee.iotabee.com](https://earlybee.iotabee.com/); The link is from this [Tweet from Iotabee](https://twitter.com/iotabee/status/1641730156535357441?s=20)
 5. **ShimmerSea (DeFi DEX)**: [shimmersea.finance](https://shimmersea.finance); Fairlaunch: [https://shimmersea.finance/fairlaunch](https://shimmersea.finance/fairlaunch); The links are from this [Tweet from ShimmerSea](https://twitter.com/ShimmerSeaDEX/status/1650530036905299971?s=20)
-6. **TangleSwap (DeFi DEX)**:
+6. **TangleSwap (DeFi DEX)**: [tangleswap.exchange/](https://tangleswap.exchange/); Link ist from [twitter.com/TangleSwap](https://twitter.com/TangleSwap)
 7. **Iotahero (GAME)**: [test.iotaheroes.com](https://test.iotaheroes.com/); The link ist from [twitter.com/IotaHeroes](https://twitter.com/IotaHeroes)
 8. **DeeprFinance (DeFi DEX)**: [deepr.finance/faucet](https://www.deepr.finance/faucet); The link is from this [Tweet from DeeprFinance](https://twitter.com/DeeprFinance/status/1643616853107912705?s=20)
 9. **LendeXe (DeFi Lending)**:
