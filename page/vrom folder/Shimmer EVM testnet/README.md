@@ -21,3 +21,4 @@ Then use [Metamask Wallet](https://metamask.io/) to connect to the following web
 14. **MintedVodka**: [minted.vodka/shimmer](https://minted.vodka/shimmer) ; The link is from [twitter.com/MintedVodka](https://twitter.com/MintedVodka)
 15. **Soonaverse (NFT DeFi)**: We only have a [Soon-Tweet](https://twitter.com/soon_labs/status/1650733951907164160?s=20)
 16. **IotaOrigin (NFT DeFi)**: We only have a [Soon-Tweet](https://twitter.com/origin_iota/status/1651188161190526976?s=20)
+17. **Iotabee (DeFi DEX)**: We only have a [Soon-Tweet](https://twitter.com/iotabee/status/1651533620836802562?s=20)
