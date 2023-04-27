@@ -19,5 +19,5 @@ Then use Metamask Wallet to connect to the following websites:
 12. **DarkMythos (NFT Game)**: [explorer.dark-mythos.com/cards](https://explorer.dark-mythos.com/cards) noch nicht Shimmer EVM Testchain kompatibel
 13. **IotaBots (NFT Game)**: [Tweet from Iotabots](https://twitter.com/iotabots/status/1646952431606013953?s=20) with link to the game: [games.iotabots.io/soonabots](http://games.iotabots.io/soonabots) (you need a Soonabot to play); [Tweet from Iotabots](https://twitter.com/huhn511/status/1648268194015051777?s=20) with the link to [games.iotabots.io/games](games.iotabots.io/games) (you need an Iotabot to play)
 14. **MintedVodka**: [minted.vodka/shimmer](https://minted.vodka/shimmer) ; The link is from [twitter.com/MintedVodka](https://twitter.com/MintedVodka)
-15. **Soonaverse (NFT DeFi): **: Es gab bisher nur ein [Soon-Tweet](https://twitter.com/soon_labs/status/1650733951907164160?s=20)
-16. **IotaOrigin (NFT DeFi): Es gab bisher nur ein [Soon-Tweet](https://twitter.com/origin_iota/status/1651188161190526976?s=20)
+15. **Soonaverse (NFT DeFi)**: We only have a [Soon-Tweet](https://twitter.com/soon_labs/status/1650733951907164160?s=20)
+16. **IotaOrigin (NFT DeFi)**: We only have a [Soon-Tweet](https://twitter.com/origin_iota/status/1651188161190526976?s=20)
