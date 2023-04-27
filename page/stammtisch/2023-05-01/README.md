@@ -19,4 +19,7 @@
 16. **IOTA Event**: [Mariana de la Roche tweetet](https://twitter.com/Marianadlrw/status/1651119924834648064?s=20) ein Bild vom AFF2023 (Alternative Finance Forum); Die [IF hatte das bereits angekündigt](https://twitter.com/iota/status/1649050290858106886?s=20) und dieses Video verlinkt: [Alternative Finance Forum 2023](https://www.youtube.com/@alternativefinanceforum2023)
 17. **IOTA Artikel**: von ETH News: [IOTA Foundation Leads the Charge: Revolutionizing Blockchain for Social Good in INATBA’s Growth and Impact](https://www.ethnews.com/iota-foundation-leads-the-charge-revolutionizing-blockchain-for-social-good-in-inatbas-growth-and-impact/)
 18. **Crypto Drama**: Binance kauft Voyager: [Tweet](https://twitter.com/BinanceUS/status/1650932061866172435?s=20); Artikel: [Binance Pulls $1 Billion Voyager Asset Deal, Says U.S. Has ‘Hostile’ Environment](https://www.forbes.com/sites/digital-assets/2023/04/25/binance-pulls-1-billion-voyager-asset-deal-says-us-has-hostile-environment/?sh=35566376284f)
+19. **Shimmer Learn**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1651481343904153602?s=20) über die Unterschiede von IOTA und Shimmer
+20. **Shimmer EVM Competition**: [vrom Umfrage](https://twitter.com/Vrom14286662/status/1651483833013788672?s=20) auf Twitter gibt einen Überblick wie gut die Leute vorbereitet sind. 
+21. **Shimmer Tech Update**: Es gab ein tech Update zur Shimmer EVM von Dave im Discord: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1651244297360928769?s=20)
 
