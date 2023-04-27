@@ -2,8 +2,8 @@
 
 You can also find many dApps in the IOTA Discord Channel: [#shimmerevm-testnet-dapps](https://discord.com/channels/397872799483428865/1091292560464564256) inside the Ecosystem Channel
 
-Check out the the [explorer.evm.testnet.shimmer.network](https://explorer.evm.testnet.shimmer.network/) first, if the testnet is running.
-After that use Metamask Wallet to connect to the following websites:
+Check out the the [explorer.evm.testnet.shimmer.network](https://explorer.evm.testnet.shimmer.network/) first, to see if the testnet is running.
+Then use Metamask Wallet to connect to the following websites:
 
 1. **Official Shimmer EVM Toolkit and Faucet**: [evm-toolkit.evm.testnet.shimmer.network](https://evm-toolkit.evm.testnet.shimmer.network/)
 2. **Get Token**: You can get SMR test token on [evm-toolkit.evm.testnet.shimmer.network](https://evm-toolkit.evm.testnet.shimmer.network/). Other token you can get on, [earlybee.iotabee.com](https://earlybee.iotabee.com/dex/faucets), on [evm-faucet.testnet.shimmer.network](https://evm-faucet.testnet.shimmer.network), on [deepr.finance/faucet](https://www.deepr.finance/faucet) or just use DeFi and swap them on [shimmersea.finance/swap](https://shimmersea.finance/swap) or [earlybee.iotabee.com/dex/swap](https://earlybee.iotabee.com/dex/swap)
