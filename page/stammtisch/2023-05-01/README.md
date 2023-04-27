@@ -22,4 +22,5 @@
 19. **Shimmer Learn**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1651481343904153602?s=20) über die Unterschiede von IOTA und Shimmer
 20. **Shimmer EVM Competition**: [vrom Umfrage](https://twitter.com/Vrom14286662/status/1651483833013788672?s=20) auf Twitter gibt einen Überblick wie gut die Leute vorbereitet sind. 
 21. **Shimmer Tech Update**: Es gab ein tech Update zur Shimmer EVM von Dave im Discord: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1651244297360928769?s=20)
+22. **IOTA NFT Ökosystem**: [Dark Mythos gibt bekannt](https://twitter.com/DarkMythosIOTA/status/1651239504995581952?s=20), dass sie mit [Marco Besier](https://twitter.com/marcobesier) und der Web3 Developer Academie zusammen arbeiten werden: [Tweet von M.B](https://twitter.com/marcobesier/status/1651239976821051393?s=20)
 
