@@ -26,3 +26,4 @@
 23. **IOTA Governements**: [Tweets von Phylo](https://twitter.com/PhyloIota/status/1651507218695741440?s=20) zum anstehenden Governements Call. Es wird auch über ein neues Abstimmungstool [snapshot.org/#/shimmer-gov.eth](https://snapshot.org/#/shimmer-gov.eth) geredet
 24. **Shimmer EVM Promotion**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1651511515206361093?s=20) ein paar Statistiken zur Shimmer EVM Testchain
 25.  **IOTA Audio**: Neuer Moonaco Podcast mit [Mariana de la Roche](https://twitter.com/Marianadlrw): [Tweet](https://twitter.com/MoonacoPodcast/status/1651526853360844801?s=20); [Spotify Link](https://open.spotify.com/episode/0MLqwA4iEdylHkFTTYic2A?si=wGxk1dGdRW6_MgeEYpo3MA)
+26.  **IOTA Ökosystem**: [Accumulator tweetet](https://twitter.com/ACCU_DeFi/status/1651538084507402244?s=20) darüber, dass sie bald starten mit der Shimmer EVM
