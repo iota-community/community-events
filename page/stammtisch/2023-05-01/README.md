@@ -37,3 +37,4 @@
 34.  **Shimmer Ökosystem**: [ShimmerSea tweetet](https://twitter.com/ShimmerSeaDEX/status/1651677240902529024?s=20), dass der Fairlaunch nach 3,5h ausverkauft war
 35.  **IOTA NFT Ökosystem**: [Epoch Zero tweeetet](https://twitter.com/Epoch_0/status/1651678841931198486?s=20) über ihren Blogpost: [STAKING (UPDATE 4–27–23)
 ](https://medium.com/@EpochZer0/staking-update-4-27-23-f547da63a852) 
+36. **IOTA core dev**: Es gibt einen neuen Channel im IOTA Discord ([#iota core](https://discord.com/channels/397872799483428865/1100742530477342781)). Und hier die [Aktivität auf dem GitHub repository von iota-core](https://github.com/iotaledger/iota-core/pulse)
