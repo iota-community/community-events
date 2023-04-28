@@ -34,4 +34,6 @@
 31.  **Shimmer EVM Adaption**: [DeeprFinance veröffentlicht](https://twitter.com/DeeprFinance/status/1651600853541830662?s=20) ein paar mehr Zahlen zur Nutzung ihrer Plattform
 32.  **Crypto Adaption**: Artikel von Crypto Potato: [Robinhood Now Lets Users Buy Crypto Directly From Their Personal Wallet (Consensus 2023 LIVE)](https://cryptopotato.com/robinhood-now-lets-users-buy-crypto-directly-from-their-personal-wallet-consensus-2023-live/)
 33.  **IOTA Audio**: Dr. Tangle war am Donnerstag im Sprachchat der TangleGang und hat 5 Stunden über ShimmerSea, EVM und Co geredet. Das Gespräch wurde nicht aufgezeichnet
-34.  **Shimmer Ökosystem**: [ShimmerSea tweetet](https://twitter.com/ShimmerSeaDEX/status/1651677240902529024?s=20), dass der Fairlaunch nach 3,5h ausverkauft war. 
+34.  **Shimmer Ökosystem**: [ShimmerSea tweetet](https://twitter.com/ShimmerSeaDEX/status/1651677240902529024?s=20), dass der Fairlaunch nach 3,5h ausverkauft war
+35.  **IOTA NFT Ökosystem**: [Epoch Zero tweeetet](https://twitter.com/Epoch_0/status/1651678841931198486?s=20) über ihren Blogpost: [STAKING (UPDATE 4–27–23)
+](https://medium.com/@EpochZer0/staking-update-4-27-23-f547da63a852) 
