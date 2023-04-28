@@ -38,3 +38,4 @@
 35.  **IOTA NFT Ökosystem**: [Epoch Zero tweeetet](https://twitter.com/Epoch_0/status/1651678841931198486?s=20) über ihren Blogpost: [STAKING (UPDATE 4–27–23)
 ](https://medium.com/@EpochZer0/staking-update-4-27-23-f547da63a852) 
 36. **IOTA core dev**: Es gibt einen neuen Channel im IOTA Discord ([#iota core](https://discord.com/channels/397872799483428865/1100742530477342781)). Und hier die [Aktivität auf dem GitHub repository von iota-core](https://github.com/iotaledger/iota-core/pulse)
+37. **Shimmer EVM Ökosystem**: Ein [Soon-Tweet](https://twitter.com/ACCU_DeFi/status/1651906296600305664?s=20) von Accumulator lässt auf einen Yield Agregator im shimmer EVM Ökosystem hoffen
