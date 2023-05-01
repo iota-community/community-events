@@ -59,3 +59,4 @@
 55. **Shimmer Ökosystem**: Auch [LendeXe verkündet](https://twitter.com/LendeXeFinance/status/1652730492632924162?s=20), dass sie beim Treassury of Shimmer Event ab dem 3.5. dabei sind
 56. **IOTA Youtube**: von Probably Nothing: [Shimmer startet ein riesen Gewinnspiel - jetzt mitmachen - IOTA & Shimmer News](https://www.youtube.com/watch?v=o_ZlCdm6k5E)
 57. **Shimmer Ökosystem**: [Speak geht Multichain](https://twitter.com/SpeakNFT/status/1652888507440934912?s=20), aber das war schon immer so geplant
+58. **Crypto Adaption**: [Mastercard kündigt an](https://twitter.com/MastercardNews/status/1652003395052380160?s=20), dass sie etwas mit Cardano, Polygon und AVAX machen. Sie erweitern glaube ich einige Wallets aus deren Ökosystemen mit "Mastercard Crypto Credentials"
