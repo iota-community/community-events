@@ -2,7 +2,7 @@
 
 You can also find many dApps in the IOTA Discord Channel: [#shimmerevm-testnet-dapps](https://discord.com/channels/397872799483428865/1091292560464564256) inside the Ecosystem Channel
 
-Check out the the [explorer.evm.testnet.shimmer.network](https://explorer.evm.testnet.shimmer.network/) first, to see if the testnet is running.
+First check out the Blockexplorer ([explorer.evm.testnet.shimmer.network](https://explorer.evm.testnet.shimmer.network/)), to see if the testnet is running.
 Then use [Metamask Wallet](https://metamask.io/) to connect to the following websites:
 
 1. **Official Shimmer EVM Toolkit and Faucet**: [evm-toolkit.evm.testnet.shimmer.network](https://evm-toolkit.evm.testnet.shimmer.network/) 
