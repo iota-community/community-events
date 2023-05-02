@@ -9,3 +9,6 @@
 7. **Shimmer EVM Ökosystem**: [Genies Bounty tweetet](https://twitter.com/Genies_Bounty/status/1653350730344833024?s=20) darüber, dass sie zur EVM-Competition 3 Spiele in ihrem Genies Bounty Casino anbieten werden ("Dice game; Coin flip game; Plinko game)
 8. **IOTA Youtube**: von Probably Nothing: [Shimmer startet ein riesen Gewinnspiel - jetzt mitmachen - IOTA & Shimmer News](https://youtu.be/o_ZlCdm6k5E)
 9. **IOTA Youtube Learn**: von Iota Foundation: [Office Hours 02.05.2023 - Shimmer EVM Special](https://www.youtube.com/watch?v=-gKMtbUxh8w)
+10. **Crypto Drama**: Artikel: [Coinbase CEO, Board Members Accused of Insider Trading, Lawsuit Claims $1 Billion in Losses Avoided](https://blockchaindaily.news/2023/05/01/coinbase-ceo-board-members-accused-of-insider-trading-lawsuit-claims-1-billion-in-losses-avoided/)
+11. **IOTA Exchange**: Im iota Discord wurde über [swapzone.io/](https://swapzone.io/) und [app.rubic.exchange](https://app.rubic.exchange/) geschrieben, wo man scheinbar ETH direkt in IOTA swapen kann
+12. **IOTA Artikel**: von Spike Swipe: [IOTA: The Sleeping Giant Awakens - A Journey Through Time and a Vision of the Future](https://www.spikeswipe.com/post/iota-the-sleeping-giant-awakens-a-journey-through-time-and-a-vision-of-the-future)
