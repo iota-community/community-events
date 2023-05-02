@@ -7,4 +7,5 @@
 5. **Shimmer Ökosystem**: [Iotabee tweetet](https://twitter.com/iotabee/status/1653335196702240771?s=20), dass sie bald das Farmen fei schalten
 6. **IOTA Promote**: Die [IF tweetet](https://twitter.com/iota/status/1653338551080067072?s=20) darüber, dass sich Blockchain Projekte bei der [Chaise Alliance](https://chaise-blockchainskills.eu/join-the-chaise-alliance/)  anmelden sollen
 7. **Shimmer EVM Ökosystem**: [Genies Bounty tweetet](https://twitter.com/Genies_Bounty/status/1653350730344833024?s=20) darüber, dass sie zur EVM-Competition 3 Spiele in ihrem Genies Bounty Casino anbieten werden ("Dice game; Coin flip game; Plinko game)
-8. **IOTA Youtube**: von Probably Nothing: [#Shimmer & #IOTA News](https://youtu.be/o_ZlCdm6k5E)
+8. **IOTA Youtube**: von Probably Nothing: [Shimmer startet ein riesen Gewinnspiel - jetzt mitmachen - IOTA & Shimmer News](https://youtu.be/o_ZlCdm6k5E)
+9. **IOTA Youtube Learn**: von Iota Foundation: [Office Hours 02.05.2023 - Shimmer EVM Special](https://www.youtube.com/watch?v=-gKMtbUxh8w)
