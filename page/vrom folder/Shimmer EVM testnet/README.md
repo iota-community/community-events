@@ -23,7 +23,7 @@ Then use [Metamask Wallet](https://metamask.io/) to connect to the following web
 16. **IotaOrigin (NFT DeFi)**: We only have a [Soon-Tweet](https://twitter.com/origin_iota/status/1651188161190526976?s=20)
 17. **Iotabee (DeFi DEX)**: We only have a [Soon-Tweet](https://twitter.com/iotabee/status/1651533620836802562?s=20)
 18. **Accumulator (DeFi Yield-Aggregator)**: We only have a [Soon-Tweet](https://twitter.com/ACCU_DeFi/status/1651538084507402244?s=20)
-19. **Genie's Bounty (Gambling)**: We only have a [Soon-Tweet](https://twitter.com/Genies_Bounty/status/1652241790278291462?s=20))
+19. **Genie's Bounty (Gambling)**: We only have a [Soon-Tweet](https://twitter.com/Genies_Bounty/status/1652241790278291462?s=20) and another [Soon Tweet](https://twitter.com/Genies_Bounty/status/1653350730344833024?s=20)
 20. **Snowman (DeFi)**: We only have a [Soon-Tweet](https://twitter.com/SnowMan_Finance/status/1641069692315115522?s=20) and the website: [snowman.one](https://www.snowman.one/#/home)
 21. **MoonVault (DeFi)**: We only have a [Soon-Tweet](https://twitter.com/Moon_Vault_News/status/1575188735280324611?s=20) and the website: [app.moon-vault.com](https://app.moon-vault.com/)
 22. **Alpaca Finance (DeFi)**: We only have a [Soon-Tweet](https://twitter.com/MoonacoPodcast/status/1646452891706638337?s=20) and the website: [app.alpacafinance.org](https://app.alpacafinance.org/)
