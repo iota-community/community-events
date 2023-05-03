@@ -13,7 +13,7 @@ Then use [Metamask Wallet](https://metamask.io/) to connect to the following web
 6. **TangleSwap (DeFi DEX)**: Soon possible on [tangleswap.exchange/](https://tangleswap.exchange/); Link ist from [twitter.com/TangleSwap](https://twitter.com/TangleSwap)
 7. **Iotahero (GAME)**: [test.iotaheroes.com](https://test.iotaheroes.com/); The link ist from [twitter.com/IotaHeroes](https://twitter.com/IotaHeroes)
 8. **DeeprFinance (DeFi DEX)**: [deepr.finance/faucet](https://www.deepr.finance/faucet); The link is from this [Tweet from DeeprFinance](https://twitter.com/DeeprFinance/status/1643616853107912705?s=20)
-9. **LendeXe (DeFi Lending)**: We only have a [Soon-Tweet](https://twitter.com/LendeXeFinance/status/1652730492632924162?s=20) and the website: [lendexe.fi](https://www.lendexe.fi/)
+9. **LendeXe (DeFi Lending)**: [shimmer-app.lendexe.fi](https://shimmer-app.lendexe.fi/dashboard); ETH: [lendexe.fi](https://www.lendexe.fi/)
 10. **ZeroSwap (DEX)**: [ZeroSwap DEX](https://dex.zeroswapnft.com/#/swap); The link is from this [Tweet](https://twitter.com/ZeroSwapNFT/status/1652359069489872897?s=20)
 11. **ApeDao (NFT DeFi)**: [Voting Test](https://snapshot.org/#/iotapes.eth/proposal/0x456c6c9e1a8d8634e495e24126350de77b8f2479ab603c0b55950ec294a12800), found in [Tweet from AlphaRo](https://twitter.com/0xAlphaRho/status/1642599485787320320?s=20); [app.apedao.finance](https://app.apedao.finance/) found inside the ApeDao Discord
 12. **DarkMythos (NFT Game)**: [explorer.dark-mythos.com/cards](https://explorer.dark-mythos.com/cards) (not yet Shimmer EVM compatible), but we have a [Soon-EVM-Tweet](https://twitter.com/DarkMythosIOTA/status/1653681812793614336?s=20)
