@@ -25,3 +25,5 @@
 23. **Shimmer Ökosystem**: [TangleSwap tweetet](https://twitter.com/TangleSwap/status/1653715792360292352?s=20) über ihre neue [TangleSwap Docs](https://docs.tangleswap.exchange/)
 24. **Crypto News**: Das SUI Netzwerk ist gestartet: [Tweet](https://twitter.com/SuiNetwork/status/1653731940107956225?s=20)
 25. **Shimmer Youtube**: von Everything Tangle: [Shimmer explained in 2 minutes!](https://www.youtube.com/watch?v=FDJd79VXW0g)
+26. **IOTA Audio**: [Mat Yager tweetet](https://twitter.com/Mat_Yarger/status/1653813320334422042?s=20) über ein [Interview mit Dell auf Spotify](https://open.spotify.com/episode/7fdqD4B0yfI45ZOkpGDp85)
+27. **Shimmer Youtube**: von Spec Weekly: [Shimmer's first EVM marketing campaign - THE TREASURES OF SHIMMER](https://www.youtube.com/watch?v=xHjsNRyqtAQ)
