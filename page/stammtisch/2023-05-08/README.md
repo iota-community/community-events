@@ -24,3 +24,4 @@
 22. **Shimmer Ökosystem**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1653685840294412290?s=20), dass [iotaOrigin](https://twitter.com/shimmernet/status/1653685840294412290?s=20) beim Battle for Activity mitmacht
 23. **Shimmer Ökosystem**: [TangleSwap tweetet](https://twitter.com/TangleSwap/status/1653715792360292352?s=20) über ihre neue [TangleSwap Docs](https://docs.tangleswap.exchange/)
 24. **Crypto News**: Das SUI Netzwerk ist gestartet: [Tweet](https://twitter.com/SuiNetwork/status/1653731940107956225?s=20)
+25. **Shimmer Youtube**: von Everything Tangle: [Shimmer explained in 2 minutes!](https://www.youtube.com/watch?v=FDJd79VXW0g)
