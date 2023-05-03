@@ -19,4 +19,6 @@
 17. **Shimmer Ökosystem**: [Ascender veröffentlicht](https://twitter.com/AscendersLabs/status/1653482962460057601?s=20) ihr [Ascenders Labs Whitepaper](https://ascenders-labs.gitbook.io/ascenders-labs/)
 18. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1653450300835889178?s=20) über ihren Blogpost: [SYNTHETIC MATERIALS](https://bivreostwallet.medium.com/synthetic-materials-b89905ca4c57); Sie machen auch gute Fortschritte mit ihrem Telegram Wallet: [Tweet](https://twitter.com/bivreost/status/1653057838346907654?s=20)
 19. **Shimmer Ökosystem**: [LendeXe tweetet](https://twitter.com/LendeXeFinance/status/1653425874719367172?s=20), dass sie beim Battle for Activity dabei sind; Es gibt auch ein [Tweet von Shimmer](https://twitter.com/shimmernet/status/1653670741156528130?s=20) dazu
-20. **Shimmer Ökosystem**: [Zealy tweetet](https://twitter.com/ZeroSwapNFT/status/1653467659135008768?s=20), dass sie beim Battle for Activity dabei sind
+20. **Shimmer Ökosystem**: [ZeroSwap tweetet](https://twitter.com/ZeroSwapNFT/status/1653467659135008768?s=20), dass sie beim Battle for Activity dabei sind
+21. **IOTA Artikel**: [TangleCon tweetet](https://twitter.com/TangleCon/status/1653418632485937155?s=20) ein [Interview mit Dom Schiener](https://www.tanglecon.com/blog/interview-with-dominik-schiener/)
+22. **Shimmer Ökosystem**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1653685840294412290?s=20), dass [iotaOrigin](https://twitter.com/shimmernet/status/1653685840294412290?s=20) beim Battle for Activity mitmacht
