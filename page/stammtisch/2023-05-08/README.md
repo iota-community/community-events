@@ -27,3 +27,5 @@
 25. **Shimmer Youtube**: von Everything Tangle: [Shimmer explained in 2 minutes!](https://www.youtube.com/watch?v=FDJd79VXW0g)
 26. **IOTA Audio**: [Mat Yager tweetet](https://twitter.com/Mat_Yarger/status/1653813320334422042?s=20) über ein [Interview mit Dell auf Spotify](https://open.spotify.com/episode/7fdqD4B0yfI45ZOkpGDp85)
 27. **Shimmer Youtube**: von Spec Weekly: [Shimmer's first EVM marketing campaign - THE TREASURES OF SHIMMER](https://www.youtube.com/watch?v=xHjsNRyqtAQ)
+28. **Shimmer Ökosystem**: Blogpost von Deepr.Finance: [Dive Deep with Deepr Finance: Uncover The Treasures of Shimmer!](https://medium.com/@Deepr.Finance/dive-deep-with-deepr-finance-uncover-the-treasures-of-shimmer-6c67e0ee867)
+29. **Shimmer Battle for Activity**: Mit [diesem Tweet von Shimmer](https://twitter.com/shimmernet/status/1653798917056655361?s=20) wurde der Battle for Activity gestartet. Sie haben auch diesen Blogpost veröffentlicht: [Treasures of Shimmer - TEST, PLAY & EARN](https://shimmer.network/treasures-of-shimmer)
