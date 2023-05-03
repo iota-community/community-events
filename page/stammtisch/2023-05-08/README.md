@@ -22,3 +22,5 @@
 20. **Shimmer Ökosystem**: [ZeroSwap tweetet](https://twitter.com/ZeroSwapNFT/status/1653467659135008768?s=20), dass sie beim Battle for Activity dabei sind
 21. **IOTA Artikel**: [TangleCon tweetet](https://twitter.com/TangleCon/status/1653418632485937155?s=20) ein [Interview mit Dom Schiener](https://www.tanglecon.com/blog/interview-with-dominik-schiener/)
 22. **Shimmer Ökosystem**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1653685840294412290?s=20), dass [iotaOrigin](https://twitter.com/shimmernet/status/1653685840294412290?s=20) beim Battle for Activity mitmacht
+23. **Shimmer Ökosystem**: [TangleSwap tweetet](https://twitter.com/TangleSwap/status/1653715792360292352?s=20) über ihre neue [TangleSwap Docs](https://docs.tangleswap.exchange/)
+24. **Crypto News**: Das SUI Netzwerk ist gestartet: [Tweet](https://twitter.com/SuiNetwork/status/1653731940107956225?s=20)
