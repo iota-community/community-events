@@ -20,8 +20,8 @@ Then use [Metamask Wallet](https://metamask.io/) to connect to the following web
 13. **IotaBots (NFT Game)**: [Tweet from Iotabots](https://twitter.com/iotabots/status/1646952431606013953?s=20) with link to the game: [games.iotabots.io/soonabots](http://games.iotabots.io/soonabots) (you need a Soonabot to play); [Tweet from Iotabots](https://twitter.com/huhn511/status/1648268194015051777?s=20) with the link to [games.iotabots.io/games](games.iotabots.io/games) (you need an Iotabot to play)
 14. **MintedVodka**: [minted.vodka/shimmer](https://minted.vodka/shimmer) ; The link is from [twitter.com/MintedVodka](https://twitter.com/MintedVodka)
 15. **Soonaverse (NFT DeFi)**: We only have a [Soon-Tweet](https://twitter.com/soon_labs/status/1650733951907164160?s=20)
-16. **IotaOrigin (NFT DeFi)**: We only have a [Soon-Tweet](https://twitter.com/origin_iota/status/1651188161190526976?s=20)
-17. **Iotabee (DeFi DEX)**: We only have a [Soon-Tweet](https://twitter.com/iotabee/status/1651533620836802562?s=20) and the website: [snippool.xyz](snippool.xyz)
+16. **IotaOrigin (NFT DeFi)**: We only have a [Soon-Tweet](https://twitter.com/origin_iota/status/1651188161190526976?s=20) and the website: [snippool.xyz](snippool.xyz)
+17. **???
 18. **Accumulator (DeFi Yield-Aggregator)**: We only have a [Soon-Tweet](https://twitter.com/ACCU_DeFi/status/1651538084507402244?s=20)
 19. **Genie's Bounty (Gambling)**: We only have a [Soon-Tweet](https://twitter.com/Genies_Bounty/status/1652241790278291462?s=20) and another [Soon Tweet](https://twitter.com/Genies_Bounty/status/1653350730344833024?s=20)
 20. **Snowman (DeFi)**: We only have a [Soon-Tweet](https://twitter.com/SnowMan_Finance/status/1641069692315115522?s=20) and the website: [snowman.one](https://www.snowman.one/#/home)
