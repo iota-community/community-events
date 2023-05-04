@@ -21,7 +21,7 @@ Then use [Metamask Wallet](https://metamask.io/) to connect to the following web
 14. **MintedVodka**: [minted.vodka/shimmer](https://minted.vodka/shimmer) ; The link is from [twitter.com/MintedVodka](https://twitter.com/MintedVodka)
 15. **Soonaverse (NFT DeFi)**: We only have a [Soon-Tweet](https://twitter.com/soon_labs/status/1650733951907164160?s=20)
 16. **IotaOrigin (NFT DeFi)**: We only have a [Soon-Tweet](https://twitter.com/origin_iota/status/1651188161190526976?s=20) and the website: [snippool.xyz](snippool.xyz)
-17. **???
+17. **Multichain Bridge**: In this [Tweet](https://twitter.com/MultichainOrg/status/1654055257331343360?s=20) they link to [test.multichain.org/#/router](https://test.multichain.org/#/router) and they link a Blogpost: [Start your Treasures of Shimmer journey with Multichain](https://medium.com/multichainorg/start-your-treasures-of-shimmer-journey-with-multichain-4c4013686459)
 18. **Accumulator (DeFi Yield-Aggregator)**: We only have a [Soon-Tweet](https://twitter.com/ACCU_DeFi/status/1651538084507402244?s=20)
 19. **Genie's Bounty (Gambling)**: [geniesbounty.com](https://www.geniesbounty.com/)
 20. **Snowman (DeFi)**: We only have a [Soon-Tweet](https://twitter.com/SnowMan_Finance/status/1641069692315115522?s=20) and the website: [snowman.one](https://www.snowman.one/#/home)
