@@ -30,3 +30,8 @@
 28. **Shimmer Ökosystem**: Blogpost von Deepr.Finance: [Dive Deep with Deepr Finance: Uncover The Treasures of Shimmer!](https://medium.com/@Deepr.Finance/dive-deep-with-deepr-finance-uncover-the-treasures-of-shimmer-6c67e0ee867)
 29. **Shimmer Battle for Activity**: Mit [diesem Tweet von Shimmer](https://twitter.com/shimmernet/status/1653798917056655361?s=20) wurde der Battle for Activity gestartet. Sie haben auch diesen Blogpost veröffentlicht: [Treasures of Shimmer - TEST, PLAY & EARN](https://shimmer.network/treasures-of-shimmer)
 30. **Shimmer Youtube**: von Potluck Protocol: [Shimmer Testnet Airdrop. Shimmer/IOTA prospects](https://www.youtube.com/watch?v=xO0AY8q7VrQ)
+31. **IOTA Audio**: neuer Moonaco Podcast mit Kappy: [Tweet](https://twitter.com/MoonacoPodcast/status/1654068601337393152?s=20); [Episode 74- Spotify Link](https://open.spotify.com/episode/5NT1wKwf9Ec7SgKLGfy1d4?si=iF33qT6RR3KY7cG8-P0ezg&nd=1)
+32. **Shimmer Ökosystem**: [Genies Bounty tweetet](https://twitter.com/Genies_Bounty/status/1654103056949059584?s=20) über ihren Blogpost: [Experience the revolution of Web3 gaming on ShimmerEVM](https://medium.com/@geniesbounty/experience-the-revolution-of-web3-gaming-on-shimmerevm-23043754c468)
+33. **IOTA Event**: Adam auf der Crypto Rockstars Cruise: [Tweet](https://twitter.com/Schpoopel/status/1654101697927561216?s=20)
+34. **Shimmer Ökosystem**: [IotaOrigin tweetet](https://twitter.com/origin_iota/status/1654084263703191555?s=20) über ihr NFT Royal Rumble der jetzt wirklich bald startet
+35. 
