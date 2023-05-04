@@ -29,3 +29,4 @@
 27. **Shimmer Youtube**: von Spec Weekly: [Shimmer's first EVM marketing campaign - THE TREASURES OF SHIMMER](https://www.youtube.com/watch?v=xHjsNRyqtAQ)
 28. **Shimmer Ökosystem**: Blogpost von Deepr.Finance: [Dive Deep with Deepr Finance: Uncover The Treasures of Shimmer!](https://medium.com/@Deepr.Finance/dive-deep-with-deepr-finance-uncover-the-treasures-of-shimmer-6c67e0ee867)
 29. **Shimmer Battle for Activity**: Mit [diesem Tweet von Shimmer](https://twitter.com/shimmernet/status/1653798917056655361?s=20) wurde der Battle for Activity gestartet. Sie haben auch diesen Blogpost veröffentlicht: [Treasures of Shimmer - TEST, PLAY & EARN](https://shimmer.network/treasures-of-shimmer)
+30. **Shimmer Youtube**: von Potluck Protocol: [Shimmer Testnet Airdrop. Shimmer/IOTA prospects](https://www.youtube.com/watch?v=xO0AY8q7VrQ)
