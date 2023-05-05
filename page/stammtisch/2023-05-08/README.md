@@ -40,6 +40,11 @@
 37. **Shimmer Hype**: Im [Tweet von vrom](https://twitter.com/Vrom14286662/status/1654366472859164674?s=20) sieht man, dass die Transaktionen bei der Shimmer EVM deutlich angestiegen sind: [explorer.evm.testnet.shimmer.network](https://explorer.evm.testnet.shimmer.network/)
 38. **Shimmer Artikel**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1654199216804188182?s=20) über den Guestpost auf CoinMarketcap: [Set Sail for the Treasures of Shimmer](https://coinmarketcap.com/community/articles/645259b10d1ac45ba873d427/)
 39. **IOTA NFT Ökosystem**: [DarkMythos tweetet](https://twitter.com/DarkMythosIOTA/status/1654145102955130880?s=20) von ersten physischen Karten. Sie haben auch einen neuen Mitarbeiter: [Tweet](https://twitter.com/DarkMythosIOTA/status/1654385052464164869?s=20)
-40. **Shimmer NFT Rumble**: [IotaOrigin tweetet](https://twitter.com/origin_iota/status/1654084263703191555?s=20) über den Start von dem NFT Rumble
+40. **Shimmer NFT Rumble**: [IotaOrigin tweetet](https://twitter.com/origin_iota/status/1654084263703191555?s=20) über den Start von dem [NFT Rumble auf snippool.xyz](https://snippool.xyz/)
 41. **Shimmer Adaption**: [Multichain tweetet](https://twitter.com/MultichainOrg/status/1654055257331343360?s=20) über ihre Bridge zu Shimmer und verlinken den Blogpost: [Start your Treasures of Shimmer journey with Multichain](https://medium.com/multichainorg/start-your-treasures-of-shimmer-journey-with-multichain-4c4013686459)
-42. 
+42. **Shimmer EVM Promote**: [Tweets von Shimmer](https://twitter.com/shimmernet/status/1654425717705265154?s=20) über die Treasury Hunt
+43. **Firefly Release**: [Firefly Desktop 2.1.1 Beta 2](https://github.com/iotaledger/firefly/releases/tag/desktop-2.1.1-beta-2)
+44. **IOTA Audio**: [Linus](https://twitter.com/LinusNaumann) war am Donnerstag bei der [TangleGang im Sprachchat](https://t.me/tangle_gang)
+45. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in München: [Tweet](https://twitter.com/Vrom14286662/status/1653279673877446657?s=20)
+46. **Crypto Drama**: Artikel: [Sensation: US-Gericht beschneidet SEC- und CFTC-Befugnisse – es könnte der Durchbruch für Ripple im SEC-Prozess sein](https://www.crypto-news-flash.com/de/sensation-us-gericht-beschneidet-sec-und-cftc-befugnisse-es-koennte-der-durchbruch-fuer-ripple-im-sec-prozess-sein/)
+47. **Crypto Crazy**: Pepe steigt in die Top 50 und Binance listet die und Floki: [Tweet](https://twitter.com/binance/status/1654448067255361537?s=20)
