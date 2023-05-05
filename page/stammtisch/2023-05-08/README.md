@@ -34,4 +34,12 @@
 32. **Shimmer Ökosystem**: [Genies Bounty tweetet](https://twitter.com/Genies_Bounty/status/1654103056949059584?s=20) über ihren Blogpost: [Experience the revolution of Web3 gaming on ShimmerEVM](https://medium.com/@geniesbounty/experience-the-revolution-of-web3-gaming-on-shimmerevm-23043754c468)
 33. **IOTA Event**: Adam auf der Crypto Rockstars Cruise: [Tweet](https://twitter.com/Schpoopel/status/1654101697927561216?s=20)
 34. **Shimmer Ökosystem**: [IotaOrigin tweetet](https://twitter.com/origin_iota/status/1654084263703191555?s=20) über ihr NFT Royal Rumble der jetzt wirklich bald startet
-35. 
+35. **IOTA Adaption Hype**: [Mat Yager retweetet](https://twitter.com/Mat_Yarger/status/1654165039715057670?s=20) den [Tweet von Goldstandard](https://twitter.com/goldstandard/status/1654099572149420034?s=20) über "voluntary carbon market is a powerful tool for businesses to address their emissions, meet regulatory requirements, and contribute to sustainable development"
+36. **IOTA Promote**: [Dom retweetet](https://twitter.com/DomSchiener/status/1654378553855672320?s=20) den [Tweet von CZ Binance](https://twitter.com/cz_binance/status/1654370806275735554?s=20) über "stay with the builders") sieht man, dass die Transaktionen bei der Shimmer EVM deutlich angestiegen sind: [[](
+](https://explorer.evm.testnet.shimmer.network/)
+37. **Shimmer Hype**: Im [Tweet von vrom](https://twitter.com/Vrom14286662/status/1654366472859164674?s=20) sieht man, dass die Transaktionen bei der Shimmer EVM deutlich angestiegen sind: [explorer.evm.testnet.shimmer.network](https://explorer.evm.testnet.shimmer.network/)
+38. **Shimmer Artikel**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1654199216804188182?s=20) über den Guestpost auf CoinMarketcap: [Set Sail for the Treasures of Shimmer](https://coinmarketcap.com/community/articles/645259b10d1ac45ba873d427/)
+39. **IOTA NFT Ökosystem**: [DarkMythos tweetet](https://twitter.com/DarkMythosIOTA/status/1654145102955130880?s=20) von ersten physischen Karten. Sie haben auch einen neuen Mitarbeiter: [Tweet](https://twitter.com/DarkMythosIOTA/status/1654385052464164869?s=20)
+40. **Shimmer NFT Rumble**: [IotaOrigin tweetet](https://twitter.com/origin_iota/status/1654084263703191555?s=20) über den Start von dem NFT Rumble
+41. **Shimmer Adaption**: [Multichain tweetet](https://twitter.com/MultichainOrg/status/1654055257331343360?s=20) über ihre Bridge zu Shimmer und verlinken den Blogpost: [Start your Treasures of Shimmer journey with Multichain](https://medium.com/multichainorg/start-your-treasures-of-shimmer-journey-with-multichain-4c4013686459)
+42. 
