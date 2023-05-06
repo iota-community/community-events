@@ -52,3 +52,4 @@
 49. **Shimmer Ökosystem**: ShimmerSea und Deepr Partnerschaft: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1654486101955067904?s=20)
 50. **IOTA Artikel**: von U-Today: [IOTA Co-founder Highlights Remarkable Milestone for Shimmer Network](https://u.today/iota-co-founder-highlights-remarkable-milestone-for-shimmer-network)
 51. **Shimmer Drama**: Hat ZeroSwap einen Bot verwendet? Der FUD ist groß... Vor allem weil [Shimmer folgendes tweetet](https://twitter.com/shimmernet/status/1654509624945516545?s=20): "..Special respect and thanks are due to the @ZeroSwapNFT crew for their exceptional contribution, pushing the limits and adjusting their pace to maintain the ongoing adventure for all. This indeed embodies the true pirate spirit! The battle is fierce, and pirates show no mercy."
+52. **Shimmer Audio**: [ShimmerSea tweetet](https://twitter.com/ShimmerSeaDEX/status/1654813856793804800?s=20) über ein AMA mit Dr.Tangle
