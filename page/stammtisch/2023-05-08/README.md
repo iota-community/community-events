@@ -57,4 +57,5 @@
 54. **Shimmer Youtube**: von Multi: [Native L1 Token Transaktionen auf Shimmer durchführen (Soon Token von Börse zu Wallet zu.. Wallet)](https://youtu.be/6wnU6iERnDU)
 55. **IOTA Dev**: [TangleBay tweetet](https://twitter.com/tanglebay/status/1654560728869752834?s=20), dass [swarm v2.9.1](https://github.com/tanglebay/swarm/releases/tag/v2.9.1) released wurde
 56. **Shimmer EVM Testnet**: Am Sonntag gab es scheinbar erste Probleme mit der RPC Schnittstelle: [ShimmerSea tweetet](https://twitter.com/ShimmerSeaDEX/status/1655125332393951233?s=20), dass der Snapshot daher evtl. verschoben wird
-57. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/286-wochenr%C3%BCckblick-vom-30-april-bis-6-mai-2023/)
+57. **IOTA Ökosystem**: [Iotaheroes tweetet](https://twitter.com/IotaHeroes/status/1655284448152223744?s=20) über ein Tutorial Video: [Iota Heroes - Quick Start](https://www.youtube.com/watch?v=KRFE_wUOnzM)
+58. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/286-wochenr%C3%BCckblick-vom-30-april-bis-6-mai-2023/)
