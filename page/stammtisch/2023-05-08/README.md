@@ -58,4 +58,6 @@
 55. **IOTA Dev**: [TangleBay tweetet](https://twitter.com/tanglebay/status/1654560728869752834?s=20), dass [swarm v2.9.1](https://github.com/tanglebay/swarm/releases/tag/v2.9.1) released wurde
 56. **Shimmer EVM Testnet**: Am Sonntag gab es scheinbar erste Probleme mit der RPC Schnittstelle: [ShimmerSea tweetet](https://twitter.com/ShimmerSeaDEX/status/1655125332393951233?s=20), dass der Snapshot daher evtl. verschoben wird
 57. **IOTA Ökosystem**: [Iotaheroes tweetet](https://twitter.com/IotaHeroes/status/1655284448152223744?s=20) über ein Tutorial Video: [Iota Heroes - Quick Start](https://www.youtube.com/watch?v=KRFE_wUOnzM)
-58. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/286-wochenr%C3%BCckblick-vom-30-april-bis-6-mai-2023/)
+58. **IOTA Youtube**: von Probably Nothing: [IOTAHEROES the Game - Treasures of the Shimmer - Battle for Activity](https://www.youtube.com/watch?v=L-onUs8ZEtE)
+59. **Crypto Adaption**: Der Memepool von Bitcoin war noch nie so voll wie heute. Hintergrund sind wohl die NFTs (Ordinals) die mittlerweiel möglich sind; Der [Blocktrainer sagt 1000 Eur Transaktionsgebühren voraus](https://twitter.com/RomanReher/status/1655315415747252225?s=20) 
+60. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/286-wochenr%C3%BCckblick-vom-30-april-bis-6-mai-2023/)
