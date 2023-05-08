@@ -63,3 +63,4 @@
 61. **Twitter Diskussion**: über die Vorteile von der Shimmer EVM: [Tweet von Dave](https://twitter.com/fijter/status/1655501099137134594?s=20)
 62. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/286-wochenr%C3%BCckblick-vom-30-april-bis-6-mai-2023/)
 63. **IOTA Event**: Diese Woche findet die [TangleCon](https://twitter.com/TangleCon) (free online Event): [Tweet von der IF](https://twitter.com/iota/status/1655497885138690048?s=20)
+64. **Crypto Ökosystem**: Im Telegram Dach Channel wurde [firechain.io](https://www.firechain.io/) geshillt, die anscheinend feeless sind. Auf der Webseite steht: "asynchronous, event-driven smart contract platform that's designed to be blazing fast, massively scalable, and free to use"
