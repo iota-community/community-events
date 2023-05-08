@@ -61,3 +61,4 @@
 58. **IOTA Youtube**: von Probably Nothing: [IOTAHEROES the Game - Treasures of the Shimmer - Battle for Activity](https://www.youtube.com/watch?v=L-onUs8ZEtE)
 59. **Crypto Adaption**: Der [Mempool von Bitcoin](https://mempool.jhoenicke.de/#BTC,6m,weight) ist ziemlich voll zur Zeit. Hintergrund sind wohl die NFTs (Ordinals) die mittlerweiel möglich sind; Der [Blocktrainer sagt 1000 Eur Transaktionsgebühren voraus](https://twitter.com/RomanReher/status/1655315415747252225?s=20) 
 60. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/286-wochenr%C3%BCckblick-vom-30-april-bis-6-mai-2023/)
+61. **IOTA Event**: Diese Woche ist 2 Tage lang TangleCon (free online Event): [Tweet von der IF](https://twitter.com/iota/status/1655497885138690048?s=20)
