@@ -1,20 +1,20 @@
 ## IOTA Stammtischthemen für Montag, den 8.5.2023
 
 1. **IOTA Quicktakes**: Die [IF tweetet](https://twitter.com/iota/status/1652961180942475264?s=20) über die [IOTA Quickteakes 01.05.2023: 2 Days until Treasures of Shimmer Airdrop Campaign, Crypto Taxes & more]()
-2. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://twitter.com/ShimmerSeaDEX/status/1653278460863717376?s=20) über ein "Huge Reveal". Es wird "V2 AMM and V3 CLMM" geben
-3. **Shimmer Audio**: Es gab ein [Twitter Spaces Event](https://twitter.com/blockbytescom/status/1653157353582125056?s=20) organisiert von [Blockbytes](https://twitter.com/blockbytescom) mit [Nakama Labs](https://twitter.com/Nakama_Labs) und [TangleSwap](https://twitter.com/TangleSwap)
+2. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://twitter.com/ShimmerSeaDEX/status/1653278460863717376?s=20) über ein "Huge Reveal". Es wird "V2 AMM und V3 CLMM" geben
+3. **Shimmer Audio**: Es gab ein interessantes [Twitter Spaces Event](https://twitter.com/blockbytescom/status/1653157353582125056?s=20) organisiert von [Blockbytes](https://twitter.com/blockbytescom) mit [Nakama Labs](https://twitter.com/Nakama_Labs) und [TangleSwap](https://twitter.com/TangleSwap)
 4. **Shimmer Promote**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1653293245714116610?s=20) um Developern den Einstieg zu erleichtern
-5. **Shimmer Ökosystem**: [Iotabee tweetet](https://twitter.com/iotabee/status/1653335196702240771?s=20), dass sie bald das Farmen fei schalten
+5. **Shimmer Ökosystem**: [Iotabee tweetet](https://twitter.com/iotabee/status/1653335196702240771?s=20), dass sie bald das "Farmen" fei schalten
 6. **IOTA Promote**: Die [IF tweetet](https://twitter.com/iota/status/1653338551080067072?s=20) darüber, dass sich Blockchain Projekte bei der [Chaise Alliance](https://chaise-blockchainskills.eu/join-the-chaise-alliance/)  anmelden sollen
-7. **Shimmer EVM Ökosystem**: [Genies Bounty tweetet](https://twitter.com/Genies_Bounty/status/1653350730344833024?s=20) darüber, dass sie zur EVM-Competition 3 Spiele in ihrem Genies Bounty Casino anbieten werden ("Dice game; Coin flip game; Plinko game)
+7. **Shimmer EVM Ökosystem**: [Genies Bounty tweetet](https://twitter.com/Genies_Bounty/status/1653350730344833024?s=20) darüber, dass sie zur EVM-Competition 3 Spiele in ihrem [Genies Bounty Casino](https://www.geniesbounty.com/) anbieten werden (Dice game; Coin flip game; Plinko game)
 8. **IOTA Youtube**: von Probably Nothing: [Shimmer startet ein riesen Gewinnspiel - jetzt mitmachen - IOTA & Shimmer News](https://youtu.be/o_ZlCdm6k5E)
-9. **IOTA Youtube Learn**: von Iota Foundation: [Office Hours 02.05.2023 - Shimmer EVM Special](https://www.youtube.com/watch?v=-gKMtbUxh8w)
+9. **IOTA Youtube Learn**: von der Iota Foundation: [Office Hours 02.05.2023 - Shimmer EVM Special](https://www.youtube.com/watch?v=-gKMtbUxh8w)
 10. **Crypto Drama**: Artikel: [Coinbase CEO, Board Members Accused of Insider Trading, Lawsuit Claims $1 Billion in Losses Avoided](https://blockchaindaily.news/2023/05/01/coinbase-ceo-board-members-accused-of-insider-trading-lawsuit-claims-1-billion-in-losses-avoided/)
-11. **IOTA Exchange**: Im iota Discord wurde über [swapzone.io/](https://swapzone.io/) und [app.rubic.exchange](https://app.rubic.exchange/) geschrieben, wo man scheinbar ETH direkt in IOTA swapen kann
-12. **IOTA Artikel**: von Spike Swipe: [IOTA: The Sleeping Giant Awakens - A Journey Through Time and a Vision of the Future](https://www.spikeswipe.com/post/iota-the-sleeping-giant-awakens-a-journey-through-time-and-a-vision-of-the-future)
-13. **IOTA 2.0 Science**: [Stefan Mueller tweetet](https://twitter.com/NaitsabesMue/status/1653663450474639360?s=20) über sein Paper dass er in Dubai vorgestellt hat: [TangleSim: An Agent-based, Modular Simulator for DAG-based Distributed Ledger Technologies](https://arxiv.org/abs/2305.01232); [Dom S. lobt](https://twitter.com/DomSchiener/status/1653675647892422657?s=20) ihn
+11. **IOTA Exchange**: Im [iota Discord](https://discord.iota.org/) wurde über [swapzone.io](https://swapzone.io/) und [app.rubic.exchange](https://app.rubic.exchange/) geschrieben, wo man scheinbar ETH direkt in IOTA swapen kann
+12. **IOTA Artikel**: von SpikeSwipe: [IOTA: The Sleeping Giant Awakens - A Journey Through Time and a Vision of the Future](https://www.spikeswipe.com/post/iota-the-sleeping-giant-awakens-a-journey-through-time-and-a-vision-of-the-future)
+13. **IOTA 2.0 Science**: [Stefan Mueller tweetet](https://twitter.com/NaitsabesMue/status/1653663450474639360?s=20) über sein Paper, dass er in Dubai vorgestellt hat: [TangleSim: An Agent-based, Modular Simulator for DAG-based Distributed Ledger Technologies](https://arxiv.org/abs/2305.01232); [Dom S. lobt](https://twitter.com/DomSchiener/status/1653675647892422657?s=20) ihn
 14. **IOTA 2.0 Science**: [Sebastian Mueller tweetet](https://twitter.com/NaitsabesMue/status/1653663906177351682?s=20) über sein Paper: [Mitigation of liveness attacks in DAG-based ledgers](https://arxiv.org/abs/2305.01207)
-15. **IOTA Audio**: Es gab ein Regulations Call im Discord: [Tweet](https://twitter.com/iota/status/1651934297845125121?s=20)
+15. **IOTA Audio**: Es gab ein Regulations Call im Discord: [Tweet](https://twitter.com/iota/status/1651934297845125121?s=20; -> Siehe Punkt 60
 16. **Shimmer Youtube**: neues Video von Blockbytes: [Tweet](https://twitter.com/blockbytescom/status/1653550948373917698?s=20); [](https://youtu.be/3NPUY5FZ4j4)
 17. **Shimmer Ökosystem**: [Ascender veröffentlicht](https://twitter.com/AscendersLabs/status/1653482962460057601?s=20) ihr [Ascenders Labs Whitepaper](https://ascenders-labs.gitbook.io/ascenders-labs/)
 18. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1653450300835889178?s=20) über ihren Blogpost: [SYNTHETIC MATERIALS](https://bivreostwallet.medium.com/synthetic-materials-b89905ca4c57); Sie machen auch gute Fortschritte mit ihrem Telegram Wallet: [Tweet](https://twitter.com/bivreost/status/1653057838346907654?s=20)
@@ -60,5 +60,6 @@
 57. **IOTA Ökosystem**: [Iotaheroes tweetet](https://twitter.com/IotaHeroes/status/1655284448152223744?s=20) über ein Tutorial Video: [Iota Heroes - Quick Start](https://www.youtube.com/watch?v=KRFE_wUOnzM)
 58. **IOTA Youtube**: von Probably Nothing: [IOTAHEROES the Game - Treasures of the Shimmer - Battle for Activity](https://www.youtube.com/watch?v=L-onUs8ZEtE)
 59. **Crypto Adaption**: Der [Mempool von Bitcoin](https://mempool.jhoenicke.de/#BTC,6m,weight) ist ziemlich voll zur Zeit. Hintergrund sind wohl die NFTs (Ordinals) die mittlerweiel möglich sind; Der [Blocktrainer sagt 1000 Eur Transaktionsgebühren voraus](https://twitter.com/RomanReher/status/1655315415747252225?s=20) 
-60. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/286-wochenr%C3%BCckblick-vom-30-april-bis-6-mai-2023/)
-61. **IOTA Event**: Diese Woche ist 2 Tage lang TangleCon (free online Event): [Tweet von der IF](https://twitter.com/iota/status/1655497885138690048?s=20)
+60. **IOTA Youtube**: von der IOTA Foundation: [IOTA Community Regulation Call 03/05/2023: Crypto Taxes](https://www.youtube.com/watch?v=l_ZyTmMmcy0)
+61. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/286-wochenr%C3%BCckblick-vom-30-april-bis-6-mai-2023/)
+62. **IOTA Event**: Diese Woche ist 2 Tage lang TangleCon (free online Event): [Tweet von der IF](https://twitter.com/iota/status/1655497885138690048?s=20)
