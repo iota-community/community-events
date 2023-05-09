@@ -10,3 +10,6 @@
 8. **Shimmer Treasury Hunt**: [TangleSwap tweetet](https://twitter.com/TangleSwap/status/1655868330962558976?s=20) darüber, dass sie mit der neuen Berechnung die Führung übernommen haben
 9. **IOTA Artikel**: von ETH News: [IOTA and Dell Team Up to Revolutionize Cybersecurity and Data Protection with Project Alvarium](https://www.ethnews.com/iota-and-dell-team-up-to-revolutionize-cybersecurity-and-data-protection-with-project-alvarium/)
 10. **IOTA Youtube**: von IOTA Foundation: [Office Hours 09.05.2023 - Shimmer EVM Special]()
+11. **Twitter Gezwitscher**: [David Sonstebo tweetet](https://twitter.com/DavidSonstebo/status/1655989238544859163?s=20), dass er "still the biggest holder" ist
+12. **Shimmer EVM**: vrom hat mehrere Speed Test Videos veröffentlicht: [Swaps auf ShimmerSea](https://twitter.com/Vrom14286662/status/1655990524317138961?s=20), [Swaps auf iotabee](https://twitter.com/Vrom14286662/status/1656014880762208316?s=20) und [Swaps auf TangleSwap](https://twitter.com/Vrom14286662/status/1656018353205411840?s=20)
+13. **Shimmer Youtube**: [Blockbytes tweetet](https://twitter.com/blockbytescom/status/1656018700489875457?s=20) über ihr Video: [How to use ChatGPT on the SHIMMER NETWORK?!](https://www.youtube.com/watch?v=MlG5pCbwITk)
