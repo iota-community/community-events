@@ -9,4 +9,4 @@
 7. **IOTA Event**: [Adam tweetet](https://twitter.com/Schpoopel/status/1655871948755271680?s=20) über ein Event mit Anzugträgern bei dem er teilnimmt
 8. **Shimmer Treasury Hunt**: [TangleSwap tweetet](https://twitter.com/TangleSwap/status/1655868330962558976?s=20) darüber, dass sie mit der neuen Berechnung die Führung übernommen haben
 9. **IOTA Artikel**: von ETH News: [IOTA and Dell Team Up to Revolutionize Cybersecurity and Data Protection with Project Alvarium](https://www.ethnews.com/iota-and-dell-team-up-to-revolutionize-cybersecurity-and-data-protection-with-project-alvarium/)
-10. 
+10. **IOTA Youtube**: von IOTA Foundation: [Office Hours 09.05.2023 - Shimmer EVM Special]()
