@@ -1,6 +1,6 @@
 ## Stammtischthemen für Montag, den 15.5.2023
 
-1. **IOTA Quicktakest**: Die [IF tweetet]() über die []()
+1. **IOTA Quicktakest**: Die [IF tweetet](https://twitter.com/iota/status/1655497871502761986?s=20) über die [IOTA Quicktakes 08.05.2023: Find the Treasures of Shimmer, Join TangleCon May 11-12th & more!](https://www.youtube.com/watch?v=zryjv7T8WoI)
 2. **IOTA Ökosystem**: [serverox solution tweetet](https://twitter.com/servrox/status/1655816042357178368?s=20) darüber, dass sie eine Partnerschaft mit [Spyce.5](https://twitter.com/SPYCE_5)
 3. **Crypto Drama**: Artikel von BTC Echo: [Es ist offiziell - Bittrex USA meldet Insolvenz an](https://www.btc-echo.de/schlagzeilen/bittrex-usa-meldet-insolvenz-an-163954/)
 4. **IOTA 2.0**: GitHub Zusammenfassung von [ID.iota](https://twitter.com/id_iota) [am Dienstag](https://twitter.com/id_iota/status/1655679947988701185?s=20)
@@ -13,3 +13,5 @@
 11. **Twitter Gezwitscher**: [David Sonstebo tweetet](https://twitter.com/DavidSonstebo/status/1655989238544859163?s=20), dass er "still the biggest holder" ist
 12. **Shimmer EVM**: vrom hat mehrere Speed Test Videos veröffentlicht: [Swaps auf ShimmerSea](https://twitter.com/Vrom14286662/status/1655990524317138961?s=20), [Swaps auf iotabee](https://twitter.com/Vrom14286662/status/1656014880762208316?s=20) und [Swaps auf TangleSwap](https://twitter.com/Vrom14286662/status/1656018353205411840?s=20)
 13. **Shimmer Youtube**: [Blockbytes tweetet](https://twitter.com/blockbytescom/status/1656018700489875457?s=20) über ihr Video: [How to use ChatGPT on the SHIMMER NETWORK?!](https://www.youtube.com/watch?v=MlG5pCbwITk)
+14. **Crypto Adaption**: Aritkel: [PayPal Discloses Nearly $1B of Crypto Assets on Balance Sheet](https://blockworks.co/news/paypal-discloses-1b-crypto)
+15. **IOTA Youtube**: von der IOTA Foundation: [27/04/23 IOTA/Shimmer Community Governance call](https://www.youtube.com/watch?v=Ax0NrO66UqY&t=1s)
