@@ -24,4 +24,5 @@
 22. **Shimmer Ökosystem**: [AuditOne tweetet](https://twitter.com/auditone_team/status/1656269013884850176?s=20), dass die [SoonLabs](https://twitter.com/soon_labs) [auditiert](https://docsend.com/view/hhzgzfis38sgfbi2) haben
 23. **Shimmer Treasury Hunt**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1656282953486327813?s=20) den [Halbzeit Zwischenstand]()
 24. **Shimmer Treasury**: Die [Tangle Community Treasury tweetet](https://twitter.com/TangleTreasury/status/1656347429489496065?s=20) darüber, dass sie $80K an [Impierce Technologies](https://twitter.com/ImpierceTech) ausbezahlt, wenn sie ihren ersten Milestone erreichen; Hier der [Tweet von Impierce Technologies](https://twitter.com/ImpierceTech/status/1656358226026197001?s=20) dazu und das Proposal: [TCT-12: IOTA & Shimmer Identity Wallet](https://hackmd.io/@turIC_28RG6k6PG4qdRL8A/H1ztsQuV2)
-25. 
+25. **Shimmer Treasury Hunt**: [iotabee tweetet](https://twitter.com/iotabee/status/1656551383011557378?s=20) über ihre Competition die am 11.5. startet
+26. **IOTA Event**: Am Donnerstag und Freitag war die TangleCon. Zuerst hat Dom gesprochen
