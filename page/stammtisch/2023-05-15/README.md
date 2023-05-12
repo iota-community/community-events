@@ -27,3 +27,9 @@
 25. **Shimmer Treasury Hunt**: [iotabee tweetet](https://twitter.com/iotabee/status/1656551383011557378?s=20) über ihre Competition die am 11.5. startet
 26. **IOTA Event**: Am Donnerstag und Freitag war die TangleCon. Zuerst hat Dom gesprochen, dass Adri und dann Billi
 27. **IOTA EVM Tech Update**: Im [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1656618853508476930?s=20) sieht man das technische Announcement von [Dave](https://twitter.com/fijter) zum Fortschritt von der Shimmer EVM
+28. **IOTA Youtube**: von IOTA Community Governance: [11/05/23 IOTA/Shimmer Community Governance meeting](https://www.youtube.com/watch?v=zbJp2w-_K_E&t=34s)
+29. **IOTA Artikel**: von Crypto News Flash: [IOTAs politischer Anwendungsfall: Tangle-Technologie könnte weltweit für demokratische Wahlen eingesetzt werden](https://www.crypto-news-flash.com/de/iotas-politischer-anwendungsfall-tangle-technologie-koennte-weltweit-fuer-demokratische-wahlen-eingesetzt-werden/)
+30. **Crypto Drama**: Artikel: [Ethereum konnte 25 Minuten lang keine Transaktionen abschließen](https://www.btc-echo.de/schlagzeilen/ethereum-konnte-25-minuten-lang-keine-transaktionen-abschliessen-164192/)
+31. **Shimmer EVM Adaption**: Am Donnerstag gab es einen Rekord an Transaktionen: [Tweet](https://twitter.com/Vrom14286662/status/1656869156149444609?s=20)
+32. **Crypto Drama**: Das "Chamber of Commerce" in den USA hat eine [Pro-Crypto Petition](https://www.uschamber.com/assets/documents/U.S.-Chamber-Amicus-Brief-In-re-Coinbase-Third-Circuit.pdf) geschreiben um der SEC zu verklagen, dass sie ihren Job nicht gemacht haben; Mehr Details in der [Tweet Zusammenfassung](https://twitter.com/MetaLawMan/status/1656737447756038177?s=20)
+33.  **IF Intern**: Die [IF sucht](https://twitter.com/iota/status/1655875266374254593) einen [Technical Business Analyst](https://iota-foundation.jobs.personio.com/job/1110414?display=en)
