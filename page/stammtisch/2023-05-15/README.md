@@ -44,4 +44,6 @@
 42.  **Shimmer EVM Testnetz**: Am Sonntag gab es 1,5 Millionen Transaktionen auf dem [explorer.evm.testnet.shimmer.network](https://explorer.evm.testnet.shimmer.network/) und [ShimmerSea tweetet](https://twitter.com/ShimmerSeaDEX/status/1657989185444401152?s=20), dass 13K reale User ihre DEX ausprobiert haben
 43.  **IOTA Youtube**: Das Gespräch mit [Linus](https://twitter.com/LinusNaumann) in der [TangleGang](https://twitter.com/GangTangleTalk) wurde auf Youtube hochgeladen: [Interview mit Linus zur DAO Teil 1](https://www.youtube.com/watch?v=mT0jkubRe0E)
 44.  **Shimmer Youtube**: von Spec Weeckly: [Shimmer EVM: An Overview of Smart Contracts on Shimmer and IOTA](https://www.youtube.com/watch?v=RRw6-oK0GC4&t=9s)
-45.  **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/288-wochenr%C3%BCckblick-vom-7-bis-13-mai-2023/)
+45.  **IOTA Tutorial**: [Kariota tweetet](https://twitter.com/dj_kaiota/status/1658034053759619072?s=20) über ihr [Flutter IOTA Tutorial](https://iota-for-flutter.github.io/tutorial/) 
+46.  **IOTA Adaption**: [Dom tweetet](https://twitter.com/DomSchiener/status/1658055448967233536?s=20) über ein Treffen mit H.E. Abdulla Al Saleh und einem Team at the Ministry of Economy von den Vereinigten Arabischen Emiraten
+47.  **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/288-wochenr%C3%BCckblick-vom-7-bis-13-mai-2023/)
