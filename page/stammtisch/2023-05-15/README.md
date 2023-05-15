@@ -43,4 +43,5 @@
 41.  **Crypto Drama**: [Binance](https://twitter.com/binance) verabschiedet sich aus regulatorischen Gründen aus Kanada: [Tweet](https://twitter.com/binance/status/1657099651210969088?s=20)
 42.  **Shimmer EVM Testnetz**: Am Sonntag gab es 1,5 Millionen Transaktionen auf dem [explorer.evm.testnet.shimmer.network](https://explorer.evm.testnet.shimmer.network/) und [ShimmerSea tweetet](https://twitter.com/ShimmerSeaDEX/status/1657989185444401152?s=20), dass 13K reale User ihre DEX ausprobiert haben
 43.  **IOTA Youtube**: Das Gespräch mit [Linus](https://twitter.com/LinusNaumann) in der TangleGang wurde auf Youtube hochgeladen: [Interview mit Linus zur DAO Teil 1](https://www.youtube.com/watch?v=mT0jkubRe0E)
-44.  **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/288-wochenr%C3%BCckblick-vom-7-bis-13-mai-2023/)
+44.  **Shimmer Youtube**: von Spec Weeckly: [Shimmer EVM: An Overview of Smart Contracts on Shimmer and IOTA](https://www.youtube.com/watch?v=RRw6-oK0GC4&t=9s)
+45.  **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/288-wochenr%C3%BCckblick-vom-7-bis-13-mai-2023/)
