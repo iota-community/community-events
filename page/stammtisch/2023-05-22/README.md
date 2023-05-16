@@ -1,0 +1,10 @@
+## Stammtischthemen für Montag, den 22.5.2023
+
+1. **IOTA Quicktakes**: Die [IF tweetet](https://twitter.com/iota/status/1658034573031227394?s=20) über die [IOTA Quicktakes 15.05.2023: Treasures of Shimmer Milestones, 2 Days Until Campaign Ends & More!](https://www.youtube.com/watch?v=_nDUZ-Jew88)
+2. **Shimmer Tutorial**: [Marco Besier tweetet](https://twitter.com/marcobesier/status/1658194122732101633?s=20) über sein Tutorial: [TangleCon Workshop 2023 - Workshop guide on how to build a simple NFT collection on IOTA's ShimmerEVM testnet](https://github.com/marcobesier/tanglecon-workshop-2023); [Dark Mythos tweetet](https://twitter.com/DarkMythosIOTA/status/1658439751945289728?s=20) auch davon
+3. **Crypto Drama**: Ledger hat für den Ledger X offenbar ein unsicheres Update released: [Tweet](https://twitter.com/Mudit__Gupta/status/1658368265687556097?s=20)
+4. **IOTA Soon**: Zu dem [Treffen von Dom](https://twitter.com/DomSchiener/status/1658055448967233536?s=20) in den Vereinigten Arabischen Emiraten hat er noch [follgendes Statement](https://twitter.com/moonbaklava/status/1658410963836588032?s=20) im Discord abgegeben: ".. we are moving fast. End of the year we will announce things"
+5. **IOTA 2.0**: Hans Moog war letzte Woche im Stammtisch und hat von dem aufgeräumten Code geschwärmt und den [GitHub Code von mempool.go](https://github.com/iotaledger/iota-core/blob/develop/pkg/protocol/engine/mempool/v1/mempool.go) gepostet
+6. **IOTA Event**: [iotashops tweetet](https://twitter.com/iotashop/status/1658384937878167553?s=20) über das web3.0 Event wo er eine After Show Party für die IOTA Community organisieren will
+7. **Crypto Steuern**: Die EU verschärft die Regeln. Börsen müsen Steruberichte der User weiter geben; [Steht laut Bitcoin2Go](https://twitter.com/bitcoin2go/status/1658452256910454785?s=20) im EU Blogpost: [Cooperation between national taxation authorities: Council puts the spotlight on crypto-assets and the wealthiest individuals](https://www.consilium.europa.eu/en/press/press-releases/2023/05/16/cooperation-between-national-taxation-authorities-council-puts-the-spotlight-on-crypto-assets-and-the-wealthiest-individuals/)
+8. 
