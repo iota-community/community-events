@@ -7,4 +7,4 @@
 5. **IOTA 2.0**: Hans Moog war letzte Woche im Stammtisch und hat von dem aufgeräumten Code geschwärmt und den [GitHub Code von mempool.go](https://github.com/iotaledger/iota-core/blob/develop/pkg/protocol/engine/mempool/v1/mempool.go) gepostet
 6. **IOTA Event**: [iotashops tweetet](https://twitter.com/iotashop/status/1658384937878167553?s=20) über das web3.0 Event wo er eine After Show Party für die IOTA Community organisieren will
 7. **Crypto Steuern**: Die EU verschärft die Regeln. Börsen müsen Steruberichte der User weiter geben; [Steht laut Bitcoin2Go](https://twitter.com/bitcoin2go/status/1658452256910454785?s=20) im EU Blogpost: [Cooperation between national taxation authorities: Council puts the spotlight on crypto-assets and the wealthiest individuals](https://www.consilium.europa.eu/en/press/press-releases/2023/05/16/cooperation-between-national-taxation-authorities-council-puts-the-spotlight-on-crypto-assets-and-the-wealthiest-individuals/)
-8. 
+8. **IOTA 2.0**: ID.iota hat wieder seine GitHub Zusammenfassung gemacht: [21 Tweets am Dienstag](https://twitter.com/id_iota/status/1658578002123321345?s=20)
