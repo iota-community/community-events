@@ -10,3 +10,6 @@
 8. **IOTA 2.0**: ID.iota hat wieder seine GitHub Zusammenfassung gemacht: [21 Tweets am Dienstag](https://twitter.com/id_iota/status/1658578002123321345?s=20)
 9. **IOTA Event**: Mariana de la Roche war bei einem Event und hat über Usecases gesprochen: [Tweet](https://twitter.com/Marianadlrw/status/1658762698727866369?s=20)
 10. **IOTA Promote**: [Kowei tweetet](https://twitter.com/kowei1995/status/1658750790000078849?s=20), dass wohl bald ein Proposal für die Treassury eingereicht wird von einer erfolgreichen Krypto Marketing Agentur [GrenadeTw](https://twitter.com/GrenadeTw)
+11. **Crypto Adaption**: Mica wurde durchgewunken: [EU-Rat stimmt MiCA-Regulierung einstimmig zu](https://www.btc-echo.de/news/eu-rat-stimmt-mica-regulierung-einstimmig-zu-164357/)
+12. **Assembly Staking**: Startet am Freitag 19.5.23!!! [Tweet](https://twitter.com/assembly_net/status/1658764475246297089?s=20)
+13. **Shimmer EVM**: Am Dienstag gab es durchschnittlich 20.9TPS und insgesamt 1,8mio Transaktionen: [Tweet](https://twitter.com/PhyloIota/status/1658629160808624128?s=20); Am Mittwoch hatten wir über 200 Wallets: [explorer.evm.testnet.shimmer.network](https://explorer.evm.testnet.shimmer.network/)
