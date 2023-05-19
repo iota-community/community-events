@@ -28,4 +28,4 @@
 26. **IOTA Youtube**: von ItsGigo TV: [IOTA 2.0 mit Updates ! SHIMMER mega Zahlen ! SHIBA INU bringt TRADINGBOT ! Krypto News](https://www.youtube.com/watch?v=VRII7PVIIaM)
 27. **IOTA Youtube**: von SpecWeekly: [Shimmer EVM: An Overview of Smart Contracts on Shimmer and IOTA.](https://www.youtube.com/watch?v=RRw6-oK0GC4&t=42s)
 28. **IOTA Promote**: [Kowei](https://twitter.com/kowei1995) aus Singapore hat wieder gut für IOTA Werbung gemacht: [Tweet 1](https://twitter.com/kowei1995/status/1658750790000078849?s=20); [Tweet 2](https://twitter.com/kowei1995/status/1659487775480250369?s=20)
-29. 
+29. **IOTA NFT Ökosystem**: Der [ApeDAO tweetet](https://twitter.com/iotapes/status/1659478355782033408?s=20) über das [NewspAPEr — edition 8](https://iotapes.medium.com/newspaper-edition-8-9ac05e032b20)
