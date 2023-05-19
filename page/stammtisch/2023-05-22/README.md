@@ -26,3 +26,4 @@
 24. **Fiat/Crypto Adaption**: Artikel: [Elon Musk Aims to Revolutionize Finance with DeFi and Crypto](https://coinmarketcap.com/community/articles/6465b0d4ed2bcd70e5a36f5a/)
 25. **IOTA Youtube**: von der IOTA Foundation: [Office Hours 16.05.2023 - Shimmer EVM Special](https://www.youtube.com/watch?v=r2BVRjqmKpE)
 26. **IOTA Youtube**: von ItsGigo TV: [IOTA 2.0 mit Updates ! SHIMMER mega Zahlen ! SHIBA INU bringt TRADINGBOT ! Krypto News](https://www.youtube.com/watch?v=VRII7PVIIaM)
+27. **IOTA Youtube**: von SpecWeekly: [Shimmer EVM: An Overview of Smart Contracts on Shimmer and IOTA.](https://www.youtube.com/watch?v=RRw6-oK0GC4&t=42s)
