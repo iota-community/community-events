@@ -30,3 +30,6 @@
 28. **IOTA Promote**: [Kowei](https://twitter.com/kowei1995) aus Singapore hat wieder gut für IOTA Werbung gemacht: [Tweet 1](https://twitter.com/kowei1995/status/1658750790000078849?s=20); [Tweet 2](https://twitter.com/kowei1995/status/1659487775480250369?s=20)
 29. **IOTA NFT Ökosystem**: Der [ApeDAO tweetet](https://twitter.com/iotapes/status/1659478355782033408?s=20) über das [NewspAPEr — edition 8](https://iotapes.medium.com/newspaper-edition-8-9ac05e032b20)
 30. **IOTA Youtube**: von Mind Crypto: [WOW ❗#IOTA leading the government's on legislation and regulation.](https://www.youtube.com/watch?v=uhBXiM1ADNI)
+31. **Tangle Treasury**: Die [Tangle Community Treasury tweetet](https://twitter.com/TangleTreasury/status/1659552647878447106?s=20) über die neuen [Request for Proposal](https://www.tangletreasury.org/rfp) Möglichkeiten um dFunds zu bekommen
+32. **Shimmer Firefly**: [Firefly tweetet](https://twitter.com/fireflywallet/status/1659579043937697792?s=20) über das Update 7.1.2 in dem man jetzt u.a. viel einfacher in den Developer Mode wechseln kann, um eigene Token zu erstellen
+33. 
