@@ -24,4 +24,5 @@
 22. **IOTA Artikel**: von finanzen.net: [Kryptowährung IOTA - Was man über den Bitcoin-Konkurrenten wissen muss](https://www.finanzen.net/nachricht/devisen/iota-token-kryptowaehrung-iota-was-man-ueber-den-bitcoin-konkurrenten-wissen-muss-5597663)
 23. **IOTA Stammtisch**: Am 2.6. ist [IOTA Stammtisch in München](https://www.meetup.com/de-DE/iota-muc/events/rjcftsyfcjbdb/)
 24. **Fiat/Crypto Adaption**: Artikel: [Elon Musk Aims to Revolutionize Finance with DeFi and Crypto](https://coinmarketcap.com/community/articles/6465b0d4ed2bcd70e5a36f5a/)
-25. 
+25. **IOTA Youtube**: von der IOTA Foundation: [Office Hours 16.05.2023 - Shimmer EVM Special](https://www.youtube.com/watch?v=r2BVRjqmKpE)
+26. **IOTA Youtube**: von ItsGigo TV: [IOTA 2.0 mit Updates ! SHIMMER mega Zahlen ! SHIBA INU bringt TRADINGBOT ! Krypto News](https://www.youtube.com/watch?v=VRII7PVIIaM)
