@@ -27,3 +27,5 @@
 25. **IOTA Youtube**: von der IOTA Foundation: [Office Hours 16.05.2023 - Shimmer EVM Special](https://www.youtube.com/watch?v=r2BVRjqmKpE)
 26. **IOTA Youtube**: von ItsGigo TV: [IOTA 2.0 mit Updates ! SHIMMER mega Zahlen ! SHIBA INU bringt TRADINGBOT ! Krypto News](https://www.youtube.com/watch?v=VRII7PVIIaM)
 27. **IOTA Youtube**: von SpecWeekly: [Shimmer EVM: An Overview of Smart Contracts on Shimmer and IOTA.](https://www.youtube.com/watch?v=RRw6-oK0GC4&t=42s)
+28. **IOTA Promote**: [Kowei](https://twitter.com/kowei1995) aus Singapore hat wieder gut für IOTA Werbung gemacht: [Tweet 1](https://twitter.com/kowei1995/status/1658750790000078849?s=20); [Tweet 2](https://twitter.com/kowei1995/status/1659487775480250369?s=20)
+29. 
