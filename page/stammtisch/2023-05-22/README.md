@@ -32,4 +32,5 @@
 30. **IOTA Youtube**: von Mind Crypto: [WOW ❗#IOTA leading the government's on legislation and regulation.](https://www.youtube.com/watch?v=uhBXiM1ADNI)
 31. **Tangle Treasury**: Die [Tangle Community Treasury tweetet](https://twitter.com/TangleTreasury/status/1659552647878447106?s=20) über die neuen [Request for Proposal](https://www.tangletreasury.org/rfp) Möglichkeiten um dFunds zu bekommen
 32. **Shimmer Firefly**: [Firefly tweetet](https://twitter.com/fireflywallet/status/1659579043937697792?s=20) über das Update 7.1.2 in dem man jetzt u.a. viel einfacher in den Developer Mode wechseln kann, um eigene Token zu erstellen
-33. 
+33. **Crypto News**: Es war Bitcoin Conference in Miami: Am ersten Tag war ein interessantes Streitgespäch mit Udi Wertheimer und Eric Wall: [Bitcoin 2023 Conference - GA Day 1 Part 4](https://www.youtube.com/live/7qRWurFaUD0?feature=share&t=6498); Hier nur zwei kurze witziger Ausschnitte: [Tweet](https://twitter.com/LeonidasNFT/status/1659777399288938497); [Tweet 2](https://twitter.com/GhostofMaplHodl/status/1659853576670175232?s=20)
+34. **Crypto Adaption**: Artikel: [Strike expands Bitcoin payments to 65 countries, moves global headquarters to El Salvador](https://fortune.com/crypto/2023/05/19/strike-expands-bitcoin-payments-to-65-countries-moves-global-headquarters-to-el-salvador/)
