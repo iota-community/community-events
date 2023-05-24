@@ -17,3 +17,5 @@
 15. **Shimmer Treasury Hunt**: [Deepr Finance](https://twitter.com/DeeprFinance/status/1661105008853524497?s=20) tweetet über die [Gewinner-Liste](https://docs.google.com/spreadsheets/d/1pW4ivbprUD02AGGw_0D5SPHTFmS4GoBnghgRXEiixO8/edit?usp=sharing)
 16. **IOTA Dev Update**: Research Update: [Protocol group, Weeks 19-20 #77](https://github.com/iotaledger/research-updates/discussions/77)
 17. **IOTA Youtube**: von Mind Crypto: [IOTA to deliver EU's digital passport](https://youtu.be/GXOynPzNJaY)
+18. **IOTA Drama**: Dom hat Raist (7 Jahre treuer IOTAner) vom Discord Server gebannt, weil er ihm einen Daumen runter auf seinen Kommentar gegeben hat. Wir sollten mal darüber nachdenken wie wir dieses random gebanne eindämmen könnten (vielleicht mit einen Ban-Commitee?). Denn das einzige was dabei wächst ist die Spec2 Community...
+19. 
