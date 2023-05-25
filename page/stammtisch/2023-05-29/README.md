@@ -28,3 +28,8 @@
 26. **IOTA Adaption**: [swarmlogistics tweetet](https://twitter.com/SwarmLogistics/status/1661460410132733952?s=20) über ein langen Workshop zusammen mit der ETO Gruppe und schreiben: "be prepared for something awesome!"
 27. **IOTA Youtube**: von Spec Weekly: [What makes the Shimmer EVM Special) -  IOTA Smart Contracts](https://youtu.be/t_ui-mSQlyc)
 28. **Shimmer Ökosystem**: Multi tweetet über den Blogpost: [PubChat - a smooth entry point for aspiring Shimmer devs](https://multifolio.medium.com/pubchat-a-smooth-entry-point-for-aspiring-shimmer-devs-23648aa33b31)
+29. **Crypto Adaption**: Bitcoin war Thema im Chinesischen Zentralfernsehen weil man ab Juni in Hongkong wieder Cryptos handeln kann und Cz-Binance sieht das bullish: [Tweet](https://twitter.com/cz_binance/status/1661391542504902664?s=20)
+30. **Crypto Adaption**: Der neue Präsidentschaftskandidat der Republikaner ist Pro-Bitcoin ([Tweet](https://twitter.com/coinbureau/status/1661596129916510208?s=20)) und Anti-CBDC ([Tweet 1](https://twitter.com/WatcherGuru/status/1661515995876392960?s=20))
+31. **IOTA Artikel**: Dei [IF tweetet](https://twitter.com/iota/status/1661643270131269632?s=20) über den Artikel: [How can blockchain help in government? What is the tokenisation of assets?](https://apolitical.co/solution-articles/en/how-can-blockchain-help-in-government)
+32. **Crypto Drama**: Artikel: [Security Firm Unciphered Claims To Be Able to Hack Trezor T Wallet](https://unchainedcrypto.com/security-firm-unciphered-claims-be-able-to-hack-trezor-t-wallet/)
+33. **Crypto Adaption**: Bitpanda Announcement: [Bitpanda partners with Coinbase to build the future of digital investing](https://blog.bitpanda.com/en/bitpanda-partners-coinbase-build-future-digital-investing)
