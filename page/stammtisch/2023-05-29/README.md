@@ -45,3 +45,5 @@
 43. **IOTA Artikel**: von ETH News: [IOTA’s Dominik Schiener Joins Forces with UAE Minister to Spearhead Billion-Dollar Project Revolutionizing IoT and DeFi in the United Arab Emirates](https://www.ethnews.com/iotas-dominik-schiener-joins-forces-with-uae-minister-to-spearhead-billion-dollar-project-revolutionizing-iot-and-defi-in-the-united-arab-emirates/)
 44. **Allgemeine News**: Neuralink darf tests an Menschen machen: [Tweet](https://twitter.com/neuralink/status/1661857379460468736?s=20)
 45. **Allgemeine News**: Artikel: [Deutsche Wirtschaft in Rezession abgerutscht](https://www.tagesschau.de/wirtschaft/konjunktur/destatis-rezession-deutschland-100.html)
+46. **IOTA Youtube**: von Probably Nothing: [Shimmer explodiert mit neuen Projekten - Liquid Staking kommt - IOTA News](https://www.youtube.com/watch?v=6iqjZenW7TQ)
+47. **IOTA Youtube**: von Mind Crypto [IoTA news | Next Round of #ASMB staking. Get in early!](https://www.youtube.com/watch?v=oE0BunXhNKo)
