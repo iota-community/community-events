@@ -46,4 +46,6 @@
 44. **Allgemeine News**: Neuralink darf tests an Menschen machen: [Tweet](https://twitter.com/neuralink/status/1661857379460468736?s=20)
 45. **Allgemeine News**: Artikel: [Deutsche Wirtschaft in Rezession abgerutscht](https://www.tagesschau.de/wirtschaft/konjunktur/destatis-rezession-deutschland-100.html)
 46. **IOTA Youtube**: von Probably Nothing: [Shimmer explodiert mit neuen Projekten - Liquid Staking kommt - IOTA News](https://www.youtube.com/watch?v=6iqjZenW7TQ)
-47. **IOTA Youtube**: von Mind Crypto [IoTA news | Next Round of #ASMB staking. Get in early!](https://www.youtube.com/watch?v=oE0BunXhNKo)
+47. **IOTA Youtube**: von Mind Crypto [IOTA news | Next Round of #ASMB staking. Get in early!](https://www.youtube.com/watch?v=oE0BunXhNKo)
+48. **IOTA Youtube**: von Mind Crypto: [IOTA will take over the Manufacturing Industry!](https://www.youtube.com/watch?v=OYvcZ44r5ZM)
+49. **IOTA Youtube**: von IOTA Poet: [Was the ShimmerEVM campaign a success? #IOTA](https://www.youtube.com/watch?v=LDNcLMnIgug)
