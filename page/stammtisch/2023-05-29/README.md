@@ -24,7 +24,7 @@
 22. **Crypto Drama**: Es gab/gibt Probleme bei Multichain: [Multichain Cites ‘Force Majeure’ as Some Cross-Chain Bridges Are Suspended](https://unchainedcrypto.com/multichain-cites-force-majeure-as-some-cross-chain-bridges-are-suspended/); [IOTAMPC tweetet](https://twitter.com/iotampc/status/1661569943610232837?s=20) dass sie da eine bessere Multichain-Lösung haben
 23. **IOTA Event**: [Mariana de la Roche tweetet](https://twitter.com/Marianadlrw/status/1661396316671311873?s=20) über eine Panel Diskussion auf der web3eurosummit Konferenz
 24. **IOTA Artikel**: von BTC Echo: [IOTA: Altcoin-Kurs profitiert von positiven Nachrichten](https://www.btc-echo.de/news/iota-altcoin-kurs-profitiert-von-positiven-nachrichten-164998/)
-25. **IOTA Youtube**: Am Donnerstag war ein [AMA mit Dom und Dave](https://youtu.be/AcUHILikQrM)
+25. **IOTA Youtube**: von Blockbytes: [Shimmer Network AMA! With Dominik Schiener and Dave de Fijter of Iota Foundation](Shimmer Network AMA! With Dominik Schiener and Dave de Fijter of Iota Foundation)
 26. **IOTA Adaption**: [swarmlogistics tweetet](https://twitter.com/SwarmLogistics/status/1661460410132733952?s=20) über ein langen Workshop zusammen mit der ETO Gruppe und schreiben: "be prepared for something awesome!"
 27. **IOTA Youtube**: von Spec Weekly: [What makes the Shimmer EVM Special) -  IOTA Smart Contracts](https://youtu.be/t_ui-mSQlyc)
 28. **Shimmer Ökosystem**: Multi tweetet über den Blogpost: [PubChat - a smooth entry point for aspiring Shimmer devs](https://multifolio.medium.com/pubchat-a-smooth-entry-point-for-aspiring-shimmer-devs-23648aa33b31)
