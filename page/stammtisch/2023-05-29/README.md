@@ -54,4 +54,4 @@
 52. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/292-wochenr%C3%BCckblick-vom-21-bis-27-mai-2023/)
 53. **IOTA NFT Ökosystem**: [Dark Mythos tweetet](https://twitter.com/DarkMythosIOTA/status/1663055012329668608?s=20), dass ihre neueste Kollektion ausverkauft wurde
 54. **IOTA Hype**: [Dom Schiener beschwert sich](https://twitter.com/DomSchiener/status/1662840956771524611?s=20) über den unnötigen Hype Titel von dem Artikel von Crypto News Flash: [IOTA’s Dominik Schiener and the UAE Minister of State for Foreign Trade to Discuss Billion-Dollar Project to Drive IoT and DeFi in the United Arab Emirates](https://www.crypto-news-flash.com/iotas-dominik-schiener-and-the-uae-minister-of-state-for-foreign-trade-to-discuss-billion-dollar-project-to-drive-iot-and-defi-in-the-united-arab-emirates/)
-55. **
+55. **IOTA Artikel**: von Crypto-News Media: [IOTA Price Prediction: Why the Current Price is Just the Beginning](https://crypto-newsmedia.com/iota-price-prediction-why-the-current-price-is-just-the-beginning/)
