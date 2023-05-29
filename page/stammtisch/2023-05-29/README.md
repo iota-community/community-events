@@ -49,5 +49,9 @@
 47. **IOTA Youtube**: von Mind Crypto [IOTA news | Next Round of #ASMB staking. Get in early!](https://www.youtube.com/watch?v=oE0BunXhNKo)
 48. **IOTA Youtube**: von Mind Crypto: [IOTA will take over the Manufacturing Industry!](https://www.youtube.com/watch?v=OYvcZ44r5ZM)
 49. **IOTA Youtube**: von IOTA Poet: [Was the ShimmerEVM campaign a success? #IOTA](https://www.youtube.com/watch?v=LDNcLMnIgug)
-50. **Offtopic**: Fußball Meisterschaft/Aufstieg/Abstieg und Eishockey (Deutschland gewinnt im Halbfinale gegen USA aber verliert das Finale gegen Canada)
-51. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/292-wochenr%C3%BCckblick-vom-21-bis-27-mai-2023/)
+50. **Offtopic News**: Fußball Meisterschaft/Aufstieg/Abstieg und Eishockey (Deutschland gewinnt im Halbfinale gegen USA aber verliert das Finale gegen Canada)
+51. **Offtopic News**: Erdogan hat die Wahl in der Türkei gewonnen
+52. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/292-wochenr%C3%BCckblick-vom-21-bis-27-mai-2023/)
+53. **IOTA NFT Ökosystem**: [Dark Mythos tweetet](https://twitter.com/DarkMythosIOTA/status/1663055012329668608?s=20), dass ihre neueste Kollektion ausverkauft wurde
+54. **IOTA Hype**: [Dom Schiener beschwert sich](https://twitter.com/DomSchiener/status/1662840956771524611?s=20) über den unnötigen Hype Titel von dem Artikel von Crypto News Flash: [IOTA’s Dominik Schiener and the UAE Minister of State for Foreign Trade to Discuss Billion-Dollar Project to Drive IoT and DeFi in the United Arab Emirates](https://www.crypto-news-flash.com/iotas-dominik-schiener-and-the-uae-minister-of-state-for-foreign-trade-to-discuss-billion-dollar-project-to-drive-iot-and-defi-in-the-united-arab-emirates/)
+55. **
