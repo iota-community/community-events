@@ -12,3 +12,7 @@
 10. **IF Research Update**: [Protocol group - Week 22, 2023 #79](https://github.com/iotaledger/research-updates/discussions/79)
 11. **IOTA Youtube**: von IOTA Foundation: [IOTA Community Regulation Call 03/05/2023: Crypto Taxes](https://www.youtube.com/watch?v=l_ZyTmMmcy0)
 12. **IOTA Youtube**: von Spec Weckly: [IOTA IN THE UAE. Let's speculate about what is going on](https://www.youtube.com/watch?v=PaE_a6YvbWg)
+13. **Crypto Adaption**: [Polygon tweetet](https://twitter.com/0xPolygonLabs/status/1663894399523201024?s=20) über ihre Partnerschaft mit Telekom; Artikel von BTC Echo: [Deutsche Telekom erhält Schlüsselrolle bei Polygon](https://www.btc-echo.de/news/deutsche-telekom-erhaelt-schluesselrolle-bei-polygon-165141/)
+14. **IOTA Audio AMA**: Twitter Spaces mit [Adam](https://twitter.com/Schpoopel) von der IOTA Foundation: [Tweet von Xerberus](https://twitter.com/Xerberus_io/status/1663244138970591233?s=20)
+15. **IOTA Pump**: IOTA hatte sich am Dienstag mal etwas abgesetzt (+20%) und konnte einige Plätze auf CMC gut machen. Der Pump war aber am Mittwoch gleich wieder vorbei...
+16. 
