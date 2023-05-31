@@ -10,4 +10,5 @@
 8. **Tangle Tresury**: Die [Tangle Treasury tweetet](https://twitter.com/TangleTreasury/status/1663616737261281281?s=20) darüber, dass sie Tangle Bay mit 5000 EUR unterstützen. Hier die die [Details auf tangletreasury.org](https://www.tangletreasury.org/proposal-detailed?recordId=recSzDFHabAtu8XmI)
 9. **Shimmer Audio**: [AMA auf Twitter](https://twitter.com/cryptochefs_io/status/1663577669630345221?s=20) u.a. mit [shimmernet](https://twitter.com/shimmernet)
 10. **IF Research Update**: [Protocol group - Week 22, 2023 #79](https://github.com/iotaledger/research-updates/discussions/79)
-11. 
+11. **IOTA Youtube**: von IOTA Foundation: [IOTA Community Regulation Call 03/05/2023: Crypto Taxes](https://www.youtube.com/watch?v=l_ZyTmMmcy0)
+12. **IOTA Youtube**: von Spec Weckly: [IOTA IN THE UAE. Let's speculate about what is going on](https://www.youtube.com/watch?v=PaE_a6YvbWg)
