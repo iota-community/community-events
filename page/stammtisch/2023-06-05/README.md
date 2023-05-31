@@ -15,4 +15,5 @@
 13. **Crypto Adaption**: [Polygon tweetet](https://twitter.com/0xPolygonLabs/status/1663894399523201024?s=20) über ihre Partnerschaft mit Telekom; Artikel von BTC Echo: [Deutsche Telekom erhält Schlüsselrolle bei Polygon](https://www.btc-echo.de/news/deutsche-telekom-erhaelt-schluesselrolle-bei-polygon-165141/)
 14. **IOTA Audio AMA**: Twitter Spaces mit [Adam](https://twitter.com/Schpoopel) von der IOTA Foundation: [Tweet von Xerberus](https://twitter.com/Xerberus_io/status/1663244138970591233?s=20)
 15. **IOTA Pump**: IOTA hatte sich am Dienstag mal etwas abgesetzt (+20%) und konnte einige Plätze auf CMC gut machen. Der Pump war aber am Mittwoch gleich wieder vorbei...
-16. 
+16. **Crypto Adaption**: [Ubirch tweetet](https://twitter.com/Ubirch_Trust/status/1663901231243227136?s=20) darüber, dass sie ihre [KYCT](https://twitter.com/KYCT_xyz) Lösung (Blockchain-based identity solution for Web3) auf Polygon bauen...
+17. 
