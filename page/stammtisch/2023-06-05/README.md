@@ -16,4 +16,8 @@
 14. **IOTA Audio AMA**: Twitter Spaces mit [Adam](https://twitter.com/Schpoopel) von der IOTA Foundation: [Tweet von Xerberus](https://twitter.com/Xerberus_io/status/1663244138970591233?s=20)
 15. **IOTA Pump**: IOTA hatte sich am Dienstag mal etwas abgesetzt (+20%) und konnte einige Plätze auf CMC gut machen. Der Pump war aber am Mittwoch gleich wieder vorbei...
 16. **Crypto Adaption**: [Ubirch tweetet](https://twitter.com/Ubirch_Trust/status/1663901231243227136?s=20) darüber, dass sie ihre [KYCT](https://twitter.com/KYCT_xyz) Lösung (Blockchain-based identity solution for Web3) auf Polygon bauen...
-17. 
+17. **Crypto Drama**: [Multichain tweetet](https://twitter.com/MultichainOrg/status/1663941611380965376?s=20) über ihre Probleme; [Adam retweetet das](https://twitter.com/Schpoopel/status/1663966319031533568?s=20) und schreibt, wir können sehr glücklich sein, dass die Probleme bei Multichain noch vor der Shimmer EVM aufgetreten sind
+18. **IOTA 2.0**: [Phylo](https://twitter.com/PhyloIota) hat im Discord darüber gesprochen, dass gerade sehr viel Material vorbereitet wird, um iota2.0 zu erklären: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1663946020932444162?s=20)
+19. **IOTA Ökosystem**: Die [MoonMorons tweeten](https://twitter.com/MoonMorons/status/1663201057160286209?s=20) über ihren Plan IOTA und Shimmer Node Operatoren mit Airdrops zu unterstützen
+20. **Crypto Adaption**: Artikel: [Magic announces $52M Strategic Funding Round led by PayPal Ventures](https://www.prnewswire.com/news-releases/magic-announces-52m-strategic-funding-round-led-by-paypal-ventures-301838352.html); Artikel: [80 Millionen US-Dollar PayPal investiert in Wallet-Entwicklung](https://www.btc-echo.de/schlagzeilen/paypal-investiert-in-wallet-entwicklung-165324/))
+21. **IOTA Audio**: Am Donnerstag war ein Community Governement Meeting im Discord: [Tweet](https://twitter.com/PhyloIota/status/1663939077648056320?s=20)
