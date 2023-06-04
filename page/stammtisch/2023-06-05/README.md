@@ -32,3 +32,8 @@
 30. **IOTA Ökosystem**: Nach Monaten ohne Kommunikation hat Simon von [TFT - The Fans Together](https://twitter.com/TheFansTogether) ein AMA in ihrem Discord gemacht. Er war wohl krank und es geht weiter mit TFT bzw. er hat viel vor...
 31. **IOTA Youtube**: von Iotapoet: [IOTA Five Fact Friday](https://www.youtube.com/watch?v=m0TvP5AfDX8)
 32. **Shimmer Touchpoint Promote**: [Tweets von Shimmer](https://twitter.com/shimmernet/status/1664617874059673602?s=20) über die Vorteile von Touchpoint und verlinken dieses [Anmedeformular zu Touchpoint](https://airtable.com/shrxW5Fs6NGDOkkBv)
+33. **IOTA Science**: [Noman Minhas tweetet](https://twitter.com/hack0grammer/status/1665260328131891200?s=20) über sein Paper: Using IOTA for Energie Efficient an Lightweight Internet of Drones Network
+34. **IOTA Ökosystem**: Multi veröffentlicht einen neuen Blogpost zu Pubchat: [PubChat - Adding features OpenAI can’t](https://multifolio.medium.com/pubchat-adding-features-openai-cant-d450623e308b)
+35. **Crypto Drama**: Artikel: [Atomic Wallet exploited, users report loss of entire portfolios](https://cointelegraph.com/news/atomic-wallet-exploited-users-report-loss-of-entire-portfolios)
+36. **IOTA Ökosystem**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1664863730948251650?s=20), dass sie Ledger integriert haben; Hier noch ein [Tweet](https://twitter.com/tanglepaycom/status/1665241940260974595?s=20) darüber
+37. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/294-wochenr%C3%BCckblick-vom-28-mai-bis-3-juni-2023/)
