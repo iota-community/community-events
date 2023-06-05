@@ -40,4 +40,6 @@
 38. **IOTA Dev**: [TangleBay tweetet](https://twitter.com/tanglebay/status/1664384305806671874?s=20) dass es ein Update auf [swarm v2.9.7](https://github.com/tanglebay/swarm/releases/tag/v2.9.7) gab
 39. **Allg. News**: Ein Tesla Plaid S mit Track Pack Ausstattung hat den Rundenrekord für Serienfahrzeuge auf dem Nürburgring um 8 Sekunden geschlagen: [Tweet](https://twitter.com/Tesla/status/1665068919109951489?s=20)
 40. **IOTA Stammtisch**: In Berlin am 10.6. nach der [Web 3 Berlin](https://twitter.com/berlinweb3com) Konferenz: [Tweet](https://twitter.com/iotashop/status/1665649982572056577?s=20)
-41. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/294-wochenr%C3%BCckblick-vom-28-mai-bis-3-juni-2023/)
+41. **Shimmer Ökosystem**: [ZeroSwapNFT tweetet](https://twitter.com/ZeroSwapNFT/status/1658428688952705024?s=20) über ihr neues "DEX NFT FEE Sharing module" das jetzt getestet werden kann
+42. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/294-wochenr%C3%BCckblick-vom-28-mai-bis-3-juni-2023/)
+43. **IOTA 2.0**: [Gecko Flying High tweetet](https://twitter.com/GeckoFlyingHigh/status/1665688371254157314?s=20) über ["Add first version of ratified confirmation and change notion of confirmation to be in line with acceptance but instead of using online committee, use total committee"](https://github.com/iotaledger/iota-core/commit/612a445f964089e555b7f28c11ba6a87b058485d)
