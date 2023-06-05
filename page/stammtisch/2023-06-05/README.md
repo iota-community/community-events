@@ -39,4 +39,5 @@
 37. **IOTA Hype**: [Dom](https://twitter.com/DomSchiener) hat mal wieder "Trillions or nothing" geschrieben: [Tweet mit Screenshot](https://twitter.com/moonbaklava/status/1665388238993760259?s=20)
 38. **IOTA Dev**: [TangleBay tweetet](https://twitter.com/tanglebay/status/1664384305806671874?s=20) dass es ein Update auf [swarm v2.9.7](https://github.com/tanglebay/swarm/releases/tag/v2.9.7) gab
 39. **Allg. News**: Ein Tesla Plaid S mit Track Pack Ausstattung hat den Rundenrekord für Serienfahrzeuge auf dem Nürburgring um 8 Sekunden geschlagen: [Tweet](https://twitter.com/Tesla/status/1665068919109951489?s=20)
-40. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/294-wochenr%C3%BCckblick-vom-28-mai-bis-3-juni-2023/)
+40. **IOTA Stammtisch**: In Berlin am 10.6. nach der [Web 3 Berlin](https://twitter.com/berlinweb3com) Konferenz: [Tweet](https://twitter.com/iotashop/status/1665649982572056577?s=20)
+41. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/294-wochenr%C3%BCckblick-vom-28-mai-bis-3-juni-2023/)
