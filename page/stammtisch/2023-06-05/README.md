@@ -38,4 +38,5 @@
 36. **IOTA Ökosystem**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1664863730948251650?s=20), dass sie Ledger integriert haben; Hier noch ein [Tweet](https://twitter.com/tanglepaycom/status/1665241940260974595?s=20) darüber
 37. **IOTA Hype**: [Dom](https://twitter.com/DomSchiener) hat mal wieder "Trillions or nothing" geschrieben: [Tweet mit Screenshot](https://twitter.com/moonbaklava/status/1665388238993760259?s=20)
 38. **IOTA Dev**: [TangleBay tweetet](https://twitter.com/tanglebay/status/1664384305806671874?s=20) dass es ein Update auf [swarm v2.9.7](https://github.com/tanglebay/swarm/releases/tag/v2.9.7) gab
-39. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/294-wochenr%C3%BCckblick-vom-28-mai-bis-3-juni-2023/)
+39. **Allg. News**: Ein Tesla Plaid S mit Track Pack Ausstattung hat den Rundenrekord für Serienfahrzeuge auf dem Nürburgring um 8 Sekunden geschlagen: [Tweet](https://twitter.com/Tesla/status/1665068919109951489?s=20)
+40. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/294-wochenr%C3%BCckblick-vom-28-mai-bis-3-juni-2023/)
