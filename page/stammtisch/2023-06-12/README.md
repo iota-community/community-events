@@ -35,3 +35,6 @@
 33. **Crypto Drama**: Artikel: [Rumor: Gary Gensler Accused Of Market Manipulation In $2.5 Million Short Position](https://news.coincu.com/193393-gary-gensler-accused-of-market-manipulation/#:~:text=According%20to%20a%20source%20named%20Capo%20WSB%2C%20Coinbase%2C,to%20over%20%242.5%20million%2C%20barely%2048%20hours%20ago)
 34. **IOTA Event?**: [INATBA tweetet](https://twitter.com/INATBA_org/status/1667091686407692293?s=20) über die [Identity Week](https://www.terrapinn.com/exhibition/identity-week/index.stm) und ich frage mich ob da iota irgendwo dabei ist: [Tweet](https://twitter.com/Vrom14286662/status/1667096697174913024?s=20)
 35. **IOTA Artikel**: [Neues EU Lieferkettengesetz und IOTAs dominante Rolle in der Lieferkette:](https://steemit.com/iota/@uwe69/neues-eu-lieferkettengesetz-und-iotas-dominante-rolle-in-der-lieferkette)
+36. **Crypto Charts**: Blutiger Samstag... Altcoins (u.a. IOTA) verlieren 20% während sich Bitcoin einigermaßen hält
+37. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1667229544560971777?s=20) darüber, dass sie Platz 53 von 90 000 Teilnehmern geworden sind bei einem Startup Contest
+38. **Crypto Drama**: Artikel: [Crypto.com to suspend US institutional exchange](https://blockworks.co/news/crypto-com-suspending-us-institutional-exchange)
