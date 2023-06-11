@@ -43,3 +43,7 @@
 41. **IOTA Youtube**: [Adams](https://twitter.com/Schpoopel) Präsentation aufgenommen von IOTA Shops: [IOTA Foundation / Shimmer Network | Keynote by Adam Hardaker at the Web3 Berlin event 2023](https://www.youtube.com/watch?v=D9k2xaQOVcA)
 42. **IOTA Scam**: [LendeXe tweetet](https://twitter.com/LendeXeFinance/status/1667520803879940096?s=20) darüber, dass ihr Discord gehacked wurde. Später [tweeten sie](https://twitter.com/LendeXeFinance/status/1667639398052032512?s=20) die Details zu dem Angriff
 43. **IOTA Youtube**: von Mind Crypto: [Has IOTA been given SEC clarity? Not a security?](https://www.youtube.com/watch?v=Y665N0adZIg)
+44. **Crypto Drama**: Artikel: ['Get out of crypto platforms now,' former SEC chief warns](https://www.theblock.co/post/234081/john-reed-stark-get-out-crypto-now)
+45. **IOTA Artikel**: [Meet the IF - Dominik Schiener](https://www.times.tangleverse.io/meet-the-if-dominik-schiener/)
+46. **IOTA Youtube**: von Mindcrypto: [IOTA | $3.5 Trillion | Know what you hold | Here to disrupt! ](https://www.youtube.com/watch?v=J3aSLLuv4W8)
+47. **IOTA **: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/296-wochenr%C3%BCckblick-vom-4-bis-10-juni-2023/)
