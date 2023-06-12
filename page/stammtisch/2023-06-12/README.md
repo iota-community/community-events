@@ -46,4 +46,6 @@
 44. **Crypto Drama**: Artikel: ['Get out of crypto platforms now,' former SEC chief warns](https://www.theblock.co/post/234081/john-reed-stark-get-out-crypto-now)
 45. **IOTA Artikel**: [Meet the IF - Dominik Schiener](https://www.times.tangleverse.io/meet-the-if-dominik-schiener/)
 46. **IOTA Youtube**: von Mindcrypto: [IOTA | $3.5 Trillion | Know what you hold | Here to disrupt! ](https://www.youtube.com/watch?v=J3aSLLuv4W8)
-47. **IOTA **: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/296-wochenr%C3%BCckblick-vom-4-bis-10-juni-2023/)
+47. **IOTA Ökosystem**: [Shi Universe tweetet](https://twitter.com/Shiuniverse/status/1667986034561277952?s=20) ein neues Travel Guide Video: [Shi Travelguide - Protector Squad](https://www.youtube.com/watch?v=6NAPozrWdBg)
+48. **IOTA Hype**: Adam spricht bei seinem Vortrag nicht nur von EBSI un der digitalen Identität sondern auch von dem digitalen Euro... [Tweet](https://twitter.com/MoonacoPodcast/status/1667986124868861958?s=20)
+49. **IOTA **: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/296-wochenr%C3%BCckblick-vom-4-bis-10-juni-2023/)
