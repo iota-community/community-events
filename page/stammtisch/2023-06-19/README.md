@@ -12,10 +12,10 @@
 10. **IOTA 2.0**: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1668624689613377536?s=20) über [Aussagen von Luigi in Tanglemath](https://discord.com/channels/397872799483428865/399035929106579466/1118090664454922240)
 11. **IOTA Audio**: [Darkmythos tweetet](https://twitter.com/DarkMythosIOTA/status/1668875926065799168?s=20), dass sie am Donnerstag im TangleGang Sprachchat sind
 12. **IOTA Ökosystem**: [LendeXe tweetet](https://twitter.com/LendeXeFinance/status/1668718611505070087?s=20) nochmal über den Discord Hack der zu einem Crypto Scam als Announcement geführt hat und wie sie zukünftig darauf reagieren
-13. **IOTA Youtube**: von Mind Crypto: [IOTA is better than 99%...](https://youtube.com/watch?v=vnkX7qSMryU&feature=share8)
+13. **IOTA Youtube**: von Mind Crypto: [IOTA is better than 99%...](https://youtu.be/vnkX7qSMryU)
 14. **IOTA NFT**: [NakamaLabs tweeten](https://twitter.com/Nakama_Labs/status/1668623181199056896?s=20) über ihre NFTs mit Utility. Hier noch ein [Tweet](https://twitter.com/Nakama_Labs/status/1668623181199056896?s=20) dazu
 15. **IOTA Event**: [Sebastian Weber berichtet positive](https://twitter.com/Sebasti65365174/status/1668637265709481985?s=20) von dem web3Berlin Event
-16. **IOTA Youtube**: Die [IF tweetet](https://twitter.com/iota/status/1668634330078539782?s=20) über [Defi Horizons: ...](https://youtu.be/Ado_hft6ndg)
+16. **IOTA Youtube**: Die [IF tweetet](https://twitter.com/iota/status/1668634330078539782?s=20) über [Defi Horizons: ...](https://youtu.be/Ado_hft6ndg); Auch die [EU Crypto Initiative retweetet](https://twitter.com/EuCInitiative/status/1668639052629721089?s=20) das
 17. **IOTA Youtube**: [Blockbytes tweetet](https://twitter.com/blockbytescom/status/1668620487944208385?s=20) über [Why I'm bullish on Shimmer](https://youtu.be/i1IY4vRPhYk)
 18. **Crypto Drama**: eTorro delistet auch die Coins die von der SEC als Security definiert wurden: [Tweet](https://twitter.com/coinbureau/status/1668573053964386304?s=20)
 19. **IOTA Audio**: [Imancho tweetet](https://twitter.com/lmanchu/status/1668788836091199489?s=20) und auch [Kowei tweetet](https://twitter.com/kowei1995/status/1668831041870766081?s=20) über ein [Interview in chinesisch](https://open.firstory.me/story/cliu3ftr400dj01vocjebegeh/platforms) das man sich laut Kowei evtl. mit [rask.ai](https://www.rask.ai/) übersetzen lassen kann 
