@@ -20,4 +20,7 @@
 18. **Crypto Drama**: eTorro delistet auch die Coins die von der SEC als Security definiert wurden: [Tweet](https://twitter.com/coinbureau/status/1668573053964386304?s=20)
 19. **IOTA Audio**: [Imancho tweetet](https://twitter.com/lmanchu/status/1668788836091199489?s=20) und auch [Kowei tweetet](https://twitter.com/kowei1995/status/1668831041870766081?s=20) über ein [Interview in chinesisch](https://open.firstory.me/story/cliu3ftr400dj01vocjebegeh/platforms) das man sich laut Kowei evtl. mit [rask.ai](https://www.rask.ai/) übersetzen lassen kann 
 20. **Crypto Drama**: Artikel: [Binance.US und SEC arbeiten an “Kompromiss”, um Einfrieren von Vermögenswerten abzuwenden](https://www.btc-echo.de/schlagzeilen/binance-us-und-sec-arbeiten-an-kompromiss-um-einfrieren-von-vermoegenswerten-abzuwenden-165997/)
-21. 
+21. **IOTA Dev Update**: [Protocol group, Weeks 23-24, 2023 #80](https://github.com/iotaledger/research-updates/discussions/80)
+22. **IOTA Adaption**: [walt.id tweetet](https://twitter.com/walt_id/status/1668885666430693376?s=20) über "The future of Banking & Financial Services credentials" und drunter nochmal "Join innovative actors in the banking sector such as: [@yesbutton](https://twitter.com/yesbutton), [@sparkasse](https://twitter.com/sparkasse) [@iota](https://twitter.com/iota)
+23. **IOTA NFT Ökosystem**: [EpochZero tweetet](https://twitter.com/Epoch_0/status/1668720620467638275?s=20) darüber, dass sie noch diese Woche ihre Webseite herausbringen wollen
+24. **IOTA Video**: [Spec Weekly tweetet](https://twitter.com/SpecWeekly/status/1668907710191136768?s=20) über ihr neues Video: [Is IOTA a Security? With the SEC...](https://youtu.be/nWMq3vsxcWc)
