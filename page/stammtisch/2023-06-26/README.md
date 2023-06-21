@@ -14,3 +14,7 @@
 12. **Crypto Adaption**: Die [IF tweetet](https://twitter.com/iota/status/1671454151228764160?s=20) darüber, dass es ihr [Offener Brief zum EU Data Act über Smart Contracts](https://data-act.info/) in das "[politico’s](https://twitter.com/politico) Morning Financial Services update" geschafft hat
 13. **IOTA Youtube**: von der TangleCon: [Phylo - Goernance and DAOs on IOTA](https://www.youtube.com/watch?v=5RbnowFM_C0)
 14. **IOTA Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1671189512792473601?s=20) über [BUILD.5 and the Soonaverse](https://soonlabs.medium.com/build-5-and-the-soonaverse-8b2c4a748568)
+15. **Crypto Drama**: Der Typ von der Bitcoin Familie wurde scheinbar gehackt und hat dabei $100K verloren: [Tweet](https://twitter.com/Diditaihuttu/status/1671291951541280776?t=vz2XOlsSOnJh0IJx0buvaA&s=19)
+16. **Twitter Gezwitscher**: Torsten kauft wieder IOTA: [Tweet](https://twitter.com/theissler/status/1671075537589092352) mit den Worten: "After following a few weeks what’s happening with #IOTA 2.0 (namely IOTA Core) on GitHub, I decided to purchase my first $MIOTA in a year"; Er hat auch eine Twitter Community gegründet und will dort bald eine Twitter Spaces Event organisieren: [Tweet](https://twitter.com/theissler/status/1671496390470520832?s=20)
+17. **IOTA Promote**: [kowei tweetet](https://twitter.com/kowei1995/status/1671496077445574656?s=20), dass er eine Präsentation mit dem Titel "IOTA - Government Collaboration in the EU and East Africa" gehalten hat vor ziemlich wichtigen Leuten...
+18. 
