@@ -32,3 +32,6 @@
 30. **IOTA Adaption**: [Christoph Strnadl erklärt](https://twitter.com/archimate/status/1671806814915010560?s=20) in welchem Bereich die IF (EBSI) und wo die Software AG (#GaiaX (#iECO, #GaiaX4AMS)) führend verantwortlich ist: [Er schreibt](https://twitter.com/archimate/status/1671553236119986178?s=20) außerdem, dass es bei EBSI erst Ende 2023 eine Etnscheidung geben wird, wer gewinnt und wie es nach der Phase 2B weiter geht
 31. **IOTA Youtube**: von Spec Weekly: [BLACKROCK BITCOIN ETF. Does a rising tide lift all boats?](https://www.youtube.com/watch?v=2nh3QnqpkGM)
 32. **IOTA Audio**: von Moonaco Podcast: [Tweet](https://twitter.com/MoonacoPodcast/status/1671820298146988032?s=20); Spotify: [Episode 81 - Mosquito Pay](https://open.spotify.com/episode/6Pf9GBh3hhG3uxXQwN3iuG?si=R2yByafBRS6F-SQvglWvRg&nd=1)
+33. **IOTA Ökosystem**: [swarm logistics tweetet](https://twitter.com/SwarmLogistics/status/1671847658787315712?s=20) ein Bild von dem "Startup Autobahn" Event
+34. **IOTA Hopium**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1671570214058590216?s=20) über den Fortschritt von [iota-core (bzw. IOTA 2.0)](https://github.com/iotaledger/iota-core)
+35. **IOTA Youtube**: Von Common Sense Crypto: [HUGE IOTA UPDATE SWIFT IOTA CONNECTIONS IOTA IOT INDUSTRY 4.0 MIOTA & TESLA](https://www.youtube.com/watch?v=u1U9-i0vRAg)
