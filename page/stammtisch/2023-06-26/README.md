@@ -35,3 +35,5 @@
 33. **IOTA Ökosystem**: [swarm logistics tweetet](https://twitter.com/SwarmLogistics/status/1671847658787315712?s=20) ein Bild von dem "Startup Autobahn" Event
 34. **IOTA Hopium**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1671570214058590216?s=20) über den Fortschritt von [iota-core (bzw. IOTA 2.0)](https://github.com/iotaledger/iota-core)
 35. **IOTA Youtube**: Von Common Sense Crypto: [HUGE IOTA UPDATE SWIFT IOTA CONNECTIONS IOTA IOT INDUSTRY 4.0 MIOTA & TESLA](https://www.youtube.com/watch?v=u1U9-i0vRAg)
+36. **Crypto Adaption**: Artikel: [Binance Launches Regulated Digital Asset Platform in Kazakhstan](https://coinwire.com/binance-launches-digital-asset-platform-in-kazakhstan/)
+37. **NFT Adaption**: Christiano Ronaldo (mit 108 Mio Followern) [tweetet](https://twitter.com/Cristiano/status/1671880828463480833?s=20) über Trikots die er signiert und nur an seine NFT Holder verteilt. Es geht um die NFT-Kollektion: [ForeverCR7: The GOAT NFT Collection](https://www.binance.com/en/blog/nft/forevercr7-the-goat-nft-collection-7982005663615702426?ref=FOREVERCR7&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=thecr7nftcollection2)
