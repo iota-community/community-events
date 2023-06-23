@@ -39,4 +39,5 @@
 37. **NFT Adaption**: Christiano Ronaldo (mit 108 Mio Followern) [tweetet](https://twitter.com/Cristiano/status/1671880828463480833?s=20) über Trikots die er signiert und nur an seine NFT Holder verteilt. Es geht um die NFT-Kollektion: [ForeverCR7: The GOAT NFT Collection](https://www.binance.com/en/blog/nft/forevercr7-the-goat-nft-collection-7982005663615702426?ref=FOREVERCR7&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=thecr7nftcollection2)
 38. **IOTA Event**: [Benjamin Bönisch tweetet](https://twitter.com/BenBoenisch/status/1671899771374563328?s=20) und [Holger Köther tweetet](https://twitter.com/HolgerKoether/status/1671894488116256771?s=20) von de digital Summit in Baden Würtemberg
 39. **Crypto Adaption**: [Jack, der ehemalige CEO von Twitter, tweetet](https://twitter.com/jack/status/1671934730701357080?s=20) "[https://nodeless.io/](https://nodeless.io/)", einen BTC Lightning Infrastruktur Service
-40. 
+40. **Crypto Adaption**: SAP forscht an grenzüberschreitetnden Zahlungen via USDC Stablecoin: [Tweet](https://twitter.com/peterschroederr/status/1671879037906726915?s=20)
+41. **IOTA Ökosystem**: 
