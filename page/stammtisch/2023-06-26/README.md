@@ -48,6 +48,6 @@
 46. **IOTA Audio**: [AMA von Nakama und Deepr Finance](https://medium.com/iota%E6%84%9B%E5%A5%BD%E8%80%85%E4%B8%AD%E6%96%87%E7%A4%BE%E7%BE%A4-iota-taiwan-community/iota-%E4%B8%AD%E6%96%87%E7%A4%BE%E7%BE%A4-x-nakama-deepr-%E6%96%87%E5%AD%97ama-with-english-version-86c425c63873)
 47. **IOTA Ökosystem**: [NOWNodes tweetet](https://twitter.com/NOWNodes/status/1672228474784808961?s=20) darüber, dass man ihren [Node Service](https://nownodes.io/nodes/miota) jetzt auch für Miota verwenden kann
 48. **Crypto Adaption**: [INATBA tweetet](https://twitter.com/INATBA_org/status/1672265267584409600?s=20) über [23 JUN INATBA RESPONSE TO UK CONSULTATION ON DEFI TAXATION](https://inatba.org/news/response_uk_consultation_defi-taxation/)
-49. 
-
+49. **Crypto Adaption**: Artikel: [SEC Approves First Leveraged Bitcoin Futures ETF](https://watcher.guru/news/sec-approves-first-leveraged-bitcoin-futures-etf)
+50. **Allgemeine News**: Prigozhin-Rebellion in Russland: 400 Wagen von der Wagner Truppe rücken in Richtung Moskau vor, drehen aber nach Vermittlungsgesprächen mit Bellarus, 200km vor dem Ziel wieder um. War das vielleicht alles nur ein Täuschungsmanöver?
 
