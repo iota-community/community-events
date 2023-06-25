@@ -50,4 +50,8 @@
 48. **Crypto Adaption**: [INATBA tweetet](https://twitter.com/INATBA_org/status/1672265267584409600?s=20) über [23 JUN INATBA RESPONSE TO UK CONSULTATION ON DEFI TAXATION](https://inatba.org/news/response_uk_consultation_defi-taxation/)
 49. **Crypto Adaption**: Artikel: [SEC Approves First Leveraged Bitcoin Futures ETF](https://watcher.guru/news/sec-approves-first-leveraged-bitcoin-futures-etf)
 50. **Allgemeine News**: Prigozhin-Rebellion in Russland: 400 Wagen von der Wagner Truppe rücken in Richtung Moskau vor, drehen aber nach Vermittlungsgesprächen mit Bellarus, 200km vor dem Ziel wieder um. War das vielleicht alles nur ein Täuschungsmanöver?
+51. **IOTA Audio**: [Moonaco Podcast tweetet](https://twitter.com/MoonacoPodcast/status/1672967102347591684?s=20) darüber, dass die 1. Podcast Saison vorerst zu Ende ist
+52. **IOTA Youtube**: von Probably Nothing: [Zentralbanken von IOTA und Shimmer begeistert - IOTA und Shimmer News](https://www.youtube.com/watch?v=vJK3jbPi5ks)
+53. **IOTA Exchange**: [Swapzone tweetet](https://twitter.com/Swapzone_io/status/1673035920088391681?s=20), dass sie IOTA gelistet haben
+54. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/300-wochenr%C3%BCckblick-vom-18-bis-24-juni-2023/)
 
