@@ -28,3 +28,4 @@ Then use [Metamask Wallet](https://metamask.io/) to connect to the following web
 21. **Snowman (DeFi)**: We only have a [Soon-Tweet](https://twitter.com/SnowMan_Finance/status/1641069692315115522?s=20) and the website: [snowman.one](https://www.snowman.one/#/home)
 22. **MoonVault (DeFi)**: We only have a [Soon-Tweet](https://twitter.com/Moon_Vault_News/status/1575188735280324611?s=20) and the website: [app.moon-vault.com](https://app.moon-vault.com/)
 23. **Alpaca Finance (DeFi)**: We only have a [Soon-Tweet](https://twitter.com/MoonacoPodcast/status/1646452891706638337?s=20) and the website: [app.alpacafinance.org](https://app.alpacafinance.org/)
+24. **Chakra Labs**: [ShakraLabs tweetet](https://twitter.com/LabsChakra/status/1670077826005966850?s=20) von ihrer Webseite: [https://dapp.chakralabs.app/](https://dapp.chakralabs.app/)
