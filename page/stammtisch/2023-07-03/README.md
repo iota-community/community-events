@@ -15,3 +15,5 @@
 13. **Crypto News**: Erstmals sind mehr ETH im Staking als auf Kryptobörsen: [Tweet](https://twitter.com/LeonWaidmann/status/1673663555772596226?s=20)
 14. **IOTA Ökosystem**: [Iotabee tweetet](https://twitter.com/iotabee/status/1673584937306320898?s=20) über ein Reset und ein Soon-Update
 15. **IOTA Event**: [Regine tweetet](https://twitter.com/Energine/status/1673301015167131650?s=20) und [Holger tweetet](https://twitter.com/HolgerKoether/status/1673745656018771968?s=20) darüber, dass [Spyce_5](https://twitter.com/SPYCE_5) auf dem [Blockchance](https://twitter.com/Blockchance_) Event ist
+16. **Crypto Adaption**: Artikel: [HSBC ermöglicht Bitcoin- und Ethereum-ETF-Handel](https://www.btc-echo.de/schlagzeilen/bitcoin-und-co-hsbc-ermoeglicht-handel-mit-krypto-etfs-166633/)
+17. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1673444857602293761?s=20) über ein Update
