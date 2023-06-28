@@ -21,7 +21,7 @@
 19. **IOTA Event**: Diese Woche war die EURO-Bike, wo Sebastian Weber etwas zeigen wollte: [Tweet](https://twitter.com/Sebasti65365174/status/1671388303633907712?s=20); EDAG war auch dort, aber hatte glaube ich nix mit IOTA zu tun: [Tweet](https://twitter.com/EDAGGroup/status/1672214192227532802?s=20)
 20. **IOTA Artikel**: [Nakama Labs tweetet](https://twitter.com/Nakama_Labs/status/1673956259006144513?s=20) über ihren Blogpost: [The Magic of ShimmerEVM: Redefining Web3’s Potential](https://medium.com/@NakamaLabs/the-magic-of-shimmerevm-redefining-web3s-potential-b0c0be3149c4)
 21. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1673994656344858625?s=20) über den Artikel: [SwissOne Shimmer, IOTA Fund: What Does It Mean for Crypto?](https://dailycoin.com/swissone-shimmer-iota-fund-what-it-mean-for-crypto/)
-22. **IOTA Blogpost**: Die [IF tweetet](https://twitter.com/iota/status/1674039964823166977?s=20) einen 404 Link von ihrem Blogpost...
+22. **IOTA Blogpost**: Die [IF tweetet](https://twitter.com/iota/status/1674039964823166977?s=20) über ihren Blogpost: [Setting the Stage for Smarter Regulation](https://blog.iota.org/setting-the-stage-for-smarter-regulation/)
 23. **Fiat Adaption**: Presse Mitteilung von der EU Commission: [Single Currency Package: new proposals to support the use of cash and to propose a framework for a digital euro](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_3501)
 24. **IOTA Dev**: [Research Update: Protocol group, Weeks 25-26 #81](https://github.com/iotaledger/research-updates/discussions/81)
 25. 
