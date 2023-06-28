@@ -20,4 +20,4 @@
 18. **Crypto Adaption**: [Robert Kennedy Jr tweetet](https://twitter.com/RobertKennedyJr/status/1673812201457479681?s=20) ein Video indem er Bitcoin promotet. Sie akzeptieren auch Bitcoin als Parteispende für die demokratische Partei für die er antreten will
 19. **IOTA Event**: Diese Woche war die EURO-Bike, wo Sebastian Weber etwas zeigen wollte: [Tweet](https://twitter.com/Sebasti65365174/status/1671388303633907712?s=20); EDAG war auch dort, aber hatte glaube ich nix mit IOTA zu tun: [Tweet](https://twitter.com/EDAGGroup/status/1672214192227532802?s=20)
 20. **IOTA Artikel**: [Nakama Labs tweetet](https://twitter.com/Nakama_Labs/status/1673956259006144513?s=20) über ihren Blogpost: [The Magic of ShimmerEVM: Redefining Web3’s Potential](https://medium.com/@NakamaLabs/the-magic-of-shimmerevm-redefining-web3s-potential-b0c0be3149c4)
-21. 
+21. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1673994656344858625?s=20) über den Artikel: [SwissOne Shimmer, IOTA Fund: What Does It Mean for Crypto?](https://dailycoin.com/swissone-shimmer-iota-fund-what-it-mean-for-crypto/)
