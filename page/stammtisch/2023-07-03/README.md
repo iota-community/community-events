@@ -32,5 +32,5 @@
 30. **Crypto Adaption**: Artikel: [BaFin verwehrt Binance die Lizenz in Deutschland Vor knapp einem Jahr beantragt – jetzt verwehrt: Die Bafin erteilt Binance eine Abfuhr. Die weltweit größte Krypto-Börse verliert den Einfluss in Deutschland](https://www.btc-echo.de/schlagzeilen/bafin-verwehrt-binance-die-lizenz-in-deutschland-166802/)
 31. **IOTA Youtube**: Video von der TangleCon: [Sebastian Weber - DLT meets Insustry](https://www.youtube.com/watch?v=Ab4ftyxyRas)
 32. **Shimmer EVM**: Es gab ein wasp Update: [v0.7.0-alpha.2](https://github.com/iotaledger/wasp/releases/tag/v0.7.0-alpha.2)
-33. **IOTA Youtube Event**: [BlockchainLab Crenthe tweetet]() über [](https://www.youtube.com/watch?v=lHWOpfeXBKY)
+33. **IOTA Youtube Event**: [BlockchainLab Crenthe tweetet]() über [Ein Online Event](https://www.youtube.com/watch?v=lHWOpfeXBKY)
 
