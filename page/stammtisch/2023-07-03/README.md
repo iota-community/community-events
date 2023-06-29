@@ -33,4 +33,5 @@
 31. **IOTA Youtube**: Video von der TangleCon: [Sebastian Weber - DLT meets Insustry](https://www.youtube.com/watch?v=Ab4ftyxyRas)
 32. **Shimmer EVM**: Es gab ein wasp Update: [v0.7.0-alpha.2](https://github.com/iotaledger/wasp/releases/tag/v0.7.0-alpha.2)
 33. **IOTA Youtube Event**: [BlockchainLab Drenthe tweetet](https://twitter.com/BclDrenthe/status/1674360015749099520?s=20) über [Ein Online Event](https://www.youtube.com/watch?v=lHWOpfeXBKY)
-
+34. **IOTA Ökosystem**: Akkodis und [Cardery](https://twitter.com/CarderyGmbH) arbeiten zusammen: [Tweet von Sebastian Weber](https://twitter.com/Sebasti65365174/status/1674392877911232514?s=20); [Tweet von Cardery](https://twitter.com/CarderyGmbH); [Tweet von Dark Mythos](https://twitter.com/DarkMythosIOTA/status/1674398357769289728?s=20)
+35. **Shimmer Blogpost**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1674402344086192131?s=20) über den Blogpost: Part 1: [Beginner’s Guide to DeFi Lending & Borrowing: Part 1](https://blog.shimmer.network/defi-lending-borrowing-part-1/); Part 2: [Introduction to DeFi Lending & Borrowing: Part 2](https://blog.shimmer.network/defi-lending-borrowing-part-2/); Part 3: [Introduction to DeFi Lending & Borrowing: Part 3](https://blog.shimmer.network/defi-lending-borrowing-part-3/)
