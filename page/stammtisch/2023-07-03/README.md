@@ -1,7 +1,7 @@
 ## IOTA Stammtischthemen für Montag, den 3.7.2023
 
 1. **IOTA Quicktakes**: Die [IF tweetet](https://twitter.com/iota/status/1673254903832096769?s=20) über die [IOTA Quicktakes 26.06.2023: Take Part in Q2 Survey, New Zealy Quests Unlocked & Blockchance Event!](https://www.youtube.com/watch?v=QXPMVmsCBu8)
-2. **IOTA Ökosystem**: [SwissOne Capital tweetet](https://twitter.com/Swissonecapital/status/1673677555235278849?s=20) über den Blogpost: [SwissOne Launches First-ever Fund to Support the Shimmer and IOTA Ecosystems](https://www.prunderground.com/swissone-launches-first-ever-fund-to-support-the-shimmer-and-iota-ecosystems/00311351/); [Dom retweetet](https://twitter.com/DomSchiener/status/1673729851323301896?s=20) das
+2. **IOTA Ökosystem**: [SwissOne Capital tweetet](https://twitter.com/Swissonecapital/status/1673677555235278849?s=20) über den Blogpost: [SwissOne Launches First-ever Fund to Support the Shimmer and IOTA Ecosystems](https://www.prunderground.com/swissone-launches-first-ever-fund-to-support-the-shimmer-and-iota-ecosystems/00311351/); [Dom retweetet](https://twitter.com/DomSchiener/status/1673729851323301896?s=20) das; Die [IF retweetet](https://twitter.com/iota/status/1674357039844163585?s=20) den Artikel: [SwissOne Launches First-ever Fund to Support the Shimmer and IOTA Ecosystems](https://seekingalpha.com/pr/19380492-swissone-launches-first-ever-fund-to-support-shimmer-and-iota-ecosystems)
 3. **Shimmer Dev Update**: Es gab ein techn. Announcement von Dave: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1673715411123073025?s=20); Dazu passend hatte [Dom im Discord](https://discord.com/channels/397872799483428865/397872799483428867/1123188939101061130) geschrieben: "We are very close to a testnet reset my friend  then we will do some more testing and depending on the outcome, we will start preparing for mainnet release"
 4. **IOTA Ökosystem**: Evvrything heißt jetzt Threadscape: [Tweet](https://twitter.com/7hreadscape/status/1673683927658012673?s=20); Die bauen scheinbar eine Social Media App
 5. **IOTA Ökosystem**: [Build5 tweetet](https://twitter.com/build5tech/status/1673567947128979459?s=20) über ihren Blogpost: [BUILD.5 Welcomes “Unicorn Building” Tech Innovator Team to its Board of Advisors](https://build5.com/blog/unicorn-building/); [David Sonstebo retweetet](https://twitter.com/DavidSonstebo/status/1663469885257555968?s=20) das; [Holger Köther retweetet](https://twitter.com/HolgerKoether/status/1663454777781436416?s=20) das
@@ -29,5 +29,8 @@
 27. **IOTA Youtube**: von TangleGang: [Interview mit TangleBeasts vom 16.06.23](https://www.youtube.com/watch?v=Rmhf6QTNuFU)
 28. **IOTA Youtube**: von Probably Nothing: [Zentralbanken von IOTA und Shimmer begeistert - IOTA und Shimmer News](https://www.youtube.com/watch?v=vJK3jbPi5ks&t=8s)
 29. **Crypto Adaption**: Artikel: [Mastercard startet Multi-Token-Netzwerk](https://www.btc-echo.de/schlagzeilen/mastercard-startet-multi-token-netzwerk-166792/)
-30. **Crypto Adaption**: Artikel: [BaFin verwehrt Binance die Lizenz in Deutschland
-Vor knapp einem Jahr beantragt – jetzt verwehrt: Die Bafin erteilt Binance eine Abfuhr. Die weltweit größte Krypto-Börse verliert den Einfluss in Deutschland](https://www.btc-echo.de/schlagzeilen/bafin-verwehrt-binance-die-lizenz-in-deutschland-166802/)
+30. **Crypto Adaption**: Artikel: [BaFin verwehrt Binance die Lizenz in Deutschland Vor knapp einem Jahr beantragt – jetzt verwehrt: Die Bafin erteilt Binance eine Abfuhr. Die weltweit größte Krypto-Börse verliert den Einfluss in Deutschland](https://www.btc-echo.de/schlagzeilen/bafin-verwehrt-binance-die-lizenz-in-deutschland-166802/)
+31. **IOTA Youtube**: Video von der TangleCon: [Sebastian Weber - DLT meets Insustry](https://www.youtube.com/watch?v=Ab4ftyxyRas)
+32. **Shimmer EVM**: Es gab ein wasp Update: [v0.7.0-alpha.2](https://github.com/iotaledger/wasp/releases/tag/v0.7.0-alpha.2)
+33. 
+
