@@ -14,7 +14,7 @@
 12. **IOTA Youtube**: Die [IF tweetet](https://twitter.com/iota/status/1673783265994371076?s=20) über [IOTA Community Regulation Call 14/06/2023: EU Crypto Regulations](https://www.youtube.com/watch?v=VfRp89KBbRI)
 13. **Crypto News**: Erstmals sind mehr ETH im Staking als auf Kryptobörsen: [Tweet](https://twitter.com/LeonWaidmann/status/1673663555772596226?s=20)
 14. **IOTA Ökosystem**: [Iotabee tweetet](https://twitter.com/iotabee/status/1673584937306320898?s=20) über ein Reset und ein Soon-Update
-15. **IOTA Event**: [Regine tweetet](https://twitter.com/Energine/status/1673301015167131650?s=20) und [Holger tweetet](https://twitter.com/HolgerKoether/status/1673745656018771968?s=20) darüber, dass [Spyce_5](https://twitter.com/SPYCE_5) auf dem [Blockchance](https://twitter.com/Blockchance_) Event ist
+15. **IOTA Event**: [Regine tweetet](https://twitter.com/Energine/status/1673301015167131650?s=20) und [Holger tweetet](https://twitter.com/HolgerKoether/status/1673745656018771968?s=20) darüber, dass [Spyce_5](https://twitter.com/SPYCE_5) auf dem [Blockchance](https://twitter.com/Blockchance_) Event ist bzw. war: [Tweet](https://twitter.com/Energine/status/1674346073567928321?s=20)
 16. **Crypto Adaption**: Artikel: [HSBC ermöglicht Bitcoin- und Ethereum-ETF-Handel](https://www.btc-echo.de/schlagzeilen/bitcoin-und-co-hsbc-ermoeglicht-handel-mit-krypto-etfs-166633/)
 17. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1673444857602293761?s=20) über ein Update
 18. **Crypto Adaption**: [Robert Kennedy Jr tweetet](https://twitter.com/RobertKennedyJr/status/1673812201457479681?s=20) ein Video indem er Bitcoin promotet. Sie akzeptieren auch Bitcoin als Parteispende für die demokratische Partei für die er antreten will
@@ -32,5 +32,5 @@
 30. **Crypto Adaption**: Artikel: [BaFin verwehrt Binance die Lizenz in Deutschland Vor knapp einem Jahr beantragt – jetzt verwehrt: Die Bafin erteilt Binance eine Abfuhr. Die weltweit größte Krypto-Börse verliert den Einfluss in Deutschland](https://www.btc-echo.de/schlagzeilen/bafin-verwehrt-binance-die-lizenz-in-deutschland-166802/)
 31. **IOTA Youtube**: Video von der TangleCon: [Sebastian Weber - DLT meets Insustry](https://www.youtube.com/watch?v=Ab4ftyxyRas)
 32. **Shimmer EVM**: Es gab ein wasp Update: [v0.7.0-alpha.2](https://github.com/iotaledger/wasp/releases/tag/v0.7.0-alpha.2)
-33. 
+33. **IOTA Youtube Event**: [BlockchainLab Crenthe tweetet]() über [](https://www.youtube.com/watch?v=lHWOpfeXBKY)
 
