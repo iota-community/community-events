@@ -28,3 +28,6 @@
 26. **Crypto Adaption**: Microstrategie hat schon wieder 12333 BTC gekauft: [Tweet](https://twitter.com/BTC_Archive/status/1674076328226635778?s=20)
 27. **IOTA Youtube**: von TangleGang: [Interview mit TangleBeasts vom 16.06.23](https://www.youtube.com/watch?v=Rmhf6QTNuFU)
 28. **IOTA Youtube**: von Probably Nothing: [Zentralbanken von IOTA und Shimmer begeistert - IOTA und Shimmer News](https://www.youtube.com/watch?v=vJK3jbPi5ks&t=8s)
+29. **Crypto Adaption**: Artikel: [Mastercard startet Multi-Token-Netzwerk](https://www.btc-echo.de/schlagzeilen/mastercard-startet-multi-token-netzwerk-166792/)
+30. **Crypto Adaption**: Artikel: [BaFin verwehrt Binance die Lizenz in Deutschland
+Vor knapp einem Jahr beantragt – jetzt verwehrt: Die Bafin erteilt Binance eine Abfuhr. Die weltweit größte Krypto-Börse verliert den Einfluss in Deutschland](https://www.btc-echo.de/schlagzeilen/bafin-verwehrt-binance-die-lizenz-in-deutschland-166802/)
