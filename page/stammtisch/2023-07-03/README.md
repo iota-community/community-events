@@ -14,7 +14,7 @@
 12. **IOTA Youtube**: Die [IF tweetet](https://twitter.com/iota/status/1673783265994371076?s=20) über [IOTA Community Regulation Call 14/06/2023: EU Crypto Regulations](https://www.youtube.com/watch?v=VfRp89KBbRI)
 13. **Crypto News**: Erstmals sind mehr ETH im Staking als auf Kryptobörsen: [Tweet](https://twitter.com/LeonWaidmann/status/1673663555772596226?s=20)
 14. **IOTA Ökosystem**: [Iotabee tweetet](https://twitter.com/iotabee/status/1673584937306320898?s=20) über ein Reset und ein Soon-Update
-15. **IOTA Event**: [Regine tweetet](https://twitter.com/Energine/status/1673301015167131650?s=20) und [Holger tweetet](https://twitter.com/HolgerKoether/status/1673745656018771968?s=20) darüber, dass [Spyce_5](https://twitter.com/SPYCE_5) auf dem [Blockchance](https://twitter.com/Blockchance_) Event ist bzw. war: [Tweet](https://twitter.com/Energine/status/1674346073567928321?s=20)
+15. **IOTA Event**: [Regine tweetet](https://twitter.com/Energine/status/1673301015167131650?s=20) und [Holger tweetet](https://twitter.com/HolgerKoether/status/1673745656018771968?s=20) darüber, dass [Spyce_5](https://twitter.com/SPYCE_5) auf dem [Blockchance](https://twitter.com/Blockchance_) Event ist bzw. war: [Tweet](https://twitter.com/Energine/status/1674346073567928321?s=20); [Tweet](https://twitter.com/Energine/status/1674424623449112579?s=20)
 16. **Crypto Adaption**: Artikel: [HSBC ermöglicht Bitcoin- und Ethereum-ETF-Handel](https://www.btc-echo.de/schlagzeilen/bitcoin-und-co-hsbc-ermoeglicht-handel-mit-krypto-etfs-166633/)
 17. **IOTA Ökosystem**: [Bivreost tweetet](https://twitter.com/bivreost/status/1673444857602293761?s=20) über ein Update
 18. **Crypto Adaption**: [Robert Kennedy Jr tweetet](https://twitter.com/RobertKennedyJr/status/1673812201457479681?s=20) ein Video indem er Bitcoin promotet. Sie akzeptieren auch Bitcoin als Parteispende für die demokratische Partei für die er antreten will
@@ -40,3 +40,5 @@
 38. **IOTA 2.0 Update**: Es gab ein [Update zu IOTA 2.0 im Discord](https://discord.com/channels/397872799483428865/930452985270632498/1123916578090647612) von Jonas: [Tweet mit Screenshot](https://twitter.com/theissler/status/1674459255112445953?s=20)
 39. **Crypto Adaption**: Artikel: [UK Passes Bill Recognizing Crypto as Regulated Financial Activity](https://watcher.guru/news/uk-passes-bill-recognizing-crypto-as-regulated-financial-activity)
 40. **Crypto Adaption**: J. Biden will gegen Bitcoin und Co vorgehen bezüglich "Tax Loopholes": [Tweet](https://twitter.com/BTC_Archive/status/1674473436280659978?s=20)
+41. **Twitter Gezwitscher**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1674490612437905428?s=20) einige Überlegungen zu Quantenmechanik und  macht die Aussage, dass die IF "the most efficient replicated state machine protocol" gerade baut
+42. 
