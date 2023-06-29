@@ -26,3 +26,5 @@
 24. **IOTA Dev**: [Research Update: Protocol group, Weeks 25-26 #81](https://github.com/iotaledger/research-updates/discussions/81)
 25. **IOTA Youtube**: von Mind Crypto: [IOTA $5 TRILLION MARKET](https://www.youtube.com/watch?v=7IeX_vlDZZU)
 26. **Crypto Adaption**: Microstrategie hat schon wieder 12333 BTC gekauft: [Tweet](https://twitter.com/BTC_Archive/status/1674076328226635778?s=20)
+27. **IOTA Youtube**: von TangleGang: [Interview mit TangleBeasts vom 16.06.23](https://www.youtube.com/watch?v=Rmhf6QTNuFU)
+28. **IOTA Youtube**: von Probably Nothing: [Zentralbanken von IOTA und Shimmer begeistert - IOTA und Shimmer News](https://www.youtube.com/watch?v=vJK3jbPi5ks&t=8s)
