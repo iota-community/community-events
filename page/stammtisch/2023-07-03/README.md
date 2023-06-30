@@ -30,7 +30,7 @@
 28. **IOTA Youtube**: von Probably Nothing: [Zentralbanken von IOTA und Shimmer begeistert - IOTA und Shimmer News](https://www.youtube.com/watch?v=vJK3jbPi5ks&t=8s)
 29. **Crypto Adaption**: Artikel: [Mastercard startet Multi-Token-Netzwerk](https://www.btc-echo.de/schlagzeilen/mastercard-startet-multi-token-netzwerk-166792/)
 30. **Crypto Adaption**: Artikel: [BaFin verwehrt Binance die Lizenz in Deutschland Vor knapp einem Jahr beantragt – jetzt verwehrt: Die Bafin erteilt Binance eine Abfuhr. Die weltweit größte Krypto-Börse verliert den Einfluss in Deutschland](https://www.btc-echo.de/schlagzeilen/bafin-verwehrt-binance-die-lizenz-in-deutschland-166802/)
-31. **IOTA Youtube**: Video von der TangleCon: [Sebastian Weber - DLT meets Insustry](https://www.youtube.com/watch?v=Ab4ftyxyRas)
+31. **IOTA Youtube**: 2 neue Videos von der TangleCon: [Sebastian Weber - DLT meets Insustry](https://www.youtube.com/watch?v=Ab4ftyxyRas); [Yücel Homan - Mosquito Pay](https://www.youtube.com/watch?v=RhfD2YDtZbg&t=5s)
 32. **Shimmer EVM**: Es gab ein wasp Update: [v0.7.0-alpha.2](https://github.com/iotaledger/wasp/releases/tag/v0.7.0-alpha.2)
 33. **IOTA Youtube Event**: [BlockchainLab Drenthe tweetet](https://twitter.com/BclDrenthe/status/1674360015749099520?s=20) über [Ein Online Event](https://www.youtube.com/watch?v=lHWOpfeXBKY)
 34. **IOTA Ökosystem**: Akkodis und [Cardery](https://twitter.com/CarderyGmbH) arbeiten zusammen: [Tweet von Sebastian Weber](https://twitter.com/Sebasti65365174/status/1674392877911232514?s=20); [Tweet von Cardery](https://twitter.com/CarderyGmbH); [Tweet von Dark Mythos](https://twitter.com/DarkMythosIOTA/status/1674398357769289728?s=20)
@@ -47,3 +47,4 @@
 45. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1674719435716788229?s=20) über den Artikel: [SwissOne launches ecosystem fund for IOTA and Shimmer](https://coinjournal.net/news/swissone-launches-ecosystem-fund-for-iota-and-shimmer/)
 46. IOTA Ökosystem**: [swarmlogistics tweetet](https://twitter.com/SwarmLogistics/status/1674686154031919104?s=20) von dem Artikel: [2023 Top 20 Hottest Robotics Startups in Germany](https://statzon.com/blog/top-15-early-state-robotics-startups-in-germany)
 47. **IOTA Audio**: [Susanne Krote](https://twitter.com/SusanneKrone) war zu Gast bei der [TangleGang](https://twitter.com/GangTangleTalk): [Tweet](https://twitter.com/GangTangleTalk/status/1674741662847840260?s=20)
+48. **IOTA Science**: [Stfano Della Valle](https://twitter.com/sdellava) weist auf ein neues Paper hin mit IOTA inside: [dRAIN: A distributed Reliable Architecture for IoT Networks](https://ieeexplore.ieee.org/document/10168197); Erstellt vondem Team von [cyronclad.com/](https://cyronclad.com/)
