@@ -49,3 +49,4 @@
 47. **IOTA Audio**: [Susanne Krote](https://twitter.com/SusanneKrone) war zu Gast bei der [TangleGang](https://twitter.com/GangTangleTalk): [Tweet](https://twitter.com/GangTangleTalk/status/1674741662847840260?s=20)
 48. **IOTA Science**: [Stfano Della Valle](https://twitter.com/sdellava) weist auf ein neues Paper hin mit IOTA inside: [dRAIN: A distributed Reliable Architecture for IoT Networks](https://ieeexplore.ieee.org/document/10168197); Erstellt vondem Team von [cyronclad.com/](https://cyronclad.com/)
 49. **Crypto Drama**: Artikel: [SEC Says Spot Bitcoin ETF Filings are Inadequate](https://watcher.guru/news/sec-says-spot-bitcoin-etf-filings-are-inadequate) -> Und BTC diped gleich um 3%
+50. **Shimmer EVM**: [Shimmer verkündet](https://twitter.com/shimmernet/status/1674785373380292612?s=20) offiziell, dass das Shimmer EVM Testnetz upgedated wurde
