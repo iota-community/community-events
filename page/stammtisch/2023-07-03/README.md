@@ -48,3 +48,4 @@
 46. IOTA Ökosystem**: [swarmlogistics tweetet](https://twitter.com/SwarmLogistics/status/1674686154031919104?s=20) von dem Artikel: [2023 Top 20 Hottest Robotics Startups in Germany](https://statzon.com/blog/top-15-early-state-robotics-startups-in-germany)
 47. **IOTA Audio**: [Susanne Krote](https://twitter.com/SusanneKrone) war zu Gast bei der [TangleGang](https://twitter.com/GangTangleTalk): [Tweet](https://twitter.com/GangTangleTalk/status/1674741662847840260?s=20)
 48. **IOTA Science**: [Stfano Della Valle](https://twitter.com/sdellava) weist auf ein neues Paper hin mit IOTA inside: [dRAIN: A distributed Reliable Architecture for IoT Networks](https://ieeexplore.ieee.org/document/10168197); Erstellt vondem Team von [cyronclad.com/](https://cyronclad.com/)
+49. **Crypto Drama**: Artikel: [SEC Says Spot Bitcoin ETF Filings are Inadequate](https://watcher.guru/news/sec-says-spot-bitcoin-etf-filings-are-inadequate) -> Und BTC diped gleich um 3%
