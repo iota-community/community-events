@@ -41,4 +41,5 @@
 39. **Crypto Adaption**: Artikel: [UK Passes Bill Recognizing Crypto as Regulated Financial Activity](https://watcher.guru/news/uk-passes-bill-recognizing-crypto-as-regulated-financial-activity)
 40. **Crypto Adaption**: J. Biden will gegen Bitcoin und Co vorgehen bezüglich "Tax Loopholes": [Tweet](https://twitter.com/BTC_Archive/status/1674473436280659978?s=20)
 41. **Twitter Gezwitscher**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1674490612437905428?s=20) einige Überlegungen zu Quantenmechanik und  macht die Aussage, dass die IF "the most efficient replicated state machine protocol" gerade baut
-42. 
+42. **Crypto Adaption**: [Mariana de la Roche retweetet den INATBA Tweet](https://twitter.com/Marianadlrw/status/1674672310584786945?s=20) über das [BC100+ Manifesto](https://bc100plus.org/) ("BC100+ is an initiative that brings together a variety of organizations across different sectors. The initiative’s main goal is to raise awareness about the potential of blockchain for social impact and sustainability")
+43. **Crypto Adaption**: Artikel: [Fidelity joins the rush for a bitcoin ETF, following BlackRock, Ark Invest and others](https://www.cnbc.com/2023/06/29/fidelity-joins-the-rush-for-a-bitcoin-etf-following-blackrock-ark-invest-and-others.html)
