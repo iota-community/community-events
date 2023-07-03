@@ -59,3 +59,4 @@
 57. **IOTA Audio**: von [Blockbytes](https://twitter.com/blockbytescom): [Shimmer Community Twitter Space w/ @ShimmerSeaDEX & @iotapes](https://twitter.com/blockbytescom/status/1675099459452125184?s=20)
 58. **Allgemeine News**: Randale in Frankreich... [Tweet](https://twitter.com/SILVERF26971227/status/1675753551174287360?s=20)
 59. **IOTA Wochenrückblick**: Iotatalks [Wocherückblick](https://www.iota-talk.com/index.php?article/302-wochenr%C3%BCckblick-vom-25-juni-bis-1-juli-2023/)
+60. **IOTA News Zusammenfassung**: Ein [Thread von Infiota](https://twitter.com/infiota/status/1675774129729880064?s=20) über die IOTA und Shimmer News der letzten Wochen
