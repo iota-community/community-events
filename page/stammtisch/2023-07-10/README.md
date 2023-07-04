@@ -6,4 +6,11 @@ IOTA Stammtischthemen für Montag, den 10.7.2023
 4. **IOTA Blogpost**: Die [IF tweetet](https://twitter.com/iota/status/1675851896974721029?s=20) über den [Q2 2023 Progress Report](https://blog.iota.org/q2-2023-progress-report/)
 5. **IOTA Audio**: Bivreost Twitter Spaces: [Shimmer Community Twitter Space w/ @ShimmerSeaDEX & @iotapes](https://twitter.com/blockbytescom/status/1675099459452125184?s=20)
 6. **IOTA Ökosystem**: Neue Shimmer Challenge bei Cryptochefs: [Tweet](https://twitter.com/cryptochefs_io/status/1675911842084925460?s=20)
-7. 
+7. **IOTA Research Update**: [Protocol group, Week 27 2023 #82](https://github.com/iotaledger/research-updates/discussions/82)
+8. **IOTA Stammtisch**: Am Freitag war [IOTA Stammtisch in München](https://www.meetup.com/de-DE/iota-muc/events/293941606/?_xtd=gqFyqTI1MTYxMTc1MKFwo2FwaQ%253D%253D&from=ref) 
+9. **Shimmer EVM**: Es gab mehrere wasp Releases: [iotaledger/wasp](https://github.com/iotaledger/wasp/releases); Und scheinbar läuft sie jetzt: [Tweet](https://twitter.com/Vrom14286662/status/1676262989266145282?s=20)
+10. **Shimmer Ökosystem**: [Tanglepay tweetet](https://twitter.com/tanglepaycom/status/1676080073689161728?s=20) darüber, dass sie weitere dApps integrieren wollen. Man soll sich bei ihnen melden wenn man Developer ist
+11. **IOTA Event**: Mariana de la Roche war mal wieder bei einem Regierungs Event: [Tweet](https://twitter.com/Marianadlrw/status/1676287839862923264?s=20)
+12. **IOTA Ökosystem**: [Jumbo Blocks] haben ein Pilotprojekt (35000qm) vor und haben sich dazu mit dem Minister von Bosnien Herzegowina getroffen. [Die TangleGang weiß dazu offenbar mehr: [Tweet 1](https://twitter.com/GangTangleTalk/status/1676148377841434624?s=20); [Tweet 2](https://twitter.com/GangTangleTalk/status/1676167115638808576?s=20); [Tweet 3](https://twitter.com/GangTangleTalk/status/1676220687755755523?s=20)
+13. **Twitter Hype**: Ein Patent ([COMMUNICATION NETWORK NODE, METHOD, COMMUNICATION NETWORK, TERMINAL DEVICE](https://worldwide.espacenet.com/patent/search/family/079283117/publication/WO2023111110A1?q=pn%3DWO2023111110A1)) von Sony wird von [Wonderer geteilt](https://twitter.com/Wondere12985276/status/1676298440488153091?s=20), in dem u.a. IOTA erwähnt wird
+14. 
