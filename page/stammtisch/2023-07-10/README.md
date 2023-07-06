@@ -16,3 +16,5 @@ IOTA Stammtischthemen für Montag, den 10.7.2023
 14. **Tangle Treasury**: Die [Tangle Community Tresury tweetet](https://twitter.com/TangleTreasury/status/1676623511375446017?s=20) über den [Tangle Community Tresury Q1 Report](https://drive.google.com/file/d/1X8dOfMP9PU-P5n8gqkEbUV8O6hkCZMe-/view?usp=sharing)
 15. **Twitter Drama**: Da hab ich wohl ins Bitcoin ins Wespennest gestochen... [Tweet](https://twitter.com/bitcoin_hotel/status/1676523419087585284?s=20)
 16. **Crypto Adaption**: Der CEO von Blackrock äußert sich positiv über Crypto und Bitcoin: [Tweet](https://twitter.com/WatcherGuru/status/1676685754922151941?s=20)
+17. **IOTA NFT Ökosystem**: Bei IOTAHeroes gab es ein Update und bei Tanglepay kann man seine NFTs jetzt mergen
+18. 
