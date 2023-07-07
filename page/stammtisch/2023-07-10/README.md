@@ -17,4 +17,12 @@ IOTA Stammtischthemen für Montag, den 10.7.2023
 15. **Twitter Drama**: Da hab ich wohl ins Bitcoin ins Wespennest gestochen... [Tweet](https://twitter.com/bitcoin_hotel/status/1676523419087585284?s=20)
 16. **Crypto Adaption**: Der CEO von Blackrock äußert sich positiv über Crypto und Bitcoin: [Tweet](https://twitter.com/WatcherGuru/status/1676685754922151941?s=20)
 17. **IOTA NFT Ökosystem**: Bei IOTAHeroes gab es ein Update und bei Tanglepay kann man seine NFTs jetzt mergen
-18. 
+18. **IOTA Youtube**: von der IOTA Foundation: [IOTA Community Regulation Call 5/07/2023: Reverse Solicitation under MiCA](https://www.youtube.com/watch?v=GjsB8MBz3U8)
+19. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1677235681167306752?s=20) über den Artikel: [7 Sustainable Cryptocurrencies That Are Much Greener Than Bitcoin](https://www.makeuseof.com/sustainable-cryptocurrencies-greener-bitcoin/)
+20. **Crypto Drama**: Multichain wurde gehacked: [Tweet 1 von Multichain](https://twitter.com/MultichainOrg/status/1677096839731097600?s=20); [Tweet 2 von Multichain](https://twitter.com/MultichainOrg/status/1677180114227056641?s=20)
+21. **IOTA Adaption**: [Benjamin Böhnisch tweetet](https://twitter.com/BenBoenisch/status/1677081467661307904?s=20) über ein Event (Stallwächterparty. e-mobil BW) auf dem sie den smarten Leitpfosten vom Projekt [alfried](https://twitter.com/alfried_fn) vorgestellt haben. Scheinbar war das Interesse von Regierungsvertretern enorm
+22. **IOTA Govern**: Ein [Thread von der Tangle Community Treasury](https://twitter.com/TangleTreasury/status/1676994676942045184?s=20) über das Layer 2 Voting das es in Zukunft geben wird. Sie wollen, dass man abstimmt ([Hier](https://twitter.com/TangleTreasury/status/1676994692649746432?s=20)) wie die Gelder zukünftig verwaltet werden sollen
+23. **IOTA Artikel**: [NakamaLabs tweetet](https://twitter.com/Nakama_Labs/status/1676923972284194816?s=20) über ihr AMA und verlinken die Zusammenfassung: [Recap of Our Recent AMA in the Chinese Telegram Group IOTAmoon](https://medium.com/@NakamaLabs/recap-of-our-recent-ama-in-the-chinese-telegram-group-iotamoon-df82e7e08922)
+24. **IOTA Event**: [Regine tweetet](https://twitter.com/Energine/status/1676977174358683648?s=20) von einem [Deep Tech Belin](https://twitter.com/deeptechberlin) Event, in dem sie in der Jury saß zum Thema Blockchain & web3 und es 10K zu gewinnen gab
+25. **IOTA Youtube**: von Whaales of Wallstreet: [IOTA (MIOTA) | EU AI Law & Biometric implementation, Shimmer Upgrade & Chart Update](https://www.youtube.com/watch?v=9fOQtUex8ws)(https://www.youtube.com/watch?v=9fOQtUex8ws) 
+26. 
