@@ -27,3 +27,5 @@ IOTA Stammtischthemen für Montag, den 10.7.2023
 25. **IOTA Youtube**: von Whaales of Wallstreet: [IOTA (MIOTA) | EU AI Law & Biometric implementation, Shimmer Upgrade & Chart Update](https://www.youtube.com/watch?v=9fOQtUex8ws)(https://www.youtube.com/watch?v=9fOQtUex8ws) 
 26. **IOTA Artikel**: Neue [Tangleverse](https://twitter.com/TangleverseWeb) Times: [The Dog Days of Shimmer](https://www.times.tangleverse.io/dog-days-of-shimmer/)
 27. **IOTA Ökosystem**: [Deepr Finance tweetet](https://twitter.com/DeeprFinance/status/1677316169823318022?s=20) über ihre Tokenomics: [Deepr Finance Tokenomics](https://medium.com/@Deepr.Finance/deepr-finance-tokenomics-36555abc721b)
+28. **IOTA Youtube**: von der IOTA Foundation: [IOTA Community Regulation Call 5/07/2023: Reverse Solicitation under MiCA](https://www.youtube.com/watch?v=GjsB8MBz3U8)
+29. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1677618534199730176?s=20) über den Artikel von yahoo.finance: [SwissOne Launches First-ever Fund to Support the Shimmer and IOTA Ecosystems](https://finance.yahoo.com/news/swissone-launches-first-ever-fund-120000615.html)
