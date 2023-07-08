@@ -29,3 +29,6 @@ IOTA Stammtischthemen für Montag, den 10.7.2023
 27. **IOTA Ökosystem**: [Deepr Finance tweetet](https://twitter.com/DeeprFinance/status/1677316169823318022?s=20) über ihre Tokenomics: [Deepr Finance Tokenomics](https://medium.com/@Deepr.Finance/deepr-finance-tokenomics-36555abc721b)
 28. **IOTA Youtube**: von der IOTA Foundation: [IOTA Community Regulation Call 5/07/2023: Reverse Solicitation under MiCA](https://www.youtube.com/watch?v=GjsB8MBz3U8)
 29. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1677618534199730176?s=20) über den Artikel von yahoo.finance: [SwissOne Launches First-ever Fund to Support the Shimmer and IOTA Ecosystems](https://finance.yahoo.com/news/swissone-launches-first-ever-fund-120000615.html)
+30. **Fiat News**: Die BRICS Staaten wollen scheinbar eine Gold gedeckte neue Währung einführung: [Tweet](https://twitter.com/hoss_crypto/status/1677629265636884483?s=20)
+31. **IOTA Promote**: [CryptoReview bewertet](https://twitter.com/CryptoReviewing/status/1677734048242827267?s=20) IOTA mit 9,3 von 10 Punkten
+32. 
