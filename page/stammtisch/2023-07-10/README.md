@@ -31,4 +31,4 @@ IOTA Stammtischthemen für Montag, den 10.7.2023
 29. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1677618534199730176?s=20) über den Artikel von yahoo.finance: [SwissOne Launches First-ever Fund to Support the Shimmer and IOTA Ecosystems](https://finance.yahoo.com/news/swissone-launches-first-ever-fund-120000615.html)
 30. **Fiat News**: Die BRICS Staaten wollen scheinbar eine Gold gedeckte neue Währung einführung: [Tweet](https://twitter.com/hoss_crypto/status/1677629265636884483?s=20)
 31. **IOTA Promote**: [CryptoReview bewertet](https://twitter.com/CryptoReviewing/status/1677734048242827267?s=20) IOTA mit 9,3 von 10 Punkten
-32. 
+32. **IOTA Youtube**: von Mind Crypto: [IOTA / Is 49 Possible in 2025?](https://www.youtube.com/watch?v=B2xz9Y66VR4)
