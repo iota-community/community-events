@@ -32,6 +32,8 @@ IOTA Stammtischthemen für Montag, den 10.7.2023
 30. **Fiat News**: Die BRICS Staaten wollen scheinbar eine Gold gedeckte neue Währung einführung: [Tweet](https://twitter.com/hoss_crypto/status/1677629265636884483?s=20)
 31. **IOTA Promote**: [CryptoReview bewertet](https://twitter.com/CryptoReviewing/status/1677734048242827267?s=20) IOTA mit 9,3 von 10 Punkten
 32. **IOTA Youtube**: von Mind Crypto: [IOTA / Is 49 Possible in 2025?](https://www.youtube.com/watch?v=B2xz9Y66VR4)
-33. **Allg. Crypto News**: Der Blocktrainer hat geheiratet: [Tweet](https://twitter.com/RomanReher/status/1677944976439664641?s=20)
+33. **Allg. Crypto News**: Der Blocktrainer hat geheiratet: [Tweet](https://twitter.com/RomanReher/status/1677944976439664641?s=20); [Tweet mit Bildern](https://twitter.com/BitcoinDebbi/status/1677942883213533185?s=20)
 34. **Real World Drama**: Artikel: [Transgender-Erfolg bei Miss-Wahl: Die schönste Frau der Niederlande ist ein Mann](https://exxpress.at/transgender-erfolg-bei-miss-wahl-die-schoenste-frau-der-niederlande-ist-ein-mann/)
 35. **IOTA Adaption**: [SkyllaDB tweetet](https://twitter.com/ScyllaDB/status/1678056631265816576?s=20) über [How IOTA Uses Distributed Ledgers and ScyllaDB for Supply Chain Digitization](https://www.scylladb.com/2023/02/09/how-iota-uses-distributed-ledgers-and-scylladb-for-supply-chain-digitization/?utm_medium=social%20media%20-%20organic&utm_source=twitter&utm_term=b)
+36. **Shimmer Promote**: [Everything Tangle tweetet](https://twitter.com/allthingstangle/status/1677862097210982400?s=20) über ein neues [Video zu Thema EVM](https://twitter.com/allthingstangle/status/1677862107440881666?s=20)
+37. **Twitter Gezwitscher**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1678127381075185665?s=20) über ein "faszinierendes Paper": [Evolution of a minimal cell](https://www.nature.com/articles/s41586-023-06288-x)
