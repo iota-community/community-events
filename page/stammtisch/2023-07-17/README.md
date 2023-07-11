@@ -7,3 +7,4 @@
 5. **IOTA NFT Ökosystem**: [Snip Universe tweetet](https://twitter.com/snippool/status/1678670656655728640?s=20) über ihr neues Lightpaper: [Snip Universe Lightpaper](https://medium.com/@snippool/snip-universe-lightpaper-93ca5d77e777); Hier noch ein [Retweet von IotaOrigin](https://twitter.com/origin_iota/status/1678675602344222720?s=20) dazu
 6. **IOTA Youtube**: von Blockbytes: [How To Mint MEME COINS On Shimmer!](https://twitter.com/origin_iota/status/1678675602344222720?s=20)
 7. **Crypto Drama**: Artikel: [Revolut Faces $20 Million Loss as Attackers Exploit Payment System Weakness](https://thehackernews.com/2023/07/hackers-steal-20-million-by-exploiting.html)
+8. **Shimmer EVM**: wasp Release: [v0.7.0-alpha.7](https://github.com/iotaledger/wasp/releases)
