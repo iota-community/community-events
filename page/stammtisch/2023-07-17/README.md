@@ -8,3 +8,8 @@
 6. **IOTA Youtube**: von Blockbytes: [How To Mint MEME COINS On Shimmer!](https://twitter.com/origin_iota/status/1678675602344222720?s=20)
 7. **Crypto Drama**: Artikel: [Revolut Faces $20 Million Loss as Attackers Exploit Payment System Weakness](https://thehackernews.com/2023/07/hackers-steal-20-million-by-exploiting.html)
 8. **Shimmer EVM**: wasp Release: [v0.7.0-alpha.7](https://github.com/iotaledger/wasp/releases)
+9. **IOTA Youtube**: von Probably Nothing: [The Great Reset - Der Tag an dem das Netzwerk erblüht - IOTA und Shimmer News](https://www.youtube.com/watch?v=k3S6-9Y0x9g)
+10. **IOTA Artikel**: [Swiss Capital tweetet](https://twitter.com/Swissonecapital/status/1678775186689228800?s=20) über den Artikel: [SwissOne Launches First-ever Fund to Support the Shimmer and IOTA Ecosystems](https://techpope.com/swissone-launches-first-ever-fund-to-support-the-shimmer-and-iota-ecosystems/)
+11. **Crypto Adaption**: Artikel: [Finanzgigant Vanguard baut Engagement im Bitcoin Mining aus: Mehr als 500 Millionen USD!](https://www.blocktrainer.de/vanguard-baut-bitcoin-mining-aus/)
+12. **Web40 Adaption**: Die [EU tweetet](https://twitter.com/DigitalEU/status/1678764358372044801?s=20) über ihre Presse Mitteilung: [Towards the next technological transition: Commission presents EU strategy to lead on Web 4.0 and virtual worlds](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_3718)
+13. 
