@@ -18,4 +18,6 @@
 16. **IOTA Firefly**: Es gibt ein neues Pre-Release: [Firefly Desktop 2.1.4 Alpha 1](https://github.com/iotaledger/firefly/releases)
 17. **IOTA Artikel**: von ETh News: [Congestion-Free Future: IOTA-Core Update Brings Revolutionary Features for a Seamless Network Experience](https://www.ethnews.com/congestion-free-future-iota-core-update-brings-revolutionary-features-for-a-seamless-network-experience/)
 18. **IOTA Youtube**: von Mind Crypto: [IOTA | PRIME POSITION](https://www.youtube.com/watch?v=xX9i8dufoTw)
-19. 
+19. **IOTA Youtube**: von Common Sense Crypto: [IOTA EXPANSION & NEWS IOTA & DIGITAL IDS PEOPLE FINALLY WAKING UP MIOTA, XINFIN & DIGITAL TRADE](https://www.youtube.com/watch?v=bcW8yI012zU)
+20. **IOTA Youtube**: von der TangleGang: [Interview mit Odin von TangleSwap vom 06.07.23](https://www.youtube.com/watch?v=znzw0Ua-yrY)
+21. 
