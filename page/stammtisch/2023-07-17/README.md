@@ -20,4 +20,4 @@
 18. **IOTA Youtube**: von Mind Crypto: [IOTA | PRIME POSITION](https://www.youtube.com/watch?v=xX9i8dufoTw)
 19. **IOTA Youtube**: von Common Sense Crypto: [IOTA EXPANSION & NEWS IOTA & DIGITAL IDS PEOPLE FINALLY WAKING UP MIOTA, XINFIN & DIGITAL TRADE](https://www.youtube.com/watch?v=bcW8yI012zU)
 20. **IOTA Youtube**: von der TangleGang: [Interview mit Odin von TangleSwap vom 06.07.23](https://www.youtube.com/watch?v=znzw0Ua-yrY)
-21. 
+21. **Firefly Dev**: Es gab ein Announcement, dass die Firefly Mobile App nur noch privat weiter entwickelt wird. Die IF will sich nur noch um die Desktop Variante kümmern: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1679121056269836294?s=20)
