@@ -12,4 +12,8 @@
 10. **IOTA Artikel**: [Swiss Capital tweetet](https://twitter.com/Swissonecapital/status/1678775186689228800?s=20) über den Artikel: [SwissOne Launches First-ever Fund to Support the Shimmer and IOTA Ecosystems](https://techpope.com/swissone-launches-first-ever-fund-to-support-the-shimmer-and-iota-ecosystems/)
 11. **Crypto Adaption**: Artikel: [Finanzgigant Vanguard baut Engagement im Bitcoin Mining aus: Mehr als 500 Millionen USD!](https://www.blocktrainer.de/vanguard-baut-bitcoin-mining-aus/)
 12. **Web40 Adaption**: Die [EU tweetet](https://twitter.com/DigitalEU/status/1678764358372044801?s=20) über ihre Presse Mitteilung: [Towards the next technological transition: Commission presents EU strategy to lead on Web 4.0 and virtual worlds](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_3718)
-13. 
+13. **IOTA NFT Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1679018890024878080?s=20), dass [EpochZero](https://twitter.com/Epoch_0) 20T EUR in Soon Token erhält und damit die ersten sind, die von dem Soon Community BUILDers Fund profitieren
+14. **IOTA Ökosystem**: [BUILD_5 tweetet](https://twitter.com/build5tech/status/1679002286528536577?s=20) über einen neuen Mitarbeiter im Advisory Board
+15. **IOTA Ökosystem**: [Mat Yager](https://twitter.com/Mat_Yarger) hat etwas über sein Spin-Off "[Demia](https://twitter.com/_Demia)" im Discrod geschrieben: [Tweet mit Screenshot](https://twitter.com/MoonacoPodcast/status/1679001524771356673?s=20)
+16. **IOTA Firefly**: Es gibt ein neues Pre-Release: [Firefly Desktop 2.1.4 Alpha 1](https://github.com/iotaledger/firefly/releases)
+17. 
