@@ -16,4 +16,5 @@
 14. **IOTA Ökosystem**: [BUILD_5 tweetet](https://twitter.com/build5tech/status/1679002286528536577?s=20) über einen neuen Mitarbeiter im Advisory Board
 15. **IOTA Ökosystem**: [Mat Yager](https://twitter.com/Mat_Yarger) hat etwas über sein Spin-Off "[Demia](https://twitter.com/_Demia)" im Discrod geschrieben: [Tweet mit Screenshot](https://twitter.com/MoonacoPodcast/status/1679001524771356673?s=20)
 16. **IOTA Firefly**: Es gibt ein neues Pre-Release: [Firefly Desktop 2.1.4 Alpha 1](https://github.com/iotaledger/firefly/releases)
-17. 
+17. **IOTA Artikel**: von ETh News: [Congestion-Free Future: IOTA-Core Update Brings Revolutionary Features for a Seamless Network Experience](https://www.ethnews.com/congestion-free-future-iota-core-update-brings-revolutionary-features-for-a-seamless-network-experience/)
+18. 
