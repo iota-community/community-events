@@ -15,9 +15,20 @@
 13. **IOTA NFT Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1679018890024878080?s=20), dass [EpochZero](https://twitter.com/Epoch_0) 20T EUR in Soon Token erhält und damit die ersten sind, die von dem Soon Community BUILDers Fund profitieren
 14. **IOTA Ökosystem**: [BUILD_5 tweetet](https://twitter.com/build5tech/status/1679002286528536577?s=20) über einen neuen Mitarbeiter im Advisory Board
 15. **IOTA Ökosystem**: [Mat Yager](https://twitter.com/Mat_Yarger) hat etwas über sein Spin-Off "[Demia](https://twitter.com/_Demia)" im Discrod geschrieben: [Tweet mit Screenshot](https://twitter.com/MoonacoPodcast/status/1679001524771356673?s=20)
-16. **IOTA Firefly**: Es gibt ein neues Pre-Release: [Firefly Desktop 2.1.4 Alpha 1](https://github.com/iotaledger/firefly/releases)
+16. **IOTA Firefly**: Es gibt zwei neue Pre-Releases: [Firefly Desktop 2.1.4 Alpha 1](https://github.com/iotaledger/firefly/releases); [Firefly Desktop 2.1.4 Beta 1](https://github.com/iotaledger/firefly/releases/tag/desktop-2.1.4-beta-1)
 17. **IOTA Artikel**: von ETh News: [Congestion-Free Future: IOTA-Core Update Brings Revolutionary Features for a Seamless Network Experience](https://www.ethnews.com/congestion-free-future-iota-core-update-brings-revolutionary-features-for-a-seamless-network-experience/)
 18. **IOTA Youtube**: von Mind Crypto: [IOTA | PRIME POSITION](https://www.youtube.com/watch?v=xX9i8dufoTw)
 19. **IOTA Youtube**: von Common Sense Crypto: [IOTA EXPANSION & NEWS IOTA & DIGITAL IDS PEOPLE FINALLY WAKING UP MIOTA, XINFIN & DIGITAL TRADE](https://www.youtube.com/watch?v=bcW8yI012zU)
 20. **IOTA Youtube**: von der TangleGang: [Interview mit Odin von TangleSwap vom 06.07.23](https://www.youtube.com/watch?v=znzw0Ua-yrY)
-21. **Firefly Dev**: Es gab ein Announcement, dass die Firefly Mobile App nur noch privat weiter entwickelt wird. Die IF will sich nur noch um die Desktop Variante kümmern: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1679121056269836294?s=20)
+21. **Firefly Dev**: Es gab ein Announcement, dass die Firefly Mobile App nur noch privat weiter entwickelt wird. Die IF will sich nur noch um die Desktop Variante kümmern: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1679121056269836294?s=20); [Charly Varly tweetet](https://twitter.com/c_varley/status/1679442774423216128?s=20) ein Tag später darüber wie es weitergeht
+22. **Twitter Hype**: [Dom tweetet](https://twitter.com/DomSchiener/status/1679749612196839426?s=20) "Let's make #IOTA the Real Yield ecosystem"
+23. **IOTA Meetup**: in Bern am 8. Augst: [Meistere die IOTA/Shimmer Ethereum Virtual Machine (EVM)](https://www.meetup.com/de-DE/iota-bern/events/294759727/?_xtd=gqFyqTI1MTYxMTc1MKFwo2FwaQ%253D%253D&from=ref)
+24. **Crypto News**: XRP wird nicht als Security bewertet: [Tweet](https://twitter.com/IOHK_Charles/status/1679519335667179520?s=20); Der Token schießt danach 70% in die Höhe
+25. **IOTA Ökosystem**: [Deepr Finance tweetet](https://twitter.com/DeeprFinance/status/1679505932810612736?s=20) über den Blogpost: [Deepr Finance: Building a Strong Foundation and Navigating the DeFi Ocean](https://medium.com/@Deepr.Finance/deepr-finance-building-a-strong-foundation-and-navigating-the-defi-ocean-69d72587f0a3)
+26. **Crypto Adaption**: Artikel: [Europe: First Bitcoin ETF to Go Live After 1 Year Delay](https://watcher.guru/news/europe-first-bitcoin-etf-to-go-live-after-1-year-delay#:~:text=Europe%3A%20First%20Bitcoin%20ETF%20to%20Go%20Live%20After%201%20Year%20Delay)
+27. **IOTA Audio**: Jonas Theis war bei der TangleGang im Sprachchat: [Tweet](https://twitter.com/GangTangleTalk/status/1679429920370376708?s=20); Hier [zwei Tweets](https://twitter.com/Vrom14286662/status/1679719797079064576?s=20) zu einigen Aussagen die gefallen sind
+28. **IOTA 2.0**: Es gab eine interessante Aussage zu IOTA 2.0: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1679474213495644160?s=20) "..we are almost feature complete.."
+29. **Shimmer EVM**: Es gab ein techn. Announcement zur Shimmer EVM von Dave: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1679474958391492612?s=20)
+30. **Crypto Drama**: Neue [Erklärung von Multichain](https://twitter.com/MultichainOrg/status/1679768407628185600?s=20) zu dem Hack; [Linus hat das kommentiert](https://twitter.com/LinusNaumann/status/1679777224537305089?s=20)
+31. 
+32. 
