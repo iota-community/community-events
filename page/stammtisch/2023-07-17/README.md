@@ -30,5 +30,5 @@
 28. **IOTA 2.0**: Es gab eine interessante Aussage zu IOTA 2.0: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1679474213495644160?s=20) "..we are almost feature complete.."
 29. **Shimmer EVM**: Es gab ein techn. Announcement zur Shimmer EVM von Dave: [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1679474958391492612?s=20)
 30. **Crypto Drama**: Neue [Erklärung von Multichain](https://twitter.com/MultichainOrg/status/1679768407628185600?s=20) zu dem Hack; [Linus hat das kommentiert](https://twitter.com/LinusNaumann/status/1679777224537305089?s=20)
-31. 
-32. 
+31. **Shimmer EVM**: Immer mehr Projekte melden, dass man testen kann: [ApeDao tweet](https://twitter.com/iotapes/status/1679972940455059457?s=20); [ZeroSwap tweet](https://twitter.com/ZeroSwapNFT/status/1680170521529315329?s=20); [Deepr.Finance](https://deepr.finance/dashboard) funktioniert auch
+32. **IOTA Artikel**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1679943853024116737?s=20) über den Guestpost auf CoinMarketCap: [Beginner's Guide to DeFi Lending & Borrowing: Part 2](https://coinmarketcap.com/community/articles/64a2812b001de42d52ea97d0/)
