@@ -32,3 +32,8 @@
 30. **Crypto Drama**: Neue [Erklärung von Multichain](https://twitter.com/MultichainOrg/status/1679768407628185600?s=20) zu dem Hack; [Linus hat das kommentiert](https://twitter.com/LinusNaumann/status/1679777224537305089?s=20)
 31. **Shimmer EVM**: Immer mehr Projekte melden, dass man testen kann: [ApeDao tweet](https://twitter.com/iotapes/status/1679972940455059457?s=20); [ZeroSwap tweet](https://twitter.com/ZeroSwapNFT/status/1680170521529315329?s=20); [Deepr.Finance](https://deepr.finance/dashboard) funktioniert auch
 32. **IOTA Artikel**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1679943853024116737?s=20) über den Guestpost auf CoinMarketCap: [Beginner's Guide to DeFi Lending & Borrowing: Part 2](https://coinmarketcap.com/community/articles/64a2812b001de42d52ea97d0/)
+33. **Twitter Gezwitscher**: [Tweet von Hans Moog](https://twitter.com/hus_qy/status/1680612016002674692?s=20)
+34. **IOTA 2.0**: [Tangleverse Times tweetet](https://twitter.com/TangleverseWeb/status/1680538728207466498?s=20) über den [Technical Progress Update June](https://www.times.tangleverse.io/technical-progress-update-june/) von [id.Iota](https://twitter.com/id_iota)
+35. **Shimmer Promote**: [Everything Tangle tweetet](https://twitter.com/allthingstangle/status/1680529265836675075?s=20) über "5 Reasons to build on IOTA"
+36. **Twiiter Hype**: [Tweet mit Screenshots](https://twitter.com/Vrom14286662/status/1680646755015176193?s=20) zu Aussagen von Dom bezüglich UAE
+37. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/306-wochenr%C3%BCckblick-vom-9-bis-15-juli-2023/)
