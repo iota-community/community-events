@@ -9,3 +9,4 @@
 7. **IOTA Event**: Die [IF tweetet](https://twitter.com/iota/status/1681242423068860418?s=20) über das von der IF organisierte Event: "Beyond the Chain: the First Workshop on DAG-based #DLTs" auf dem #BLOCKCHAIN23 Event in Portugal
 8. **IOTA Politik**: Die [IF tweetet](https://twitter.com/iota/status/1680970984625414144?s=20) über ihr gemeinsames Statement zum Data Act: [Joint Statement](https://data-act.info/joint-statement/); [Mariana de la Roche retweetet](https://twitter.com/Marianadlrw/status/1680991133843718146?s=20) und kommentiert das
 9. **Firefly Release**: [Firefly Desktop 2.1.4](https://github.com/iotaledger/firefly/releases/tag/desktop-2.1.4)
+10. **IOTA Youtube**: [Shimmer Community Spaces Ep. 1 | Shimmer EVM Update, Bridges, and More!](https://www.youtube.com/watch?v=FDa9NtZwSCg)
