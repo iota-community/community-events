@@ -12,4 +12,6 @@
 10. **IOTA Youtube**: [Shimmer Community Spaces Ep. 1 | Shimmer EVM Update, Bridges, and More!](https://www.youtube.com/watch?v=FDa9NtZwSCg)
 11. **Crypto Adaption**: Der US Präsidentschaftskandidat [Robert F. Kennedy JR](https://twitter.com/RobertKennedyJr) spricht ausgiebig und positiv über Bitcoin: [Tweet](https://twitter.com/marcfriedrich7/status/1681521145252544512?s=20); Artikel: "BREAKING: Präsidentschaftskandidat Kennedy will den US-Dollar mit Bitcoin (BTC) stützen und die Steuern auf Kryptowährungen in den Vereinigten Staaten abschaffen – könnte dies den Preis auf ein neues Allzeithoch treiben?](https://www.crypto-news-flash.com/de/breaking-presidential-candidate-kennedy-to-back-the-us-dollar-with-bitcoin-btc-and-eliminate-taxes-on-cryptocurrencies-in-the-united-states-could-this-propel-price-to-a-new-all-time-high/?feed_id=20128&_unique_id=64b77adcc26a5)
 12. **Crypto Adaption**: Auf der anderen Seite macht [Greenpeace USA](https://twitter.com/greenpeaceusa) gerade ordentlich Stimmung gegen Bitcoin: [Tweet](https://twitter.com/greenpeaceusa/status/1681325536855879685?s=20); Sie tweeten von "Bitcoin climate destruction"
-13. 
+13. **IOTA Audio**: Luca Moser war am Mittwoch im TangleGang Sprachchat
+14. **Crypto Adaption**: [Build 5 tweetet](https://twitter.com/build5tech/status/1681530274847539200?s=20) über ihren 2. Blogpost: [USE CASES AND APPLICATIONS - BUILD.5, Confidential Computing, and the data privacy revolution. Part 2: The Edge](https://build5.com/blog/cc-edge/)
+15. 
