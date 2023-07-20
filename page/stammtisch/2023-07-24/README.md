@@ -23,4 +23,5 @@
 21. **IOTA Ökosystem**: [Deepr Finance tweetet](https://twitter.com/DeeprFinance/status/1681650495960629250?s=20) über ihren Blogpost: [Deepr Finance and Pyth’s Partnership to Enhance Trust and Efficiency in DeFi’s Lending and Borrowing](https://medium.com/@Deepr.Finance/deepr-finance-and-pyths-partnership-to-enhance-trust-and-efficiency-in-defi-s-lending-and-54246da6d495)
 22. **IOTA Event**: [Luigi tweetet](https://twitter.com/VekkioKonio/status/1681657093198168068?s=20) ein paar Bilder zu dem Workshop-Event "DAG based ledgers..."
 23. **Shimmer EVM**: Neues wasp pre release: [v0.7.0-alpha.9](https://github.com/iotaledger/wasp/releases/tag/v0.7.0-alpha.9)
-24. 
+24. **IOTA Audio**: Linus Nauman war am Donnerstag im [TangleGang](https://twitter.com/GangTangleTalk) Sprachchat am Donnerstag: [Tweet](https://twitter.com/GangTangleTalk/status/1681969688773898240?s=20)
+25. **IOTA Audio**: Es gab am Donnerstag ein Community Governements Meeting im iota Discord: [Tweet](https://twitter.com/shimmernet/status/1681725600371752969?s=20)
