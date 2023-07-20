@@ -25,4 +25,4 @@
 23. **Shimmer EVM**: Neues wasp pre release: [v0.7.0-alpha.9](https://github.com/iotaledger/wasp/releases/tag/v0.7.0-alpha.9)
 24. **IOTA Audio**: Linus Nauman war am Donnerstag im [TangleGang](https://twitter.com/GangTangleTalk) Sprachchat am Donnerstag: [Tweet](https://twitter.com/GangTangleTalk/status/1681969688773898240?s=20)
 25. **IOTA Audio**: Es gab am Donnerstag ein Community Governements Meeting im iota Discord: [Tweet](https://twitter.com/shimmernet/status/1681725600371752969?s=20)
-26. **IOTA Event**: [Kowei tweetet](https://twitter.com/kowei1995/status/1681598613154320384?s=20) von einem Vortrag wo 100 Leute/Developer anwesend waren; Hier der [Youtube Link](https://youtu.be/3Nt6EctggrE)
+26. **IOTA Event**: [Kowei tweetet](https://twitter.com/kowei1995/status/1681598613154320384?s=20) von einem Vortrag wo 100 Leute/Developer anwesend waren; Hier der [Youtube Link: Understanding Blockchain Fundamentals and Beyond](https://youtu.be/3Nt6EctggrE)
