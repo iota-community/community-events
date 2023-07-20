@@ -14,4 +14,4 @@
 12. **Crypto Adaption**: Auf der anderen Seite macht [Greenpeace USA](https://twitter.com/greenpeaceusa) gerade ordentlich Stimmung gegen Bitcoin: [Tweet](https://twitter.com/greenpeaceusa/status/1681325536855879685?s=20); Sie tweeten von "Bitcoin climate destruction"
 13. **IOTA Audio**: Luca Moser war am Mittwoch im TangleGang Sprachchat
 14. **Crypto Adaption**: [Build 5 tweetet](https://twitter.com/build5tech/status/1681530274847539200?s=20) über ihren 2. Blogpost: [USE CASES AND APPLICATIONS - BUILD.5, Confidential Computing, and the data privacy revolution. Part 2: The Edge](https://build5.com/blog/cc-edge/)
-15. 
+15. **IOTA Ökosystem**: [Build 5 tweetet](https://twitter.com/build5tech/status/1681895423198502912?s=20) über ihren [](http://build5.com/blog/otr1)
