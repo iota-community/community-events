@@ -15,4 +15,12 @@
 13. **IOTA Audio**: Luca Moser war am Mittwoch im TangleGang Sprachchat
 14. **Crypto Adaption**: [Build 5 tweetet](https://twitter.com/build5tech/status/1681530274847539200?s=20) über ihren 2. Blogpost: [USE CASES AND APPLICATIONS - BUILD.5, Confidential Computing, and the data privacy revolution. Part 2: The Edge](https://build5.com/blog/cc-edge/)
 15. **IOTA Ökosystem**: [Build 5 tweetet](https://twitter.com/build5tech/status/1681895423198502912?s=20) über ihren [Blogpost: USE CASES AND APPLICATIONS - On Tangle Requests (OTRs)](http://build5.com/blog/otr1)
-16. 
+16. **IOTA Ökosystem**: Ein [Soon Tweet von Nakama Labs](https://twitter.com/Nakama_Labs/status/1681729049360515072?s=20) ein Tag vor dem Announcement:
+17. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1681639622936350720?s=20) über [DeFi Horizons: Convergence of Regulators, Industry, and Academia](https://www.eublockchainforum.eu/news/defi-horizons-convergence-regulators-industry-and-academia). Es wurde ein 10 seitiger Report erstellt: [Defi Horizons Convergence of Regulators, Industry, and Academia](https://www.eublockchainforum.eu/sites/default/files/reports/Defi_Horizons_Convergence_of_Regulators%2C_Industry_and_Academia.pdf)
+18. **IOTA Ökosystem**: Es gab ein [Soon-Tweet von Mosquito Pay](https://twitter.com/MosquitoPay/status/1681724074051944450?s=20) zu einer ersten Alpha Version von ihrem ersten Produkt
+19. **Crypto Drama**: Gerry Gensler musst zum FTX Skandal aussagen: [Tweet](https://twitter.com/NerdNationUnbox/status/1681758427301683206?s=20)
+20. **Crypto Adaption**: Die drittgrößte französische Bank "Societe Generale" lässt offenbar Bitcoinhandel für ihre Kunden zu: [Tweet](https://twitter.com/BitcoinMagazine/status/1681644983999143937?s=20)
+21. **IOTA Ökosystem**: [Deepr Finance tweetet](https://twitter.com/DeeprFinance/status/1681650495960629250?s=20) über ihren Blogpost: [Deepr Finance and Pyth’s Partnership to Enhance Trust and Efficiency in DeFi’s Lending and Borrowing](https://medium.com/@Deepr.Finance/deepr-finance-and-pyths-partnership-to-enhance-trust-and-efficiency-in-defi-s-lending-and-54246da6d495)
+22. **IOTA Event**: [Luigi tweetet](https://twitter.com/VekkioKonio/status/1681657093198168068?s=20) ein paar Bilder zu dem Workshop-Event "DAG based ledgers..."
+23. **Shimmer EVM**: Neues wasp pre release: [v0.7.0-alpha.9](https://github.com/iotaledger/wasp/releases/tag/v0.7.0-alpha.9)
+24. 
