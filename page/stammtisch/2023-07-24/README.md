@@ -1,7 +1,7 @@
 ## Stammtischthemen für Montag, den 24.7.2023
 
-1. **IOTA Quicktakes**: Die [IF tweetet]() über die [IOTA Quicktakes 17.07.2023: #EnergieKnip by @BlockchainLabDrenthe, Weekly Governance Meetings & more](https://www.youtube.com/watch?v=NAKuN8-2hQs)
-2. **IOTA Ökosystem**: [Build_5 tweetet](https://twitter.com/build5tech/status/1681179078840442880?s=20) darüber, dass M[ariana de la Roche](https://twitter.com/Marianadlrw) im Board of Advisors aufgenommen wurde; Auch die [IF gratuliert](https://twitter.com/iota/status/1681200975271395328?s=20) dazu und 
+1. **IOTA Quicktakes**: Die [IF tweetet](https://twitter.com/iota/status/1680865015337820161?s=20) über die [IOTA Quicktakes 17.07.2023: #EnergieKnip by @BlockchainLabDrenthe, Weekly Governance Meetings & more](https://www.youtube.com/watch?v=NAKuN8-2hQs)
+2. **IOTA Ökosystem**: [Build_5 tweetet](https://twitter.com/build5tech/status/1681179078840442880?s=20) darüber, dass [Mariana de la Roche](https://twitter.com/Marianadlrw) im Board of Advisors aufgenommen wurde; Auch die [IF gratuliert](https://twitter.com/iota/status/1681200975271395328?s=20) dazu
 3. **IOTA Ökosystem**: [Luigi Vigneri tweetet](https://twitter.com/VekkioKonio/status/1681238732668653568?s=20) darüber, dass ihr Paper "[Managing Write Access without Token Fees in Leaderless DAG-based Ledgers](https://arxiv.org/abs/2307.08627)" beim BLOCKCHAIN Congress 2023 gewonnen hat
 4. **IOTA Audio**: Die [TangleGang tweetet](https://twitter.com/GangTangleTalk/status/1681237553553219586?s=20) über das Interview mit Jonas Theis, das man [auf Spotify](https://podcasters.spotify.com/pod/show/tangle-gang/episodes/Interview-mit-Jonas-Theis-von-der-IF-vom-13-07-23-e271luq) oder [auf Youtube](https://youtu.be/SqHyQmjBBvw) anhören kann
 5. **IOTA Youtube Tutorial**: [How to setup Tanglepay](https://youtu.be/MWfTCRY9ojE)
@@ -21,8 +21,13 @@
 19. **Crypto Drama**: Gerry Gensler musst zum FTX Skandal aussagen: [Tweet](https://twitter.com/NerdNationUnbox/status/1681758427301683206?s=20)
 20. **Crypto Adaption**: Die drittgrößte französische Bank "Societe Generale" lässt offenbar Bitcoinhandel für ihre Kunden zu: [Tweet](https://twitter.com/BitcoinMagazine/status/1681644983999143937?s=20)
 21. **IOTA Ökosystem**: [Deepr Finance tweetet](https://twitter.com/DeeprFinance/status/1681650495960629250?s=20) über ihren Blogpost: [Deepr Finance and Pyth’s Partnership to Enhance Trust and Efficiency in DeFi’s Lending and Borrowing](https://medium.com/@Deepr.Finance/deepr-finance-and-pyths-partnership-to-enhance-trust-and-efficiency-in-defi-s-lending-and-54246da6d495)
-22. **IOTA Event**: [Luigi tweetet](https://twitter.com/VekkioKonio/status/1681657093198168068?s=20) ein paar Bilder zu dem Workshop-Event "DAG based ledgers..."
+22. **IOTA Event**: [Luigi tweetet](https://twitter.com/VekkioKonio/status/1681657093198168068?s=20) ein paar Bilder zu dem Workshop-Event "DAG based ledgers..."; Auch die [IF tweetet](https://twitter.com/iota/status/1681242423068860418?s=20) darüber
 23. **Shimmer EVM**: Neues wasp pre release: [v0.7.0-alpha.9](https://github.com/iotaledger/wasp/releases/tag/v0.7.0-alpha.9)
 24. **IOTA Audio**: Linus Nauman war am Donnerstag im [TangleGang](https://twitter.com/GangTangleTalk) Sprachchat am Donnerstag: [Tweet](https://twitter.com/GangTangleTalk/status/1681969688773898240?s=20)
 25. **IOTA Audio**: Es gab am Donnerstag ein Community Governements Meeting im iota Discord: [Tweet](https://twitter.com/shimmernet/status/1681725600371752969?s=20)
 26. **IOTA Event**: [Kowei tweetet](https://twitter.com/kowei1995/status/1681598613154320384?s=20) von einem Vortrag wo 100 Leute/Developer anwesend waren; Hier der [Youtube Link: Understanding Blockchain Fundamentals and Beyond](https://youtu.be/3Nt6EctggrE)
+27. **IOTA Science**: Die [IF tweetet](https://twitter.com/iota/status/1682087989441093632?s=20) über ein Paper: [Improving Quality of Service for Users of Leaderless DAG-based Distributed Ledgers](https://dl.acm.org/doi/pdf/10.1145/3604942)
+28. **IOTA Youtube**: [Mariana de la Roche tweetet](https://twitter.com/Marianadlrw/status/1681950489955508224?s=20) über [Blockchain Talks: Blockchain for a sustainable future](https://www.youtube.com/watch?v=u_Kf_Q8_0lA)
+29. **IOTA Ökosystem**: [TanglePay sucht](https://twitter.com/tanglepaycom/status/1682275686239862784?s=20) einen Partner, der in 2 Monaten ein IOTA/Shimmer name service anbieten kann
+30. **IOTA Ökosystem**: [Deepr Finance tweetet](https://twitter.com/Virtue_Money/status/1682065648732585998?s=20) über ihr Announcement: [Introducing Virtue: The Stablecoin Borrowing Platform With 0% Interest](https://medium.com/@Virtue_Money/introducing-virtue-the-stablecoin-borrowing-platform-with-0-interest-3c6c23f541b7)
+31. 
