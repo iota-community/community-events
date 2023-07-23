@@ -37,4 +37,4 @@
 35. **IOTA Drama**: Artikel: [Amazon One: Bezahlung per Handfläche wird großflächig eingeführt](https://www.golem.de/news/amazon-one-bezahlung-per-handflaeche-wird-grossflaechig-eingefuehrt-2307-176059.html); Schon bitter wenn man sieht, dass IOTA das schon vor 4 Jahren auf dem Schirm hatte: [iampass live prototype presentation](https://www.youtube.com/watch?v=7Jw29e4ofrU)
 36. **IOTA Stammtisch**: Am Samstag 29.7 in Köln ([Tweet](https://twitter.com/sciascma/status/1682360647172997125?s=20)) und am Freitag 4. August in München ([IOTA München Stammtisch](https://www.meetup.com/iota-muc/events/294828472/))
 37. **Crypto Adaption**: Artikel: [First Bitcoin ETF Ready To Go Live In Europe](https://bitcoinnews.com/first-bitcoin-etf-ready-to-go-live-in-europe/)
-38. 
+38. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/308-wochenr%C3%BCckblick-vom-16-bis-22-juli-2023/)
