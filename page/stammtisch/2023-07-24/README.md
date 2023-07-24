@@ -38,5 +38,6 @@
 36. **IOTA Stammtisch**: Am Samstag 29.7 in Köln: ([Tweet](https://twitter.com/sciascma/status/1682360647172997125?s=20)); Und am Freitag 4. August in München: ([IOTA München Stammtisch](https://www.meetup.com/iota-muc/events/294828472/))
 37. **IOTA Audio**: 2. Twitter Spaces Event von [Blockbytes](https://twitter.com/blockbytescom): [Tweet](https://twitter.com/blockbytescom/status/1683338694499893248?s=20)
 38. **Crypto Adaption**: Artikel: [First Bitcoin ETF Ready To Go Live In Europe](https://bitcoinnews.com/first-bitcoin-etf-ready-to-go-live-in-europe/)
-39. **Twitter Gezwitscher**: Twitter soll wohl bald nur noch X heißen?!? Zumindest wird man von [X.com](x.com) bereits auf Twitter umgeleitet. Außerdem will Elon Musk die Hälfte aller weltweiten Zahlungsströme über X abbilden: [Tweet mit Interview](https://twitter.com/unclesam_001/status/1683370284034801665?s=20) 
-40. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/308-wochenr%C3%BCckblick-vom-16-bis-22-juli-2023/)
+39. **Twitter Gezwitscher**: Twitter soll wohl bald nur noch X heißen?!? Zumindest wird man von [X.com](x.com) bereits auf Twitter umgeleitet. Außerdem will Elon Musk die Hälfte aller weltweiten Zahlungsströme über X abbilden: [Tweet mit Interview](https://twitter.com/unclesam_001/status/1683370284034801665?s=20)
+40. **Crypto News**: Der World Coin ist wohl gestartet: [Tweet von Sam Altman](https://twitter.com/sama/status/1683380241132318720?s=20) dem Gründer von Open Ai; Und hier der [CoFounder Letter](https://worldcoin.org/cofounder-letter)
+41. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/308-wochenr%C3%BCckblick-vom-16-bis-22-juli-2023/)
