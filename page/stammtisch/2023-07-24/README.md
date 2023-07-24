@@ -40,4 +40,5 @@
 38. **Crypto Adaption**: Artikel: [First Bitcoin ETF Ready To Go Live In Europe](https://bitcoinnews.com/first-bitcoin-etf-ready-to-go-live-in-europe/)
 39. **Twitter Gezwitscher**: Twitter soll wohl bald nur noch X heißen?!? Zumindest wird man von [X.com](x.com) bereits auf Twitter umgeleitet. Außerdem will Elon Musk die Hälfte aller weltweiten Zahlungsströme über X abbilden: [Tweet mit Interview](https://twitter.com/unclesam_001/status/1683370284034801665?s=20)
 40. **Crypto News**: Der World Coin ist wohl gestartet: [Tweet von Sam Altman](https://twitter.com/sama/status/1683380241132318720?s=20) dem Gründer von Open Ai; Und hier der [CoFounder Letter](https://worldcoin.org/cofounder-letter); Artikel: [Vom ChatGPT-Erfinder - Worldcoin: Token des Iris-Scan-Projekts launchen auf Binance und Co](https://www.btc-echo.de/schlagzeilen/worldcoin-token-launcht-auf-binance-und-co-168365/)
-41. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/308-wochenr%C3%BCckblick-vom-16-bis-22-juli-2023/)
+41. **Shimmer Promote**: [Cryptonair tweetet](https://twitter.com/cryptochefs_io/status/1683431845252268032?s=20) über die Shimmer Challange 
+42. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/308-wochenr%C3%BCckblick-vom-16-bis-22-juli-2023/)
