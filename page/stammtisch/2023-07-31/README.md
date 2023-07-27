@@ -9,3 +9,6 @@
 7. **IOTA Ökosystem**: [Virtue tweetet](https://twitter.com/Virtue_Money/status/1682746130772238337?s=20) über ein AMA über [Virtue - The Stablecoin Borrowing Platform With 0% Interest](https://medium.com/@Virtue_Money/introducing-virtue-the-stablecoin-borrowing-platform-with-0-interest-3c6c23f541b7)
 8. **Crypto Adaption**: Bulgarien hat mehr Bitcoin als die USA; [Artikel: A SEIZED BITCOIN STACK COULD BE BULGARIA'S GOLDEN TICKET](https://bitcoinmagazine.com/culture/the-future-for-bulgaria-seized-bitcoin)
 9. **Twitter Gezwitscher**: [Dom tweetet](https://twitter.com/DomSchiener/status/1683891556682432522?s=20) über den Artikel: [Gulf Stream could collapse as early as 2025, study suggests](https://www.theguardian.com/environment/2023/jul/25/gulf-stream-could-collapse-as-early-as-2025-study-suggests)
+10. **Twitter Gezwitscher**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1684388380212174849?s=20) über die Gründe warum der iota2.0 MVP aufgegeben zu gunsten der neuen Codebase von iota2.0 aufgegeben wurde
+11. **IOTA Dev Update**: [Protocol group, Weeks 28-30 #83](https://github.com/iotaledger/research-updates/discussions/83)
+12. 
