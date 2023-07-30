@@ -28,3 +28,8 @@
 26. **Twitter Gezwitscher**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1674490612437905428?s=20) einen langen Text in dem es grob um Multiverse geht
 27. **IOTA Ökosystem**: [Beastarts by TangleBeast tweetet](https://twitter.com/tanglebeasts/status/1684959531783053312?s=20) "We are live" über ihre neue NFT Plattform: [https://beastart-store.com/de/pages/testnet](https://beastart-store.com/de/pages/testnet)
 28. **Twitter Hype**: [Bivreost tweetet](https://twitter.com/RodionVikol/status/1684235799137595401?s=20) über "Big things are happening in @bivreost right now, we're going to take #IOTA into the sky." und "2 new large projects will soon appear in the #IOTA ecosystem"
+29. **IOTA Artikel**: Von dem Gespräch von der TangleGang mit Jonas Theis gibt es eine Zusammenfassung: [Tweet](https://twitter.com/GangTangleTalk/status/1685195214950920193?s=20)
+30. **IOTA Youtube**: [27/07/23 IOTA/Shimmer Community Governance meeting #91](https://www.youtube.com/watch?v=QtPdILChlyI)
+31. **IOTA Dev**: Es gab ein neues wasp pre-release: [v0.7.0-alpha.10](https://github.com/iotaledger/wasp/releases/tag/v0.7.0-alpha.10)
+32. **IOTA Dev Update**: [Protocol group, Weeks 28-30 #83](https://github.com/iotaledger/research-updates/discussions/83)
+33. 
