@@ -1,6 +1,6 @@
 ## Stammtischthemen für Montag, den 31.7.2023
 
-1. **IOTA Quicktakes**: Die [IF tweetet](https://twitter.com/iota/status/1683401768250605569?s=20) über die [IOTA Quicktakes]()
+1. **IOTA Quicktakes**: Die [IF tweetet](https://twitter.com/iota/status/1683401768250605569?s=20) über die [IOTA Quicktakes 24.07.2023: @tangle_gang Interview about Mana, Data Act Update & DeFi Report!](https://www.youtube.com/watch?v=uHPgub0dEDc)
 2. **IOTA Ökosystem**: [Build_5 macht einen Thread](https://twitter.com/build5tech/status/1683736793697652736?s=20) über all die positiven Entwicklungen in letzter Zeit bei [Build.5](https://twitter.com/build5tech)
 3. **IOTA Youtube**: von der [TangleGang](https://twitter.com/GangTangleTalk): [Interview Luca Moser - Development Update IOTA L1 Teil 1 19. 07. 23](https://www.youtube.com/watch?v=aOuK2T_52aM)
 4. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1683930120417841158?s=20) über den Guestpost auf CoinmarketCap: [Blog / Tech Deep Dives Q2 2023 Progress Report](https://coinmarketcap.com/community/articles/64a2c779752ef75120c19f3a/)
