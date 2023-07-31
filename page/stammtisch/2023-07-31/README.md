@@ -1,11 +1,11 @@
 ## Stammtischthemen für Montag, den 31.7.2023
 
 1. **IOTA Quicktakes**: Die [IF tweetet](https://twitter.com/iota/status/1683401768250605569?s=20) über die [IOTA Quicktakes]()
-2. **IOTA Ökosystem**: [Build_5 macht einen Thread](https://twitter.com/build5tech/status/1683736793697652736?s=20) über all die positiven Entwicklungen in letzter Zeit bei Build_5
-3. **IOTA Youtube**: von TangleGang: [Interview Luca Moser - Development Update IOTA L1 Teil 1 19. 07. 23](https://www.youtube.com/watch?v=aOuK2T_52aM)
+2. **IOTA Ökosystem**: [Build_5 macht einen Thread](https://twitter.com/build5tech/status/1683736793697652736?s=20) über all die positiven Entwicklungen in letzter Zeit bei [Build.5](https://twitter.com/build5tech)
+3. **IOTA Youtube**: von der [TangleGang](https://twitter.com/GangTangleTalk): [Interview Luca Moser - Development Update IOTA L1 Teil 1 19. 07. 23](https://www.youtube.com/watch?v=aOuK2T_52aM)
 4. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1683930120417841158?s=20) über den Guestpost auf CoinmarketCap: [Blog / Tech Deep Dives Q2 2023 Progress Report](https://coinmarketcap.com/community/articles/64a2c779752ef75120c19f3a/)
 5. **IOTA Ökosystem**: [Christoph Strnadl meldet sich](https://twitter.com/archimate/status/1683951022190764032?s=20) zu dem heise-Artikel: [Silver Lake übernimmt Software AG, nimmt Softwarehaus von der Börse](https://www.heise.de/news/Software-AG-US-Investor-uebernimmt-aeltestes-deutsches-Softwarehaus-9224926.html)
-6. **Allg. News**: Im Congress ging es am Mittwoch um Ufos: [Subcommittee on National Security, the Border, and Foreign Affairs Hearing](https://www.youtube.com/watch?v=KQ7Dw-739VY)
+6. **Allg. News**: Im amerikanischen Kongress ging es am Mittwoch um Ufos: [Subcommittee on National Security, the Border, and Foreign Affairs Hearing](https://www.youtube.com/watch?v=KQ7Dw-739VY); Hier ein [Ausschnitt](https://twitter.com/disclosetv/status/1684234509485473792?s=20), dass es sogar nicht menschliche Körper gibt von abgestürzten UFOs
 7. **IOTA Ökosystem**: [Virtue tweetet](https://twitter.com/Virtue_Money/status/1682746130772238337?s=20) über ein AMA über [Virtue - The Stablecoin Borrowing Platform With 0% Interest](https://medium.com/@Virtue_Money/introducing-virtue-the-stablecoin-borrowing-platform-with-0-interest-3c6c23f541b7)
 8. **Crypto Adaption**: Bulgarien hat mehr Bitcoin als die USA; [Artikel: A SEIZED BITCOIN STACK COULD BE BULGARIA'S GOLDEN TICKET](https://bitcoinmagazine.com/culture/the-future-for-bulgaria-seized-bitcoin)
 9. **Twitter Gezwitscher**: [Dom tweetet](https://twitter.com/DomSchiener/status/1683891556682432522?s=20) über den Artikel: [Gulf Stream could collapse as early as 2025, study suggests](https://www.theguardian.com/environment/2023/jul/25/gulf-stream-could-collapse-as-early-as-2025-study-suggests)
@@ -33,3 +33,7 @@
 31. **IOTA Dev**: Es gab ein neues wasp pre-release: [v0.7.0-alpha.10](https://github.com/iotaledger/wasp/releases/tag/v0.7.0-alpha.10)
 32. **IOTA Dev Update**: [Protocol group, Weeks 28-30 #83](https://github.com/iotaledger/research-updates/discussions/83)
 33. **Crypto Drama**: Artikel: [Alle Altcoins Wertpapiere? SEC: Coinbase sollte alle Coins delisten – außer Bitcoin](https://www.btc-echo.de/schlagzeilen/sec-coinbase-sollte-alle-coins-delisten-ausser-bitcoin-168793/)
+34. **IOTA Drama**: CFB macht sich lustig über IOTA, weil sie noch immer keine smart contracts haben: [Tweet](https://twitter.com/c___f___b/status/1685625295150219266?s=20) und [Eric Wall (mit 130K Followers) kommentiert das](https://twitter.com/ercwl/status/1685630860307877888?s=20)
+35. **Allg. News**: Elon Musk hat "soon" geschrieben: [Tweet](https://twitter.com/elonmusk/status/1685363794090819584?s=20) "Something special coming soon"
+36. **Crypto Adaption**: Artikel: [Two Thirds of World’s Largest Banks Are Crypto-Friendly: Research](https://cryptopotato.com/two-thirds-of-worlds-largest-banks-are-crypto-friendly-research/)
+37. **IOTA Artikel**: Es gab wieder 2 Blockbuilder Artikel: [IOTA: Angeblich News zu Assembly (ASMB) und erneut Zweifel an Finanzen der Stiftung](https://block-builders.de/iota-angeblich-news-zu-assembly-asmb-und-erneut-zweifel-an-finanzen-der-stiftung/), [IOTA: Populärer Entwickler Moog meldet Fortschritte in Sachen Dezentralisierung](https://block-builders.de/iota-populaerer-entwickler-moog-meldet-fortschritte-in-sachen-dezentralisierung/)
