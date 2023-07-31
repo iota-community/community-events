@@ -32,4 +32,4 @@
 30. **IOTA Youtube**: [27/07/23 IOTA/Shimmer Community Governance meeting #91](https://www.youtube.com/watch?v=QtPdILChlyI)
 31. **IOTA Dev**: Es gab ein neues wasp pre-release: [v0.7.0-alpha.10](https://github.com/iotaledger/wasp/releases/tag/v0.7.0-alpha.10)
 32. **IOTA Dev Update**: [Protocol group, Weeks 28-30 #83](https://github.com/iotaledger/research-updates/discussions/83)
-33. 
+33. **Crypto Drama**: Artikel: [Alle Altcoins Wertpapiere? SEC: Coinbase sollte alle Coins delisten – außer Bitcoin](https://www.btc-echo.de/schlagzeilen/sec-coinbase-sollte-alle-coins-delisten-ausser-bitcoin-168793/)
