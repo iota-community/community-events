@@ -24,14 +24,14 @@
 22. **IOTA Youtube**: [Alexander tweetet](https://twitter.com/shortaktien/status/1684919501970681856?s=20) über [Unglaubliche IOTA Fortschritte | Hans Moogs vielversprechendes Update - IOTA & Shimmer News](https://www.youtube.com/watch?v=jpRZTqAccHY)
 23. **IOTA Audio**: [TangleGang tweetet](https://twitter.com/GangTangleTalk/status/1684859386701762560?s=20) über das Gespräch mit [AuditOne](https://twitter.com/auditone_team)
 24. **IOTA Audio**: Die [IF tweetet](https://twitter.com/iota/status/1684911603064479744?s=20) über ein IOTA Community Regulation Call am 2. August um 6PM im Discord
-25. **Twitter Hype**: Ein [Soon Tweet](https://twitter.com/tokenizedkiwi/status/1684932073792913409?s=20) von [Tokenized Kiwi](https://twitter.com/tokenizedkiwi) und ein [Soon Tweet von LendeXe](https://twitter.com/nozar_lendexe/status/1684836710620831750?s=20)
+25. **Twitter Hype**: Ein [Soon Tweet](https://twitter.com/tokenizedkiwi/status/1684932073792913409?s=20) und noch ein [Soon Tweet](https://twitter.com/tokenizedkiwi/status/1685651458505723906?s=20) von [Tokenized Kiwi](https://twitter.com/tokenizedkiwi). Auch LendeXe macht ein [Soon Tweet von LendeXe](https://twitter.com/nozar_lendexe/status/1684836710620831750?s=20) und noch ein [Soon-Big-Partnerschaft Announcement Tweet](https://twitter.com/LendeXeFinance/status/1685915215815196672?s=20)
 26. **Twitter Gezwitscher**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1674490612437905428?s=20) einen langen Text in dem es grob um Multiverse geht
 27. **IOTA Ökosystem**: [Beastarts by TangleBeast tweetet](https://twitter.com/tanglebeasts/status/1684959531783053312?s=20) "We are live" über ihre neue NFT Plattform: [beastart-store.com/de/pages/testnet](https://beastart-store.com/de/pages/testnet)
 28. **Twitter Hype**: [Bivreost tweetet](https://twitter.com/RodionVikol/status/1684235799137595401?s=20) über "Big things are happening in @bivreost right now, we're going to take #IOTA into the sky." und "2 new large projects will soon appear in the #IOTA ecosystem"
 29. **IOTA Artikel**: Von dem Gespräch von der TangleGang mit Jonas Theis gibt es eine PDF Zusammenfassung: [Tweet](https://twitter.com/GangTangleTalk/status/1685195214950920193?s=20)
 30. **IOTA Youtube**: [27/07/23 IOTA/Shimmer Community Governance meeting #91](https://www.youtube.com/watch?v=QtPdILChlyI)
 31. **IOTA Dev**: Es gab ein neues [wasp](https://github.com/iotaledger/wasp) pre-release: [v0.7.0-alpha.10](https://github.com/iotaledger/wasp/releases/tag/v0.7.0-alpha.10)
-32. **IOTA Dev Update**: 
+32. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/310-wochenr%C3%BCckblick-vom-23-bis-29-juli-2023/)
 33. **Crypto Drama**: Artikel: [Alle Altcoins Wertpapiere? SEC: Coinbase sollte alle Coins delisten – außer Bitcoin](https://www.btc-echo.de/schlagzeilen/sec-coinbase-sollte-alle-coins-delisten-ausser-bitcoin-168793/)
 34. **IOTA Drama**: CFB macht sich lustig über IOTA, weil sie noch immer keine smart contracts haben: [Tweet](https://twitter.com/c___f___b/status/1685625295150219266?s=20) und [Eric Wall (mit 130K Followers) kommentiert das](https://twitter.com/ercwl/status/1685630860307877888?s=20)
 35. **Allg. News**: Elon Musk hat "soon" geschrieben: [Tweet](https://twitter.com/elonmusk/status/1685363794090819584?s=20) "Something special coming soon"
