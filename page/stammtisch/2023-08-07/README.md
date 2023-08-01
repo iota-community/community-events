@@ -6,6 +6,10 @@
 4. **IOTA Ökosystem**: [Build.5 tweetet](https://twitter.com/build5tech/status/1686264605298098176?s=20) über ihren neuen Blogpost: [USE CASES AND APPLICATIONS - BUILD.5, Confidential Computing, and the data privacy revolution. Part 3: AI](https://build5.com/blog/cc-ai/)
 5. **IOTA Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1686245881140686848?s=20) darüber, dass der Soon Token auch auf [LendeXe.finance](https://lendexe.fi/) verwenden kann und [hier tweetet SoonLabs](https://twitter.com/soon_labs/status/1686293954151559168?s=20) sogar von einer Partnerschaft mit LendeXe
 6. **Crypto Adaption**: Artikel: [US-Wahlkampf Ron DeSantis wirft Biden “Krieg gegen Bitcoin” vor ](https://www.btc-echo.de/schlagzeilen/ron-desantis-wirft-biden-krieg-gegen-bitcoin-vor-168916/)
-7. **Crypto Drama**: Führt der Curve Exploid zum DeFi Kollaps? [Tweet von BTC Echo](https://twitter.com/btcecho/status/1686054612984352768?s=20)
+7. **Crypto Drama**: Führt der Curve Exploid zum DeFi Kollaps? [Tweet von BTC Echo](https://twitter.com/btcecho/status/1686054612984352768?s=20); [White Hat Hacker erlangt 5,4 Millionen Dollar für DeFi Platform Curve Finance zurück, nachdem ein Exploit bekannt wurde](https://de.cryptonews.com/news/white-hat-hacker-erlangt-54-millionen-dollar-fur-defi-platform-curve-finance-zuruck.htm)
 8. **Allg. News**: Verregnets Wacken Festival.. [Tweet](https://twitter.com/DerCasus/status/1686083837451784193?s=20)
 9. **IOTA Artikel**: [über swarmlogistics](https://eustartup.news/startup-showcase-swarm-logistics-revolutionizing-fleet-control-systems/)
+10. **IOTA Drama**: Ohne den Artikel hier zu teilen wurde auf Finanzen.net ein IOTA20 Coin promoted. Das ist sicher ein Scam der zwar als bezahlte Werbung markiert ist, aber das ist schon peinlich...
+11. **Crypto Adaption**: Artikel: [Bayerisches Landesamt für Datenschutz untersucht WorldCoin](https://de.beincrypto.com/bayerisches-landesamt-fuer-datenschutz-untersucht-worldcoin/?utm_source=twitter&utm_medium=social)
+12. **IOTA Drama**: Es gibt ein neues Rant-Video von Sunny Decree über IOTA
+13. 
