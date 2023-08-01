@@ -12,4 +12,4 @@
 10. **IOTA Drama**: Ohne den Artikel hier zu teilen wurde auf Finanzen.net ein IOTA20 Coin promoted. Das ist sicher ein Scam der zwar als bezahlte Werbung markiert ist, aber das ist schon peinlich...
 11. **Crypto Adaption**: Artikel: [Bayerisches Landesamt für Datenschutz untersucht WorldCoin](https://de.beincrypto.com/bayerisches-landesamt-fuer-datenschutz-untersucht-worldcoin/?utm_source=twitter&utm_medium=social)
 12. **IOTA Drama**: Es gibt ein neues Rant-Video von Sunny Decree über IOTA
-13. 
+13. **Crypto Drama**: [Blockchain-Detektive decken Verbindungen zwischen BALD Liquidity Rug Pull und Sam Bankman-Fried auf](https://www.crypto-news-flash.com/de/blockchain-sleuths-uncover-links-between-bald-liquidity-rug-pull-and-sam-bankman-fried/?feed_id=22045&_unique_id=64c8c86527a75)
