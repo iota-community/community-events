@@ -129,4 +129,5 @@
 - [2023-07-17](./stammtisch/2023-07-17/README.md)
 - [2023-07-24](./stammtisch/2023-07-24/README.md)
 - [2023-07-31](./stammtisch/2023-07-31/README.md)
+- [2023-08-07](./stammtisch/2023-08-07/README.md)
 
