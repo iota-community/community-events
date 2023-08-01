@@ -13,3 +13,5 @@
 11. **Crypto Adaption**: Artikel: [Bayerisches Landesamt für Datenschutz untersucht WorldCoin](https://de.beincrypto.com/bayerisches-landesamt-fuer-datenschutz-untersucht-worldcoin/?utm_source=twitter&utm_medium=social)
 12. **IOTA Drama**: Es gibt ein neues Rant-Video von Sunny Decree über IOTA
 13. **Crypto Drama**: [Blockchain-Detektive decken Verbindungen zwischen BALD Liquidity Rug Pull und Sam Bankman-Fried auf](https://www.crypto-news-flash.com/de/blockchain-sleuths-uncover-links-between-bald-liquidity-rug-pull-and-sam-bankman-fried/?feed_id=22045&_unique_id=64c8c86527a75)
+14. **IOTA Audio**: TangleGang [Interview mit Adrien und Finanzgoblin von AuditOne vom 27.07.23](https://www.youtube.com/watch?v=vIqRnzd5DTs)
+15. 
