@@ -1,6 +1,6 @@
 ## Stammtischthemen für Montag, den 7.8.2023
 
-1. **IOTA Quicktakes**: Die [IF tweetet]() über die [IOTA Quicktakes]()
+1. **IOTA Quicktakes**: Die [IF tweetet]() über die [IOTA Quicktakes vom 31.07.2023: IOTA SKD 1.0 Release, Crypto Regulations in Switzerland & Staking!](https://www.youtube.com/watch?v=WYA7KNjS5zc)
 2. **IOTA Audio**: [Twitter Spaces von Blockbytes](https://twitter.com/blockbytescom/status/1685688238650863616?s=20) mit [Kappy](https://twitter.com/Rob_Daykin) von [Nakama Labs](https://twitter.com/Nakama_Labs) und [Sabo](https://twitter.com/Sabo_LX) von [LendeXe](https://twitter.com/LendeXeFinance)
 3. **Twitte Gezwitscher**: Hans sieht den Tangle überall: [Tweet](https://twitter.com/hus_qy/status/1686174914871476224?s=20) Zitat: "Once, you assume that the universe is computational and time is discrete, it is really hard to "unsee" everything that follows ..." Was der Superconductor LK-99 damit zu tun hat, muss er uns aber mal erklären... "I predict" that we are seeing a "new kind of superconductor"  which uses a 1-dimensional structure to achieve a pertubation-free environment for the movement of electrons"; Hier noch ein Tweet zu LK-99: [Tweet](https://twitter.com/Andercot/status/1686215574177841152?s=20)
 4. **IOTA Ökosystem**: [Build.5 tweetet](https://twitter.com/build5tech/status/1686264605298098176?s=20) über ihren neuen Blogpost: [USE CASES AND APPLICATIONS - BUILD.5, Confidential Computing, and the data privacy revolution. Part 3: AI](https://build5.com/blog/cc-ai/)
@@ -25,4 +25,4 @@
 23. **Fiat Drama**: Die Kreditwürdigkeit der USA wurde von AAA auf AA+ herabgesetzt: [Tweet](https://twitter.com/ASvanevik/status/1686666888338980864?s=20)
 24. **IOTA Youtube**: von Spec Weekly: [DEMIA: Powering data for the Carbon Market with IOTA.](https://www.youtube.com/watch?v=oZiMr6BBldI)
 25. **Shimmer DeFi Learn**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1686728968643194880?s=20) über den [Beginner’s Guide to Yield Farming Part 1](https://blog.shimmer.network/beginners-guide-yield-farming-part-1/)
-26. **IOTA Youtube**: [Virtue AMA](https://www.youtube.com/watch?v=mEguZu0lJYs)
+26. **IOTA Youtube**: von Virtue Money: [Virtue AMA in Discord](https://www.youtube.com/watch?v=mEguZu0lJYs)
