@@ -24,3 +24,5 @@
 22. **Crypto Adaption**: Artikel: [MicroStrategy kauft Bitcoin nach und plant Aktienverkauf für 750 Millionen US-Dollar](https://www.blocktrainer.de/microstrategy-kauft-bitcoin-und-plant-aktienverkauf-fuer-750-millionen-usd/)
 23. **Fiat Drama**: Die Kreditwürdigkeit der USA wurde von AAA auf AA+ herabgesetzt: [Tweet](https://twitter.com/ASvanevik/status/1686666888338980864?s=20)
 24. **IOTA Youtube**: von Spec Weekly: [DEMIA: Powering data for the Carbon Market with IOTA.](https://www.youtube.com/watch?v=oZiMr6BBldI)
+25. **Shimmer DeFi Learn**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1686728968643194880?s=20) über den [Beginner’s Guide to Yield Farming Part 1](https://blog.shimmer.network/beginners-guide-yield-farming-part-1/)
+26. **IOTA Youtube**: [Virtue AMA](https://www.youtube.com/watch?v=mEguZu0lJYs)
