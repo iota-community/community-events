@@ -14,6 +14,7 @@
 12. **IOTA Drama**: Es gibt ein neues Rant-Video von Sunny Decree über IOTA
 13. **Crypto Drama**: [Blockchain-Detektive decken Verbindungen zwischen BALD Liquidity Rug Pull und Sam Bankman-Fried auf](https://www.crypto-news-flash.com/de/blockchain-sleuths-uncover-links-between-bald-liquidity-rug-pull-and-sam-bankman-fried/?feed_id=22045&_unique_id=64c8c86527a75)
 14. **IOTA Audio**: TangleGang [Interview mit Adrien und Finanzgoblin von AuditOne vom 27.07.23](https://www.youtube.com/watch?v=vIqRnzd5DTs)
-15. **Shimmer DeFi**: [IcecreamSwap tweetet](https://twitter.com/icecream_swap/status/1686354183539019776?s=20) über ihre [icecreamswap.com](https://icecreamswap.com/) -DEX, die man bereits im Shimmer Testnetz testen kann
+15. **Shimmer DeFi**: [IcecreamSwap tweetet](https://twitter.com/icecream_swap/status/1686354183539019776?s=20) über ihre [icecreamswap.com](https://icecreamswap.com/), eine DEX, die man bereits im Shimmer Testnetz testen kann und offenbar auch von [Certik]8https://twitter.com/CertiK) auditiert wurde: [Tweet](https://twitter.com/icecream_swap/status/1686625732556959744?s=20)
 16. **Twitter Gezwitscher**: Hans sucht wohl gerade eine Möglichkeit um die Zeit anzuhalten ;-) [Tweet](https://twitter.com/hus_qy/status/1686362826497990662?s=20)
-17. 
+17. **IOTA Youtube**: von Multi: [Mein IOTA/SMR Rettungsversuch softstock.io ist live!](https://youtu.be/pHBCRNEuuFw)
+18. 
