@@ -23,4 +23,4 @@
 21. **IOTA Youtube**: von Probably Nothing: [IOTA20 - Ein Offensichtlicher Betrug! #shorts](https://www.youtube.com/watch?v=K_xyGUYWJ48)
 22. **Crypto Adaption**: Artikel: [MicroStrategy kauft Bitcoin nach und plant Aktienverkauf für 750 Millionen US-Dollar](https://www.blocktrainer.de/microstrategy-kauft-bitcoin-und-plant-aktienverkauf-fuer-750-millionen-usd/)
 23. **Fiat Drama**: Die Kreditwürdigkeit der USA wurde von AAA auf AA+ herabgesetzt: [Tweet](https://twitter.com/ASvanevik/status/1686666888338980864?s=20)
-24. 
+24. **IOTA Youtube**: von Spec Weekly: [DEMIA: Powering data for the Carbon Market with IOTA.](https://www.youtube.com/watch?v=oZiMr6BBldI)
