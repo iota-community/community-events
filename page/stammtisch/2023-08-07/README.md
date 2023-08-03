@@ -27,4 +27,4 @@
 25. **Shimmer DeFi Learn**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1686728968643194880?s=20) über den [Beginner’s Guide to Yield Farming Part 1](https://blog.shimmer.network/beginners-guide-yield-farming-part-1/)
 26. **IOTA Youtube**: von Virtue Money: [Virtue AMA in Discord](https://www.youtube.com/watch?v=mEguZu0lJYs)
 27. **IOTA Ökosystem**: Wir haben eine neuen Smart Contract Auditor Partnerschaft: [Tweet](https://twitter.com/marcobesier/status/1687004929045467136?s=20)
-28. 
+28. **IOTA Ökosystem**: [Build.5 tweetet](https://twitter.com/build5tech/status/1687014827364143104?s=20) darüber, dass die [Mana Station Webseite](https://build5.com/mana/) jetzt online ist
