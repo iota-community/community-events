@@ -28,3 +28,5 @@
 26. **IOTA Youtube**: von Virtue Money: [Virtue AMA in Discord](https://www.youtube.com/watch?v=mEguZu0lJYs)
 27. **IOTA Ökosystem**: Wir haben eine neuen Smart Contract Auditor Partnerschaft: [Tweet](https://twitter.com/marcobesier/status/1687004929045467136?s=20)
 28. **IOTA Ökosystem**: [Build.5 tweetet](https://twitter.com/build5tech/status/1687014827364143104?s=20) darüber, dass die [Mana Station Webseite](https://build5.com/mana/) jetzt online ist
+29. **IOTA Adaption**: Die [IF tweetet](https://twitter.com/iota/status/1687085920997056513?s=20) über ihren 50 seitigenDeFi Report: [Bringing clarityto the DeFi sector - A cross-sector proposal for a unified DeFi definition](https://files.iota.org/comms/Bringing_clarity_to_the_DeFi_sector.pdf)
+30. **IOTA Ökosystem**: [Deepr Finance tweetet](https://twitter.com/DeeprFinance/status/1687095153478299648?s=20), dass sie wieder online sind mit [deepr.finance](https://deepr.finance/)
