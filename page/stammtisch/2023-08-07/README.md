@@ -30,3 +30,9 @@
 28. **IOTA Ökosystem**: [Build.5 tweetet](https://twitter.com/build5tech/status/1687014827364143104?s=20) darüber, dass die [Mana Station Webseite](https://build5.com/mana/) jetzt online ist
 29. **IOTA Adaption**: Die [IF tweetet](https://twitter.com/iota/status/1687085920997056513?s=20) über ihren 50 seitigenDeFi Report: [Bringing clarityto the DeFi sector - A cross-sector proposal for a unified DeFi definition](https://files.iota.org/comms/Bringing_clarity_to_the_DeFi_sector.pdf)
 30. **IOTA Ökosystem**: [Deepr Finance tweetet](https://twitter.com/DeeprFinance/status/1687095153478299648?s=20), dass sie wieder online sind mit [deepr.finance](https://deepr.finance/)
+31. **Shimmer Promote**: Es gibt wieder eine Shimmer Challange von [Cryptonair.app](https://cryptonaire.app/): [Tweet](https://twitter.com/cryptochefs_io/status/1687418110163197952?s=20)
+32. **IOTA Event**: [Dom Schiener tweetet](https://twitter.com/DomSchiener/status/1687384019787280384?s=20) darüber, dass er beim Cardano Summit im November auftrteten wird.
+33. **Shimmer Promote**: [Dom Schiener tweetet](https://twitter.com/DomSchiener/status/1687388726106664960?s=20): "We have some exciting plans to bring Cardano and Shimmer / IOTA closer together"
+34. **IOTA Stammtisch**: Am Freitag war [IOTA Stammtisch](https://www.meetup.com/iota-muc/events/294828472) in München
+35. **IOTA Exchanges"**: [Viviswap tweetet](https://twitter.com/viviswapcom/status/1687107693797142528?s=20), dass [viviswap.com/](https://viviswap.com/) online ist und dass man dort EUR gegen Miota tauschen kann
+36. 
