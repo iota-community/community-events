@@ -35,4 +35,5 @@
 33. **Shimmer Promote**: [Dom Schiener tweetet](https://twitter.com/DomSchiener/status/1687388726106664960?s=20): "We have some exciting plans to bring Cardano and Shimmer / IOTA closer together"
 34. **IOTA Stammtisch**: Am Freitag war [IOTA Stammtisch](https://www.meetup.com/iota-muc/events/294828472) in München
 35. **IOTA Exchanges"**: [Viviswap tweetet](https://twitter.com/viviswapcom/status/1687107693797142528?s=20), dass [viviswap.com/](https://viviswap.com/) online ist und dass man dort EUR gegen Miota tauschen kann
-36. 
+36. **IOTA Tech**: [Hans Moog beschreibt](https://twitter.com/hus_qy/status/1687453112846454784?s=20) die neue Modularität im Code auf Grund von interaktiven Zellen
+37. 
