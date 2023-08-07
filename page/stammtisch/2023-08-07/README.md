@@ -47,3 +47,4 @@
 45. **Crypto Drama**: Ist Huobi insolvent? [Tweet](https://twitter.com/adamscochran/status/1687959096316542976?s=20) USDT depeggt gerade
 46. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/312-wochenr%C3%BCckblick-vom-30-juli-bis-5-august-2023/)
 47. **Crypto Adaption**: PayPal Stable Coin: Artikel: [PayPal Launches a Stablecoin in Latest Crypto Payments Push](https://www.bloomberg.com/news/articles/2023-08-07/paypal-launches-us-dollar-stablecoin-pyusd-for-payments-transfers#xj4y7vzkg)
+48. **IOTA Drama**: [Iotapoet tweetet](https://twitter.com/IotaPoet/status/1688532476849696768?s=20), dass er erst wieder Videos macht, wenn die IF liefert. Er will seinen Follower keine Hoffnung machen, wenn es evtl. gar keine Hoffnung gibt...
