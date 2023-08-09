@@ -10,4 +10,6 @@
 8. **Shimmer EVM Dev**: Neue wasp Pre-Releases: [v0.7.0-alpha.11](https://github.com/iotaledger/wasp/releases/tag/v0.7.0-alpha.11); [v0.7.0-alpha.12](https://github.com/iotaledger/wasp/releases/tag/v0.7.0-alpha.12)
 9. **Shimmer Ökosystem**: [Garret tweetet](https://twitter.com/GarrettBullish/status/1688745348049854464?s=20) er will "chatbox based on NFT/Token channels" anbieten die man in jede dApp einbauen kann
 10. **IOTA Audio**: [Twitter Spaces Event mit Kumar [IF]](https://twitter.com/routerprotocol/status/1688889870239076352?s=20)
-11. 
+11. **IOTA Adaption**: [Christoph Strnadl tweetet](https://twitter.com/archimate/status/1689229384090071040?s=20) über [Implementierung von Gaia-X bei iECO](https://ieco-gaiax.de/technische-gaia-x-architektur/) und [Gaia-X Technical Implementation Architecture](https://ieco-gaiax.de/wp-content/uploads/2023/08/iECO-Gaia-X-Technical-Implementation-Architecture_v1.10.pdf): Er [weist darauf hin](https://twitter.com/archimate/status/1689232975920074752?s=20), dass IOTA noch nicht implementiert ist es aber geplant ist
+12. **IOTA Dev Update**: [Protocol group, Weeks 31-32 #84](https://github.com/iotaledger/research-updates/discussions/84)
+13. 
