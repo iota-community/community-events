@@ -12,4 +12,4 @@
 10. **IOTA Audio**: [Twitter Spaces Event mit Kumar [IF]](https://twitter.com/routerprotocol/status/1688889870239076352?s=20)
 11. **IOTA Adaption**: [Christoph Strnadl tweetet](https://twitter.com/archimate/status/1689229384090071040?s=20) über [Implementierung von Gaia-X bei iECO](https://ieco-gaiax.de/technische-gaia-x-architektur/) und [Gaia-X Technical Implementation Architecture](https://ieco-gaiax.de/wp-content/uploads/2023/08/iECO-Gaia-X-Technical-Implementation-Architecture_v1.10.pdf): Er [weist darauf hin](https://twitter.com/archimate/status/1689232975920074752?s=20), dass IOTA noch nicht implementiert ist es aber geplant ist
 12. **IOTA Dev Update**: [Protocol group, Weeks 31-32 #84](https://github.com/iotaledger/research-updates/discussions/84)
-13. 
+13. **IOTA Science**: Neues Paper von Sebastian Müller1, Andreas Penzkofer2, Nikita Polyanskii2, Jonas Theis2, William Sanders2, und Hans Moog: [Reality-based UTXO Ledger](https://arxiv.org/pdf/2205.01345.pdf)
