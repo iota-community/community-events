@@ -21,4 +21,4 @@
 19. **Crypto Adaption**: Artikel: [Microsoft Collaborates With Aptos to Explore Digital Payments and CBDCs](https://watcher.guru/news/microsoft-collaborates-with-aptos-to-explore-digital-payments-and-cbdcs); Oder wird das nur gehyped für Exit Liquidität? [Tweet]()
 20. **Shimmer Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1689536014673707009?s=20) über den Soon Token und den Blogpost: [SOON Token Rewards on the ShimmerEVM](https://soonlabs.medium.com/soon-token-rewards-on-the-shimmerevm-9c0277657b39)
 21. **DeFi Audio**: [Twitter Spaces Event zu Stable Coins von Virtue Money](https://twitter.com/Virtue_Money/status/1687093645554700288?s=20)
-22. **Crypto Drama**: Artikel: [Controversy as Experts Detect Code on New PayPal Stablecoin That Could Wipe Users Balance – Ripple CTO Defends Security Feature
+22. **Crypto Drama**: Artikel: [Microsoft partners with Aptos Labs to build A.I. tools that help banks explore blockchain integrations on Azu](https://fortune.com/crypto/2023/08/09/microsoft-aptos-labs-ai-blockchain-partnership-github-copilot-aptos-assistant-chatgpt/)
