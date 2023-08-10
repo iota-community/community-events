@@ -22,3 +22,4 @@
 20. **Shimmer Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1689536014673707009?s=20) über den Soon Token und den Blogpost: [SOON Token Rewards on the ShimmerEVM](https://soonlabs.medium.com/soon-token-rewards-on-the-shimmerevm-9c0277657b39)
 21. **DeFi Audio**: [Twitter Spaces Event zu Stable Coins von Virtue Money](https://twitter.com/Virtue_Money/status/1687093645554700288?s=20)
 22. **Crypto Drama**: Artikel: [Microsoft partners with Aptos Labs to build A.I. tools that help banks explore blockchain integrations on Azu](https://fortune.com/crypto/2023/08/09/microsoft-aptos-labs-ai-blockchain-partnership-github-copilot-aptos-assistant-chatgpt/)
+23. **IOTA 2.0 Science**: [Sebastian Müller tweetet](https://twitter.com/NaitsabesMue/status/1689603047444336642?s=20) über die 3 Research Paper für Coordicide die jetzt peer reviewed und veröffentlicht sind: [Reality-based UTXO Ledger](https://arxiv.org/abs/2205.01345)
