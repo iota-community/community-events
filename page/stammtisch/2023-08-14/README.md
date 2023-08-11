@@ -23,3 +23,4 @@
 21. **DeFi Audio**: [Twitter Spaces Event zu Stable Coins von Virtue Money](https://twitter.com/Virtue_Money/status/1687093645554700288?s=20)
 22. **Crypto Drama**: Artikel: [Microsoft partners with Aptos Labs to build A.I. tools that help banks explore blockchain integrations on Azu](https://fortune.com/crypto/2023/08/09/microsoft-aptos-labs-ai-blockchain-partnership-github-copilot-aptos-assistant-chatgpt/)
 23. **IOTA 2.0 Science**: [Sebastian Müller tweetet](https://twitter.com/NaitsabesMue/status/1689603047444336642?s=20) über die 3 Research Paper für Coordicide die jetzt peer reviewed und veröffentlicht sind: [Reality-based UTXO Ledger](https://arxiv.org/abs/2205.01345)
+24. **IOTA 2.0**: Muxxer bremst die Erwartungen [im Discord](https://t.co/LIePoEqtIO): [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1689864259356766209?s=20)
