@@ -34,3 +34,8 @@
 32. **IOTA Audio**: [Twitter Spaces Event von Virtue über Stablecoins](https://twitter.com/Virtue_Money/status/1687093645554700288?s=20)
 33. **IOTA Youtube**: [10/08/23 IOTA/Shimmer Community Governance meeting #92](https://www.youtube.com/watch?v=RA_CITY_JT4)
 34. **IOTA Youtube**: von Probably Nothing: [Cardano und IOTA im Fokus | Dezentrale KI, Stablecoins und heiße Updates - IOTA & Shimmer News](https://www.youtube.com/watch?v=2qAq5CHCBpQ&t=219s)
+35. **IOTA Youtube**: [Mariana de la Roche tweetet](https://twitter.com/Marianadlrw/status/1691095860539764736?s=20) über [IOTA Community Regulation Call 02/08/2023: Crypto Regulations in Switzerland](https://www.youtube.com/watch?v=0GOog4TBKqY)
+36. **Crypto Adaption**: Artikel: [Vorwahlen in Argentinien: Pro-Bitcoiner bald neuer Präsident?](https://www.blocktrainer.de/vorwahlen-in-argentinien-pro-bitcoiner-bald-neuer-praesident/?=twitter)
+37. **Crypto Adaption**: Gensler bald raus zugunsten von "Krypto Mum"? [Tweet](https://twitter.com/hoss_crypto/status/1691023145522663424?s=20)
+38. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/314-wochenr%C3%BCckblick-vom-6-bis-12-august-2023/)
+39. 
