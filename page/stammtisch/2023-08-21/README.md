@@ -9,4 +9,6 @@
 7. **Crypto Drama**: Binance verklagt die SEC: [Tweet](https://twitter.com/WatcherGuru/status/1691322632048693249?s=20)
 8. **Crypto Adaption**: Der führende argentinische Präsidentschaftskandidat ist Pro-Crypto und demonliert eine Zentralbank PinaTa live im TV: [Tweet](https://twitter.com/BTC_Culture/status/1691254399002185728?s=20); Hier sagt er live im TV warum man Crypto braucht: [Tweet](https://twitter.com/coinbureau/status/1691342406661160960?s=20)
 9. **Crypto Adaption**: Erster Bitcoin ETF in Europa (Holland) gestartet: [Tweet](https://twitter.com/tedtalksmacro/status/1691414249225023489?s=20); Artikel: [Europe Launches First Spot Bitcoin ETF](https://watcher.guru/news/europe-launches-first-spot-bitcoin-etf)
-10. 
+10. **Crypto Adaption**: Der Blocktrainer war auf Arte: [Kann man Bitcoins im Alltag verwenden? K1 Magazin testet die Kryptowährungen](https://www.joyn.de/mediatheken/kabel-eins?utm_source=p7s1_campaigns_youtube_non_paid&utm_medium=avod&utm_campaign=k1_mediathek&utm_creative=youtube_description); Interessant, dass er dabei nur das Bezahlen mit Bitcoin ausprobiert und promotet ("es geht ultraschnell und ist weltweit möglich...")
+11. **IOTA Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1691687647302045762?s=20) über ihren Blogpost: [Open Sourcing the Soonaverse](https://soonlabs.medium.com/open-sourcing-the-soonaverse-ae189da3cfa1)
+12. 
