@@ -19,3 +19,4 @@
 17. **Shimmer Promote**: Neue Shimmer Chalange ist live: [Tweet](https://twitter.com/CryptonaireApp/status/1691766501907509387?s=20)
 18. **IOTA Ökosystem**: Nakama Labs und ApeDao Partnerschaft: [Tweet](https://twitter.com/Nakama_Labs/status/1691796974566080586?s=20)
 19. **Crypto Adaption**: PayPal und Ledger: [Tweet](https://twitter.com/Ledger/status/1691798467520139338?s=20); Blogpost: [LEDGER AND PAYPAL TEAM UP TO SIMPLIFY ENTRY INTO THE WORLD OF CRYPTOCURRENCY](https://www.ledger.com/ledger-and-paypal-team-up-to-simplify-entry-into-the-world-of-cryptocurrency)
+20. **Allg. News**: Artikel: [Gesetzentwurf zur Teillegalisierung - Kabinett bringt Cannabis-Legalisierung auf den Weg](https://www.tagesschau.de/inland/innenpolitik/cannabis-legalisierung-kritik-102.html)
