@@ -11,4 +11,5 @@
 9. **Crypto Adaption**: Erster Bitcoin ETF in Europa (Holland) gestartet: [Tweet](https://twitter.com/tedtalksmacro/status/1691414249225023489?s=20); Artikel: [Europe Launches First Spot Bitcoin ETF](https://watcher.guru/news/europe-launches-first-spot-bitcoin-etf)
 10. **Crypto Adaption**: Der Blocktrainer war auf Arte: [Kann man Bitcoins im Alltag verwenden? K1 Magazin testet die Kryptowährungen](https://www.joyn.de/mediatheken/kabel-eins?utm_source=p7s1_campaigns_youtube_non_paid&utm_medium=avod&utm_campaign=k1_mediathek&utm_creative=youtube_description); Interessant, dass er dabei nur das Bezahlen mit Bitcoin ausprobiert und promotet ("es geht ultraschnell und ist weltweit möglich...")
 11. **IOTA Ökosystem**: [SoonLabs tweetet](https://twitter.com/soon_labs/status/1691687647302045762?s=20) über ihren Blogpost: [Open Sourcing the Soonaverse](https://soonlabs.medium.com/open-sourcing-the-soonaverse-ae189da3cfa1)
-12. 
+12. **IOTA Ökosystem**: [LendeXe tweetet](https://twitter.com/LendeXeFinance/status/1691562653120922062?s=20) darüber, dass sie bald eine DAO werden wollen
+13. **IOTA Ökosystem**: Am Donnerstag 17.8. will NakamaLabs ihre dApss vorstellen: [Tweet](https://twitter.com/Nakama_Labs/status/1691472360090619904?s=20)
