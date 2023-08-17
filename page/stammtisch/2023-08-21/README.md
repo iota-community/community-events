@@ -24,5 +24,5 @@
 22. **IOTA DeFi**: Auf Twitter gibt es einen neue Account: [TangleX](https://twitter.com/tangleXfusion) In der Bio steht: "Redefining DeFi! Fusion of #IOTA & #Shimmer networks for ultimate security, scalability, and user-friendly experiences"
 23. **IOTA Promote**: [Kowei.tangle tweetet](https://twitter.com/kowei1995/status/1692061393833656551?s=20) über ein Treffen mit [AppWorks](https://twitter.com/AppWorks) einem VC Fund aus Asien "Helping tech startups disrupt the world since 2009"
 24. **Allg. News**: Artikel: [Elektroauto: Zehn Minuten für 400 km? CATL Superfast Charging LFP Battery](https://www.heise.de/news/Elektroauto-Zehn-Minuten-fuer-400-km-CATL-Superfast-Charging-LFP-Battery-9245780.html)
-25. **Assembly Staking**: Runde 6 ist am Donnerstag zu Ende gegangen
+25. **Assembly Staking**: Runde 6 ist am Donnerstag zu Ende gegangen: [Tweet](https://twitter.com/assembly_net/status/1692164131623731201?s=20)
 26. 
