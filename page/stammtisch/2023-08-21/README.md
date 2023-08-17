@@ -25,4 +25,8 @@
 23. **IOTA Promote**: [Kowei.tangle tweetet](https://twitter.com/kowei1995/status/1692061393833656551?s=20) über ein Treffen mit [AppWorks](https://twitter.com/AppWorks) einem VC Fund aus Asien "Helping tech startups disrupt the world since 2009"
 24. **Allg. News**: Artikel: [Elektroauto: Zehn Minuten für 400 km? CATL Superfast Charging LFP Battery](https://www.heise.de/news/Elektroauto-Zehn-Minuten-fuer-400-km-CATL-Superfast-Charging-LFP-Battery-9245780.html)
 25. **Assembly Staking**: Runde 6 ist am Donnerstag zu Ende gegangen: [Tweet](https://twitter.com/assembly_net/status/1692164131623731201?s=20)
-26. 
+26. **IOTA Dev**: Es gab zu Firefly ein [techn. Announcement](https://discord.com/channels/397872799483428865/800810467928309790/1141764964823072788); [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1692228674563523044?s=20); [TangleBay tweetet](https://twitter.com/tanglebay/status/1692206376586539411?s=20), dass man ihren Node-Service jetzt endlich im Shimmerwallet auswählen kann
+27. **IOTA Dev**: Es gab ein Update von Identity 0.6.1 für Wasm und 0.6.3 für Rust. Hier das [techn. Announcement](https://discord.com/channels/397872799483428865/800810467928309790/1141766542606991390) dazu bzw. der [Tweet mit Screenshot](https://twitter.com/Vrom14286662/status/1692228879006495132?s=20)
+28. **Twitter Gezwitscher**: [Hans Moog kommentiert](https://twitter.com/hus_qy/status/1692197262561026382?s=20) einen Tweet von Elon Musk bezüglich Bots. Er meint man müsse umdenken und begreifen, dass Bots in Zukunft nicht mehr nur Spam sind
+29. **IOTA Youtube**: von Blockbytes: [Addressing the Delays of ShimmerEVM | Demia and Carbon Markets | SHIMMER COMMUNITY SPACES Ep. 5](https://www.youtube.com/watch?v=i4bJJBXPaYs)
+30. **IOTA Youtube**: von der IF: [IOTA Community Regulation Call 02/08/2023: Crypto Regulations in Switzerland](https://www.youtube.com/watch?v=0GOog4TBKqY&t=1s)
