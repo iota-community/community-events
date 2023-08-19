@@ -42,3 +42,11 @@
 40. **Crypto Drama**: Artikel: [Ripple SEC Lawsuit: Here's Latest Update](https://u.today/ripple-sec-lawsuit-heres-latest-update)
 41. **IOTA Youtube**: von IOTA Community Governance: [17/08/23 IOTA/Shimmer Community Governance meeting #93](https://www.youtube.com/watch?v=8ix2jQZ0YEk)
 42. **IOTA Ökosystem**: [Swiss Capital tweetet](https://twitter.com/Swissonecapital/status/1692518318945530181?s=20) über ihren Blogpost: [SwissOne Launches First-ever Fund to Support the Shimmer and IOTA Ecosystems](https://seekingalpha.com/pr/19380492-swissone-launches-first-ever-fund-to-support-shimmer-and-iota-ecosystems)
+43. **IOTA Ökosystem**: Gibt es bald ein neues Wallet? [Tweet](https://twitter.com/roskis_/status/1692739091417174026?s=20)
+44. **Shimmer DeFi learn**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1692627428307284201?s=20) über [Beginner’s Guide to Yield Farming Part 1](https://coinmarketcap.com/community/articles/64d9e3d662115c7ccfb3c1bf/)
+45. **IOTA 2.0 learn**: Es gibt bald viele neue Blogposts und Video Material zu iota2.0: [Tweet mit Screenshots](https://twitter.com/Vrom14286662/status/1692586060839075968?s=20)
+46. **IOTA Ökosystem**: [TanglePay tweetet](https://twitter.com/tanglepaycom/status/1692561771343577322?s=20) über ein ETA zu ihrem Messanger (early Q4)
+47. **IOTA Promote**: [Kowei tweetet](https://twitter.com/kowei1995/status/1692849829490393304?s=20) über ein Developer Meeting auf dem er IOTA vorgestellt hat
+48. **IOTA Ökosystem**: Neues von der ETO Gruppe und Filancore: [Tweet](https://twitter.com/_JeffR/status/1692969344136077527?s=20)
+49. **IOTA Drama**: Geht der IF das Geld aus?; Einer will die IF verklagen; War "We did it" mit FPC eine Lüge; Shimmer nimmt IOTA Marketcap vom Ökosystem weg... Es gab wieder viel Drama auf Telegram diese Woche...
+50. 
