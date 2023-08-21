@@ -52,4 +52,5 @@
 50. **IOTA Ökosystem**: [Deepr Finance tweetet](https://twitter.com/DeeprFinance/status/1693192758247227762?s=20) darüber, dass sie ein Price Oracle "[PythNetwork](https://twitter.com/PythNetwork)" erfolgreich integriert haben
 51. **IOTA Audio**: Twitter Space Event von Blockbytes: [Tweet](https://twitter.com/blockbytescom/status/1693260084501950963?s=20)
 52. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/316-wochenr%C3%BCckblick-vom-13-bis-19-august-2023/)
-53. **IOTA Adaption**: kowei hat sich mit der Taiwan Regierung getroffen und insgesamt fast 2h über IOTA gesprochen: [Tweet](https://twitter.com/kowei1995/status/1693565926149599615?t=eyGaic50_z7gskqsOXUQLQ&s=19) 
+53. **IOTA Adaption**: kowei hat sich mit der Taiwan Regierung getroffen und insgesamt fast 2h über IOTA gesprochen: [Tweet](https://twitter.com/kowei1995/status/1693565926149599615?t=eyGaic50_z7gskqsOXUQLQ&s=19)
+54. **IOTA Ökosystem**: [iotabee tweetet](https://twitter.com/iotabee/status/1693576937749479820?t=47GHd3f7MLUELL2DZvRFbQ&s=19) über [The Ultimate ShimmerEVM Onboarding Guide](https://earlybee.iotabee.com/guide/evm-shimmer)
