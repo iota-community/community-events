@@ -20,4 +20,7 @@ Tokenization: The $100 Trillion Path to Adoption](https://build5.com/blog/tokeni
 17. **IOTA Youtube**: [Blockchain for a sustainable future)(https://twitter.com/I1G69/status/1694700312567640430?)t=2a38xycnbE1nAH2kx1RSnA&s=19)
 18. **Allgemeine News**: Ist Progoschin  tot oder lebendig?
 19. **IOTA Youtube**: von Probably Nothing: [Shimmer EVM steht kurz vor dem Start](https://youtu.be/So39unCMqNo?si=ZGOehvFa7t0qalA4)
+20. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1694678794244665607?t=d1X6jZTVqiup1XiqWzq2Iw&s=19) über den Artikel: [Cryptocurrency and Blockchain Security: Challenges and Solutions](https://readwrite.com/cryptocurrency-and-blockchain-security-challenges-and-solutions/)
+21. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1694745042198360453?t=ElgZLlpJMmxTtKLz0dLyOA&s=19) über den Artikel: [EU Data Act smart contract ‘kill switch’ brings uncertainty](https://cointelegraph.com/news/eu-data-act-smart-contract-kill-switch-brings-uncertainty)
+22. **IOTA Promote**: Die [IF tweetet] über das [Joint Statement](https://data-act.info/joint-statement/)  
 
