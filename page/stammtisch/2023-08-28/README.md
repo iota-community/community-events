@@ -12,4 +12,10 @@
 10. **IOTA Adaption**: [Tweet von Mariana de la Roche](https://twitter.com/Marianadlrw/status/1693997375667474532?t=Ds6uBdmI6DRRnOFCr-OOcA&s=19) zu einem neuen Inatba Event
 11. **IOTA Ökosystem**: [Build5 tweetet](https://twitter.com/build5tech/status/1694242356873331151?t=MEmdYe2s3-Y5GHwRNncy8A&s=19) über [USE CASES AND APPLICATIONS
 Tokenization: The $100 Trillion Path to Adoption](https://build5.com/blog/tokenization/)
+12. **IOTA Ökosystem**: [ NakamaLabs tweetet](https://twitter.com/Nakama_Labs/status/1694333561980047578?t=_-Bio7HQB4rXBBVaGankQw&s=19) über eine ShimmerEVM Spam Attacke
+13. **IOTA Promote**: [Mariana de la Roche tweetet] über ein Events mit IOTA bzw. Shimmer Inside
+14. **IOTA Adaption**: [EU tweetet](https://twitter.com/EUBlockchain/status/1694324758467182721?t=ok-RFJmPZpQFJJKH7kK-Ig&s=19)
+15. **Shimmer Ökosystem**: [Adam tweetet](https://twitter.com/adam_unchained/status/1694574987909402725?t=8ggjHpE-B47JYE-VOug6hA&s=19) über die Besonderheiten von BlD5
+16. **IOTA Promote**: Im [European Central Bank Report wird über IOTA geschrieben: [Tweet](https://twitter.com/I1G69/status/1694700312567640430?t=2a38xycnbE1nAH2kx1RSnA&s=19)
+17. **IOTA Youtube**: [Blockchain for a sustainable future)(https://twitter.com/I1G69/status/1694700312567640430?)t=2a38xycnbE1nAH2kx1RSnA&s=19)
 
