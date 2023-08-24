@@ -8,3 +8,8 @@
 6. **IOTA Audio**: Die [ If tweetet](https://twitter.com/iota/status/1694076983288775147?t=4WXABh4tyt6CAjXik77EZw&s=19) über
 7. ** Firefly release: [ Tweet](https://twitter.com/gobbli/status/1693984022509330739?t=oWfhxrn_vq7JABGEQxcs3A&s=19)
 8. **Shimmer EVM**: Es gab ein [Tweet von ShimmerSea](https://twitter.com/gobbli/status/1693984022509330739?t=oWfhxrn_vq7JABGEQxcs3A&s=19) zum Update mit "Things are happening. 👀"
+9. **IOTA 2.0**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1694105696776675657?t=R13Jz5gumXbcIXlc3g-ZCg&s=19) 2x zu IOTA 2.0 progress
+10. **IOTA Adaption**: [Tweet von Mariana de la Roche](https://twitter.com/Marianadlrw/status/1693997375667474532?t=Ds6uBdmI6DRRnOFCr-OOcA&s=19) zu einem neuen Inatba Event
+11. **IOTA Ökosystem**: [Build5 tweetet](https://twitter.com/build5tech/status/1694242356873331151?t=MEmdYe2s3-Y5GHwRNncy8A&s=19) über [USE CASES AND APPLICATIONS
+Tokenization: The $100 Trillion Path to Adoption](https://build5.com/blog/tokenization/)
+
