@@ -1,4 +1,4 @@
-## Stammtischthemen für Montag, den 28.8.2023
+9## Stammtischthemen für Montag, den 28.8.2023
 
 1. **IOTA Quicktakes**: Die [IF tweetet]() über die IOTA Quicktakes
 2. **IOTA Ökosystem**: Jelle bringt Identity wallet in Q4: [Tweet](https://twitter.com/Vrom14286662/status/1693700398987514219?t=O6-Tr9mJ2zFh6r5WD2A_lw&s=19)
@@ -19,4 +19,5 @@ Tokenization: The $100 Trillion Path to Adoption](https://build5.com/blog/tokeni
 16. **IOTA Promote**: Im [European Central Bank Report wird über IOTA geschrieben: [Tweet](https://twitter.com/I1G69/status/1694700312567640430?t=2a38xycnbE1nAH2kx1RSnA&s=19)
 17. **IOTA Youtube**: [Blockchain for a sustainable future)(https://twitter.com/I1G69/status/1694700312567640430?)t=2a38xycnbE1nAH2kx1RSnA&s=19)
 18. **Allgemeine News**: Ist Progoschin  tot oder lebendig?
+19. **IOTA Youtube**: von Probably Nothing: [Shimmer EVM steht kurz vor dem Start](https://youtu.be/So39unCMqNo?si=ZGOehvFa7t0qalA4)
 
