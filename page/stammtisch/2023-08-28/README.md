@@ -18,4 +18,5 @@ Tokenization: The $100 Trillion Path to Adoption](https://build5.com/blog/tokeni
 15. **Shimmer Ökosystem**: [Adam tweetet](https://twitter.com/adam_unchained/status/1694574987909402725?t=8ggjHpE-B47JYE-VOug6hA&s=19) über die Besonderheiten von BlD5
 16. **IOTA Promote**: Im [European Central Bank Report wird über IOTA geschrieben: [Tweet](https://twitter.com/I1G69/status/1694700312567640430?t=2a38xycnbE1nAH2kx1RSnA&s=19)
 17. **IOTA Youtube**: [Blockchain for a sustainable future)(https://twitter.com/I1G69/status/1694700312567640430?)t=2a38xycnbE1nAH2kx1RSnA&s=19)
+18. **Allgemeine News**: Ist Progoschin  tot oder lebendig?
 
