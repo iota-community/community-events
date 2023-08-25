@@ -22,5 +22,10 @@ Tokenization: The $100 Trillion Path to Adoption](https://build5.com/blog/tokeni
 19. **IOTA Youtube**: von Probably Nothing: [Shimmer EVM steht kurz vor dem Start](https://youtu.be/So39unCMqNo?si=ZGOehvFa7t0qalA4)
 20. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1694678794244665607?t=d1X6jZTVqiup1XiqWzq2Iw&s=19) über den Artikel: [Cryptocurrency and Blockchain Security: Challenges and Solutions](https://readwrite.com/cryptocurrency-and-blockchain-security-challenges-and-solutions/)
 21. **IOTA Artikel**: Die [IF tweetet](https://twitter.com/iota/status/1694745042198360453?t=ElgZLlpJMmxTtKLz0dLyOA&s=19) über den Artikel: [EU Data Act smart contract ‘kill switch’ brings uncertainty](https://cointelegraph.com/news/eu-data-act-smart-contract-kill-switch-brings-uncertainty)
-22. **IOTA Promote**: Die [IF tweetet] über das [Joint Statement](https://data-act.info/joint-statement/)  
+22. **IOTA Promote**: Die [IF tweetet] über das [Joint Statement](https://data-act.info/joint-statement/)
+23. **IOTA Artikel**: [IOTA Tangle Presents Blockchain-Based Solutions For Efficient Traffic Management](https://blockzeit.com/iota-tangle-presents-blockchain-based-solutions-for-efficient-traffic-management/)
+24. #IOTA Artikel** [MasterCard Asia files patent for Tangle-based device billing system](https://cointelegraph.com/news/mastercard-asia-files-patent-for-tangle-based-device-billing-system)
+25. **Twitter Gezwitscher**: [Dom tweetet](https://twitter.com/DomSchiener/status/1694967942612492320?t=2d1vge_0-wXeLrpxIGPaEA&s=19) über die ursprünglichen Werte von Crypto
+26. **IOTA Artikel**: Es gab mal wieder FUD zum Abgang von Charlie Varley in einem Blockbuilders Artikel
+27. **IOTA Adaption**: Artikel: [Edag stellt „Citybots“ vor - Test am Frankfurter Stadion geplant](https://www.fuldaerzeitung.de/fulda/fulda-citybots-frankfurt-stadion-test-digitalministerin-kristina-sinemus-edag-92453564.html?source=tw)
 
