@@ -28,4 +28,8 @@ Tokenization: The $100 Trillion Path to Adoption](https://build5.com/blog/tokeni
 25. **Twitter Gezwitscher**: [Dom tweetet](https://twitter.com/DomSchiener/status/1694967942612492320?t=2d1vge_0-wXeLrpxIGPaEA&s=19) über die ursprünglichen Werte von Crypto
 26. **IOTA Artikel**: Es gab mal wieder FUD zum Abgang von Charlie Varley in einem Blockbuilders Artikel
 27. **IOTA Adaption**: Artikel: [Edag stellt „Citybots“ vor - Test am Frankfurter Stadion geplant](https://www.fuldaerzeitung.de/fulda/fulda-citybots-frankfurt-stadion-test-digitalministerin-kristina-sinemus-edag-92453564.html?source=tw)
+28. **IOTA Patent**: [Computer basiertes System und Verfahren zur Vermittlung von Wettkontrakten durch Verwendung von NFTs auf den IOTA Architektur Schichten](https://worldwide.espacenet.com/patent/search/family/087518581/publication/DE102022000649A1?q=pn%3DDE102022000649A1)
+29. **IOTA Stammtisch** war am Wochenende in Hamburg: [Tweet](https://twitter.com/GangTangleTalk/status/1695469097692082654?t=ZSMc-chhNgD8GuogcSUI1w&s=19)
+30. Shimmer EVM soon: [Tweet](https://twitter.com/Vrom14286662/status/1695451566977724746?t=mUQhu6kb_Vx0OvQG0slblg&s=19)
+31. 
 
