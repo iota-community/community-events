@@ -1,4 +1,4 @@
-9## Stammtischthemen für Montag, den 28.8.2023
+## Stammtischthemen für Montag, den 28.8.2023
 
 1. **IOTA Quicktakes**: Die [IF tweetet]() über die IOTA Quicktakes
 2. **IOTA Ökosystem**: Jelle bringt Identity wallet in Q4: [Tweet](https://twitter.com/Vrom14286662/status/1693700398987514219?t=O6-Tr9mJ2zFh6r5WD2A_lw&s=19)
