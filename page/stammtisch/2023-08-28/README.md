@@ -31,5 +31,5 @@ Tokenization: The $100 Trillion Path to Adoption](https://build5.com/blog/tokeni
 28. **IOTA Patent**: [Computer basiertes System und Verfahren zur Vermittlung von Wettkontrakten durch Verwendung von NFTs auf den IOTA Architektur Schichten](https://worldwide.espacenet.com/patent/search/family/087518581/publication/DE102022000649A1?q=pn%3DDE102022000649A1)
 29. **IOTA Stammtisch** war am Wochenende in Hamburg: [Tweet](https://twitter.com/GangTangleTalk/status/1695469097692082654?t=ZSMc-chhNgD8GuogcSUI1w&s=19)
 30. Shimmer EVM soon: [Tweet](https://twitter.com/Vrom14286662/status/1695451566977724746?t=mUQhu6kb_Vx0OvQG0slblg&s=19)
-31. 
+31. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/318-wochenr%C3%BCckblick-vom-20-bis-26-august-2023/)
 
