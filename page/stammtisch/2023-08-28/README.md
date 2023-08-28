@@ -33,4 +33,10 @@ Tokenization: The $100 Trillion Path to Adoption](https://build5.com/blog/tokeni
 30. Shimmer EVM soon: [Tweet](https://twitter.com/Vrom14286662/status/1695451566977724746?t=mUQhu6kb_Vx0OvQG0slblg&s=19)
 31. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/318-wochenr%C3%BCckblick-vom-20-bis-26-august-2023/)
 32. **IOTA Youtube**: von Spec Weekly: [Interview mit Mat Yager](https://youtu.be/LjfPpm9-s9s?si=x5OIUrRmQZbOVgOf)
+33. **IOTA Event**: [Holger Köther lädt ein](https://twitter.com/HolgerKoether/status/1696175883185160376?t=Wbnt7F9hcuq2zI5aqeChAQ&s=19) zur Battle of Blockchains
+34. **IOTA Dev**: Neues wasp release: [v0.7.0-alpha.13](https://github.com/iotaledger/wasp/releases/tag/v0.7.0-alpha.13)
+35. **IOTA Youtube**: [Paneldiskussion mit Mariana de la Roche](https://youtu.be/tbbzaq3LZ2g?si=XPZE0RTyoOczBxaQ)
+36. **IOTA Ökosystem**: [Sebastian Weber tweetet](https://twitter.com/Sebasti65365174/status/1696079520648900939?t=YBahh1ll2CwUpaDt4jvYUw&s=19) über einige Projekte an denen er bei Akkodis arbeitet
+37. **IOTA Ökosystem**: [Garret retweetet](https://twitter.com/GarrettBullish/status/1695987679564095549?t=WEn91Xp_Pz0iKmeP0cGK4A&s=19) den [Tweet von GroupFi Protocol](https://twitter.com/groupficom/status/1695986781437755395?t=20ByrHP1CXLM5SSPVtjOLA&s=19), der besagt, dass sie in 7 Tagen eine Social Media dApp auf Shimmer releasen wollen
+38. **IOTA Audio**: [Blockbytes Twitter Community X-Spaces Event](https://twitter.com/blockbytescom/status/1695795640045859300?t=8toR6Mpj66NkNmVmEKxgug&s=19)
 
