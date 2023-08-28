@@ -39,4 +39,5 @@ Tokenization: The $100 Trillion Path to Adoption](https://build5.com/blog/tokeni
 37. **IOTA Ökosystem**: [Sebastian Weber tweetet](https://twitter.com/Sebasti65365174/status/1696079520648900939?t=YBahh1ll2CwUpaDt4jvYUw&s=19) über einige Projekte an denen er bei Akkodis arbeitet
 38. **IOTA Ökosystem**: [Garret retweetet](https://twitter.com/GarrettBullish/status/1695987679564095549?t=WEn91Xp_Pz0iKmeP0cGK4A&s=19) den [Tweet von GroupFi Protocol](https://twitter.com/groupficom/status/1695986781437755395?t=20ByrHP1CXLM5SSPVtjOLA&s=19) der besagt, dass sie in 7 Tagen eine Social Media dApp auf Shimmer releasen wollen
 39. **IOTA Audio**: [Blockbytes Twitter Community X-Spaces Event](https://twitter.com/blockbytescom/status/1695795640045859300?t=8toR6Mpj66NkNmVmEKxgug&s=19)
+40. **Allgemeine News**: Wetter spielt verrückt. Hagel in Bayern, Fetter Sturm auf Mallorca... 
 
