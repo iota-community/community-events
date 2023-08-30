@@ -12,3 +12,4 @@
 10. **Crypto Adaption**: Twitter bzw. X hat ne Crypto Lizenz? [Tweet](https://twitter.com/BTC_Archive/status/1696556583210103200?t=PfBhU-DIgD7MW3yEUgIbAQ&s=19)
 11. **IOTA Ökosystem**: [NakamaLabs tweeten](https://twitter.com/Nakama_Labs/status/1696529748166680630?t=1udtDRXviM8rGY3P7dKYfg&s=19) über ihren Blogpost: [Get to Know the Team: Alejandro Elustondo](https://medium.com/@NakamaLabs/get-to-know-the-team-alejandro-elustondo-ed684948215e)
 12. **IOTA Adaption**: [Tweet von Zebra Technologies](https://twitter.com/ZebraDevs/status/1696734627744940350?t=Pm6KmW5NMLHb240PHFkIRA&s=19) daüber, dass José Manuel Cantera von @IOTA bei der ZebraDevCon2023 auftreten wird
+13. **IOTA Youtube**: von Common Sense Crypto: [IOTA is a Powerhouse...](https://youtu.be/Qsr7wXKxDxM?si=rYnsm-0CbUnNau5s)
