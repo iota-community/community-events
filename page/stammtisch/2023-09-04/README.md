@@ -5,4 +5,6 @@
 3. **Crypto Drama**: BitBoy Crypto wurde rausgeschmissen? [Tweet](https://twitter.com/WatcherGuru/status/1696214485566881991?t=ibOEz73YfaxErjye6A0XQQ&s=19)
 4. **IOTA Governements**: [Tangle Community Treasury Grant Committee - Exhibit - V2](https://govern.iota.org/t/tangle-community-treasury-grant-committee-exhibit-v2/1665)
 5. **IOTA Drama**: IotaPoet erklärt im neuen Video und.a. wie unglücklich er über die No-ETA Strategie ist: [Let's talk about IOTA!](https://m.youtube.com/watch?si=s3S5-TQ4er7XvEd5&v=A_hOgTwJSss&feature=youtu.be). Seine These ist: Man muss ein Netzwerk aufbauen und nicht nur eine Technologie fertig machen. Und die Community wird in letzter Zeit vernachlässigt
-6. 
+6. **IOTA Adaption**: [walt.id tweetet](https://twitter.com/walt_id/status/1696440593231011968?t=rsZYOEpQVuzVYlr4tuSIUA&s=19) über [IOTA and walt.id Open source decentralized identity and wallet infrastructure for developers and businesses on IOTA.](https://walt.id/ecosystem/iota)
+7. **Crypto Adaption**: [Tweet von Furkan] zum Grayscale vs. SEC Gerichtsprozess bezüglich Spot Bitcoin ETF 
+8. **Crypto Drama**: [Tweet von Furkan](https://twitter.com/FurkanCCTV/status/1696804358577373493?t=VBogyEfr6hYFEe56SfQ-Aw&s=19) von zum Rechtstreit zw. Binance und der SEC "Die Aufsichtsbehörde reichte einen versiegelten Antrag mit mehr als 35 Beweismitteln beim Gericht ein."
