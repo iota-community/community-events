@@ -16,4 +16,8 @@
 14. **IOTA Ökosystem**: Regine hat bei einem Real Estate Workshop mitgemacht: [Tweet](https://twitter.com/Energine/status/1697175531861549187?s=19)
 15. **IOTA Ökosystem**: [kowei tweetet](https://x.com/kowei1995/status/1697103025477996945?s=46&t=k3N3OEPJRomgTmyYh9qj5Q) über die [Tangle Treasury Ausschüttungen](https://t.co/TkzPauz7uY)
 16. **IOTA Audio**: [Andrew tweetet](https://twitter.com/digital__zen/status/1697155179282334047?t=TI6M_3PaaNwmXvNvU7yHkQ&s=19), dass er über IOTA redet
-17. **IOTA Ökosystem**: Die [IF tweetet](https://twitter.com/iota/status/1697212448325902355?t=Syy862r_qvqHVYwU5-HJ7g&s=19) darüber,wiki.iota.org dass [wiki.iota.org](wiki.iota.org) neu strukturiert wurde "Clearer structure, better navigation and content easier to find"
+17. **IOTA Ökosystem**: Die [IF tweetet](https://twitter.com/iota/status/1697212448325902355?t=Syy862r_qvqHVYwU5-HJ7g&s=19) darüber, dass [wiki.iota.org](wiki.iota.org) neu strukturiert wurde "Clearer structure, better navigation and content easier to find"
+18. **Crypto Drama**: SEC verschiebt Bitcoin Spot ETF Anträge: [Tweet](https://twitter.com/WatcherGuru/status/1697333427500949815?t=lPULnZfh5qSSgzmQdLrirw&s=19); [Tweet](https://twitter.com/FurkanCCTV/status/1697329651301888375?t=QNulDb9Zi3-sgMH-gZ_afw&s=19)
+19. Firefly Release: [Firefly Desktop 2.1.6](https://github.com/iotaledger/firefly/releases/tag/desktop-2.1.6)
+20. **IOTA Audio**: [Web 3 Telekom beyond the hype](https://twitter.com/Weaver_Labs/status/1628783189421395972?t=s84CQvXqsFhbcfXS14wCwQ&s=19) mit Michaele Nati
+21. **IOTA Hype**: Es gab eine Aussage von Dom zu UAE: [Tweet mit Screenshot](https://twitter.com/MoonacoPodcast/status/1696909176620888081?t=W7gZRU9Qxb9HarONWvICmw&s=19) 
