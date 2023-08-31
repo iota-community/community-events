@@ -15,3 +15,5 @@
 13. **IOTA Youtube**: von Common Sense Crypto: [IOTA is a Powerhouse...](https://youtu.be/Qsr7wXKxDxM?si=rYnsm-0CbUnNau5s)
 14. **IOTA Ökosystem**: Regine hat bei einem Real Estate Workshop mitgemacht: [Tweet](https://twitter.com/Energine/status/1697175531861549187?s=19)
 15. **IOTA Ökosystem**: [kowei tweetet](https://x.com/kowei1995/status/1697103025477996945?s=46&t=k3N3OEPJRomgTmyYh9qj5Q) über die [Tangle Treasury Ausschüttungen](https://t.co/TkzPauz7uY)
+16. **IOTA Audio**: [Andrew tweetet](https://twitter.com/digital__zen/status/1697155179282334047?t=TI6M_3PaaNwmXvNvU7yHkQ&s=19), dass er über IOTA redet
+17. **IOTA Ökosystem**: Die [IF tweetet](https://twitter.com/iota/status/1697212448325902355?t=Syy862r_qvqHVYwU5-HJ7g&s=19) darüber,wiki.iota.org dass [wiki.iota.org](wiki.iota.org) neu strukturiert wurde "Clearer structure, better navigation and content easier to find"
