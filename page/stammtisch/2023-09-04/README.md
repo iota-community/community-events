@@ -13,3 +13,5 @@
 11. **IOTA Ökosystem**: [NakamaLabs tweeten](https://twitter.com/Nakama_Labs/status/1696529748166680630?t=1udtDRXviM8rGY3P7dKYfg&s=19) über ihren Blogpost: [Get to Know the Team: Alejandro Elustondo](https://medium.com/@NakamaLabs/get-to-know-the-team-alejandro-elustondo-ed684948215e)
 12. **IOTA Adaption**: [Tweet von Zebra Technologies](https://twitter.com/ZebraDevs/status/1696734627744940350?t=Pm6KmW5NMLHb240PHFkIRA&s=19) daüber, dass José Manuel Cantera von @IOTA bei der ZebraDevCon2023 auftreten wird
 13. **IOTA Youtube**: von Common Sense Crypto: [IOTA is a Powerhouse...](https://youtu.be/Qsr7wXKxDxM?si=rYnsm-0CbUnNau5s)
+14. **IOTA Ökosystem**: Regine hat bei einem Real Estate Workshop mitgemacht: [Tweet](https://twitter.com/Energine/status/1697175531861549187?s=19)
+15. **IOTA Ökosystem**: [kowei tweetet](https://x.com/kowei1995/status/1697103025477996945?s=46&t=k3N3OEPJRomgTmyYh9qj5Q) über die [Tangle Treasury Ausschüttungen](https://t.co/TkzPauz7uY)
