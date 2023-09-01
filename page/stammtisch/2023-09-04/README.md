@@ -20,4 +20,5 @@
 18. **Crypto Drama**: SEC verschiebt Bitcoin Spot ETF Anträge: [Tweet](https://twitter.com/WatcherGuru/status/1697333427500949815?t=lPULnZfh5qSSgzmQdLrirw&s=19); [Tweet](https://twitter.com/FurkanCCTV/status/1697329651301888375?t=QNulDb9Zi3-sgMH-gZ_afw&s=19)
 19. Firefly Release: [Firefly Desktop 2.1.6](https://github.com/iotaledger/firefly/releases/tag/desktop-2.1.6)
 20. **IOTA Audio**: [Web 3 Telekom beyond the hype](https://twitter.com/Weaver_Labs/status/1628783189421395972?t=s84CQvXqsFhbcfXS14wCwQ&s=19) mit Michaele Nati
-21. **IOTA Hype**: Es gab eine Aussage von Dom zu UAE: [Tweet mit Screenshot](https://twitter.com/MoonacoPodcast/status/1696909176620888081?t=W7gZRU9Qxb9HarONWvICmw&s=19) 
+21. **IOTA Hype**: Es gab eine Aussage von Dom zu UAE: [Tweet mit Screenshot](https://twitter.com/MoonacoPodcast/status/1696909176620888081?t=W7gZRU9Qxb9HarONWvICmw&s=19)
+22. **Crypto Adaption**: Artikel: [China Court Declares Crypto as Legal Property](https://watcher.guru/news/china-court-declares-crypto-as-legal-property]])
