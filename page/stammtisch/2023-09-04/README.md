@@ -23,3 +23,5 @@
 21. **IOTA Hype**: Es gab eine Aussage von Dom zu UAE: [Tweet mit Screenshot](https://twitter.com/MoonacoPodcast/status/1696909176620888081?t=W7gZRU9Qxb9HarONWvICmw&s=19)
 22. **Crypto Adaption**: Artikel: [China Court Declares Crypto as Legal Property](https://watcher.guru/news/china-court-declares-crypto-as-legal-property]])
 23. **Shimmer DeFi Learn**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1697700859465834835?t=gy18jrUww6lOl5Nitfj-aQ&s=19) über [Beginner’s Guide to Yield Farming Part 3](https://coinmarketcap.com/community/articles/64d9e50b62115c7ccfb3c1c1/)
+24. **Assembly Spekulation**: Im [Thread von Jeff](https://twitter.com/_JeffR/status/1697629069800792220?s=20)
+25. **IOTA 2.0**: Was meint Hans Moog mit "This shit is so beautyful" in Github? [Tweet](https://twitter.com/unseriouscandle/status/1697690669140120063?t=UI-JQ5fNH3KW8vc_jzgASg&s=19)
