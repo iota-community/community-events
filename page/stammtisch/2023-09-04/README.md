@@ -22,3 +22,4 @@
 20. **IOTA Audio**: [Web 3 Telekom beyond the hype](https://twitter.com/Weaver_Labs/status/1628783189421395972?t=s84CQvXqsFhbcfXS14wCwQ&s=19) mit Michaele Nati
 21. **IOTA Hype**: Es gab eine Aussage von Dom zu UAE: [Tweet mit Screenshot](https://twitter.com/MoonacoPodcast/status/1696909176620888081?t=W7gZRU9Qxb9HarONWvICmw&s=19)
 22. **Crypto Adaption**: Artikel: [China Court Declares Crypto as Legal Property](https://watcher.guru/news/china-court-declares-crypto-as-legal-property]])
+23. **Shimmer DeFi Learn**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1697700859465834835?t=gy18jrUww6lOl5Nitfj-aQ&s=19) über [Beginner’s Guide to Yield Farming Part 3](https://coinmarketcap.com/community/articles/64d9e50b62115c7ccfb3c1c1/)
