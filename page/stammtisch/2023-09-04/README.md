@@ -25,3 +25,7 @@
 23. **Shimmer DeFi Learn**: [Shimmer tweetet](https://twitter.com/shimmernet/status/1697700859465834835?t=gy18jrUww6lOl5Nitfj-aQ&s=19) über [Beginner’s Guide to Yield Farming Part 3](https://coinmarketcap.com/community/articles/64d9e50b62115c7ccfb3c1c1/)
 24. **Assembly Spekulation**: Im [Thread von Jeff](https://twitter.com/_JeffR/status/1697629069800792220?s=20)
 25. **IOTA 2.0**: Was meint Hans Moog mit "This shit is so beautyful" in Github? [Tweet](https://twitter.com/unseriouscandle/status/1697690669140120063?t=UI-JQ5fNH3KW8vc_jzgASg&s=19)
+26. **IOTA Adaption**: Neuer [Tweet von Strnadl](https://twitter.com/archimate/status/1698001799968334030?t=7dFv_l81-ILEMcRVvKq9CQ&s=19) mit [IOTA inside (Tweet)](https://twitter.com/archimate/status/1698012091779608705?t=tNDmxcdOMvCv0H1jQO-EsQ&s=19)
+27. **IOTA Ökosystem**: [iotabee tweetet](https://twitter.com/iotabee/status/1697848168225165694?t=yAb8L2ySrBa78_e0LMJ_Uw&s=19) über ihre neue [Übersichtsseite zum IOTA Ökosystem](https://earlybee.iotabee.com/guide/evm-GameFi)
+28. **IOTA 2.0**: Hans Moog hat etwas zu zkProofs als Shard Lösung im Tangle L1 geschrieben. [Tweet mit Screenshot](https://twitter.com/LongLongfld/status/1698141116426830288?t=AiqYKRzM5sX6jwv2jLz7BQ&s=19)
+29. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/320-wochenr%C3%BCckblick-vom-27-august-bis-2-september-2023/)
