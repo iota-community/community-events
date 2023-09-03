@@ -28,4 +28,6 @@
 26. **IOTA Adaption**: Neuer [Tweet von Strnadl](https://twitter.com/archimate/status/1698001799968334030?t=7dFv_l81-ILEMcRVvKq9CQ&s=19) mit [IOTA inside (Tweet)](https://twitter.com/archimate/status/1698012091779608705?t=tNDmxcdOMvCv0H1jQO-EsQ&s=19)
 27. **IOTA Ökosystem**: [iotabee tweetet](https://twitter.com/iotabee/status/1697848168225165694?t=yAb8L2ySrBa78_e0LMJ_Uw&s=19) über ihre neue [Übersichtsseite zum IOTA Ökosystem](https://earlybee.iotabee.com/guide/evm-GameFi)
 28. **IOTA 2.0**: Hans Moog hat etwas zu zkProofs als Shard Lösung im Tangle L1 geschrieben. [Tweet mit Screenshot](https://twitter.com/LongLongfld/status/1698141116426830288?t=AiqYKRzM5sX6jwv2jLz7BQ&s=19)
-29. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/320-wochenr%C3%BCckblick-vom-27-august-bis-2-september-2023/)
+29. **Allg. News**: Burning Man Festival versinkt im Schlamm: [Tweet](https://twitter.com/brennende_frage/status/1698424358446793055?t=1aw0pXHbnweZlVD1XllS0g&s=19); [Tweet](https://twitter.com/amuse/status/1698322493998530817?t=YWxzI35q6gGO5HzDG53r4g&s=19)
+30. **Shimmer Promote**: Video "Shimmer in 90 sec": [Tweet](https://twitter.com/Deep_Sea_Iotan/status/1698321437109707170?t=oCPtkIdDmfRhFt-e_oVmVg&s=19)
+31. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/320-wochenr%C3%BCckblick-vom-27-august-bis-2-september-2023/)
