@@ -1,6 +1,6 @@
 ## IOTA Stammtischthemen für Montag, den 4.9.2023
 
-1. **IOTA Quicktakes**: Es gab wieder keine [IOTA Quicktakes auf Youtube]()
+1. **IOTA Quicktakes**: Es gab wieder keine IOTA Quicktakes auf Youtube
 2. **IOTA Adaption**: Offenbar ist bei [CopernicusEU](https://twitter.com/CopernicusEU?t=ymhgXSyh27QWJ2HjDudPbQ&s=09) IOTA inside: [Tweet](https://twitter.com/DarMo68/status/1696262472959701047?t=rm7T3F-5Bt22bYqtCM9MZg&s=19)
 3. **Crypto Drama**: [BitBoy Crypto](https://twitter.com/Bitboy_Crypto?t=bE2z9rt8xVwGcFvVe0rJng&s=09) wurde rausgeschmissen? [Tweet](https://twitter.com/WatcherGuru/status/1696214485566881991?t=ibOEz73YfaxErjye6A0XQQ&s=19)
 4. **IOTA Governements**: Bitte Abstimmen für oder gegen das neue [Tangle Community Treasury Grant Committee - Exhibit - V2](https://govern.iota.org/t/tangle-community-treasury-grant-committee-exhibit-v2/1665)
@@ -33,3 +33,4 @@
 31. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/320-wochenr%C3%BCckblick-vom-27-august-bis-2-september-2023/)
 32. **Shimmer Ökosystem**: [TanglePay tweetet](https://twitter.com/groupficom/status/1698533137612226997?t=oYjQ5qkzBR80F0e6i5TT4w&s=19) über [Meet GroupFi: Your Real Web3 Social Protocol](https://medium.com/@groupfi/meet-groupfi-your-real-web3-social-protocol-377563a37074)
 33. **IOTA Pump**: Wir haben in den letzten 7 Tagen einen 20% Pump gesehen. Besonders interessant, weil wir den Crypto Markt gerade outperformen: [blockchaincenter.net](www.blockchaincenter.net)
+34. **IOTA 2.0**: Es gab eine längere [Diskussion in #tanglemath](https://discord.com/channels/397872799483428865/399035929106579466/1147254384409989231) zwischen [Hans Moog](https://twitter.com/hus_qy?t=6TdMk3YQG1blK1YrZCSUUg&s=09) und [Buddhini](https://twitter.com/Buddh1n1?t=MaFqqn87GlDToPSRSALaBQ&s=09)
