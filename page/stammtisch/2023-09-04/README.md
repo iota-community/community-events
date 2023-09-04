@@ -36,3 +36,4 @@
 34. **IOTA 2.0**: Es gab eine längere [Diskussion in #tanglemath](https://discord.com/channels/397872799483428865/399035929106579466/1147254384409989231) zwischen [Hans Moog](https://twitter.com/hus_qy?t=6TdMk3YQG1blK1YrZCSUUg&s=09) und [Buddhini](https://twitter.com/Buddh1n1?t=MaFqqn87GlDToPSRSALaBQ&s=09)
 35. **IOTA Event**: [kowei tweetet](https://twitter.com/kowei1995/status/1698589077669622111?t=ZdSyXu_hKG4mTe4OAAhTuw&s=19) über ein [Event in Singapur](https://twitter.com/token2049?t=EuTZhIKc7dbOuNBVQJoxhg&s=09) mit IOTAinside am 13.Sept
 36. **Shimmer Youtube**: [Video Tutorial von Deepr Finance](https://youtu.be/vTuFcjpgMCI?si=6m5ZaRlSkPJ-arz0)
+37. **IOTA Audio**: [Twitter Spaces von Blockbytes](https://twitter.com/blockbytescom/status/1698674293649891371?t=50JKTzXP7qVuo_zMoWzaCQ&s=19)
