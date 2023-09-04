@@ -31,3 +31,4 @@
 29. **Allg. News**: Burning Man Festival versinkt im Schlamm: [Tweet](https://twitter.com/brennende_frage/status/1698424358446793055?t=1aw0pXHbnweZlVD1XllS0g&s=19); [Tweet](https://twitter.com/amuse/status/1698322493998530817?t=YWxzI35q6gGO5HzDG53r4g&s=19)
 30. **Shimmer Promote**: Video "Shimmer in 90 sec": [Tweet](https://twitter.com/Deep_Sea_Iotan/status/1698321437109707170?t=oCPtkIdDmfRhFt-e_oVmVg&s=19)
 31. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/320-wochenr%C3%BCckblick-vom-27-august-bis-2-september-2023/)
+32. **Shimmer Ökosystem**: [TanglePay tweetet](https://twitter.com/groupficom/status/1698533137612226997?t=oYjQ5qkzBR80F0e6i5TT4w&s=19) über [Meet GroupFi: Your Real Web3 Social Protocol](https://medium.com/@groupfi/meet-groupfi-your-real-web3-social-protocol-377563a37074)
