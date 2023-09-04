@@ -34,4 +34,5 @@
 32. **Shimmer Ökosystem**: [TanglePay tweetet](https://twitter.com/groupficom/status/1698533137612226997?t=oYjQ5qkzBR80F0e6i5TT4w&s=19) über [Meet GroupFi: Your Real Web3 Social Protocol](https://medium.com/@groupfi/meet-groupfi-your-real-web3-social-protocol-377563a37074)
 33. **IOTA Pump**: Wir haben in den letzten 7 Tagen einen 20% Pump gesehen. Besonders interessant, weil wir den Crypto Markt gerade outperformen: [blockchaincenter.net](www.blockchaincenter.net)
 34. **IOTA 2.0**: Es gab eine längere [Diskussion in #tanglemath](https://discord.com/channels/397872799483428865/399035929106579466/1147254384409989231) zwischen [Hans Moog](https://twitter.com/hus_qy?t=6TdMk3YQG1blK1YrZCSUUg&s=09) und [Buddhini](https://twitter.com/Buddh1n1?t=MaFqqn87GlDToPSRSALaBQ&s=09)
-35. **IOTA Event**: [kowei tweetet](https://twitter.com/kowei1995/status/1698589077669622111?t=ZdSyXu_hKG4mTe4OAAhTuw&s=19) über ein [Event in Singapur](https://twitter.com/token2049?t=EuTZhIKc7dbOuNBVQJoxhg&s=09) mit IOTAinside am 13.Sept 
+35. **IOTA Event**: [kowei tweetet](https://twitter.com/kowei1995/status/1698589077669622111?t=ZdSyXu_hKG4mTe4OAAhTuw&s=19) über ein [Event in Singapur](https://twitter.com/token2049?t=EuTZhIKc7dbOuNBVQJoxhg&s=09) mit IOTAinside am 13.Sept
+36. **Shimmer Youtube**: [Video Tutorial von Deepr Finance](https://youtu.be/vTuFcjpgMCI?si=6m5ZaRlSkPJ-arz0)
