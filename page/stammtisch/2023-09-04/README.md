@@ -32,3 +32,4 @@
 30. **Shimmer Promote**: Video "Shimmer in 90 sec": [Tweet](https://twitter.com/Deep_Sea_Iotan/status/1698321437109707170?t=oCPtkIdDmfRhFt-e_oVmVg&s=19)
 31. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/320-wochenr%C3%BCckblick-vom-27-august-bis-2-september-2023/)
 32. **Shimmer Ökosystem**: [TanglePay tweetet](https://twitter.com/groupficom/status/1698533137612226997?t=oYjQ5qkzBR80F0e6i5TT4w&s=19) über [Meet GroupFi: Your Real Web3 Social Protocol](https://medium.com/@groupfi/meet-groupfi-your-real-web3-social-protocol-377563a37074)
+33. **IOTA Pump**: Wir haben in den letzten 7 Tagen doch glatt mal einen 20% Pump gesehen. Besonders interessant weil wir den Crypto Markt outperformen: [blockchaincenter.net](www.blockchaincenter.net)
