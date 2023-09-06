@@ -1,4 +1,4 @@
-## Stammtischthemen für Montag, den 11.9.2023
+## IOTA Stammtischthemen für Montag, den 11.9.2023
 
 1. **IOTA Quicktakes**: Es gab wieder keine IOTA Quicktakes
 2. **IOTA Audio**: **[Twitter Spaces von Blockbytes](https://twitter.com/blockbytescom/status/1698727380364276032?s=20)
@@ -11,7 +11,10 @@
 9. **IOTA Ökosystem**: [swarmlogistics tweetet](https://twitter.com/SwarmLogistics/status/1698997622495715331?s=20) über [Telematik, Ortung & Navigation Fuhrpark im Blick](https://www.eurotransport.de/who-is-who/software-hardware/telematik-ortung-navigation/)
 10. **Crypto Adaption: [BREAKING VISA Launches Stablecoin On Solana](https://www.eurotransport.de/who-is-who/software-hardware/telematik-ortung-navigation/)
 11. **IOTA Ökosystem**: [Benjamin  tweetet](https://twitter.com/BenBoenisch/status/1699105144099512598?s=20) über ihre Erfahrungen bei der IAA und verlinken den Artikel: [Eto-Gruppe am Bodensee Erfolgreicher Sprung zur Digitalisierung](https://www.stuttgarter-nachrichten.de/inhalt.eto-gruppe-am-bodensee-erfolgreicher-sprung-zur-digitalisierung.7a23a7ac-0dc2-48c1-93c4-434d43d23a03.html)
-12. **IOTA Governement**: [JD macht eine Thread](https://twitter.com/Deep_Sea_Iotan/status/1699104444304994640zu?s=20) zur [V" von der Tangle Treassury](https://govern.iota.org/t/tangle-community-treasury-grant-committee-exhibit-v2-phase-i-discussion/1665)
+12. **IOTA Governement**: [JD macht eine Thread](https://twitter.com/Deep_Sea_Iotan/status/1699104444304994640zu?s=20) zur [Version 2 von der Tangle Treassury Voting Proposal](https://govern.iota.org/t/tangle-community-treasury-grant-committee-exhibit-v2-phase-i-discussion/1665)
+13. **IOTA Ökosystem**: [BlueLabs tweetet](https://twitter.com/BlueLabs_DeFi/status/1699120579645775883?s=20) über den Blogpost [Blue Labs Protocol](https://bluelabs.medium.com/blue-labs-protocols-c03842c0e179) in dem sie [swapline.com](https://swapline.com/home) vorstellen
+14. **Crypto Adaption**: [Metamask tweetet](https://twitter.com/MetaMask/status/1699062685550485743?s=20), dass man neuerdings über Metamask auscashen kann. Sie verlinken: [Explore the world of MetaMask Portfolio](https://metamask.io/portfolio/)
+15. 
 
 
  
