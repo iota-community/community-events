@@ -23,7 +23,7 @@
 21. **IOTA Artikel**: von Blockzeit: [How IOTA, Nano, And Hedera Are Harnessing The Power Of DAG To Revolutionize Decentralized Systems](https://blockzeit.com/how-iota-nano-and-hedera-are-harnessing-the-power-of-dag-to-revolutionize-decentralized-systems/)
 22. **Shimmer Pump**: [Bitforex (150K Follower) tweetet](https://twitter.com/bitforexcom/status/1699673659185508414?s=20) über den 20-30% Pump von SMR und darüber, dass Shimmer EVM bald startet
 23. **IOTA Event**: [Holger Köther tweetet](https://twitter.com/HolgerKoether/status/1699451116365164795?s=20) über das Battle of Blockchains Event nächste Woche am 13. Sept.
-24. 
+24. **Shimmer EVM**: [Shimmer EVM tweetet](https://twitter.com/shimmernet/status/1699724236447740149?s=20) über ein ShimmerEVM Development Update
 
 
  
