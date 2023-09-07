@@ -14,7 +14,12 @@
 12. **IOTA Governement**: [JD macht eine Thread](https://twitter.com/Deep_Sea_Iotan/status/1699104444304994640zu?s=20) zur [Version 2 von der Tangle Treassury Voting Proposal](https://govern.iota.org/t/tangle-community-treasury-grant-committee-exhibit-v2-phase-i-discussion/1665)
 13. **IOTA Ökosystem**: [BlueLabs tweetet](https://twitter.com/BlueLabs_DeFi/status/1699120579645775883?s=20) über den Blogpost [Blue Labs Protocol](https://bluelabs.medium.com/blue-labs-protocols-c03842c0e179) in dem sie [swapline.com](https://swapline.com/home) vorstellen
 14. **Crypto Adaption**: [Metamask tweetet](https://twitter.com/MetaMask/status/1699062685550485743?s=20), dass man neuerdings über Metamask auscashen kann. Sie verlinken: [Explore the world of MetaMask Portfolio](https://metamask.io/portfolio/)
-15. 
+15. **IOTA Ökosystem**: [Dr. Tangle tweetet](https://twitter.com/dr_tangle/status/1699520484478509120?s=20) über [Swapline DEX](https://twitter.com/SwaplineDEX) und beschreibt alle besonderen Eigenschaften (erste Fork von LiquidityBook)
+16. **IOTA News**: Die [IF tweetet](https://twitter.com/iota/status/1699460579205767282?s=20) darüber, dass die Funds von dem [The IOTA Seed Generator Scam](https://iotaseed.io/) wieder ausbezahlt werden
+17. **IOTA Ökosystem**: [Chunk Works (ehemals TangleHub) tweetet](https://twitter.com/Tanglehub_eu/status/1699442942853701751?s=20) über [Chunk Works joins European Blockchain Sandbox to enhance data security with quantum-secure framework](https://chunkworks.net/chunk-works-joins-european-blockchain-sandbox-to-enhance-data-security-with-quantum-secure-framework/)
+18. **IOTA Ökosystem**: Neue Partnerschaft zw. GroupFi und Soonaverse: [Tweet](https://twitter.com/groupficom/status/1699609913197244855?s=20)
+19. **Crypto News**: Rechlicher Meilenstein in den USA bzg. Crypto Verwahrung von Fimen: [Tweet](https://twitter.com/FurkanCCTV/status/1699500127302324616?s=20)
+20. 
 
 
  
