@@ -19,7 +19,11 @@
 17. **IOTA Ökosystem**: [Chunk Works (ehemals TangleHub) tweetet](https://twitter.com/Tanglehub_eu/status/1699442942853701751?s=20) über [Chunk Works joins European Blockchain Sandbox to enhance data security with quantum-secure framework](https://chunkworks.net/chunk-works-joins-european-blockchain-sandbox-to-enhance-data-security-with-quantum-secure-framework/)
 18. **IOTA Ökosystem**: Neue Partnerschaft zw. GroupFi und Soonaverse: [Tweet](https://twitter.com/groupficom/status/1699609913197244855?s=20)
 19. **Crypto News**: Rechlicher Meilenstein in den USA bzg. Crypto Verwahrung von Fimen: [Tweet](https://twitter.com/FurkanCCTV/status/1699500127302324616?s=20)
-20. 
+20. **IOTA Adaption**: [Trademark East Afrika tweetet](https://twitter.com/TradeMarkAfrica/status/1699454948386251107?s=20) über IOTA
+21. **IOTA Artikel**: von Blockzeit: [How IOTA, Nano, And Hedera Are Harnessing The Power Of DAG To Revolutionize Decentralized Systems](https://blockzeit.com/how-iota-nano-and-hedera-are-harnessing-the-power-of-dag-to-revolutionize-decentralized-systems/)
+22. **Shimmer Pump**: [Bitforex (150K Follower) tweetet](https://twitter.com/bitforexcom/status/1699673659185508414?s=20) über den 20-30% Pump von SMR und darüber, dass Shimmer EVM bald startet
+23. **IOTA Event**: [Holger Köther tweetet](https://twitter.com/HolgerKoether/status/1699451116365164795?s=20) über das Battle of Blockchains Event nächste Woche am 13. Sept.
+24. 
 
 
  
