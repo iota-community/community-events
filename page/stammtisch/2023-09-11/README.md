@@ -26,7 +26,9 @@
 24. **Shimmer EVM**: [Shimmer EVM tweetet](https://twitter.com/shimmernet/status/1699724236447740149?s=20) über ein ShimmerEVM Development Update
 25. **IOTA Patent**: Es gibt ein neues Patent HUAWEI mit IOTA inside: [Tweet](https://twitter.com/Wondere12985276/status/1699743766117007652?s=20); [FAST RECORD ATTACHMENT TO A DIRECTED ACYCLIC GRAPH BASED DISTRIBUTED LEDGER SYSTEM](https://worldwide.espacenet.com/patent/search/family/080623535/publication/WO2023155992A1?q=pn%3DWO2023155992A1)
 26. **IOTA Audio**: Am Freitag war ein AMA mit Dr. Tangle: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1699747079705276730?s=20)
-27. **IOTA Hype**: [Dom Schiener tweetet](https://twitter.com/DomSchiener/status/1699836186288878019?s=20) aus UAE mit: "Where we make magic happen #IOTA #Shimmer"
+27. **IOTA Hype**: [Dom Schiener tweetet](https://twitter.com/DomSchiener/status/1699836186288878019?s=20) aus UAE mit: "Where we make magic happen #IOTA #Shimmer". Er kommentiert den Vergleich zu 2017/18 Vibes im Discord mit "only this time on a bigger scale": [Tweet mit Screenshot](https://twitter.com/unseriouscandle/status/1700065036767502403?s=20)
+28. **IOTA Adaption**: [Strnadl tweetet](https://twitter.com/archimate/status/1700084507628470296?s=20) dass sie IOTA statt Hyperledger verwenden werden in dem iECO Projekt "iECO = intelligent Empowerment of Construction Industry"
+29. **IOTA Ökosystem**: [TangelPay tweetet](https://twitter.com/tanglepaycom/status/1700088521107833012?s=20) über ihre neue gestaltete [Webseite: tanglepay.com](https://tanglepay.com/)
 
 
  
