@@ -29,6 +29,8 @@
 27. **IOTA Hype**: [Dom Schiener tweetet](https://twitter.com/DomSchiener/status/1699836186288878019?s=20) aus UAE mit: "Where we make magic happen #IOTA #Shimmer". Er kommentiert den Vergleich zu 2017/18 Vibes im Discord mit "only this time on a bigger scale": [Tweet mit Screenshot](https://twitter.com/unseriouscandle/status/1700065036767502403?s=20)
 28. **IOTA Adaption**: [Strnadl tweetet](https://twitter.com/archimate/status/1700084507628470296?s=20) dass sie IOTA statt Hyperledger verwenden werden in dem iECO Projekt "iECO = intelligent Empowerment of Construction Industry"
 29. **IOTA Ökosystem**: [TangelPay tweetet](https://twitter.com/tanglepaycom/status/1700088521107833012?s=20) über ihre neue gestaltete [Webseite: tanglepay.com](https://tanglepay.com/)
+30. **IOTA Audio**: [Twitter Spaces von der Tangle Treassury DAO Runde](https://twitter.com/kowei1995/status/1700131626666316121?s=20)
+31. 
 
 
  
