@@ -1,7 +1,7 @@
 ## IOTA Stammtischthemen für Montag, den 11.9.2023
 
 1. **IOTA Quicktakes**: Es gab wieder keine IOTA Quicktakes
-2. **IOTA Audio**: **[Twitter Spaces von Blockbytes](https://twitter.com/blockbytescom/status/1698727380364276032?s=20)
+2. **IOTA Audio**: [Twitter Spaces von Blockbytes](https://twitter.com/blockbytescom/status/1698727380364276032?s=20)
 3. **Shimmer Promote**: Neue Shimmer Challenge von Cryptonaire [Tweet](https://twitter.com/CryptonaireApp/status/1698728066074259463?s=20)
 4. **IOTA Ökosystem**: [walt.id tweetet](https://twitter.com/walt_id/status/1698984323180048659?s=20) über ihr [Produkt Update #9](https://walt.id/blog/mu/update-9) mit IOTA insied
 5. **IOTA Ökosystem**: [Deepr Finance tweetet](https://twitter.com/DeeprFinance/status/1699052671960023158?s=20) über [The Importance of Security: How Deepr Finance Ensures Trustworthiness](https://medium.com/@Deepr.Finance/the-importance-of-security-how-deepr-finance-ensures-trustworthiness-28858d55de65)
@@ -27,10 +27,13 @@
 25. **IOTA Patent**: Es gibt ein neues Patent HUAWEI mit IOTA inside: [Tweet](https://twitter.com/Wondere12985276/status/1699743766117007652?s=20); [FAST RECORD ATTACHMENT TO A DIRECTED ACYCLIC GRAPH BASED DISTRIBUTED LEDGER SYSTEM](https://worldwide.espacenet.com/patent/search/family/080623535/publication/WO2023155992A1?q=pn%3DWO2023155992A1)
 26. **IOTA Audio**: Am Freitag war ein AMA mit Dr. Tangle: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1699747079705276730?s=20)
 27. **IOTA Hype**: [Dom Schiener tweetet](https://twitter.com/DomSchiener/status/1699836186288878019?s=20) aus UAE mit: "Where we make magic happen #IOTA #Shimmer". Er kommentiert den Vergleich zu 2017/18 Vibes im Discord mit "only this time on a bigger scale": [Tweet mit Screenshot](https://twitter.com/unseriouscandle/status/1700065036767502403?s=20)
-28. **IOTA Adaption**: [Strnadl tweetet](https://twitter.com/archimate/status/1700084507628470296?s=20) dass sie IOTA statt Hyperledger verwenden werden in dem iECO Projekt "iECO = intelligent Empowerment of Construction Industry"
+28. **IOTA Adaption**: [Strnadl tweetet](https://twitter.com/archimate/status/1700084507628470296?s=20) dass sie IOTA statt Hyperledger verwenden werden in dem iECO Projekt "iECO = intelligent Empowerment of Construction Industry"; Hier noch ein [Tweet von Strnadl](https://twitter.com/archimate/status/1700222891667656945?s=20) und noch ein [Tweet](https://twitter.com/archimate/status/1700228244866248759?s=20)
 29. **IOTA Ökosystem**: [TangelPay tweetet](https://twitter.com/tanglepaycom/status/1700088521107833012?s=20) über ihre neue gestaltete [Webseite: tanglepay.com](https://tanglepay.com/)
 30. **IOTA Audio**: [Twitter Spaces von der Tangle Treassury DAO Runde](https://twitter.com/kowei1995/status/1700131626666316121?s=20)
-31. 
+31. **Shimmer EVM**: Es gibt einen neuen [explorer.evm.testnet.shimmer.network](https://explorer.evm.testnet.shimmer.network/)
+32. **Shimmer EVM**: Erster wasp release candidat: [wasp v1.0.0-rc.1](https://github.com/iotaledger/wasp/releases/tag/v1.0.0-rc.1)
+33. **IOTA Youtube**: von Probably Nothing: [Shimmer EVM Fortschritt: Was kommt als nächstes für Shimmer und neue Projekte! IOTA & Shimmer News](https://www.youtube.com/watch?v=4l3qGMUbboM); Im [Tweet von Alexander](https://twitter.com/shortaktien/status/1700204602639937827?s=20) sind noch weitere (Ki generierte) Sprachen 
+34. 
 
 
  
