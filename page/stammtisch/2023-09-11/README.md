@@ -33,7 +33,7 @@
 31. **Shimmer EVM**: Es gibt einen neuen [explorer.evm.testnet.shimmer.network](https://explorer.evm.testnet.shimmer.network/)
 32. **Shimmer EVM**: Erster wasp release candidat: [wasp v1.0.0-rc.1](https://github.com/iotaledger/wasp/releases/tag/v1.0.0-rc.1)
 33. **IOTA Youtube**: von Probably Nothing: [Shimmer EVM Fortschritt: Was kommt als nächstes für Shimmer und neue Projekte! IOTA & Shimmer News](https://www.youtube.com/watch?v=4l3qGMUbboM); Im [Tweet von Alexander](https://twitter.com/shortaktien/status/1700204602639937827?s=20) sind noch weitere (Ki generierte) Sprachen 
-34. 
+34. **IOTA Ökosystem**: Neuer LendeXe Artikel: [LendeXe A New Era of DeFi Liquidation](https://medium.com/@LendeXeFinance/lendexe-a-new-era-of-defi-liquidation-8336e27a6e8e)
 
 
  
