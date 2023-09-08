@@ -17,13 +17,16 @@
 15. **IOTA Ökosystem**: [Dr. Tangle tweetet](https://twitter.com/dr_tangle/status/1699520484478509120?s=20) über [Swapline DEX](https://twitter.com/SwaplineDEX) und beschreibt alle besonderen Eigenschaften (erste Fork von LiquidityBook)
 16. **IOTA News**: Die [IF tweetet](https://twitter.com/iota/status/1699460579205767282?s=20) darüber, dass die Funds von dem [The IOTA Seed Generator Scam](https://iotaseed.io/) wieder ausbezahlt werden
 17. **IOTA Ökosystem**: [Chunk Works (ehemals TangleHub) tweetet](https://twitter.com/Tanglehub_eu/status/1699442942853701751?s=20) über [Chunk Works joins European Blockchain Sandbox to enhance data security with quantum-secure framework](https://chunkworks.net/chunk-works-joins-european-blockchain-sandbox-to-enhance-data-security-with-quantum-secure-framework/)
-18. **IOTA Ökosystem**: Neue Partnerschaft zw. GroupFi und Soonaverse: [Tweet](https://twitter.com/groupficom/status/1699609913197244855?s=20)
+18. **IOTA Ökosystem**: Neue Partnerschaft zw. GroupFi und Soonaverse: [Tweet](https://twitter.com/groupficom/status/1699609913197244855?s=20) und GroupFi und TangleSwap: [Tweet](https://twitter.com/groupficom/status/1699973860270248316?s=20)
 19. **Crypto News**: Rechlicher Meilenstein in den USA bzg. Crypto Verwahrung von Fimen: [Tweet](https://twitter.com/FurkanCCTV/status/1699500127302324616?s=20); Artikel: [Long-Awaited Bitcoin Accounting Rules to Capture Rises, Dips (2)](https://news.bloombergtax.com/financial-accounting/long-awaited-bitcoin-accounting-rules-to-capture-rises-dips)
 20. **IOTA Adaption**: [Trademark East Afrika tweetet](https://twitter.com/TradeMarkAfrica/status/1699454948386251107?s=20) über IOTA
 21. **IOTA Artikel**: von Blockzeit: [How IOTA, Nano, And Hedera Are Harnessing The Power Of DAG To Revolutionize Decentralized Systems](https://blockzeit.com/how-iota-nano-and-hedera-are-harnessing-the-power-of-dag-to-revolutionize-decentralized-systems/)
 22. **Shimmer Pump**: [Bitforex (150K Follower) tweetet](https://twitter.com/bitforexcom/status/1699673659185508414?s=20) über den 20-30% Pump von SMR und darüber, dass Shimmer EVM bald startet
 23. **IOTA Event**: [Holger Köther tweetet](https://twitter.com/HolgerKoether/status/1699451116365164795?s=20) über das Battle of Blockchains Event nächste Woche am 13. Sept.
 24. **Shimmer EVM**: [Shimmer EVM tweetet](https://twitter.com/shimmernet/status/1699724236447740149?s=20) über ein ShimmerEVM Development Update
+25. **IOTA Patent**: Es gibt ein neues Patent HUAWEI mit IOTA inside: [Tweet](https://twitter.com/Wondere12985276/status/1699743766117007652?s=20); [FAST RECORD ATTACHMENT TO A DIRECTED ACYCLIC GRAPH BASED DISTRIBUTED LEDGER SYSTEM](https://worldwide.espacenet.com/patent/search/family/080623535/publication/WO2023155992A1?q=pn%3DWO2023155992A1)
+26. **IOTA Audio**: Am Freitag war ein AMA mit Dr. Tangle: [Tweet](https://twitter.com/ShimmerSeaDEX/status/1699747079705276730?s=20)
+27. **IOTA Hype**: [Dom Schiener tweetet](https://twitter.com/DomSchiener/status/1699836186288878019?s=20) aus UAE mit: "Where we make magic happen #IOTA #Shimmer"
 
 
  
