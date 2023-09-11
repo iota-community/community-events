@@ -40,7 +40,7 @@
 38. **Shimmer Promote**: Ein [Thread von Shimmer](https://twitter.com/shimmernet/status/1700449085352784009?s=20) über die Features von Shimmer und Shimmer EVM
 39. **Crypto Drama**: Artikel: [Das passiert, wenn FTX seine Kryptos verkauft](https://www.btc-echo.de/news/altcoin-talfahrt-das-passiert-wenn-ftx-seine-kryptos-verkauft-171070/)
 40. **IOTA Event**: Die [IF tweetet](https://twitter.com/iota/status/1701158899083014362?s=20) über ein Event in Singapoor am 13. Sept. das von dem IOTA Ökosystem gesponsert wird
-41. **Shimmer Promote**: [Dom tweetet](https://twitter.com/DomSchiener/status/1700752179995320509?s=20) darüber, dass Shimmer normalerweise 1 sec Bestätigunszeiten hat?!? "Usually happens in 1sec... guaranteed finality"
+41. **Shimmer Promote**: [Dom tweetet](https://twitter.com/DomSchiener/status/1700752179995320509?s=20) darüber, dass Shimmer EVM normalerweise unter 1 sec Bestätigunszeiten hat. "Usually happens in 1sec... guaranteed finality"
 42. **IOTA Audio**: AM Donnerstag kommt Dr. Tangle zur TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1700777456003674207?s=20)
 43. **IOTA Promote**: Gibt es neben [iotashops](https://www.iotashops.com/de/iota-merchandise/#) jetzt eine zweite Firma, die IOTA Merch anbietet? [Tweet von IOTANARY](https://twitter.com/iotanary/status/1700503210673185228?s=20)
 44. **Crypto News**: Zur Zeit ist [Ethereum Singapore 2023](https://twitter.com/ethereum_sg) mit Vitalik Buterin in kurzen Hosen: [Tweet](https://twitter.com/ethereum_sg/status/1701115739791556980?s=20)
