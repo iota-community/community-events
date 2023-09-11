@@ -1,6 +1,6 @@
 ## IOTA Stammtischthemen für Montag, den 11.9.2023
 
-1. **IOTA Quicktakes**: Es gab wieder keine IOTA Quicktakes
+1. **IOTA Quicktakes**: Es gab wieder keine IOTA Quicktakes letzten Montag
 2. **IOTA Audio**: [Twitter Spaces von Blockbytes](https://twitter.com/blockbytescom/status/1698727380364276032?s=20)
 3. **Shimmer Promote**: Neue Shimmer Challenge von Cryptonaire [Tweet](https://twitter.com/CryptonaireApp/status/1698728066074259463?s=20)
 4. **IOTA Ökosystem**: [walt.id tweetet](https://twitter.com/walt_id/status/1698984323180048659?s=20) über ihr [Produkt Update #9](https://walt.id/blog/mu/update-9) mit IOTA insied
