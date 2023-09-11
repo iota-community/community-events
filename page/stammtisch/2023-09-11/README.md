@@ -31,7 +31,7 @@
 29. **IOTA Ökosystem**: [TangelPay tweetet](https://twitter.com/tanglepaycom/status/1700088521107833012?s=20) über ihre neue gestaltete [Webseite: tanglepay.com](https://tanglepay.com/)
 30. **IOTA Audio**: [Twitter Spaces von der Tangle Treassury DAO Runde](https://twitter.com/kowei1995/status/1700131626666316121?s=20)
 31. **Shimmer EVM**: Es gibt einen neuen [explorer.evm.testnet.shimmer.network](https://explorer.evm.testnet.shimmer.network/)
-32. **Shimmer EVM**: Erster wasp release candidat: [wasp v1.0.0-rc.1](https://github.com/iotaledger/wasp/releases/tag/v1.0.0-rc.1)
+32. **Shimmer EVM**: Erster wasp release Kandidat: [wasp v1.0.0-rc.1](https://github.com/iotaledger/wasp/releases/tag/v1.0.0-rc.1)
 33. **IOTA Youtube**: von Probably Nothing: [Shimmer EVM Fortschritt: Was kommt als nächstes für Shimmer und neue Projekte! IOTA & Shimmer News](https://www.youtube.com/watch?v=4l3qGMUbboM); Im [Tweet von Alexander](https://twitter.com/shortaktien/status/1700204602639937827?s=20) sind noch weitere (Ki generierte) Sprachen 
 34. **IOTA Ökosystem**: Neuer [LendeXe](https://twitter.com/LendeXeFinance) Artikel: [LendeXe A New Era of DeFi Liquidation](https://medium.com/@LendeXeFinance/lendexe-a-new-era-of-defi-liquidation-8336e27a6e8e)
 35. **Shimmer Artikel**: von Chain Affairs: [Shimmer’s UTXO-based DAG ledger: The future of blockchain scalability for DeFi, gaming, and supply chain management](https://chainaffairs.com/shimmers-utxo-based-dag-ledger-the-future-of-blockchain-scalability-for-defi-gaming-and-supply-chain-management/)
