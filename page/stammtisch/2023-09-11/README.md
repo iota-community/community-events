@@ -17,7 +17,7 @@
 15. **IOTA Ökosystem**: [Dr. Tangle tweetet](https://twitter.com/dr_tangle/status/1699520484478509120?s=20) über [Swapline DEX](https://twitter.com/SwaplineDEX) und beschreibt alle besonderen Eigenschaften (erste Fork von LiquidityBook)
 16. **IOTA News**: Die [IF tweetet](https://twitter.com/iota/status/1699460579205767282?s=20) darüber, dass die Funds von dem [The IOTA Seed Generator Scam](https://iotaseed.io/) wieder ausbezahlt werden
 17. **IOTA Ökosystem**: [Chunk Works (ehemals TangleHub) tweetet](https://twitter.com/Tanglehub_eu/status/1699442942853701751?s=20) über [Chunk Works joins European Blockchain Sandbox to enhance data security with quantum-secure framework](https://chunkworks.net/chunk-works-joins-european-blockchain-sandbox-to-enhance-data-security-with-quantum-secure-framework/)
-18. **IOTA Ökosystem**: Neue Partnerschaft zw. GroupFi und Soonaverse: [Tweet](https://twitter.com/groupficom/status/1699609913197244855?s=20) und GroupFi und TangleSwap: [Tweet](https://twitter.com/groupficom/status/1699973860270248316?s=20)
+18. **IOTA Ökosystem**: Neue Partnerschaft zw. GroupFi und Soonaverse ([Tweet](https://twitter.com/groupficom/status/1699609913197244855?s=20)), GroupFi und TangleSwap ([Tweet](https://twitter.com/groupficom/status/1699973860270248316?s=20)) und GroupFi und iotabe ([Tweet](https://twitter.com/iotabee/status/1701083614375821723?s=20))
 19. **Crypto News**: Rechlicher Meilenstein in den USA bzg. Crypto Verwahrung von Fimen: [Tweet](https://twitter.com/FurkanCCTV/status/1699500127302324616?s=20); Artikel: [Long-Awaited Bitcoin Accounting Rules to Capture Rises, Dips (2)](https://news.bloombergtax.com/financial-accounting/long-awaited-bitcoin-accounting-rules-to-capture-rises-dips)
 20. **IOTA Adaption**: [Trademark East Afrika tweetet](https://twitter.com/TradeMarkAfrica/status/1699454948386251107?s=20) über IOTA
 21. **IOTA Artikel**: von Blockzeit: [How IOTA, Nano, And Hedera Are Harnessing The Power Of DAG To Revolutionize Decentralized Systems](https://blockzeit.com/how-iota-nano-and-hedera-are-harnessing-the-power-of-dag-to-revolutionize-decentralized-systems/)
@@ -35,8 +35,15 @@
 33. **IOTA Youtube**: von Probably Nothing: [Shimmer EVM Fortschritt: Was kommt als nächstes für Shimmer und neue Projekte! IOTA & Shimmer News](https://www.youtube.com/watch?v=4l3qGMUbboM); Im [Tweet von Alexander](https://twitter.com/shortaktien/status/1700204602639937827?s=20) sind noch weitere (Ki generierte) Sprachen 
 34. **IOTA Ökosystem**: Neuer LendeXe Artikel: [LendeXe A New Era of DeFi Liquidation](https://medium.com/@LendeXeFinance/lendexe-a-new-era-of-defi-liquidation-8336e27a6e8e)
 35. **Shimmer Artikel**: von Chain Affairs: [Shimmer’s UTXO-based DAG ledger: The future of blockchain scalability for DeFi, gaming, and supply chain management](https://chainaffairs.com/shimmers-utxo-based-dag-ledger-the-future-of-blockchain-scalability-for-defi-gaming-and-supply-chain-management/)
-36. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/323-week-in-review-from-3th-to-9nd-september-2023/)
-37. 
+36. **Allg. News**: Deutschland ist Weltmeister! Im Basketball, während die Fußball Nationalmanschaft gegen Japan versagt und Hansi Flick der Bundestrainer rausgeworfen wird...
+37. **Shimmer Hype**: [Kappy tweetet](https://twitter.com/Rob_Daykin/status/1701153715007136173?s=20) darüber, wie super schnell [Virtue_money](https://twitter.com/Virtue_Money) auf Shimmer funktioniert
+38. **Shimmer Promote**: Ein [Thread von Shimmer](https://twitter.com/shimmernet/status/1700449085352784009?s=20) über die Features on Shimmer und Shimmer EVM
+39. **Crypto Drama**: Artikel: [Das passiert, wenn FTX seine Kryptos verkauft](https://www.btc-echo.de/news/altcoin-talfahrt-das-passiert-wenn-ftx-seine-kryptos-verkauft-171070/)
+40. **IOTA Event**: Die [IF tweetet](https://twitter.com/iota/status/1701158899083014362?s=20) über ein Event in Singapoor am 13. Sept. das von dem IOTA Ökosystem gesponsert wird
+41. **Shimmer Promote**: [Dom tweetet](https://twitter.com/DomSchiener/status/1700752179995320509?s=20) darüber, dass Shimmer teilweise 1 sec confirmation times hat?!? "Usually happens in 1sec... guaranteed finality"
+42. **IOTA Audio**: AM Donnerstag kommt Dr. Tangle zur TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1700777456003674207?s=20)
+43. **IOTA Promote**: Gibt es neben iotashops jetzt eine zweite Firma, die IOTA Merch anbietet? [Tweet von IOTANARY](https://twitter.com/iotanary/status/1700503210673185228?s=20)
+44. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/323-week-in-review-from-3th-to-9nd-september-2023/)
 
 
  
