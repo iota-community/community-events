@@ -45,6 +45,8 @@
 43. **IOTA Promote**: Gibt es neben [iotashops](https://www.iotashops.com/de/iota-merchandise/#) jetzt eine zweite Firma, die IOTA Merch anbietet? [Tweet von IOTANARY](https://twitter.com/iotanary/status/1700503210673185228?s=20)
 44. **Crypto News**: Zur Zeit ist [Ethereum Singapore 2023](https://twitter.com/ethereum_sg) mit Vitalik Buterin in kurzen Hosen: [Tweet](https://twitter.com/ethereum_sg/status/1701115739791556980?s=20)
 45. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/323-week-in-review-from-3th-to-9nd-september-2023/)
+46. **IOTA Ökosystem**: [Nakamalabs tweeten](https://twitter.com/Nakama_Labs/status/1701245423870955747?s=20) über ihre Kampagne: [Join the Nakama dApps Quiz Campaign on Zealy: Play, Learn, Earn](https://medium.com/@NakamaLabs/join-the-nakama-dapps-quiz-campaign-on-zealy-play-learn-earn-ae9a6653e836)
+47. **IOTA Audio**: [Blockbytes Twitter Spaces vom 11.9.](https://twitter.com/blockbytescom/status/1701240183700533254?s=20)
 
 
  
