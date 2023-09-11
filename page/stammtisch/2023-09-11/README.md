@@ -43,7 +43,8 @@
 41. **Shimmer Promote**: [Dom tweetet](https://twitter.com/DomSchiener/status/1700752179995320509?s=20) darüber, dass Shimmer normalerweise 1 sec Bestätigunszeiten hat?!? "Usually happens in 1sec... guaranteed finality"
 42. **IOTA Audio**: AM Donnerstag kommt Dr. Tangle zur TangleGang: [Tweet](https://twitter.com/GangTangleTalk/status/1700777456003674207?s=20)
 43. **IOTA Promote**: Gibt es neben [iotashops](https://www.iotashops.com/de/iota-merchandise/#) jetzt eine zweite Firma, die IOTA Merch anbietet? [Tweet von IOTANARY](https://twitter.com/iotanary/status/1700503210673185228?s=20)
-44. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/323-week-in-review-from-3th-to-9nd-september-2023/)
+44. **Crypto News**: Zur Zeit ist [Ethereum Singapore 2023](https://twitter.com/ethereum_sg) mit Vitalik Buterin in kurzen Hosen: [Tweet](https://twitter.com/ethereum_sg/status/1701115739791556980?s=20)
+45. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/323-week-in-review-from-3th-to-9nd-september-2023/)
 
 
  
