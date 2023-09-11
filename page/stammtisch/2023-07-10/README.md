@@ -38,3 +38,7 @@
 36. **Shimmer Promote**: [Everything Tangle tweetet](https://twitter.com/allthingstangle/status/1677862097210982400?s=20) über ein neues [Video zu Thema EVM](https://twitter.com/allthingstangle/status/1677862107440881666?s=20)
 37. **Twitter Gezwitscher**: [Hans Moog tweetet](https://twitter.com/hus_qy/status/1678127381075185665?s=20) über ein "faszinierendes Paper": [Evolution of a minimal cell](https://www.nature.com/articles/s41586-023-06288-x)
 38. **IOTA NFT Ökosystem**: [Snip Universe verkündet](https://twitter.com/snippool/status/1678353829018968064?s=20) ihre Tokenomics; Hier noch ein [Retweet von IotaOrigin](https://twitter.com/origin_iota/status/1678357706237792257?s=20) dazu
+39. **IOTA Ökosystem**: [GroupFi tweetet](https://twitter.com/groupficom/status/1701081428098990489?s=20) über die Partnerschaft mit [iotabee](https://twitter.com/iotabee)
+40. **Allg. News**: Deutschland ist Weltmeister! Im Basketball, während die Fußball Nationalmanschaft gegen Japan versagt und Hansi Flick der Bundestrainer rausgeworfen wird...
+41. **Shimmer Hype**: [Kappy tweetet](https://twitter.com/Rob_Daykin/status/1701153715007136173?s=20) darüber, wie super schnell [Virtue_money](https://twitter.com/Virtue_Money) auf Shimmer funktioniert
+42. **Shimmer Promote**: Ein [Thread von Shimmer](https://twitter.com/shimmernet/status/1700449085352784009?s=20) über die Features on Shimmer und Shimmer EVM
