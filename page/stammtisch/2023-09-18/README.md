@@ -45,4 +45,5 @@
 43. **IOTA Ökosystem**: [IOTAMPC tweeten](https://x.com/iotampc/status/1702573642968936652?s=20) über ihre "secure and truly decentralized bridge" die wohl fertig gestestet ist
 44. **IOTA Audio**: Am Mittwoch kommt Dr. Tangle zum apeDAO: [Tweet](https://x.com/iotapes/status/1702984750879650184?s=20)
 45. **IOTA Stardust**: In 2 Wochen (am 4.Oktober) soll IOTA Stardust auf dem Mainnet kommen. Ich frag mich immernoch: Mit oder ohne Coordicide (bzw. DeCoo)? [Tweet](https://x.com/Vrom14286662/status/1702746396409909692?s=20)
-46. 
+46. **IOTA Youtube**: [IOTA: Das ist ein Eigentor!](https://www.youtube.com/watch?v=A7nXRhSQWEM)
+47. **IOTA Youtube**: von BlockBuilders: [WTF: IOTA verwässert Anleger um über 60% ](https://www.youtube.com/watch?v=63mUB5aZOuk)
