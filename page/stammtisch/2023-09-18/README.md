@@ -53,8 +53,9 @@
 51. **IOTA Drama**: Jelle Milenar wurde kurzfristig von Dom gebannt im Discord: [Tweet von Jelle](https://x.com/JelleFm/status/1703430735334371677?s=20)
 52. **IOTA Audio**: [Twitter Spaces von Blockbytes](https://x.com/blockbytescom/status/1703543236986319171?s=20)
 53. **IOTA Science**: [Norman Minhas tweetet](https://x.com/malicious_dll/status/1703485292114751756?s=20) über sein Research Paper: [Using Internet of Things Application for Energy-Efficient and Lightweight Internet of Drones Networks](https://www.computer.org/csdl/magazine/it/2023/04/10224807/1PI5Vw0P4Iw) das gepublished wurde
-54. **IOTA Ökosystem**: [Build 5 retweetet](https://x.com/build5tech/status/1703504787818561932?s=20) das [#network3 Tutorial Video](https://youtu.be/geGowQAwBmQ?si=h7uf827w8FCeuM6X) von einem [Certified Cisco Systems Instructor (John_Capobianco)](https://twitter.com/John_Capobianco), der darin die Build 5 API verwendet 
-55. **IOTA Spekulation**: [Guido Lange will Short gehen](https://x.com/GuidoLange/status/1703336526191464628?s=20)
-56. **IOTA Audio**: Am Donnerstag kommt Dom zur TangleGang in den Sprachchat: [Tweet](https://x.com/GangTangleTalk/status/1703312735444865108?s=20)
-57. **Shimmer Ökosystem**: [SS Tihomir tweetet](https://x.com/tihomir619/status/1703492699519586689?s=20) über seine neuartige DEX auf Shimmer ([mikosava.com](https://mikosava.com/)) und verlinkt auch die Beschreibung davon: [docsv2.mikosava.com](https://docsv2.mikosava.com/)
-58. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/324-wochenr%C3%BCckblick-vom-10-bis-16-september-2023/)
+54. **IOTA Ökosystem**: [Build 5 retweetet](https://x.com/build5tech/status/1703504787818561932?s=20) das [#network3 Tutorial Video](https://youtu.be/geGowQAwBmQ?si=h7uf827w8FCeuM6X) von einem [Certified Cisco Systems Instructor (John_Capobianco)](https://twitter.com/John_Capobianco), der darin die Build 5 API verwendet
+55. **IOTA Artikel**: von Bitcoinblog: [IOTA: „Das ist 100% Diebstahl unseres Geldes.“](https://bitcoinblog.de/2023/09/18/iota-das-ist-100-diebstahl-unseres-geldes/)
+56. **IOTA Spekulation**: [Guido Lange will Short gehen](https://x.com/GuidoLange/status/1703336526191464628?s=20)
+57. **IOTA Audio**: Am Donnerstag kommt Dom zur TangleGang in den Sprachchat: [Tweet](https://x.com/GangTangleTalk/status/1703312735444865108?s=20)
+58. **Shimmer Ökosystem**: [SS Tihomir tweetet](https://x.com/tihomir619/status/1703492699519586689?s=20) über seine neuartige DEX auf Shimmer ([mikosava.com](https://mikosava.com/)) und verlinkt auch die Beschreibung davon: [docsv2.mikosava.com](https://docsv2.mikosava.com/)
+59. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/324-wochenr%C3%BCckblick-vom-10-bis-16-september-2023/)
