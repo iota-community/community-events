@@ -46,7 +46,7 @@
 44. **IOTA Audio**: Am Mittwoch kommt [Dr. Tangle](https://twitter.com/dr_tangle) zum [apeDAO](https://twitter.com/iotapes): [Tweet](https://x.com/iotapes/status/1702984750879650184?s=20)
 45. **IOTA Stardust**: In 2 Wochen (am 4.Oktober) soll IOTA Stardust auf dem Mainnet kommen. Ich frag mich immernoch: Mit oder ohne Coordicide (bzw. DeCoo)? [Tweet](https://x.com/Vrom14286662/status/1702746396409909692?s=20)
 46. **IOTA Youtube**: [IOTA: Das ist ein Eigentor!](https://www.youtube.com/watch?v=A7nXRhSQWEM)
-47. **IOTA Youtube**: von BlockBuilders: [WTF: IOTA verwässert Anleger um über 60% ](https://www.youtube.com/watch?v=63mUB5aZOuk)
+47. **IOTA Youtube**: von BlockBuilders: [WTF: IOTA verwässert Anleger um über 60%](https://www.youtube.com/watch?v=63mUB5aZOuk)
 48. **IOTA Drama**: David Sonstebo meldet sich zu Wort (bezügl. Punkt 36): [Can lightning serve as a silver lining?](https://medium.com/@DavidSonstebo/can-lightning-serve-as-a-silver-lining-eb3e44a15aa1); Er bekam dafür viel Zuspruch: [Chris Müller](https://x.com/ChrisMuellerHI/status/1703407038024302927?s=20); [Jelle Milenar](https://x.com/JelleFm/status/1703417433078243754?s=20);  
 49. **IOTA Progress**: [Dom postet](https://x.com/shimmer_academy/status/1703435288540762459?s=20) 6 Punkte die in Q4 anstehen: 1. Shimmer EVM; 2. 60+ dApps; 3. UAE Foundation Setup; 4. New exchanges and custodian partners; 5. RWA tokenization usecases
 50. **IOTA Vote**: Neuer Vote: [Tangle Community Treasury Grant Committee - Exhibit - V2 (Phase I Discussion Version 2)](https://govern.iota.org/t/tangle-community-treasury-grant-committee-exhibit-v2-phase-i-discussion-version-2/1668)
