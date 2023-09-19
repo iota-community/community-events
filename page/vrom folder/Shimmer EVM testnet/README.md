@@ -32,3 +32,4 @@ Then use [Metamask Wallet](https://metamask.io/) to connect to the following web
 25. **IOTA Youtube**: [Dark Mythos im TangleGang Sprachchat](https://www.youtube.com/watch?v=8kV-sggIdK4)
 26. **Chakra Labs**: [ShakraLabs tweetet](https://twitter.com/LabsChakra/status/1670077826005966850?s=20) von ihrer Webseite: [https://dapp.chakralabs.app/](https://dapp.chakralabs.app/)
 27. **IceCream Swap**: [Icecream Swap tweetet](https://twitter.com/icecream_swap/status/1686354183539019776?s=20) über ihre DEX [icecreamswap.com](https://icecreamswap.com/)
+28. **Mikosava DEX**: [tihomir619 tweetet]() über [mikosava.com/swap](https://mikosava.com/swap)
