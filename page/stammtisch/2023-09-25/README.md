@@ -1,0 +1,9 @@
+## Stammtischthemen für Montag, den 25.9.2023
+
+1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1703725399673319822?s=20) über die [IOTA Quicktakes...]()
+2. **IOTA Drama**: [Torsten Heissler tweetet](https://x.com/theissler/status/1703846055157072136?s=20) über Dom und kritisiert dabei die zentrale Entscheidung bei der Supply Erhöhung. [David Sonstebo unterstützt](https://x.com/DavidSonstebo/status/1703850069638652203?s=20) die Ansicht offenbar
+3. **IOTA Ökosystem**: Neues Video von John Capobianco über die Spyce_5 Api in Kombiantion mit Cisco Neetwork Devices: [network3 Trusted Intent Based Automated Configuration Management](https://youtu.be/_ZAQyQyuUn4?si=SzLnz83hilvdwaep) In der Beschreibung steht: " Who wants to rewrite the internet? .. create Inten-based source of truth DigitalTwin NFTs for Cisco network devices. ... Is this the missing piece in Ai adoption .. TRUSTED SOURCE OF TRUTH of date!"; [Regine kommentiert](https://x.com/Energine/status/1704025979587371387?s=20) das; [Build 5 retweetet](https://x.com/build5tech/status/1702420578358165685?s=20) das
+4. **IOTA Ökosystem**: [Jelle Milenar Thread](https://x.com/JelleFm/status/1704041131615383878?s=20) darüber, dass ihr Identity Wallet als Beta fertig ist und diese Woche an mehreren Events gezeigt wird
+5. **IOTA Audio**: Neuer Moonaco Podcast mit Dom Schiener: [Tweet](https://x.com/MoonacoPodcast/status/1703814265767956808?s=20); [Spotify Link](https://spotify.link/qkI25S8ncDb)
+6. 
+7. 
