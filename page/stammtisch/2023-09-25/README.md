@@ -12,3 +12,6 @@
 10. **Shimmer Ökosystem**: [Virtue Money tweetet](https://x.com/Virtue_Money/status/1703780697133941144?s=20) darüber, dass [virtue.money](https://virtue.money/) live im Shimmer Testnetz ist
 11. **Shimmer Ökosystem**: [TangleSwap retweetet](https://x.com/zokyo_io/status/1703794353247014930?s=20), dass ihre Smart Contracts auditiert wurden
 12. **IOTA Exchange**: [Viviswap tweetet](https://x.com/viviswapcom/status/1704134122439127234?s=20) u.a. mit Hashtag IOTA und verlinkt die Börse [viviswap.com](https://www.viviswap.com/) wo man direkt EUR in Miota tauschen kann
+13. **IOTA Artikel**: von Blockzeit: [IOTA 2.0: A Comprehensive Look At Its Network Upgrade And MIOTA Token Revival](https://blockzeit.com/iota-2-0-a-comprehensive-look-at-its-network-upgrade-and-miota-revival/)
+14. **IOTA Audio**: Dom Schiener war in einem [Twitter Spaces Event von Moby Media](https://x.com/mobymedia/status/1703951137542484119?s=20) mit fast 1K Leuten im Livestream
+15. 
