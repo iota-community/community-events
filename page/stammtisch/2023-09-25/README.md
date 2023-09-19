@@ -7,3 +7,6 @@
 5. **IOTA Audio**: Neuer [Moonaco Podcast](https://x.com/MoonacoPodcast) mit Dom Schiener: [Tweet](https://x.com/MoonacoPodcast/status/1703814265767956808?s=20); [Spotify Link](https://spotify.link/qkI25S8ncDb)
 6. **IOTA Spekulation**: Der [Wirtschaftsminister von den UAE tweetet](https://x.com/ThaniAlZeyoudi/status/1704051108421775853?s=20) darüber, dass er bis 2024 die SupplyChain digitalisieren will. Er hat darüber wohl beim Global Trade & Supply Chain Summit gesprochen um ausländische Politiker zu überzeugen
 7. **IOTA Youtube**: von Blockbytes: [IOTA's BIG Announcement and the Effects on Shimmer? Shimmer Community Spaces (mit Dom Schiener)](https://www.youtube.com/watch?v=2TGF0CNH_g0)
+8. **IOTA Ökosystem**: [Rewards Bunny tweetet](https://x.com/rewardsbunny/status/1704106318141988939?s=20) darüber, dass sie Shimmer integrieren.[Kowei retweetet](https://x.com/kowei1995/status/1704107354483216412?s=20) das und erklärt, dass es sich dabei um ein "crypto shopback startup based in Singapore handelt, die global werden wollen. Hier die Webseite von [rewardsbunny.com/](https://rewardsbunny.com/)
+9. **IOTA Adaption**: Die [IF tweetet](https://x.com/iota/status/1704118150571160045?s=20) über den Blogpost: [Blockchain for UN Charter Values and SDGs - IOTA and BC100+ Leading the Way TL;DR:](https://blog.iota.org/blockchain-un-charter-values-sdgs/)
+10. 
