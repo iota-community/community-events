@@ -6,4 +6,4 @@
 4. **IOTA Ökosystem**: [Jelle Milenar Thread](https://x.com/JelleFm/status/1704041131615383878?s=20) darüber, dass ihr Identity Wallet als Beta fertig ist und diese Woche an mehreren Events gezeigt wird
 5. **IOTA Audio**: Neuer [Moonaco Podcast](https://x.com/MoonacoPodcast) mit Dom Schiener: [Tweet](https://x.com/MoonacoPodcast/status/1703814265767956808?s=20); [Spotify Link](https://spotify.link/qkI25S8ncDb)
 6. **IOTA Spekulation**: Der [Wirtschaftsminister von den UAE tweetet](https://x.com/ThaniAlZeyoudi/status/1704051108421775853?s=20) darüber, dass er bis 2024 die SupplyChain digitalisieren will. Er hat darüber wohl beim Global Trade & Supply Chain Summit gesprochen um ausländische Politiker zu überzeugen
-7. 
+7. **IOTA Youtube**: von Blockbytes: [IOTA's BIG Announcement and the Effects on Shimmer? Shimmer Community Spaces (mit Dom Schiener)](https://www.youtube.com/watch?v=2TGF0CNH_g0)
