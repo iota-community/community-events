@@ -33,3 +33,4 @@ Then use [Metamask Wallet](https://metamask.io/) to connect to the following web
 26. **Chakra Labs**: [ShakraLabs tweetet](https://twitter.com/LabsChakra/status/1670077826005966850?s=20) von ihrer Webseite: [https://dapp.chakralabs.app/](https://dapp.chakralabs.app/)
 27. **IceCream Swap**: [Icecream Swap tweetet](https://twitter.com/icecream_swap/status/1686354183539019776?s=20) über ihre DEX [icecreamswap.com](https://icecreamswap.com/)
 28. **Mikosava DEX**: [tihomir619 tweetet]() über [mikosava.com/swap](https://mikosava.com/swap)
+29. **Virtue Money (DeFi)**: [Virtue Money tweetet]() darüber, dass [virtue.money](https://virtue.money/) live im Testnetz ist
