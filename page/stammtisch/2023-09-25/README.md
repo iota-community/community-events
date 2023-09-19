@@ -9,4 +9,4 @@
 7. **IOTA Youtube**: von Blockbytes: [IOTA's BIG Announcement and the Effects on Shimmer? Shimmer Community Spaces (mit Dom Schiener)](https://www.youtube.com/watch?v=2TGF0CNH_g0)
 8. **IOTA Ökosystem**: [Rewards Bunny tweetet](https://x.com/rewardsbunny/status/1704106318141988939?s=20) darüber, dass sie Shimmer integrieren.[Kowei retweetet](https://x.com/kowei1995/status/1704107354483216412?s=20) das und erklärt, dass es sich dabei um ein "crypto shopback startup based in Singapore handelt, die global werden wollen. Hier die Webseite von [rewardsbunny.com/](https://rewardsbunny.com/)
 9. **IOTA Adaption**: Die [IF tweetet](https://x.com/iota/status/1704118150571160045?s=20) über den Blogpost: [Blockchain for UN Charter Values and SDGs - IOTA and BC100+ Leading the Way TL;DR:](https://blog.iota.org/blockchain-un-charter-values-sdgs/)
-10. 
+10. **Shimmer Ökosystem**: [Virtue Money tweetet](https://x.com/Virtue_Money/status/1703780697133941144?s=20) darüber, dass [virtue.money](https://virtue.money/) live im Shimmer Testnetz ist
