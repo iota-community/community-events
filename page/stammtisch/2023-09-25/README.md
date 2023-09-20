@@ -18,4 +18,5 @@
 16. **IOTA Ökosystem**: [TanglePay tweetet](https://x.com/tanglepaycom/status/1704316909871845540?s=20), dass sie bereit sind für Stardust und man nichts tun muss
 17. **IOTA Event**: Mariana de la Roche war bei einem Crypto Dinner nach der BaFin-Tech Bundesbank Konferenz: [Tweet](https://x.com/Marianadlrw/status/1704384360802394155?s=20)
 18. **IOTA Youtube**: von Whales of Wall Streat: [IOTA | FOUR Key changes this week - IOTA 2.0 & Chart Update](https://www.youtube.com/watch?v=NAHYfEgeivs)
-19. 
+19. **IOTA Event**: Mariana de la Roche ist nächste Woche am 27.9. beim Blockchain für Europe Summit 2023: (https://x.com/BlockchainforEU/status/1704450891691032880?s=20)
+20. 
