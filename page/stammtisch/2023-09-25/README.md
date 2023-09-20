@@ -14,4 +14,8 @@
 12. **IOTA Exchange**: [Viviswap tweetet](https://x.com/viviswapcom/status/1704134122439127234?s=20) u.a. mit Hashtag IOTA und verlinkt die Börse [viviswap.com](https://www.viviswap.com/) wo man direkt EUR in Miota tauschen kann
 13. **IOTA Artikel**: von Blockzeit: [IOTA 2.0: A Comprehensive Look At Its Network Upgrade And MIOTA Token Revival](https://blockzeit.com/iota-2-0-a-comprehensive-look-at-its-network-upgrade-and-miota-revival/)
 14. **IOTA Audio**: Dom Schiener war in einem [Twitter Spaces Event von Moby Media](https://x.com/mobymedia/status/1703951137542484119?s=20) mit fast 1K Leuten im Livestream
-15. 
+15. **IOTA Drama**: [Build 5 tweetet](https://x.com/build5tech/status/1704227579694383126?s=20) gibt nach einem Board Meeting eine [Offizielle Stellungnahme](https://github.com/build-5/association/blob/main/board%20meetings/20230919.md) ab zur Supplyerhöhung ab. Sie wollen 1% vom Build Supply an Assembly Staker airdroppen und fordern dass das Board of Directors in der IF erweitert wird. Außerdem wollen sie mehr über die Foundation in den Vereinigten Arabischen Emiraten (UAE) erfahren; Auch LendeXe wollen 1% airdroppen: [Tweet](https://x.com/LendeXeFinance/status/1704264053671989269?s=20)
+16. **IOTA Ökosystem**: [TanglePay tweetet](https://x.com/tanglepaycom/status/1704316909871845540?s=20), dass sie bereit sind für Stardust und man nichts tun muss
+17. **IOTA Event**: Mariana de la Roche war bei einem Crypto Dinner nach der BaFin-Tech Bundesbank Konferenz: [Tweet](https://x.com/Marianadlrw/status/1704384360802394155?s=20)
+18. **IOTA Youtube**: von Whales of Wall Streat: [IOTA | FOUR Key changes this week - IOTA 2.0 & Chart Update](https://www.youtube.com/watch?v=NAHYfEgeivs)
+19. 
