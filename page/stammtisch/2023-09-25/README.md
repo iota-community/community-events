@@ -19,4 +19,5 @@
 17. **IOTA Event**: Mariana de la Roche war bei einem Crypto Dinner nach der BaFin-Tech Bundesbank Konferenz: [Tweet](https://x.com/Marianadlrw/status/1704384360802394155?s=20)
 18. **IOTA Youtube**: von Whales of Wall Streat: [IOTA | FOUR Key changes this week - IOTA 2.0 & Chart Update](https://www.youtube.com/watch?v=NAHYfEgeivs)
 19. **IOTA Event**: Mariana de la Roche ist nächste Woche am 27.9. beim Blockchain für Europe Summit 2023: (https://x.com/BlockchainforEU/status/1704450891691032880?s=20)
-20. 
+20. **Shimmer EVM**: [Iotaheroes tweeten](https://x.com/IotaHeroes/status/1704486819365298391?s=20) über ihren Blogpost: [The Beginning is Near!](https://www.iotaheroes.com/blog/iotaheroes-await)
+21. **Shimmer EVM**: Am Do. 28.9. startet die Shimmer EVM: [Tweet mit Screenshot vom techn. Announcement](https://x.com/GM__INV/status/1704494108637647264?s=20)
