@@ -29,8 +29,9 @@
 27. **IOTA Audio**: Vitue Money hat ein AMA in ihrem Discord gemacht: [Tweet](https://x.com/Virtue_Money/status/1703802469355028786?s=20)
 28. **IOTA 2.0**: [id.iota tweetet](https://x.com/id_iota/status/1704752396386341029?s=20) über die aktuellen Entwickungen beim iota2.0 Testnetz
 29. **Twitter Gezwitscher**: Dom hat gute Laune: [Tweet](https://x.com/DomSchiener/status/1704755024486699379?s=20) mit "Dancing in September"
-30. **Crypto Drama**: MT Gox Rückzahlung verschoben auf 31. Oktober 2024: [Tweet]8https://x.com/TheRobynHD/status/1704757719708700906?s=20)
+30. **Crypto Drama**: MT Gox Rückzahlung verschoben auf 31. Oktober 2024: [Tweet](https://x.com/TheRobynHD/status/1704757719708700906?s=20)
 31. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1704780751168774613?s=20) über ein INATBA Event mit IOTA Moderation: [Empowering Tomorrow’s Leaders: Blockchain Training Simulation & Learning from Real-World Use Cases](https://inatba.org/events/empowering-tomorrows-leaders/)
 32. **IOTA Politik**: [garret tweetet](https://x.com/GarrettBullish/status/1704780303712334154?s=20) über sein Proposal: [Proposal of Financial Support for the existing builders](https://govern.iota.org/t/discussion-proposal-to-financially-empower-existing-builders-for-a-flourishing-iota-ecosystem/1669)
 33. **Allg. News**: [Neuralink tweetet](https://x.com/neuralink/status/1704189132530974954?s=20), dass sie erste klinische Tests an Menschen machen wollen (Chip Implantat) und man sich bewerben kann
-34. **IOTA Event**: Spyce 5 bei Bits&Prezels: [Tweet](https://x.com/Energine/status/1704781227398488331?s=20) 
+34. **IOTA Event**: Spyce 5 bei Bits&Prezels: [Tweet](https://x.com/Energine/status/1704781227398488331?s=20); [Tweet](https://x.com/HolgerKoether/status/1704786984906969596?s=20)
+35. **Crypto Drama**: Die USA verbieten CBDC (Central Bank Digital Currencies CBDC): [Tweet](https://x.com/BTC_Archive/status/1704788347485360258?s=20)
