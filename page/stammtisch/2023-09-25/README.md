@@ -26,3 +26,8 @@
 24. **IF Intern**: [Christoph Strnadl tweetet](https://x.com/archimate/status/1704582924882919492?s=20) darüber, dass er bereit wäre dem Board of Directors von der IOTA Foundation beizutreten, wenn das gewünscht ist
 25. **Shimmer Ökosystem**: [SS Thiomir](https://x.com/tihomir619/status/1704523550952943734?s=20), der Creator von der OTC DEX [mikosava.com](https://mikosava.com/) postet diesen Medium Artikel: [Facing Upcoming Challenges](https://medium.com/@mikosava/facing-upcoming-challenges-72e1d0d70bc4)
 26. **IOTA Audio**: Dom Schiener war am Donnerstag im TangleGang Voice Chat: [Tweet](https://x.com/GangTangleTalk/status/1704747428857983095?s=20)
+27. **IOTA Audio**: Vitue Money hat ein AMA in ihrem Discord gemacht: [Tweet](https://x.com/Virtue_Money/status/1703802469355028786?s=20)
+28. **IOTA 2.0**: [id.iota tweetet](https://x.com/id_iota/status/1704752396386341029?s=20) über die aktuellen Entwickungen beim iota2.0 Testnetz
+29. **Twitter Gezwitscher**: Dom hat gute Laune: [Tweet](https://x.com/DomSchiener/status/1704755024486699379?s=20) mit "Dancing in September"
+30. **Crypto Drama**: MT Gox Rückzahlung verschoben auf 31. Oktober 2024: [Tweet]8https://x.com/TheRobynHD/status/1704757719708700906?s=20)
+31. 
