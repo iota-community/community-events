@@ -35,3 +35,4 @@
 33. **Allg. News**: [Neuralink tweetet](https://x.com/neuralink/status/1704189132530974954?s=20), dass sie erste klinische Tests an Menschen machen wollen (Chip Implantat) und man sich bewerben kann
 34. **IOTA Event**: Spyce 5 bei Bits&Prezels: [Tweet](https://x.com/Energine/status/1704781227398488331?s=20); [Tweet](https://x.com/HolgerKoether/status/1704786984906969596?s=20)
 35. **Crypto Drama**: Die USA verbieten CBDC (Central Bank Digital Currencies CBDC): [Tweet](https://x.com/BTC_Archive/status/1704788347485360258?s=20)
+36. **Crypto Drama**: Artikel: [EU-Parlament verabschiedet Gesetz zur Überwachung von Krypto-Transaktionen](https://www.blocktrainer.de/eu-parlament-dac8/)
