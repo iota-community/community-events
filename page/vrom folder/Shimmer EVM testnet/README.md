@@ -30,7 +30,7 @@ Then use [Metamask Wallet](https://metamask.io/) or [TanglePay Wallet](https://t
 23. **Alpaca Finance (DeFi)**: We only have a [Soon-Tweet](https://twitter.com/MoonacoPodcast/status/1646452891706638337?s=20) and the website: [app.alpacafinance.org](https://app.alpacafinance.org/)
 24. **IOTA NFT Ökosystem**: [Iotaorigin macht ein Announcement](https://twitter.com/origin_iota/status/1673301867483332613?s=20) zu den einzigartigen Features von ihrem "MINTING LAUNCHPAD" auf [snippool.xyz](https://snippool.xyz/)
 25. **IOTA Youtube**: [Dark Mythos im TangleGang Sprachchat](https://www.youtube.com/watch?v=8kV-sggIdK4)
-26. **Chakra Labs**: [ShakraLabs tweetet](https://twitter.com/LabsChakra/status/1670077826005966850?s=20) von ihrer Webseite: [https://dapp.chakralabs.app/](https://dapp.chakralabs.app/)
+26. **Chakra Labs**: [ShakraLabs tweetet](https://twitter.com/LabsChakra/status/1670077826005966850?s=20) von ihrer Webseite: [https://dapp.chakralabs.app/](dapp.chakralabs.app)
 27. **IceCream Swap**: [Icecream Swap tweetet](https://twitter.com/icecream_swap/status/1686354183539019776?s=20) über ihre DEX [icecreamswap.com](https://icecreamswap.com/)
 28. **Mikosava DEX**: [tihomir619 tweetet]() über [mikosava.com/swap](https://mikosava.com/swap)
 29. **Virtue Money (DeFi)**: [Virtue Money tweetet]() darüber, dass [virtue.money](https://virtue.money/) live im Testnetz ist
