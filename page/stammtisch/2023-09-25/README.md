@@ -21,3 +21,8 @@
 19. **IOTA Event**: Mariana de la Roche ist nächste Woche am 27.9. beim Blockchain für Europe Summit 2023: (https://x.com/BlockchainforEU/status/1704450891691032880?s=20)
 20. **Shimmer EVM**: [Iotaheroes tweeten](https://x.com/IotaHeroes/status/1704486819365298391?s=20) über ihren Blogpost: [The Beginning is Near!](https://www.iotaheroes.com/blog/iotaheroes-await)
 21. **Shimmer EVM**: Am Do. 28.9. startet die Shimmer EVM: [Tweet mit Screenshot vom techn. Announcement](https://x.com/GM__INV/status/1704494108637647264?s=20)
+22. **Shimmer Ökosystem**: [Soon Tweet von Lexie Lynn](https://x.com/lexienft/status/1704516813105602848?s=20)
+23. **IOTA Ökosystem**: [TangleLabs tweetet](https://x.com/Tangle_Labs/status/1704592234035708399?s=20) über eine sehr erfolgreiche Präsentation ihrer digital Identity App... "Government, education, and technology stakeholders were enthusiastic about the progress we have made"
+24. **IF Intern**: [Christoph Strnadl tweetet](https://x.com/archimate/status/1704582924882919492?s=20) darüber, dass er bereit wäre dem Board of Directors von der IOTA Foundation beizutreten, wenn das gewünscht ist
+25. **Shimmer Ökosystem**: [SS Thiomir](https://x.com/tihomir619/status/1704523550952943734?s=20), der Creator von der OTC DEX [mikosava.com](https://mikosava.com/) postet diesen Medium Artikel: [Facing Upcoming Challenges](https://medium.com/@mikosava/facing-upcoming-challenges-72e1d0d70bc4)
+26. **IOTA Audio**: Dom Schiener war am Donnerstag im TangleGang Voice Chat: [Tweet](https://x.com/GangTangleTalk/status/1704747428857983095?s=20)
