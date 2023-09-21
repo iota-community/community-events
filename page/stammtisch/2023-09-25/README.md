@@ -38,3 +38,5 @@
 36. **Crypto Drama**: Artikel: [EU-Parlament verabschiedet Gesetz zur Überwachung von Krypto-Transaktionen](https://www.blocktrainer.de/eu-parlament-dac8/)
 37. **IOTA Adaption**: [Dominique Guinard tweetet](https://x.com/domguinard/status/1704801118268653856?s=20) darüber dass er bei GS1Standard2023 über Verifiable Credential sprechen wird mit IOTA inside
 38. **Shimmer Education**: [Shimmer Thread](https://x.com/shimmernet/status/1704842926151331992?s=20) über "Why is Shimmer feeless when ShimmerEVM has gas fees?"
+39. **Shimmer Firefly**: Neus [Firefly Desktop 2.1.7](https://github.com/iotaledger/firefly/releases/tag/desktop-2.1.7)
+40. **Shimmer EVM**: Neuer wasp Release: [v1.0.0-rc.3](https://github.com/iotaledger/wasp/releases/tag/v1.0.0-rc.3)
