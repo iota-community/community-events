@@ -24,7 +24,7 @@
 22. **Shimmer Ökosystem**: [Soon Tweet von Lexie Lynn](https://x.com/lexienft/status/1704516813105602848?s=20)
 23. **IOTA Ökosystem**: [TangleLabs tweetet](https://x.com/Tangle_Labs/status/1704592234035708399?s=20) über eine sehr erfolgreiche Präsentation ihrer digital Identity App... "Government, education, and technology stakeholders were enthusiastic about the progress we have made"
 24. **IF Intern**: [Christoph Strnadl tweetet](https://x.com/archimate/status/1704582924882919492?s=20) darüber, dass er bereit wäre dem Board of Directors von der IOTA Foundation beizutreten, wenn das gewünscht ist
-25. **Shimmer Ökosystem**: [SS Thiomir](https://x.com/tihomir619/status/1704523550952943734?s=20), der Creator von der OTC DEX [mikosava.com](https://mikosava.com/) postet diesen Medium Artikel: [Facing Upcoming Challenges](https://medium.com/@mikosava/facing-upcoming-challenges-72e1d0d70bc4)
+25. **Shimmer Ökosystem**: [SS Thiomir](https://x.com/tihomir619/status/1704523550952943734?s=20), der Creator von der OTC DEX [mikosava.com](https://mikosava.com/) postet diesen Medium Artikel: [Facing Upcoming Challenges](https://medium.com/@mikosava/facing-upcoming-challenges-72e1d0d70bc4); Hier noch ein [Thread von Mikosave](https://x.com/MikosavaP2P/status/1705940446776635838?s=20)
 26. **IOTA Audio**: Dom Schiener war am Donnerstag im TangleGang Voice Chat: [Tweet](https://x.com/GangTangleTalk/status/1704747428857983095?s=20)
 27. **IOTA Audio**: Vitue Money hat ein AMA in ihrem Discord gemacht: [Tweet](https://x.com/Virtue_Money/status/1703802469355028786?s=20)
 28. **IOTA 2.0**: [id.iota tweetet](https://x.com/id_iota/status/1704752396386341029?s=20) über die aktuellen Entwickungen beim iota2.0 Testnetz
@@ -50,6 +50,8 @@
 48. **IOTA Youtube**: von Blockbytes: [Our thoughts on IOTA Stardust Upgrade and ShimmerEVM Launch..](https://www.youtube.com/watch?v=u2-N9ZUajsg)
 49. **IOTA Youtube**: von [CryptoAvon2626](https://x.com/CryptoAvon2626/status/1704052487534125161?s=20): [IOTAs Inflations Hammer! Meine Objektive & Rationale Einschätzung & Recherche & News](https://www.youtube.com/watch?v=vTtiLxOHniA)
 50. **IOTA Ökosystem**: [SoonLabs tweetet](https://x.com/soon_labs/status/1705505979063013848?s=20) über einen weiteren Soon Token Airdrop zum Start von der Shimmer EVM
-51. **IOTA Event**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1705842251367133311?s=20) darüber, wo man sie bei dem [Bits&Pretzels](https://twitter.com/bitsandpretzels) Event in München findet
-52. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/326-wochenr%C3%BCckblick-vom-17-bis-23-september-2023/)
+51. **IOTA Exchanges**: Warum wird IOTA bei anycoin delisted? [Tweet](https://x.com/dadaffy2/status/1706017059467878444?s=20)
+52. **IOTA Event**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1705842251367133311?s=20) darüber, wo man sie bei dem [Bits&Pretzels](https://twitter.com/bitsandpretzels) Event in München findet
+53. **IOTA Ökosystem**: [LendeXe tweetet](https://x.com/LendeXeFinance/status/1706004191896867007?s=20) darüber, dass es ein NFT gibt, wenn man mind. ein Explorer NFT besitzt. Man muss dazu Mitglied in diesem [Soonaverse Space](https://soonaverse.com/space/0x4f0ce081f46bac5ec10ec635d60623ea24145b19/overview) sein
+54. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/326-wochenr%C3%BCckblick-vom-17-bis-23-september-2023/)
 
