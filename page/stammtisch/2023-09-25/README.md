@@ -43,3 +43,13 @@
 41. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1705118581258670105?s=20) darüber, dass sie von [ShieldifySec](https://twitter.com/ShieldifySec) auditiert werden
 42. **Shimmer Exchanges**: [Bitforex tweetet](https://x.com/bitforexcom/status/1705146135692841060?s=20), dass sie Shimmer L1 und L2 anbieten
 43. **IOTA Promote**: [Tweet von Ronald van Loon](https://x.com/Ronald_vanLoon/status/1704811713432891854?s=20) mit angeblich 300K Followern verlinkt einen Artikel: [IOTA for Tesla Cars: A Potential Revolution in the Automotive Indust](https://chainaffairs.com/iota-for-tesla-cars-a-potential-revolution-in-the-automotive-industry/). Also ein Tweet aus der Kategorie die dem Dom nicht so gefallen (siehe Punkt 6)...)
+44. **IOTA Youtube**: von Probably Nothing: [Next-Gen-Technologie: Shimmer, Build 5 und KI für Netzwerkkonfiguration - IOTA & Shimmer News](https://www.youtube.com/watch?v=pu0lM7B52bI)
+45. **Shimmer DeFi**: [Peppy.Finance tweetet](https://x.com/Peppy_finance/status/1705228881148473478?s=20), dass sie mit dem Start von der Shimmer EVM live gehen
+46. **IOTA Ökosystem**: [TangleLabs tweetet](https://x.com/Tangle_Labs/status/1705563981207777391?s=20) über ein Event auf dem sie ihre Identity Wallet vorgestellt haben. Es sieht aber so aus, als ob sie aktuell gar nicht mehr auch IOTA bauen: [Tweet mit Screenshot](https://x.com/tradeini1337/status/1705579602507157790?s=20)
+47. **IOTA Ökosystem**: [Jelle Milenar tweetet](https://x.com/JelleFm/status/1705266906364629326?s=20) Bilder von einem Event wo sie ihr Identity Wallet vorgestellt haben
+48. **IOTA Youtube**: von Blockbytes: [Our thoughts on IOTA Stardust Upgrade and ShimmerEVM Launch..](https://www.youtube.com/watch?v=u2-N9ZUajsg)
+49. **IOTA Youtube**: von [CryptoAvon2626](https://x.com/CryptoAvon2626/status/1704052487534125161?s=20): [IOTAs Inflations Hammer! Meine Objektive & Rationale Einschätzung & Recherche & News](https://www.youtube.com/watch?v=vTtiLxOHniA)
+50. **IOTA Ökosystem**: [SoonLabs tweetet](https://x.com/soon_labs/status/1705505979063013848?s=20) über einen weiteren Soon Token Airdrop zum Start von der Shimmer EVM
+51. **IOTA Event**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1705842251367133311?s=20) darüber, wo man sie bei dem [Bits&Pretzels](https://twitter.com/bitsandpretzels) Event in München findet
+52. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/326-wochenr%C3%BCckblick-vom-17-bis-23-september-2023/)
+
