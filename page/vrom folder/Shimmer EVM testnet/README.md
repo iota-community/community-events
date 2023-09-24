@@ -34,4 +34,4 @@ Then use [Metamask Wallet](https://metamask.io/) or [TanglePay Wallet](https://t
 27. **IceCream Swap**: [Icecream Swap tweetet](https://twitter.com/icecream_swap/status/1686354183539019776?s=20) über ihre DEX [icecreamswap.com](https://icecreamswap.com/)
 28. **Mikosava DEX**: [tihomir619 tweetet]() über [mikosava.com/swap](https://mikosava.com/swap)
 29. **Virtue Money (DeFi)**: [Virtue Money tweetet]() darüber, dass [virtue.money](https://virtue.money/) live im Testnetz ist
-30. **Pepe.finance (DeFi)**: [Pepe.Finance tweetet](https://x.com/Peppy_finance/status/1705228881148473478?s=20), dass sie mit dem Start von der Shimmer EVM live gehen
+30. **Peppy.finance (DeFi)**: [Peppy.Finance tweetet](https://x.com/Peppy_finance/status/1705228881148473478?s=20), dass sie mit dem Start von der Shimmer EVM live gehen
