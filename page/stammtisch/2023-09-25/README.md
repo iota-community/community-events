@@ -53,5 +53,8 @@
 51. **IOTA Exchanges**: Warum wird IOTA bei anycoin delisted? [Tweet](https://x.com/dadaffy2/status/1706017059467878444?s=20)
 52. **IOTA Event**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1705842251367133311?s=20) darüber, wo man sie bei dem [Bits&Pretzels](https://twitter.com/bitsandpretzels) Event in München findet
 53. **IOTA Ökosystem**: [LendeXe tweetet](https://x.com/LendeXeFinance/status/1706004191896867007?s=20) darüber, dass es ein NFT gibt, wenn man mind. ein Explorer NFT besitzt. Man muss dazu Mitglied in diesem [Soonaverse Space](https://soonaverse.com/space/0x4f0ce081f46bac5ec10ec635d60623ea24145b19/overview) sein
-54. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/326-wochenr%C3%BCckblick-vom-17-bis-23-september-2023/)
+54. **IOTA Ökosystem**: [SooLabs tweetet](https://x.com/soon_labs/status/1706175093553148097?s=20), dass die Service Program Module bereits am 28. zur Verfügung stehen. D.h. 3 Party Developer werden mit Soon Token bezahlt für ihre Servide Module die sie im Soonaverse integrieren. Noch vor dem EVM Release wollen sie noch etwas ankündigen: [Tweeet](https://x.com/soon_labs/status/1706146213148684676?s=20)
+55. **Shimmer Ökosystem**: [TanglePay tweetet](https://x.com/tanglepaycom/status/1706127288792989873?s=20), dass TanglePay bald upgedated werden kann mit vielen Updates und EVM Capabilities
+56. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1706202732640526374?s=20) über die Utility von Lumis und verlinkt den Blogpost: [Lumi Utility Deep Dive](https://medium.com/@shimmerseadefi/lumi-utility-deep-dive-2d0f0c44105a)
+57. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/326-wochenr%C3%BCckblick-vom-17-bis-23-september-2023/)
 
