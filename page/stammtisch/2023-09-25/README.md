@@ -57,5 +57,6 @@
 55. **Shimmer Ökosystem**: [TanglePay tweetet](https://x.com/tanglepaycom/status/1706127288792989873?s=20), dass TanglePay bald geupdated wird mit vielen Updates und EVM Kompatibilität
 56. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1706202732640526374?s=20) über die Utility von Lumis und verlinkt den Blogpost: [Lumi Utility Deep Dive](https://medium.com/@shimmerseadefi/lumi-utility-deep-dive-2d0f0c44105a)
 57. **Crypto Adaption**: Die [EU Blockchain Association tweetet](https://x.com/EUBLASORG/status/1706256032475791544?s=20) über ihr [NEW Positions Paper: Towards a reliable taxonomy and understanding of Proof-of-Stake](https://europeanblockchainassociation.org/2023/09/25/new-position-paper-towards-a-reliable-taxonomy-and-understanding-of-proof-of-stake/); [Mariana de la Roche retweeetet](https://x.com/Marianadlrw/status/1706271067835142473?s=20) das. Sie hat daran mitgewirkt
-58. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/326-wochenr%C3%BCckblick-vom-17-bis-23-september-2023/)
+58. **Shimmer Promote**: Wir sollen Abstimmen damit Shimmer auf dappRadar: [Request to List Shimmer Network for Rankings and Analytics](https://features.dappradar.com/b/rankings/request-to-list-shimmer-network-for-rankings-and-analytics/)
+59. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/326-wochenr%C3%BCckblick-vom-17-bis-23-september-2023/)
 
