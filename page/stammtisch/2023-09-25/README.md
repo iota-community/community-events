@@ -63,4 +63,7 @@
 61. **Shimmer Ökosystem**: [iotabee tweetet](https://x.com/iotabee/status/1706237006760526100?s=20) darüber, dass es eine ETH -> SMR Bridge auf [iotabee.com](iotabee.com) geben wird
 62. **Shimmer Ökosystem**: [Shimmer tweetet](https://x.com/shimmernet/status/1706292476942631089?s=20) über den Blogpost: [Mosquito Pay Joins Touchpoint Open Builders Program](https://blog.shimmer.network/mosquito-pay-joins-touchpoint/); Es gibt auch eine Demo von [Mosquito Pay](https://twitter.com/MosquitoPay) auf [wp.mosquitopay.io](https://wp.mosquitopay.io/)
 63. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/326-wochenr%C3%BCckblick-vom-17-bis-23-september-2023/)
+64. **IOTA Youtube**: von Probably Nothing: [IOTA 2.0 Upgrade - Inflation - Airdrop und neue Einheiten - IOTA & Shimmer News](https://www.youtube.com/watch?v=84vN2IZLgw0)
+65. **Shimmer Audio**: Blockbytes [Twitter Spaces vom Montag 25.9.](https://x.com/blockbytescom/status/1706310521039753330?s=20)
+66. **Shimmer Ökosystem**: [Virtue Money tweetet](https://x.com/Virtue_Money/status/1706277380988281275?s=20) über den Blogpost: [Partnership Announcement: Virtue × ShimmerSea](https://medium.com/@Virtue_Money/partnership-announcement-virtue-shimmersea-c701aaf39255) 
 
