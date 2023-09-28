@@ -41,3 +41,4 @@
 39. **IOTA Artikel**: von Invezz: [IOTA launches ShimmerEVM on the mainnet](https://invezz.com/news/2023/09/28/iota-launches-shimmerevm-on-the-mainnet/)
 40. **Shimmer Tools**: [Blockscout tweetet](https://x.com/blockscoutcom/status/1707425140089221389?s=20) über den Blogpost: [ShimmerEVM launches with full-featured Blockscout Explorer](https://www.blog.blockscout.com/shimmer-evm-launches-with-blockscout/) und über [explorer.evm.shimmer.network](https://explorer.evm.shimmer.network/)
 41. **Shimmer Drama**: Leider haben wieder ein paar Grundfeatures gefehlt beim Start der Shimmer EVM: [Tweet](https://x.com/Vrom14286662/status/1707474763063427315?s=20)
+42. **Shimmer DeFi**: Erste DEX [icecreamswap.com](https://icecreamswap.com/) mit Bridge zur Binance Chain funktioniert: [Tweet](https://x.com/Vrom14286662/status/1707508299623432640?s=20) 
