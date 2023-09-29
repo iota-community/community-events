@@ -44,4 +44,6 @@
 42. **Shimmer DeFi**: Erste DEX [icecreamswap.com](https://icecreamswap.com/) mit Bridge zur Binance Chain funktioniert: [Tweet](https://x.com/Vrom14286662/status/1707508299623432640?s=20)
 43. **Shimmer Adaption**: [DeFiLama tweetet](https://x.com/DefiLlama/status/1707470032651850092?s=20) darüber, dass sie die Shimmer EVM und ShimmerSea tracken auf [defillama.com/chain/ShimmerEVM](https://defillama.com/chain/ShimmerEVM)
 44. **IOTA Ökosystem**: [Spyce 5 tweetet](https://x.com/SPYCE_5/status/1707648307504259175?s=20) über [Introduction – AppChains: The Future of Scalable Web3 Applications](https://spyce5.com/appchains/appchain-101-an-in-depth-introduction-to-appchains-and-their-applications/); Hier geht's zum [Early Access](https://spyce5.com/early-access/)
-45. 
+45. **IOTA Identity**: [iota_identity v1.0.0-rc.1](https://github.com/iotaledger/identity.rs/releases/tag/v1.0.0-rc.1) wurde veröffentlicht: [Tweet](https://twitter.com/Vrom14286662/status/1707814866486988980)
+46. **Shimmer Ökosystem**: [iotabee tweetet](https://x.com/iotabee/status/1707804631491805657?s=20), dass am Montag [TangleSwap](https://twitter.com/TangleSwap), [SoonLabs](https://twitter.com/soon_labs) und [iotabee](https://twitter.com/iotabee) starten werden
+47. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1707742026693828651?s=20) über ihren Blogpost: [A Solid Foundation for IOTA 2.0 - Unpacking a Trilogy of Pivotal Research Papers](https://blog.iota.org/solid-foundation-iota20/)
