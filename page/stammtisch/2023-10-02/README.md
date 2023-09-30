@@ -48,4 +48,8 @@
 46. **Shimmer Ökosystem**: [iotabee tweetet](https://x.com/iotabee/status/1707804631491805657?s=20), dass am Montag [TangleSwap](https://twitter.com/TangleSwap), [SoonLabs](https://twitter.com/soon_labs) und [iotabee](https://twitter.com/iotabee) starten werden
 47. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1707742026693828651?s=20) über ihren Blogpost: [A Solid Foundation for IOTA 2.0 - Unpacking a Trilogy of Pivotal Research Papers](https://blog.iota.org/solid-foundation-iota20/)
 48. **IOTA Promote**: [Reuters Buisiness (über 2 mio Follower) tweetet](https://x.com/ReutersBiz/status/1707968513363657210?s=20) das EDAG Video in dem das Auto IOTA verdient
-49. 
+49. **IOTA NFT Ökosystem**: [Tweet von Tokenized Kiwi](https://x.com/tokenizedkiwi/status/1708185859164455335?s=20) über ihre physikalischen Zwillinge von NFTs. Es gibt da eine neue [NFT-Sale auf Soonaverse](https://soonaverse.com/nft/0xd02376d79d587dfbe6370524b3bf123400cbdca4)
+50. **Shimmer Youtube**: von Probably Nothing: [Shimmer EVM SPECIAL with Specweekly and Moonaco Podcast](https://www.youtube.com/watch?v=UM7aAFlC8Cg)
+51. **Crypto Adaption**: Ethereum Future ETFs gehen scheinbar am Montag an dne Start: [Tweet](https://x.com/JSeyff/status/1707866932311957577?s=20)
+52. **Politik Drama**: [Elon Musk tweetet abwertend](https://x.com/elonmusk/status/1707758153977204846?s=20) über die Seenotrettung der Deutschen, nachdem er selber zur mexikanischen Grenze gefahren ist und ein Livestream auf X gemacht hat
+53. **Shimmer DeFi Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1708161059465433345?s=20) darüber, dass ein Meme Token WEN$ geairdopt werden
