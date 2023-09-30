@@ -47,3 +47,5 @@
 45. **IOTA Identity**: [iota_identity v1.0.0-rc.1](https://github.com/iotaledger/identity.rs/releases/tag/v1.0.0-rc.1) wurde veröffentlicht: [Tweet](https://twitter.com/Vrom14286662/status/1707814866486988980)
 46. **Shimmer Ökosystem**: [iotabee tweetet](https://x.com/iotabee/status/1707804631491805657?s=20), dass am Montag [TangleSwap](https://twitter.com/TangleSwap), [SoonLabs](https://twitter.com/soon_labs) und [iotabee](https://twitter.com/iotabee) starten werden
 47. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1707742026693828651?s=20) über ihren Blogpost: [A Solid Foundation for IOTA 2.0 - Unpacking a Trilogy of Pivotal Research Papers](https://blog.iota.org/solid-foundation-iota20/)
+48. **IOTA Promote**: [Reuters Buisiness (über 2 mio Follower) tweetet](https://x.com/ReutersBiz/status/1707968513363657210?s=20) das EDAG Video in dem das Auto IOTA verdient
+49. 
