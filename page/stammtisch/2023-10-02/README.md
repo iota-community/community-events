@@ -60,4 +60,4 @@
 58. **Shimmer EVM**: [TangleSwap tweetet](https://x.com/TangleSwap/status/1708730303575892392?s=20), dass es am Montag um 15 Uhr CET los geht auf [tangleswap.exchange/](https://www.tangleswap.exchange/)
 59. **Shimmer EVM**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1708738590711197975?s=20), dass der Fair Launch für $LUM am 14.10 startet.
 60. **IOTA Youtube**: von Think it Crypto: [Ist IOTA endgültig ein TOTES PROJEKT? (Markiert euch den 04.10)](https://www.youtube.com/watch?v=1nYGNOB6N8g)
-61. 
+61. **IOTA Promote**: [Syce_5 tweetet](https://x.com/SPYCE_5/status/1708750699570348496?s=20) über den "greenest DLT in blockchain history"
