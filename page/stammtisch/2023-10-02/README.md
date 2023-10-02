@@ -68,3 +68,4 @@
 66. **Shimmer Ökosystem**: [iotabee tweetet](https://x.com/iotabee/status/1708825543272239384?s=20), dass sie nach 3h schon 200K Liquidity gelockt haben
 67. **IOTA Audio**: Blockbytes [Twitter Spaces](https://x.com/blockbytescom/status/1708849150253572580?s=20) vom Montag 2.10
 68. **IOTA Stardust**: Die [IF tweetet](https://x.com/iota/status/1708859392840302867?s=20) über den Blogpost: [IOTA Stardust Upgrade - Timeline and Further Information](https://blog.iota.org/iota-stardust-upgrade/)
+69. **IOTA 2.0**: Die [IF macht einen Thread](https://x.com/iota/status/1708852406841229665?s=20) u.a. mit dem Video [Introduction to IOTA 2.0: Digital Autonomy for Everyone](https://www.youtube.com/watch?v=3qoBNd9anug)
