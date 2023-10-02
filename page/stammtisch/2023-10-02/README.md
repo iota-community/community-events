@@ -63,3 +63,6 @@
 61. **IOTA Promote**: [Syce_5 tweetet](https://x.com/SPYCE_5/status/1708750699570348496?s=20) über den "greenest DLT in blockchain history"
 62. **Shimmer Exchange**: [BitForex tweetet](https://x.com/bitforexcom/status/1708777450212327752?s=20), dass sie Shimmer unterstützen
 63. **IOTA Event**: Nächste Woche ist Mariana de la Roche bei der EU Blockchain Week: [Tweet](https://x.com/Marianadlrw/status/1708777301024870868?s=20)
+64. **IOTA Ökosystem**: [IOTAMPC tweetet](https://x.com/iotampc/status/1708800358133453036?s=20) dass ihre Bridge bereits läuft und man mit dem Stardust Update am 4. Oktober auch seine IOTA in der Shimmer Ökosystem rüber bridgen kann...
+65. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1708791141666062622?s=20) darüber, dass die Education Campagne um 15 Uhr startet
+66. **Shimmer Ökosystem**: [iotabee tweetet](https://x.com/iotabee/status/1708825543272239384?s=20), dass sie nach 3h schon 200K Liquidity gelockt haben
