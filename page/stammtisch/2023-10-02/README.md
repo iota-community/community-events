@@ -54,3 +54,10 @@
 52. **Politik Drama**: [Elon Musk tweetet abwertend](https://x.com/elonmusk/status/1707758153977204846?s=20) über die Seenotrettung der Deutschen, nachdem er selber zur mexikanischen Grenze gefahren ist und ein Livestream auf X gemacht hat
 53. **Shimmer DeFi Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1708161059465433345?s=20) darüber, dass ein Meme Token WEN$ geairdopt werden; Hier der [Tweet von Wen_Shimmer](https://x.com/WEN_Shimmer/status/1708097280845213998?s=20) und die [Webseite: wen-shimmer.com](https://www.wen-shimmer.com/)
 54. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/328-wochenr%C3%BCckblick-vom-24-bis-30-september-2023/)
+55. **IOTA Audio**: Mit dem Start von TangleSwap gibt es heute (Montag 2.10.) um 15 Uhr ein [Twitter Spaces Event](https://x.com/TangleSwap/status/1708730303575892392?s=20)
+56. **IOTA Audio**: Am Donnerstag war [Sebastian Weber von Accodis](https://twitter.com/Sebasti65365174) in der [TangleGang](https://twitter.com/GangTangleTalk) im Sprachtchat: [Tweet](https://x.com/GangTangleTalk/status/1708425391025614966?s=20)
+57. **IOTA Ökosystem**: Soonaverser Airdrop done: [Tweet](https://x.com/soon_labs/status/1708737753566081243?s=20)
+58. **Shimmer EVM**: [TangleSwap tweetet](https://x.com/TangleSwap/status/1708730303575892392?s=20) dass es am Montag um 15 Uhr CET los geht auf [https://www.tangleswap.exchange/](https://www.tangleswap.exchange/)
+59. **Shimmer EVM**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1708738590711197975?s=20) dass der Fair Launch für LUM am 14.10 startet.
+60. 
+61. 
