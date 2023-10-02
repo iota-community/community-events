@@ -62,3 +62,4 @@
 60. **IOTA Youtube**: von Think it Crypto: [Ist IOTA endgültig ein TOTES PROJEKT? (Markiert euch den 04.10)](https://www.youtube.com/watch?v=1nYGNOB6N8g)
 61. **IOTA Promote**: [Syce_5 tweetet](https://x.com/SPYCE_5/status/1708750699570348496?s=20) über den "greenest DLT in blockchain history"
 62. **Shimmer Exchange**: [BitForex tweetet](https://x.com/bitforexcom/status/1708777450212327752?s=20), dass sie Shimmer unterstützen
+63. **IOTA Event**: Nächste Woche ist Mariana de la Roche bei der EU Blockchain Week: [Tweet](https://x.com/Marianadlrw/status/1708777301024870868?s=20)
