@@ -23,3 +23,4 @@
 21. **IOTA Youtube**: von Iotapoet: [The FIRST game on SHIMMER is awesome](https://youtu.be/TplD7vkMrkY?si=qbnLyonOluUbOQux)
 22. **IOTA Youtube**: von Blockbytes: [ShimmerEVM Launch First Impressions - Shimmer Community Space]()
 23. **IOTA Hype**: [Dom Schiener retweetet](https://x.com/DomSchiener/status/1709512726563729803?s=20) das Stardust Announcement und schreibt "We are here to create one of the largest and most impactful technology ecosystems in the world. We will not stop until we've realized our vision."
+24. **IOTA Adaption**: [Marian de la Roche tweetet](https://x.com/Marianadlrw/status/1709568419970888123?s=20) über eine [Blckchain for EU - Panel Diskussion](https://youtu.be/8xnForQXEl8?feature=shared) an der sie teil genommen hat
