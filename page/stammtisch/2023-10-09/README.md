@@ -25,3 +25,6 @@
 23. **IOTA Hype**: [Dom Schiener retweetet](https://x.com/DomSchiener/status/1709512726563729803?s=20) das Stardust Announcement und schreibt "We are here to create one of the largest and most impactful technology ecosystems in the world. We will not stop until we've realized our vision."
 24. **IOTA Adaption**: [Marian de la Roche tweetet](https://x.com/Marianadlrw/status/1709568419970888123?s=20) über eine [Blckchain for EU - Panel Diskussion](https://youtu.be/8xnForQXEl8?feature=shared) an der sie teil genommen hat
 25. **Shimmer DeFi**: [Deepr finance tweetet](https://x.com/DeeprFinance/status/1709569813142438192?s=20) über eine ihren Soft Launch mit Low MarketCap Coins
+26. **IOTA Youtube Fun**: [Daniel tweetet](https://x.com/danielasdf22/status/1709600333343670392?s=20) über sein lustiges Meme-Video: [Lord of the Tangle](https://www.youtube.com/watch?v=aoVenoqfSf0); Selbst [Dom retweetet](https://x.com/DomSchiener/status/1709623362035532241?s=20) das
+27. **Shimmer EVM**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1709601191758348588?s=20) über die beeindruckenden Zahlen beim NFT Verkauf
+28. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1709612771875160093?s=20) über die neue NFT Kollektion von [Dark Mythos](https://twitter.com/DarkMythosIOTA) auf [Shimmersea.Finance/NFT](https://shimmersea.finance/nfts)
