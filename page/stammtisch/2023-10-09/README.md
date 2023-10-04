@@ -16,6 +16,9 @@
 14. **IOTA Stardust**: Neue [Hornet v2.0.0 Version](https://github.com/iotaledger/hornet/releases/tag/v2.0.0)
 15. **Shimmer Ökosystem**: Der [Dark Mythos Explorer](https://explorer.dark-mythos.com/mint/shimmer-sea) geht live und die neue Kollektion ist nach 10min ausverkauft: [Tweet](https://x.com/DarkMythosIOTA/status/1709239646914220119?s=20)
 16. **Shimmer DeFi**: [Gecko Terminal tweetet](https://x.com/GeckoTerminal/status/1709460836564218211?s=20) ShimmerEVM ist jetzt auch auf [geckoterminal.com/de/shimmerevm/pools](https://www.geckoterminal.com/de/shimmerevm/pools), nachdem sie auch schon auf [defillama.com/chain/ShimmerEVM](https://defillama.com/chain/ShimmerEVM) gelistet wurde
-17. **IOTA Stardust**: Die [IF tweetet](https://x.com/iota/status/1709448264766922963?s=20) am Mittwoch über den Start des Stardust Updates
+17. **IOTA Stardust**: Die [IF tweetet](https://x.com/iota/status/1709448264766922963?s=20) am Mittwoch über den Start des Stardust Updates und 4h später [tweetet die IF](https://x.com/iota/status/1709504576972275914?s=20) darüber, dass das Stardust Update fertig ist
 18. **IOTA Treassury**: [DeepSea tweetet](https://x.com/Deep_Sea_Iotan/status/1709261205280616843?s=20) darüber, dass sie das Soonaverse mit 100K unterstütz haben und dafür 361,225,584 $SOON Token bekommen haben
 19. **Shimmer DeFi**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1709267265110089906?s=20) darüber dass der WEN Token von [WEN_Shimmer](https://twitter.com/WEN_Shimmer) gelistet wurde
+20. **IOTA Stammtisch**: Am Freitag ist/war [IOTA Stammtisch in München](https://www.meetup.com/iota-muc/events/295959784/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=twitter)
+21. **IOTA Youtube**: von Iotapoet: [The FIRST game on SHIMMER is awesome](https://youtu.be/TplD7vkMrkY?si=qbnLyonOluUbOQux)
+22. **IOTA Youtube**: von Blockbytes: [ShimmerEVM Launch First Impressions - Shimmer Community Space]()
