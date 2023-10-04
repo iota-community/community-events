@@ -7,7 +7,7 @@
 5. **IOTA Stardust**: Die [IF tweetet](https://x.com/iota/status/1708859392840302867?s=20) über den Blogpost: [IOTA Stardust Upgrade - Timeline and Further Information](https://blog.iota.org/iota-stardust-upgrade/)
 6. **IOTA Artikel**: von UToday: [IOTA (MIOTA) Unveils New Era 2.0: Details](https://u.today/iota-miota-unveils-new-era-20-details?utm_source=dlvr.it&utm_medium=twitter)
 7. **Crypto Adaption**: Die [European Blockchain Association EBA tweetet](https://x.com/EUBLASORG/status/1708775803285065946?s=20) über ihre Antwort zum AMF Diskussionspaper: [A joint response to the Autorité des Marchés Financiers (AMF)](https://europeanblockchainassociation.org/2023/09/30/a-joint-response-to-the-autorite-des-marches-financiers-amf/)
-8. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1709150487528845702?s=20) über ein AMA auf [CoinmarketCap mit Dom Schiener]()
+8. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1709150487528845702?s=20) über ein AMA auf [CoinmarketCap mit Dom Schiener](https://coinmarketcap.com/community/post/331092921/#action=oauth&state=RY3BYFBNRNSVZFBBGBGCER3MR27A4HE6)
 9. **IOTA Exchanges**: [Binance tweetet](https://x.com/iota/status/1709171819792519210?s=20) und [Bitpanda tweetet](https://x.com/Bitpanda_global/status/1709214190072647823?s=20), dass sie das Stardust Update unterstüzen
 10. **Crypto Adaption**: Bei Honda kann man jetzt mit Bitcon und Co bezahlen: [Tweet](https://x.com/AltcoinDailyio/status/1708938634324508980?s=20)
 11. **Shimmer Audio**: Es gab ein [Twitter Spaces von iotabee](https://x.com/iotabee/status/1709236940610912745?s=20)
@@ -21,7 +21,7 @@
 19. **Shimmer DeFi**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1709267265110089906?s=20) darüber dass der WEN Token von [WEN_Shimmer](https://twitter.com/WEN_Shimmer) gelistet wurde
 20. **IOTA Stammtisch**: Am Freitag ist/war [IOTA Stammtisch in München](https://www.meetup.com/iota-muc/events/295959784/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=twitter)
 21. **IOTA Youtube**: von Iotapoet: [The FIRST game on SHIMMER is awesome](https://youtu.be/TplD7vkMrkY?si=qbnLyonOluUbOQux)
-22. **IOTA Youtube**: von Blockbytes: [ShimmerEVM Launch First Impressions - Shimmer Community Space]()
+22. **IOTA Youtube**: von Blockbytes: [ShimmerEVM Launch First Impressions - Shimmer Community Space](https://www.youtube.com/watch?v=TplD7vkMrkY)
 23. **IOTA Hype**: [Dom Schiener retweetet](https://x.com/DomSchiener/status/1709512726563729803?s=20) das Stardust Announcement und schreibt "We are here to create one of the largest and most impactful technology ecosystems in the world. We will not stop until we've realized our vision."
 24. **IOTA Adaption**: [Marian de la Roche tweetet](https://x.com/Marianadlrw/status/1709568419970888123?s=20) über eine [Blckchain for EU - Panel Diskussion](https://youtu.be/8xnForQXEl8?feature=shared) an der sie teil genommen hat
 25. **Shimmer DeFi**: [Deepr finance tweetet](https://x.com/DeeprFinance/status/1709569813142438192?s=20) über eine ihren Soft Launch mit Low MarketCap Coins
