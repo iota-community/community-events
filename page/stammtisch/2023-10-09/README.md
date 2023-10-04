@@ -1,0 +1,21 @@
+## Stammtischthemen für Montage, den 9.10.2023
+
+1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1708768891411808646?s=20) über die [IOTA Quicktakes]()
+2. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1708829188965142923?s=20) über den Blogpost: [IOTA 2.0 Intrdoduction (Oart 1) - Digital Autonomy for Everyone: The Future of IOTA](https://blog.iota.org/digital-autonomy-for-everyone/)
+3. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1709191578676342876?s=20) über den Blogpost: [IOTA 2.0 Intrdoduction (Oart 1) - Five Principles: The Fundamentals That Every DLT Needs](https://blog.iota.org/five-principles-iota20/)
+4. **IOTA 2.0**: Ein [Thread von der IF](https://x.com/iota/status/1708852406841229665?s=20) über die $4 unique value propositions" zusammen mit dem [Video: Digital Autonomy for Everyone](https://youtu.be/3qoBNd9anug)
+5. **IOTA Stardust**: Die [IF tweetet](https://x.com/iota/status/1708859392840302867?s=20) über den Blogpost: [IOTA Stardust Upgrade - Timeline and Further Information](https://blog.iota.org/iota-stardust-upgrade/)
+6. **IOTA Artikel**: von UToday: [IOTA (MIOTA) Unveils New Era 2.0: Details](https://u.today/iota-miota-unveils-new-era-20-details?utm_source=dlvr.it&utm_medium=twitter)
+7. **Crypto Adaption**: Die [European Blockchain Association EBA tweetet](https://x.com/EUBLASORG/status/1708775803285065946?s=20) über ihre Antwort zum AMF Diskussionspaper: [A joint response to the Autorité des Marchés Financiers (AMF)](https://europeanblockchainassociation.org/2023/09/30/a-joint-response-to-the-autorite-des-marches-financiers-amf/)
+8. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1709150487528845702?s=20) über ein AMA auf [CoinmarketCap mit Dom Schiener]()
+9. **IOTA Exchanges**: [Binance tweetet](https://x.com/iota/status/1709171819792519210?s=20) und [Bitpanda tweetet](https://x.com/Bitpanda_global/status/1709214190072647823?s=20), dass sie das Stardust Update unterstüzen
+10. **Crypto Adaption**: Bei Honda kann man jetzt mit Bitcon und Co bezahlen: [Tweet](https://x.com/AltcoinDailyio/status/1708938634324508980?s=20)
+11. **Shimmer Audio**: Es gab ein [Twitter Spaces von iotabee](https://x.com/iotabee/status/1709236940610912745?s=20)
+12. **IOTA Governance**: [Phylo tweetet](https://x.com/PhyloIota/status/1709055052357443899?s=20) über die Dezentralisierung der Treassury und verlinkt das Proposal: [Governing the Community Treasuries in the EVM Chains](https://govern.iota.org/t/governing-the-community-treasuries-in-the-evm-chains/1676)
+13. **Crypto Adaption**: [Mariana de la Roche tweetet](https://x.com/Marianadlrw/status/1709195567685841396?s=20) über eine Videomessage die sie and wichtige Personen (Präsident von "United Nations General Assembly")
+14. **IOTA Stardust**: Neue [Hornet v2.0.0 Version](https://github.com/iotaledger/hornet/releases/tag/v2.0.0)
+15. **Shimmer Ökosystem**: Der [Dark Mythos Explorer](https://explorer.dark-mythos.com/mint/shimmer-sea) geht live und die neue Kollektion ist nach 10min ausverkauft: [Tweet](https://x.com/DarkMythosIOTA/status/1709239646914220119?s=20)
+16. **Shimmer DeFi**: [Gecko Terminal tweetet](https://x.com/GeckoTerminal/status/1709460836564218211?s=20) ShimmerEVM ist jetzt auch auf [geckoterminal.com/de/shimmerevm/pools](https://www.geckoterminal.com/de/shimmerevm/pools), nachdem sie auch schon auf [defillama.com/chain/ShimmerEVM](https://defillama.com/chain/ShimmerEVM) gelistet wurde
+17. **IOTA Stardust**: Die [IF tweetet](https://x.com/iota/status/1709448264766922963?s=20) am Mittwoch über den Start des Stardust Updates
+18. **IOTA Treassury**: [DeepSea tweetet](https://x.com/Deep_Sea_Iotan/status/1709261205280616843?s=20) darüber, dass sie das Soonaverse mit 100K unterstütz haben und dafür 361,225,584 $SOON Token bekommen haben
+19. **Shimmer DeFi**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1709267265110089906?s=20) darüber dass der WEN Token von [WEN_Shimmer](https://twitter.com/WEN_Shimmer) gelistet wurde
