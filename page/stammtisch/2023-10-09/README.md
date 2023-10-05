@@ -31,3 +31,4 @@
 29. **IOTA Ökosystem**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1709819267707703298?s=20) über das [Team rund um Spyce 5](https://spyce5.com/about-us/)
 30. **IOTA Youtube**: [MissCrypto tweetet](https://x.com/MissCryptoGER/status/1709841457345896604?s=20) über ihr neuestes IOTA Video: [IOTA / Revolutionäre Technologie / Was steckt hinter der IOTA Kryptowährung?](https://youtu.be/qDkOu56QVNI?si=ysToPdPJekzot6s5)
 31. **Shimmer Ökosystem**: [ShimmerSea veröffentlicht](https://x.com/ShimmerSeaDEX/status/1709825393115406532?s=20) ihr [Whitepaper](https://whitepaper.shimmersea.finance/)
+32. **IOTA Ökosystem**: [Regine erklärt](https://x.com/Energine/status/1709867497581584784?s=20) den Blogpost von Spyce 5: [Appchain-101: An-in-depth-introduction-to-appchains-and-their-applications](https://spyce5.com/appchains/appchain-101-an-in-depth-introduction-to-appchains-and-their-applications/) 
