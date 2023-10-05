@@ -1,4 +1,4 @@
-## Stammtischthemen für Montage, den 9.10.2023
+## Stammtischthemen für Montag, den 9.10.2023
 
 1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1708768891411808646?s=20) über die [IOTA Quicktakes]()
 2. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1708829188965142923?s=20) über den Blogpost: [IOTA 2.0 Intrdoduction (Oart 1) - Digital Autonomy for Everyone: The Future of IOTA](https://blog.iota.org/digital-autonomy-for-everyone/)
@@ -35,6 +35,7 @@
 33. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1709916347621072977?s=20) über ihren Wikipedia Beitrag ([Introduction to digital Autonomy](https://wiki.iota.org/learn/protocols/iota2.0/introduction-to-digital-autonomy)) zum Thema des ersten Blogpost der Education Campagne [Digital Autonomy for Everyone: The Future of IOTA - IOTA 2.0 Introduction Part 1](https://blog.iota.org/digital-autonomy-for-everyone/) zu dem es auch dieses [Video gab](https://www.youtube.com/embed/3qoBNd9anug?autoplay=1&auto_play=true)
 34. **Shimmer Youtube**: von Spec Weekly: [How to send Shimmies](https://youtu.be/DnTy3-zN628)
 35. **Shimmer Audio**: AMA mit Dr. Tangle am Freitag: [Tweet](https://x.com/ShimmerSeaDEX/status/1709931447212028233?s=20)
-36. **Shimmer DeFi Stats**: Auf [Defilama.com/chain/ShimmerEVM](https://defillama.com/chain/ShimmerEVM) wurde [iotabee.com](https://iotabee.com/) hinzu gefügt und damit sind wir fast bei 1 Million TVL
+36. **Shimmer DeFi Stats**: Auf [Defilama.com/chain/ShimmerEVM](https://defillama.com/chain/ShimmerEVM) wurde [iotabee.com](https://iotabee.com/) hinzugefügt und damit sind wir fast bei 1 Million TVL; [DefiLama (mit 200K Followern) tweetet](https://x.com/DefiLlama/status/1709966353925296359?s=20) darüber
 37. **Shimmer Ökosystem**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1709938230743928973?s=20) über den Blogpost: [The Significance of Oracles in Providing Reliable Market Data](https://medium.com/@NakamaLabs/the-significance-of-oracles-in-providing-reliable-market-data-bd27e65658b4)
 38. **Shimmer Youtube**: von Spec Weekly: [Shimmer Sea - walkthrough of some basic IOTA/Shimmer DeFi.](https://www.youtube.com/watch?v=DnTy3-zN628)
+39. 
