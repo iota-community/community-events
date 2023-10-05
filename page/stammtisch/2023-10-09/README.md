@@ -30,3 +30,4 @@
 28. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1709612771875160093?s=20) über die neue NFT Kollektion von [Dark Mythos](https://twitter.com/DarkMythosIOTA) auf [Shimmersea.Finance/NFT](https://shimmersea.finance/nfts)
 29. **IOTA Ökosystem**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1709819267707703298?s=20) über das [Team rund um Spyce 5](https://spyce5.com/about-us/)
 30. **IOTA Youtube**: [MissCrypto tweetet](https://x.com/MissCryptoGER/status/1709841457345896604?s=20) über ihr neuestes IOTA Video: [IOTA / Revolutionäre Technologie / Was steckt hinter der IOTA Kryptowährung?](https://youtu.be/qDkOu56QVNI?si=ysToPdPJekzot6s5)
+31. **Shimmer Ökosystem**: [ShimmerSea veröffentlicht](https://x.com/ShimmerSeaDEX/status/1709825393115406532?s=20) ihr [Whitepaper](https://whitepaper.shimmersea.finance/)
