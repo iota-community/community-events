@@ -38,4 +38,4 @@
 36. **Shimmer DeFi Stats**: Auf [Defilama.com/chain/ShimmerEVM](https://defillama.com/chain/ShimmerEVM) wurde [iotabee.com](https://iotabee.com/) hinzugefügt und damit sind wir fast bei 1 Million TVL; [DefiLama (mit 200K Followern) tweetet](https://x.com/DefiLlama/status/1709966353925296359?s=20) darüber
 37. **Shimmer Ökosystem**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1709938230743928973?s=20) über den Blogpost: [The Significance of Oracles in Providing Reliable Market Data](https://medium.com/@NakamaLabs/the-significance-of-oracles-in-providing-reliable-market-data-bd27e65658b4)
 38. **Shimmer Youtube**: von Spec Weekly: [Shimmer Sea - walkthrough of some basic IOTA/Shimmer DeFi.](https://www.youtube.com/watch?v=DnTy3-zN628)
-39. 
+39. **Shimmer Ökosystem**: [ChakraLabs tweetet](https://x.com/LabsChakra/status/1710158695886189003?s=20) von einem neuen dApp Ökosystem (im Retrodesign) das sie entwickeln
