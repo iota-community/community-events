@@ -39,3 +39,4 @@
 37. **Shimmer Ökosystem**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1709938230743928973?s=20) über den Blogpost: [The Significance of Oracles in Providing Reliable Market Data](https://medium.com/@NakamaLabs/the-significance-of-oracles-in-providing-reliable-market-data-bd27e65658b4)
 38. **Shimmer Youtube**: von Spec Weekly: [Shimmer Sea - walkthrough of some basic IOTA/Shimmer DeFi.](https://www.youtube.com/watch?v=DnTy3-zN628)
 39. **Shimmer Ökosystem**: [ChakraLabs tweetet](https://x.com/LabsChakra/status/1710158695886189003?s=20) von einem neuen dApp Ökosystem (im Retrodesign) das sie entwickeln
+40. **IOTA Ökosystem**: [Tweet von der Linksfoundation](https://x.com/LinksFoundation/status/1707301694172708881?s=20) über digitale Produktpassports von Rohstoffen auf IOTA
