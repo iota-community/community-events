@@ -47,4 +47,5 @@
 46. **Shimmer Ökosystem**: Das Spiel [game.iotaheroes.com](https://game.iotaheroes.com/) war of im Gespräch diese Woche und es gab davon eine schöne [Zusammenfassung von id.iota](https://x.com/id_iota/status/1711015376010547519?s=20); Selbst [Dom tweetet](https://x.com/DomSchiener/status/1711265063078682708?s=20) darüber mit "I love the game"
 47. **IOTA Audio**: [Benjamin Böhnisch von der ETO Gruppe tweetet](https://x.com/BenBoenisch/status/1710377203848863883?s=20) über ein Podcast in dem er aufgetreten ist: [ETO Gruppe - Benjamin Böhnisch](https://open.spotify.com/episode/4aJw2AI7HyprplJPaUR1KH)
 48. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1711260205038854424?s=20) über den Fairlaunch
-49. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/330-wochenr%C3%BCckblick-vom-1-bis-7-oktober-2023/)
+49. **Shimmer DeFi Ökosystem**: Das [Pyth Network tweetet](https://x.com/PythNetwork/status/1711291121752588778?s=20), dass ihr Pyth SMR/USD price feed auf über 35 blockchains als Oracle bereit steht; [Dom retweetet](https://x.com/DomSchiener/status/1711292407629664718?s=20) das
+50. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/330-wochenr%C3%BCckblick-vom-1-bis-7-oktober-2023/)
