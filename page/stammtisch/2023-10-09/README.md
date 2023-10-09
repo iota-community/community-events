@@ -49,4 +49,5 @@
 48. **IOTA Audio**: [Benjamin Böhnisch von der ETO Gruppe tweetet](https://x.com/BenBoenisch/status/1710377203848863883?s=20) über ein Podcast in dem er aufgetreten ist: [ETO Gruppe - Benjamin Böhnisch](https://open.spotify.com/episode/4aJw2AI7HyprplJPaUR1KH)
 49. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1711260205038854424?s=20) über den Fairlaunch
 50. **Shimmer DeFi Ökosystem**: Das [Pyth Network tweetet](https://x.com/PythNetwork/status/1711291121752588778?s=20), dass ihr Pyth SMR/USD price feed auf über 35 blockchains als Oracle bereit steht; [Dom retweetet](https://x.com/DomSchiener/status/1711292407629664718?s=20) das
-51. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/330-wochenr%C3%BCckblick-vom-1-bis-7-oktober-2023/)
+51. **Shimmer DeFi**: [TangleSwap tweetet](https://x.com/TangleSwap/status/1711352286956364258?s=20) darüber, dass die erste [Asteroid Farm](https://app.tangleswap.exchange/farm) online ist
+52. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/330-wochenr%C3%BCckblick-vom-1-bis-7-oktober-2023/)
