@@ -1,4 +1,4 @@
-## Stammtischthemen für Montag, den 9.10.2023
+Bo## Stammtischthemen für Montag, den 9.10.2023
 
 1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1708768891411808646?s=20) über die [IOTA Quicktakes]()
 2. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1708829188965142923?s=20) über den Blogpost: [IOTA 2.0 Intrdoduction (Oart 1) - Digital Autonomy for Everyone: The Future of IOTA](https://blog.iota.org/digital-autonomy-for-everyone/) mit dem Video: [Introduction to IOTA 2.0: Digital Autonomy for Everyone](https://www.youtube.com/watch?v=3qoBNd9anug)
