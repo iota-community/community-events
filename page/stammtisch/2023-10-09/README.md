@@ -45,5 +45,6 @@
 44. **Allgemeine News**: Kriegsausbruch in Nahost nachdem Palästinenser in Israel eingedrungen sind und wahlos Zivilisten getötet und entführt haben. Torsten (oder wahrscheinlich eher seine Ki) erklärt die allgmeine Spirale der Gewalt die damit wohl wieder los getretetn wurde: [Tweet](https://x.com/theissler/status/1710912233889214972?s=20)
 45. **Allgemeine News**: In Bayern und in Hessen wurde gewählt -> Stichwort No-Politik-Talk im IOTA Stammtisch ;-)
 46. **Shimmer Ökosystem**: Das Spiel [game.iotaheroes.com](https://game.iotaheroes.com/) war of im Gespräch diese Woche und es gab davon eine schöne [Zusammenfassung von id.iota](https://x.com/id_iota/status/1711015376010547519?s=20); Selbst [Dom tweetet](https://x.com/DomSchiener/status/1711265063078682708?s=20) darüber mit "I love the game"
-47. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1711260205038854424?s=20) über den Fairlaunch
-48. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/330-wochenr%C3%BCckblick-vom-1-bis-7-oktober-2023/)
+47. **IOTA Audio**: [Benjamin Böhnisch von der ETO Gruppe tweetet](https://x.com/BenBoenisch/status/1710377203848863883?s=20) über ein Podcast in dem er aufgetreten ist: [ETO Gruppe - Benjamin Böhnisch](https://open.spotify.com/episode/4aJw2AI7HyprplJPaUR1KH)
+48. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1711260205038854424?s=20) über den Fairlaunch
+49. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/330-wochenr%C3%BCckblick-vom-1-bis-7-oktober-2023/)
