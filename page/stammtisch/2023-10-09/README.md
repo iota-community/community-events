@@ -44,4 +44,5 @@
 42. **IOTA 2.0**: [id_iota tweetet](https://x.com/id_iota/status/1710640754249404744?s=20) eine Zusammenfassung der GitHub aktivitäten und schreibt u.a. "My personal guess would be, that we are feature complete next week."
 43. **Allgemeine News**: Kriegsausbruch in Nahost nachdem Palästinenser in Israel eingedrungen sind und wahlos Zivilisten getötet und entführt haben. Torsten (oder wahrscheinlich eher seine Ki) erklärt die Spirale der Gewalt: [Tweet](https://x.com/theissler/status/1710912233889214972?s=20)
 44. **Allgemeine News**: In Bayern und in Hessen wurde gewählt
-45. **Shimmer Ökosystem**: Das Spiel [game.iotaheroes.com](https://game.iotaheroes.com/) war oft im Gespräch diese Woche und es gab eine schöne [Zusammenfassung von id.iota](https://x.com/id_iota/status/1711015376010547519?s=20) darüber
+45. **Shimmer Ökosystem**: Das Spiel [game.iotaheroes.com](https://game.iotaheroes.com/) war oft im Gespräch diese Woche und es gab eine schöne [Zusammenfassung von id.iota](https://x.com/id_iota/status/1711015376010547519?s=20) darüber; Selbst [Dom tweetet](https://x.com/DomSchiener/status/1711265063078682708?s=20) "I love the game"
+46. **IOTA Wochenrückblick**: [iotatalks Wochenrückblick](https://www.iota-talk.com/index.php?article/330-wochenr%C3%BCckblick-vom-1-bis-7-oktober-2023/)
