@@ -1,8 +1,8 @@
 ## Stammtischthemen für Montag, den 9.10.2023
 
 1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1708768891411808646?s=20) über die [IOTA Quicktakes]()
-2. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1708829188965142923?s=20) über den Blogpost: [IOTA 2.0 Intrdoduction (Oart 1) - Digital Autonomy for Everyone: The Future of IOTA](https://blog.iota.org/digital-autonomy-for-everyone/)
-3. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1709191578676342876?s=20) über den Blogpost: [IOTA 2.0 Intrdoduction (Oart 1) - Five Principles: The Fundamentals That Every DLT Needs](https://blog.iota.org/five-principles-iota20/)
+2. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1708829188965142923?s=20) über den Blogpost: [IOTA 2.0 Intrdoduction (Oart 1) - Digital Autonomy for Everyone: The Future of IOTA](https://blog.iota.org/digital-autonomy-for-everyone/) mit dem Video: [Introduction to IOTA 2.0: Digital Autonomy for Everyone](https://www.youtube.com/watch?v=3qoBNd9anug)
+3. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1709191578676342876?s=20) über den Blogpost: [IOTA 2.0 Intrdoduction (Oart 1) - Five Principles: The Fundamentals That Every DLT Needs](https://blog.iota.org/five-principles-iota20/) mit dem Video: [Introduction to IOTA 2.0: Five Principles](https://www.youtube.com/watch?v=damRZ1qYxp8&t=14s)
 4. **IOTA 2.0**: Ein [Thread von der IF](https://x.com/iota/status/1708852406841229665?s=20) über die $4 unique value propositions" zusammen mit dem [Video: Digital Autonomy for Everyone](https://youtu.be/3qoBNd9anug)
 5. **IOTA Stardust**: Die [IF tweetet](https://x.com/iota/status/1708859392840302867?s=20) über den Blogpost: [IOTA Stardust Upgrade - Timeline and Further Information](https://blog.iota.org/iota-stardust-upgrade/)
 6. **IOTA Artikel**: von UToday: [IOTA (MIOTA) Unveils New Era 2.0: Details](https://u.today/iota-miota-unveils-new-era-20-details?utm_source=dlvr.it&utm_medium=twitter)
