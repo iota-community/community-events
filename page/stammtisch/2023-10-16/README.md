@@ -1,0 +1,11 @@
+## Stammtischthemen für Montag, den 16.10.2023
+
+1. **IOTA Quicktakes**: Die [IF tweetet]() über die [IOTA Quicktakes](2023-10-16/README.md)
+2. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1711682991854919826?s=20) über ihre Partnerschaft mit [IOTA Heroes](https://twitter.com/IotaHeroes)
+3. **Shimmer DeFi**: Am Dienstag hat die Shimmer EVM den TVL von $1Million überschritten: [Defillame.com/chain/ShimmerEVM]https://defillama.com/chain/ShimmerEVM?currency=USD&price=true&developers=false&devsCommits=false&tvl=true)
+4. **IOTA Progress Report**: Die [IF tweetet](https://x.com/iota/status/1711652800260710755?s=20) über den [Q3 2023 Progress Report vom 10.10.23](https://blog.iota.org/q3-2023-progress-report/)
+5. **IOTA Audio**: [Blockbytes Twitter Spaces](https://x.com/blockbytescom/status/1711389398632128889?s=20) von Montag, den 9.10.23
+6. **IOTA Firefly**: Neues [Firefly IOTA Release: desktop-iota-2.0.2](https://github.com/iotaledger/firefly/releases/tag/desktop-iota-2.0.2)
+7. **IOTA Event**: am 19.10 um 17 Uhr startet eine Webex Veranstaltung von der Hochschule Mannheim über IOTA statt: [Tweet](https://x.com/Vrom14286662/status/1711709952882999407?s=20)
+8. **Shimmer Gaming**: [Huhn tweetet](https://x.com/huhn511/status/1711702223321801177?s=20) über ein neues web3.0 game, dass er entwickelt
+9. 
