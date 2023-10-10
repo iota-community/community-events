@@ -8,4 +8,5 @@
 6. **IOTA Firefly**: Neues [Firefly IOTA Release: desktop-iota-2.0.2](https://github.com/iotaledger/firefly/releases/tag/desktop-iota-2.0.2)
 7. **IOTA Event**: am 19.10 um 17 Uhr startet eine Webex Veranstaltung von der Hochschule Mannheim über IOTA statt: [Tweet](https://x.com/Vrom14286662/status/1711709952882999407?s=20)
 8. **Shimmer Gaming**: [Huhn tweetet](https://x.com/huhn511/status/1711702223321801177?s=20) über ein neues web3.0 game, dass er entwickelt
-9. 
+9. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1711728288257704011?s=20) über den [Abschnitt in wiki.iota.org zum Thema "data Flow](https://wiki.iota.org/learn/protocols/iota2.0/core-concepts/data-flow), passend zum 3 Part von der Introduction Campagne [Data Flow Explained](https://blog.iota.org/data-flow-explained-iota20/)
+10. 
