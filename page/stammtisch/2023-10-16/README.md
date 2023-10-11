@@ -16,4 +16,5 @@
 14. **Crypto Tech**: Was hat es mit der BitVM auf sich? Artikel: [BitVM: Beliebige Smart Contracts direkt auf Bitcoin umsetzen?](https://www.blocktrainer.de/bitvm-beliebige-smart-contracts-direkt-auf-bitcoin-umsetzen/)
 15. **Twitter Drama**: Mein [Tweet mit Screenshot zum ShimmerEVM Testnetz Reset](https://x.com/Vrom14286662/status/1711745914669338673?s=20) ist für Dave de Fijer bereits zu viel Hype: [Tweet](https://x.com/fijter/status/1711770329310187775?s=20)
 16. **IOTA Ökosystem**: [Multi tweetet](https://x.com/multifolio/status/1711797042698207549?s=20) über sein neues Video: [Einfacher Programmiereinstieg: Entwicklung eines Discord-Bots - Das erste Mal aus der Bubble](https://youtu.be/_vVmORcPhBA?si=lBhuTFbzQe1u-Lh7)
-17. 
+17. **IF Intern**: [Mariana de la Roche tweetet](https://x.com/Marianadlrw/status/1712024633627554189?s=20), dass sie die IOTA Foundation zum Jahresende verlässt
+18. **Shimmer DeFi**: Das [Phyt Network tweetet](https://x.com/PythNetwork/status/1711714909564580297?s=20) nochmal über ihr Price Feeds auf Shimmer: "Developers on ShimmerEVM can now access Pyth’s 350+ price feeds for equities, commodities, foreign exchange pairs, and cryptocurrencies"
