@@ -15,3 +15,5 @@
 13. **Crypto Adaption**: Fidelity erklärt seinen Kunden Bitcoin: [Bitcoin First Revisited - Why investors need to consider bitcoin separately from other digital assets](https://www.fidelitydigitalassets.com/research-and-insights/bitcoin-first-revisited)
 14. **Crypto Tech**: Was hat es mit der BitVM auf sich? Artikel: [BitVM: Beliebige Smart Contracts direkt auf Bitcoin umsetzen?](https://www.blocktrainer.de/bitvm-beliebige-smart-contracts-direkt-auf-bitcoin-umsetzen/)
 15. **Twitter Drama**: Mein [Tweet mit Screenshot zum ShimmerEVM Testnetz Reset](https://x.com/Vrom14286662/status/1711745914669338673?s=20) ist für Dave de Fijer bereits zu viel Hype: [Tweet](https://x.com/fijter/status/1711770329310187775?s=20)
+16. **IOTA Ökosystem**: [Multi tweetet](https://x.com/multifolio/status/1711797042698207549?s=20) über sein neues Video: [Einfacher Programmiereinstieg: Entwicklung eines Discord-Bots - Das erste Mal aus der Bubble](https://youtu.be/_vVmORcPhBA?si=lBhuTFbzQe1u-Lh7)
+17. 
