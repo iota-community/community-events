@@ -37,4 +37,4 @@
 35. **Shimmer GameFi**: [Iotaheroes tweeten](https://x.com/IotaHeroes/status/1712851550886879687?s=20) von einem Halloween Event und verlinken den Blogpost: [IOTA Heroes Halloween Event](https://www.iotaheroes.com/blog/halloween-event); Es gab schon mal so ein Turnier und ein Video davon: [IOTA Heroes PvP Tournament (Treasures of Shimmer)](https://www.youtube.com/watch?v=Rg2kkw18sJA)
 36. **IOTA Adaption**: [fluent.finance tweetet](https://x.com/FluentDAO/status/1712887514690715717?s=20) darüber, dass sie smart contracts für USPlus auf IOTA und Shimmer starten werden
 37. **IOTA 2.0**: Ein [Thread von der IF](https://x.com/iota/status/1712860880432402754?s=20) über Mana und die Tokenomics
-38. 
+38. **Crypto Drama**: Artikel: [SEC Reportedly Decides Not to Appeal Its Bitcoin ETF Court Loss Against Grayscale](https://www.coindesk.com/policy/2023/10/13/sec-reportedly-decides-not-to-appeal-its-bitcoin-etf-court-loss-against-grayscale/)
