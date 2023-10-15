@@ -44,3 +44,9 @@
 42. **Crypto Adaption**: Artikel: [Ferrari to officially accept crypto as payment for its supercars](https://finbold.com/ferrari-to-officially-accept-crypto-as-payment-for-its-supercars/)
 43. **Crypot Drama**: Kurzer Schockmoment, weil Apple die Metamask App für 2 Stunden delisted hatte: [Tweet 1](https://x.com/WatcherGuru/status/1713195423798554704?s=20); [Tweet 2](https://x.com/WatcherGuru/status/1713234587365593099?s=20)
 44. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/332-wochenr%C3%BCckblick-vom-8-bis-14-oktober-2023/)
+45. **IOTA Ökosystem**: [TanglePay tweetet](https://x.com/tanglepaycom/status/1713533752545341837?s=20), dass ihre IOTA Wallet als Chrome Extension auf IOTA Stardust upgedated wurde (IOS und Android dauert noch ein bisschen)
+46. **Shimmer DeFi Ökosystem**: [Deepr Finance tweetet](https://x.com/DeeprFinance/status/1712803717437641122?s=20), dass am Dienstag 17.10 ihre Degentralized Lending Platform (nur für Degen und erstmal nur für Token mit wenig Wert) startet
+47. **Shimmer DeFi Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1713530331947569343?s=20), dass am Montag 16.10 das Farming von LUM_SMR_LP startet
+48. **Crypto Drama**: Mal wieder negatives Framing bei der Zeit: [Terrorfinanzierung - "Wer Kryptowährungen toleriert, nimmt Terroranschläge in Kauf"](https://www.zeit.de/geld/2023-10/fabian-teichmann-terrorfinanzierung-hamas-kryptowaehrungen); Gegendarstellung von Blocktrainer: [Hamas-Terror durch Kryptowährungen finanziert – Binance sperrt Konten](https://www.blocktrainer.de/hamas-terror-durch-kryptowaehrungen-finanziert-binance-sperrt-konten/)
+49. **IOTA 2.0**: Dom hat sich zu IOTA 2.0 im Discrod geäußert: [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1713550444629205447?s=20)
+50. 
