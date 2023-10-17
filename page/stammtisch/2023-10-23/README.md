@@ -5,3 +5,4 @@
 3. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1713978113661550734?s=20) darüber, dass Mariana de la Roche an einem Event "2nd Global Dialogue on Artificial Intelligence" am 2.10. beim Roundtable "Revolutionizing Finance and Economy with AI" teilnimmt
 4. **Crypto Adaption**: Larry Flink der CEO von Blackrock spricht positiv über Krypto im TV "a flight to quality": [Tweet von Mirco (Bitcoin2Go)](https://x.com/bitcoin2go/status/1714170925619220546?s=20)
 5. **Shimmer DeFi**: Man kann seine Lumis jetzt für LUM Token staken: [Tweet](https://x.com/ShimmerSeaDEX/status/1714166854946803980?s=20)
+6. **IOTA Artikel**: in ETh News: [Cardano, IOTA, and TangleSwap: A Triumphant Trifecta for DeFi](https://www.ethnews.com/cardano-iota-and-tangleswap-a-triumphant-trifecta-for-defi/?feed_id=590&_unique_id=652d8d4256827)
