@@ -10,3 +10,6 @@
 8. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1714280107659997621?s=20) über ihre Partnerschaft mit [ChakraLabs](https://twitter.com/LabsChakra)
 9. **IOTA Youtube**: TangleSwap hat diese Woche ordentlich Werbung im Cardano Space gemacht. Hier ein [Video von ](https://youtu.be/0SHtrS0QxsI)
 10. **IOTA Youtube**: von TangleTalk: [Sebastian Weber von Akkodis 2. Besuch vom 28.09.23](https://www.youtube.com/watch?v=oU2dUH2FV7E&t=1333s)
+11. **IOTA Ökosystem**: Neuer [Tweet von den Shi-Weas](https://x.com/Shiuniverse/status/1714321857770360852?s=20) mit Link zum neuen Video: [Shi Universe - Game Insights Vol1](https://www.youtube.com/watch?v=H8CcmZbkYzg)
+12. **Shimmer DeFi**: [Deepr Finance tweetet](https://x.com/DeeprFinance/status/1714305434188673293?s=20) über ihre [degen.deepr.finance](https://degen.deepr.finance/) die gestartet ist und verlinken den Blogpost: [Launching Deepr Degen: Meme Tokens Kickstart the Journey Ahead](https://medium.com/@NakamaLabs/launching-deepr-degen-meme-tokens-kickstart-the-journey-ahead-56afe053b82b)
+13. **IOTA Youtube**: von Iotapoet: [Debating Shimmer’s future with IDiota and Matt Yarger #IOTA](https://www.youtube.com/watch?v=QvI-LDs9cTc)
