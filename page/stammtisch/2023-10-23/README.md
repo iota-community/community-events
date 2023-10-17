@@ -13,7 +13,9 @@
 11. **IOTA Ökosystem**: Neuer [Tweet von den Shi-Weas](https://x.com/Shiuniverse/status/1714321857770360852?s=20) mit Link zum neuen Video: [Shi Universe - Game Insights Vol1](https://www.youtube.com/watch?v=H8CcmZbkYzg)
 12. **Shimmer DeFi**: [Deepr Finance tweetet](https://x.com/DeeprFinance/status/1714305434188673293?s=20) über ihre [degen.deepr.finance](https://degen.deepr.finance/) die gestartet ist und verlinken den Blogpost: [Launching Deepr Degen: Meme Tokens Kickstart the Journey Ahead](https://medium.com/@NakamaLabs/launching-deepr-degen-meme-tokens-kickstart-the-journey-ahead-56afe053b82b)
 13. **IOTA Youtube**: von Iotapoet: [Debating Shimmer’s future with IDiota and Matt Yarger #IOTA](https://www.youtube.com/watch?v=QvI-LDs9cTc)
-14. **IOTA Ökosystem**: [Demia kommentiert](https://x.com/_Demia/status/1714338381193195615?s=209) die Partnerschaft zu SoonLabs und erklären ihr Produkt
+14. **IOTA Ökosystem**: [Demia kommentiert](https://x.com/_Demia/status/1714338381193195615?s=209) die Partnerschaft zu SoonLabs und erklären ihr Produkt; [Mat Yager kommentiert](https://x.com/Mat_Yarger/status/1714353061349540094?s=20) das auch
 15. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1714296476145447372?s=20) über den wiki.iota Beitrag "[Consensus on a DAG](https://wiki.iota.org/learn/protocols/iota2.0/core-concepts/consensus/introduction/)". Das gehört zum Part 6 der Education Campagne mit dem Blogpost: [A New Consensus Model: Nakamoto Consensus on a DAG](https://blog.iota.org/a-new-consensus-model-iota20/)
 16. **IOTA Youtube**: von Probably Nothing: [Einführung in IOTA 2.0: Ein neues Konsensmodell - IOTA 2.0 Konsens auf einem DAG #shorts](https://www.youtube.com/watch?v=YsErogmgodE)
 17. **Crypto Drama**: Artikel: [Binance.US Ends Direct Dollar Withdrawals](https://unchainedcrypto.com/binance-us-ends-direct-dollar-withdrawals/)
+18. **IOTA Audio**: [Twitter Spaces Event von NowNodes](https://x.com/NOWNodes/status/1714254532312477947?s=20) über "about development on #Shimmer, L2 EVM network rollout and share special news from
+NOWNodes"
