@@ -17,5 +17,6 @@
 15. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1714296476145447372?s=20) über den wiki.iota Beitrag "[Consensus on a DAG](https://wiki.iota.org/learn/protocols/iota2.0/core-concepts/consensus/introduction/)". Das gehört zum Part 6 der Education Campagne mit dem Blogpost: [A New Consensus Model: Nakamoto Consensus on a DAG](https://blog.iota.org/a-new-consensus-model-iota20/)
 16. **IOTA Youtube**: von Probably Nothing: [Einführung in IOTA 2.0: Ein neues Konsensmodell - IOTA 2.0 Konsens auf einem DAG #shorts](https://www.youtube.com/watch?v=YsErogmgodE)
 17. **Crypto Drama**: Artikel: [Binance.US Ends Direct Dollar Withdrawals](https://unchainedcrypto.com/binance-us-ends-direct-dollar-withdrawals/)
-18. **IOTA Audio**: [Twitter Spaces Event von NowNodes](https://x.com/NOWNodes/status/1714254532312477947?s=20) über "about development on #Shimmer, L2 EVM network rollout and share special news from
+18. **Shimmer Challenge **: [Cryptonair tweetet](https://x.com/CryptonaireApp/status/1714310302232105177?s=20)über eine neue Shimmer Chalange, dass es SMR zu gewinnen gibt
+19. **IOTA Audio**: [Twitter Spaces Event von NowNodes](https://x.com/NOWNodes/status/1714254532312477947?s=20) über "about development on #Shimmer, L2 EVM network rollout and share special news from
 NOWNodes"
