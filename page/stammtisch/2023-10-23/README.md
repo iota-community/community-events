@@ -22,5 +22,5 @@
 20. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1714627400091181090?s=20) über Part 7 von der Education Campagne mit dem Blogpost: [Confirming Blocks: How Validators Operate](https://blog.iota.org/confirming-transactions-iota20/)
 21. **IOTA Exchange**: Binance delistet IOTA/BUSD im Spot Markt: [Tweet](https://x.com/SebaKremer/status/1714645577865076920?s=20)
 22. **Twitter Gezwitscher**: [Archimate tweetet](https://x.com/archimate/status/1714622682275410128?s=20) positiv über IOTA; Hier noch ein [Thread von ihm](https://x.com/archimate/status/1714620907623518604?s=20)
-23. **IOTA Adaption**: [Benjamin Böhnisch tweetet](https://x.com/BenBoenisch/status/1714648213813125344?s=20) von einem Alfried Demonstrator
+23. **IOTA Adaption**: [Benjamin Böhnisch tweetet](https://x.com/BenBoenisch/status/1714648213813125344?s=20) von einem Alfried Demonstrator von dem auch [Filancore berichtet](https://x.com/FilancoreGmbH/status/1714643348802142220?s=20)
 24. **IOTA Adaption**: [Tweet von Dominique Guinard](https://x.com/domguinard/status/1714601841676210548?s=20)
