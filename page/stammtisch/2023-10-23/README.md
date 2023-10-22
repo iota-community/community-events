@@ -45,4 +45,5 @@
 43. **IOTA Adaption**: [Tweet mit Screenshot](https://x.com/moonbaklava/status/1715812184813408442?s=20) mit Aussagen von Dom zu EBSI
 44. **IOTA Ökosystem**: [DeeprFinance tweetet](https://x.com/DeeprFinance/status/1715782127348826267?s=20) über ihren Fairlaunch am 28.10.
 45. **IOTA Speculation**: Der [Senfda Tzu](https://twitter.com/SenfdaTzu) hat einen Medium Artikel geschrieben: [IOTA vs. Shimmer — the great analysis from an investors´s view](https://medium.com/@karsten.bienek/iota-vs-shimmer-the-great-analysis-from-an-investors-s-view-eb2dc0ef398e)
-46. 
+46. **Crypto Adaption**: In Argentinien wurde gewählt und der Gewinner (?!?) ist ein liberaler Bitcoiner der USD als zentrale Währung einführen will und die Zentralbanken als größte Diebe der Geschichte bezeichnet; Hier ein [Interview von ihm: Argentina's Milei on Dollarization, Central Bank, China (Full interview in english)](https://www.youtube.com/watch?v=fhqq3zDW6E0)
+47. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/334-wochenr%C3%BCckblick-vom-15-bis-21-oktober-2023/)
