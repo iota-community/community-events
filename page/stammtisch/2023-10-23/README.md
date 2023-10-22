@@ -40,3 +40,9 @@
 38. **IOTA Artikel**: Die [IF tweetet](https://x.com/iota/status/1715457863701660081?s=20=) über einen Guest Post auf CoinmarketCap: [IOTA 2.0 | Five Principles: The Fundamentals That Every DLT Needs](https://coinmarketcap.com/community/articles/6523fd2a77cc4e73bf8a8574/)
 39. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1715328692094636423?s=20) ein Bild von der offiziellen UAE Delegation die in Japan auf der Messe war
 40. **Crypto Bullrun**: Die Gerüchte für ein Bitcoin ETF sorgen für BTC > $30.000
+41. **IOTA NFT Ökosystem**: [ZeroSwap](https://twitter.com/ZeroSwapNFT_) und [Iotapunks](https://twitter.com/IotaPunks_71) Kollaboration: [Tweet](https://x.com/ZeroSwapNFT_/status/1715992708844503348?s=20)
+42. **IOTA NFT Ökosystem**: Die [RRC tweeten](https://x.com/RustyRobotCC/status/1715991046629507283?s=20) über ihren Medium Artikel: [More Than Just a Jpeg — The Business Side of the RRCC](https://medium.com/@RustyRobotCountryClub/more-than-just-a-jpeg-the-business-side-of-the-rrcc-ae62b321a816)
+43. **IOTA Adaption**: [Tweet mit Screenshot](https://x.com/moonbaklava/status/1715812184813408442?s=20) mit Aussagen von Dom zu EBSI
+44. **IOTA Ökosystem**: [DeeprFinance tweetet](https://x.com/DeeprFinance/status/1715782127348826267?s=20) über ihren Fairlaunch am 28.10.
+45. **IOTA Speculation**: Der [Senfda Tzu](https://twitter.com/SenfdaTzu) hat einen Medium Artikel geschrieben: [IOTA vs. Shimmer — the great analysis from an investors´s view](https://medium.com/@karsten.bienek/iota-vs-shimmer-the-great-analysis-from-an-investors-s-view-eb2dc0ef398e)
+46. 
