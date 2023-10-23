@@ -50,5 +50,5 @@
 48. **Crypto Drama**: Artikel von Blocktrainer: [Schwachstelle im Lightning-Netzwerk: Der „Replacement Cycling“ Angriff erklärt!](https://www.blocktrainer.de/schwachstelle-im-lightning-netzwerk-der-replacement-cycling-angriff-erklaert/)
 49. **IOTA Governance**: Es gibt/gab wohl zumindest bei IOTA zu wenige die abgestimmt haben: [Tweet](https://x.com/Deep_Sea_Iotan/status/1716127766095999267?s=20)
 50. **IOTA Ökosystem**: [TangleLabs tweetet](https://x.com/Tangle_Labs/status/1716016542058745935?s=20) über ihr Beta Release von VIRA und den Blogpost: [Empowering Verifiable Identity: Introducing VIRA by Tangle Labs](https://www.tanglelabs.io/resources/empowering-verifiable-identity-introducing-vira-by-tangle-labs)
-51. IOTA Audio**: Am Donnerstag kommt [Luca Moser](https://twitter.com/luca__moser) (Director of Engineering for the L1 protocol at the IOTA Foundation) zum Tangle Talk: [Tweet](https://x.com/tangle_talk/status/1716021809286357324?s=20)
-52. 
+51. **IOTA Audio**: Am Donnerstag kommt [Luca Moser](https://twitter.com/luca__moser) (Director of Engineering for the L1 protocol at the IOTA Foundation) zum Tangle Talk: [Tweet](https://x.com/tangle_talk/status/1716021809286357324?s=20)
+52. **IOTA 2.0 Hype**: [Id.iota tweetet](https://x.com/id_iota/status/1716329175865245725?s=20) "We are so ready..."
