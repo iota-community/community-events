@@ -9,3 +9,5 @@
 7. **IOTA DeFi Learn**: [Nakama tweetet](https://x.com/Nakama_Labs/status/1716429385543135477?s=20) über ihren neuen Blogpost: [Pioneering the Path to Web3: Part 2 — Security](https://medium.com/@NakamaLabs/pioneering-the-path-to-web3-part-2-security-e031edd31433)
 8. **Crypto Adaption**: Die [IF tweetet](https://x.com/iota/status/1716756419779690747?s=20) über [A public response to IOSCO’s report on DeFi | Oct 20, 2023 | DeFi, news, Regulation&Taxation, Staking](https://europeanblockchainassociation.org/2023/10/20/a-public-response-to-ioscos-report-on-defi/)
 9. **IOTA Dev Update**: [Protocol group, Week 40-42 #89](https://github.com/iotaledger/research-updates/discussions/89)
+10. **IOTA 2.0**: Alle Tangle Improvement Proposals (TIPs) wurden verffentlicht: [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1716814804298690944?s=20)
+11. **IOTA NFT Ökosystem**: [IotaOrigin macht ein Thread](https://x.com/origin_iota/status/1716814309236633788?s=20) darüber, wie man ein NFT Pools kreiert
