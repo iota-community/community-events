@@ -11,3 +11,4 @@
 9. **IOTA Dev Update**: [Protocol group, Week 40-42 #89](https://github.com/iotaledger/research-updates/discussions/89)
 10. **IOTA 2.0**: Alle Tangle Improvement Proposals (TIPs) wurden verffentlicht: [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1716814804298690944?s=20)
 11. **IOTA NFT Ökosystem**: [IotaOrigin macht ein Thread](https://x.com/origin_iota/status/1716814309236633788?s=20) darüber, wie man ein NFT Pools kreiert
+12. **IOTA Audio**: [TangleSwap](https://twitter.com/TangleSwap) war ein einem [Cardano Spaces Event](https://x.com/CardanoSpot/status/1714764064910659835?s=20)
