@@ -26,3 +26,5 @@ Sector Index.pdf](https://www.lseg.com/content/dam/ftse-russell/en_us/documents/
 23. **IOTA Ökosystem**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1717491996036640987?s=20) darüber, dass sie den ersten API Endpunkt für die Shimmer EVM anbieten
 24. **IOTA DeFi**: [Iotabee tweetet](https://x.com/iotabee/status/1717478725829181714?s=20) ein Bild in dem man alle Möglichkeitnen sieht die man aktuell hat um ETH, BNB, IOTA und SMR zu bridgen z.B. mit Hilfe der [IOTA MPC Bridge](https://twitter.com/iotampc)
 25. **IOTA Artikel**: von Tangleverse Times (bzw. [Digidus Prime](https://twitter.com/DigidusPrime): [The Programmable Tangle: Implications of Layer 1 Smart Contracts on IOTA](https://www.times.tangleverse.io/the-programmable-tangle-implications-of-layer-1-smart-contracts-on-iota/)
+26. **IOTA NFT Ökosystem**: Die [Early Adopters tweeten](https://x.com/EarlyAdopters17/status/1717502994214797422?s=20) eine Anleutung wie man die geairdropten NFTs sich in Metamask anzeigen kann
+27. 
