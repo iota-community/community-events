@@ -32,3 +32,4 @@ Sector Index.pdf](https://www.lseg.com/content/dam/ftse-russell/en_us/documents/
 29. **IOTA Ökosystem**: [Lord Alexander postet](https://x.com/shortaktien/status/1717594257345708058?s=20) einen Link zu seinem neuen IOTA Shop: [shimmershop.myspreadshop.de](https://shimmershop.myspreadshop.de/all)
 30. **IOTA Adaption**: [Christoph Strnadl tweetet](https://x.com/archimate/status/1717833393201623207?s=20) darüber wann und warum man DLTs wie IOTA braucht
 31. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1701583098431918114?s=20) über den Blogpost von Part 9 der Introduction Campagne: [Finality Explained: How Nodes Sync the Ledger - IOTA 2.0 Introduction Part 9](https://blog.iota.org/finality-explained-iota20/)
+32. **IOTA Gaming**: Ein neues Card Game scheint bal dzu starten: [Tweet](https://x.com/InfernalNFTs/status/1717906184705880555?s=20); Hat offenbar was mit Linus zu tun: [Tweet](https://x.com/LinusNaumann/status/1717910523201679598?s=20)
