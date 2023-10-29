@@ -39,4 +39,5 @@ Sector Index.pdf](https://www.lseg.com/content/dam/ftse-russell/en_us/documents/
 36. **IOTA 2.0**: [Update von Id.iota](https://x.com/id_iota/status/1718277276536574045?s=20) zu den github Aktivitäten bezüglich iota core
 37. **IOTA Governance**: Das Voting zählt da die 5% Hürde genommen wurde und Node Owner sind aufgerufen das Ergebnis zu validieren: [Verify Results [SGP - 0006] and [IGP - 0001] #6](https://github.com/iota-community/governance-participation-events/pull/6]
 38. **IOTA Artikel**: Die [IF tweetet](https://x.com/iota/status/1718356967935365565?s=20) über den Guestpost auf CoinmarketCap: [Tech Deep Dives - IOTA 2.0 | A New Consensus Model: Nakamoto Consensus on a DAG](https://coinmarketcap.com/community/articles/652d341b97bbdc24141f0d00/)
-39. 
+39. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/336-wochenr%C3%BCckblick-vom-22-bis-28-oktober-2023/)
+40. **IOTA Audio**: Das Interview mit [Luca Moser](https://twitter.com/luca__moser) ist jetzt auf Telegram zu finden: [Tweet](https://x.com/tangle_talk/status/1718546758647664770?s=20)
