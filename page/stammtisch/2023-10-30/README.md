@@ -33,3 +33,10 @@ Sector Index.pdf](https://www.lseg.com/content/dam/ftse-russell/en_us/documents/
 30. **IOTA Adaption**: [Christoph Strnadl tweetet](https://x.com/archimate/status/1717833393201623207?s=20) darüber wann und warum man DLTs wie IOTA braucht
 31. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1701583098431918114?s=20) über den Blogpost von Part 9 der Introduction Campagne: [Finality Explained: How Nodes Sync the Ledger - IOTA 2.0 Introduction Part 9](https://blog.iota.org/finality-explained-iota20/)
 32. **IOTA Gaming**: Ein neues Card Game scheint bal dzu starten: [Tweet](https://x.com/InfernalNFTs/status/1717906184705880555?s=20); Hat offenbar was mit Linus zu tun: [Tweet](https://x.com/LinusNaumann/status/1717910523201679598?s=20)
+33. **IOTA Ökosystem**: [Deepr Finance tweetet](https://x.com/DeeprFinance/status/1718332264382124280?s=20), dass der Fair Launch nach 2 Minuten ausverkauft war; Hier noch ein [Tweet](https://x.com/DeeprFinance/status/1718346712819839149?s=20), dass LP Farming nächste Woche startet
+34. **IOTA Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1718363044588245238?s=20), dass sie am Tag des Fair Launch 1 Million $ Tradingvolumen hatten
+35. **IOTA Dev**: Neues Update von [swarm v3.0.4](https://github.com/tanglebay/swarm/releases/tag/v3.0.4): [Tweet](https://x.com/tanglebay/status/1718023883738034561?s=20)
+36. **IOTA 2.0**: [Update von Id.iota](https://x.com/id_iota/status/1718277276536574045?s=20) zu den github Aktivitäten bezüglich iota core
+37. **IOTA Governance**: Das Voting zählt da die 5% Hürde genommen wurde und Node Owner sind aufgerufen das Ergebnis zu validieren: [Verify Results [SGP - 0006] and [IGP - 0001] #6](https://github.com/iota-community/governance-participation-events/pull/6]
+38. **IOTA Artikel**: Die [IF tweetet](https://x.com/iota/status/1718356967935365565?s=20) über den Guestpost auf CoinmarketCap: [Tech Deep Dives - IOTA 2.0 | A New Consensus Model: Nakamoto Consensus on a DAG](https://coinmarketcap.com/community/articles/652d341b97bbdc24141f0d00/)
+39. 
