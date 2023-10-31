@@ -4,4 +4,9 @@
 2. **IOTA Audio**: Twitter Spaces Event von Blockbytes: [Shimmer x Blockbytes: DEEPR Launch](https://x.com/blockbytescom/status/1718998587571310893?s=20)
 3. **Shimme DeFi**: Das Farming von Deepr/SMR LP hat auf [ShimmerSea.finance](https://shimmersea.finance/liquidity/pool/0xd56c46dde3079bb7799826c6bff217665206100b) begonnen
 4. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1719021403868193113?s=20) über [Securing Consensus with Slot Commitment Chains on IOTA 2.0](https://www.youtube.com/watch?v=obTv3bbB9NQ)
-5. 
+5. **Shimmer Promote**: [iotabee tweetet](https://x.com/iotabee/status/1719258172999746042?s=20) über eine Haloween  Zealy Aktion wo man
+6. **IOTA Stammtisch**: Im letzten IOTA Stammtisch haben sich Buddhini und Hans Moog ewig unterhalten. Vielleicht muss das nochmal nachbesprochen werden...
+7. **IOTA Audio**: Neuer Moonaco Podcast mit Holger Köther von Spyce_5: [Tweet](https://x.com/MoonacoPodcast/status/1719405918784266361?s=20)
+8. **IOTA Ökosystem**: Neue Partnerschaft zw. ShimmerSea und IotaOrigin: [Tweet](https://x.com/ShimmerSeaDEX/status/1719346013138284746?s=20)
+9. **IOTA Video**: von IotaPoet: [Grayscale RANKS IOTA and Shimmer's BIGGEST DEFI Launch yet](https://www.youtube.com/watch?v=XIDeQ1nk1aw)
+10. 
