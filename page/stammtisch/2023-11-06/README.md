@@ -9,4 +9,6 @@
 7. **IOTA Audio**: Neuer Moonaco Podcast mit Holger Köther von Spyce_5: [Tweet](https://x.com/MoonacoPodcast/status/1719405918784266361?s=20)
 8. **IOTA Ökosystem**: Neue Partnerschaft zw. ShimmerSea und IotaOrigin: [Tweet](https://x.com/ShimmerSeaDEX/status/1719346013138284746?s=20)
 9. **IOTA Video**: von IotaPoet: [Grayscale RANKS IOTA and Shimmer's BIGGEST DEFI Launch yet](https://www.youtube.com/watch?v=XIDeQ1nk1aw)
-10. 
+10. **IOTA Ökosystem**: Neuer Fairlaunch von $Love auf ShimmerSea: [Tweet](https://x.com/ShimmerSeaDEX/status/1719620490183028955?s=20)
+11. **Shimmer Ökosystem**: [DeFiLama tweetet](https://x.com/DefiLlama/status/1719384396547969486?s=20) darüber, dass jetzt auch [Accumulator](https://twitter.com/ACCU_DeFi) auf [defillama.com/chain/ShimmerEVM](https://defillama.com/chain/ShimmerEVM) gelistet ist
+12. **IOTA Adaption**: Das Video von der [ZEBRA Dev Con 2023](https://www.zebra.com/content/dam/zebra_dam/en/video/web-production/zebra%20devcon2023-video-ats-iota-dlt-value-chains-jose-cantera-en-us.mp4.mp4); Hier nur die [Slides von der Präsentation](https://www.zebra.com/content/dam/zebra_dam/en/presentation/customer-facing/zebra-devcon2023-presentation-custumer-facing-iota-dlt-value-chains-jose-cantera-en-us.pdf)
