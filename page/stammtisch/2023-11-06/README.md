@@ -1,6 +1,6 @@
-## IOTA Stammtischthemen für Montage, den 6.11.2023
+## IOTA Stammtischthemen für Montag, den 6.11.2023
 
-1. **IOTA Quicktakes**: Die [IF tweetet]() über die [IOTA Quicktakes]()
+1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1718930849364852881?s=20) über die [IOTA Quicktakes](https://www.youtube.com/watch?v=V3XJIpEeU00&list=PLMbc46iGTB_QyqqU-QwbFsrVd9-HN55i_)
 2. **IOTA Audio**: Twitter Spaces Event von Blockbytes: [Shimmer x Blockbytes: DEEPR Launch](https://x.com/blockbytescom/status/1718998587571310893?s=20)
 3. **Shimme DeFi**: Das Farming von Deepr/SMR LP hat auf [ShimmerSea.finance](https://shimmersea.finance/liquidity/pool/0xd56c46dde3079bb7799826c6bff217665206100b) begonnen
 4. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1719021403868193113?s=20) über [Securing Consensus with Slot Commitment Chains on IOTA 2.0](https://www.youtube.com/watch?v=obTv3bbB9NQ)
@@ -13,3 +13,19 @@
 11. **Shimmer Ökosystem**: [DeFiLama tweetet](https://x.com/DefiLlama/status/1719384396547969486?s=20) darüber, dass jetzt auch [Accumulator](https://twitter.com/ACCU_DeFi) auf [defillama.com/chain/ShimmerEVM](https://defillama.com/chain/ShimmerEVM) gelistet ist
 12. **IOTA Adaption**: Das Video von der [ZEBRA Dev Con 2023](https://www.zebra.com/content/dam/zebra_dam/en/video/web-production/zebra%20devcon2023-video-ats-iota-dlt-value-chains-jose-cantera-en-us.mp4.mp4); Hier nur die [Slides von der Präsentation](https://www.zebra.com/content/dam/zebra_dam/en/presentation/customer-facing/zebra-devcon2023-presentation-custumer-facing-iota-dlt-value-chains-jose-cantera-en-us.pdf); Auch die [IF tweetet](https://x.com/iota/status/1719731630955196794?s=20) davon und [Dom Schiener kommentiert](https://x.com/DomSchiener/status/1719724312192541098?s=20) das mit "Digital product passports is how we will get billions worth of assets to be digitized and tokenized on IOTA"
 13. **IOTA Governements**: Die [IF tweetet](https://x.com/iota/status/1719715928928301334?s=20) über [IOTA and Shimmer Governance Votes October 2023 Results](https://blog.iota.org/governance-votes-october-2023-results/)
+14. **Crypto Adaption**: Artikel: [PayPal Approved to Offer Crypto Services in the UK](https://watcher.guru/news/paypal-approved-to-offer-crypto-services-in-the-uk)
+15. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1719746180538573151?s=20) über part 9 der Introduction Campagne mit dem Blogpost: [Finality Explained: How Nodes Sync the Ledger in IOTA 2.0 - IOTA 2.0 Introduction Part 9](https://blog.iota.org/finality-explained-iota20/) und dem Video: [Confirmation and Finality on IOTA 2.0](https://www.youtube.com/watch?v=4ws_E3Omn9c)
+16. **IOTA Audio**: [Moonaco Podcast tweetet](https://x.com/MoonacoPodcast/status/1720032673609994402?s=20) über den neuen [Podcast mit Dr. Tangle von ShimmerSea](https://open.spotify.com/episode/69UgBa9zDXSDzjnKAtwrLi?si=7k4sqgGZSeS-ZbXiE_d51w&nd=1)
+17. **IOTA Ökosystem**: [AscenderLabs tweetet]8https://x.com/AscendersLabs/status/1719776743182029271?s=20) über ein paar Web3 Games die sie wohl starten werden
+18. **IOTA 2.0 Video**: Die [IF tweetet](https://x.com/iota/status/1720078315510477056?s=20) über das Video: [How does IOTA 2.0 work? With IOTA's Director of Research Billy Sanders](https://www.youtube.com/watch?v=4087BFkqnKA)
+19. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1720108513777643559?s=20) über ein AMA mit dem Research Team am Nov 6th um 6PM CET im Discord
+20. **IOTA Audio**: Auch [ShimmerSea](https://twitter.com/ShimmerSeaDEX) macht ein AMA über [ChakraLabs](https://twitter.com/LabsChakra) in ihrem Discord: [Tweet](https://x.com/ShimmerSeaDEX/status/1720123605353189533?s=20)
+21. **IOTA Event**: Dom auf der Cardano Konferenz soon: [Tweet](https://x.com/iota/status/1720123606233911746?s=20)
+22. **IOTA Science**: Die [IF tweetet](https://x.com/uzh_blockchain/status/1720132063930519855?s=20) über ein Seminar über "IOTA tokenomics" beim Blockchain und Distributed Ledger Technology Center am 8.November
+23. **IOTA Audio**: Am Donnerstag war Adri von BlockchainLab Drenthe beim TangleTalk im Sprachchat: [Tweet](https://x.com/tangle_talk/status/1720089059442479152?s=20)
+24. **Crypto Adaption**: Artikel: [St. Galler Kantonalbank (SGKB) launches crypto offering](https://cvj.ch/en/hot-topics/news/st-galler-kantonalbank-sgkb-launches-crypto-offering/)https://cvj.ch/en/hot-topics/news/st-galler-kantonalbank-sgkb-launches-crypto-offering/)
+25. **IOTA Youtube**: von IotaPoet: [Grayscale RANKS IOTA and Shimmer's BIGGEST DEFI Launch yet](https://www.youtube.com/watch?v=XIDeQ1nk1aw)
+26. **IOTA Hype**: Dom hat sich zur Bridge geäußert: [Tweet mit Screenshot](https://x.com/bennnni_web3/status/1720087603415003511?s=20)
+27. **IOTA Hype**: Dom schreibt unter anderem "We are here to make this the biggest comback story and position IOTA (and Shimmer) as one of the leading ecosystems next to Ethereum. We will not stop until we have achieved that."
+28. **Shimmer DeFi Learn**: [Shimmer DeFi farming quickstart guide | Shimmer EVM, ShimmerSea, Accumulator and some shilling](https://www.youtube.com/watch?v=HsZFhF8yUSQ)
+29. 
