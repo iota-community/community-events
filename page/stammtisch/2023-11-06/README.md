@@ -16,7 +16,7 @@
 14. **Crypto Adaption**: Artikel: [PayPal Approved to Offer Crypto Services in the UK](https://watcher.guru/news/paypal-approved-to-offer-crypto-services-in-the-uk)
 15. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1719746180538573151?s=20) über part 9 der Introduction Campagne mit dem Blogpost: [Finality Explained: How Nodes Sync the Ledger in IOTA 2.0 - IOTA 2.0 Introduction Part 9](https://blog.iota.org/finality-explained-iota20/) und dem Video: [Confirmation and Finality on IOTA 2.0](https://www.youtube.com/watch?v=4ws_E3Omn9c)
 16. **IOTA Audio**: [Moonaco Podcast tweetet](https://x.com/MoonacoPodcast/status/1720032673609994402?s=20) über den neuen [Podcast mit Dr. Tangle von ShimmerSea](https://open.spotify.com/episode/69UgBa9zDXSDzjnKAtwrLi?si=7k4sqgGZSeS-ZbXiE_d51w&nd=1)
-17. **IOTA Ökosystem**: [AscenderLabs tweetet]8https://x.com/AscendersLabs/status/1719776743182029271?s=20) über ein paar Web3 Games die sie wohl starten werden
+17. **IOTA Ökosystem**: [AscenderLabs tweetet](https://x.com/AscendersLabs/status/1719776743182029271?s=20) über ein paar Web3 Games die sie wohl starten werden
 18. **IOTA 2.0 Video**: Die [IF tweetet](https://x.com/iota/status/1720078315510477056?s=20) über das Video: [How does IOTA 2.0 work? With IOTA's Director of Research Billy Sanders](https://www.youtube.com/watch?v=4087BFkqnKA)
 19. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1720108513777643559?s=20) über ein AMA mit dem Research Team am Nov 6th um 6PM CET im Discord
 20. **IOTA Audio**: Auch [ShimmerSea](https://twitter.com/ShimmerSeaDEX) macht ein AMA über [ChakraLabs](https://twitter.com/LabsChakra) in ihrem Discord: [Tweet](https://x.com/ShimmerSeaDEX/status/1720123605353189533?s=20)
@@ -24,10 +24,11 @@
 22. **IOTA Science**: Die [IF tweetet](https://x.com/uzh_blockchain/status/1720132063930519855?s=20) über ein Seminar über "IOTA tokenomics" beim Blockchain und Distributed Ledger Technology Center am 8.November
 23. **IOTA Audio**: Am Donnerstag war Adri von [BlockchainLab Drenthe]( beim TangleTalk im Sprachchat: [Tweet](https://x.com/tangle_talk/status/1720089059442479152?s=20)
 23. **IOTA Audio**: Am Donnerstag war Adri von [BlockchainLab Drenthe](https://twitter.com/BclDrenthe) beim TangleTalk im Sprachchat: [Tweet](https://x.com/tangle_talk/status/1720089059442479152?s=20)
-24. **Crypto Adaption**: Artikel: [St. Galler Kantonalbank (SGKB) launches crypto offering](https://cvj.ch/en/hot-topics/news/st-galler-kantonalbank-sgkb-launches-crypto-offering/)https://cvj.ch/en/hot-topics/news/st-galler-kantonalbank-sgkb-launches-crypto-offering/)
+24. **Crypto Adaption**: Artikel: [St. Galler Kantonalbank (SGKB) launches crypto offering](https://cvj.ch/en/hot-topics/news/st-galler-kantonalbank-sgkb-launches-crypto-offering/)
 25. **IOTA Youtube**: von IotaPoet: [Grayscale RANKS IOTA and Shimmer's BIGGEST DEFI Launch yet](https://www.youtube.com/watch?v=XIDeQ1nk1aw)
 26. **IOTA Hype**: Dom hat sich zur Bridge geäußert: [Tweet mit Screenshot](https://x.com/bennnni_web3/status/1720087603415003511?s=20)
 27. **IOTA Hype**: Dom schreibt unter anderem "We are here to make this the biggest comback story and position IOTA (and Shimmer) as one of the leading ecosystems next to Ethereum. We will not stop until we have achieved that."
 28. **Shimmer DeFi Learn**: [Shimmer DeFi farming quickstart guide | Shimmer EVM, ShimmerSea, Accumulator and some shilling](https://www.youtube.com/watch?v=HsZFhF8yUSQ)
 29. **Crypto Adaption**: Artikel: [Deutsche Telekom Becomes Validator of Privacy-Focused Aleph Zero, More to Come](https://cryptonews.com/news/deutsche-telekom-becomes-validator-of-privacy-focused-aleph-zero-more-to-come.htm)
-30. 
+30. Crypto Drama**: Artikel: [PayPal receives SEC subpoena over stablecoin](https://blockworks.co/news/paypal-receives-sec-subpoena-over-stablecoin)
+31. 
