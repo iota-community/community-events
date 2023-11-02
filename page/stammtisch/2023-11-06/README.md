@@ -22,10 +22,12 @@
 20. **IOTA Audio**: Auch [ShimmerSea](https://twitter.com/ShimmerSeaDEX) macht ein AMA über [ChakraLabs](https://twitter.com/LabsChakra) in ihrem Discord: [Tweet](https://x.com/ShimmerSeaDEX/status/1720123605353189533?s=20)
 21. **IOTA Event**: Dom auf der Cardano Konferenz soon: [Tweet](https://x.com/iota/status/1720123606233911746?s=20)
 22. **IOTA Science**: Die [IF tweetet](https://x.com/uzh_blockchain/status/1720132063930519855?s=20) über ein Seminar über "IOTA tokenomics" beim Blockchain und Distributed Ledger Technology Center am 8.November
-23. **IOTA Audio**: Am Donnerstag war Adri von BlockchainLab Drenthe beim TangleTalk im Sprachchat: [Tweet](https://x.com/tangle_talk/status/1720089059442479152?s=20)
+23. **IOTA Audio**: Am Donnerstag war Adri von [BlockchainLab Drenthe]( beim TangleTalk im Sprachchat: [Tweet](https://x.com/tangle_talk/status/1720089059442479152?s=20)
+23. **IOTA Audio**: Am Donnerstag war Adri von [BlockchainLab Drenthe](https://twitter.com/BclDrenthe) beim TangleTalk im Sprachchat: [Tweet](https://x.com/tangle_talk/status/1720089059442479152?s=20)
 24. **Crypto Adaption**: Artikel: [St. Galler Kantonalbank (SGKB) launches crypto offering](https://cvj.ch/en/hot-topics/news/st-galler-kantonalbank-sgkb-launches-crypto-offering/)https://cvj.ch/en/hot-topics/news/st-galler-kantonalbank-sgkb-launches-crypto-offering/)
 25. **IOTA Youtube**: von IotaPoet: [Grayscale RANKS IOTA and Shimmer's BIGGEST DEFI Launch yet](https://www.youtube.com/watch?v=XIDeQ1nk1aw)
 26. **IOTA Hype**: Dom hat sich zur Bridge geäußert: [Tweet mit Screenshot](https://x.com/bennnni_web3/status/1720087603415003511?s=20)
 27. **IOTA Hype**: Dom schreibt unter anderem "We are here to make this the biggest comback story and position IOTA (and Shimmer) as one of the leading ecosystems next to Ethereum. We will not stop until we have achieved that."
 28. **Shimmer DeFi Learn**: [Shimmer DeFi farming quickstart guide | Shimmer EVM, ShimmerSea, Accumulator and some shilling](https://www.youtube.com/watch?v=HsZFhF8yUSQ)
-29. 
+29. **Crypto Adaption**: Artikel: [Deutsche Telekom Becomes Validator of Privacy-Focused Aleph Zero, More to Come](https://cryptonews.com/news/deutsche-telekom-becomes-validator-of-privacy-focused-aleph-zero-more-to-come.htm)
+30. 
