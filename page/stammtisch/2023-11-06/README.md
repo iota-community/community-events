@@ -20,7 +20,7 @@
 18. **IOTA 2.0 Video**: Die [IF tweetet](https://x.com/iota/status/1720078315510477056?s=20) über das Video: [How does IOTA 2.0 work? With IOTA's Director of Research Billy Sanders](https://www.youtube.com/watch?v=4087BFkqnKA)
 19. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1720108513777643559?s=20) über ein AMA mit dem Research Team am Nov 6th um 6PM CET im Discord
 20. **IOTA Audio**: Auch [ShimmerSea](https://twitter.com/ShimmerSeaDEX) macht ein AMA über [ChakraLabs](https://twitter.com/LabsChakra) in ihrem Discord: [Tweet](https://x.com/ShimmerSeaDEX/status/1720123605353189533?s=20)
-21. **IOTA Event**: Dom auf der Cardano Konferenz soon: [Tweet](https://x.com/iota/status/1720123606233911746?s=20)
+21. **IOTA Event**: Dom auf der Cardano Konferenz: [Tweet](https://x.com/iota/status/1720123606233911746?s=20); [Tweet mit Foto](https://x.com/iota/status/1720347805556846810?s=20)
 22. **IOTA Science**: Die [IF tweetet](https://x.com/uzh_blockchain/status/1720132063930519855?s=20) über ein Seminar über "IOTA tokenomics" beim Blockchain und Distributed Ledger Technology Center am 8.November
 23. **IOTA Audio**: Am Donnerstag war Adri von [BlockchainLab Drenthe]( beim TangleTalk im Sprachchat: [Tweet](https://x.com/tangle_talk/status/1720089059442479152?s=20)
 23. **IOTA Audio**: Am Donnerstag war Adri von [BlockchainLab Drenthe](https://twitter.com/BclDrenthe) beim TangleTalk im Sprachchat: [Tweet](https://x.com/tangle_talk/status/1720089059442479152?s=20)
@@ -31,4 +31,6 @@
 28. **Shimmer DeFi Learn**: [Shimmer DeFi farming quickstart guide | Shimmer EVM, ShimmerSea, Accumulator and some shilling](https://www.youtube.com/watch?v=HsZFhF8yUSQ)
 29. **Crypto Adaption**: Artikel: [Deutsche Telekom Becomes Validator of Privacy-Focused Aleph Zero, More to Come](https://cryptonews.com/news/deutsche-telekom-becomes-validator-of-privacy-focused-aleph-zero-more-to-come.htm)
 30. Crypto Drama**: Artikel: [PayPal receives SEC subpoena over stablecoin](https://blockworks.co/news/paypal-receives-sec-subpoena-over-stablecoin)
-31. 
+31. **IOTA DeFi**: Erster Farm Launch auf [ShimmerSea](https://twitter.com/ShimmerSeaDEX) von [IotaOrigin](https://twitter.com/origin_iota): [Tweet](https://x.com/origin_iota/status/1720010468574605419?s=20)
+32. **IOTA Audio**: Der [Moonaco Podcast tweetet](https://x.com/MoonacoPodcast/status/1720364162503610494?s=20) über den Podcast mit [IotaOrigin](https://open.spotify.com/episode/0eHaL22bNX4jduIipFvQoN?si=YVSEcUNqSXuEVQVJeYQWKQ&nd=1); Auffällig finde ich, dass selbst [IOTA das retweetet](https://twitter.com/iota/status/1720367131798196589) und auch [Shimmer retweetet](https://x.com/shimmernet/status/1720367131361972410?s=20) den Podcast
+33. **Crypto Drama**: Artikel: [Sam Bankman-Fried Guilty on All 7 Counts in FTX Fraud Trial](https://www.coindesk.com/policy/2023/11/02/sam-bankman-fried-guilty-on-all-7-counts-in-ftx-fraud-trial/)
