@@ -20,7 +20,7 @@
 18. **IOTA 2.0 Video**: Die [IF tweetet](https://x.com/iota/status/1720078315510477056?s=20) über das Video: [How does IOTA 2.0 work? With IOTA's Director of Research Billy Sanders](https://www.youtube.com/watch?v=4087BFkqnKA)
 19. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1720108513777643559?s=20) über ein AMA mit dem Research Team am Nov 6th um 6PM CET im Discord
 20. **IOTA Audio**: Auch [ShimmerSea](https://twitter.com/ShimmerSeaDEX) macht ein AMA über [ChakraLabs](https://twitter.com/LabsChakra) in ihrem Discord: [Tweet](https://x.com/ShimmerSeaDEX/status/1720123605353189533?s=20)
-21. **IOTA Event**: Dom auf der Cardano Konferenz: [Tweet](https://x.com/iota/status/1720123606233911746?s=20); [Tweet mit Foto](https://x.com/iota/status/1720347805556846810?s=20)
+21. **IOTA Event**: Dom auf der Cardano Konferenz: [Tweet](https://x.com/iota/status/1720123606233911746?s=20); [Tweet mit Foto](https://x.com/iota/status/1720347805556846810?s=20); Ganzes Video: [How to Build and Maintain a Stable Blockchain?](https://www.youtube.com/watch?v=BbozFtg30nw)
 22. **IOTA Science**: Die [IF tweetet](https://x.com/uzh_blockchain/status/1720132063930519855?s=20) über ein Seminar über "IOTA tokenomics" beim Blockchain und Distributed Ledger Technology Center am 8.November
 23. **IOTA Audio**: Am Donnerstag war Adri von [BlockchainLab Drenthe]( beim TangleTalk im Sprachchat: [Tweet](https://x.com/tangle_talk/status/1720089059442479152?s=20)
 23. **IOTA Audio**: Am Donnerstag war Adri von [BlockchainLab Drenthe](https://twitter.com/BclDrenthe) beim TangleTalk im Sprachchat: [Tweet](https://x.com/tangle_talk/status/1720089059442479152?s=20)
@@ -36,3 +36,8 @@
 33. **Crypto Drama**: Artikel: [Sam Bankman-Fried Guilty on All 7 Counts in FTX Fraud Trial](https://www.coindesk.com/policy/2023/11/02/sam-bankman-fried-guilty-on-all-7-counts-in-ftx-fraud-trial/)
 34. **Crypto Adaption**: Artikel: [Die St.Galler Kantonalbank bietet ihren Kunden nun Bitcoin und Ethereum an. Eine Partnerschaft mit der SEBA Bank macht’s möglich.](https://www.btc-echo.de/schlagzeilen/bitcoin-in-der-schweiz-seba-und-sgkb-fuehren-krypto-handel-ein-173900/)
 35. **IOTA Video**: Adri hat 2 neue Videos im VoiceChat geteilt: [Instructiefilmpje Groningen Werkt Slim-app](https://www.youtube.com/watch?v=RKzess5xQt4) und [Energieknip](https://www.youtube.com/watch?v=NTtnH0mPVlk)
+36. **IOTA Ökosystem**: [Chainlink (1 Mio Follower) tweetet](https://x.com/chainlink/status/1720448126677336341?s=20) über die Partnerschaft mit [LendeXe](https://twitter.com/LendeXeFinance); Hier das [Announcement von LendeXe](https://x.com/LendeXeFinance/status/1720446445235359913?s=20) dazu mit dem Blogpost: [DeFi Lending and Stablecoin Protocol Lendexe Joins Chainlink BUILD](https://medium.com/@LendeXeFinance/defi-lending-and-stablecoin-protocol-lendexe-joins-chainlink-build-6aabd45cfce9)
+37. **IOTA Ökosystem**: [IotaOrigin tweetet](https://x.com/origin_iota/status/1720401657773617429?s=20) über ihr "first permissionless SMR NFT LAUNCHPAD"
+38. **IOTA Ökosystem**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1720417877805666334?s=20) über ihre "ShimmerEVM's Access Nodes (RPC-Endpoints) in Early Access" die man [hier](https://spyce5.com/dedicated-nodes/) erstellen kann
+39. 
+40. 
