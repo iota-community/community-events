@@ -42,3 +42,5 @@
 39. **Shimmer Promote**: Langer [Tweet von id.iota](https://x.com/id_iota/status/1720815916043166036?s=20) über Shimmer und Shimmer EVM
 40. **IOTA Ökosystem**: Neue Partnerschaft zw. [Rusti Robots](https://twitter.com/RustyRobotCC) und [Hedgey Finance](https://twitter.com/hedgeyfinance): [Tweet](https://x.com/RustyRobotCC/status/1720787272486752660?s=20)
 41. **IOTA Ökosystem**: Neue Partnerschaften zw. [ZeroSwapNFT](https://twitter.com/ZeroSwapNFT_) und [Iotapunks](https://twitter.com/IotaPunks_71) und [Ambitious Ape Perfume](https://twitter.com/AmbitiousApeP)
+42. **Shimmer Promote**: [Coingecko tweetet](https://x.com/CoingeckoLineup/status/1720602330238767460?s=20) über [$LUM auf Coingecko](https://www.coingecko.com/en/coins/shimmersea-lum)
+43. **Shimmer Ökosystem**: Nächster Fairlaunch ($Love von [ChakraLabs](https://twitter.com/LabsChakra)) war nach 1 Minute ausverkauft: [Tweet](https://x.com/ShimmerSeaDEX/status/1720885454793269273?s=20)
