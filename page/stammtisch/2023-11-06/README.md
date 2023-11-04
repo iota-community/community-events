@@ -23,7 +23,7 @@
 21. **IOTA Event**: Dom auf der Cardano Konferenz: [Tweet](https://x.com/iota/status/1720123606233911746?s=20); [Tweet mit Foto](https://x.com/iota/status/1720347805556846810?s=20); Ganzes Video: [How to Build and Maintain a Stable Blockchain?](https://www.youtube.com/watch?v=BbozFtg30nw)
 22. **IOTA Science**: Die [IF tweetet](https://x.com/uzh_blockchain/status/1720132063930519855?s=20) über ein Seminar über "IOTA tokenomics" beim Blockchain und Distributed Ledger Technology Center am 8.November
 23. **IOTA Audio**: Am Donnerstag war Adri von [BlockchainLab Drenthe]( beim TangleTalk im Sprachchat: [Tweet](https://x.com/tangle_talk/status/1720089059442479152?s=20)
-23. **IOTA Audio**: Am Donnerstag war Adri von [BlockchainLab Drenthe](https://twitter.com/BclDrenthe) beim TangleTalk im Sprachchat: [Tweet](https://x.com/tangle_talk/status/1720089059442479152?s=20)
+23. **IOTA Audio**: Am Donnerstag war Adri von [BlockchainLab Drenthe](https://twitter.com/BclDrenthe) beim TangleTalk im Sprachchat: [Tweet1](https://x.com/tangle_talk/status/1720089059442479152?s=20); [Tweet2](https://x.com/tangle_talk/status/1720749690583458107?s=20)
 24. **Crypto Adaption**: Artikel: [St. Galler Kantonalbank (SGKB) launches crypto offering](https://cvj.ch/en/hot-topics/news/st-galler-kantonalbank-sgkb-launches-crypto-offering/)
 25. **IOTA Youtube**: von IotaPoet: [Grayscale RANKS IOTA and Shimmer's BIGGEST DEFI Launch yet](https://www.youtube.com/watch?v=XIDeQ1nk1aw)
 26. **IOTA Hype**: Dom hat sich zur Bridge geäußert: [Tweet mit Screenshot](https://x.com/bennnni_web3/status/1720087603415003511?s=20)
@@ -39,5 +39,6 @@
 36. **IOTA Ökosystem**: [Chainlink (1 Mio Follower) tweetet](https://x.com/chainlink/status/1720448126677336341?s=20) über die Partnerschaft mit [LendeXe](https://twitter.com/LendeXeFinance); Hier das [Announcement von LendeXe](https://x.com/LendeXeFinance/status/1720446445235359913?s=20) dazu mit dem Blogpost: [DeFi Lending and Stablecoin Protocol Lendexe Joins Chainlink BUILD](https://medium.com/@LendeXeFinance/defi-lending-and-stablecoin-protocol-lendexe-joins-chainlink-build-6aabd45cfce9)
 37. **IOTA Ökosystem**: [IotaOrigin tweetet](https://x.com/origin_iota/status/1720401657773617429?s=20) über ihr "first permissionless SMR NFT LAUNCHPAD"
 38. **IOTA Ökosystem**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1720417877805666334?s=20) über ihre "ShimmerEVM's Access Nodes (RPC-Endpoints) in Early Access" die man [hier](https://spyce5.com/dedicated-nodes/) erstellen kann
-39. 
-40. 
+39. **Shimmer Promote**: Langer [Tweet von id.iota](https://x.com/id_iota/status/1720815916043166036?s=20) über Shimmer und Shimmer EVM
+40. **IOTA Ökosystem**: Neue Partnerschaft zw. [Rusti Robots](https://twitter.com/RustyRobotCC) und [Hedgey Finance](https://twitter.com/hedgeyfinance): [Tweet](https://x.com/RustyRobotCC/status/1720787272486752660?s=20)
+41. **IOTA Ökosystem**: Neue Partnerschaften zw. [ZeroSwapNFT](https://twitter.com/ZeroSwapNFT_) und [Iotapunks](https://twitter.com/IotaPunks_71) und [Ambitious Ape Perfume](https://twitter.com/AmbitiousApeP)
