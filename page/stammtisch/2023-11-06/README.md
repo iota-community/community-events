@@ -47,4 +47,4 @@
 46. **IOTA Audio**: Im Twitter Spaces Event von Blockbytes kommt am Montag 6.11. [Charley Varley](https://twitter.com/c_varley) vom [Bloom Wallet](https://twitter.com/bloomwalletio): [Tweet](https://x.com/blockbytescom/status/1721359669476598203?s=20)
 47. **IOTA Drama**: Die [Rusti Robots](https://twitter.com/RustyRobotCC) beschweren sich über den NFT Marktplatz von [snipool.xyz](https://www.snippool.xyz/Collections) von [IotaOrigin](https://twitter.com/origin_iota): [Tweet](https://x.com/DigidusPrime/status/1721352969730576779?s=20)
 48. **IOTA Ökosystem**: Ein [Thread von Tanglebay](https://x.com/tanglebay/status/1721243454787768701?s=20) darüber, dass er Funding bekommen hat um sein Node Service auszubauen. Seine Node ist auch wieder in der offiziellen Node Liste in Firefly zu finden
-49. **Crypto Adaption**: Neue Simpsons Folge über NFTs: [Tweet](https://x.com/3orovik/status/1721349815357899023?s=20)
+49. **Crypto Adaption**: Neue Simpsons Folge über NFTs: [Tweet](https://x.com/YVR_Trader/status/1721389958685155823?s=20)
