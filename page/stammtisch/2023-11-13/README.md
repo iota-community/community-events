@@ -9,3 +9,4 @@
 7. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1721844950784991358?s=20) über ein Event vom 13-17.Nov in Malta: [AIBC Europe](https://sigmamalta.events/aibc-europe-2023)
 8. **IOTA DeFi Learn**: [Accumulator tweetet](https://x.com/ACCU_DeFi/status/1721859087673995766?s=20) über ein neues [Tutorial Video](https://www.youtube.com/embed/HsZFhF8yUSQ?autoplay=1&auto_play=true)
 9. **IOTA Hype**: [Dom tweetet](https://x.com/DomSchiener/status/1721959562461204602?s=20) "Habibi ❤️🇦🇪" und [er tweetet](https://x.com/DomSchiener/status/1721968387113271782?s=20) "I just love the coin $IOTA"
+10. **IOTA Promote**: Wieder tweeten Trader mit vielen Followern über IOTA: [Tweet (350K)](https://x.com/DaanCrypto/status/1721807952796069892?s=20); [Tweet (150K)](https://x.com/OldMannCrypto/status/1721875818585223525?s=20)
