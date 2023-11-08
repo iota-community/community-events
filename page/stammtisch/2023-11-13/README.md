@@ -12,4 +12,7 @@
 10. **IOTA Promote**: Wieder tweeten Trader mit vielen Followern über IOTA: [Tweet (350K)](https://x.com/DaanCrypto/status/1721807952796069892?s=20); [Tweet (150K)](https://x.com/OldMannCrypto/status/1721875818585223525?s=20); [Tweet (320k)](https://x.com/eliz883/status/1721952376720912752?s=20)
 11. **IOTA Ökosystem**: Borsty hat aus Versehen den TangleTalk gelöscht ([Tweet](https://x.com/tangle_talk/status/1722173332018110949?s=20))... Man muss sich deshalb neu anmelden in der [Telegram Gruppe "TangleTalk"](https://t.me/TangleTalk)
 12. **IOTA Bridge**: [IOTAMPC tweetet](https://x.com/iotampc/status/1722177284180943324?s=20), dass die IOTA <-> SMR Bridge fast fertig ist und soon in DEXes verwenden werden kann
-13. 
+13. **IOTA Ökosystem**: [IotaOrigin tweetet](https://x.com/origin_iota/status/1722206053612589447?s=20) über ihren NFT Launchpad
+14. **IOTA Ökosystem Event**: Die [ETO Gruppe tweetet](https://x.com/EtoGruppe/status/1722230517616259143?s=20) über ein Event [Agritechnica](https://twitter.com/AGRITECHNICA) mit [Farmunitide](https://twitter.com/farmunited_GmbH) die ja was auf IOTA bauen
+15. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1722252641382912179?s=20) über den Blogpost: [An Obvious Choice: Why DAGs Over Blockchains?](https://blog.iota.org/dags-over-blockchains-iota20/)
+16. **Crypto Adaption**: Presse Mitteilung von der EU: [Agreement reached on more accessible instant payments in euros](https://www.europarl.europa.eu/news/en/press-room/20231031IPR08706/agreement-reached-on-more-accessible-instant-payments-in-euros); [Tweet von Patrick Hansen](https://x.com/paddi_hansen/status/1722269443060068566?s=20) dazu
