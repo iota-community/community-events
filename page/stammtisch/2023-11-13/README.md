@@ -16,3 +16,5 @@
 14. **IOTA Ökosystem Event**: Die [ETO Gruppe tweetet](https://x.com/EtoGruppe/status/1722230517616259143?s=20) über ein Event [Agritechnica](https://twitter.com/AGRITECHNICA) mit [Farmunitide](https://twitter.com/farmunited_GmbH) die ja was auf IOTA bauen
 15. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1722252641382912179?s=20) über den Blogpost: [An Obvious Choice: Why DAGs Over Blockchains?](https://blog.iota.org/dags-over-blockchains-iota20/)
 16. **Crypto Adaption**: Presse Mitteilung von der EU: [Agreement reached on more accessible instant payments in euros](https://www.europarl.europa.eu/news/en/press-room/20231031IPR08706/agreement-reached-on-more-accessible-instant-payments-in-euros); [Tweet von Patrick Hansen](https://x.com/paddi_hansen/status/1722269443060068566?s=20) dazu
+17. **IOTA DeFi**: [iotabee verkündet](https://x.com/iotabee/status/1722276602745381101?s=20), dass man IOTA jetzt wrappen kann auf die ShimmerEVM
+18. **IOTA DeFi**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1722299971733422160?s=20), dass die SMR/sIOTA Farm am Do. 9.11. live geht
