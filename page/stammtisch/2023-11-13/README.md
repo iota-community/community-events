@@ -18,3 +18,4 @@
 16. **Crypto Adaption**: Presse Mitteilung von der EU: [Agreement reached on more accessible instant payments in euros](https://www.europarl.europa.eu/news/en/press-room/20231031IPR08706/agreement-reached-on-more-accessible-instant-payments-in-euros); [Tweet von Patrick Hansen](https://x.com/paddi_hansen/status/1722269443060068566?s=20) dazu
 17. **IOTA DeFi**: [iotabee verkündet](https://x.com/iotabee/status/1722276602745381101?s=20), dass man IOTA jetzt wrappen kann auf die ShimmerEVM
 18. **IOTA DeFi**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1722299971733422160?s=20), dass die SMR/sIOTA Farm am Do. 9.11. live geht
+19. **Allg. News**: Die [EU tweetet](https://x.com/DigitalEU/status/1722287408119480853?s=20) über den ersten Schritt für das digitale EU Identity Wallet; Hier die Pressemeldung: [Commission welcomes final agreement on EU Digital Identity Wallet](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_5651)
