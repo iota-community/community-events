@@ -25,3 +25,6 @@
 23. **IOTA Audio**: [Holger Köther](https://twitter.com/HolgerKoether) und [Regine](https://twitter.com/Energine) waren zu Gast im TangleTalk am Donnerstag: [Tweet](https://x.com/tangle_talk/status/1722566442028073389?s=20)
 24. **Twitter Hype**: [Phylo tweetet](https://x.com/PhyloIota/status/1722580906014343270?s=20) er fährt nach Abu Dhabi wo "Where all the magic happens ✨ for #IOTA and #Shimmer."
 25. **Crypto Adaption**: Artikel: [Deutsche Post bringt erste Krypto-Briefmarke heraus](https://de.cointelegraph.com/news/deutsche-post-issues-its-first-nft-stamp)
+26. **IOTA Drama**: Beendet: [Nearly £2 million of stolen cryptocurrency to be paid back to victims](https://serocu.police.uk/nearly-2-million-of-stolen-cryptocurrency-to-be-paid-back-to-victims/)
+27. **IOTA Touchpoint**: IF Blogpost: [IceCreamSwap joins Touchpoint - DEX Aggregator and Launchpad on ShimmerEVM](https://blog.shimmer.network/icecreamswap-joins-touchpoint/)
+28. 
