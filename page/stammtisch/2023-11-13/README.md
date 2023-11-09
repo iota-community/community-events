@@ -23,3 +23,5 @@
 21. **Crypto Adaption**: [Elon Musk tweetet](https://x.com/elonmusk/status/1722453422866096593?s=20) ein Zitat von Hayek über Inflation
 22. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1722516274863841281?s=20) ein Meme über Congestion Control und [tweetet](https://x.com/iota/status/1722516266055774368?s=20) über den Vortrag von [Luigi](https://twitter.com/VekkioKonio) im [UZH Blockchain Center](UZH Blockchain Center)
 23. **IOTA Audio**: [Holger Köther](https://twitter.com/HolgerKoether) und [Regine](https://twitter.com/Energine) waren zu Gast im TangleTalk am Donnerstag: [Tweet](https://x.com/tangle_talk/status/1722566442028073389?s=20)
+24. **Twitter Hype**: [Phylo tweetet](https://x.com/PhyloIota/status/1722580906014343270?s=20) er fährt nach Abu Dhabi wo "Where all the magic happens ✨ for #IOTA and #Shimmer."
+25. **Crypto Adaption**: Artikel: [Deutsche Post bringt erste Krypto-Briefmarke heraus](https://de.cointelegraph.com/news/deutsche-post-issues-its-first-nft-stamp)
