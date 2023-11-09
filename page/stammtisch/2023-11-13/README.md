@@ -22,3 +22,4 @@
 20. **Crypto Adaption**: [Jona Cotar](https://twitter.com/JoanaCotar) kämpft (oarteilos) im Bundestag mit Bitcoinshirt gegen den digitalen Euro: [Tweet](https://x.com/spikychill/status/1722355839954997427?s=20)
 21. **Crypto Adaption**: [Elon Musk tweetet](https://x.com/elonmusk/status/1722453422866096593?s=20) ein Zitat von Hayek über Inflation
 22. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1722516274863841281?s=20) ein Meme über Congestion Control und [tweetet](https://x.com/iota/status/1722516266055774368?s=20) über den Vortrag von [Luigi](https://twitter.com/VekkioKonio) im [UZH Blockchain Center](UZH Blockchain Center)
+23. **IOTA Audio**: [Holger Köther](https://twitter.com/HolgerKoether) und [Regine](https://twitter.com/Energine) waren zu Gast im TangleTalk am Donnerstag: [Tweet](https://x.com/tangle_talk/status/1722566442028073389?s=20)
