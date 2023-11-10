@@ -27,4 +27,4 @@
 25. **Crypto Adaption**: Artikel: [Deutsche Post bringt erste Krypto-Briefmarke heraus](https://de.cointelegraph.com/news/deutsche-post-issues-its-first-nft-stamp)
 26. **IOTA Drama**: Beendet: [Nearly £2 million of stolen cryptocurrency to be paid back to victims](https://serocu.police.uk/nearly-2-million-of-stolen-cryptocurrency-to-be-paid-back-to-victims/)
 27. **IOTA Touchpoint**: IF Blogpost: [IceCreamSwap joins Touchpoint - DEX Aggregator and Launchpad on ShimmerEVM](https://blog.shimmer.network/icecreamswap-joins-touchpoint/)
-28. 
+28. **IOTA Ökosystem**: [SoonLabs tweetet](https://x.com/soon_labs/status/1722720818151805374?s=20) über Soon/sIOTA Staking und einem Stablecoin auf iotabee.com. Sie verlinken den Blogpost: [An Adjustment to SOON Liquidity Mining](https://soonlabs.medium.com/an-adjustment-to-soon-liquidity-mining-a266d103213c)
