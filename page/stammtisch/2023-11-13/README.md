@@ -33,3 +33,14 @@
 31. **IOTA Ökosystem**: [Benjamin Böhnisch tweetet](https://x.com/BenBoenisch/status/1722692992253808675?s=20) über seinen Auftritt bei dem Blockchain:Circle bei der [Zülke Group](https://twitter.com/zuehlke_group) wo er über [Viviswap](https://twitter.com/viviswapcom); [filancore](https://twitter.com/FilancoreGmbH); [Swarm Logistics](https://twitter.com/SwarmLogistics), [Farm United](https://twitter.com/farmunited_GmbH) udn die [ETO Gruppe](https://twitter.com/EtoGruppe) gesprochen hat (überall IOTA inside..)
 32. **IOTA NFT Gaming**: [Infernal NFTs tweeten](https://x.com/InfernalNFTs/status/1722643090630967670?s=20) eine Preview von ihrem Spiel
 33. **IOTA Ökosystem**: [Bloom Thread](https://twitter.com/bloomwalletio/status/1722690945055899913) über ihr Team
+34. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1722977415851278648?s=20) über [What Makes IOTA 2.0 Secure? - IOTA 2.0 Introduction Part 11](https://blog.iota.org/what-makes-iota-2-0-secure/)
+35. **Shimmer EVM**: Scheinbar arbeitet LayerZero an einer Bridge zu Shimmer: [Tweet](https://x.com/_JeffR/status/1723019274510639460?s=20)
+36. **IOTA Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1723256518106071054?s=20) über ihr Community Update 2.0
+37. **Crypto Adaption**: Scheinbar hat das EU-Parlament eine Smart-Contract-Kill-Switch-Bestimmung verabschiedet: [Tweet](https://x.com/TheRobynHD/status/1722645631204725081?s=20)
+38. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1723022717710893088?s=20) über das AMA: [IOTA 2.0 Q&A with the Research Team](https://www.youtube.com/watch?v=gy08jK3lqx4)
+39. **IOTA Video**: von Probably Nothing: [Shimmer EVM hat begonnen und jeder ist ein Bauer - IOTA & Shimmer News](https://www.youtube.com/watch?v=aIL39eyatXA)
+40. **Shimmer Ökosystem**: [Iotaorigin tweetet](https://x.com/origin_iota/status/1723000812887330987?s=20) über ihr neues [launchpad.snippool.xyz/](https://launchpad.snippool.xyz/) und veröffentlicht den Blogpost:  [SMR NFT Launchpad](https://medium.com/@iotaorigin/smr-nft-launchpad-3c243cd7be6c)
+41. **IOTA Ökosystem**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1722989426668622088?s=20) über ihren Blogpost: [Unlocking Real-World Assets with Tokenization: A Paradigm Shift](https://medium.com/@NakamaLabs/unlocking-real-world-assets-with-tokenization-a-paradigm-shift-1bca0b4efd3a)
+42. **Firefly Probleme**: [TimsonLabs tweetet](https://x.com/TimsonLabs/status/1723315121806581792?s=20) darüber wie man vorgehen muss, wenn man Probleme mit dem Ledger und seinen IOTAs hat
+43. **ShimmerEVM**: Am Samstag übersteigt der TVL auf der ShimmerEVM $5mio und es wurden bereits über eine Millionen Transaktionen getätigt: [Tweet von Dom](https://x.com/DomSchiener/status/1723220632945545601?s=20); [explorer.evm.shimmer.network/stats](https://explorer.evm.shimmer.network/stats); [defillama.com/chain/ShimmerEVM](https://defillama.com/chain/ShimmerEVM)
+44. 
