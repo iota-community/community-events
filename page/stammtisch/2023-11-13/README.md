@@ -43,4 +43,4 @@
 41. **IOTA Ökosystem**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1722989426668622088?s=20) über ihren Blogpost: [Unlocking Real-World Assets with Tokenization: A Paradigm Shift](https://medium.com/@NakamaLabs/unlocking-real-world-assets-with-tokenization-a-paradigm-shift-1bca0b4efd3a)
 42. **Firefly Probleme**: [TimsonLabs tweetet](https://x.com/TimsonLabs/status/1723315121806581792?s=20) darüber wie man vorgehen muss, wenn man Probleme mit dem Ledger und seinen IOTAs hat
 43. **ShimmerEVM**: Am Samstag übersteigt der TVL auf der ShimmerEVM $5mio und es wurden bereits über eine Millionen Transaktionen getätigt: [Tweet von Dom](https://x.com/DomSchiener/status/1723220632945545601?s=20); [explorer.evm.shimmer.network/stats](https://explorer.evm.shimmer.network/stats); [defillama.com/chain/ShimmerEVM](https://defillama.com/chain/ShimmerEVM)
-44. 
+44. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/340-wochenr%C3%BCckblick-vom-5-bis-11-november-2023/)
