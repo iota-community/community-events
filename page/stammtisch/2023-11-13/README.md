@@ -36,7 +36,7 @@
 34. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1722977415851278648?s=20) über [What Makes IOTA 2.0 Secure? - IOTA 2.0 Introduction Part 11](https://blog.iota.org/what-makes-iota-2-0-secure/)
 35. **Shimmer EVM**: Scheinbar arbeitet LayerZero an einer Bridge zu Shimmer: [Tweet](https://x.com/_JeffR/status/1723019274510639460?s=20)
 36. **IOTA Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1723256518106071054?s=20) über ihr Community Update 2.0
-37. **Crypto Adaption**: Scheinbar hat das EU-Parlament eine Smart-Contract-Kill-Switch-Bestimmung verabschiedet: [Tweet](https://x.com/TheRobynHD/status/1722645631204725081?s=20)
+37. **Crypto Adaption**: Scheinbar hat das EU-Parlament eine Smart-Contract-Kill-Switch-Bestimmung verabschiedet: [Tweet](https://x.com/TheRobynHD/status/1722645631204725081?s=20); In [Christoph Strnadl Tweet](https://x.com/archimate/status/1723699686035345690?s=20) hört es sich schon besser an
 38. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1723022717710893088?s=20) über das AMA: [IOTA 2.0 Q&A with the Research Team](https://www.youtube.com/watch?v=gy08jK3lqx4)
 39. **IOTA Video**: von Probably Nothing: [Shimmer EVM hat begonnen und jeder ist ein Bauer - IOTA & Shimmer News](https://www.youtube.com/watch?v=aIL39eyatXA)
 40. **Shimmer Ökosystem**: [Iotaorigin tweetet](https://x.com/origin_iota/status/1723000812887330987?s=20) über ihr neues [launchpad.snippool.xyz/](https://launchpad.snippool.xyz/) und veröffentlicht den Blogpost:  [SMR NFT Launchpad](https://medium.com/@iotaorigin/smr-nft-launchpad-3c243cd7be6c)
@@ -45,3 +45,7 @@
 43. **ShimmerEVM**: Am Samstag übersteigt der TVL auf der ShimmerEVM $5mio und es wurden bereits über eine Millionen Transaktionen getätigt: [Tweet von Dom](https://x.com/DomSchiener/status/1723220632945545601?s=20); [explorer.evm.shimmer.network/stats](https://explorer.evm.shimmer.network/stats); [defillama.com/chain/ShimmerEVM](https://defillama.com/chain/ShimmerEVM)
 44. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/340-wochenr%C3%BCckblick-vom-5-bis-11-november-2023/)
 45. **Allg. News**: In Rom läuft ein Löwe rum: [Tweet](https://x.com/mz_storymakers/status/1723486298009120873?s=20)
+46. **IOTA Ökosystem**: Neues von Crypto Gin: [Tweet](https://x.com/Crypto_Gin21/status/1723777528161071305?s=20)
+47. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1723758150011023364?s=20) über den Fairlaunch von dem Rusty Robot Token; Es gibt aber auch Drama rund um Rusty was man in den Kommentaren sieht oder hier: [Tweet von IotaOrigin](https://x.com/origin_iota/status/1723648572644577599?s=20)
+48. **IOTA Audio**: Am Donnerstag kommt Thoralf in den Tangle Talk Sprachchat: [Tweet](https://x.com/tangle_talk/status/1723624370872983746?s=20)
+49. **
