@@ -52,3 +52,4 @@
 50. **IOTA Youtube**: von Crypto Manu: [IOTA 1.400% Pump im Bullrun; Supply Erhöhung birgt crash auf ...$](youtube.com/watch?v=rGiPbR4qemY)
 51. **IOTA Artikel**: von Crypto News Flash: [IOTA startet mit Accenture, Fujitsu und Siemens die Industrial Blockchain Task Force](https://www.crypto-news-flash.com/de/iota-startet-mit-accenture-fujitsu-und-siemens-die-industrial-blockchain-task-force/?feed_id=27283&_unique_id=6551f31d9f416)
 52. **IOTA Adaption**: Die [IF retweetet](https://x.com/iota/status/1724020928151953789?s=20) den [Tweet von Tokenizer](https://x.com/Tokenicer/status/1723567778102472863?s=20) in dem es um MICA geht und warum es für Coins wie IOTA so wichtig ist
+53. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1724064581314650162?s=20) über Part 12 von der Introduction Campagne: [Dynamic Availability: Protocol-Based Assurances - IOTA 2.0 Introduction Part 12](https://blog.iota.org/dynamic-availability-iota20/)
