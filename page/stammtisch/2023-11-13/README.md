@@ -51,3 +51,4 @@
 49. **IOTA Ökosystem**: [Build_5 tweetet](https://x.com/build5tech/status/1723939340030779515?s=20) über ihr Dev-Update: [November 2023 Dev Update](https://twitter.com/build5tech/status/1723939340030779515)
 50. **IOTA Youtube**: von Crypto Manu: [IOTA 1.400% Pump im Bullrun; Supply Erhöhung birgt crash auf ...$](youtube.com/watch?v=rGiPbR4qemY)
 51. **IOTA Artikel**: von Crypto News Flash: [IOTA startet mit Accenture, Fujitsu und Siemens die Industrial Blockchain Task Force](https://www.crypto-news-flash.com/de/iota-startet-mit-accenture-fujitsu-und-siemens-die-industrial-blockchain-task-force/?feed_id=27283&_unique_id=6551f31d9f416)
+52. **IOTA Adaption**: Die [IF retweetet](https://x.com/iota/status/1724020928151953789?s=20) den [Tweet von Tokenizer](https://x.com/Tokenicer/status/1723567778102472863?s=20) in dem es um MICA geht und warum es für Coins wie IOTA so wichtig ist
