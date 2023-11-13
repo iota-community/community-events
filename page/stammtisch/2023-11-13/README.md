@@ -49,3 +49,4 @@
 47. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1723758150011023364?s=20) über den Fairlaunch von dem $Rust Token; Es gibt aber auch Drama/FUD rund um Rusty was man in den [Kommentaren](https://x.com/TheDLTimes/status/1723763631676952824?s=20) sieht, oder hier: [Tweet von IotaOrigin](https://x.com/origin_iota/status/1723648572644577599?s=20)
 48. **IOTA Audio**: Am Donnerstag kommt Thoralf (von der IF) in den Tangle Talk Sprachchat: [Tweet](https://x.com/tangle_talk/status/1723624370872983746?s=20)
 49. **IOTA Ökosystem**: [Build_5 tweetet](https://x.com/build5tech/status/1723939340030779515?s=20) über ihr Dev-Update: [November 2023 Dev Update](https://twitter.com/build5tech/status/1723939340030779515)
+50. **IOTA Youtube**: von Crypto Manu: [IOTA 1.400% Pump im Bullrun; Supply Erhöhung birgt crash auf ...$](youtube.com/watch?v=rGiPbR4qemY))
