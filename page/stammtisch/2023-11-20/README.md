@@ -14,3 +14,6 @@
 12. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1724683651147771938?s=20) über neue 3 neue Farms mit $sSoon, $Wen und $Fish
 13. **IOTA Artikel**: von Blockzeit: [A Look At IOTA 2.0’s Adaptive Consensus](https://www.blockzeit.com/iota-2-0-adaptive-consensus/)
 14. **Shimmer Promote**: Neue Shimmer Challenge: [Tweet von CryptonairApp](https://x.com/CryptonaireApp/status/1724460734594027770?s=20)
+15. **Crypto Adaption**: Artikel: [Commerzbank - Viertgrößte Bank Deutschlands erhält Kryptoverwahrlizenz](https://www.btc-echo.de/schlagzeilen/bitcoin-und-co-commerzbank-erhaelt-kryptoverwahrlizenz-174580/)
+16. **IOTA Ökosystem**: [Holger Köther tweetet](https://x.com/HolgerKoether/status/1724810927114006576?s=20) über ihr API-Early Access von Spyce 5, das "Freemium subscription based" ist, was bedeutet: "get started for free and only pay when you scale 🚀"
+17. **IOTA Audio**: [Mariana de la Roche tweetet](https://x.com/Marianadlrw/status/1724816722417319993?s=20) über den [Podcast mit YennaTech](https://podcasters.spotify.com/pod/show/inatba/episodes/Yeena-Tech--Asia-e2bv9kt/a-aak59ve)
