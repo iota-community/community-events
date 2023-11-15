@@ -9,8 +9,8 @@
 7. **Crypto Adaption**: Artikel: [China’s Boyaa Interactive to Spend $90M on Bitcoin and Ethereum](https://watcher.guru/news/chinas-boyaa-interactive-to-spend-90m-on-bitcoin-and-ethereum) bzw. [Boyaa Interactive: Gaming-Firma plant Bitcoin-Investition](https://www.blocktrainer.de/boyaa-interactive-gaming-firma-plant-bitcoin-investition/)
 8. **IOTA Ökosystem**: [Iotabots tweeten](https://x.com/iotabots/status/1724313715128889751?s=20) über ihr web3 Spiel [spacebots.iotabots.io](https://spacebots.iotabots.io/) das man nur mit einem Spacebot NFT spielen kann
 9. **IOTA Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1724448795126055222?s=20), dass man die Spacebot NFTs jetzt auf [shimmersea.finance/nfts/collections](https://shimmersea.finance/nfts/collections/0xA10F4eb010F85F0F21107cc4F7464cF7da73076C) handeln kann
-10. **IOTA Intern**: Richard Soley ist gestorben: [Tweet](https://x.com/SebaKremer/status/1724519882589385111?s=20); Der war im Supervisory Board der IF und hatte die OMG Standardisierung voran getrieben
+10. **IOTA Intern**: Richard Soley ist gestorben: [Tweet](https://x.com/SebaKremer/status/1724519882589385111?s=20); Der war im Supervisory Board der IF und hatte die OMG Standardisierung voran getrieben; [Dom bedauert sein Ableben in einem Tweet](https://x.com/DomSchiener/status/1724668349529882883?s=20)
 11. **IOTA 2.0**: Dev Update: [Protocol group, Week 44-46 #91](https://github.com/iotaledger/research-updates/discussions/91)
 12. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1724683651147771938?s=20) über neue 3 neue Farms mit $sSoon, $Wen und $Fish
 13. **IOTA Artikel**: von Blockzeit: [A Look At IOTA 2.0’s Adaptive Consensus](https://www.blockzeit.com/iota-2-0-adaptive-consensus/)
-14. 
+14. **Shimmer Promote**: Neue Shimmer Challenge: [Tweet von CryptonairApp](https://x.com/CryptonaireApp/status/1724460734594027770?s=20)
