@@ -27,6 +27,8 @@
 25. **Crypto Adaption**: Artikel: [BlackRock Files Application for Spot Ether ETF](https://www.coindesk.com/policy/2023/11/16/blackrock-files-application-for-spot-ether-etf/?utm_source=twitter&utm_term=organic&utm_medium=social&utm_content=editorial&utm_campaign=coindesk_main)
 26. **IOTA Ökosystem**: [Iotabee tweetet](https://x.com/iotabee/status/1725089820790132772?s=20) über neue Farming Rewards und ein paar Updates
 27. **IOTA Ökosystem**: [GroupFi tweetet](https://x.com/groupficom/status/1725137334549844221?s=20) über ihren neuen web3 messanger der bald in Beta live geht
-28. **IOTA Event**: [Mariana de la Roche tweetet](https://x.com/Marianadlrw/status/1725151111646945621?s=20) von dem Event "[AIBC_World](https://twitter.com/AIBC_World)"; Hier noch ein [Tweet](https://x.com/Marianadlrw/status/1725151647817445752?s=20))
+28. **IOTA Event**: [Mariana de la Roche tweetet](https://x.com/Marianadlrw/status/1725151111646945621?s=20) von dem Event "[AIBC_World](https://twitter.com/AIBC_World)"; Hier noch ein [Tweet](https://x.com/Marianadlrw/status/1725151647817445752?s=20)
 29. **IOTA Event**: [Sebastian von Akkodis tweetet](https://x.com/Sebasti65365174/status/1725156054885867523?s=20) über ein Event am 5.Dez. wo er mit [Holger Köther](https://twitter.com/HolgerKoether), Adri Wischmann und [IOTerry](https://twitter.com/io_terry) auf der Bühne steht.
 30. **IOTA Drama**: Wir sind nicht mehr auf der [Grayscale-Liste](https://www.lseg.com/content/dam/ftse-russell/en_us/documents/factsheets/fgutsr_20230929.pdf): [Tweet](https://x.com/KimJongUnrekt/status/1725142250433487146?s=20)
+31. **IOTA Ökosystem**: Die [IF tweetet](https://x.com/iota/status/1724895195278295541?s=20) nochmal das AMA: [IOTA 2.0 Q&A with the Research Team](https://www.youtube.com/watch?v=gy08jK3lqx4)
+32. IOTA Ökosystem**: [Bloom AMA](https://www.reddit.com/r/Iota/comments/17wnvcl/bloom_ama_friday_17th_november/?rdt=50064)
