@@ -19,7 +19,7 @@
 17. **IOTA Audio**: [Mariana de la Roche tweetet](https://x.com/Marianadlrw/status/1724816722417319993?s=20) über den [Podcast mit YennaTech](https://podcasters.spotify.com/pod/show/inatba/episodes/Yeena-Tech--Asia-e2bv9kt/a-aak59ve)
 18. **Crypto Adaption**: Was ist da bei Avalanche und JP Morgan los? [Thread von Avalanche](https://x.com/avax/status/1724759482238927161?s=20)
 19. **Crypto Adaption**: Artikel: [Neuer Stichtag - SEC vertagt Entscheidung zu Bitcoin-ETF von Hashdex](https://www.btc-echo.de/schlagzeilen/sec-vertagt-entscheidung-zu-bitcoin-etf-von-hashdex-174617/)
-20. **IOTA Ökosystem**: [Sebastian Müller tweetet](https://x.com/NaitsabesMue/status/1725050695563272517?s=20) über [Chat GPT mit iotainside](https://chat.openai.com/g/g-CGc6SfNN0-iota-insight)
+20. **IOTA Ökosystem**: [Sebastian Müller tweetet](https://x.com/NaitsabesMue/status/1725050695563272517?s=20) über sein [Chat GPT mit iotainside](https://chat.openai.com/g/g-CGc6SfNN0-iota-insight) über das auch die [IF tweetet](https://x.com/iota/status/1725055947809128915?s=20)
 21. **Allg. News**: Biden und Xi haben sich getroffen: [Tweet von Biden](https://x.com/POTUS/status/1724941601661718940?s=20); [Tweet mit Rede von Xi](https://x.com/business/status/1725053470104043620?s=20) 
 22. **Crypto Adaption**: Es gibt ein Ideenwettbewerb der Baden Würtemberg Stiftung: [1,4 Millionen Euro für neue Blockchain-Ideen!](https://krypto-x.biz/2023/11/16/14-millionen-euro-fuer-neue-blockchain-ideen/)
 23. **Tangle Treassury**: Die [Tangle Treassury macht ein Thread](https://x.com/TangleTreasury/status/1724902189746020788?s=20) über ihren [Tangle Treassury Quarterly Report](https://t.co/5yyGESXRYi)
