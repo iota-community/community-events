@@ -14,7 +14,14 @@
 12. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1724683651147771938?s=20) über neue 3 neue Farms mit $sSoon, $Wen und $Fish
 13. **IOTA Artikel**: von Blockzeit: [A Look At IOTA 2.0’s Adaptive Consensus](https://www.blockzeit.com/iota-2-0-adaptive-consensus/)
 14. **Shimmer Promote**: Neue Shimmer Challenge: [Tweet von CryptonairApp](https://x.com/CryptonaireApp/status/1724460734594027770?s=20)
-15. **Crypto Adaption**: Artikel: [Commerzbank - Viertgrößte Bank Deutschlands erhält Kryptoverwahrlizenz](https://www.btc-echo.de/schlagzeilen/bitcoin-und-co-commerzbank-erhaelt-kryptoverwahrlizenz-174580/)
+15. **Crypto Adaption**: Artikel: [Commerzbank - Viertgrößte Bank Deutschlands erhält Kryptoverwahrlizenz](https://www.btc-echo.de/schlagzeilen/bitcoin-und-co-commerzbank-erhaelt-kryptoverwahrlizenz-174580/); [Commerzbank erhält Lizenz zur Verwahrung von Kryptowährungen](https://www.wiwo.de/finanzen/boerse/bitcoin-kurs-aktuell-commerzbank-erhaelt-lizenz-zur-verwahrung-von-kryptowaehrungen/27382428.html)
 16. **IOTA Ökosystem**: [Holger Köther tweetet](https://x.com/HolgerKoether/status/1724810927114006576?s=20) über ihr API-Early Access von Spyce 5, das "Freemium subscription based" ist, was bedeutet: "get started for free and only pay when you scale 🚀"
 17. **IOTA Audio**: [Mariana de la Roche tweetet](https://x.com/Marianadlrw/status/1724816722417319993?s=20) über den [Podcast mit YennaTech](https://podcasters.spotify.com/pod/show/inatba/episodes/Yeena-Tech--Asia-e2bv9kt/a-aak59ve)
 18. **Crypto Adaption**: Was ist da bei Avalanche und JP Morgan los? [Thread von Avalanche](https://x.com/avax/status/1724759482238927161?s=20)
+19. **Crypto Adaption**: Artikel: [Neuer Stichtag - SEC vertagt Entscheidung zu Bitcoin-ETF von Hashdex](https://www.btc-echo.de/schlagzeilen/sec-vertagt-entscheidung-zu-bitcoin-etf-von-hashdex-174617/)
+20. **IOTA Ökosystem**: [Sebastian Müller tweetet](https://x.com/NaitsabesMue/status/1725050695563272517?s=20) über [Chat GPT mit iotainside](https://chat.openai.com/g/g-CGc6SfNN0-iota-insight)
+21. **Allg. News**: Biden und Xi haben sich getroffen: [Tweet von Biden](https://x.com/POTUS/status/1724941601661718940?s=20); [Tweet mit Rede von Xi](https://x.com/business/status/1725053470104043620?s=20) 
+22. **Crypto Adaption**: Es gibt ein Ideenwettbewerb der Baden Würtemberg Stiftung: [1,4 Millionen Euro für neue Blockchain-Ideen!](https://krypto-x.biz/2023/11/16/14-millionen-euro-fuer-neue-blockchain-ideen/)
+23. **Tangle Treassury**: Die [Tangle Treassury macht ein Thread](https://x.com/TangleTreasury/status/1724902189746020788?s=20) über ihren [Tangle Treassury Quarterly Report](https://t.co/5yyGESXRYi)
+24. **IOTA Ökosystem**: Adri vom BlockchainLab Drenthe müchte, dass wir [Vorschläge zum KnipWallet](https://en.99designs.nl/mobile-app-design/contests/bring-purpose-bound-money-st-century-1253751/poll/c9849bd07f/vote?utm_source=voting_app&utm_medium=web&utm_campaign=voting) bewerten
+25. 
