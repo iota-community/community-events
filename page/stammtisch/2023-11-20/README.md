@@ -31,4 +31,5 @@
 29. **IOTA Event**: [Sebastian von Akkodis tweetet](https://x.com/Sebasti65365174/status/1725156054885867523?s=20) über ein Event am 5.Dez. wo er mit [Holger Köther](https://twitter.com/HolgerKoether), Adri Wischmann und [IOTerry](https://twitter.com/io_terry) auf der Bühne steht.
 30. **IOTA Drama**: Wir sind nicht mehr auf der [Grayscale-Liste](https://www.lseg.com/content/dam/ftse-russell/en_us/documents/factsheets/fgutsr_20230929.pdf): [Tweet](https://x.com/KimJongUnrekt/status/1725142250433487146?s=20)
 31. **IOTA Ökosystem**: Die [IF tweetet](https://x.com/iota/status/1724895195278295541?s=20) nochmal das AMA: [IOTA 2.0 Q&A with the Research Team](https://www.youtube.com/watch?v=gy08jK3lqx4)
-32. IOTA Ökosystem**: [Bloom AMA](https://www.reddit.com/r/Iota/comments/17wnvcl/bloom_ama_friday_17th_november/?rdt=50064)
+32. **IOTA Ökosystem**: [Bloom AMA](https://www.reddit.com/r/Iota/comments/17wnvcl/bloom_ama_friday_17th_november/?rdt=50064)
+33. **IOTA 2.0**: Update von Jonas Theis zu IOTA 2.0 im Discord: [Tweet mit Screenshot]()
