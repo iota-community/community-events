@@ -38,4 +38,4 @@
 36. **IOTA Promote**: Die [IF retweetet](https://x.com/iota/status/1725434667304636462?s=20) auch den [Tweet von Bloomwallet](https://twitter.com/bloomwalletio/status/1725206896359936386)
 37. **IOTA Ökosystem**: [AscenderLabs tweetet](https://x.com/AscendersLabs/status/1725515986944827577?s=20) a Freitag über ihren NFT Sale
 38. **IOTA Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1724503217914991044?s=20) über den Fairlaunch von $Rust (von den Rusty Robots)
-39. 
+39. **IOTA Steuern**: [Accumulator tweetet](https://x.com/ACCU_DeFi/status/1725493685909963135?s=20) über die Probleme mit der Steuer die sie mit ihrem Coin evtl gelöst haben... "Upon joining Accumulator, you receive a receipt token in return. This token doesn't increase in quantity; rather, its value appreciates over time with an increase every 4 hours."
