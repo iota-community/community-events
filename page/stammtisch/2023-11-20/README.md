@@ -26,7 +26,7 @@
 24. **IOTA Ökosystem**: Adri vom BlockchainLab Drenthe müchte, dass wir [Vorschläge zum KnipWallet](https://en.99designs.nl/mobile-app-design/contests/bring-purpose-bound-money-st-century-1253751/poll/c9849bd07f/vote?utm_source=voting_app&utm_medium=web&utm_campaign=voting) bewerten
 25. **Crypto Adaption**: Artikel: [BlackRock Files Application for Spot Ether ETF](https://www.coindesk.com/policy/2023/11/16/blackrock-files-application-for-spot-ether-etf/?utm_source=twitter&utm_term=organic&utm_medium=social&utm_content=editorial&utm_campaign=coindesk_main)
 26. **IOTA Ökosystem**: [Iotabee tweetet](https://x.com/iotabee/status/1725089820790132772?s=20) über neue Farming Rewards und ein paar Updates
-27. **IOTA Ökosystem**: [GroupFi tweetet](https://x.com/groupficom/status/1725137334549844221?s=20) über ihren neuen web3 messanger der bald in Beta live geht
+27. **IOTA Ökosystem**: [GroupFi tweetet](https://x.com/groupficom/status/1725137334549844221?s=20) über ihren neuen web3 messanger der bald in Beta live geht; Auch die [IF retweetet](https://x.com/iota/status/1725482275842777145?s=20) das
 28. **IOTA Event**: [Mariana de la Roche tweetet](https://x.com/Marianadlrw/status/1725151111646945621?s=20) von dem Event "[AIBC_World](https://twitter.com/AIBC_World)"; Hier noch ein [Tweet](https://x.com/Marianadlrw/status/1725151647817445752?s=20)
 29. **IOTA Event**: [Sebastian von Akkodis tweetet](https://x.com/Sebasti65365174/status/1725156054885867523?s=20) über ein Event am 5.Dez. wo er mit [Holger Köther](https://twitter.com/HolgerKoether), Adri Wischmann und [IOTerry](https://twitter.com/io_terry) auf der Bühne steht.
 30. **IOTA Drama**: Wir sind nicht mehr auf der [Grayscale-Liste](https://www.lseg.com/content/dam/ftse-russell/en_us/documents/factsheets/fgutsr_20230929.pdf): [Tweet](https://x.com/KimJongUnrekt/status/1725142250433487146?s=20)
@@ -34,3 +34,8 @@
 32. **IOTA Ökosystem**: [Bloom AMA](https://www.reddit.com/r/Iota/comments/17wnvcl/bloom_ama_friday_17th_november/?rdt=50064)
 33. **IOTA 2.0**: Update von [Jonas Theis](https://twitter.com/jonastheis_) zum Stand von IOTA 2.0 im Discord: [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1725428964842258679?s=20)
 34. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1725447099037159700?s=20) über den [Blockbytes Twitter Space]() mit Kappy den sie mit "the one and only" promoten...
+35. **IOTA Audio**: Die [IF retweetet](https://x.com/iota/status/1725509634985709799?s=20) dan [Spaces Event von Nakama Labs]() vom Mittwoch 22.11.
+36. **IOTA Promote**: Die [IF retweetet](https://x.com/iota/status/1725434667304636462?s=20) auch den [Tweet von Bloomwallet](https://twitter.com/bloomwalletio/status/1725206896359936386)
+37. **IOTA Ökosystem**: [AscenderLabs tweetet](https://x.com/AscendersLabs/status/1725515986944827577?s=20) a Freitag über ihren NFT Sale
+38. **IOTA Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1724503217914991044?s=20) über den Fairlaunch von $Rust (von den Rusty Robots)
+39. 
