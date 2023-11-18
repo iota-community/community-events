@@ -41,4 +41,4 @@
 39. **IOTA Steuern**: [Accumulator tweetet](https://x.com/ACCU_DeFi/status/1725493685909963135?s=20) über die Probleme mit der Steuer die sie mit ihrem Coin evtl gelöst haben... "Upon joining Accumulator, you receive a receipt token in return. This token doesn't increase in quantity; rather, its value appreciates over time with an increase every 4 hours."
 40. **IOTA Artikel**: Die [IF tweetet](https://x.com/iota/status/1725619824431112246?s=20) über den Guestpost auf CoinmarkeCap: [IOTA 2.0: An Obvious Choice: Why DAGs Over Blockchains?](https://coinmarketcap.com/community/articles/654b925609e4ff3a71170840/)
 41. **Allg. News**: Das Starship von SpaceX ist das 2. Mal geflogen: [Tweet](https://x.com/SpaceX/status/1725862657780281349?s=20)
-42. 
+42. **Allg. News**: Sam Altman wird bei OpenAi rausgeworfen. [Brian Armstrong schreibt](https://x.com/brian_armstrong/status/1725924114190536825?s=20) ziemlich drastische Worte dazu
