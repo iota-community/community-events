@@ -37,5 +37,8 @@
 35. **IOTA Audio**: Die [IF retweetet](https://x.com/iota/status/1725509634985709799?s=20) dan [Spaces Event von Nakama Labs]() vom Mittwoch 22.11.
 36. **IOTA Promote**: Die [IF retweetet](https://x.com/iota/status/1725434667304636462?s=20) auch den [Tweet von Bloomwallet](https://twitter.com/bloomwalletio/status/1725206896359936386)
 37. **IOTA Ökosystem**: [AscenderLabs tweetet](https://x.com/AscendersLabs/status/1725515986944827577?s=20) a Freitag über ihren NFT Sale
-38. **IOTA Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1724503217914991044?s=20) über den Fairlaunch von $Rust (von den Rusty Robots)
+38. **IOTA Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1724503217914991044?s=20) über den Fairlaunch von $Rust (von den Rusty Robots); Er war ein voller Erfolg und nach kuerzer Zeit ausverkauft: [Tweet](https://x.com/ShimmerSeaDEX/status/1725968737327526004?s=20)
 39. **IOTA Steuern**: [Accumulator tweetet](https://x.com/ACCU_DeFi/status/1725493685909963135?s=20) über die Probleme mit der Steuer die sie mit ihrem Coin evtl gelöst haben... "Upon joining Accumulator, you receive a receipt token in return. This token doesn't increase in quantity; rather, its value appreciates over time with an increase every 4 hours."
+40. **IOTA Artikel**: Die [IF tweetet](https://x.com/iota/status/1725619824431112246?s=20) über den Guestpost auf CoinmarkeCap: [IOTA 2.0: An Obvious Choice: Why DAGs Over Blockchains?](https://coinmarketcap.com/community/articles/654b925609e4ff3a71170840/)
+41. **Allg. News**: Das Starship von SpaceX ist das 2. Mal geflogen: [Tweet](https://x.com/SpaceX/status/1725862657780281349?s=20)
+42. 
