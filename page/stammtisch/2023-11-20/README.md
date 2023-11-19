@@ -42,3 +42,5 @@
 40. **IOTA Artikel**: Die [IF tweetet](https://x.com/iota/status/1725619824431112246?s=20) über den Guestpost auf CoinmarkeCap: [IOTA 2.0: An Obvious Choice: Why DAGs Over Blockchains?](https://coinmarketcap.com/community/articles/654b925609e4ff3a71170840/)
 41. **Allg. News**: Das Starship von SpaceX ist das 2. Mal geflogen: [Tweet](https://x.com/SpaceX/status/1725862657780281349?s=20)
 42. **Allg. News**: Sam Altman wird bei OpenAi rausgeworfen. [Brian Armstrong schreibt](https://x.com/brian_armstrong/status/1725924114190536825?s=20) ziemlich drastische Worte dazu
+43. **IOTA Audio**: Am Donnerstag kommt Linus in den TangleTalk Sprachchat: [Tweet](https://x.com/tangle_talk/status/1726150415585026177?s=20) um über sein NFT Card Game [Infernal NFTs](https://twitter.com/InfernalNFTs) zu sprechen
+
