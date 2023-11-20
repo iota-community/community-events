@@ -43,4 +43,7 @@
 41. **Allg. News**: Das Starship von SpaceX ist das 2. Mal geflogen: [Tweet](https://x.com/SpaceX/status/1725862657780281349?s=20)
 42. **Allg. News**: Sam Altman wird bei OpenAi rausgeworfen. [Brian Armstrong schreibt](https://x.com/brian_armstrong/status/1725924114190536825?s=20) ziemlich drastische Worte dazu
 43. **IOTA Audio**: Am Donnerstag kommt Linus in den TangleTalk Sprachchat: [Tweet](https://x.com/tangle_talk/status/1726150415585026177?s=20) um über sein NFT Card Game [Infernal NFTs](https://twitter.com/InfernalNFTs) zu sprechen
+44. **Shimmer DeFi**: Neue Staking Rewards bei ShimmerSea: [Tweet](https://x.com/ShimmerSeaDEX/status/1726284206731604328?s=20) und auch bei iotabee: [Tweet]()
+45. **IOTA Ökosystem**: [GroupFi tweetet](https://x.com/groupficom/status/1726455921336090918?s=20) über ihre Roadmap. Sie planen NFT/Token-Web30-Chaträume und wollen ihren Messanger auch auch andere EVM Chains erweitern
+46. 
 
