@@ -45,5 +45,5 @@
 43. **IOTA Audio**: Am Donnerstag kommt Linus in den TangleTalk Sprachchat: [Tweet](https://x.com/tangle_talk/status/1726150415585026177?s=20) um über sein NFT Card Game [Infernal NFTs](https://twitter.com/InfernalNFTs) zu sprechen
 44. **Shimmer DeFi**: Neue Staking Rewards bei ShimmerSea: [Tweet](https://x.com/ShimmerSeaDEX/status/1726284206731604328?s=20) und auch bei iotabee: [Tweet]()
 45. **IOTA Ökosystem**: [GroupFi tweetet](https://x.com/groupficom/status/1726455921336090918?s=20) über ihre Roadmap. Sie planen NFT/Token-Web30-Chaträume und wollen ihren Messanger auch auch andere EVM Chains erweitern
-46. 
+46. **Crypto Adaption**: In Argentinien wurde ein neuer rechtsliberaler Präsident gewählt der die Zentralbanken abschaffen will und Pro-Bitcoin eingestellt ist
 
