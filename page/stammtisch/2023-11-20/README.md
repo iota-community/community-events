@@ -1,8 +1,8 @@
 ## IOTA Stammtischthemen für Montag, den 20.11.2023
 
 1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1724004276006011103?s=20) über die [IOTA Quicktakes 13.11.2023: IOTA 2.0 Q&A Session, IceCreamSwap Joins #touchpoint & more!](https://www.youtube.com/watch?v=FffFKjL9nSs)
-2. **IOTA Ökosystem**: [AuditOne tweetet](https://x.com/auditone_team/status/1724350355066978618?s=20), dass sie [ChakraLabs](https://twitter.com/LabsChakra) auditiert haben: [auditone.io/audit-report/chakralabs](https://www.auditone.io/audit-report/chakralabs)
-3. **IOTA Audio**: [Twitter Spaces von Blockbytes](https://x.com/blockbytescom/status/1724108727479873974?s=20) mit [Mat Yager](https://twitter.com/Mat_Yarger) von [Demia](https://twitter.com/_Demia) und Leute von [SoonLabs](https://twitter.com/soon_labs) und [Build_5](https://twitter.com/build5tech)
+2. **IOTA Ökosystem**: [AuditOne tweetet](https://x.com/auditone_team/status/1724350355066978618?s=20), dass sie [ChakraLabs](https://twitter.com/LabsChakra) auditiert haben: [auditone.io/audit-report/chakralabs](https://www.auditone.io/audit-report/chakralabs); Am Ende der Woche ist [ChakraLabs](https://twitter.com/LabsChakra) aber bereits Geschichte (Rugpull? Angeblich wegen dem Fairlaunch): [Tweet](https://x.com/LabsChakra/status/1726095661660307709?s=20)
+3. **IOTA Audio**: [Twitter Spaces von Blockbytes](https://x.com/blockbytescom/status/1724108727479873974?s=20) mit [Mat Yager](https://twitter.com/Mat_Yarger) von [Demia](https://twitter.com/_Demia) und den Leuten von [SoonLabs](https://twitter.com/soon_labs) und [Build_5](https://twitter.com/build5tech)
 4. **IOTA Ökosystem**: [Bloom tweetet](https://x.com/bloomwalletio/status/1724454024005468568?s=20) über den Blogpost: [Unveiling Bloom Early Access!](https://medium.com/bloom-wallet/unveiling-bloom-early-access-8038d29c5f86); Hier gehts zum Download der Wallet auf [bloomwallet.io](https://bloomwallet.io/); Auch [Dom tweetet](https://x.com/DomSchiener/status/1724457015341117582?s=20) darüber
 5. **IOTA Ökosystem**: Die [Rusty Robots tweetet](https://x.com/RustyRobotCC/status/1724469376441606529?s=20) über ihre neue Webseite: [rustyrobot.io/de](https://www.rustyrobot.io/de)
 6. **Crypto Drama**: Auf CNN wird gelästert über Gary Gensler: [Tweet](https://x.com/BTC_Archive/status/1724471921734013287?s=20)
@@ -47,4 +47,8 @@
 45. **IOTA Ökosystem**: [GroupFi tweetet](https://x.com/groupficom/status/1726455921336090918?s=20) über ihre Roadmap. Sie planen NFT/Token-Web30-Chaträume und wollen ihren Messanger auch auch andere EVM Chains erweitern
 46. **Crypto Adaption**: In Argentinien wurde ein neuer rechtsliberaler Präsident gewählt der die Zentralbanken abschaffen will und Pro-Bitcoin eingestellt ist: [Tweet](https://x.com/balajis/status/1726448609871458645?s=20)
 47. **Shimmer Audio**: [X-Spaces von Blockbytes](https://x.com/blockbytescom/status/1726394936763752944?s=20) mit Kappy der über [VIRTUE money](https://twitter.com/Virtue_Money) und [DEEPR Finance](https://twitter.com/DeeprFinance) sprechen will
+48. **IOTA 2.0**: Update von [id.iota üer iota2.0](https://x.com/id_iota/status/1726280053099483249?s=20); Der post wurde sogar von der [IF retweetet](https://x.com/iota/status/1726518056589947292?s=20)
+49. **IOTA Adaption**: [C. Strnadl gibt ein Update](https://x.com/archimate/status/1726196501804888555?s=20) zu dem [gaiaX Projekt iECO](https://ieco-gaiax.de/) ("iECO ist eines der ersten Leuchtturmprojekte des bundesdeutschen Gaia-X-Förderwettbewerbs. Ziel des Forschungsprojekts ist es, die Prozesse in der Bauwirtschaft komplett zu digitalisieren und so ihre Produktivität um bis zu zehn Prozent zu steigern."). Sie wollen wohl die Dienste von [Spyce_5](https://twitter.com/SPYCE_5) verwenden um schneller zu skalieren
+50. 
+51. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/342-wochenr%C3%BCckblick-vom-12-bis-18-november-2023/)
 
