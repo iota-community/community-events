@@ -10,4 +10,4 @@
 8.  **IOTA Youtube**: von Probably Nothing: [Digitale Autonomie für alle: Wie IOTA die Zukunft der Blockchain gestaltet - IOTA & Shimmer News](https://www.youtube.com/watch?v=ygakYwevpuM&t=390s)
 9. **IOTA Firefly**: [Shimmer tweetet](https://x.com/shimmernet/status/1726969237527294461?s=20) darüber, dass Shimmer Firefly 2.1.10 Beta 1 getestet werden soll
 10. **IOTA Science**: [Luigi tweetet](https://x.com/VekkioKonio/status/1726971925350736110?s=20) mit dem "#iota" über die Abhandlung "2023 Blockchain and Applications, 5th International Congress", die gerade im Springer Verlag veröffentlicht wurde
-11. 
+11. **Crypto Adaption**: Crypto Crash nachdem die das US-Justizministerium Maßnahmen gegen Krypto ankündigt: [Tweet](https://x.com/bitcoin2go/status/1726986363512271332?s=20)
