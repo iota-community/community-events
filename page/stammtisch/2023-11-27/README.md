@@ -7,5 +7,7 @@
 5. **Twitter Hype**: [Dom retweetet](https://x.com/DomSchiener/status/1726869364836589736?s=20) den [post von Fluent Finance](https://x.com/Fluentinfra/status/1726722106161795524?s=20) und schreibt dazu: "...we are positioning #IOTA to become the public digital infrastructure to connect the real world to Web3. We are here to on board billions in assets and connect entire industries.  ..."
 6. **IOTA Adaption**: Die [IF tweetet](https://x.com/iota/status/1726874053871607940?s=20) über ihre Unterstützung von [SEDIMARK](https://twitter.com/sedimark) einem "SEcure Decentralised Intelligent Data MARKetplace", der im Horizon Projekt von der EU gefördert wird
 7. **IOTA Audio**: [Twitter Spaces Event von Blockbytes](https://x.com/blockbytescom/status/1726646709454029036?s=20) vom Montag 20.11. mit [Kappy](https://twitter.com/Rob_Daykin)
-8.  
-9. 
+8.  **IOTA Youtube**: von Probably Nothing: [Digitale Autonomie für alle: Wie IOTA die Zukunft der Blockchain gestaltet - IOTA & Shimmer News](https://www.youtube.com/watch?v=ygakYwevpuM&t=390s)
+9. **IOTA Firefly**: [Shimmer tweetet](https://x.com/shimmernet/status/1726969237527294461?s=20) darüber, dass Shimmer Firefly 2.1.10 Beta 1 getestet werden soll
+10. **IOTA Science**: [Luigi tweetet](https://x.com/VekkioKonio/status/1726971925350736110?s=20) mit dem "#iota" über die Abhandlung "2023 Blockchain and Applications, 5th International Congress", die gerade im Springer Verlag veröffentlicht wurde
+11. 
