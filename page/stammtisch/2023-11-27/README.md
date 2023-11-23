@@ -27,5 +27,7 @@
 25. **IOTA Audio**: Das Gespräch mit Adri Wischman in dem [TangleTalk](https://twitter.com/tangle_talk) Sprachchat ist jetzt auf [Spotify](https://podcasters.spotify.com/pod/show/tangle-gang/episodes/Interview-mit-Adrian-Wischmann-von-Blockchainlab-vom-02-11-23-IOTA-e2c9c5u/a-aal5iui) und auf [Youtube](https://www.youtube.com/watch?v=ydM3elHOgRw)
 26. **IOTA Youtube**: von Spec Weekly: [Bloom Wallet](https://www.youtube.com/embed/DYx7Kd-LP7I?autoplay=1&auto_play=true)
 27. **IOTA Identity**: Die [IF veröffentlicht](https://x.com/iota/status/1727688459232354726?s=20) den Blogpost: [IOTA Identity 1.0 i here](https://blog.iota.org/iota-identity-1-0-is-here/)
-28. **IOTA Audio**: [X-Spaces AMA von Infernal Uprising](https://x.com/LinusNaumann/status/1727679759058956326?s=20)
+28. **IOTA Audio**: [X-Spaces AMA von Infernal Uprising](https://x.com/TangleverseWeb/status/1727751869571711383?s=20)
 29. **IOTA 2.0**: Die [IF macht ein Thread](https://x.com/iota/status/1727703592239243347?s=20) über IOTA 2.0
+30. **IOTA Wallet**: [Bloom tweetet](https://x.com/bloomwalletio/status/1727759382627147881?s=20) über ein Update vom Bloomwallet auf [bloomwallet.io](https://bloomwallet.io/). Man hat jetzt ein Adressbuch; [Oliver Bohl tweetet](https://x.com/bohl_oliver/status/1727784442624692669?s=20) ein [Video vom Bloomwallet](https://www.youtube.com/watch?v=xeNQ8C0Yj1s)
+31. **IOTA Adaption**: Das ALFRIED Projekt hatte ein Closing Event: [Thread von Filancore](https://x.com/FilancoreGmbH/status/1727781405281620377?s=20)
