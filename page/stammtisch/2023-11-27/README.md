@@ -26,7 +26,7 @@
 24. **IOTA Promote**: [vrom retweetet](https://x.com/Vrom14286662/status/1727315736170004549?s=20) den [Tweet von Elon Musk](https://x.com/elonmusk/status/1727209030769410319?s=20) in dem er schreibt: "What tangled webs we weave"
 25. **IOTA Audio**: Das Gespräch mit Adri Wischman in dem [TangleTalk](https://twitter.com/tangle_talk) Sprachchat ist jetzt auf [Spotify](https://podcasters.spotify.com/pod/show/tangle-gang/episodes/Interview-mit-Adrian-Wischmann-von-Blockchainlab-vom-02-11-23-IOTA-e2c9c5u/a-aal5iui) und auf [Youtube](https://www.youtube.com/watch?v=ydM3elHOgRw)
 26. **IOTA Youtube**: von Spec Weekly: [Bloom Wallet](https://www.youtube.com/embed/DYx7Kd-LP7I?autoplay=1&auto_play=true)
-27. **IOTA Identity**: Die [IF veröffentlicht](https://x.com/iota/status/1727688459232354726?s=20) den Blogpost: [IOTA Identity 1.0 i here](https://blog.iota.org/iota-identity-1-0-is-here/)
+27. **IOTA Identity**: Die [IF veröffentlicht](https://x.com/iota/status/1727688459232354726?s=20) den Blogpost: [IOTA Identity 1.0 i here](https://blog.iota.org/iota-identity-1-0-is-here/); Jelle Milenar gefällts: [Tweet](https://x.com/Vrom14286662/status/1728097279251202140?s=20) und Impierce Tech auch: [Tweet]8https://x.com/ImpierceTech/status/1728046098403487794?s=20)
 28. **IOTA Audio**: [X-Spaces AMA von Infernal Uprising](https://x.com/TangleverseWeb/status/1727751869571711383?s=20)
 29. **IOTA 2.0**: Die [IF macht ein Thread](https://x.com/iota/status/1727703592239243347?s=20) über IOTA 2.0
 30. **IOTA Wallet**: [Bloom tweetet](https://x.com/bloomwalletio/status/1727759382627147881?s=20) über ein Update vom Bloomwallet auf [bloomwallet.io](https://bloomwallet.io/). Man hat jetzt ein Adressbuch; [Oliver Bohl tweetet](https://x.com/bohl_oliver/status/1727784442624692669?s=20) ein [Video vom Bloomwallet](https://www.youtube.com/watch?v=xeNQ8C0Yj1s)
@@ -35,5 +35,5 @@
 33. **Crypto Adaption**: Artikel: [Austria’s Raiffeisen Bank to Launch Retail Crypto Trading Services for Customers in Vienna](https://www.coinspeaker.com/raiffeisen-bank-retail-crypto-trading/)
 34. **IOTA Ökosystem**: Neuigkeiten der Woche von iotabee: [Tweet](https://x.com/iotabee/status/1728008581868310716?s=20)
 34. **IOTA Promote**: [Bitpanda tweetet](https://x.com/Bitpanda_global/status/1727989687178916276?s=20) über ein Vergleich zw. Thron und IOTA
-35. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1728066008563253424?s=20) über ein Video über Mana bei IOTA2.0
+35. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1728066008563253424?s=20) über ein Video über Mana: [IOTA 2.0's Sustainable Tokenomics](https://www.youtube.com/watch?v=FkHc2OKVofo)
 36. **IOTA Adaption**: Das ALFRIED Projekt hatte ein Closing Event: [Thread von Filancore](https://x.com/FilancoreGmbH/status/1727781405281620377?s=20)
