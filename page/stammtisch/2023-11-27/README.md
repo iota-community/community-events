@@ -32,6 +32,8 @@
 30. **IOTA Wallet**: [Bloom tweetet](https://x.com/bloomwalletio/status/1727759382627147881?s=20) über ein Update vom Bloomwallet auf [bloomwallet.io](https://bloomwallet.io/). Man hat jetzt ein Adressbuch; [Oliver Bohl tweetet](https://x.com/bohl_oliver/status/1727784442624692669?s=20) ein [Video vom Bloomwallet](https://www.youtube.com/watch?v=xeNQ8C0Yj1s)
 31. **IOTA Adaption**: Das ALFRIED Projekt hatte ein Closing Event: [Thread von Filancore](https://x.com/FilancoreGmbH/status/1727781405281620377?s=20)
 32. **Crypto Adaption**: Artikel: [Commerzbank erhält begehrte Krypto-Lizenz durch die BaFin!](https://krypto-x.biz/2023/11/24/commerzbank-erhaelt-begehrte-krypto-lizenz-durch-die-bafin/)
-33. **IOTA Promote**: [Bitpanda tweetet](https://x.com/Bitpanda_global/status/1727989687178916276?s=20) über ein Vergleich zw. Thron und IOTA
-34. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1728066008563253424?s=20) über ein Video über Mana bei IOTA2.0
-35. **IOTA Adaption**: Das ALFRIED Projekt hatte ein Closing Event: [Thread von Filancore](https://x.com/FilancoreGmbH/status/1727781405281620377?s=20)
+33. **Crypto Adaption**: Artikel: [Austria’s Raiffeisen Bank to Launch Retail Crypto Trading Services for Customers in Vienna](https://www.coinspeaker.com/raiffeisen-bank-retail-crypto-trading/)
+34. **IOTA Ökosystem**: Neuigkeiten der Woche von iotabee: [Tweet](https://x.com/iotabee/status/1728008581868310716?s=20)
+34. **IOTA Promote**: [Bitpanda tweetet](https://x.com/Bitpanda_global/status/1727989687178916276?s=20) über ein Vergleich zw. Thron und IOTA
+35. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1728066008563253424?s=20) über ein Video über Mana bei IOTA2.0
+36. **IOTA Adaption**: Das ALFRIED Projekt hatte ein Closing Event: [Thread von Filancore](https://x.com/FilancoreGmbH/status/1727781405281620377?s=20)
