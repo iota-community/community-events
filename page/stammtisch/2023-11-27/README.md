@@ -41,3 +41,6 @@
 37. **IOTA Intern**: Dom schreibt sie haben "einige amazing senior leaders for the board of directors" gefunde für die IOTA Foundation : [Tweet mit Screenshot](https://x.com/IotaPoet/status/1728170213731090774?s=20)
 38. **IOTA Hype**: Dom hat im Spec Channel ein bisschen was zur Roadmap und zu den Partnerschaften sowie über RWAs als USP geschrieben: [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1728319417455636833?s=20); Er meinte u.a.: "its all coming together on the tech side... we are one of the only L1 Blockchains... with serious partnerships"
 39. **IOTA Artikel**: von BTC Echo: [Blockchain-Alternativen - IOTAs Tangle und Hashgraph – wie funktionieren sie?](https://www.btc-echo.de/news/iotas-tangle-und-hashgraph-wie-funktionieren-sie-rp1-168238/)
+40. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1728367940930568498?s=20) über das Tokenomics Whitepaper: [IOTA_2.0_Incentives_And_Tokenomics_Whitepaper.pdf](https://files.iota.org/papers/IOTA_2.0_Incentives_And_Tokenomics_Whitepaper.pdf)
+41. **IOTA Audio**: Das Gespräch mit Holger Köther und Regine ist jetzt auch Youtube: [Interview mit Regine & Holger von SPYCE.5 vom 09.11.23 Iota](https://www.youtube.com/watch?v=Y-84Vk7dNUU) und [Auf Spotify](https://podcasters.spotify.com/pod/show/tangle-gang/episodes/Interview-mit-Regine--Holger-von-SPYCE-5-vom-09-11-23-Iota-e2cbhis)
+42. 
