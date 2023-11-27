@@ -1,7 +1,7 @@
 ## IOTA Stammtischthemen für Montag, den 27.11.2023
 
 1. **IOTA Youtube**: Die [IF tweetet](https://x.com/CapitalLiftt/status/1725633661071147469?s=20) ein [Video von LIFTT CAPITAL über IOTA](https://twitter.com/i/status/1725633661071147469)
-2. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1726706989063901297?s=20) über ein spanisches [Interview auf Spotify](https://open.spotify.com/episode/11NBhu8kOvP6BzGQPgMjfX?si=733e8826d1804719&nd=1&dlsi=93bd8c2072fb4166) mit osé M. Cantera, IOTA's Tech Analyst & Project Lead
+2. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1726706989063901297?s=20) über ein spanisches [Interview auf Spotify](https://open.spotify.com/episode/11NBhu8kOvP6BzGQPgMjfX?si=733e8826d1804719&nd=1&dlsi=93bd8c2072fb4166) mit José M. Cantera, IOTA's Tech Analyst & Project Lead
 3. **Crypto Drama**: [Bittrex tweetet](https://x.com/BittrexGlobal/status/1726652430673121310?s=20), dass Bittrex Global ab dem 4. Dezember den Handel aussetzen wird. Danach kann man seine Kryptos nur noch abheben
 4. **Crypto Drama**: [Kraken](https://twitter.com/krakenfx) wird von der SEC vorgeworfen unregistrierte Wertpapiere (wie ADA, SOL, DASH, Mana, ....) zu handeln: [Tweet](https://x.com/FurkanCCTV/status/1726735822194462760?s=20)
 5. **Twitter Hype**: [Dom retweetet](https://x.com/DomSchiener/status/1726869364836589736?s=20) den [Post von Fluent Finance](https://x.com/Fluentinfra/status/1726722106161795524?s=20) und schreibt dazu: "...we are positioning #IOTA to become the public digital infrastructure to connect the real world to Web3. We are here to on board billions in assets and connect entire industries.  ..."
