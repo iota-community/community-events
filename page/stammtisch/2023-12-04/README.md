@@ -16,3 +16,5 @@
 14. **Shimmer Ökosystem**: Schon am 12.Okt. gab es einen [post von Onomy Protocol](https://x.com/OnomyProtocol/status/1580181688285822977?s=20) über ihr Announcement: [Onomy’s Product Suite Is Coming to IOTA’s Shimmer](https://medium.com/onomy-protocol/onomys-product-suite-is-coming-to-iota-s-shimmer-4060abd4acc6)
 15. **Crypto Drama**: Artikel: [Sammelklage gegen Cristiano Ronaldo: Fußballstar muss wegen Binance-Promo vor Gericht!](https://www.blocktrainer.de/sammelklage-gegen-cristiano-ronaldo-binance/)
 16. **IOTA Event**: Dom war am Mittwoch in Abu Dhabi bei der AD Finance Week: [Tweet](https://x.com/iota/status/1726601296306683925?s=20)
+17. **Shimmer DeFi Ökosystem**: [Accumulator tweetet](https://x.com/ACCU_DeFi/status/1729567648671834328?s=20), dass man jetzt auch $Rust -$SMR accumulieren kann
+18. 
