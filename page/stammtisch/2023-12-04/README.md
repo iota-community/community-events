@@ -34,5 +34,5 @@
 32. **IOTA Exchange**: [MEXC-EN tweetet](https://x.com/MEXC_EN/status/1730110002667344326?s=20), dass sie jetzt IOTA gelistet haben bzw.: "#MEXC Futures Copy Trade now supports $IOTA USDT-M future"
 33. **IOTA Adaption**: Die [IF tweetet](https://x.com/iota/status/1730164785193369664?s=20) ein "Behind the Scenes" Blogpost: [First Registered DLT Foundation Under ADGM in Abu Dhabi, UAE - Pioneering Digital Infrastructure in MENA‌](https://blog.iota.org/iota-first-dlt-registered-adgm-in-uae/)
 34. **IOTA DeFi Learn**: [IotaOrigin tweetet](https://x.com/origin_iota/status/1730166283939790888?s=20) über ihren Blogpost: [Markets know the price of everything and the value of nothing.](https://medium.com/@iotaorigin/markets-know-the-price-of-everything-and-the-value-of-nothing-f05f1a47f1e3)
-35. 
+35. **IOTA Event**: [Spyce_5 Tweet](https://x.com/SPYCE_5/status/1730215161418371230?s=20) von der [Slush](https://twitter.com/SlushHQ) Konferenz in Helsinki
 
