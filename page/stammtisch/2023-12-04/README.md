@@ -35,4 +35,8 @@
 33. **IOTA Adaption**: Die [IF tweetet](https://x.com/iota/status/1730164785193369664?s=20) ein "Behind the Scenes" Blogpost: [First Registered DLT Foundation Under ADGM in Abu Dhabi, UAE - Pioneering Digital Infrastructure in MENA‌](https://blog.iota.org/iota-first-dlt-registered-adgm-in-uae/)
 34. **IOTA DeFi Learn**: [IotaOrigin tweetet](https://x.com/origin_iota/status/1730166283939790888?s=20) über ihren Blogpost: [Markets know the price of everything and the value of nothing.](https://medium.com/@iotaorigin/markets-know-the-price-of-everything-and-the-value-of-nothing-f05f1a47f1e3)
 35. **IOTA Event**: [Spyce_5 Tweet](https://x.com/SPYCE_5/status/1730215161418371230?s=20) von der [Slush](https://twitter.com/SlushHQ) Konferenz in Helsinki
+36. **Bitcoin Adaption**: [Michael Saylor tweetet](https://x.com/saylor/status/1730226879125160426?s=20), dass MicroStrategy sie haben nochmal über 16130 BTCs gekauft und haben jetzt 174530 BTCs
+37. **Fiat Drama**: Die Signa-Holding ein von René Benko ist Pleite und reißt mal wieder alle mit... (Galeria Kaufhof, Sport Check, ...)
+38. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1730225168490876954?s=20) über [](https://www.youtube.com/embed/fc8osAGj-yM?autoplay=1&auto_play=true)
+39. **IOTA Event**: Es gab ein Governements Meeting im iota Discord: [Tweet](https://x.com/shimmernet/status/1729938286590689608?s=20)
 
