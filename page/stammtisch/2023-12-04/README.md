@@ -31,4 +31,5 @@
 29. **IOTA Ökosystem**: [swarmlogistics tweetet](https://x.com/SwarmLogistics/status/1729899899011875077?s=20) ein Video über ihre App ([MyTransport.One](MyTransport.One) Logistik APP für PKW, Vans & LKW x Anleitung | Tourenplanung, Auftragsverwaltung, Kostenrechnung)
 30. **IOTA Ökosystem**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1729884122439684234?s=20) über ihren Blogpost: [The Importance of Appchain Interoperability in Gaming](https://spyce5.com/appchains/the-importance-of-appchain-interoperability-in-gaming/)
 31. **IOTA 2.0 Video**: [Powerful Transactions on IOTA 2.0](https://www.youtube.com/watch?v=p7C24UJ4jS4&t=10s)
+32. **IOTA Exchange**: [MEXC-EN tweetet](https://x.com/MEXC_EN/status/1730110002667344326?s=20), dass sie jetzt IOTA gelistet haben bzw.: "#MEXC Futures Copy Trade now supports $IOTA USDT-M future"
 
