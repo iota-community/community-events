@@ -43,4 +43,5 @@
 41. **IOTA Ökosystem**: Man kann wieder u.a. Lumis gewinnen im Adventskalender von [ShimmerSea](https://twitter.com/ShimmerSeaDEX): [Tweet](https://x.com/ShimmerSeaDEX/status/1730489409257255077?s=20)
 42. **IOTA Youtube**: [Mariana de la Roche tweetet](https://x.com/Marianadlrw/status/1730555472996946144?s=20) über ihr Interview [BC 100+: The Blockchain for the UN Charter Values and the SDGs Action Plan](https://www.youtube.com/watch?v=G0bJCjagY8o) wo sie unter anderem über Demia spricht
 43. **IOTA 2.0 Advent**: [Tweet 1 von Sebastian Müller](https://x.com/NaitsabesMue/status/1730497608731283685?s=20) über IOTA 2.0 Vorteile
+44. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1730587563210002760?s=20) über den Blogpost: [No Mempool, No MEV: Protecting Users Against Value Extraction](https://blog.iota.org/no-mempool-no-mev-iota20/)
 
