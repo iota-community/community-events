@@ -48,5 +48,6 @@
 46. **Crypto Adaption**: Die Meldung, dass Coinbase Lightning und Solana für schnelle Transaktionen einführen will [retweetet Dom](https://x.com/DomSchiener/status/1730865233344831666?s=20) mit "Hey [Brian Armstrong](https://twitter.com/brian_armstrong) call me #IOTA"
 47. **Allg News**: [Christoph Strnadel Thread](https://x.com/archimate/status/1730599969252364764?s=20) über sein neues Paper "[A Formal Transaction Cost-Based Analysis of the Economic Feasibility of Data Spaces and Service Ecosystems](https://arxiv.org/abs/2310.03157) in dem er eine neue Formel gefunden hat, mit der man "The exact solution for the transaction price X a service consumer has to pay a service provider in any (!) ecosystem" berechnen kann
 48. **IOTA Pump**: Am Sonntag gab es den 2. Pump bei IOTA. Nochmal 20% hoch in 24h
-49. 
+49. **IOTA Event**: Dom war auf einer Panel Diskussion in UAE: [Tweet](https://x.com/GM__INV/status/1730980325394669582?s=20)
+50. **IOTA Hype**: Dom hat sich im Spec Channel gemeldet und 5 Punkte "Lessons Learn" angegeben: [Tweet mit Screenshot](https://x.com/moonbaklava/status/1731041062758588791?s=20)
 
