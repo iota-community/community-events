@@ -44,6 +44,7 @@
 42. **IOTA Youtube**: [Mariana de la Roche tweetet](https://x.com/Marianadlrw/status/1730555472996946144?s=20) über ihr Interview [BC 100+: The Blockchain for the UN Charter Values and the SDGs Action Plan](https://www.youtube.com/watch?v=G0bJCjagY8o) wo sie unter anderem über Demia spricht
 43. **IOTA 2.0 Advent**: [Tweet 1 von Sebastian Müller](https://x.com/NaitsabesMue/status/1730497608731283685?s=20) und [Tweet 2](https://x.com/NaitsabesMue/status/1730852168171680227?s=20) über die Vorteile von IOTA 2.0 
 44. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1730587563210002760?s=20) über den Blogpost: [No Mempool, No MEV: Protecting Users Against Value Extraction](https://blog.iota.org/no-mempool-no-mev-iota20/)
-45. **Shimmer NFT Ökosystem**: [IotaOrigin mit einem Thread](https://x.com/origin_iota/status/1730509809043050955?s=20) über ihren neuen NFT Marketplace auf dem man die erste Kollektion [Gemstone Guilde](https://launchpad.snippool.xyz/collection/0x93A4Ca164a1B35E70280579a038e4f81f2dc6777?tab=mint) kaufen kann
-46. 
+45. **Shimmer NFT Ökosystem**: [IotaOrigin mit einem Thread](https://x.com/origin_iota/status/1730509809043050955?s=20) über ihren neuen [NFT Marketplace](https://launchpad.snippool.xyz/collection/0x93A4Ca164a1B35E70280579a038e4f81f2dc6777?tab=mint&ref=clpnvxehb0003s6xi0fcal0yc) auf dem man die erste Kollektion [Gemstone Guilde](https://launchpad.snippool.xyz/collection/0x93A4Ca164a1B35E70280579a038e4f81f2dc6777?tab=mint&ref=clpnvxehb0003s6xi0fcal0yc) kaufen kann
+46. **Crypto Adaption**: Die Meldung, dass Coinbase Lightning und Solana für schnelle Transaktionen einführen will [retweetet Dom](https://x.com/DomSchiener/status/1730865233344831666?s=20) mit "Hey [Brian Armstrong](https://twitter.com/brian_armstrong) call me #IOTA"
+47. 
 
