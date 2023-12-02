@@ -46,5 +46,7 @@
 44. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1730587563210002760?s=20) über den Blogpost: [No Mempool, No MEV: Protecting Users Against Value Extraction](https://blog.iota.org/no-mempool-no-mev-iota20/)
 45. **Shimmer NFT Ökosystem**: [IotaOrigin mit einem Thread](https://x.com/origin_iota/status/1730509809043050955?s=20) über ihren neuen [NFT Marketplace](https://launchpad.snippool.xyz/collection/0x93A4Ca164a1B35E70280579a038e4f81f2dc6777?tab=mint&ref=clpnvxehb0003s6xi0fcal0yc) auf dem man die erste Kollektion [Gemstone Guilde](https://launchpad.snippool.xyz/collection/0x93A4Ca164a1B35E70280579a038e4f81f2dc6777?tab=mint&ref=clpnvxehb0003s6xi0fcal0yc) kaufen kann
 46. **Crypto Adaption**: Die Meldung, dass Coinbase Lightning und Solana für schnelle Transaktionen einführen will [retweetet Dom](https://x.com/DomSchiener/status/1730865233344831666?s=20) mit "Hey [Brian Armstrong](https://twitter.com/brian_armstrong) call me #IOTA"
-47. 
+47. **Allg News**: [Christoph Strnadel Thread](https://x.com/archimate/status/1730599969252364764?s=20) über sein neues Paper "[A Formal Transaction Cost-Based Analysis of the Economic Feasibility of Data Spaces and Service Ecosystems](https://arxiv.org/abs/2310.03157) in dem er eine neue Formel gefunden hat, mit der man "The exact solution for the transaction price X a service consumer has to pay a service provider in any (!) ecosystem" berechnen kann
+48. **IOTA Pump**: Am Sonntag gab es den 2. Pump bei IOTA. Nochmal 20% hoch in 24h
+49. 
 
