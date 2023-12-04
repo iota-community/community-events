@@ -61,3 +61,4 @@
 59. **IOTA **: [Iotabee tweetet](https://x.com/iotabee/status/1731592876943941676?s=20), dass [MathWallet](https://twitter.com/MathWallet) ihre [dApp](https://mathdapp.store/?blockchain=shimmerevm) integriert haben
 60. **IOTA Wochenrückblick**: Iotatalks [Wochenrückblick](https://www.iota-talk.com/index.php?article/346-wochenr%C3%BCckblick-vom-26-november-bis-2-dezember-2023/)
 61. **IOTA Promote**: Die [IF retweetet](https://x.com/iota/status/1731654298306490536?s=20) den Artikel von Cointelegraph [Crypto Biz: UAE’s regulatory structure draws crypto firms, Canaan’s revenue slumps, and more](https://cointelegraph.com/news/crypto-biz-uae-regulatory-structure-draws-crypto-firms-canaan-revenue-slumps)
+62. **IOTA Event**: Das Team um [Bloom](https://twitter.com/bloomwalletio) ist Sponsor für [The Global Blockchain Congress](https://twitter.com/AgoraGBC) in Dubai am 11.-12.12.23: [Tweet](https://x.com/AgoraGBC/status/1731569188307697971?s=20)
