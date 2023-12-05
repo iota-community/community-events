@@ -7,3 +7,8 @@
 5. **IOTA Audio**: AMA im ApeDAO Discord mit Infernal NFT: [Tweet](https://x.com/InfernalNFTs/status/1731971284890767429?s=20)
 6. **IOTA NFT Gaming**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1731952799661834497?s=20) ein Preview zum Gameplay und verkünden, dass ihr Gamepaper am 20.12.23 heraus kommt: [Tweet](https://x.com/DarkMythosIOTA/status/1731961614453309737?s=20)
 7. **IOTA Adaption**: [Crypt Gin](https://twitter.com/Crypto_Gin21) will [Mosquito Pay](https://twitter.com/MosquitoPay) auf ihrer Webseite integrieren damit PayWithIOTA möglich wird: [Tweet](https://x.com/Crypto_Gin21/status/1731753827357884431?s=20)
+8. **IOTA Exchange**: Neue Exchange: [Tweet](https://x.com/Changelly_team/status/1732005198699086290?s=20)
+9. **IOTA Ökosystem**: [BloomWallet tweetet](https://x.com/bloomwalletio/status/1732057348032651567?s=20) über den Blogpost: [Bloom wallet to fully support IOTA and Shimmer EVM ecosystem](https://medium.com/bloom-wallet/bloom-wallet-to-fully-support-iota-and-shimmer-evm-ecosystem-3ca5c3aa6748)
+10. **Crypto Adaption**: Artikel: [Brazil’s Largest Bank Itau Unibanco Launches Crypto Trading](https://medium.com/bloom-wallet/bloom-wallet-to-fully-support-iota-and-shimmer-evm-ecosystem-3ca5c3aa6748)
+11. **IOTA Artikel**: [TangleVerse Times tweetet](Brazil’s Largest Bank Itau Unibanco Launches Crypto Trading) über die neue [TangleverseTimes](https://www.times.tangleverse.io/iota-unchained/) u.a. mit der Monatszusammenfassung von id.iota
+12. 
