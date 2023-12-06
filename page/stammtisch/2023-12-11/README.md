@@ -19,4 +19,5 @@
 17. **Shimmer Ökosystem (Drama)**: [Shimmer retweetet](https://x.com/shimmernet/status/1732314938205507923?s=20) meiner Meinung nach langsam zu viele NFT-(Scam?)-Projekte
 18. **Crypto Adaption**: Die [IF retweetet](https://x.com/iota/status/1732320146163662945?s=20) den [Tweet von INATBA]() bezüglich der digital Credential Task Force mit dem Bericht: [CREDENTIALS OF TOMORROW: UNVEILING INATBA’S DIGITAL CREDENTIALS TASK FORCE REPORT](https://inatba.org/reports/credentials-of-tomorrow-unveiling-inatbas-digital-credentials-task-force-report/), bei dem [Laura Kajtazi](https://twitter.com/LauraKajtazi1) von der IOTA Foundation mitgearbeitet hatte
 19. **IOTA Exchanges**: Im [Tweet von KuCoinFutures](https://x.com/KuCoinFutures/status/1732238209021854158?s=20) steht, dass man dort jetzt IOTA Futures bis zu 20x hebeln kann
-20. 
+20. **IOTA Youtube**: von [Alex Mittermeier](https://twitter.com/AlexMittermeier): [IOTA vor großem Comeback in 2024?](https://www.youtube.com/embed/AV3hWCgbeZ0?autoplay=1&auto_play=true)
+21. **IOTA Youtube**: von [Iotapoet](https://twitter.com/IotaPoet): [Grayscale RANKS IOTA and Shimmer's BIGGEST DEFI Lau..](https://www.youtube.com/embed/XIDeQ1nk1aw?autoplay=1&auto_play=true)
