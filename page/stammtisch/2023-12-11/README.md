@@ -24,3 +24,4 @@
 22. **IOTA Youtube**: von [Iotapoet](https://twitter.com/IotaPoet): [Grayscale RANKS IOTA and Shimmer's BIGGEST DEFI Lau..](https://www.youtube.com/embed/XIDeQ1nk1aw?autoplay=1&auto_play=true)
 23. **IOTA 2.0**: Scheinbar ist das letzte Modul "Reactive protocol rework" von dem [Hans](https://twitter.com/hus_qy) gesprochen hatte, gemerged worden: [Tweet](https://x.com/GM__INV/status/1732009558099308635?s=20)
 24. **Crypto Adaption**: Artikel: [Coinbase lässt Nutzer Geld per WhatsApp, TikTok und Co. verschicken](https://www.btc-echo.de/schlagzeilen/coinbase-erlaubt-zahlungen-per-whatsapp-tiktok-und-co-175582/)
+25. **IOTA Ökosystem**: [TangleSwap tweetet](https://x.com/TangleSwap/status/1732353800587944184?s=20) über [It’s Time — TangleSwap’s $VOID Token Sale, Unveiled](https://blog.tangleswap.exchange/its-time-tangleswap-s-void-token-sale-unveiled-4d86f36eaba4)
