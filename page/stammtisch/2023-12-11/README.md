@@ -33,3 +33,7 @@
 31. **Ki News**: Google released Gemini ein neues Ki Model was sogar noch besser ist als ChatGPT4: [Thread](https://x.com/GoogleDeepMind/status/1732416095355814277?s=20); Beeindruckend ist vor allem dieses Video: [Tweet](https://x.com/amasad/status/1732439083555631581?s=20)
 32. **Shimmer NFT Games**: Der NFT Launch von Infernal Uprising hatte einige Probleme... Erst um eine Stunde verschogen [Tweet](https://x.com/InfernalNFTs/status/1732443622602084616?s=20) und dann war irgendwas kaputt: [Tweet](https://x.com/InfernalNFTs/status/1732485087298494590?s=20)
 33. **IOTA 2.0 Hype**: [Hans Moog tweetet](https://x.com/hus_qy/status/1732534655956496870?s=20) erleichtert darüber, dass die finale Merge endlich fertig ist. "...shit is finally starting to get real!"
+34. **Shimmer DeFi**: Bei iotabee gibt es jeztt auch NFTs für das Bereitstellen von Liquidity: [Tweet](https://x.com/iotabee/status/1732679353568231824?s=20)
+35. **IOTA Ökosystem**: [Adam tweetet](https://x.com/adam_unchained/status/1732635522760392802?s=20) ein Video in dem man sieht wie einfach es ist, die [build_5](https://twitter.com/build5tech) Module zu verwenden um sie für die eigenen Webseite zu verwenden um die Soonaverse Funktionen zu integrieren
+36. **Crypto Drama**: Artikel: [New Analysis - Ethereum's 'Censorship' Problem Is Getting Worse](https://www.coindesk.com/tech/2023/12/06/ethereums-censorship-problem-is-getting-worse/)
+37. **Crypto Drama**: Ein Bitcoin Core Developer will Ordinals abschaffen: [Tweet](https://x.com/LukeDashjr/status/1732204937466032285?s=20)
