@@ -44,4 +44,5 @@
 42. **Shimmer DeFi Ökosystem**: [Virtue Money tweetet](https://x.com/Virtue_Money/status/1732800957715468716?s=20), dass ihr Testnet live gegangen ist auf [virtue.money](https://virtue.money/)
 43. **IOTA 2.0 Video**: Die [IF mit einem Thread](https://x.com/iota/status/1732792179192406440?s=20) über das Erklär-Video von der IF: [Parallel transaction processing in IOTA #2.0 ](https://youtu.be/95lh_nX5s90)
 44. **IOTA Exchange**: [Bitop Exchange tweetet](https://x.com/bitop_exchange/status/1732674573425049668?s=20) über IOTA mit den Worten " It's not just another cryptocurrency; it's a revolutionary approach to the blockchain"
-45. **IOTA Ökosystem**: Das [walt.id](https://twitter.com/walt_id) wallet approved von EBSI: [Tweet](https://x.com/walt_id/status/1733051530553487469?s=20)
+45. **IOTA Ökosystem**: Das [walt.id](https://twitter.com/walt_id) wallet approved von EBSI: [Tweet](https://x.com/walt_id/status/1733051530553487469?s=20); Auch die [IF gratuliert](https://x.com/iota/status/1733062417603498248?s=20) ihnen...
+46. 
