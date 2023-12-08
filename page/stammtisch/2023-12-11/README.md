@@ -46,3 +46,4 @@
 44. **IOTA Exchange**: [Bitop Exchange tweetet](https://x.com/bitop_exchange/status/1732674573425049668?s=20) über IOTA mit den Worten " It's not just another cryptocurrency; it's a revolutionary approach to the blockchain"
 45. **IOTA Ökosystem**: Das [walt.id](https://twitter.com/walt_id) wallet approved von EBSI: [Tweet](https://x.com/walt_id/status/1733051530553487469?s=20); Auch die [IF gratuliert](https://x.com/iota/status/1733062417603498248?s=20) ihnen...
 46. **Crypto Drama**: Artikel: [Dr. Julian Hosps Unternehmen Cake droht Auflösung – DeFiChain (DFI) stürzt noch weiter ab](https://bitcoinblog.de/2023/12/08/dr-julian-hosps-unternehmen-cake-droht-aufloesung-defichain-dfi-stuerzt-noch-weiter-ab/)
+47. **IOTA Wallet**: Neues Bloom Wallet mit Wallet Connect: [Tweet von Bloom Wallet](https://x.com/bloomwalletio/status/1733155513846640672?s=20)
