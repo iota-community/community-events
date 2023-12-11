@@ -64,3 +64,5 @@
 62. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/348-wochenr%C3%BCckblick-vom-3-bis-9-dezember-2023/)
 63. **IOTA Event**: [Spyce_5](https://twitter.com/SPYCE_5) hat ein Crypto Event für Frauen gesponsert: [Tweet](https://x.com/SPYCE_5/status/1734135957362720811?s=20)
 64. **Crypto Adaption**: Artikel: [Wegen Bitcoin-ETFs: Google passt Richtlinien für Bitcoin-Werbung an!](https://www.blocktrainer.de/bitcoin-etfs-google-richtlinien-werbung/)
+65. **IOTA Youtube**: Das [TangleTalk](https://twitter.com/tangle_talk) Gespräch mit [Thoralf von der IF]() ist jetzt auf Youtube: [Interview mit Thoralf Müller von der Iota Foundation vom 16.11.23](https://www.youtube.com/watch?v=xW9IO6T3MFM)
+
