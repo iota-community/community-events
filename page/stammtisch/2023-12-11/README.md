@@ -59,7 +59,7 @@
 57. **IOTA 2.0**: Kennt jemand valide Kritik an IOTA2.0? [Tweet](https://x.com/Vrom14286662/status/1733750484039549297?s=20)
 58. **Shimmer Ökosystem**: Das Bloom Wallet zeigt jetzt auch Kurse an: [Tweet](https://x.com/bloomwalletio/status/1733544289743847783?s=20)
 59. **IOTA Youtube**: von IOTA 2.0... : [Why do I believe in IOTA? | Crypto Unification & Future](https://www.youtube.com/watch?v=2Wsee6aJ2VY)
-60. **IOTA Poker Turnier**: Am Dienstag ist IOTA Poker: [Tweet](https://x.com/IotaPunks_71/status/1733888632073642140?s=20)
+60. **IOTA Poker Turnier**: Am Freitag ist IOTA Poker: [Tweet](https://x.com/IotaPunks_71/status/1733888632073642140?s=20)
 61. **IOTA Event**: Am Dienstag ist das Sternstunden Even von [iotashops](https://twitter.com/iotashop) und der [IF](https://twitter.com/iota): [Tweet](https://x.com/iota/status/1733451245166194976?s=20)
 62. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/348-wochenr%C3%BCckblick-vom-3-bis-9-dezember-2023/)
 63. **IOTA Event**: [Spyce_5](https://twitter.com/SPYCE_5) hat ein Crypto Event für Frauen gesponsert: [Tweet](https://x.com/SPYCE_5/status/1734135957362720811?s=20)
