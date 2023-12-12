@@ -9,4 +9,4 @@
 7. **Crypto NFT Adaption**: Artikel: [FIFA-Klub-Weltmeisterschaft - FIFA gibt neue NFT-Kollektion heraus](https://www.btc-echo.de/schlagzeilen/fifa-neue-nft-kollektion-anlaesslich-der-klub-weltmeisterschaft-175934/)
 8. **IOTA Event**: [kowei tweetet](https://x.com/kowei1995/status/1734524648359084196?s=20) über die Teipei Blockchain Week wo er ab Donnerstag ein IOTA Workshop hält
 9. **Shimmer Ökosystem**: [IotaOrigin tweetet](https://x.com/origin_iota/status/1723339045546176739?s=20), dass ihr Fairmint live ist
-10. 
+10. **IOTA Video Event**: von der IOTA Foundation: [IOTA End of Year Event 2023](https://www.youtube.com/watch?v=HcGrSx3GLnE)
