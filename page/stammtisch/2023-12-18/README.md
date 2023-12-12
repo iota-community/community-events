@@ -7,4 +7,6 @@
 5. **Crypto Drama**: Senator E. Warren will Crypto bannen: [Tweet mit Interview](https://x.com/BTC_Archive/status/1734568836811157945?s=20); Artikel: [Bitcoin-Verbot erneut auf dem Tisch? Der „Digital Asset Anti-Money Laundering Act“](https://www.blocktrainer.de/bitcoin-verbot-erneut-auf-dem-tisch-der-digital-asset-anti-money-laundering-act/)
 6. **Crypto Adaption**: Artikel: [El Salvador: Kommission genehmigt Bitcoin-Anleihen. Kommen die „Vulcano-Bonds“ in 2024?](https://www.blocktrainer.de/el-salvador-genehmigt-bitcoin-anleihen-vulcano-bonds-2024/)
 7. **Crypto NFT Adaption**: Artikel: [FIFA-Klub-Weltmeisterschaft - FIFA gibt neue NFT-Kollektion heraus](https://www.btc-echo.de/schlagzeilen/fifa-neue-nft-kollektion-anlaesslich-der-klub-weltmeisterschaft-175934/)
-8. 
+8. **IOTA Event**: [kowei tweetet](https://x.com/kowei1995/status/1734524648359084196?s=20) über die Teipei Blockchain Week wo er ab Donnerstag ein IOTA Workshop hält
+9. **Shimmer Ökosystem**: [IotaOrigin tweetet](https://x.com/origin_iota/status/1723339045546176739?s=20), dass ihr Fairmint live ist
+10. 
