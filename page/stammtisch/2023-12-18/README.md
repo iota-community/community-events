@@ -33,3 +33,4 @@
 31. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1735298602279325839?s=20) über die neue Webseite mit: [IOTA 2.0: All You Need to Know](https://blog.iota.org/iota-2-0-all-you-need-to-know/)
 32. **IOTA Ökosystem Drama**: Moralis tweetet](https://x.com/Sphere_Hub_io/status/1735254920746484089?s=20) er verkauft IOTAPlus und alles was dazu gehört aus [sphere-hub.io](https://sphere-hub.io/) und [iota-plus.com](https://iota-plus.com/) gesundheitlichen Gründen
 33. **Crypto Drama**: [Metamask tweetet](https://x.com/MetaMask/status/1735318141285085513?s=20) dass der vermeintliche "Ledger hack" alle MM Wallets betroffen hat, nicht nur Ledger Wallets
+34. **IOTA Ökosystem**: [Rewards Bunny](https://twitter.com/rewardsbunny) ist jetzt im Touchpoint Open Builders Program: [Rewards Bunny Joins Touchpoint - Onboard to DeFi Easily While Earning Rewards](https://blog.shimmer.network/rewards-bunny-joins-touchpoint/)
