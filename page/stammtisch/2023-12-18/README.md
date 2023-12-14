@@ -25,5 +25,8 @@
 23. **Crypto Adaption**: Artikel: [Former US President Donald Trump Launches Mugshot NFT Collection](https://coinmarketcap.com/academy/article/former-us-president-donald-trump-launches-mugshot-nft-collection)
 24. **IOTA 2.0 Hype**: [Hans Moog tweetet](https://x.com/hus_qy/status/1735110809359949887?s=20) und vergleicht Radix und IOTA (Radix: Jeder sollte Pizza bei der besten Pizzeria der Welt bestellen können. IOTA: Die beste Pizzeria der Welt sollte Filialen in jeder Stadt besitzen)
 25. **IOTA Ökosystem**: [Adam tweetet](https://x.com/adam_unchained/status/1735194650938663351?s=20) über ein Feature von [Build_5](https://twitter.com/build5tech) wo man ganz einfach beliebige z.b. IPFS Daten immutable über den Tangle "stampen" kann ("Digital signature of any file immutably stored on Tangle at super low cost!")
-26. **Crypto Drama**: Ledger Hack: [Tweet](https://x.com/RevokeCash/status/1735282669808717958?s=20)
-27. **IOTA Audio**: A Donnerstag war Linus und im
+26. **Crypto Drama**: Ledger Hack: [Tweet](https://x.com/RevokeCash/status/1735282669808717958?s=20); Auch [Shimmer warnt](https://x.com/shimmernet/status/1735291188465311871?s=20) davor aktuell dApps zu benutzen
+27. **IOTA Audio**: Am Donnerstag war [Linus](https://twitter.com/LinusNaumann) und [FinanzGoblin](https://twitter.com/finanzgoblin) im Tangle Talk Sprachchat: [Tweet](https://x.com/tangle_talk/status/1735260962075050201?s=20)
+28. **IOTA Adaption**: Die [ETO Gruppe tweetet](https://x.com/EtoGruppe/status/1735230670274793844?s=20) nochmal ein paar Bilder von dem "Top-Level-Meeting der Autoindustrie in Berlin" wo sie den intelligenten Leitpfosten dem Verkehrs- und Wirtschaftsministerium vorstellen konnten
+29. **IOTA Release**: Neues [inx-mqtt v2.0.0-Alpha.7](https://github.com/iotaledger/inx-mqtt/releases/tag/v2.0.0-alpha.7)
+30. **IOTA Youtube**: von Whales of Waalstreet: [IOTA...](https://www.youtube.com/embed/y6MKF6OwaqE?autoplay=1&auto_play=true)
