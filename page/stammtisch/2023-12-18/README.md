@@ -37,3 +37,5 @@
 35. **Crypto Adaption**: Der SEC Chef Gary Gensler spricht von einer neuen Richtung wegen einem Gerichtsentscheid für Spot Bitcoin ETFs: [Tweet 1](https://x.com/coinbureau/status/1735551614134440322?s=20), [Tweet 2](https://x.com/WatcherGuru/status/1735397501606469778?s=20)
 36. **IOTA DeFi Education**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1735666005932695941?s=20) über ihren Blogpost: [Pioneering the Path to Web3: Part 3 — Education](https://medium.com/@NakamaLabs/pioneering-the-path-to-web3-part-3-education-fc2df0413ff2)
 37. **IOTA Ökosystem**: Multiknip von Adri Wischman ist ausgewählt ein "Most Exciting Project of 2024" von INATBA zu werden: [Tweet](https://x.com/INATBA_org/status/1735615693578764317?s=20)
+38. **IOTA 2.0**: Die [IF tweetet](https://x.com/iota/status/1735661068553158969?s=20) ein Video zu dem [Mana Calculator](https://wiki.iota.org/learn/protocols/iota2.0/core-concepts/mana-calculator)
+39. **Crypto Adaption**: Die SEC hat sich schon wieder mit Blackrock getroffen: [Tweet](https://x.com/BitcoinMagazine/status/1735675437534073218?s=20)
