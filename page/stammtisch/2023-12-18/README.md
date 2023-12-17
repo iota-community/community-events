@@ -41,5 +41,5 @@
 39. **Crypto Adaption**: Die SEC hat sich schon wieder mit Blackrock getroffen: [Tweet](https://x.com/BitcoinMagazine/status/1735675437534073218?s=20)
 40. **Crypto Ökosystem**: Die Gebühren bei Bitcoin und Ethereum sind wieder extrem hoch. Hier der [3-Monats-Chart für ETH und BTC](https://bitinfocharts.com/de/comparison/transactionfees-btc-eth.html#3m)
 41. **IOTA Ökosystem**: Die Einladungen von [GroupFi](https://twitter.com/groupfi_ai) zum Beta Test sind raus: [Tweet](https://x.com/Vrom14286662/status/1736324948950417675?s=20)
-42. **IOTA 2.0**: [Hans Moog tweetet](https://x.com/hus_qy/status/1736395335117725918?s=20)  vs. Evaldas FUD
+42. **IOTA 2.0**: [Hans Moog tweetet](https://x.com/hus_qy/status/1736395335117725918?s=20)  vs. Evaldas und [Buffy tweetet](https://x.com/fudsfuddy/status/1736480503354503549?s=20) gegen L1 SC
 43. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/350-wochenr%C3%BCckblick-vom-10-bis-16-dezember-2023/)
