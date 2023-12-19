@@ -11,4 +11,7 @@
 9. **Crypto Adaption**: Erste Werbung für Bitcoin von Bitwise einem TradFi Unternehen das Spot BTC ETFs anbieten will: [Tweet](https://x.com/BitcoinMagazine/status/1736766216025374764?s=20)
 10. **Shimmer Promote**: [Shimmer tweetet](https://x.com/shimmernet/status/1737003640534036920?s=20) über eine neue Campagne auf tide
 11. **Crypto Adaption**: Artikel: [SEC-Bedenken ausgeräumt BlackRock macht großen Schritt in Richtung Bitcoin ETF](https://www.btc-echo.de/schlagzeilen/bitcoin-etf-blackrock-fast-am-ziel-176234/)
+12. **Crypto Adaption**: Auf Bitpanda kann man jetzt mit PayPal Geld einzahlen: [Tweet](https://x.com/Bitpanda_global/status/1737054158748786755?s=20)
+13. **Allg. News**: Ziemlich negativer Artikel von der Sueddeutschen über X: [Verfahren gegen X: Musk bekommt, was Musk verdient](https://www.sueddeutsche.de/wirtschaft/x-twitter-dsa-verfahren-breton-1.6321463?utm_source=Twitter&utm_medium=twitterbot&utm_campaign=6321463)
+14. 
  
