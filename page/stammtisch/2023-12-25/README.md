@@ -13,5 +13,6 @@
 11. **Crypto Adaption**: Artikel: [SEC-Bedenken ausgeräumt BlackRock macht großen Schritt in Richtung Bitcoin ETF](https://www.btc-echo.de/schlagzeilen/bitcoin-etf-blackrock-fast-am-ziel-176234/)
 12. **Crypto Adaption**: Auf Bitpanda kann man jetzt mit PayPal Geld einzahlen: [Tweet](https://x.com/Bitpanda_global/status/1737054158748786755?s=20)
 13. **Allg. News**: Ziemlich negativer Artikel von der Sueddeutschen über X: [Verfahren gegen X: Musk bekommt, was Musk verdient](https://www.sueddeutsche.de/wirtschaft/x-twitter-dsa-verfahren-breton-1.6321463?utm_source=Twitter&utm_medium=twitterbot&utm_campaign=6321463)
-14. 
+14. **Shimmer DEX**: [Omni_Hub tweetet](https://x.com/omni_hub/status/1736351234854944985?s=20) darüber, dass sie Shimmer EVM und die LayerZero Bridge integriert haben
+15. 
  
