@@ -15,5 +15,5 @@
 13. **Allg. News**: Ziemlich negativer Artikel von der Sueddeutschen über X: [Verfahren gegen X: Musk bekommt, was Musk verdient](https://www.sueddeutsche.de/wirtschaft/x-twitter-dsa-verfahren-breton-1.6321463?utm_source=Twitter&utm_medium=twitterbot&utm_campaign=6321463)
 14. **Shimmer DEX**: [Omni_Hub tweetet](https://x.com/omni_hub/status/1736351234854944985?s=20) darüber, dass sie Shimmer EVM und die LayerZero Bridge integriert haben
 15. **Crypto Adaption**: [Bukele tweetet](https://x.com/nayibbukele/status/1733242448179073284?s=20) ein Promo-Video von Bitcoin in El Salvador
-16. 
+16. *Shimmer DeFi Learn**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1737126030903545870?s=20) über ihren Blogpost: [Crossing Horizons: The Significance of ShimmerEVM’s Bridge](https://medium.com/@NakamaLabs/crossing-horizons-the-significance-of-shimmerevms-bridge-7202446e1494)
  
