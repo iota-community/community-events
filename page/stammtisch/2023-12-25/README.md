@@ -1,7 +1,7 @@
 ## Stammtischthemen für Montag, den 25.12.2023
 
 1. **IOTA Quicktakes**: Die [IF tweetet]() über die [IOTA Quicktakes]()
-2. **IOTA 2.0 Advent**: [Tweet von Tag 19](https://x.com/NaitsabesMue/status/1737003111959375922?s=20) über "Warum Mana und keine IOTA Inflation?"
+2. **IOTA 2.0 Advent**: [Tweet von Tag 19](https://x.com/NaitsabesMue/status/1737003111959375922?s=20) über "Warum Mana und keine IOTA Inflation?"; [Tweet von Tag 20](https://x.com/NaitsabesMue/status/1737376930964418920?s=20) über Mana und die 3:2:1 Formel
 3. **IOTA 2.0 Artikel**: Die [IF tweetet](https://x.com/iota/status/1736929348098171138?s=20) den Guestpost auf CoinmarketCap: [IOTA 2.0: All You Need to Know](https://coinmarketcap.com/community/articles/657c1c5f0239a0746aa129c1/)
 4. **Shimmer Ökosystem**: Der Alpha Test von GroupFi startet am 20.12.: [Tweet](https://x.com/groupfi_ai/status/1736935260397666691?s=20)
 5. **Shimmer DEX**: [SwapLine tweetet](https://x.com/SwaplineDEX/status/1736748148381691968?s=20), dass sie live auf der ShimmerEVM sind
@@ -15,5 +15,9 @@
 13. **Allg. News**: Ziemlich negativer Artikel von der Sueddeutschen über X: [Verfahren gegen X: Musk bekommt, was Musk verdient](https://www.sueddeutsche.de/wirtschaft/x-twitter-dsa-verfahren-breton-1.6321463?utm_source=Twitter&utm_medium=twitterbot&utm_campaign=6321463)
 14. **Shimmer DEX**: [Omni_Hub tweetet](https://x.com/omni_hub/status/1736351234854944985?s=20) darüber, dass sie Shimmer EVM und die LayerZero Bridge integriert haben
 15. **Crypto Adaption**: [Bukele tweetet](https://x.com/nayibbukele/status/1733242448179073284?s=20) ein Promo-Video von Bitcoin in El Salvador
-16. *Shimmer DeFi Learn**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1737126030903545870?s=20) über ihren Blogpost: [Crossing Horizons: The Significance of ShimmerEVM’s Bridge](https://medium.com/@NakamaLabs/crossing-horizons-the-significance-of-shimmerevms-bridge-7202446e1494)
+16. **Shimmer DeFi Learn**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1737126030903545870?s=20) über ihren Blogpost: [Crossing Horizons: The Significance of ShimmerEVM’s Bridge](https://medium.com/@NakamaLabs/crossing-horizons-the-significance-of-shimmerevms-bridge-7202446e1494)
+17. **IOTA Ökosystem**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1737367242466005102?s=20) über [Spyce_5 implements Build_5 API...](https://spyce5.com/apis/spyce-5-integrates-build-5-api-a-new-era-of-blockchain-development/)
+18. **Shimmer Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1737397440620159382?s=20) über ihr [Gamepaper](https://docs.dark-mythos.com/)
+19. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1737396008168902946?s=20) darüber, dass $LUM ein Omnichain Fungible Tokens (OFTs) von LayerZero Token sein wird, der immer neu gemintet wird in der jeweiligen chain und auf der alten gegeburnt (nehme ich an)
+20. **Shimmer Promote**: Auf [iotabee.com](https://iotabee.com/) kann man was gewinnen: [Tweet](https://x.com/iotabee/status/1737467731698491871?s=20)
  
