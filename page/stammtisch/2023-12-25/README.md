@@ -20,4 +20,5 @@
 18. **Shimmer Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1737397440620159382?s=20) über ihr [Gamepaper](https://docs.dark-mythos.com/)
 19. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1737396008168902946?s=20) darüber, dass $LUM ein Omnichain Fungible Tokens (OFTs) von LayerZero Token sein wird, der immer neu gemintet wird in der jeweiligen chain und auf der alten gegeburnt (nehme ich an)
 20. **Shimmer Promote**: Auf [iotabee.com](https://iotabee.com/) kann man was gewinnen: [Tweet](https://x.com/iotabee/status/1737467731698491871?s=20)
+21. **Shimmer Ökosystem**: Neues von den [Groupfi](https://twitter.com/groupfi_ai) Alpha Testern: [Tweet von vrom](https://x.com/Vrom14286662/status/1737484913304088907?s=20)
  
