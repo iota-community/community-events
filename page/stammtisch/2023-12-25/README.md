@@ -21,4 +21,8 @@
 19. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1737396008168902946?s=20) darüber, dass $LUM ein Omnichain Fungible Tokens (OFTs) von LayerZero Token sein wird, der immer neu gemintet wird in der jeweiligen chain und auf der alten gegeburnt (nehme ich an)
 20. **Shimmer Promote**: Auf [iotabee.com](https://iotabee.com/) kann man was gewinnen: [Tweet](https://x.com/iotabee/status/1737467731698491871?s=20)
 21. **Shimmer Ökosystem**: Neues von den [Groupfi](https://twitter.com/groupfi_ai) Alpha Testern: [Tweet von vrom](https://x.com/Vrom14286662/status/1737484913304088907?s=20)
+22. **Allg. News**: Artikel: [Von Vorwahlen ausgeschlossen - Was das Colorado-Urteil für Donald Trump bedeutet](https://www.spiegel.de/ausland/donald-trump-was-bedeutet-das-colorado-urteil-fuer-den-ex-praesidenten-a-39acee22-0990-4349-9703-c54e1e514aff#ref=rss)
+23. **Crypto Adaption**: Neues 2. Werbevideo von Bitwise zu ihrem Bitcoin Spot ETFs: [Tweet](https://x.com/BitwiseInvest/status/1737564629562245486?s=20)
+24. **Crypto Drama**: [Tweet von Ledger](https://x.com/Ledger/status/1737457365526470665?s=20) die in Zukunft "Blind Signing" disablen wollen
+25. **Crypto Drama**: AVAX hat zu hohe Transaktions Gebühren und [Sebastian Müller tweetet](https://x.com/NaitsabesMue/status/1737547857513578672?s=20) über das Problem von Congestion das zu Fee-Increase führt und das bei IOTA besser gelöst wird...
  
