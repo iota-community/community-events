@@ -34,4 +34,6 @@
 32. **IOTA NFT Ökosystem**: [IotaOrigin tweetet](https://x.com/origin_iota/status/1737783759544504608?s=20) darüber, dass Burn to Mint live ist auf ihrem [SMR NFT Launchpad](https://launchpad.snippool.xyz/collection/0x93A4Ca164a1B35E70280579a038e4f81f2dc6777?tab=burnToMint)
 33. **IOTA Event**: Es gab ein Governement Call im iota Discord: [Tweet](https://x.com/shimmernet/status/1737548428685504586?s=20)
 34. **IOTA Dev**: [IOTA SDK.NET tweetet](https://x.com/iotawalletnet/status/1737736804563026259?s=20) über [IotaSDK.NET (This project aims to port IOTA's official SDK, Iota SDK to C# .NET, by leveraging its official native bindings, Iota-SDK-native-bindings)](This project aims to port IOTA's official SDK, Iota SDK to C# .NET, by leveraging its official native bindings, Iota-SDK-native-bindings.)
+35. **Shimmer NFT Ökosystem**: [Epoch Zero tweetet](https://x.com/Epoch_0/status/1737577687273599150?s=20) darüber, dass es wohl bald eine Kauffunktion bei [nft.epochzero.io](https://nft.epochzero.io/) geben wird; Hier noch ein [Tweet](https://x.com/Epoch_0/status/1735526097318465986?s=20)
+36. **IOTA DeFi Ökosystem**: [TangleSwap](https://x.com/TangleSwap/status/1737515060132499777?s=20) über ihren zweiten Anlauf für den Fairlaunch
  
