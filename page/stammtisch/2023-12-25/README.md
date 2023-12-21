@@ -31,4 +31,7 @@
 29. **IOTA Promote**: [kowei tweetet](https://x.com/kowei1995/status/1737782705113485744?s=20), dass IOTA unter der Kategroie dePIN (Decentralized Physical Infrastructure) gelistet ist auf [coingecko.com/de/categories/depin](https://www.coingecko.com/de/categories/depin)
 30. **Shimmer Ökosystem**: [Shimmer tweetet](https://x.com/ShimmerSeaDEX/status/1737790019899912494?s=20) über ihre Key Performance Indicators
 31. **IOTA Ökosystem**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1737744847811850654?s=20) über [How to build dApps faster with web3 APIs](https://x.com/SPYCE_5/status/1737744847811850654?s=20)
+32. **IOTA NFT Ökosystem**: [IotaOrigin tweetet](https://x.com/origin_iota/status/1737783759544504608?s=20) darüber, dass Burn to Mint live ist auf ihrem [SMR NFT Launchpad](https://launchpad.snippool.xyz/collection/0x93A4Ca164a1B35E70280579a038e4f81f2dc6777?tab=burnToMint)
+33. **IOTA Event**: Es gab ein Governement Call im iota Discord: [Tweet](https://x.com/shimmernet/status/1737548428685504586?s=20)
+34. 
  
