@@ -1,7 +1,7 @@
 ## Stammtischthemen für Montag, den 25.12.2023
 
 1. **IOTA Quicktakes**: Die [IF tweetet]() über die [IOTA Quicktakes]()
-2. **IOTA 2.0 Advent**: [Tweet von Tag 19](https://x.com/NaitsabesMue/status/1737003111959375922?s=20) über "Warum Mana und keine IOTA Inflation?"; [Tweet von Tag 20](https://x.com/NaitsabesMue/status/1737376930964418920?s=20) über Mana und die 3:2:1 Formel
+2. **IOTA 2.0 Advent**: [Tweet von Tag 19](https://x.com/NaitsabesMue/status/1737003111959375922?s=20) über "Warum Mana und keine IOTA Inflation?"; [Tweet von Tag 20](https://x.com/NaitsabesMue/status/1737376930964418920?s=20) über Mana und die 3:2:1 Formel; [Tweet an Tag 21](https://x.com/NaitsabesMue/status/1737739819621507092?s=20) über slashing
 3. **IOTA 2.0 Artikel**: Die [IF tweetet](https://x.com/iota/status/1736929348098171138?s=20) den Guestpost auf CoinmarketCap: [IOTA 2.0: All You Need to Know](https://coinmarketcap.com/community/articles/657c1c5f0239a0746aa129c1/)
 4. **Shimmer Ökosystem**: Der Alpha Test von GroupFi startet am 20.12.: [Tweet](https://x.com/groupfi_ai/status/1736935260397666691?s=20)
 5. **Shimmer DEX**: [SwapLine tweetet](https://x.com/SwaplineDEX/status/1736748148381691968?s=20), dass sie live auf der ShimmerEVM sind
