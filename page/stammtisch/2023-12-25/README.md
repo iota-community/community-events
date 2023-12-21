@@ -28,4 +28,6 @@
 26. **IOTA Artikel**: [iotaread tweetet](https://x.com/iotaread/status/1737683945431662763?s=20) über ihren Artikel: [IOTA's Technological Leap Forward: Empowering East African Trade with TLIP](https://iotaread.com/iotas-technological-leap-forward-empowering-east-african-trade-with-tlip)
 27. **Shimmer Bridge**: Auf [ShimmerSea.finance](https://shimmersea.finance/swap) und auf [swapline.com](https://swapline.com/home) tauchen die ersten Layer Zero Coins auf... Liquidität ist aber noch sehr gering, also VORSICHT beim Swapen!
 28. **Allg. News**: X war am Donnerstag kurz down: [Globaler Ausfall bei X – das wissen wir](https://www.watson.ch/digital/x%20-%20twitter/886870281-globaler-ausfall-bei-x-das-wissen-wir)
+29. **IOTA Promote**: [kowei tweetet](https://x.com/kowei1995/status/1737782705113485744?s=20), dass IOTA unter der Kategroie dePIN (Decentralized Physical Infrastructure) gelistet ist auf [coingecko.com/de/categories/depin](https://www.coingecko.com/de/categories/depin)
+30. **Shimmer Ökosystem**: [Shimmer tweetet](https://x.com/ShimmerSeaDEX/status/1737790019899912494?s=20) über ihre Key Performance Indicators
  
