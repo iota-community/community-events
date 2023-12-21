@@ -24,5 +24,8 @@
 22. **Allg. News**: Artikel: [Von Vorwahlen ausgeschlossen - Was das Colorado-Urteil für Donald Trump bedeutet](https://www.spiegel.de/ausland/donald-trump-was-bedeutet-das-colorado-urteil-fuer-den-ex-praesidenten-a-39acee22-0990-4349-9703-c54e1e514aff#ref=rss)
 23. **Crypto Adaption**: Neues 2. Werbevideo von Bitwise zu ihrem Bitcoin Spot ETFs: [Tweet](https://x.com/BitwiseInvest/status/1737564629562245486?s=20)
 24. **Crypto Drama**: [Tweet von Ledger](https://x.com/Ledger/status/1737457365526470665?s=20) die in Zukunft "Blind Signing" disablen wollen
-25. **Crypto Drama**: AVAX hat zu hohe Transaktions Gebühren und [Sebastian Müller tweetet](https://x.com/NaitsabesMue/status/1737547857513578672?s=20) über das Problem von Congestion das zu Fee-Increase führt und das bei IOTA besser gelöst wird...
+25. **Crypto Drama**: AVAX hat zu hohe Transaktions Gebühren und [Sebastian Müller tweetet](https://x.com/NaitsabesMue/status/1737547857513578672?s=20) über das Problem, das IOTA mit Mana besser lösen will...
+26. **IOTA Artikel**: [iotaread tweetet](https://x.com/iotaread/status/1737683945431662763?s=20) über ihren Artikel: [IOTA's Technological Leap Forward: Empowering East African Trade with TLIP](https://iotaread.com/iotas-technological-leap-forward-empowering-east-african-trade-with-tlip)
+27. **Shimmer Bridge**: Auf [ShimmerSea.finance](https://shimmersea.finance/swap) und auf [swapline.com](https://swapline.com/home) tauchen die ersten Layer Zero Coins auf... Liquidität ist aber noch sehr gering, also VORSICHT beim Swapen!
+28. **Allg. News**: X war am Donnerstag kurz down: [Globaler Ausfall bei X – das wissen wir](https://www.watson.ch/digital/x%20-%20twitter/886870281-globaler-ausfall-bei-x-das-wissen-wir)
  
