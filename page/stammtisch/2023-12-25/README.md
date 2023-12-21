@@ -30,4 +30,5 @@
 28. **Allg. News**: X war am Donnerstag kurz down: [Globaler Ausfall bei X – das wissen wir](https://www.watson.ch/digital/x%20-%20twitter/886870281-globaler-ausfall-bei-x-das-wissen-wir)
 29. **IOTA Promote**: [kowei tweetet](https://x.com/kowei1995/status/1737782705113485744?s=20), dass IOTA unter der Kategroie dePIN (Decentralized Physical Infrastructure) gelistet ist auf [coingecko.com/de/categories/depin](https://www.coingecko.com/de/categories/depin)
 30. **Shimmer Ökosystem**: [Shimmer tweetet](https://x.com/ShimmerSeaDEX/status/1737790019899912494?s=20) über ihre Key Performance Indicators
+31. **IOTA Ökosystem**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1737744847811850654?s=20) über [How to build dApps faster with web3 APIs](https://x.com/SPYCE_5/status/1737744847811850654?s=20)
  
