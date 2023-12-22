@@ -1,7 +1,7 @@
 ## Stammtischthemen für Montag, den 25.12.2023
 
 1. **IOTA Quicktakes**: Die [IF tweetet]() über die [IOTA Quicktakes]()
-2. **IOTA 2.0 Advent**: [Tweet von Tag 19](https://x.com/NaitsabesMue/status/1737003111959375922?s=20) über "Warum Mana und keine IOTA Inflation?"; [Tweet von Tag 20](https://x.com/NaitsabesMue/status/1737376930964418920?s=20) über Mana und die 3:2:1 Formel; [Tweet an Tag 21](https://x.com/NaitsabesMue/status/1737739819621507092?s=20) über slashing
+2. **IOTA 2.0 Advent**: [Tweet von Tag 19](https://x.com/NaitsabesMue/status/1737003111959375922?s=20) über "Warum Mana und keine IOTA Inflation?"; [Tweet von Tag 20](https://x.com/NaitsabesMue/status/1737376930964418920?s=20) über Mana und die 3:2:1 Formel; [Tweet an Tag 21](https://x.com/NaitsabesMue/status/1737739819621507092?s=20) über slashing; [Tweet von Tag 21](https://x.com/NaitsabesMue/status/1738102291322790038?s=20) über Mana Decay
 3. **IOTA 2.0 Artikel**: Die [IF tweetet](https://x.com/iota/status/1736929348098171138?s=20) den Guestpost auf CoinmarketCap: [IOTA 2.0: All You Need to Know](https://coinmarketcap.com/community/articles/657c1c5f0239a0746aa129c1/)
 4. **Shimmer Ökosystem**: Der Alpha Test von GroupFi startet am 20.12.: [Tweet](https://x.com/groupfi_ai/status/1736935260397666691?s=20)
 5. **Shimmer DEX**: [SwapLine tweetet](https://x.com/SwaplineDEX/status/1736748148381691968?s=20), dass sie live auf der ShimmerEVM sind
@@ -35,5 +35,8 @@
 33. **IOTA Event**: Es gab ein Governement Call im iota Discord: [Tweet](https://x.com/shimmernet/status/1737548428685504586?s=20)
 34. **IOTA Dev**: [IOTA SDK.NET tweetet](https://x.com/iotawalletnet/status/1737736804563026259?s=20) über [IotaSDK.NET (This project aims to port IOTA's official SDK, Iota SDK to C# .NET, by leveraging its official native bindings, Iota-SDK-native-bindings)](This project aims to port IOTA's official SDK, Iota SDK to C# .NET, by leveraging its official native bindings, Iota-SDK-native-bindings.)
 35. **Shimmer NFT Ökosystem**: [Epoch Zero tweetet](https://x.com/Epoch_0/status/1737577687273599150?s=20) darüber, dass es wohl bald eine Kauffunktion bei [nft.epochzero.io](https://nft.epochzero.io/) geben wird; Hier noch ein [Tweet](https://x.com/Epoch_0/status/1735526097318465986?s=20)
-36. **IOTA DeFi Ökosystem**: [TangleSwap](https://x.com/TangleSwap/status/1737515060132499777?s=20) über ihren zweiten Anlauf für den Fairlaunch
- 
+36. **IOTA DeFi Ökosystem**: [TangleSwap](https://x.com/TangleSwap/status/1737515060132499777?s=20) über ihren zweiten Anlauf für den Fairlaunch; Auf Cardano ist er auch gut gestartet: [Tweet](https://x.com/TangleSwap/status/1738242410956882379?s=20)
+37. **IOTA Ökosystem**: Ein [Thread von Holger Köther](https://x.com/HolgerKoether/status/1738192801538408688?s=20) darüber, dass [Spyce_5](https://twitter.com/SPYCE_5) jetzt beliebige (permissioned oder permissionless) interoperable App-Chains anbietet
+38. **Crypto Adaption**: Am Freitag kam es zu einem Telefonat mit allen Spot BTC ETF Anwärtern: [Tweet](https://x.com/hoss_crypto/status/1737936229146980545?s=20)
+39. **Tangle Talk**: Am Donnerstag gab es NFT-Geschenke in der Tange Talk Runde: [Tweet](https://x.com/tangle_talk/status/1737894417950802316?s=20)
+40. **Shimmer NFT Ökosystem**: Das Fusen ist online von Infernal Uprising: [Tweet](https://x.com/InfernalNFTs/status/1738243002743586979?s=20)
