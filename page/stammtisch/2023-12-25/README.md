@@ -1,8 +1,8 @@
 ## Stammtischthemen für Montag, den 25.12.2023
 
-1. **IOTA Quicktakes**: Die [IF tweetet]() über die [IOTA Quicktakes 18.12.2023: Fireblocks supports #ShimmerEVM, Rewards Bunny joins Touchpoint & more!](https://www.youtube.com/watch?v=fft8Nmxdyu0)
-2. **IOTA 2.0 Advent**: [Tweet von Tag 19](https://x.com/NaitsabesMue/status/1737003111959375922?s=20) über "Warum Mana und keine IOTA Inflation?"; [Tweet von Tag 20](https://x.com/NaitsabesMue/status/1737376930964418920?s=20) über Mana und die 3:2:1 Formel; [Tweet an Tag 21](https://x.com/NaitsabesMue/status/1737739819621507092?s=20) über slashing; [Tweet von Tag 21](https://x.com/NaitsabesMue/status/1738102291322790038?s=20) über Mana Decay
-3. **IOTA 2.0 Artikel**: Die [IF tweetet](https://x.com/iota/status/1736929348098171138?s=20) den Guestpost auf CoinmarketCap: [IOTA 2.0: All You Need to Know](https://coinmarketcap.com/community/articles/657c1c5f0239a0746aa129c1/)
+1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1736687813758746791?s=20) über die [IOTA Quicktakes 18.12.2023: Fireblocks supports #ShimmerEVM, Rewards Bunny joins Touchpoint & more!](https://www.youtube.com/watch?v=fft8Nmxdyu0)
+2. **IOTA 2.0 Advent**: [Tweet von Tag 19](https://x.com/NaitsabesMue/status/1737003111959375922?s=20) über "Warum Mana und keine IOTA Inflation?"; [Tweet von Tag 20](https://x.com/NaitsabesMue/status/1737376930964418920?s=20) über Mana und die 3:2:1 Formel; [Tweet an Tag 21](https://x.com/NaitsabesMue/status/1737739819621507092?s=20) über slashing; [Tweet von Tag 22](https://x.com/NaitsabesMue/status/1738102291322790038?s=20) über Mana Decay; [Tweet von Tag 23](https://x.com/NaitsabesMue/status/1738459283396632701?s=20) über andere Usecases von Mana
+3. **IOTA 2.0 Artikel**: Die [IF tweetet](https://x.com/iota/status/1736929348098171138?s=20) über den Guestpost auf CoinmarketCap: [IOTA 2.0: All You Need to Know](https://coinmarketcap.com/community/articles/657c1c5f0239a0746aa129c1/)
 4. **Shimmer Ökosystem**: Der Alpha Test von GroupFi startet am 20.12.: [Tweet](https://x.com/groupfi_ai/status/1736935260397666691?s=20)
 5. **Shimmer DEX**: [SwapLine tweetet](https://x.com/SwaplineDEX/status/1736748148381691968?s=20), dass sie live auf der ShimmerEVM sind
 6. **IOTA Audio**: Am Montag war ein [X-Spaces-Event von Blockbytes](https://x.com/blockbytescom/status/1736756574343839782?s=20)
@@ -29,7 +29,7 @@
 27. **Shimmer Bridge**: Auf [ShimmerSea.finance](https://shimmersea.finance/swap) und auf [swapline.com](https://swapline.com/home) tauchen die ersten Layer Zero Coins auf... Liquidität ist aber noch sehr gering, also VORSICHT beim Swapen!
 28. **Allg. News**: X war am Donnerstag kurz down: [Globaler Ausfall bei X – das wissen wir](https://www.watson.ch/digital/x%20-%20twitter/886870281-globaler-ausfall-bei-x-das-wissen-wir)
 29. **IOTA Promote**: [kowei tweetet](https://x.com/kowei1995/status/1737782705113485744?s=20), dass IOTA unter der Kategroie dePIN (Decentralized Physical Infrastructure) gelistet ist auf [coingecko.com/de/categories/depin](https://www.coingecko.com/de/categories/depin)
-30. **Shimmer Ökosystem**: [Shimmer tweetet](https://x.com/ShimmerSeaDEX/status/1737790019899912494?s=20) über ihre Key Performance Indicators
+30. **Shimmer Ökosystem**: [Shimmer tweetet](https://x.com/ShimmerSeaDEX/status/1737790019899912494?s=20) über ihre Key Performance Indicators; Hier noch ein weiterer [Tweet](https://x.com/ShimmerSeaDEX/status/1738107110720962945?s=20) dazu
 31. **IOTA Ökosystem**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1737744847811850654?s=20) über [How to build dApps faster with web3 APIs](https://x.com/SPYCE_5/status/1737744847811850654?s=20)
 32. **IOTA NFT Ökosystem**: [IotaOrigin tweetet](https://x.com/origin_iota/status/1737783759544504608?s=20) darüber, dass Burn to Mint live ist auf ihrem [SMR NFT Launchpad](https://launchpad.snippool.xyz/collection/0x93A4Ca164a1B35E70280579a038e4f81f2dc6777?tab=burnToMint)
 33. **IOTA Event**: Es gab ein Governement Call im iota Discord: [Tweet](https://x.com/shimmernet/status/1737548428685504586?s=20)
@@ -41,3 +41,6 @@
 39. **Tangle Talk**: Am Donnerstag gab es NFT-Geschenke in der Tange Talk Runde: [Tweet](https://x.com/tangle_talk/status/1737894417950802316?s=20)
 40. **Shimmer NFT Ökosystem**: Das Fusen ist online von Infernal Uprising: [Tweet](https://x.com/InfernalNFTs/status/1738243002743586979?s=20)
 41. **IOTA Ökosystem**: [Impierce tweetet](https://x.com/ImpierceTech/status/1738197622102405479?s=20) über ihren Blogpost: [A year in Review for Impierce Technologies](https://medium.com/@jelle.millenaar/a-year-in-review-for-impierce-technologies-ededd4452db4)
+42. **IOTA NFT Ökosystem**: [Epoch Zero tweetet](https://x.com/Epoch_0/status/1738375269222621647?s=20) über ihr Update der Webseite: [https://nft.epochzero.io/](https://nft.epochzero.io/); Man kann dort jetzt auch ShimmerSea NFTs kaufen und verkaufen
+43. **Crypto Adaption**: Artikel: [Bitcoin als Zahlungsmittel: Argentinische Verordnung erlaubt volle Vertragsfreiheit!](https://www.blocktrainer.de/bitcoin-als-zahlungsmittel-argentinische-verordnung-erlaubt-volle-vertragsfreiheit/)
+44. 
