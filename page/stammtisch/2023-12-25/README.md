@@ -43,4 +43,6 @@
 41. **IOTA Ökosystem**: [Impierce tweetet](https://x.com/ImpierceTech/status/1738197622102405479?s=20) über ihren Blogpost: [A year in Review for Impierce Technologies](https://medium.com/@jelle.millenaar/a-year-in-review-for-impierce-technologies-ededd4452db4)
 42. **IOTA NFT Ökosystem**: [Epoch Zero tweetet](https://x.com/Epoch_0/status/1738375269222621647?s=20) über ihr Update der Webseite: [https://nft.epochzero.io/](https://nft.epochzero.io/); Man kann dort jetzt auch ShimmerSea NFTs kaufen und verkaufen
 43. **Crypto Adaption**: Artikel: [Bitcoin als Zahlungsmittel: Argentinische Verordnung erlaubt volle Vertragsfreiheit!](https://www.blocktrainer.de/bitcoin-als-zahlungsmittel-argentinische-verordnung-erlaubt-volle-vertragsfreiheit/)
-44. 
+44. **IOTA Science**: Paper: [zk-DASTARK: A quantum-resistant, data authentication and zero-knowledge proof scheme for protecting data feed to smart contracts](https://www.preprints.org/manuscript/202312.1444/v1)
+45. **IOTA Science**: Paper: [P-IOTA: A Cloud-Based Geographically Distributed Threat Alert System That Leverages P4 and IOTA](https://www.mdpi.com/1424-8220/23/6/2955)
+46. 
