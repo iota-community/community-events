@@ -50,3 +50,6 @@
 48. **Crypto Pump**: SOL ist in letzter Zeit besonders stark gestiegen und jetzt schon auf Platz 3 hinter ETH auf CoinMarketCap und hat vom DeFi Volumen/pro Tag teilweise sogar ETH überholt
 49. **IOTA Ökosystem**: [IotaOrigin tweetet](), dass sie den Soon Token forken wollen und verlinken den Blogpost: [Forking $SOON Token -> CYBER](https://medium.com/@iotaorigin/forking-soon-token-e2dbae7114bc)
 50. **IOTA Dev**: [IOTA SDK.net tweetet](https://x.com/iotawalletnet/status/1738835066640589091?s=20) über ihr Streben danach ".NET Standard bindings to IOTA SDK" zu entwickeln: [This project aims to port IOTA's official SDK, Iota SDK to C# .NET, by leveraging its official native bindings, Iota-SDK-native-bindings.Now .Net developers can have a chance trying out IOTA/Shimmer as well!](https://github.com/IOTA-NET/IotaSDK.NET)
+51. **IOTA Youtube**: von Spec Weekly: [IOTA HEROES: GameFi on Shimmer EVM](https://www.youtube.com/watch?v=KrHt2wPuvpk)
+52. **IOTA Youtube**: von Moon333: [Don't Miss The Biggest Jump Of IOTA MIOTA Crypto Coin In 2024](https://www.youtube.com/watch?v=1vTFyawUQVw)
+53. **IOTA Youtube**: von IOTA 2.0: [Mastering IOTA 2.0 Tokenomics like a Pro!](https://www.youtube.com/watch?v=jhlcFZbkK6o)
