@@ -45,4 +45,4 @@
 43. **Crypto Adaption**: Artikel: [Bitcoin als Zahlungsmittel: Argentinische Verordnung erlaubt volle Vertragsfreiheit!](https://www.blocktrainer.de/bitcoin-als-zahlungsmittel-argentinische-verordnung-erlaubt-volle-vertragsfreiheit/)
 44. **IOTA Science**: Paper: [zk-DASTARK: A quantum-resistant, data authentication and zero-knowledge proof scheme for protecting data feed to smart contracts](https://www.preprints.org/manuscript/202312.1444/v1)
 45. **IOTA Science**: Paper: [P-IOTA: A Cloud-Based Geographically Distributed Threat Alert System That Leverages P4 and IOTA](https://www.mdpi.com/1424-8220/23/6/2955)
-46. 
+46. **IOTA Wochenrückblick**: [IOTA-Talk Wocherückblick](https://www.iota-talk.com/index.php?article/352-wochenr%C3%BCckblick-vom-17-bis-23-dezember-2023/)
