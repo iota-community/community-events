@@ -2,4 +2,4 @@
 
 1. **IOTA Quicktakes**: Es gab keine IOTA Quicktakes diese Woche
 2. **IOTA Ökosystem**: [Crypto Gin tweetet](https://x.com/Crypto_Gin21/status/1739302058874785926?s=20) über Pay with IOTA auf [https://crypto-gin.de/](https://crypto-gin.de/), ermöglicht durch [MosquitoPay](https://twitter.com/MosquitoPay)
-3. 
+3. **IOTA Ökosystem**: [Tweet mit Videosequenz](https://x.com/Mrniktomoose/status/1739665523909050641?s=20) von einem Spiel von [Magic Meme Money](https://twitter.com/Magic_MemeMoney)
