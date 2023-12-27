@@ -10,3 +10,6 @@
 8. **IOTA Ökosystem**: [Adri Wischman postet](https://www.linkedin.com/posts/adri-wischmann_blockchain-dlt-iota-activity-7145003571523055616-NS3o/) auf LinkedIn über Multiknip und ihre Nominierung als "one of t𝗵𝗲 𝗺𝗼𝘀𝘁 𝗲𝘅𝗰𝗶𝘁𝗶𝗻𝗴 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗳𝗼𝗿 𝟮𝟬𝟮𝟰" in the "𝗣𝘂𝗯𝗹𝗶𝗰 𝗦𝗲𝗰𝘁𝗼𝗿 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗼𝗻𝘀" category von INATBA
 9. **IOTA Artikel**: von CoinDesk: [IOTA’s ShimmerEVM Bolsters Onboards Cross-Chain Capabilities With LayerZero's Technology](https://www.coindesk.com/tech/2023/12/27/iotas-shimmerevm-bolsters-onboards-cross-chain-capabilities-with-layerzeros-technology/)
 10. **Shimmer Ökosystem**: Scheinbar war die Bridge gleich mal überlastet: [Tweet von id.iota](https://x.com/id_iota/status/1740036775299449203?s=20)
+11. **Crypto Adaption**: Microstrategie hat schon wieder für $615 Millionen BTC gekauft: [Tweet](https://x.com/saylor/status/1739995636953485547?s=20)
+12. **Crypto Adaption**: Donald Trump verkauft seine durch den NFT Verkauf eingesammelten ETH: [Tweet](https://x.com/ArkhamIntel/status/1740052834949972155?s=20)
+13. **IOTA Youtube**: von Crypto Financial Empire: [Shimmer: Revolutionizing Tokenization on the IOTA Network](https://www.youtube.com/watch?v=PEAbJVLUZMk)
