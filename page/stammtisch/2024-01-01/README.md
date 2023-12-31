@@ -32,5 +32,6 @@
 30. **Shimmer Artikel**: [CoinDesk mit 3 mio followern tweetet](https://x.com/CoinDesk/status/1741016032616071660?s=20) über [IOTA’s ShimmerEVM Bolsters Onboards Cross-Chain Capabilities With LayerZero's Technology](https://www.coindesk.com/tech/2023/12/27/iotas-shimmerevm-bolsters-onboards-cross-chain-capabilities-with-layerzeros-technology/)
 31. **Crypto Adaption**: Artikel: [ETF-News: BlackRock arbeitet mit Bitcoin-Feind JPMorgan zusammen und vieles mehr](https://www.blocktrainer.de/bitcoin-etf-news-blackrock-jpmorgan/)
 32. **Shimmer Ökosystem**: [IotaOrigin tweetet](https://x.com/origin_iota/status/1741046253390061589?s=20) über den $Cyper Fair Launch
-33. **IOTA Adaption**: [Dell Edge tweetet](https://x.com/Dell_Edge/status/1741127033147494667?s=20) über das Projekt Alvarium mit #IOTA inside
-34. 
+33. **IOTA Adaption**: [Dell Edge tweetet](https://x.com/Dell_Edge/status/1741127033147494667?s=20) über das Projekt Alvarium mit #IOTA inside; Auch die [IF retweetet](https://x.com/iota/status/1741409529969959104?s=20) das
+34. **Crypto Evolution**: Es gab ein [Tweet von Vitalik Buterin](https://twitter.com/VitalikButerin/status/1741190491578810445) bezüglich einer groben ETH Roadmap (ohne ETAs): [Tweet](https://x.com/WatcherGuru/status/1741193419039404340?s=20)
+35. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/354-wochenr%C3%BCckblick-vom-24-bis-30-dezember-2023-guten-rutsch-und-auf-wiedersehen-im/)
