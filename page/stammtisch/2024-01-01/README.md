@@ -1,7 +1,7 @@
 ## Stammtischthemen für Montag, den 01.01.2024
 
 1. **IOTA Quicktakes**: Es gab keine IOTA Quicktakes diese Woche
-2. **IOTA Ökosystem**: [Crypto Gin tweetet](https://x.com/Crypto_Gin21/status/1739302058874785926?s=20) über Pay with IOTA auf [https://crypto-gin.de/](https://crypto-gin.de/), ermöglicht durch [MosquitoPay](https://twitter.com/MosquitoPay)
+2. **IOTA Ökosystem**: [Crypto Gin tweetet](https://x.com/Crypto_Gin21/status/1739302058874785926?s=20) über Pay with IOTA auf [crypto-gin.de](https://crypto-gin.de/), ermöglicht durch [MosquitoPay](https://twitter.com/MosquitoPay)
 3. **IOTA Ökosystem**: [Tweet mit Videosequenz](https://x.com/Mrniktomoose/status/1739665523909050641?s=20) von einem Spiel von [Magic Meme Money](https://twitter.com/Magic_MemeMoney)
 4. **Shimmer DeFi Ökosystem**: [Shimmer tweetet](https://x.com/shimmernet/status/1739980832696087023?s=20) über die [https://shimmerbridge.org/bridge](https://shimmerbridge.org/bridge) und den Blogpost: [LayerZero Integrates with ShimmerEVM - Bridging the Cross-Chain Realms](https://blog.shimmer.network/layerzero-integrates-with-shimmerevm/); [Doms Tweet](https://x.com/DomSchiener/status/1740002518711541895?s=20) dazu
 5. **Shimmer Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1740012950461526089?s=20), dass sie die Layer Zero Bridge implementiert haben
@@ -13,3 +13,24 @@
 11. **Crypto Adaption**: Microstrategie hat schon wieder für $615 Millionen BTC gekauft: [Tweet](https://x.com/saylor/status/1739995636953485547?s=20)
 12. **Crypto Adaption**: Donald Trump verkauft seine durch den NFT Verkauf eingesammelten ETH: [Tweet](https://x.com/ArkhamIntel/status/1740052834949972155?s=20)
 13. **IOTA Youtube**: von Crypto Financial Empire: [Shimmer: Revolutionizing Tokenization on the IOTA Network](https://www.youtube.com/watch?v=PEAbJVLUZMk)
+14. **IOTA Dev** [IOTA sdk.net tweetet](https://x.com/iotawalletnet/status/1740199688505352561?s=20) ein neues Tutorial; Hier noch ein Tutorial: [Tweet](https://x.com/iotawalletnet/status/1740897755575603207?s=20)
+15. **Shimmer Ökosystem**: [Shimmer Bridge tweetet](https://x.com/shimmerbridge/status/1740176305772261529?s=20) über den sehr guten Explorer auf [layerzeroscan.com](https://layerzeroscan.com/)
+16. **IOTA Event**: Es gab ein AMA von ShimmerSea: [Tweet](https://x.com/ShimmerSeaDEX/status/1740326729065881633?s=20)
+17. **Shimmer DeFi**: [Deepr Finance tweetet](https://x.com/DeeprFinance/status/1740352523280490663?s=20) ihre Roadmap (launch 10. Januar)
+18. **Shimmer Ökosystem**: [IotaOrigin tweetet](https://x.com/origin_iota/status/1740391273918341163?s=20) über RWA die bald möglich sind
+19. **Shimmer DeFi**: [TangleSwap tweetet](https://x.com/TangleSwap/status/1740412747408404838?s=20), dass man VOID jetzt traden kann
+20. **Crypto Adaption**: Neue Bitcoin Werbespots: [Tweet 1](https://x.com/hashdex/status/1740354018982219819?s=20); [Tweet 2](https://x.com/BTC_Archive/status/1740748618976665908?s=20)
+21. **Shimmer Gaming**: [Shimmer tweetet](https://x.com/shimmernet/status/1740417551752954289?s=20) über Infernal Uprising
+22. **IOTA Video**: Das Video von der [Zebra Dev Con - Building Digital Product Passports Based on Transaprent and Trustful Value Chains] (https://www.zebra.com/content/dam/zebra_dam/en/video/web-production/zebra%20devcon2023-video-ats-iota-dlt-value-chains-jose-cantera-en-us.mp4.mp4) mit IOTA inside ist aufgetaucht
+23. **Crypto Adaption**: Artikel: [India to Ban 9 Crypto Exchange URLs Including Binance & Kraken](https://watcher.guru/news/india-to-ban-9-crypto-exchange-urls-including-binance-kraken)
+24. **Shimmer Promote**: [Alpha tweetet](https://x.com/0xAlphaRho/status/1740607340578312352?s=20) damit wir auf [PulsarFinance](https://twitter.com/PulsarFinance) gelistet werden
+25. **Shimmer NFT Ökosystem**: [Epoch Zero tweetet](https://x.com/Epoch_0/status/1740808686354813255?s=20) über ein Update auf [nft.epochzero.io](https://nft.epochzero.io/)
+26. **Shimmer Ökosystem**: Die [TangleTreassury tweetet](https://x.com/TangleTreasury/status/1740831406375485648?s=20) über ein Grand Approval für Spyce 5
+27. **Crypto Adaption**: Blackrock ist wieder voll dabei bei den Spot Bitcoin ETFs: [Tweet](https://x.com/hoss_crypto/status/1740833121401012599?s=20); JP Morgan und Jane Street (Aps) werden autorisierte Teilnehmer um Cash in Crypto zu wechseln; Artikel: [BlackRock Authorizes JPMorgan as a Participant For Bitcoin ETF](https://watcher.guru/news/blackrock-authorizes-jpmorgan-as-a-participant-for-bitcoin-etf?c=840)
+28. **IOTA Community**: Neuer internationaler IOTA Telegram Channel: [Tweet](https://x.com/_JeffR/status/1740842035786269052?s=20)
+29. **IOTA Audio Event**: [Blockbytes X-Space](https://x.com/blockbytescom/status/1740848893649359219?s=20)
+30. **Shimmer Artikel**: [CoinDesk mit 3 mio followern tweetet](https://x.com/CoinDesk/status/1741016032616071660?s=20) über [IOTA’s ShimmerEVM Bolsters Onboards Cross-Chain Capabilities With LayerZero's Technology](https://www.coindesk.com/tech/2023/12/27/iotas-shimmerevm-bolsters-onboards-cross-chain-capabilities-with-layerzeros-technology/)
+31. **Crypto Adaption**: Artikel: [ETF-News: BlackRock arbeitet mit Bitcoin-Feind JPMorgan zusammen und vieles mehr](https://www.blocktrainer.de/bitcoin-etf-news-blackrock-jpmorgan/)
+32. **Shimmer Ökosystem**: [IotaOrigin tweetet](https://x.com/origin_iota/status/1741046253390061589?s=20) über den $Cyper Fair Launch
+33. **IOTA Adaption**: [Dell Edge tweetet](https://x.com/Dell_Edge/status/1741127033147494667?s=20) über das Projekt Alvarium mit #IOTA inside
+34. 
