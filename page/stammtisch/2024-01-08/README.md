@@ -9,6 +9,6 @@
 7. **ShimmerEVM Bridge**: Es gab ein Problem mit der Layer Zero Bridge: [Tweet](https://x.com/shimmerbridge/status/1742094531741569258?s=20), das aber bald wieder behoben war: [Tweet]8https://x.com/shimmerbridge/status/1742199726735290516?s=20)
 8. **Crypto Adaption**: Neue BTC Werbespots: [Tweet 1](https://x.com/bitcoinbote/status/1742195636986958184?s=20); [Tweet 2](https://x.com/Bitcoin_Teddy/status/1742145006226350279?s=20)
 9. **IOTA Promote**: [Satoshi Street Bets mit 89 K Followern tweetet](https://x.com/SatoshiStBets/status/1742275648410783789?s=20) bullish über IOTA; Auch [DustyBC Crypto mit 150K followern tweetet](https://x.com/TheDustyBC/status/1742050083028226370?s=20) "I think $IOTA deserves more recognition too!"
-10. 
+10. **Crypto Promote**: Live auf CNBC "You can't kill Bitcoin": [Tweet](https://x.com/BitcoinNewsCom/status/1742200757976261068?s=20)
 11. **IOTA Patent**: Neues Patent mit IOTA Inside: [Tweet](https://x.com/muandelo/status/1742135022507712930?s=20)
-12. 
+12. **IOTA Ökosystem**: Artikel von Nakama Labs: [Nakama: A 2023 Recap and Glimpse into 2024](https://iota-news.com/nakama-a-2023-recap-and-glimpse-into-2024/)
