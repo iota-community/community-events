@@ -17,3 +17,5 @@
 15. **IF Intern**: Mariana de la Roche hat einen neuen Job bei [validvent](https://twitter.com/validvent), einer "Full Service Blockchain Agency": [Tweet](https://x.com/Marianadlrw/status/1742454475250360772?s=20)
 16. **Shimmer Ökosystem**: Es gibt jetzt einen smart contract für eine SMR Lottery: [Tweet](https://x.com/cryptoJ_25/status/1741103825304396182?s=20); Man kann offenbar 75% vom Topf gewinnen und 25% wird in den $WEN Token umgetauscht und geburned
 17. **Crypto Adaption**: BTC in der ARD: [Part 1/2](https://x.com/BitcoinDACH/status/1742556251928588499?s=20); [Part 2/2](https://x.com/BitcoinDACH/status/1742556308119621993?s=20)
+18. **Crypto Adaption**: Fidelity reicht einen Bitcoin Spot ETF ein: [Tweet](https://www.sec.gov/Archives/edgar/data/1852317/000119312524001377/d582196d8a12b.htm); Bzw. dieser [Tweet](https://x.com/martypartymusic/status/1742639031152976274?s=20) sagt, dass der ETF damit schon genehmigt wurde..
+19. 
