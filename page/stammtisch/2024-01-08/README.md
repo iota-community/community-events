@@ -10,7 +10,7 @@
 8. **Crypto Adaption**: Neue BTC Werbespots: [Tweet 1](https://x.com/bitcoinbote/status/1742195636986958184?s=20); [Tweet 2](https://x.com/Bitcoin_Teddy/status/1742145006226350279?s=20); [Tweet 3](https://x.com/WatcherGuru/status/1743289326522278274?s=20)
 9. **IOTA Promote**: [Satoshi Street Bets mit 89 K Followern tweetet](https://x.com/SatoshiStBets/status/1742275648410783789?s=20) bullish über IOTA; Auch [DustyBC Crypto mit 150K followern tweetet](https://x.com/TheDustyBC/status/1742050083028226370?s=20) "I think $IOTA deserves more recognition too!"
 10. **Crypto Promote**: Jim Cramer sagt live auf CNBC "You can't kill Bitcoin": [Tweet](https://x.com/BitcoinNewsCom/status/1742200757976261068?s=20); War wohl der Top: [Tweet](https://x.com/QuintenFrancois/status/1742518617244041687?s=20)
-11. **IOTA Patent**: Neues Patent mit IOTA Inside: [Tweet](https://x.com/muandelo/status/1742135022507712930?s=20)
+11. **IOTA Patent**: Neues Patent mit IOTA Inside: [Tweet](https://x.com/muandelo/status/1742135022507712930?s=20) Title: [A 6G network endogenous intelligent architecture design and optimization method, device, system and storage medium (translated)](https://worldwide.espacenet.com/patent/search/family/088929427/publication/CN117176593A?q=pn%3DCN117176593A)
 12. **IOTA Ökosystem**: Artikel von Nakama Labs: [Nakama: A 2023 Recap and Glimpse into 2024](https://iota-news.com/nakama-a-2023-recap-and-glimpse-into-2024/)
 13. **Crypto Speculation Drama**: Ein Tag nachdem Jim Cramer Bitcoin gut fand (Punkt 10) fällt BTC plötzlich um 7% und IOTA sogar um -15%: [Tweet](https://x.com/_tector/status/1742546960442171708?s=20); Der Grund bzw. die Gerüchte hat [Hoss in seinem Tweet](https://x.com/hoss_crypto/status/1742538426505724042?s=20) gut zusammen gefasst; Es ging dann relativ bald wieder hoch weil die SEC sich offenbar mit der NasdaQ, Cboe und NYSE trifft um letzte Details für den Spot ETF zu besprechen: [Tweet](https://x.com/BTC_Archive/status/1742583804647157855?s=20)
 14. **Crypto Speculation**: M. Saylor will Aktien verkaufen um privat BTC im Wert von $215 Millionen zu kaufen: [Tweet](https://x.com/Bitcoin_meeting/status/1742430448582643869?s=20)
@@ -37,4 +37,7 @@
 35. **IOTA Artikel**: von [Chain Affairs](https://chainaffairs.com/can-iotas-tangle-outsmart-ethereums-proof-of-work-a-security-showdown/)
 36. **IOTA Video Interview**: von Learn Cardano: [Interview with TangleSwap Launching on Cardano from Iota](https://www.youtube.com/watch?v=liZrkTh53Kc)
 37. **IOTA Dev**: [IOTA SDK.Net tweetet](https://x.com/iotawalletnet/status/1743952970524524876?s=20) über ihr [Tutorial 11 - How to Melt Native Tokens?  How to remove tokens from the circulating supply?](https://github.com/IOTA-NET/IotaSDK.NET)
-38. **X-Gezwitscher**: [Christoph Strnadl antwortet](https://x.com/archimate/status/1743619588598677669?s=20) einige interessante Dinge bezüglich real world Adaption von IOTA 
+38. **X-Gezwitscher**: [Christoph Strnadl antwortet](https://x.com/archimate/status/1743619588598677669?s=20) einige interessante Dinge bezüglich real world Adaption von IOTA
+39. **Shimmer EVM Education**: [AlphaRo tweetet](https://x.com/0xAlphaRho/status/1743290774475747544?s=20) ein Ultimate Guide to #ShimmerEVM DeFi
+40. **Allg. News**: Es gab am Montag Bauernproteste in Dutschland
+41. **IOTA Wochenrückblick**: Iota-Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/356-wochenr%C3%BCckblick-vom-1-bis-6-januar-2024/)
