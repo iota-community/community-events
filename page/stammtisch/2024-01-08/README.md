@@ -6,8 +6,8 @@
 4. **IOTA Ökosystem**: [DLT_Green](https://twitter.com/dlt_green) hat seinen Node Installer nochmal einfacher gemacht: [Tweet](https://x.com/dlt_green/status/1741868519799533776?s=20)
 5. **IOTA Developer**: [IOTA sdk.net tweetet](https://x.com/iotawalletnet/status/1741855535547519231?s=20) ein neues Tutorial: [Tutorial 8 - How to burn NFTs?](https://github.com/IOTA-NET/IotaSDK.NET/blob/main/IotaSDK.NET.Main/Examples/Nfts/Burn%20an%20NFT/README.md); [Tutorial 9 -Create Foundry Example](https://github.com/IOTA-NET/IotaSDK.NET/blob/main/IotaSDK.NET.Main/Examples/Native%20Tokens/Creating%20a%20Foundry/README.md)
 6. **IOTA X-Entertainment**: [Hans Moog kommentiert](https://x.com/hus_qy/status/1741938394744213521?s=20) das Qubic Whitepaper; Hier noch ein [Tweet](https://x.com/hus_qy/status/1742006732350538226?s=20) und noch ein [Tweet](https://x.com/hus_qy/status/1742160714939150355?s=20) wo er es als Scam bezeichnet
-7. **ShimmerEVM Bridge**: Es gab ein Problem mit der Layer Zero Bridge: [Tweet](https://x.com/shimmerbridge/status/1742094531741569258?s=20), das aber bald wieder behoben war: [Tweet]8https://x.com/shimmerbridge/status/1742199726735290516?s=20)
-8. **Crypto Adaption**: Neue BTC Werbespots: [Tweet 1](https://x.com/bitcoinbote/status/1742195636986958184?s=20); [Tweet 2](https://x.com/Bitcoin_Teddy/status/1742145006226350279?s=20)
+7. **ShimmerEVM Bridge**: Es gab ein Problem mit der Layer Zero Bridge: [Tweet](https://x.com/shimmerbridge/status/1742094531741569258?s=20), das aber bald wieder behoben war: [Tweet](https://x.com/shimmerbridge/status/1742199726735290516?s=20)
+8. **Crypto Adaption**: Neue BTC Werbespots: [Tweet 1](https://x.com/bitcoinbote/status/1742195636986958184?s=20); [Tweet 2](https://x.com/Bitcoin_Teddy/status/1742145006226350279?s=20); [Tweet 3](https://x.com/WatcherGuru/status/1743289326522278274?s=20)
 9. **IOTA Promote**: [Satoshi Street Bets mit 89 K Followern tweetet](https://x.com/SatoshiStBets/status/1742275648410783789?s=20) bullish über IOTA; Auch [DustyBC Crypto mit 150K followern tweetet](https://x.com/TheDustyBC/status/1742050083028226370?s=20) "I think $IOTA deserves more recognition too!"
 10. **Crypto Promote**: Jim Cramer sagt live auf CNBC "You can't kill Bitcoin": [Tweet](https://x.com/BitcoinNewsCom/status/1742200757976261068?s=20); War wohl der Top: [Tweet](https://x.com/QuintenFrancois/status/1742518617244041687?s=20)
 11. **IOTA Patent**: Neues Patent mit IOTA Inside: [Tweet](https://x.com/muandelo/status/1742135022507712930?s=20)
@@ -18,4 +18,11 @@
 16. **Shimmer Ökosystem**: Es gibt jetzt einen smart contract für eine SMR Lottery: [Tweet](https://x.com/cryptoJ_25/status/1741103825304396182?s=20); Man kann offenbar 75% vom Topf gewinnen und 25% wird in den $WEN Token umgetauscht und geburned
 17. **Crypto Adaption**: BTC in der ARD: [Part 1/2](https://x.com/BitcoinDACH/status/1742556251928588499?s=20); [Part 2/2](https://x.com/BitcoinDACH/status/1742556308119621993?s=20)
 18. **Crypto Adaption**: Fidelity reicht einen Bitcoin Spot ETF ein: [Tweet](https://www.sec.gov/Archives/edgar/data/1852317/000119312524001377/d582196d8a12b.htm); Bzw. dieser [Tweet](https://x.com/martypartymusic/status/1742639031152976274?s=20) sagt, dass der ETF damit schon genehmigt wurde..
-19. 
+19. **IOTA Hype**: [Dom schreibt auf Discord](https://x.com/ShimmerPulse/status/1743881128170475680?s=20) "... we focus on bigger releases and making them as impactful as possible"
+20. **Crypto Adaption**: 11 Bitcoin Spot ETF Anträge sind soweit fertig: [Tweet](https://x.com/FurkanCCTV/status/1743411566832206182?s=20)
+21. **IOTA Stammtisch**: Am Samstag war ein IOTA Stammtisch in München: [Tweet mit Foto](https://x.com/IotaMunchen/status/1743769825137074311?s=20)
+22. **IOTA Artikel**: von Coinjornal: [IOTA’s ShimmerEVM integrates LayerZero for cross-chain communication](https://coinjournal.net/news/iotas-shimmerevm-integrates-layerzero-for-cross-chain-communication/)
+23. **Tangle Treasurry**: die [Tangle Community Treasury tweetet](https://x.com/TangleTreasury/status/1742683168560599273?s=20) über ihre neue Webseite: [https://www.tangletreasury.org/](https://www.tangletreasury.org/)
+24. **Allg. News**: Es gab einen Zwischenfall bei einem US Gericht, der sich gut als Meme eignet: [Tweet](https://x.com/JSeyff/status/1742695896133874098?s=20)
+25. **Shimmer Video Tutorial**: [Blockbytes tweetet](https://x.com/blockbytescom/status/1742993021312917605?s=20) über ihr neues Video: [How to Bridge From ANY Chain To Shimmer EVM!](https://www.youtube.com/watch?v=L1OPgoAIejs)
+26. **IOTA Adaption**: [SkyllaDB tweetet](https://x.com/ScyllaDB/status/1743043417356083596?s=20)
