@@ -45,3 +45,4 @@
 43. **IOTA Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1744267699612737789?s=20), dass sie ab jetzt Wallet Connect und das [Bloom Wallet](https://twitter.com/bloomwalletio) unterstützen
 44. **X-Gezwitscher**: [Hans Moog tweetet](https://x.com/hus_qy/status/1743796055404130672?s=20), dass er Corona hat/hatte
 45. **X-Gezwitscher**: [Hans Moog tweetet](https://x.com/hus_qy/status/1744150433826787548?s=20) einen längeren Beitrag über DLTs und [gratuliert](https://x.com/hus_qy/status/1744153195226787906?s=20) KAS zu ihrem Testnetz
+46. **IOTA Speculation**: Der Kurs von IOTA ist am Sonntag um 15% gestiegen und am Montag gleich wieder gefallen...
