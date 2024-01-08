@@ -41,3 +41,7 @@
 39. **Shimmer EVM Education**: [AlphaRo tweetet](https://x.com/0xAlphaRho/status/1743290774475747544?s=20) ein Ultimate Guide to #ShimmerEVM DeFi
 40. **Allg. News**: Es gab am Montag Bauernproteste in Dutschland
 41. **IOTA Wochenrückblick**: Iota-Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/356-wochenr%C3%BCckblick-vom-1-bis-6-januar-2024/)
+42. **IOTA Ökosystem**: [Soonaverse tweetet](https://x.com/soon_labs/status/1744230910982250783?s=20) über ein AMA am Mittwoch
+43. **IOTA Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1744267699612737789?s=20), dass sie Wallet Connect und das [Bloom Wallet](https://twitter.com/bloomwalletio) jetzt unterstützen
+44. **X-Gezwitscher**: [Hans Moog tweetet](https://x.com/hus_qy/status/1743796055404130672?s=20), dass er Corona hat/hatte
+45. **X-Gezwitscher**: [Hans Moog tweetet](https://x.com/hus_qy/status/1744150433826787548?s=20) einen längeren Beitrag über DLTs und gratuliert in einem anderen [Tweet](https://x.com/hus_qy/status/1744153195226787906?s=20) KAS zu ihrem Testnetz
