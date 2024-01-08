@@ -45,4 +45,6 @@
 43. **IOTA Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1744267699612737789?s=20), dass sie ab jetzt Wallet Connect und das [Bloom Wallet](https://twitter.com/bloomwalletio) unterstützen
 44. **X-Gezwitscher**: [Hans Moog tweetet](https://x.com/hus_qy/status/1743796055404130672?s=20), dass er Corona hat/hatte
 45. **X-Gezwitscher**: [Hans Moog tweetet](https://x.com/hus_qy/status/1744150433826787548?s=20) einen längeren Beitrag über DLTs und [gratuliert](https://x.com/hus_qy/status/1744153195226787906?s=20) KAS zu ihrem Testnetz
-46. **IOTA Spekulation**: Der Kurs von IOTA ist am Sonntag um 15% gestiegen und am Montag gleich wieder gefallen...
+46. **X-Gezwitscher**: [Hans Moog tweetet](https://x.com/hus_qy/status/1744324517407637928?s=20) über das MEV Problem beim High Freuquenzy Trading und will eine Lösung für das "principal-agent problem": [Tweet](https://x.com/hus_qy/status/1744330078224265614?s=20)
+47. **X-Gezwitscher**: [Sebastian Müller tweetet](https://x.com/NaitsabesMue/status/1744307494162194563?s=20) über das Jahr des Drachen und spricht von "... And the dragon has fire; just like real flames, fire is pushy; it pushes us to run away or perform. As we do not run away - it will force us to act. #IOTA
+48. **IOTA Spekulation**: Der Kurs von IOTA ist am Sonntag um 15% gestiegen und am Montag gleich wieder gefallen...
