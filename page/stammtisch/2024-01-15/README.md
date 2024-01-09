@@ -7,3 +7,5 @@
 5. **IOTA Adaption**: [IOTA retweetet](https://x.com/iota/status/1744671947839897880?s=20) den [Tweet von AIBC World](https://twitter.com/AIBC_World/status/1744660283572773199) über [INATBA: Working group Social Impact and Sustainability | AIBC Europe Innovation Awards 2023](https://www.youtube.com/watch?v=kefWVvCKsjw&t=1s)
 6. **IOTA Dev**: [Alexander tweetet](https://x.com/shortaktien/status/1744683645854486775?s=20) von demIOTA Chat GPT Bot: [IOTA & Shimmer Dev Helper](https://chat.openai.com/g/g-mC9q6fI71-iota-shimmer-dev-helper)
 7. **Shimmer DeFi**: [Accumulator tweetet](https://x.com/ACCU_DeFi/status/1744741568794489178?s=20) von einem neuen [ETH/SMR Trading Pair](https://app.accumulator.finance/vaults/shimmer-shimmer-eth)
+8. **IOTA Intern**: [kowei tweetet](https://x.com/kowei1995/status/1741797552692109481?s=20) eine interessante prediction für 2024... Er wurde außerdem unter die 30 "Most Influential People in Taiwan's Blockchain Industry" gewählt
+9. 
