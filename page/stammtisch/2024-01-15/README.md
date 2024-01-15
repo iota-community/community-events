@@ -66,3 +66,4 @@
 64.  **Shimmer DeFi**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1746796861607104544?s=20), dass Swaps jetzt optimiert werden, weil es einen Router gibt zwischen [Swapline.com](https://swapline.com/home) und [ShimmerSea.finance](https://shimmersea.finance/)
 65.  **IOTA Wochenrückblick**: Iota-Talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/358-wochenr%C3%BCckblick-vom-7-bis-13-januar-2024/)
 66.  **Crypto Adaption**: Der BlackRock CEO spricht davon die aktuelle Finazwelt zu tokenisieren auf einem "general ledger", wo jeder Teilnehmer seine eigene Identifizierung hat und "instantaneous settlements" möglich sind: [Tweet](https://twitter.com/RadarHits/status/1746155031265489197)
+67.  **Shimmer DeFi**: [Alpha tweetet](https://x.com/0xAlphaRho/status/1746868791806455857?s=20) darüber, dass gerade mal 6,55% der Shimmer Token im DeFi eingesetzt werden. Er will in Zukunft ein paar Lernvideos veröffentlichen
