@@ -20,3 +20,5 @@
 18. **IOTA 2.0**: Neuer Pre-Release von IOTA 2.0 alpha.2
 19. **ShimmerEVM Adaption**: Neues ATH beim TVL auf [defillama.com/chain/ShimmerEVM](https://defillama.com/chain/ShimmerEVM)
 20. **IOTA Events**: Es gab wieder ein IOTA Poker Event: [Tweet](https://x.com/IotaPunks_71/status/1747348901722804417?s=20)
+21. **Crypto Adaption**: Am 22. Februar gibt es einen "Bitcoin im Bundestag" Event: [Tweet](https://x.com/BTCimBundestag/status/1747276772880589163?s=20)
+22. **IOTA Ökosystem**: [Panthos tweetet](https://x.com/PantosIO/status/1747377073188970569?s=20), dass sie die beste Blockchain Bridge bauen. Da
