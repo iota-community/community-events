@@ -17,8 +17,15 @@
 15. **Shimmer Adaption**: [DefiLama tweetet](https://x.com/DefiLlama/status/1747279721937735828?s=20), dass sie jetzt auch Tangleswap im Ökosystem von der ShimmerEVM mit aufgenommen haben auf [defillama.com/chain/ShimmerEVM](https://defillama.com/chain/ShimmerEVM)
 16. **IOTA Video**: Die [IF tweetet](https://x.com/iota/status/1747302699383640329?s=20) über ein neues Short-Video: [Untangling how the #IOTA #Tangle works #shorts #crypto](https://www.youtube.com/shorts/o1pSdG1cHuE)
 17. **Crypto Drama**: [CryptoTuts tweetet](https://x.com/CryptoTuts/status/1747297744140575080?s=20), dass der TrueUSD (#TUSD) seine Dollar Bindung verliert
-18. **IOTA 2.0**: Neuer Pre-Release von IOTA 2.0 alpha.2
+18. **IOTA 2.0**: Neuer Pre-Release von IOTA 2.0 alpha.2: [Tweet](https://twitter.com/CollinBrownXRP/status/1747509847178760678)
 19. **ShimmerEVM Adaption**: Neues ATH beim TVL auf [defillama.com/chain/ShimmerEVM](https://defillama.com/chain/ShimmerEVM)
 20. **IOTA Events**: Es gab wieder ein IOTA Poker Event: [Tweet](https://x.com/IotaPunks_71/status/1747348901722804417?s=20)
 21. **Crypto Adaption**: Am 22. Februar gibt es einen "Bitcoin im Bundestag" Event: [Tweet](https://x.com/BTCimBundestag/status/1747276772880589163?s=20)
-22. **IOTA Ökosystem**: [Panthos tweetet](https://x.com/PantosIO/status/1747377073188970569?s=20), dass sie die beste Blockchain Bridge bauen. Da
+22. **IOTA Ökosystem**: [Panthos tweetet](https://x.com/PantosIO/status/1747377073188970569?s=20), dass sie die beste Blockchain Bridge bauen wollen. Da war doch mal was mit IOTA und Panthos... [pantos.io/de/about](https://pantos.io/de/about)
+23. **IOTA Exchange**: [CoinW tweetet](https://x.com/CoinWOfficial/status/1747242389146681540?s=20), dass man ab dem 17.1. IOTA handeln kann.
+24. **IOTA Ökosystem**: [Build_5 tweetet](https://x.com/build5tech/status/1747506810951795058?s=20) über eine neue Partnerschaft mit [NMKR.io](https://twitter.com/nmkr_io) ihrer Aussage nach "The most powerful plug-and-play tools for successful NFT and Real-World Asset Tokenization." und erweitern damit ihr Angebot auf Cardano
+25. **IOTA Ökosystem**: [SoonLabs tweetet](https://x.com/soon_labs/status/1747506303642329299?s=20) ebenfalls darüber (Über ihre neue Partnerschaft mit [NMKR.io](https://twitter.com/nmkr_io) und der Expansion zum Cardano Ökosystem)
+26. **Ki News**: Microsoft startet die App [Microsoft Copilot für Android](https://play.google.com/store/apps/details?id=com.microsoft.copilot&pli=1) und [Microsoft Copilot für IOS](https://apps.apple.com/tr/app/microsoft-copilot/id6472538445)
+27. **IOTA Audio**: Mat Yager und Demia im Interview: [Tweet](https://x.com/GenfinityIO/status/1747403259545833648?s=20)
+28. **Crypto Adaption**: Der CEO von JP Morgen ist kein Fan von Bitcoin: [Tweet](https://x.com/WatcherGuru/status/1747603273203302868?s=20) "Please, stop talking about that shit"
+29. **IOTA DeFi**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1747588233926422571?s=20), dass sie ihre Investition in [ShimmerSea](https://twitter.com/ShimmerSeaDex) verdoppelt haben
