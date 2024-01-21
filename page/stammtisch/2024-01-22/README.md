@@ -50,3 +50,4 @@
 47. **IOTA Video**: Von Probably Nothing (bzw. von der IF aber auf deutsch): [Leistungsstarke Transaktionen auf IOTA 2.0 #shorts](https://www.youtube.com/watch?v=2qhsyTUQ_ko)
 48. **IOTA Video**: Neue [Shorts von der IF](https://www.youtube.com/@iotafoundation/shorts): [No more counterfeits with Digital Identities based on](https://www.youtube.com/shorts/mne7aAOSiWc); [Say goodbye to high transaction fees thanks to](https://www.youtube.com/shorts/Jmw15-kYs5s)
 49. **Fiat Drama**: Artikel: [EU-Gremien einig: Anonyme Barzahlungen nur noch bis 2999 Euro](https://www.heise.de/news/EU-Gremien-einig-Anonyme-Barzahlungen-nur-noch-bis-2999-Euro-9601949.html)
+50. **IOTA Wochenrückblick**: Iotatalk [Wochenrückblick](https://www.iota-talk.com/index.php?article/360-wochenr%C3%BCckblick-vom-14-bis-20-januar-2024/)
