@@ -58,3 +58,5 @@
 55. **IOTA Ökosystem**: [Spice_5 tweetet](https://x.com/SPYCE_5/status/1749348703565984213?s=20) über ihre Partnerschaft mit [Validvent](https://twitter.com/validvent), einer "Full Service Blockchain Agency für Blockchain | Smart Contracts | DeFi - Consulting, Education & Tax; Hier ein der entsprechende [Tweet von Build_5](https://x.com/build5tech/status/1747506810951795058?s=20) und der [Tweet von Validvent.eth](https://x.com/validvent/status/1749349566657237366?s=20)
 56. **IOTA Ökosystem**: [Accumulator tweetet](https://x.com/ACCU_DeFi/status/1749359215825617053?s=20) über ihren Token den sie mit der IOTA EVM noch in Q1 starten wollen
 57. **X-Gezwitscher**: [Hans Moog tweetet](https://x.com/hus_qy/status/1749426637869850656?s=20) über ein "huge scientific breakthrough that has the potential to change the course of our species forever by enabling us to travel between stars!"
+58. **IOTA Audio**: [Tweet von Blockbytes](https://x.com/blockbytescom/status/1749441253689720903?s=20) zu ihrem [X-Spaces Event am Montag](https://twitter.com/i/spaces/1yoKMwYbAznJQ)
+59. 
