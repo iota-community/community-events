@@ -59,4 +59,3 @@
 56. **IOTA Ökosystem**: [Accumulator tweetet](https://x.com/ACCU_DeFi/status/1749359215825617053?s=20) über ihren Token den sie mit der IOTA EVM noch in Q1 starten wollen
 57. **X-Gezwitscher**: [Hans Moog tweetet](https://x.com/hus_qy/status/1749426637869850656?s=20) über ein "huge scientific breakthrough that has the potential to change the course of our species forever by enabling us to travel between stars!"
 58. **IOTA Audio**: [Tweet von Blockbytes](https://x.com/blockbytescom/status/1749441253689720903?s=20) zu ihrem [X-Spaces Event am Montag](https://twitter.com/i/spaces/1yoKMwYbAznJQ)
-59. 
