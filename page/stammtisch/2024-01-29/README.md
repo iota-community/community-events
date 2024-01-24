@@ -11,4 +11,5 @@
 9. **IOTA Ökosystem**: [Kowei tweetet](https://x.com/kowei1995/status/1750079925317767190?s=20), dass IOTA sich mehr und mehr auch auf die asiatischen Märkte (Japan, Korea, and Singapore) konzentrieren will und sie jetzt beim [SG Builders Ecosystem](https://www.sgbuidl.com/ecosystem) integriert wurden, "a gated community of 300+ founders and builders working on web3 projects in Singapore"
 10. **Shimmer Promote**: [Tweet von StalkersCrypto](https://x.com/StalkersCrypto/status/1749872657737371952?s=20) über Shimmer
 11. **Shimmer DeFi**: [Supra tweetet](https://x.com/SupraOracles/status/1750191532408496308?s=20), dass sie ihr "decentralized Oracle (DORA) 'Pull' pricing data" auf dem Shimmer Netzwerk gelauncht haben. Auch [Shimmer tweetet](https://x.com/shimmernet/status/1750238267142746293?s=20) darüber
-12. 
+12. **Crypto Drama**: Artikel: [BlackRock spot ether ETF decision delayed by SEC](https://blockworks.co/news/blackrock-delay-ether-etf)
+13. 
