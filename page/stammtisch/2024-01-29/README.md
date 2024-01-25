@@ -12,4 +12,7 @@
 10. **Shimmer Promote**: [Tweet von StalkersCrypto](https://x.com/StalkersCrypto/status/1749872657737371952?s=20) über Shimmer
 11. **Shimmer DeFi**: [Supra tweetet](https://x.com/SupraOracles/status/1750191532408496308?s=20), dass sie ihr "decentralized Oracle (DORA) 'Pull' pricing data" auf dem Shimmer Netzwerk gelauncht haben. Auch [Shimmer tweetet](https://x.com/shimmernet/status/1750238267142746293?s=20) darüber
 12. **Crypto Drama**: Artikel: [BlackRock spot ether ETF decision delayed by SEC](https://blockworks.co/news/blackrock-delay-ether-etf)
-13. **IOTA Promote**: Die [IF tweetet]() über das Video: 
+13. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1750428343269233026?s=20) über das Video: [From UTXO to Account Outputs and NFTs holding other NFTs- this video explains it all](https://twitter.com/i/status/1750428343269233026)
+14. **Crypto Adaption**: [Bitpanda tweetet](https://x.com/Bitpanda_global/status/1750439452932206608?s=20) über den Artikel: [Raiffeisenlandesbank NÖ-Wien becomes the first major traditional European bank to offer digital assets trading through Bitpanda Technology Solutions](https://www.linkedin.com/pulse/raiffeisenlandesbank-nieder%25C3%25B6sterreich-wien-becomes-3mubf/)
+15. **IOTA Audio**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1750402262944391346?s=20) über das AMA im [TangleTalk](https://twitter.com/tangle_talk) Telegram Channel
+16. 
