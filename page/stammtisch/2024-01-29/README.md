@@ -36,3 +36,5 @@
 34. **IOTA Ökosystem**: [DLT.green tweetet](https://x.com/dlt_green/status/1751333715941237046?s=20) über seinen [Node Installer Docker](https://github.com/dlt-green/node-installer-docker), der fast alles rund um die Nodes automatisch verwaltet: [Tweet](https://x.com/dlt_green/status/1751334156859056320?s=20)
 35. **IOTA Wochenrückblick**: [IOTA Talk tweetet](https://x.com/Iota_Talk_/status/1751523213144687045?s=20) über den [IOTATALK Wochenrückblick](https://www.iota-talk.com/index.php?article/362-wochenr%C3%BCckblick-vom-21-bis-27-januar-2024/)
 36. **IOTA Ökosystem**: Der $VOID Token von [TangleSwap](https://twitter.com/TangleSwap) kommt auf eine DEX: [Tweet](https://x.com/TangleSwap/status/1751227819709829338?s=20)
+37. **IOTA Ökosystem**: [Bivreost tweetet](https://x.com/bivreost/status/1751860018410897725?s=20) über neue Features bei ihrem Bivreost Telegram Wallet
+38. **IOTA Promote**: Die [IF retweetet](https://x.com/iota/status/1751876468907372641?s=20) den [Thread von ScopeDefi](https://x.com/ScopeDefi/status/1751698128028283075?s=20) über die Vorteile von IOTA
