@@ -42,4 +42,4 @@
 40. **IOTA Promote**: Die [IF retweetet](https://x.com/iota/status/1751885074906112333?s=20) den [Tweet von Kucoin](https://x.com/KuCoin_FR/status/1751864220197494869?s=20) wo man 1000mIOTA gewinnen kann
 41. **IOTA Drama**: Hans Moog vs. Twitter Trolls/CFB: [Tweets](https://x.com/hus_qy/status/1751658369515913486?s=20)
 42. **Shimmer DeFi**: [Deepr Finance tweetet](https://x.com/DeeprFinance/status/1751951787861344404?s=20) über ihr Incentive Program das offenbar bald starten soll
-43. **Crypto Drama**: Frank Thelen hatte ein kurzes Video zu Bitcoin gepostet und dafür viel Kritik bekommen. Besonders lustig war die Kritik von Sunny
+43. **Crypto Drama**: Frank Thelen hatte ein kurzes Video zu Bitcoin gepostet und dafür viel Kritik bekommen. Besonders lustig war die Kritik von Sunny Decree
