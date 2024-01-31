@@ -22,5 +22,5 @@
 20. **ShimmerEVM Event** [AlphaRo tweetet](https://x.com/0xAlphaRho/status/1752601446501994659?s=20), dass er am 1.Feb. eine DeFi Einführung bezüglich des Airdrops macht im [0xApeDAO](https://twitter.com/0xApeDAO) Discord
 21. **Shimmer EVM DeFi**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1752397543390978295?s=20) über neue Farms die am 1.2. live gehen
 22. **EBSI Soon**: [EBSI tweetet](https://x.com/EU_EBSI/status/1752331196590170224?s=20) ein Soon Tweet. Sie freuen sich uns 7 groundbracking pilot projects "in the next few weeks" vorstellen wollen
-23. 
+23. **IOTA Airdrop**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1752663329313611997?s=20) über die [DeepSea Adventures Campagne: Explore the ShimmerEVM ecosystem and earn rewards](https://medium.com/@NakamaLabs/deepsea-adventures-explore-the-shimmerevm-ecosystem-and-earn-rewards-4ad78639e743) von 10 Community Projekten mit Hilfe des [Tideprotocols](https://t.co/60mhMqMk6O)
 
