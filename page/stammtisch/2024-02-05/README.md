@@ -2,7 +2,7 @@
 
 1. **IOTA Quicktakes**: Die [IF tweetet]() über die [IOTA Quicktakes]()
 2. **IOTA Videio**: Die [IF tweetet](https://x.com/iota/status/1752013803850514433?s=20) über ein neues Short Video: [The futur of shoping with iota...](https://www.youtube.com/shorts/0ln4esV3zYs)
-3. **IOTA Audio**: [Blocbytes X-Spaces](https://x.com/blockbytescom/status/1752011773685751915?s=20)
+3. **IOTA Audio**: [Blocbytes X-Spaces](https://x.com/blockbytescom/status/1752011773685751915?s=20) war am Donnerstag
 4. **IOTA Ökosystem**: [Bloom Wallet tweetet](https://x.com/bloomwalletio/status/1752012324347556014?s=20) über [Bloom: Laying the Foundations (Part 1/2)](https://medium.com/bloom-wallet/bloom-laying-the-foundations-part-1-2-63915ed0990a)
 5. **IOTA Ökosystem**: [TangleLabs tweetet](https://x.com/Tangle_Labs/status/1752013942182830536?s=20) über ihr [Vira Wallet v.0.3.0 - Major Release](https://www.tanglelabs.io/resources/vira-wallet-v030-major-release)
 6. **X-Gezwitscher**: [Hans Moog tweetet](https://x.com/hus_qy/status/1751668947634503878?s=20) über Mana und die "demurrage function"
@@ -12,4 +12,15 @@
 10. **IOTA Soon**: [Iotaheroes tweeten](https://x.com/IotaHeroes/status/1751987941226786987?s=20) über "Something is brewing in Fortuvia"
 11. **IOTA Audio**: Das Gespräch mit [Dark Mythos](https://twitter.com/DarkMythosIOTA) im [TangleTalk](https://twitter.com/tangle_talk) ist mittlerweile in Telegram verfügbar: [Tweet](https://x.com/tangle_talk/status/1752247878263681205?s=20
 12. **IOTA Ökosystem**: [TangleLabs tweetet](https://x.com/Tangle_Labs/status/1752356275092902361?s=20), dass ihr Vira Wallet aber auch das Wallet von Impierce Technologies als Diip Comliant Personal Wallet auf der [dutchblockchaincoalition.org/dbc-zone/diip-wallets](dutchblockchaincoalition.org/dbc-zone/diip-wallets) hinzu gefügt wurde
-13. 
+13. **IOTA Ökosystem**: [iota sdk.net tweetet](https://x.com/iotawalletnet/status/1752344088094048578?s=20) über ein neues [Tutorial 12 - How to Unlock Storage Deposits by Burning Native Tokens?](https://github.com/IOTA-NET/IotaSDK.NET) und ruft zur Mithilfe auf
+14. **Crypto Drama**: Es wurden Bitcoins im Wert von 2 Milliarden Dollar beschlagnahmt: [Tweet](https://x.com/hoss_crypto/status/1752312699650777576?s=20)
+15. **Shimmer Video**: [Spec Weekly](https://twitter.com/SpecWeekly) erklärt den Airdrop in seinem neuen Video: [$1 MILLION AIRDROP! The massive marketing campaign that could breath life into SHIMMER EVM! LESSGO!](https://www.youtube.com/watch?v=Yec4OAFMRU4&t=664s)
+16. **Shimmer EVM Ökosystem**: Die [Tangle Community Treassury tweetet](https://x.com/TangleTreasury/status/1752325974027375040?s=20), dass sie zusammen mit [Blockbytes](https://twitter.com/blockbytescom) und [Spyce_5](https://twitter.com/SPYCE_5) eine Node als unlimited Endpoint für die Community Projekte bereit stellen unter [https://blockbytes.node.spyce5.com/evm](https://blockbytes.node.spyce5.com/evm); Hier der [Tweet von JD Sutton](https://x.com/Deep_Sea_Iotan/status/1752326924955734136?s=20), der [Tweet von Spyce_5](https://x.com/SPYCE_5/status/1752248007620280589?s=20) und der [Tweet von Blockbytes](https://x.com/blockbytescom/status/1752353234964906019?s=20) dazu
+17. **Shimer EVM Ökosystem**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1752572556630999392?s=20) darüber, dass sie die Infrastruktur für [Dar Mythos](https://twitter.com/DarkMythosIOTA) bereit stellen; Hier der [Tweet von Dark Mythos](https://x.com/DarkMythosIOTA/status/1752587522511704158?s=20)
+18. **Shimmer Soon**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1752337089788592161?s=20) über den Airdrop und schreiben: " We've got some secret plans brewing too... Stay tuned!"
+19. **IOTA Nodes**: [dlt.green tweetet](https://x.com/dlt_green/status/1752401811284079088?s=20) über seinen [Node Installer Docker](https://github.com/dlt-green/node-installer-docker) und postet ein Video wie man die "automatic Maintenance & Node Updates"-Funktion einschaltet
+20. **ShimmerEVM Event** [AlphaRo tweetet](https://x.com/0xAlphaRho/status/1752601446501994659?s=20), dass er am 1.Feb. eine DeFi Einführung bezüglich des Airdrops macht im [0xApeDAO](https://twitter.com/0xApeDAO) Discord
+21. **Shimmer EVM DeFi**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1752397543390978295?s=20) über neue Farms die am 1.2. live gehen
+22. **EBSI Soon**: [EBSI tweetet](https://x.com/EU_EBSI/status/1752331196590170224?s=20) ein Soon Tweet. Sie freuen sich uns 7 groundbracking pilot projects "in the next few weeks" vorstellen wollen
+23. 
+
