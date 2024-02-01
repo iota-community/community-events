@@ -41,4 +41,5 @@
 39. **IOTA Drama**: [TangleTalk tweetet frustriert](https://x.com/tangle_talk/status/1752971174441623952?s=20) darüber, warum jetzt schon IOTA 2.0 gehyped wird
 40. **ShimmerEVM DeFi**: [Tangleswap tweetet](https://x.com/TangleSwap/status/1753012795786830252?s=20) über ihr Zusatz Airdrop: "Farms APR MEGA B O O S T"
 41. **ShimmerEVM DeFi**: [ShimmerBridge macht ein Thread](https://x.com/shimmerbridge/status/1753045214376480818?s=20) zu den steigenden TVLs auf der ShimmerEVM
+42. **IOTA Ökosystem**: [IOTA SDK .NET tweetet](https://x.com/iotawalletnet/status/1753049395329933389?s=20) über ein neues [Tutorial 13 - Let's Subscribe to some Wallet Events!](https://github.com/IOTA-NET/IotaSDK.NET) und etwas später [tweeten sie](https://x.com/iotawalletnet/status/1753054163184099698?s=20) über ein [v0.3.0 alpha of our IOTA SDK package release](https://www.nuget.org/packages/IotaSDK/)
 
