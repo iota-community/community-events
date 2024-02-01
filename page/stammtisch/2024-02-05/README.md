@@ -38,4 +38,6 @@
 36. **IOTA Ökosystem**: [Adam tweetet](https://x.com/adam_unchained/status/1752917075121856895?s=20) über neue Features (u.a. Bulk NFT sending) die gerade von der Community implementiert werden [Implement shopping cart #128](https://github.com/soonaverse/app/pull/128) und [hier](https://amenconi-shopping-cart.app-cqo.pages.dev/) getestet werden können
 37. **IOTA Ökosystem**: [LendeXe macht ein Thread](https://x.com/LendeXeFinance/status/1752875692025418078?s=20) über aktuelle Entwicklungen
 38. **Crypto Airdrop**: Artikel: [Jupiter Traders Claim Whopping 545 Million JUP Tokens in First 8 Hours of Airdrop](); Und $Jup ist natürlich sofort auf Binanace: [Tweet](https://x.com/binance/status/1752723538338013536?s=20)
+39. **IOTA Drama**: [TangleTalk tweetet frustriert](https://x.com/tangle_talk/status/1752971174441623952?s=20) darüber, warum jetzt schon IOTA 2.0 gehyped wird
+40. **Shimmer DeFi**: [Tangleswap tweetet](https://x.com/TangleSwap/status/1753012795786830252?s=20) über ihr Zusatz Airdrop: "Farms APR MEGA B O O S T"
 
