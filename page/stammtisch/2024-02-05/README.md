@@ -39,5 +39,6 @@
 37. **IOTA Ökosystem**: [LendeXe macht ein Thread](https://x.com/LendeXeFinance/status/1752875692025418078?s=20) über aktuelle Entwicklungen
 38. **Crypto Airdrop**: Artikel: [Jupiter Traders Claim Whopping 545 Million JUP Tokens in First 8 Hours of Airdrop](); Und $Jup ist natürlich sofort auf Binanace: [Tweet](https://x.com/binance/status/1752723538338013536?s=20)
 39. **IOTA Drama**: [TangleTalk tweetet frustriert](https://x.com/tangle_talk/status/1752971174441623952?s=20) darüber, warum jetzt schon IOTA 2.0 gehyped wird
-40. **Shimmer DeFi**: [Tangleswap tweetet](https://x.com/TangleSwap/status/1753012795786830252?s=20) über ihr Zusatz Airdrop: "Farms APR MEGA B O O S T"
+40. **ShimmerEVM DeFi**: [Tangleswap tweetet](https://x.com/TangleSwap/status/1753012795786830252?s=20) über ihr Zusatz Airdrop: "Farms APR MEGA B O O S T"
+41. **ShimmerEVM DeFi**: [ShimmerBridge macht ein Thread](https://x.com/shimmerbridge/status/1753045214376480818?s=20) zu den steigenden TVLs auf der ShimmerEVM
 
