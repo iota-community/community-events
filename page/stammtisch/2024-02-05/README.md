@@ -36,4 +36,5 @@
 34. **Shimmer Promote**: [Tweet](https://x.com/Utoday_en/status/1752374386538225970?s=20) von dem Artikel von U-Today: [IOTA's Shimmer Launches Massive $1 Million Airdrop, How to Claim](https://u.today/iotas-shimmer-launches-massive-1-million-airdrop-how-to-claim) und viele Influenzer haben über den Airdrop getweetet
 35. **IOTA Artikel**: Die [IF tweetet](https://x.com/iota/status/1752965010312056917?s=20) über den Guestpost auf CoinmarketCap: [IOTA 2.0 | Digital Autonomy for Everyone: The Future of IOTA](https://coinmarketcap.com/community/articles/651ac829049af827e92269fd/)
 36. **IOTA Ökosystem**: [Adam tweetet](https://x.com/adam_unchained/status/1752917075121856895?s=20) über neue Features (u.a. Bulk NFT sending) die gerade von der Community implementiert werden [Implement shopping cart #128](https://github.com/soonaverse/app/pull/128) und [hier](https://amenconi-shopping-cart.app-cqo.pages.dev/) getestet werden können
+37. **IOTA Ökosystem**: [LendeXe macht ein Thread](https://x.com/LendeXeFinance/status/1752875692025418078?s=20) über aktuelle Entwicklungen
 
