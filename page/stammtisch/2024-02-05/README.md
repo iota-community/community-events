@@ -44,8 +44,10 @@
 42. **IOTA Ökosystem**: [IOTA SDK .NET tweetet](https://x.com/iotawalletnet/status/1753049395329933389?s=20) über ein neues [Tutorial 13 - Let's Subscribe to some Wallet Events!](https://github.com/IOTA-NET/IotaSDK.NET) und etwas später [tweeten sie](https://x.com/iotawalletnet/status/1753054163184099698?s=20) über ein [v0.3.0 alpha of our IOTA SDK package release](https://www.nuget.org/packages/IotaSDK/)
 43. **IOTA Poker**: Am Freitag war [IOTAPunks](https://twitter.com/IotaPunks_71) Pokern: [Tweet](https://x.com/IotaPunks_71/status/1753300710211350632?s=20)
 44. **IOTA Ökosystem**: [Holger Köther freut sich](https://x.com/HolgerKoether/status/1753102419591090399?s=20) darüber, dass 2 mio Requests in 24h wie erwartet abgearbeitet wurden von [Spyce:5](https://twitter.com/SPYCE_5)
-45. **Shimmer Tutorial**: [AlphaRo postet](https://x.com/0xAlphaRho/status/1753153418913313092?s=20) sein DeFi Tutorial für den Shimmer Airdrop. Es geht um Metamask, Bloom und der Airdrop Kampagne
-46. **Shimmer Ökosystem**: [Infernal Uprising tweetet](https://x.com/InfernalNFTs/status/1753133174681432368?s=20), dass man ihre Cpen Beta jetzt getestet wird
-47. **IOTA Ökosystem**: [TangleLabs tweetet](https://x.com/Tangle_Labs/status/1753100907477090678?s=20), dass sie ihre NFTs auf die ShimmerEVM geairdropt haben
-48. **IOTA Stammtisch**: War am Freitag in München: [Tweet](https://x.com/IotaMunchen/status/1751524744690638906?s=20)
+45. **Crypto Drama**: Artikel: [“Cake ist ein modernes Ponzi-Schema” - Ex-Geschäftspartner von Julian Hosp packt im exklusiven Gespräch aus](https://www.btc-echo.de/news/julian-hosp-john-rost-packt-gegen-cake-gruender-aus-cv-178147/)
+46. **Shimmer Tutorial**: [AlphaRo postet](https://x.com/0xAlphaRho/status/1753153418913313092?s=20) sein DeFi Tutorial für den Shimmer Airdrop. Es geht um Metamask, Bloom und der Airdrop Kampagne
+47. **Shimmer Ökosystem**: [Infernal Uprising tweetet](https://x.com/InfernalNFTs/status/1753133174681432368?s=20), dass man ihre Cpen Beta jetzt getestet wird
+48. **IOTA Ökosystem**: [TangleLabs tweetet](https://x.com/Tangle_Labs/status/1753100907477090678?s=20), dass sie ihre NFTs auf die ShimmerEVM geairdropt haben
+49. **IOTA Stammtisch**: War am Freitag in München: [Tweet](https://x.com/IotaMunchen/status/1751524744690638906?s=20)
+50. 
 
