@@ -47,5 +47,5 @@
 45. **Shimmer Tutorial**: [AlphaRo postet](https://x.com/0xAlphaRho/status/1753153418913313092?s=20) sein DeFi Tutorial für den Shimmer Airdrop. Es geht um Metamask, Bloom und der Airdrop Kampagne
 46. **Shimmer Ökosystem**: [Infernal Uprising tweetet](https://x.com/InfernalNFTs/status/1753133174681432368?s=20), dass man ihre Cpen Beta jetzt getestet wird
 47. **IOTA Ökosystem**: [TangleLabs tweetet](https://x.com/Tangle_Labs/status/1753100907477090678?s=20), dass sie ihre NFTs auf die ShimmerEVM geairdropt haben
-48. 
+48. **IOTA Stammtisch**: War am Freitag in München: [Tweet](https://x.com/IotaMunchen/status/1751524744690638906?s=20)
 
