@@ -28,8 +28,8 @@
 26. **IOTA Ökosystem**: [TanglePay tweetet](https://x.com/tanglepaycom/status/1752678313041224076?s=20) über ein Update
 27. **Crypto Drama**: Ripple Co Founder wurde gehacked: [Tweet](https://x.com/chrislarsensf/status/1752702297971532258?s=20); Scheinbar $110 Millionen: [Tweet](https://x.com/blockbytescom/status/1752708750752850092?s=20)
 28. **Shimmer Governement**: [Governements Meeting](https://x.com/shimmernet/status/1752738523709317622?s=20) am Donnerstag
-29. **IOTA Audio**: [AMA mit JD Sutton](https://x.com/StalkersCrypto/status/1752778392376844665?s=20) am Freitag
-30. **IOTA Audio**: [AMA bei ShimmerSea](https://x.com/ShimmerSeaDEX/status/1752724526947787132?s=20) am Freitag
+29. **IOTA Audio**: [Tweet von AMA mit JD Sutton](https://x.com/StalkersCrypto/status/1752778392376844665?s=20) am Freitag
+30. **IOTA Audio**: [Tweet von AMA bei ShimmerSea](https://x.com/ShimmerSeaDEX/status/1752724526947787132?s=20) am Freitag; [Tweet](https://x.com/ShimmerSeaDEX/status/1752724526947787132?s=20)
 31. **IOTA Ökosystem**: [Bloom tweetet](https://x.com/bloomwalletio/status/1752747796350873811?s=20) dass sie das tideprotocol und die unterschiedlichen Shimmer Campagnen im Wallet integriert haben; Viele Leute switchen und sind begeistert; Hier ein [Tweet von vrom](https://x.com/Vrom14286662/status/1752812192183783541?s=20) wie man "Wallet Connect" in Verbindung mit dem Bloom Wallet verwendet; Und [tide tweetet](https://x.com/Tide_web3/status/1752970912909951443?s=20) über die Partnerschaft mit [Bloom](https://twitter.com/bloomwalletio)
 32. **IOTA Vidoe**: Die [IF tweetet](https://x.com/iota/status/1752753667474678053?s=20) über ein neues IOTA Short Video: [Say good buy to bottlenecks and slow transactions ...](https://www.youtube.com/shorts/P-FvCj8hAbk)
 33. **IOTA Science**: [Mark Hennig tweetet](https://x.com/sap_trainer/status/1752759558928306550?s=20) über ein Patent: [IOTA-Based Distributed Ledger in the Mining Industry: Efficiency, Sustainability and Transparency](https://www.mdpi.com/1424-8220/24/3/923)
@@ -49,5 +49,14 @@
 47. **Shimmer Ökosystem**: [Infernal Uprising tweetet](https://x.com/InfernalNFTs/status/1753133174681432368?s=20), dass man ihre Cpen Beta jetzt getestet wird
 48. **IOTA Ökosystem**: [TangleLabs tweetet](https://x.com/Tangle_Labs/status/1753100907477090678?s=20), dass sie ihre NFTs auf die ShimmerEVM geairdropt haben
 49. **IOTA Stammtisch**: War am Freitag in München: [Tweet](https://x.com/IotaMunchen/status/1751524744690638906?s=20)
-50. 
+50. **IOTA Scam**: Die [IF tweetet](https://x.com/iota/status/1753444293979603187?s=20) über Scam Transaktionen im Wallet auf die man nicht klicken sollte
+51. **Shimmer Promote**: Die Airdrop Promo-Kampagne scheint jetzt voll angelaufen zu sein: [Tweet 1mio follower](https://x.com/Vrom14286662/status/1753391972100784292?s=20); [Tweet 500K follower](https://x.com/Vrom14286662/status/1753407907259920822?s=20); [Tweet 100K follower](https://x.com/Vrom14286662/status/1753419114842906978?s=20); [Chinesen Tweet 100K follower](https://x.com/Vrom14286662/status/1753420734112706740?s=20); [Tweet 800K follower]8https://x.com/Vrom14286662/status/1753445478077780043?s=20); [Tweet 500K follower](https://x.com/Vrom14286662/status/1753453096234066027?s=20); [Tweet 1,3mio follower](https://x.com/Vrom14286662/status/1753453476917461044?s=20)
+52. **IOTA Adoption**: [Mariana de la Roche tweetet](https://x.com/Marianadlrw/status/1753381061118091360?s=20) darüber, dass sie an einem runden Tisch mit der EU Commission gesessen hat und u.a. über [Demia](https://twitter.com/_Demia) gesprochen hat
+53. **IOTA Science**: Ein Patent auf Chinesisch über "A patent uses #IOTA's consensus algorithm for intelligent architecture design + optimization method, device, system + storage for 6G networks": [Tweet](https://x.com/fraenx_/status/1753460647453503885?s=20)
+54. **IOTA NFT**: [Spec Weekly tweetet](https://x.com/SpecWeekly/status/1753653410434551999?s=20) über eine NFT Serie die Kutkraft mit Hilfe von [Sebastian Weber von Akkodis](https://twitter.com/Sebasti65365174) auf der IOTA EVM herausbringen will
+55. **Crypto Adoption**: Facebook und TikTok erlauben jetzt auch Bitcoin Spot ETF WErbungen: [Tweet](https://x.com/bitcoinlfgo/status/1753668219683156174?s=20)
+56. **Shimmer Roadmap**: Dom spricht von einer Shimmer Roadmap die nächste Woche kommen soll: [Tweet mit Screenshot](https://x.com/moonbaklava/status/1753515291424829644?s=20)
+57. **Tangle Treassury**: Die [Tangle Treassury macht ein Thread](https://x.com/TangleTreasury/status/1753464489477808537?s=20) über ihre Zusammenarbeit mit Akkodis, die in Zukunft helfen die Proposals besser zu lesen und gleichzeitig den Projekten helfen können wenn denen noch Developer fehlen; [JD retweetet](https://x.com/Deep_Sea_Iotan/status/1753469614128783611?s=20) das und ist super begeistert davon
+58. **IOTA Wallet**: [Bloom tweetet](https://x.com/bloomwalletio/status/1753140552164311332?s=20) ein Video davon wie man "Wallet Connnect" mit dem Bloom Wallet verbindet (das ist eigentlich die einzige etwas kompliziertre Hürde. Danach kann man Bloom quasi wie Metamask verwenden zumindest im ShimmerEVM Ökosystem)
+59. 
 
