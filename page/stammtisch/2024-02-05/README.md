@@ -71,4 +71,6 @@
 69. **IOTA Ökosystem**: [Bivreost tweetet](https://x.com/bivreost/status/1754401356117422241?s=20) über das Feature-Update 4/10 von ihrem Telegram Wallet "...With Author Mode, you can create collaborative quests, joining forces with other groups and channels for joint events. This not only helps grow your audience but also creates unique opportunities for interaction and value exchange..."
 70. **Crypto Adoption**: Artikel: [El Salvador - “Bitcoin-Präsident” Nayib Bukele zum Staatschef wiedergewählt](https://www.btc-echo.de/schlagzeilen/bitcoin-praesident-nayib-bukele-zum-staatschef-wiedergewaehlt-178394/)
 71. **IOTA Wochenrückblick**: [IOTA-Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/364-wochenr%C3%BCckblick-vom-28-januar-bis-3-februar-2024/)
+72. **IOTA Ökosystem**: [GroupFi tweetet](https://x.com/groupfi_ai/status/1754415818790834523?s=20), dass sie diese Woche bereits für OGs "GroupFi, the first 100% onchain free Web3 messaging protocol" releasen werden. Man kann sich "Unique Web3 Identities" sichern
+73. **Crypto Drama**: Artikel: [GBTC - Genesis beantragt Verkauf von ETF-Anteilen in Milliardenhöhe](https://www.btc-echo.de/schlagzeilen/genesis-beantragt-verkauf-von-etf-anteilen-in-milliardenhoehe-178399/)
 
