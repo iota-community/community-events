@@ -28,7 +28,7 @@
 26. **IOTA Ökosystem**: [TanglePay tweetet](https://x.com/tanglepaycom/status/1752678313041224076?s=20) über ein Update
 27. **Crypto Drama**: Ripple Co Founder wurde gehacked: [Tweet](https://x.com/chrislarsensf/status/1752702297971532258?s=20); Scheinbar wurde er um $110 Millionen betrogen: [Tweet](https://x.com/blockbytescom/status/1752708750752850092?s=20)
 28. **Shimmer Governement**: Es gab ein [Governements Meeting](https://x.com/shimmernet/status/1752738523709317622?s=20) am Donnerstag
-29. **IOTA Audio**: [Tweet von einem AMA mit JD Sutton](https://x.com/StalkersCrypto/status/1752778392376844665?s=20) am Freitag
+29. **IOTA Audio**: [Tweet von einem AMA mit JD Sutton](https://x.com/StalkersCrypto/status/1752778392376844665?s=20) am Freitag: [X-Spaces Event(https://x.com/StalkersCrypto/status/1754512431068721241?s=20)
 30. **IOTA Audio**: [Tweet von einem AMA bei ShimmerSea](https://x.com/ShimmerSeaDEX/status/1752724526947787132?s=20) am Freitag; [Tweet](https://x.com/ShimmerSeaDEX/status/1752724526947787132?s=20)
 31. **IOTA Ökosystem**: [Bloom tweetet](https://x.com/bloomwalletio/status/1752747796350873811?s=20), dass sie das tideprotocol und die unterschiedlichen Shimmer Campagnen im Wallet integriert haben; Viele Leute switchen und sind begeistert; Hier ein [Tweet von vrom](https://x.com/Vrom14286662/status/1752812192183783541?s=20) wie man "Wallet Connect" in Verbindung mit dem Bloom Wallet verwendet; Und [tide tweetet](https://x.com/Tide_web3/status/1752970912909951443?s=20) über die Partnerschaft mit [Bloom](https://twitter.com/bloomwalletio)
 32. **IOTA Vidoe**: Die [IF tweetet](https://x.com/iota/status/1752753667474678053?s=20) über ein neues IOTA Short Video: [Say good buy to bottlenecks and slow transactions ...](https://www.youtube.com/shorts/P-FvCj8hAbk)
@@ -75,4 +75,5 @@
 73. **IOTA Ökosystem**: [GroupFi tweetet](https://x.com/groupfi_ai/status/1754415818790834523?s=20), dass sie GroupFi bereits diese Woche für OGs frei geben. Sie sprechen von: "GroupFi, the first 100% onchain free Web3 messaging protocol". Man kann sich "Unique Web3 Identities" sichern
 74. **Crypto Drama**: Artikel: [GBTC - Genesis beantragt Verkauf von ETF-Anteilen in Milliardenhöhe](https://www.btc-echo.de/schlagzeilen/genesis-beantragt-verkauf-von-etf-anteilen-in-milliardenhoehe-178399/)
 75. **Shimmer Ökosystem**: [Tangle Treasurry tweetet](https://x.com/TangleTreasury/status/1754509762710929654?s=20), dass sie Blockbytes bezahlen um "integration of layer one into their tax solution for both the #Shimmer and #IOTA networks!"
+76. **IOTA 2.0**: Es gab ein weiteres Release: [v1.0.0-alpha.5](https://github.com/iotaledger/iota-core/releases/tag/v1.0.0-alpha.5)
 
