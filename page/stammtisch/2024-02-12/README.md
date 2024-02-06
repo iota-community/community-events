@@ -9,4 +9,4 @@
 7. **IOTA Ökosystem**: [TangleBay tweetet](https://x.com/tanglebay/status/1754822641356058864?s=20) darüber, dass ihre Entrynode wieder hinzugefügt wurden
 8. **Crypto Drama**: Solana ist down: [status.solana.com](https://status.solana.com/); [Tweet](https://twitter.com/SolanaStatus/status/1754813351945789491)
 9. **IOTA Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1754848610779353479?s=20) über eine Partnerschaft mit [hedgeyfinance](https://twitter.com/hedgeyfinance)
-10. 
+10. **Shimmer Roadmap**: [Shimmer tweetet](https://x.com/shimmernet/status/1754867552746881491?s=20) über den Blogpost: [Shimmer's Roadmap and Evolution - From EVM Compatibility to IOTA 2.0, Layer 1 Smart Contracts and Beyond](https://blog.shimmer.network/shimmers-roadmap-and-evolution/)
