@@ -8,4 +8,5 @@
 6. **IOTA Audio**: Das Gespräch mit [Sebastian Müller](https://twitter.com/NaitsabesMue) von der IF beim [TangleTalk](https://twitter.com/tangle_talk) ist jetzt in deren Telegram Gruppe verfügbar
 7. **IOTA Ökosystem**: [TangleBay tweetet](https://x.com/tanglebay/status/1754822641356058864?s=20) darüber, dass ihre Entrynode wieder hinzugefügt wurden
 8. **Crypto Drama**: Solana ist down: [status.solana.com](https://status.solana.com/); [Tweet](https://twitter.com/SolanaStatus/status/1754813351945789491)
-9. 
+9. **IOTA Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1754848610779353479?s=20) über eine Partnerschaft mit [hedgeyfinance](https://twitter.com/hedgeyfinance)
+10. 
