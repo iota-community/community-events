@@ -13,3 +13,4 @@
 11. **Crypto Adoption**: [MicroStrategy](https://twitter.com/MicroStrategy) hat schon wieder 850 BTC gekauft: [Tweet](https://x.com/saylor/status/1754976122607980726?s=20)
 12. **IOTA Wallet**: Es gab ein Firefly Update für Shimmer und IOTA: [Tweet](https://x.com/Vrom14286662/status/1754947049890447396?s=20)
 13. **IOTA Video**: Die [IF tweetet](https://x.com/iota/status/1754913093589623191?s=20) ein neues Shorts Video: [Ho IOTA overcomes Bitcoins limitations ...](https://www.youtube.com/shorts/kHHaoFYmKDc)
+14. **IOTA Nodes**: [Dlt.green tweetet](https://x.com/dlt_green/status/1754985924029456851?s=20) über ein neues Release von dem [node-installer-docker](https://github.com/dlt-green/node-installer-docker)
