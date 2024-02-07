@@ -14,3 +14,6 @@
 12. **IOTA Wallet**: Es gab ein Firefly Update für Shimmer und IOTA: [Tweet](https://x.com/Vrom14286662/status/1754947049890447396?s=20)
 13. **IOTA Video**: Die [IF tweetet](https://x.com/iota/status/1754913093589623191?s=20) ein neues Shorts Video: [Ho IOTA overcomes Bitcoins limitations ...](https://www.youtube.com/shorts/kHHaoFYmKDc)
 14. **IOTA Nodes**: [Dlt.green tweetet](https://x.com/dlt_green/status/1754985924029456851?s=20) über ein neues Release von dem [node-installer-docker](https://github.com/dlt-green/node-installer-docker)
+15. **Shimmer Adoption**: Die [ETO Gruppe tweetet](https://x.com/EtoGruppe/status/1755125561846874304?s=20) über ihre neue [Cawaena](https://play.google.com/store/search?q=cawaena&c=apps&gl=DE) App aus dem Google Playstore die im Prinzip ein besseres Instagram (bezüglich privacy und mit SMR wallet) werden soll; [Ben Böhnisch schreibt](https://x.com/BenBoenisch/status/1755144561502904825?s=20) sie haben 4 Jahre daran gearbeitet und auch [viviswap gratuliert](https://x.com/viviswapcom/status/1755148061028839903?s=20) deren Service (Fiat on off ramp und KYC) integriert wurde; Es gibt sogar eine Webseite: [cawaena.com](https://cawaena.com/#/main/home)
+16. **Shimmer Ökosystem**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1755172635464413309?s=20) über 5 mio requests per day die sie abarbeiten
+17. 
