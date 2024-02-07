@@ -19,3 +19,4 @@
 17. **IOTA NFT**: Neues NFT Projekt von [Spec Weekly](https://twitter.com/SpecWeekly) und [Kutkraft](https://twitter.com/kutkraft) und [Sebastian Weber](https://twitter.com/Sebasti65365174): [Tweet](https://x.com/SpecWeekly/status/1755186256911421729?s=20)
 18. **IOTA Artikel**: [Zulieferer Eto macht sich fit für Zukunftsmärkte](https://www.schwaebische.de/wirtschaft/zulieferer-eto-macht-sich-fit-fuer-zukunftsmaerkte-2250370)
 19. **IOTA Promote**: Ein [Thread von der IF](https://x.com/iota/status/1755260133121175954?s=20) über alles Wissenswerte rund um IOTA 2.0 ("ultimate guide to navigate the world of #IOTA!")
+20. **IOTA Nodes**: [DLT-green tweetet](https://x.com/dlt_green/status/1755276718636437622?s=20) darüber, dass man mit seinem [Node-Installer-Docker](https://github.com/dlt-green/node-installer-docker) nur 3 min braucht, eine eigene Node aufzusetzen
