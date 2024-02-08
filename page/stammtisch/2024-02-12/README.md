@@ -23,4 +23,4 @@
 21. **Crypto Adoption**: Die Solana Foundation hat jetzt auch eine MoU unterschrieben im Abu Dhabi Global Market: [Tweet](https://x.com/ADGlobalMarket/status/1755560414186754173?s=20)
 22. **Shimmer Scam NFTs**: [Bloom tweetet](https://x.com/bloomwalletio/status/1755566233666064479?s=20), wie man die Scam NFTs von der "IOTA-Lotery" burnen kann/sollte
 23. **Shimmer EVM**: [IOTAMPC tweetet](https://x.com/iotampc/status/1755546510111252798?s=20), dass $1,5mio in IOTA Token über die IOTA MPC bridge gebridged wurden
-24. 
+24. **Shimmer Airdrop**: [Deepr.finance tweetet](https://x.com/DeeprFinance/status/1755587282373943708?s=20), dass sie jetzt auch dabei sind und zustzliche Rewards austeilen
