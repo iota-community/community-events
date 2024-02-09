@@ -24,3 +24,7 @@
 22. **Shimmer Scam NFTs**: [Bloom tweetet](https://x.com/bloomwalletio/status/1755566233666064479?s=20), wie man die Scam NFTs von der "IOTA-Lotery" burnen kann/sollte
 23. **Shimmer EVM**: [IOTAMPC tweetet](https://x.com/iotampc/status/1755546510111252798?s=20), dass $1,5mio in IOTA Token über die IOTA MPC bridge gebridged wurden
 24. **Shimmer Airdrop**: [Deepr.finance tweetet](https://x.com/DeeprFinance/status/1755587282373943708?s=20), dass sie jetzt auch dabei sind und zustzliche Rewards austeilen
+25. **IOTA Adoption**: [Blockpit tweetet](https://x.com/blockpit_io/status/1755643485334487185?s=20) darüber, dass sie "IOTA und Shimmer (L1) Blockchains" integriert haben
+26. **IOTA Audio**: Mosquito Pay war im TangleTalk Sprachchat: [Tweet](https://x.com/tangle_talk/status/1755649215395451286?s=20)
+27. **Shimmer Audit**: Die [Shimmer.Bridge](https://shimmerbridge.org/bridge) wurde intensiv auditiert: [Tweet](https://x.com/shimmerbridge/status/1755603174063493247?s=20)
+28. **IOTA Artikel**: [TangleverseTimes tweetet](https://x.com/TangleverseWeb/status/1755615542445273457?s=20) über die neue [Tangleverse Times](https://times.tangleverse.io/shimmerbridge/)
