@@ -29,3 +29,4 @@
 27. **Shimmer Audit**: Die [Shimmer.Bridge](https://shimmerbridge.org/bridge) wurde intensiv auditiert: [Tweet](https://x.com/shimmerbridge/status/1755603174063493247?s=20)
 28. **IOTA Artikel**: [TangleverseTimes tweetet](https://x.com/TangleverseWeb/status/1755615542445273457?s=20) über die neue [Tangleverse Times](https://times.tangleverse.io/shimmerbridge/)
 29. **Allg. News**: Es gab ein Interview zw. Tucker Carlson und Putin. Aber die wirklich harten Fragen wurden nicht gestellt... [Tweet](https://x.com/TuckerCarlson/status/1755734526678925682?s=20)
+30. **Bitcoin Pump**: Der Bitcoin pumpt am Freitag auf über $47K
