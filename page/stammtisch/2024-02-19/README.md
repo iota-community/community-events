@@ -11,3 +11,4 @@
 9. **Shimmer Airdrop Guide**: von ReveloIntel ein [Shimmer Airdrop Guide](https://revelointel.com/airdrop-guides/shimmer/)
 10. **IOTA Ökosystem**: Nach dem Release ihres Whitepapers ([Tweet](https://x.com/RustyRobotCC/status/1757118112434942309?s=20)) und dem ersten Revenue Stream ([Tweet](https://x.com/RustyRobotCC/status/1757052383857656115?s=20)) wurde die Kollektion von den Rusty Robots schnell ausverkauft: [Tweet](https://x.com/RustyRobotCC/status/1757441235185250651?s=20)
 11. **IOTA Ökosystem**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1757407898546602139?s=20) über ihren Blogpost: [Get to Know the Team: Eduardo Pelitti](https://medium.com/@NakamaLabs/get-to-know-the-team-eduardo-pelitti-3249b201944f)
+12. **IOTA Video**: von Probably Nothing: [Spyce.5 Holger Köther Interview 1/2 - IOTA & Shimmer News](https://www.youtube.com/watch?v=Lej4MbdFm5o)
