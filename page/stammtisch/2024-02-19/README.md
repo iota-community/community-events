@@ -22,4 +22,4 @@
 20. **IOTA Audio**: Holger Köther war bei den Krypto Nerds: [Tweet](https://x.com/tangle_talk/status/1757726458309497205?s=20)
 21. **IOTA Event**: Am Donnerstag war ein Event in Nürnberg mit Spyce.5: [Tweet](https://x.com/SPYCE_5/status/1757722356393329105?s=20)
 22. **Crypto Drama**: Artikel: [Die Grünen wollen die Krypto-Jahreshaltefrist abschaffen](https://www.btc-echo.de/news/die-gruenen-wollen-die-krypto-jahreshaltefrist-abschaffen-cv-178744/)
-23. 
+23. **IOTA Artikel**: von IT-Finance: [IDnow und vier Partner wollen den Identifizierungsprozess bei Krypto-Anbietern tokenisieren](https://www.it-finanzmagazin.de/casps-idnow-will-identifizierungsprozess-tokenisieren-199871/)
