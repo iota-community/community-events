@@ -12,3 +12,14 @@
 10. **IOTA Ökosystem**: Nach dem Release ihres Whitepapers ([Tweet](https://x.com/RustyRobotCC/status/1757118112434942309?s=20)) und dem ersten Revenue Stream ([Tweet](https://x.com/RustyRobotCC/status/1757052383857656115?s=20)) wurde die Kollektion von den Rusty Robots schnell ausverkauft: [Tweet](https://x.com/RustyRobotCC/status/1757441235185250651?s=20)
 11. **IOTA Ökosystem**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1757407898546602139?s=20) über ihren Blogpost: [Get to Know the Team: Eduardo Pelitti](https://medium.com/@NakamaLabs/get-to-know-the-team-eduardo-pelitti-3249b201944f)
 12. **IOTA Video**: von Probably Nothing: [Spyce.5 Holger Köther Interview 1/2 - IOTA & Shimmer News](https://www.youtube.com/watch?v=Lej4MbdFm5o)
+13. **Crypto Adoption**: Gary Gensler war mal wieder im Fernsehen und hat sich blamiert beim Thema Bitcoin: [Tweet](https://x.com/blocktrainer/status/1757804187499286582?s=20)
+14. **Crypto Hype**: Bitcoin durchbricht am Mittwoch die $52K
+15. **IOTA Wallet**: Es gab ein Update vom Firefly Wallet für Shimmer und IOTA auf [firefly.iota.org](https://firefly.iota.org/)
+16. **IOTA Video**: [Probably Nothing tweetet](https://x.com/shortaktien/status/1757469220864979330?s=20) über [Spyce.5 Holger Köther Interview 1/2 - IOTA & Shimmer News](https://www.youtube.com/watch?v=Lej4MbdFm5o) und [Spyce.5 Holger Köther Interview 2/2 - IOTA & Shimmer News](https://www.youtube.com/watch?v=UtXfd96FQ0w)
+17. **IOTA Nodes**: [DLT.green tweetet](https://x.com/dlt_green/status/1757731694805754202?s=20) über ein Update von [node-installer-docker](node-installer-docker) 
+18. **IOTA Adoption**: [Bloom tweetet](https://x.com/bloomwalletio/status/1757749156699861287?s=20) über den Artikel: [IDNOW’S CRYPTO CONSORTIUM PROPOSES ID TOKENIZATION FOR TRANSFER OF FUNDS REGULATION (TFR)](https://financefeeds.com/idnows-crypto-consortium-proposes-id-tokenization-for-transfer-of-funds-regulation-tfr/)
+19. **IOTA Adoption**: Jelle Milenar hat sich [hier im iota Discord](https://discord.com/channels/397872799483428865/738665041217323068/1207268213050703892) sehr positiv über die Entwicklung von DiD und die Partnerschaft mit idNow und dem Soul Bound Token geäußert.
+20. **IOTA Audio**: Holger Köther war bei den Krypto Nerds: [Tweet](https://x.com/tangle_talk/status/1757726458309497205?s=20)
+21. **IOTA Event**: Am Donnerstag war ein Event in Nürnberg mit Spyce.5: [Tweet](https://x.com/SPYCE_5/status/1757722356393329105?s=20)
+22. **Crypto Drama**: Artikel: [Die Grünen wollen die Krypto-Jahreshaltefrist abschaffen](https://www.btc-echo.de/news/die-gruenen-wollen-die-krypto-jahreshaltefrist-abschaffen-cv-178744/)
+23. 
