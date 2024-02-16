@@ -40,4 +40,5 @@
 38. **IOTA Audio**: [Iotapenguin](https://twitter.com/iota_penguin) von [NakamaLabs](https://twitter.com/Nakama_Labs) war im TangleTalk Sprachchat: [Tweet](https://x.com/tangle_talk/status/1758416378514592111?s=20)
 39. **IOTA 2.0 Promote**: Die [IF tweetet](https://x.com/iota/status/1758536867903852715?s=20) ein neues Shorts Video zu IOTA 2.0
 40. **Shimmer EVM DeFi**: [Deepr.Finance tweetet](https://x.com/DeeprFinance/status/1758534529713582462?s=20), dass man jetzt Deepr Token Staken kann
-41. 
+41. **IOTA Adoption**: Adri Wischmann war auf der großen Bühne bei einem Event von der Landesbank Baden Würtemberg: [Tweet von pbtoken (MultiKnip)](https://x.com/pbtokn/status/1758463911387394347?s=20)
+40. **IOTA Adoption**: Die Rusty Robots sind jetzt auf Spotify: [Tweet](https://x.com/RustyRobotCC/status/1758479689339769011?s=20)
