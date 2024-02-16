@@ -35,3 +35,5 @@
 33. **Ki News**: [Google veröffentlicht Gemini 1.5 Pro](https://x.com/Google/status/1758209601109987641?s=20)
 34. **Ki News**: Holy Shit moment für Text to Video; [Open Ai veröffentlicht Sora Ai](https://x.com/OpenAI/status/1758192957386342435?s=20); Hier ein [Thread](https://x.com/heyBarsee/status/1758377540870160442?s=20) mit mehreren Videos
 35. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1758400827528532436?s=20) über eine neue Mission
+36. **Crypto Adoption**: Neue Werbung von BlackRock: [Tweet](https://x.com/DocumentingBTC/status/1758336077683650775?s=20)
+37. 
