@@ -38,3 +38,6 @@
 36. **Crypto Adoption**: Neue Werbung von BlackRock: [Tweet](https://x.com/DocumentingBTC/status/1758336077683650775?s=20)
 37. **IOTA Adoption**: [Spyce_5 sucht](https://x.com/SPYCE_5/status/1758446576412889213?s=20) web3 games die eine AppChain starten wollen
 38. **IOTA Audio**: [Iotapenguin](https://twitter.com/iota_penguin) von [NakamaLabs](https://twitter.com/Nakama_Labs) war im TangleTalk Sprachchat: [Tweet](https://x.com/tangle_talk/status/1758416378514592111?s=20)
+39. **IOTA 2.0 Promote**: Die [IF tweetet](https://x.com/iota/status/1758536867903852715?s=20) ein neues Shorts Video zu IOTA 2.0
+40. **Shimmer EVM DeFi**: [Deepr.Finance tweetet](https://x.com/DeeprFinance/status/1758534529713582462?s=20), dass man jetzt Deepr Token Staken kann
+41. 
