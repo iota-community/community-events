@@ -39,8 +39,9 @@
 37. **IOTA Adoption**: [Spyce_5 sucht](https://x.com/SPYCE_5/status/1758446576412889213?s=20) web3 games die eine AppChain starten wollen
 38. **IOTA Audio**: [Iotapenguin](https://twitter.com/iota_penguin) von [NakamaLabs](https://twitter.com/Nakama_Labs) war im TangleTalk Sprachchat: [Tweet](https://x.com/tangle_talk/status/1758416378514592111?s=20)
 39. **IOTA 2.0 Promote**: Die [IF tweetet](https://x.com/iota/status/1758536867903852715?s=20) ein neues Shorts Video zu IOTA 2.0
-40. **Shimmer EVM DeFi**: [Deepr.Finance tweetet](https://x.com/DeeprFinance/status/1758534529713582462?s=20), dass man jetzt Deepr Token Staken kann
-41. **IOTA Adoption**: Adri Wischmann war auf der großen Bühne bei einem Event von der Landesbank Baden Würtemberg: [Tweet von pbtoken (MultiKnip)](https://x.com/pbtokn/status/1758463911387394347?s=20); Es gibt jetzt auch eine Webseite von Multiknip (bzw. purpose bound token): [pbtokn.com](https://pbtokn.com/); Und auch ein [pitchdeck.pdf](https://pbtokn.com/files/MultiKnip.pdf)
+40. **IOTA Youtube**: von CryptoAvon2626: [Anwendung, News,Roadmap und Nutzen von IOTA & Shimmer! Blocktrainer hinterfrägt ganz DLT!](https://www.youtube.com/watch?v=i_Eh2ykkFSA&t=1173s)
+41. **Shimmer EVM DeFi**: [Deepr.Finance tweetet](https://x.com/DeeprFinance/status/1758534529713582462?s=20), dass man jetzt Deepr Token Staken kann
+42. **IOTA Adoption**: Adri Wischmann war auf der großen Bühne bei einem Event von der Landesbank Baden Würtemberg: [Tweet von pbtoken (MultiKnip)](https://x.com/pbtokn/status/1758463911387394347?s=20); Es gibt jetzt auch eine Webseite von Multiknip (bzw. purpose bound token): [pbtokn.com](https://pbtokn.com/); Und auch ein [pitchdeck.pdf](https://pbtokn.com/files/MultiKnip.pdf)
 40. **IOTA Adoption**: Die Rusty Robots sind jetzt auf Spotify: [Tweet](https://x.com/RustyRobotCC/status/1758479689339769011?s=20)
 41. **Allg. News**: Artikel: [Mehr als 100 Festnahmen bei Trauerkundgebungen für Nawalny](https://www.spiegel.de/ausland/alexej-nawalny-mehr-als-100-festnahmen-bei-trauerkundgebungen-a-cc22ebb5-6ae2-4973-9b1a-2c24f68a4108#ref=rss)
 42. **IOTA Artikel**: Die [IF tweetet](https://x.com/iota/status/1758823613631701477?s=20) über den Artikel: [KYC Done Right With IOTA](https://coinmarketcap.com/community/articles/65cb59ffd9d1043e17d61875/)
