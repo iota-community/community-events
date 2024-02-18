@@ -51,3 +51,4 @@
 47. **IOTA Wochenrückblick**: Hier der [Wochenrückblick](https://www.iota-talk.com/index.php?article/368-wochenr%C3%BCckblick-vom-11-bis-17-februar-2024/) von [IOTA-Talk](https://twitter.com/Iota_Talk_)
 48. **Tangle Community Treasury**: [Garret tweetet](https://x.com/GarrettBullish/status/1759097324977209379?s=20), dass er nicht mehr zur Verfügung steht, weil er sich voll auf [GroupFI](https://twitter.com/groupfi_ai) konzentrieren will
 49. **Tangle Community Treasury**: Die [TCT tweetet](https://x.com/TangleTreasury/status/1759293438493684039?s=20) über ein neues [Survey](https://www.tangletreasury.org/survey-form) das wir ausfüllen sollen
+50. **IOTA Ökosystem**: [Epoch Zero tweetet](https://x.com/Epoch_0/status/1759032504730698144?s=20) über ihr neuen NFT Marktplatz den sie integriert haben auf [nft.epochzero.io](https://nft.epochzero.io/)
