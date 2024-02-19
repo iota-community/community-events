@@ -56,3 +56,4 @@
 51. **IOTA Wallet**: [Bivreost tweetet](https://x.com/bivreost/status/1759475673037463608?s=20), dass sie in Zukunft auch NFTs unterstützen werden in ihrem Telegram Wallet
 52. **IOTA 2.0 SC**: Letzte Woche gab es wohl ein anstrengendes Summit von der IF auf dem sie unter anderem über L1 Smart Contracts gesprochen haben: [Tweet mit Screenshot von Muxxer](https://x.com/Vrom14286662/status/1759323948645261364?s=20)
 53. **IOTA Ökosystem**: [GroupFi tweetet](https://x.com/groupfi_ai/status/1759413078083752010?s=20) ein Video Tutorial zum Beta-Test ihres NFT Messangers: [Groupfi public alpha test guide](https://www.youtube.com/watch?v=myQdLUicO8g&t=50s)
+54. **Shimmer Ökosystem**: [IOTAheroes retweeten](https://x.com/IotaHeroes/status/1759534506816483754?s=20), dass sie das Bloom Wallet integriert haben
