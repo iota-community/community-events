@@ -58,3 +58,4 @@
 53. **IOTA Ökosystem**: [GroupFi tweetet](https://x.com/groupfi_ai/status/1759413078083752010?s=20) ein Video Tutorial zum Beta-Test ihres NFT Messangers: [Groupfi public alpha test guide](https://www.youtube.com/watch?v=myQdLUicO8g&t=50s)
 54. **Shimmer Ökosystem**: [IOTAheroes retweeten](https://x.com/IotaHeroes/status/1759534506816483754?s=20), dass sie das Bloom Wallet integriert haben
 55. **Crypto Adoption**: Die Bitcoin ETFs haben in 7 Tagen $3,2 Milliarden an "inflow" gehabt: [Tweet](https://x.com/BTC_Archive/status/1759591498218127625?s=20)
+56. **IOTA Ökosystem**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1759595954347421750?s=20) über die AppChains die jetzt jeder ganz einfach und zum Testen umsonst bei [app.spyce5.com](https://app.spyce5.com/public-networks/appchains) aufsetzen kann
