@@ -5,4 +5,7 @@
 3. **IOTA Audio**: [Blockbytes tweetet](https://x.com/blockpit_io/status/1759673105826353286?s=20) über das Webinar: [IOTA & Shimmer Tax Mastery: Elevate Your Crypto Reporting - Webinar](https://www.youtube.com/watch?v=NDn10zUvllQ&t=1s)
 4. **IOTA Event**: Es gibt ein EU EBSI Podcast am 13.3.23 über den EBSI Rollout: [Tweet](https://x.com/validvent/status/1759863829373047240?s=20)
 5. **Crypto Drama**: Es gibt ein Foto von Sam Bankman aus dem Knast wo er neben so nem ehemaligen Blood-Gang Mitglied steht: [Tweet](https://x.com/TiffanyFong_/status/1759766268385935564?s=20); Und in dem [Interview](https://x.com/TiffanyFong_/status/1759771479645020571?s=20) erfährt man, dass er krass abgenommen hat und nicht duscht...
-6. 
+6. **IOTA Ökosystem**: [IotaOrigin tweetet](https://x.com/origin_iota/status/1759902013695906200?s=20) über ihre neuen [NFTpools V2](https://www.snippool.xyz/Collections)
+7. **IOTA Ökosystem**: [walt.id tweetet](https://x.com/walt_id/status/1759894598065811767?s=20) über das neue Demo Video: [The walt.id Compliance Service | Demo](https://www.youtube.com/watch?v=NU-NeR0Tymg)
+8. **IOTA Ökosystem**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1759903150817911122?s=20) über [Hybrid Blockchains: The Optimal Choice for Buisiness Innovation](https://spyce5.com/appchains/hybrid-blockchains-the-optimal-choice-for-business-innovation/)
+9.  
