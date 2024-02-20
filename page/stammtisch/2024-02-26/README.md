@@ -8,4 +8,5 @@
 6. **IOTA Ökosystem**: [IotaOrigin tweetet](https://x.com/origin_iota/status/1759902013695906200?s=20) über ihre neuen [NFTpools V2](https://www.snippool.xyz/Collections)
 7. **IOTA Ökosystem**: [walt.id tweetet](https://x.com/walt_id/status/1759894598065811767?s=20) über das neue Demo Video: [The walt.id Compliance Service | Demo](https://www.youtube.com/watch?v=NU-NeR0Tymg)
 8. **IOTA Ökosystem**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1759903150817911122?s=20) über [Hybrid Blockchains: The Optimal Choice for Buisiness Innovation](https://spyce5.com/appchains/hybrid-blockchains-the-optimal-choice-for-business-innovation/)
-9.  
+9. **IOTA Ökosystem**: [Dom Guinard tweetet](https://x.com/domguinard/status/1759926289245368453?s=20) darüber, dass er beim GS1 Global Forum 2024 den letzten Stand ihres digitalen Product Passport vorgeführt haben in Kollaboration mit IOTA digimarc und EU EBSI
+10. **IOTA Ökosystem**: [Fluent Finance tweetet](https://x.com/Fluentinfra/status/1759925116425879613?s=20) über den Artikel: [Forget ETFs, Let’s Work on Tokenizing the Whole Value Chain](https://www.coindesk.com/business/2024/02/07/forget-etfs-lets-work-on-tokenizing-the-whole-value-chain/?utm_medium=social&utm_campaign=coindesk_main&utm_source=twitter&utm_content=editorial&utm_term=organic)
