@@ -24,4 +24,5 @@
 22. **X-Gezwitscher**: [Hans Moog Thread](https://x.com/hus_qy/status/1760121636483743949?s=20) zu Nano und was bei Netzwerküberlastung (congestion) passiert
 23. **IOTA Ökosystem**: [SoonLabs tweetet](https://x.com/soon_labs/status/1760549053589565563?s=20) über [Lord_Scifi](https://twitter.com/Lord_SciFi) dem neuen Teammitglied im Soon Committee
 24. **IOTA Adoption**: Ein [Thread von Mat Yager](https://x.com/Mat_Yarger/status/1760465223805268209?s=20) darüber, dass ihre Tangle L2 Lösung eine beidseitige Oracle Bridge zu hedera (Hyperledger) implementiert hat. Er schreibt u.a. "Allowing a non @iota chain, to publish critical market data onto an #IOTA based chain, and then pull that data feed back into @hedera smart contracts and services."
-25. **Crypto Drama**: Die [EZB mit einem FUD-Tweet](https://x.com/ecb/status/1760580254920212640?s=20) über Bitcoin und verlinkt den Artikel: [ETF approval for bitcoin – the naked emperor’s new clothes](https://www.ecb.europa.eu/press/blog/date/2024/html/ecb.blog20240222~0929f86e23.en.html)
+25. **Crypto Drama**: Die EZB macht ein [FUD-Tweet](https://x.com/ecb/status/1760580254920212640?s=20) über Bitcoin und verlinkt den Blogpost: [ETF approval for bitcoin – the naked emperor’s new clothes](https://www.ecb.europa.eu/press/blog/date/2024/html/ecb.blog20240222~0929f86e23.en.html)
+26. 
