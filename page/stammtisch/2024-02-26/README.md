@@ -31,3 +31,6 @@
 29. **IOTA Migration**: Die [IF tweetet](https://x.com/iota/status/1760665758542029149?s=20) über das neue Migrations Tool: [ntroducing the IOTA Legacy Migration Tool - Migrate Your Tokens from Legacy Network to Stardust](https://blog.iota.org/iota-legacy-migration-tool/)
 30. **IOTA Video**: von Blockbytes: [Full Breakdown of L1 Chain Haven1!](https://twitter.com/i/broadcasts/1ynKOyzRZekJR)
 31. **Crypto Adoption**: [Reuters (25mio follower) tweetet](https://x.com/Reuters/status/1757845939543216225?s=20) eine Bitcoin Werbung die von dem World Gold Council gesponort wurde...
+32. **IOTA Ökosystem**: Bloom -> Bitcoin Base Camp: [Thread](https://x.com/bloomwalletio/status/1760696954168700937?s=20); Blogpost: [Bloom Joins Bitcoin Base Camp](https://medium.com/bloom-wallet/bloom-joins-bitcoin-base-camp-ce9cad25cbb4); Hier der Blogpost von Outlier Ventures dazu: [Outlier Ventures Reveals the Nine Teams in the Bitcoin Base Camp Cohort with Plassa Capital and IOV Labs](https://outlierventures.io/article/outlier-ventures-reveals-the-nine-teams-in-the-bitcoin-base-camp-cohort-with-plassa-capital-and-iov-labs/)
+33. **IOTA Audio**: Luca Moser war am Donnerstag im Tangle Talk: [Tweet](https://x.com/tangle_talk/status/1760692762012176522?s=20)
+34. **IOTA 2.0 Video**: Neues Short Video: [Tweet mit Video](https://x.com/iota/status/1760711269726749170?s=20)
