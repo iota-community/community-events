@@ -39,3 +39,10 @@
 37. **IOTA Validator**: Die [ETO Gruppe verkündet](https://x.com/EtoGruppe/status/1760984249057083652?s=20) öffentlich, dass sie einer der Stardust Validatoren sind und veröffentlichen den Blogpost: [IOTA Takes an Important Step with ETO](https://www.etogruppe.com/en/news/eto-news/iota-takes-an-important-step-with-eto.html)
 38. **IOTA Ökosystem**: [Spyce 5 macht ein Thread](https://x.com/SPYCE_5/status/1760990484229390376?s=20) über ihren Blogpost: [First Step Towards a Hybrid Multichain Ecosystem](https://x.com/SPYCE_5/status/1760990484229390376?s=20)
 39. **Crypto Adoption**: "Bitcoin" war im Bundestag: [Tweet](https://x.com/JoanaCotar/status/1760983830347776127?s=20)
+40. **IOTA Ökosystem**: Die [Rusty Robots tweeten](https://x.com/RustyRobotCC/status/1761019797834256614?s=20) über ihre Partnerschaft mit [TuneCore](https://twitter.com/TuneCore) "MAKE MUSIC. GET PAID. KEEP 100% Sell your music on Spotify, Apple Music, TikTok & more #IndependentAF"
+41. **Shimmer Promote**: [Id.IOTA hat ein Thread](https://x.com/id_iota/status/1761038557458661590?s=20) über Shimmer gemacht und kommt zu dem Schluss, dass vom MarketCap her ein guter Invest wäre
+42. **Allg. News**: Canabiskonsum wurde in Deutschland
+43. **IOTA Youtube**: Video-Aufnahme von dem [Spyce 5 Webinar](https://www.youtube.com/watch?v=vMfwRdizwl0)
+44. **Crypto Wahnsinn**: Ein [Vorschlag zum Fee-Switch zu UNI](https://x.com/eek637/status/1761029351263318151?s=20) bei Uniswap lässt den $UNI Token um über 50% in 1h steigen
+45. **IOTA Adoption**: [Trademark Africa tweetet](https://x.com/TradeMarkAfrica/status/1761019710542393374?s=20) über [The Weekly Scoop, Feb 23, 2024](https://mailchi.mp/trademarkafrica.com/strides-towards-one-africa-market-the-weekly-scoop-359384) mit IOTA inside
+46. **Crypto Drama**: AVAX C-Chain haltet: [Tweet](https://x.com/Cointelegraph/status/1761005428744318985?s=20)
