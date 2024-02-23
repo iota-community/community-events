@@ -40,9 +40,12 @@
 38. **IOTA Ökosystem**: [Spyce 5 macht ein Thread](https://x.com/SPYCE_5/status/1760990484229390376?s=20) über ihren Blogpost: [First Step Towards a Hybrid Multichain Ecosystem](https://x.com/SPYCE_5/status/1760990484229390376?s=20)
 39. **Crypto Adoption**: "Bitcoin" war im Bundestag: [Tweet](https://x.com/JoanaCotar/status/1760983830347776127?s=20)
 40. **IOTA Ökosystem**: Die [Rusty Robots tweeten](https://x.com/RustyRobotCC/status/1761019797834256614?s=20) über ihre Partnerschaft mit [TuneCore](https://twitter.com/TuneCore) "MAKE MUSIC. GET PAID. KEEP 100% Sell your music on Spotify, Apple Music, TikTok & more #IndependentAF"
-41. **Shimmer Promote**: [Id.IOTA hat ein Thread](https://x.com/id_iota/status/1761038557458661590?s=20) über Shimmer gemacht und kommt zu dem Schluss, dass vom MarketCap her ein guter Invest wäre
+41. **Shimmer Promote**: [Id.IOTA hat ein Thread](https://x.com/id_iota/status/1761038557458661590?s=20) über Shimmer gemacht und kommt zu dem Schluss, dass vom MarketCap her ein guter Invest wäre; [IOTAPoet tweetet](https://x.com/IotaPoet/status/1761056287687618933?s=20) dagegen
 42. **Allg. News**: Canabiskonsum wurde in Deutschland
 43. **IOTA Youtube**: Video-Aufnahme von dem [Spyce 5 Webinar](https://www.youtube.com/watch?v=vMfwRdizwl0)
 44. **Crypto Wahnsinn**: Ein [Vorschlag zum Fee-Switch zu UNI](https://x.com/eek637/status/1761029351263318151?s=20) bei Uniswap lässt den $UNI Token um über 50% in 1h steigen
 45. **IOTA Adoption**: [Trademark Africa tweetet](https://x.com/TradeMarkAfrica/status/1761019710542393374?s=20) über [The Weekly Scoop, Feb 23, 2024](https://mailchi.mp/trademarkafrica.com/strides-towards-one-africa-market-the-weekly-scoop-359384) mit IOTA inside
-46. **Crypto Drama**: AVAX C-Chain haltet: [Tweet](https://x.com/Cointelegraph/status/1761005428744318985?s=20)
+46. **Crypto Drama**: AVAX C-Chain ist stehen geblieben: [Tweet](https://x.com/Cointelegraph/status/1761005428744318985?s=20); Artikel: [Avalanche Is Back Up After Failing to Produce Block for Four Hours](https://www.coindesk.com/business/2024/02/23/avalanche-suffers-outage-fails-to-produce-block-for-almost-two-hours/)
+47. **IOTA Audio**: Am Freitag war ein AMA von ShimmerSea.finance: [Tweet](https://x.com/ShimmerSeaDEX/status/1761103632009658815?s=20)
+48. **Shimmer Ökosystem**: Nexan implementiert Shimmer: [Tweet von Nexan](https://x.com/nexancoin/status/1761040349122994293?s=20)
+49. 
