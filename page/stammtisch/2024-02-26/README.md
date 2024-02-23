@@ -34,3 +34,5 @@
 32. **IOTA Ökosystem**: Bloom -> Bitcoin Base Camp: [Thread](https://x.com/bloomwalletio/status/1760696954168700937?s=20); Blogpost: [Bloom Joins Bitcoin Base Camp](https://medium.com/bloom-wallet/bloom-joins-bitcoin-base-camp-ce9cad25cbb4); Hier der Blogpost von Outlier Ventures dazu: [Outlier Ventures Reveals the Nine Teams in the Bitcoin Base Camp Cohort with Plassa Capital and IOV Labs](https://outlierventures.io/article/outlier-ventures-reveals-the-nine-teams-in-the-bitcoin-base-camp-cohort-with-plassa-capital-and-iov-labs/)
 33. **IOTA Audio**: Luca Moser war am Donnerstag im Tangle Talk: [Tweet](https://x.com/tangle_talk/status/1760692762012176522?s=20)
 34. **IOTA 2.0 Video**: Neues Short Video: [Tweet mit Video](https://x.com/iota/status/1760711269726749170?s=20)
+35. **Crypto Adoption**: Trump äußert sich zu Bitcoin im Interview: [Tweet](https://x.com/CryptoTea_/status/1760855542241587473?s=20)
+36. 
