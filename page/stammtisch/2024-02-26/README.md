@@ -35,4 +35,6 @@
 33. **IOTA Audio**: Luca Moser war am Donnerstag im Tangle Talk: [Tweet](https://x.com/tangle_talk/status/1760692762012176522?s=20)
 34. **IOTA 2.0 Video**: Neues Short Video: [Tweet mit Video](https://x.com/iota/status/1760711269726749170?s=20)
 35. **Crypto Adoption**: Trump äußert sich zu Bitcoin im Interview: [Tweet](https://x.com/CryptoTea_/status/1760855542241587473?s=20)
-36. 
+36. **Crypto Adoption**: Artikel: [Reddit macht Bitcoin- und weitere Krypto-Holdings vor Börsengang öffentlich!](https://www.blocktrainer.de/reddit-macht-bitcoin-krypto-holdings-oeffentlich/)
+37. **IOTA Validator**: Die [ETO Gruppe verkündet](https://x.com/EtoGruppe/status/1760984249057083652?s=20) öffentlich, dass sie einer der Stardust Validatoren sind und veröffentlichen den Blogpost: [IOTA Takes an Important Step with ETO](https://www.etogruppe.com/en/news/eto-news/iota-takes-an-important-step-with-eto.html)
+38. **IOTA Ökosystem**: [Spyce 5 macht ein Thread](https://x.com/SPYCE_5/status/1760990484229390376?s=20) über ihren Blogpost [First Step... Multichain](https://x.com/SPYCE_5/status/1760990484229390376?s=20)
