@@ -48,4 +48,8 @@
 46. **Crypto Drama**: AVAX C-Chain ist stehen geblieben: [Tweet](https://x.com/Cointelegraph/status/1761005428744318985?s=20); Artikel: [Avalanche Is Back Up After Failing to Produce Block for Four Hours](https://www.coindesk.com/business/2024/02/23/avalanche-suffers-outage-fails-to-produce-block-for-almost-two-hours/)
 47. **IOTA Audio**: Am Freitag war ein AMA von ShimmerSea.finance: [Tweet](https://x.com/ShimmerSeaDEX/status/1761103632009658815?s=20)
 48. **Shimmer Ökosystem**: Nexan implementiert Shimmer: [Tweet von Nexan](https://x.com/nexancoin/status/1761040349122994293?s=20)
-49. 
+49. **Crypto Entertainment**: Bitboy Crypto hat sich geprügelt gegen so einen Memecoin developer: [Tweet 1](https://x.com/MacMallyMMA/status/1761255660199534817?s=20); [Tweet 2](https://x.com/3orovik/status/1761254613917831335?s=20); [Tweet 3](https://x.com/mcshane_writes/status/1761264353834062086?s=20)
+50. **IOTA Youtube**: [Spec Weekly tweetet](https://x.com/SpecWeekly/status/1761309013587734942?s=20) über sein neues Video: [IOTA'S TANGLEVERSE: The project hub for our ecosystem](https://www.youtube.com/watch?v=1vpycXqeVFI)
+51. **Crypto Drama**: Es sind viele neue Emails von Satoshi Nakamoto aufgetaucht: [Thread](https://x.com/adamscochran/status/1761111031928033749?s=20)
+52. **IOTA Stammtisch**: Am Freitag ist [IOTA Stammtisch in MÜnchen](https://www.meetup.com/iota-muc/events/299120534/)
+53. **Crypto Adoption**: Der Präsident von El Salvador klärt die Leute auf, dass es nur eine Ilusion ist, dass Steuern dazu da sind die Regierung zu bezahlen: [Tweet](https://x.com/WalkerAmerica/status/1761101033915273542?s=20)
