@@ -53,3 +53,5 @@
 51. **Crypto Drama**: Es sind viele neue Emails von Satoshi Nakamoto aufgetaucht: [Thread](https://x.com/adamscochran/status/1761111031928033749?s=20)
 52. **IOTA Stammtisch**: Am Freitag ist [IOTA Stammtisch in MÜnchen](https://www.meetup.com/iota-muc/events/299120534/)
 53. **Crypto Adoption**: Der Präsident von El Salvador klärt die Leute auf, dass es nur eine Ilusion ist, dass Steuern dazu da sind die Regierung zu bezahlen: [Tweet](https://x.com/WalkerAmerica/status/1761101033915273542?s=20)
+54. **IOTA Adoption**: [ScyllaDB tweetet](https://x.com/ScyllaDB/status/1761170362526556565?s=20) über ihren Blogpost: [How IOTA Uses Distributed Ledgers and ScyllaDB for Supply Chain Digitization](https://www.scylladb.com/2023/02/09/how-iota-uses-distributed-ledgers-and-scylladb-for-supply-chain-digitization/)
+55. **IOTA Ökosystem** Die [Rusty Robots tweeten](), dass man jetzt auch NFT Lose in anderen Währungen (USD, LUM, Deepr) verkaufen kann
