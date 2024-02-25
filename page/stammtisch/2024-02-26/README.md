@@ -55,5 +55,5 @@
 53. **Crypto Adoption**: Der Präsident von El Salvador klärt die Leute auf, dass es nur eine Ilusion ist, dass Steuern dazu da sind die Regierung zu bezahlen: [Tweet](https://x.com/WalkerAmerica/status/1761101033915273542?s=20)
 54. **IOTA Adoption**: [ScyllaDB tweetet](https://x.com/ScyllaDB/status/1761170362526556565?s=20) über ihren Blogpost: [How IOTA Uses Distributed Ledgers and ScyllaDB for Supply Chain Digitization](https://www.scylladb.com/2023/02/09/how-iota-uses-distributed-ledgers-and-scylladb-for-supply-chain-digitization/)
 55. **IOTA Ökosystem** Die [Rusty Robots tweeten](), dass man jetzt auch NFT Lose in anderen Währungen (USD, LUM, Deepr) verkaufen kann
-56. **Crypto Drama**: BitForex Exit Scam?!? [Thread](https://x.com/TimsonLabs/status/1761524603157909931?s=20)
+56. **Crypto Drama**: BitForex Exit Scam?!? [Thread](https://x.com/TimsonLabs/status/1761524603157909931?s=20); [Garret meldet sich](https://x.com/GarrettBullish/status/1761698548679315561?s=20) auch zu dem Thema (Er wr CoFounder und hat BitForex vor 3 Jahren verlassen)
 57. **IOTA Wochenrückblick**: IOTA-talk [Wochenrückblick](https://www.iota-talk.com/index.php?article/370-wochenr%C3%BCckblick-vom-18-bis-24-februar-2024/)
