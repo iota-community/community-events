@@ -18,5 +18,5 @@ mit 1mio Followern tweetet](https://x.com/khaleejtimes/status/176248763094231081
 15. **IOTA Promote**: Einen Tag später [tweetet die IF](https://x.com/iota/status/1762749488123216345?s=20) gleich nochmal von TLIP, quasi ein Widerholungstweet
 16. **IOTA Video**: [Spec Weekly tweetet](https://x.com/SpecWeekly/status/1762778448974774576?s=20) über sein neues Video: [IOTA and SHIMMER DeFi Opportunity - Earn USDT with MAGIC LUM TOKEN! only on Shimmer Sea DEX.](https://www.youtube.com/watch?v=wg2ejxWBC2k)
 17. **IOTA Ökosystem**: [iotabee tweetet](https://x.com/iotabee/status/1762786874957991948?s=20) darüber, dass ihr DEX Agregator ("ALWAYS TRADE AT THE BEST PRICE") live ist und sie zahlen dem ersten der einen bessere Preis findet in 10 unterschiedlichen Pools in 1000 SMR in der ersten Runde ihrer "10,000 SMR Aggregator Beatdown Challenge". Für Bug Reports gibt es evtl. auch SMR...
-18. 
+18. **IOTA Ökosystem**: [walt.id tweetet](https://x.com/walt_id/status/1762786667864223973?s=20) über die Integration von "[Microsoft Entra Verified ID integration](https://walt.id/integrations/microsoft-entra)" 
 
