@@ -15,5 +15,6 @@ mit 1mio Followern tweetet](https://x.com/khaleejtimes/status/176248763094231081
 12. **IOTA Event**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1762655881466921349?s=20) ihre Eindrücke von der ETH Denver Konferenz
 13. **IOTA Ökosystem**: [Grumpy Squid Token tweetet](https://x.com/Grumpy__Squid/status/1762657714881151082?s=20) über ihre neue Webseite: [grumpysquid.com](https://grumpysquid.com/)
 14. **Allg. News**: [Dom tweetet](https://x.com/DomSchiener/status/1762741655923257809?s=20) über [noxtua.ai](https://www.noxtua.ai) a "European alternative Shaping the future of Legal AI together" von [Xayn](https://xayn.com/) die Firma in der er investiert ist und die evtl. auch irgendwann was mit IOTA machen wollten..
-15. 
+15. **IOTA Promote**: Einen Tag später [tweetet die IF](https://x.com/iota/status/1762749488123216345?s=20) gleich nochmal von TLIP, quasi ein Widerholungstweet
+16. 
 
