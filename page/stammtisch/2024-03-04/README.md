@@ -31,4 +31,5 @@ mit 1mio Followern tweetet](https://x.com/khaleejtimes/status/176248763094231081
 28. **IOTA Identity**: Jelle hat sich im Discord geäußert: [Tweet mit Screenshot](https://x.com/bennnni_web3/status/1763210924049993988?s=20) 
 29. **IOTA Audio**: Die [Susanne Krone](https://twitter.com/SusanneKrone) war am Donnerstag im [TangleTalk](https://twitter.com/tangle_talk) Sprachchat: [Tweet](https://x.com/tangle_talk/status/1763243740750041092?s=20)
 30. **Crypto Adoption**: Edward Snowden meint ein Land accumuliert akutell Bitcoin; Artikel: [Kaufen Nationalstaaten heimlich Bitcoin? Edward Snowden äußert sich entsprechend!](https://www.blocktrainer.de/kaufen-nationalstaaten-heimlich-bitcoin-edward-snowden/)
+31. **IOTA Adoption**: [Tokiphy tweetet](https://x.com/tokiphy/status/1763205519118872861?s=20) mit dem Hashtag #IOTA; "Tokiphy revolutionizes the way blockchain wallets and tokens are authenticated for identity and token ownership through one seamless process."
 
