@@ -36,4 +36,6 @@ mit 1mio Followern tweetet](https://x.com/khaleejtimes/status/176248763094231081
 33. **Crypto Drama**: Artikel: [Vanguard CEO Tim Buckley To Retire At the End of 2024](https://watcher.guru/news/vanguard-ceo-tim-buckley-to-retire-at-the-end-of-2024); Man munkelt weil er keine Bitoin ETFs anbieten wollte
 34. **IOTA Ökosystem**: Magic Lum auf ShimmerSea.finance ist gestartet: [Tweet](https://x.com/ShimmerSeaDEX/status/1761072129036972326?s=20)
 35. **IOTA 2.0 Audio**: Es wird wohl bald einenen Moonaco Podcast mit Hans Moog geben: [Tweet](https://x.com/hus_qy/status/1763516313152991482?s=20)
+36. **IOTA Promote**: Super [Tweet von id.IOTA](https://x.com/id_iota/status/1763545356443259182?s=20) über RWA und Co bei IOTA
+37. 
 
