@@ -29,13 +29,23 @@ mit 1mio Followern tweetet](https://x.com/khaleejtimes/status/176248763094231081
 26. **IOTA Artikel**: [CoinDesk (3mio follower) tweetet](https://x.com/CoinDesk/status/1763187628071858509?s=20) über [IOTA's Ecosystem Foundation Commits $10M for Tokenization, Trade Startups - The investment will focus on startups in the UAE and Africa.](https://www.coindesk.com/business/2024/02/29/iotas-ecosystem-foundation-commits-10m-for-tokenization-trade-startups/?utm_campaign=coindesk_main&utm_source=twitter&utm_term=organic&utm_medium=social&utm_content=editorial)
 27. **IOTA Identity**: [impierce Technologies tweetet](https://x.com/ImpierceTech/status/1763193476697530811?s=20) über die neue Regelung der EU: [MEPs back plans for an EU-wide digital wallet](https://www.europarl.europa.eu/news/en/press-room/20240223IPR18095/meps-back-plans-for-an-eu-wide-digital-wallet); Jelle macht dazu auch einen [Thread 1/6](https://x.com/JelleFm/status/1763198946518700426?s=20) und [TangleLabs tweetet](https://x.com/Tangle_Labs/status/1763460651127607356?s=20) darüber mit "...With Vira becoming a leading wallet in the space, we are breaking down borders again by going multi-lingual."
 28. **IOTA Identity**: Jelle hat sich im Discord geäußert: [Tweet mit Screenshot](https://x.com/bennnni_web3/status/1763210924049993988?s=20) 
-29. **IOTA Audio**: Die [Susanne Krone](https://twitter.com/SusanneKrone) war am Donnerstag im [TangleTalk](https://twitter.com/tangle_talk) Sprachchat: [Tweet](https://x.com/tangle_talk/status/1763243740750041092?s=20)
+29. **IOTA Audio**: Die [Susanne Krone](https://twitter.com/SusanneKrone) war am Donnerstag im [TangleTalk](https://twitter.com/tangle_talk) Sprachchat: [Tweet](https://x.com/tangle_talk/status/1763243740750041092?s=20); Hier noch ein [Tweet von Susanne](https://x.com/SusanneKrone/status/1764301792026747138?s=20) darüber, dass sie in Zukunft ein Marketing Ambassador Program starten wollen
 30. **Crypto Adoption**: Edward Snowden denkt, dass ein Land bereits Bitcoin akkumuliert; Artikel: [Kaufen Nationalstaaten heimlich Bitcoin? Edward Snowden äußert sich entsprechend!](https://www.blocktrainer.de/kaufen-nationalstaaten-heimlich-bitcoin-edward-snowden/)
-31. **IOTA Adoption**: [Tokiphy tweetet](https://x.com/tokiphy/status/1763205519118872861?s=20) mit dem Hashtag #IOTA; "Tokiphy revolutionizes the way blockchain wallets and tokens are authenticated for identity and token ownership through one seamless process."
-32. **IOTA Poker**: Am Freitag war IOTA Poker: [Tweet von Iotapunks](https://x.com/IotaPunks_71/status/1763438754012803526?s=20)
-33. **Crypto Drama**: Artikel: [Vanguard CEO Tim Buckley To Retire At the End of 2024](https://watcher.guru/news/vanguard-ceo-tim-buckley-to-retire-at-the-end-of-2024); Man munkelt weil er keine Bitoin ETFs anbieten wollte
-34. **IOTA Ökosystem**: Magic Lum auf ShimmerSea.finance ist gestartet: [Tweet](https://x.com/ShimmerSeaDEX/status/1761072129036972326?s=20)
-35. **IOTA 2.0 Audio**: Es wird wohl bald einenen Moonaco Podcast mit Hans Moog geben: [Tweet](https://x.com/hus_qy/status/1763516313152991482?s=20)
-36. **IOTA Promote**: Super [Tweet von id.IOTA](https://x.com/id_iota/status/1763545356443259182?s=20) über RWA und Co bei IOTA
-37. 
+31. **Crypto Adoption**: Es wurde ein riesiger Bitcoin ETF Banner an dem Gebäude der Wall Streat hochgezogen: [Tweet](https://x.com/BTC_Archive/status/1763584417128169647?s=20)
+32. **IOTA Adoption**: [Tokiphy tweetet](https://x.com/tokiphy/status/1763205519118872861?s=20) mit dem Hashtag #IOTA; "Tokiphy revolutionizes the way blockchain wallets and tokens are authenticated for identity and token ownership through one seamless process."
+33. **IOTA Poker**: Am Freitag war IOTA Poker: [Tweet von Iotapunks](https://x.com/IotaPunks_71/status/1763438754012803526?s=20)
+34. **Crypto Drama**: Artikel: [Vanguard CEO Tim Buckley To Retire At the End of 2024](https://watcher.guru/news/vanguard-ceo-tim-buckley-to-retire-at-the-end-of-2024); Man munkelt weil er keine Bitoin ETFs anbieten wollte
+35. **IOTA Ökosystem**: Magic Lum auf ShimmerSea.finance ist gestartet: [Tweet](https://x.com/ShimmerSeaDEX/status/1761072129036972326?s=20)
+36. **IOTA 2.0 Audio**: Es wird wohl bald einenen Moonaco Podcast mit Hans Moog geben: [Tweet](https://x.com/hus_qy/status/1763516313152991482?s=20)
+37. **IOTA Promote**: Super [Tweet von id.IOTA](https://x.com/id_iota/status/1763545356443259182?s=20) über RWA und Co bei IOTA
+38. **IOTA Ökosystem**: Epoch Zero will vieles ändern bei TangleSwap: [Tweet](https://x.com/PilotSevane/status/1763276371978059811?s=20)
+39. **Bitcoin Pump**: Bitcoin ATH in EUR: [Tweet](https://x.com/Vrom14286662/status/1764511077717455203?s=20)
+40. **Crypto Adoption**: Der Präsidentschaftskandidat Robert F. Kennedy Jr. sagt: "Transactional freedom is as crucial as freedom of speech, and #Bitcoin is the key to achieving it.": [Tweet](https://x.com/CollinBrownXRP/status/1763959197971230946?s=20)
+41. **IOTA Artikel**: Neuer Guestpost von IOTA auf CoinMarketcap.com: [Empowering Global Trade](https://coinmarketcap.com/community/articles/65dddc999e662624c55a30b7/)
+42. **IOTA 2.0 Video**: Neues Shorts Video von der IF: [Tweet](https://x.com/iota/status/1763927405616410646?s=20)
+43. **IOTA Promote**: Ein [Thread von Spec Weekly](https://x.com/SpecWeekly/status/1763834208827621856?s=20) mit Durchhalteparolen für IOTA. 
+44. **IOTA Adoption**: kowei war in Singapur bei einem Event und hat wichtige Kontakte geknüpft bezüglich RWA: [Tweet](https://x.com/kowei1995/status/1763780279284691020?s=20)
+45. **IOTA Adoption**: Auch JD Sutton hat offenbar die richtigen Leute getroffen auf der ETh Denver ("market maker and exchange listing partner "): [Tweet](https://x.com/Deep_Sea_Iotan/status/1763586058548101388?s=20)
+46. **Ki News**: Elon Musk verklagt Sam Altman: [Tweet](https://x.com/xDaily/status/1763464048908382253?s=20); Witzig in dem Zusammenhang, dass [Sam einen alten Tweet aus 2019 kommentiert](https://x.com/sama/status/1763687262536290615?s=20) in dem er Elon Musk gegen Short Seller verteidigt hat
+47. 
 
