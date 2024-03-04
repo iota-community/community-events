@@ -49,4 +49,5 @@
 46. **Ki News**: [Elon Musk](https://twitter.com/elonmusk) verklagt [Sam Altman](https://twitter.com/sama), weil er [OpenAi](https://twitter.com/OpenAI) zu einer privaten "For Profit" Firma gemacht hat: [Tweet](https://x.com/xDaily/status/1763464048908382253?s=20); Witzig auch, dass Sam daraufhin einen alten [Tweet aus 2019 kommentiert](https://x.com/sama/status/1763687262536290615?s=20), in dem er Elon Musk noch gegen Short Seller verteidigt hat
 47. **IOTA Ökosystem**: [Bivreost tweetet](https://x.com/bivreost/status/1764547957540495760?s=20) über ein neues Feature bei Bivreost 2.0 (dem Telegram IOTA Wallet)
 48. **IOTA Pump**: Am Montag steigt IOTA auf über 0,32Eur: [coinmarketcap.com/iota](https://coinmarketcap.com/de/currencies/iota/); Und wir wissen ja alle woran das liegt ;-): [Tweet](https://x.com/Vrom14286662/status/1764631157977592164?s=20)
+49. **Crypto Adoption**: FC Bayern Spieler machen einen Werbespot für Bitpanda: [Tweet von Bitpanda](https://twitter.com/i/status/1764633222636249126)
 
