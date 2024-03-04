@@ -39,7 +39,7 @@
 36. **IOTA 2.0 Audio**: Es wird wohl bald einenen [Moonaco Podcast](https://twitter.com/MoonacoPodcast) mit [Hans Moog](https://twitter.com/hus_qy) geben: [Tweet](https://x.com/hus_qy/status/1763516313152991482?s=20)
 37. **IOTA Promote**: Super [Tweet von id.IOTA](https://x.com/id_iota/status/1763545356443259182?s=20) über grandiose Aussichten bei IOTA besonders im Bezug zu "real world adoption"
 38. **IOTA Ökosystem**: [Epoch Zero](https://twitter.com/Epoch_0) will vieles ändern bei [TangleSwap](https://twitter.com/TangleSwap): [Tweet](https://x.com/PilotSevane/status/1763276371978059811?s=20)
-39. **Bitcoin Pump**: Am Montag gab es zunächst ein neues Bitcoin ATH in EUR ([Tweet](https://x.com/Vrom14286662/status/1764511077717455203?s=20)), dann steigt Bitcoin weiter auf über $65.000 ([Tweet](https://x.com/CryptoTuts/status/1764570774218715390?s=20)) und über 60.000EUR ([Tweet](https://x.com/Vrom14286662/status/1764581212113273245?s=20)) und vielleicht erreichen wir heute noch das $-ATH...
+39. **Bitcoin Pump**: Am Montag gab es zunächst ein neues Bitcoin ATH in EUR ([Tweet](https://x.com/Vrom14286662/status/1764511077717455203?s=20)), dann steigt Bitcoin weiter auf über $65.000 ([Tweet](https://x.com/CryptoTuts/status/1764570774218715390?s=20)) und über 60.000EUR ([Tweet](https://x.com/Vrom14286662/status/1764581212113273245?s=20)), sowie über $66.000 ([Tweet](https://x.com/CryptoTuts/status/1764667488267071619?s=20)) und vielleicht erreichen wir heute auch noch das $-ATH...
 40. **Crypto Adoption**: Der Präsidentschaftskandidat [Robert F. Kennedy Jr.](https://twitter.com/RobertKennedyJr) sagt: "Transactional freedom is as crucial as freedom of speech, and #Bitcoin is the key to achieving it.": [Tweet](https://x.com/CollinBrownXRP/status/1763959197971230946?s=20)
 41. **IOTA Artikel**: Neuer "Guestpost auf CoinMarketcap.com" über IOTA: [Empowering Global Trade](https://coinmarketcap.com/community/articles/65dddc999e662624c55a30b7/)
 42. **IOTA 2.0 Video**: Neues "Shorts"-Video von der IF zu IOTA2.0: [Tweet](https://x.com/iota/status/1763927405616410646?s=20)
@@ -50,4 +50,5 @@
 47. **IOTA Ökosystem**: [Bivreost tweetet](https://x.com/bivreost/status/1764547957540495760?s=20) über ein neues Feature bei Bivreost 2.0 (dem Telegram IOTA Wallet)
 48. **IOTA Pump**: Am Montag steigt IOTA auf über 0,32Eur: [coinmarketcap.com/iota](https://coinmarketcap.com/de/currencies/iota/); Und wir wissen ja alle woran das liegt ;-): [Tweet](https://x.com/Vrom14286662/status/1764631157977592164?s=20)
 49. **Crypto Adoption**: FC Bayern Spieler machen einen Werbespot für Bitpanda: [Tweet von Bitpanda](https://twitter.com/i/status/1764633222636249126)
+50. **IOTA Ökosystem**: [ShimmerSea tweetet](https://x.com/ShimmerSeaDEX/status/1764662885119090725?s=20), dass sie den [nexancoin](https://twitter.com/nexancoin) von der [dexpulse.app](https://dexpulse.app/) listen, die eine "EVM Chains charting platform solution" anbieten
 
