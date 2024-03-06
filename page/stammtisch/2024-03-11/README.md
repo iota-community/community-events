@@ -11,5 +11,6 @@
 9. **Bitcoin ATH**: Am Dienstag war es so weit: Bitcoin ATH: [Tweet](https://x.com/BitcoinMagazine/status/1765030286704722180?s=20)
 10. **Crypto Drama**: von Stiftung Warentest: [Kryptowährungen Bitcoin ist kein sicherer Hafen](https://www.test.de/Kryptowaehrungen-Bitcoin-ist-kein-sicherer-Hafen-5963028-0/)
 11. **X-Gezwitscher**: [Tweet mit Screenshot](https://x.com/TangleverseWeb/status/1667436846496768002?s=20) von Dom "this is not a sprint, it's a marathon..."
-12. **IOTA Voting**: Die [IF tweetet]() über []()
+12. **IOTA Voting**: Die [IF tweetet]() über [IOTA and Shimmer Governance Votes March 2024](https://blog.iota.org/governance-votes-march-2024/)
+13. 
 
