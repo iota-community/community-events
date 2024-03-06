@@ -12,5 +12,7 @@
 10. **Crypto Drama**: von Stiftung Warentest: [Kryptowährungen Bitcoin ist kein sicherer Hafen](https://www.test.de/Kryptowaehrungen-Bitcoin-ist-kein-sicherer-Hafen-5963028-0/)
 11. **X-Gezwitscher**: [Tweet mit Screenshot](https://x.com/TangleverseWeb/status/1667436846496768002?s=20) von Dom "this is not a sprint, it's a marathon..."
 12. **IOTA Voting**: Die [IF tweetet]() über [IOTA and Shimmer Governance Votes March 2024](https://blog.iota.org/governance-votes-march-2024/)
-13. 
+13. **IOTA Artikel**: von Identity Week: [IOTA Identity Platform aligns with EU Digital Wallet initiative](https://identityweek.net/iota-identity-platform-aligns-with-eu-digital-wallet-initiative/)
+14. **IOTA Artikel**: von ETH News: [IOTA Identity Framework: Enabling Compliance-Ready European Identity Wallets](https://www.ethnews.com/iota-identity-framework-enabling-compliance-ready-european-identity-wallets/?feed_id=4481&_unique_id=65e85befc3ba9)
+15. **Crypto Adoption**: Arizona will Bitcoin ETFs als Retirement Portfolio hinterlegen: [Tweet](https://x.com/BitcoinMagazine/status/1765398563138199893?s=20)
 
