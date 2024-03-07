@@ -24,4 +24,8 @@
 22. **Fiat Drama**: Der Bitcoinkurs ist in Ägypten extrem gestiegen, nachdem das Ägyptische Pfund an einem Tag fast 40% verloren hat: [Tweet](https://x.com/investors_keep/status/1765640895532048595?s=20)
 23. **IOTA Promote**: In einem Blogpost von Cisco ([The Convergence: AI, Confidential Computing, and Blockchain](https://blogs.cisco.com/analytics-automation/the-convergence-ai-confidential-computing-and-blockchain)) wird IOTA 2 x positiv erwähnt: [Tweet](https://x.com/KryptoniteAli/status/1765502235281092850?s=20)
 24. **X-Drama**: Guido Lange hat den bottom getroffen mit seinen FUD Tweets (zum Zeitpunkt der Supply Erhöhung): [Tweet](https://x.com/Vrom14286662/status/1765679531526893661?s=20)
+25. **IOTA Ökosystem**: [Bivreost tweetet](https://x.com/bivreost/status/1765622014969094342?s=20) über eine Partnerschaft mit [Vestinda]8https://twitter.com/vestinda)
+26. **X-Gezwitscher**: [Hans Moog tweetet](https://x.com/hus_qy/status/1765714824107892763?s=20) über Hühner Nervenzellen
+27. **IOTA 2.0**: Sie haben wohl einen wichtigen Bug gefunden: [Tweet von Hans](https://x.com/hus_qy/status/1765751533071671427?s=20)
+28. **X-Drama**: [Hans Moog tweetet](https://x.com/hus_qy/status/1765743484823093725?s=20) über CFB und Ki
 
