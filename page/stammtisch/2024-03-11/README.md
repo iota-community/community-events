@@ -35,6 +35,8 @@
 33. **IOTA Adoption**: Ein Patent von Audi ([VERFAHREN ZUM ERZEUGEN EINER FREISCHALTINFORMATION UND SERVEREINRICHTUNG](https://worldwide.espacenet.com/patent/search/family/089905567/publication/DE102022122126A1?q=pn%3DDE102022122126A1)) in dem der Tangle erwähnt wird ("..wird ein NFT geprägt und in ein Distributed Ledger Network, z.B. Blockchain oder Tangle, eingetragen") lässt die Community spekulieren: [Thread](https://x.com/Salimasbegum/status/1765808820989599756?s=20)
 34. **IOTA Adoption**: EBSI Phase 2B ist wohl beendet: [Tweet von Strnadl](https://x.com/archimate/status/1766007983438221758?s=20); Es wird wohl einen 805 seitigen finalen Report geben
 35. **IOTA Audio**: [Linus](https://twitter.com/LinusNaumann) war im [TangleTalk](https://twitter.com/tangle_talk): [Tweet](https://x.com/tangle_talk/status/1766009331940491707?s=20)
-36. **IOTA 2.0**: neuer Pre Release von IOTA 2.0: [v1.0.0-alpha.9](https://github.com/iotaledger/iota-core/releases/tag/v1.0.0-alpha.9)
-37. 
+36. **IOTA 2.0**: neuer Pre Release von IOTA 2.0: [v1.0.0-alpha.9](https://github.com/iotaledger/iota-core/releases/tag/v1.0.0-alpha.9); [Hans Moog tweetet](https://x.com/hus_qy/status/1766047219956793834?s=20) sogar darüber
+37. **IOTA Event**: [IotaOrigin tweetet](https://x.com/origin_iota/status/1766082283281269244?s=20) über ein Event das von [Tokiphy](https://twitter.com/tokiphy) organisiert wurde: [Tweet](https://x.com/tokiphy/status/1766079521101324403?s=20)
+38. **Crypto Adoption**: Artikel vom Blocktrainer: [Weiterer BlackRock-Fonds will BTC! Bitcoin bald in jedem Anlageportfolio weltweit?](https://www.blocktrainer.de/weiterer-blackrock-fonds-will-btc-bitcoin-bald-in-jedem-anlageportfolio-weltweit/)
+39. **Crypto Adoption**: Artikel vom Blocktrainer: [Plötzlich mehr BTC in der Wallet: Hat Tesla erneut Bitcoin gekauft?](https://www.blocktrainer.de/ploetzlich-mehr-btc-in-der-wallet-hat-tesla-erneut-bitcoin-gekauft/)
 
