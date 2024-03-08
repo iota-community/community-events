@@ -39,4 +39,5 @@
 37. **IOTA Event**: [IotaOrigin tweetet](https://x.com/origin_iota/status/1766082283281269244?s=20) über ein Event das von [Tokiphy](https://twitter.com/tokiphy) organisiert wurde: [Tweet](https://x.com/tokiphy/status/1766079521101324403?s=20)
 38. **Crypto Adoption**: Artikel vom Blocktrainer: [Weiterer BlackRock-Fonds will BTC! Bitcoin bald in jedem Anlageportfolio weltweit?](https://www.blocktrainer.de/weiterer-blackrock-fonds-will-btc-bitcoin-bald-in-jedem-anlageportfolio-weltweit/)
 39. **Crypto Adoption**: Artikel vom Blocktrainer: [Plötzlich mehr BTC in der Wallet: Hat Tesla erneut Bitcoin gekauft?](https://www.blocktrainer.de/ploetzlich-mehr-btc-in-der-wallet-hat-tesla-erneut-bitcoin-gekauft/)
+40. **Bitcoin ATH**: Am Freitag schaffte Bitcoin das ATH von $70K: [TWeet](https://x.com/BitcoinMagazine/status/1766124566986822023?s=20)
 
