@@ -28,4 +28,11 @@
 26. **X-Gezwitscher**: [Hans Moog tweetet](https://x.com/hus_qy/status/1765714824107892763?s=20) über Hühner Nervenzellen
 27. **IOTA 2.0**: Sie haben wohl einen wichtigen Bug gefunden: [Tweet von Hans](https://x.com/hus_qy/status/1765751533071671427?s=20)
 28. **X-Drama**: [Hans Moog tweetet](https://x.com/hus_qy/status/1765743484823093725?s=20) über CFB und Ki
+29. **Allg. News**: Der 57 jährige Mike Tyson kämpft wieder im Juni auf Netflix: [Tweet](https://x.com/netflix/status/1765739805919334657?s=20)
+30. **Crypto Adaption**: Der [Fc. Bayern tweetet (7mio follower)](https://x.com/FCBayern/status/1765757730722029765?s=20) den Bitpanda Werbespot. Die Kommentare der Fans sind zumeist negativ: z.B.: "So eine gefährliche Scheiße... Als Fussballverein der ein Vorbild für Kinder sein will. Schämt euch"; "Können wir sowas bitte lassen? Als nächstes macht ihr noch nfts..."; "Echt jetzt? Eure Millionäre werben für Kryptoscheiß. Jede Woche ein bisschen unsympathischer..."
+31. **IOTA 2.0**: [Hans Moog tweetet](https://x.com/hus_qy/status/1765886534606090673?s=20), dass er weniger aktiv auf X ist, weil er fertig werden will: "...It's rather related to the fact that we are almost done and that I want to spend every minute I have to get us over the finishing line. ..."
+32. **IOTA Ökosystem**: Das [Bloom Wallet tweetet](https://x.com/bloomwalletio/status/1765807424827519049?s=20) darüber, dass sie das Governance Framework integriert haben, damit das Voting für die Tangle Treasury ab Montag möglich sein wird
+33. **IOTA Adoption**: Ein Patent von Audi ([VERFAHREN ZUM ERZEUGEN EINER FREISCHALTINFORMATION UND SERVEREINRICHTUNG](https://worldwide.espacenet.com/patent/search/family/089905567/publication/DE102022122126A1?q=pn%3DDE102022122126A1)) in dem der Tangle erwähnt wird ("..wird ein NFT geprägt und in ein Distributed Ledger Network, z.B. Blockchain oder Tangle, eingetragen") lässt die Community spekulieren: [Thread](https://x.com/Salimasbegum/status/1765808820989599756?s=20)
+34. **IOTA Adoption**: EBSI Phase 2B ist wohl beendet: [Tweet von Strnadl](https://x.com/archimate/status/1766007983438221758?s=20); Es wird wohl einen 805 seitigen finalen Report geben
+35. 
 
