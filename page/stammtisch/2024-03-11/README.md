@@ -51,5 +51,4 @@
 49. **IOTA Community**: Die [Tangle Community Treasury tweetet](https://x.com/TangleTreasury/status/1766512633853661325?s=20), dass sie jetzt einen eigenen [Tangle Treasury Discord](https://t.co/tWzJGuWpnT) haben
 50. **IOTA Drama**: Borsty macht Stimmung gegen JD im Telegram aber verrät nicht, um was es genau geht. Außerdem will er am Donnerstag seinen letzten Tangle Talk machen und sich dann überall abmelden und sich komplett zurück ziehen.
 51. **IOTA Youtube**: Neues Shorts Video von der IF: [How to get rewarded with #Mana in IOTA 2.0 #shorts #crypto](https://www.youtube.com/shorts/yDAGZtR8rOA)
-52. 
-
+52. **IOTA Adaption**: [Ben Böhnisch macht ein Thread](https://x.com/BenBoenisch/status/1766926515768348893?s=20) über die letzten Jahre und wie schwer es war DePin auf IOTA zu bauen. Er schreibt "Now, that we are about to go live with the first use cases, we go @iota mainnet, The roadmap for 2024 is kind of extreme. When I mentioned it takes long to build on top of @iota I actually meant it takes long to build DePIN on top of @iota"
