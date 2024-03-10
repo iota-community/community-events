@@ -42,5 +42,14 @@
 40. **Bitcoin ATH**: Am Freitag schaffte Bitcoin das ATH von $70K: [TWeet](https://x.com/BitcoinMagazine/status/1766124566986822023?s=20)
 41. **IOTA Science**: [IOTA-Based Distributed Ledger in the Mining Industry: Efficiency, Sustainability and Transparency](https://www.mdpi.com/1424-8220/24/3/923); Hier noch ein [Tweet](https://x.com/iotaBolt/status/1745300612642664930?s=20) dazu
 42. **IOTA Event**: Am 11.3. ist ein Blockchain Event bei der ETO Gruppe: [Tweet](https://x.com/EtoGruppe/status/1766103401027293536?s=20)
-43. 
+43. **IOTA Gezwitscher**: Dom hat sich im Discord geäußert. [Tweet](https://x.com/puckstar/status/1766563150478889022?s=20) mit dem Link zu den gesammelten Aussagen: [Dominik Schiener – IOTA Spec Discord 09-03-2024](https://docs.google.com/document/d/1N4-QKxLF04ILRQZQEWkj3ELY2A30xnqm3pZ57HRkbcg/edit)
+44. **IOTA Youtube**: von CryptoAvon: [Das hat bis jetzt nur IOTA geschafft! 5$ möglich? Tesla,RWA,DeFi,keine Gebühren,Europa Anwendung!](https://www.youtube.com/watch?v=FECx23XeVg4&t=897s)
+45. **Crypto Adoption**: Larry Fink (CEO von Blackrock) redet mittlerweile wie ein Bitcoiner: [Tweet](https://x.com/WClementeIII/status/1766524656184328486?s=20)
+46. **IOTA Science**: Science Buch mit IOTA Inside: [Security-enhanced firmware management scheme for smart home IoT devices using distributed ledger technologies](https://link.springer.com/article/10.1007/s10207-024-00827-x)
+47. **IOTA Science**: Im [Thread von Salima](https://x.com/Salimasbegum/status/1766878066083594674?s=20) über das Paper: [Toward Verification of DAG-Based Distributed Ledger Technologies through Discrete-Event Simulation](https://www.mdpi.com/1424-8220/24/5/1583)
+48. **IOTA Event**: [Sebastian Weber postet](https://www.linkedin.com/feed/update/urn:li:activity:7171915741766578177/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7171915741766578177%29) über ein Event in Berlin mit dem AKKODIS Dlt Team, wo er auch [Adri Wischman](https://www.linkedin.com/in/adri-wischmann/) getroffen hat zum Abendessen
+49. **IOTA Community**: Die [Tangle Community Treasury tweetet](https://x.com/TangleTreasury/status/1766512633853661325?s=20), dass sie jetzt einen eigenen [Tangle Treasury Discord](https://t.co/tWzJGuWpnT) haben
+50. **IOTA Drama**: Borsty macht Stimmung gegen JD im Telegram aber verrät nicht, um was es genau geht. Außerdem will er am Donnerstag seinen letzten Tangle Talk machen und sich dann überall abmelden und sich komplett zurück ziehen.
+51. **IOTA Youtube**: Neues Shorts Video von der IF: [How to get rewarded with #Mana in IOTA 2.0 #shorts #crypto](https://www.youtube.com/shorts/yDAGZtR8rOA)
+52. 
 
