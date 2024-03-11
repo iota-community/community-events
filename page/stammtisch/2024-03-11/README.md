@@ -57,3 +57,4 @@
 55. **IOTA Tweet**: Die [IF tweetet](https://x.com/iota/status/1767098142162407930?s=20) über den Start von Ramadan Kareem mit "...Let’s inspire a kinder world and grow together" und auch [Dom retweetet](https://x.com/DomSchiener/status/1767110486640689361?s=20) das an seine "our dear friends around the world"
 56. **Crypto Adoption**: [Michael Saylor tweetet](https://x.com/saylor/status/1767158870294605904?s=20), dass Microstrategie schon wieder 12000 BTC für $820 Mio gekauft
 57. **Crypto Adoption**: Donald Trump spricht auf CNBC über Bitcoin, cryptocurrencies und NFTs: [Tweet](https://x.com/Swan/status/1767157810062643312?s=20)
+58. **IOTA EVM**: [Dom tweetet](https://x.com/DomSchiener/status/1767201539515367804?s=20) "#IOTA ❤️ EVM We are bringing the Real World to Web3"
