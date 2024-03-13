@@ -7,5 +7,5 @@
 5. **Crypto Adoption**: Drake teilt ein Video von M. Saylor mit seine 146 mio Followern: [Tweet](https://x.com/BitcoinNewsCom/status/1767506160997880128?s=20)
 6. **IOTA Promote**: Ein [Thread von der IF](https://x.com/iota/status/1767551124117086404?s=20) über den Blogpost: [Introducing IOTA Grants to Foster Ecosystem Growth Ecosystem - Unlocking the Potential of Builders, Creators, and Innovators](https://blog.iota.org/introducing-iota-grants/); Hier noch ein [Kommentar von Phylo](https://x.com/PhyloIota/status/1767561155130929544?s=20) dazu; Es gibt auch eine Webseite dazu: [iotadlt.foundation/grants](https://iotadlt.foundation/grants)
 7. **IOTA Promote**: Ein [Thread von Boom](https://x.com/bloomwalletio/status/1767593461354504604?s=20) darüber, warum sie bulish sind bezüglich dem IOTA Ökosystem
-8. **IOTA VOTE**: Die [Tangle Treasury tweetet](https://x.com/TangleTreasury/status/1767744857391374649?s=20) ein Tutorial wie man voten kann/soll im Bloom Wallet (geht aber auch in Firefly)
+8. **IOTA VOTE**: Die [Tangle Treasury tweetet](https://x.com/TangleTreasury/status/1767744857391374649?s=20) ein Tutorial wie man voten kann/soll im Bloom Wallet (geht aber auch in Firefly); Es gab sogar ein [Thread auf deutsch](https://x.com/TangleTreasury/status/1767746979747041553?s=20) 
 9. 
