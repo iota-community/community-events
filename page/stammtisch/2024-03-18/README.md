@@ -2,10 +2,10 @@
 
 1. **IOTA Quicktakes**: Es gab diese Woche keine IOTA Quicktakes...
 2. **IOTA Pump**: Am Montag steigt IOTA um 13% auf über $0,40
-3. **Crypto Adoption**: Biden will Steuern auf Crypto Mining erheben: [Tweet](https://x.com/BitcoinPierre/status/1767371855512432900?s=20)
+3. **Crypto Adoption**: US Präsident Biden will 30% Steuern auf Crypto Mining erheben: [Tweet](https://x.com/BitcoinPierre/status/1767371855512432900?s=20)
 4. **IOTA EVM**: IOTA EVM Soon: [Tweet mit Screenshot von Dom](https://x.com/RemSchu/status/1767237403994149153?s=20); Und ein "Release Candidat 2" ist offenbar schon vor 5 Tagen veröffentlicht worden: [v1.0.3-rc.2](https://github.com/iotaledger/wasp/releases)
 5. **Crypto Adoption**: der [Rapper Drake](https://de.wikipedia.org/wiki/Drake_(Rapper)) teilt ein Video von [M. Saylor](https://twitter.com/saylor) mit seine 146 mio Followern: [Tweet](https://x.com/BitcoinNewsCom/status/1767506160997880128?s=20)
-6. **IOTA Promote**: Ein [Thread von der IF](https://x.com/iota/status/1767551124117086404?s=20) über den Blogpost: [Introducing IOTA Grants to Foster Ecosystem Growth Ecosystem - Unlocking the Potential of Builders, Creators, and Innovators](https://blog.iota.org/introducing-iota-grants/); Hier noch ein [Kommentar von Phylo](https://x.com/PhyloIota/status/1767561155130929544?s=20) dazu; Es gibt auch eine Webseite dazu: [iotadlt.foundation/grants](https://iotadlt.foundation/grants)
+6. **IOTA Grants**: Ein [Thread von der IF](https://x.com/iota/status/1767551124117086404?s=20) über den Blogpost: [Introducing IOTA Grants to Foster Ecosystem Growth Ecosystem - Unlocking the Potential of Builders, Creators, and Innovators](https://blog.iota.org/introducing-iota-grants/); Hier noch ein [Kommentar von Phylo](https://x.com/PhyloIota/status/1767561155130929544?s=20) dazu; Es gibt auch eine Webseite dazu: [iotadlt.foundation/grants](https://iotadlt.foundation/grants)
 7. **IOTA Promote**: Ein [Thread von Boom](https://x.com/bloomwalletio/status/1767593461354504604?s=20) darüber, warum sie bulish sind bezüglich dem IOTA Ökosystem
 8. **IOTA VOTE**: Die [Tangle Treasury tweetet](https://x.com/TangleTreasury/status/1767744857391374649?s=20) ein Tutorial wie man voten kann/soll im Bloom Wallet (geht aber auch in Firefly); Es gab sogar ein [Thread auf deutsch](https://x.com/TangleTreasury/status/1767746979747041553?s=20) dazu
 9. **Crypto Adoption**: Das Chirp Testnetz ist live: [Tweet](https://x.com/ChirpDeWi/status/1768638364847120763?s=20); Ein Projekt, dass IOTA leider verloren hat...
