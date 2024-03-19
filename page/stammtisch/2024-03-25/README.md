@@ -10,3 +10,5 @@
 8. **Treasury Governance**: In einem [Thread macht sich JD](https://x.com/Deep_Sea_Iotan/status/1770079971790184469?s=20) bereits Gedanken, wie es weiter gehen soll und die Lessons Learned nach dem Voting
 9. **IOTA Stammtisch**: Am 27.4. ist ein IOTA Stammtisch in Köln: [Tweet](https://x.com/sciascma/status/1770073951923839049?s=20)
 10. **Treasury Voting**: Die Voting Periode hat begonnen: [Tweet von der IF](https://x.com/iota/status/1770087838597423494?s=20)
+11. **IOTA Ökosystem**: Wir sollen den [Tweet vom Bloom Wallet](https://x.com/bloomwalletio/status/1770093317667070311?s=20) liken und retweeten, damit sich unter die Top 10 Web3 startups in Europa kommen am 11.April bei der Blockchain Week 
+12.  
