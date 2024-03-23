@@ -32,4 +32,6 @@
 30. **Crypto Adoption**: Neue EU Regel ab Ende 2024: Verbot anonymer Wallets bei Krypto-Dienstleistern; Identitätsnachweis ab 1000€ Krypto-Transaktion; Verschärfte Sorgfaltspflichten für Krypto-Firmen: [Tweet](https://x.com/hoss_crypto/status/1771172809311474163?s=20)
 31. **Crypto Drama**: Artikel: [EU-Gesetz zum Verbot anonymer Kryptozahlungen kommt]()
 32. **IOTA Drama**: Nachedm IOTAPoet einen krassen (2.) Abschiedstweet geschrieben hatte, hat er den wieder gelöscht und einen neuen [Tweet](https://x.com/IotaPoet/status/1771165842538910079?s=20) geschrieben der das Ganze wieder etwas relativiert
-33. 
+33. **IOTA Adoption**: [Blackpin tweetet](https://x.com/BLACKPIN_GmbH/status/1771461618003534294?s=20) (das erste mal?) von ihrer [blackpin.app](https://www.blackpin.app/eng/contact) für die man jetzt eine Demo buchen kann
+34. **IOTA Dev Update**: Neue Version von [iota-sdk-nodejs-v2.0.0-alpha.1]([iota-sdk-nodejs-v2.0.0-alpha.1](https://github.com/iotaledger/iota-sdk/releases/tag/iota-sdk-nodejs-v2.0.0-alpha.1)https://github.com/iotaledger/iota-sdk/releases/tag/iota-sdk-nodejs-v2.0.0-alpha.1) wurde released
+35. 
