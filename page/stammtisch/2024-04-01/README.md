@@ -5,4 +5,5 @@
 3. **IOTA Pump**: Am Dienstag steigt IOTA selbst gegen BTC um 8% auf $0,37 und hat damit Bitcoin 20% in den letzten 7 Tagen abgenommen: [Tweet](https://x.com/Vrom14286662/status/1772532208193896877?s=20); gut zu sehen auf: [blockchaincenter.net](https://www.blockchaincenter.net/)
 4. **IOTA Ökosystem**: [Grumpy Squid Token tweetet](https://x.com/Grumpy__Squid/status/1772341340069662767?s=20) über [INK Token - By The Grumpy Squid Project](https://medium.com/@munkiiminter/ink-token-90b7f643fa15), den sie auf der IOTA EVM starten wollen
 5. **IOTA Audit**: [Zokyo tweetet](https://x.com/zokyo_io/status/1772582213978116277?s=20), dass die IOTA Smart Contracts (IOTA EVM) geauditet wurden und einen Security Audit Score von 100 erreicht haben; Auch die [IF retweetet](https://x.com/iota/status/1772583890860884308?s=20) das und [Dom hyped](https://x.com/DomSchiener/status/1772587071376433540?s=20) bereits die IOTA EVM mit "I like the sound of that #EVM on #IOTA 🔥"
-6. 
+6. **IOTA Audio**: Am Donnerstag war ein [X-Spaces von Nakama Labs](https://x.com/Nakama_Labs/status/1770857542014431609?s=20), wo sie über dApp Updates reden wollten
+7. 
