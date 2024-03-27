@@ -9,3 +9,4 @@
 7. **Allg. News**: In Baltimore hat ein Container Schiff die "Francis Scott Key"-Brücke zum einstürzen gbracht: [Tweet](https://x.com/Morbidful/status/1772548669272723954?s=20)
 8. **Crypto News**: [Fetch.ai tweetet](https://x.com/Fetch_ai/status/1772980804496290083?s=20) über [fetch-ai-singularity-net-and-ocean-protocol-unite-to-create-the-superintelligence-alliance](https://fetch.ai/blog/fetch-ai-singularity-net-and-ocean-protocol-unite-to-create-the-superintelligence-alliance)
 9. **IOTA 2.0**: IOTA Whitepaper ist scheinbar fertig und ready to release: [Tweet](https://x.com/Hensel65003504/status/1772970358708011254?s=20)
+10. **IOTA Voting**: Die [IF tweetet](https://x.com/iota/status/1772893706720317746?s=20), dass das Votingvorbei ist und die Node Owner das Ergebnis bestätigen sollen [auf github](https://github.com/iota-community/governance-participation-events/pull/9)
