@@ -16,3 +16,5 @@
 14. **Crypto Drama**: Positives und negatives Coinbase Drama: [Tweet](https://x.com/hoss_crypto/status/1772993492840526093?s=20)
 15. **Crypto Adoption**: Fidelity files S-1 form for Spot Ethereum ETF with staking included: [Tweet](https://x.com/WatcherGuru/status/1772999593577390172?s=20)
 16. **IOTA Identity**: Es gibt eine neue Version von [IOTA Identity: v1.2.0](https://github.com/iotaledger/identity.rs/releases/tag/v1.2.0)
+17. **IOTA Patent**: [Tweet](https://x.com/Wondere12985276/status/1773053360649773557?s=20) von einem neuen Patent: [METHOD FOR SHARING ONE OR MORE CYBERPHISICAL ASSETS/EQUIPMENT WHICH REMAIN PERSISTENT AND RESPONSIVE IN THEIR REAL-WORLD AND VIRTUAL REPRESENTATIONS WHEN INTEGRATED INTO REAL OPERATIONAL CONTEXTS AND INTEROPERABLE METAVERSES](https://worldwide.espacenet.com/patent/search/family/084359850/publication/WO2024057259A1?q=pn%3DWO2024057259A1)
+18. 
