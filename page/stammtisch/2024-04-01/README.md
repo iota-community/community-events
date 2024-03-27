@@ -9,10 +9,10 @@
 7. **Allg. News**: In Baltimore hat ein Container Schiff die "Francis Scott Key"-Brücke zum einstürzen gbracht: [Tweet](https://x.com/Morbidful/status/1772548669272723954?s=20)
 8. **Crypto News**: [Fetch.ai tweetet](https://x.com/Fetch_ai/status/1772980804496290083?s=20) über [fetch-ai-singularity-net-and-ocean-protocol-unite-to-create-the-superintelligence-alliance](https://fetch.ai/blog/fetch-ai-singularity-net-and-ocean-protocol-unite-to-create-the-superintelligence-alliance)
 9. **IOTA Adoption**: [Dom gratuliert Fetch.ai](https://x.com/DomSchiener/status/1773015829900042700?s=20) und vielleicht ergibt sich daraus eine Partnerschaft.. "Join us" [schreibt Humayun](https://x.com/HMsheikh4/status/1772995245040427462?s=20)
-10. **IOTA 2.0**: IOTA Whitepaper ist scheinbar fertig und ready to release: [Tweet](https://x.com/Hensel65003504/status/1772970358708011254?s=20)
+10. **IOTA 2.0**: IOTA Whitepaper ist scheinbar fertig und ready to release: [Tweet](https://x.com/Hensel65003504/status/1772970358708011254?s=20); Zumindest auf GitHub steht: [Whitepaper was completed with all internal revision and its ready to be shared.](https://github.com/iotaledger/iota-core/issues/667#issuecomment-2022654031)
 11. **IOTA Voting**: Die [IF tweetet](https://x.com/iota/status/1772893706720317746?s=20), dass das Voting vorbei ist und die Node Owner das Ergebnis bestätigen sollen [auf github](https://github.com/iota-community/governance-participation-events/pull/9)
 12. **IOTA Ökosystem**: [AuditOne tweetet](https://x.com/auditone_team/status/1772948159834005851?s=20) über [Soonaverse Plugin’s Smart Contract Security Analysis](https://www.youtube.com/watch?v=JYImDKL1RP0)
 13. **IOTA Ökosystem**: [swarm logistics tweetet](https://x.com/SwarmLogistics/status/1773024887365341528?s=20) über ein Demo Video: [Automatische Disposition - Verteilerverkehr Pharmalogistik](https://www.youtube.com/watch?v=JbjVybJDU20)
 14. **Crypto Drama**: Positives und negatives Coinbase Drama: [Tweet](https://x.com/hoss_crypto/status/1772993492840526093?s=20)
 15. **Crypto Adoption**: Fidelity files S-1 form for Spot Ethereum ETF with staking included: [Tweet](https://x.com/WatcherGuru/status/1772999593577390172?s=20)
-16. 
+16. **IOTA Identity**: Es gibt eine neue Version von [IOTA Identity: v1.2.0](https://github.com/iotaledger/identity.rs/releases/tag/v1.2.0)
