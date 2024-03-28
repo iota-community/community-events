@@ -19,4 +19,6 @@
 17. **IOTA Patent**: [Tweet](https://x.com/Wondere12985276/status/1773053360649773557?s=20) von einem neuen Patent: [METHOD FOR SHARING ONE OR MORE CYBERPHISICAL ASSETS/EQUIPMENT WHICH REMAIN PERSISTENT AND RESPONSIVE IN THEIR REAL-WORLD AND VIRTUAL REPRESENTATIONS WHEN INTEGRATED INTO REAL OPERATIONAL CONTEXTS AND INTEROPERABLE METAVERSES](https://worldwide.espacenet.com/patent/search/family/084359850/publication/WO2024057259A1?q=pn%3DWO2024057259A1)
 19. **IOTA Promote**: Ein gut recherchierter [Tweet von Web3alert](https://x.com/theweb3alert/status/1773044503596982705?s=20) über IOTA; Selbst die [IF retweetet](https://x.com/iota/status/1773266034524406239?s=20s) das
 20. **Spec Drama**: Die NILA Aktie geht erst steil (+1900%), weil die Firma angeblich Bitcoin kaufen will und stürzt dann ab, weil der CEO das alles nur Fake war. Eine pump and dump Versuch von Mitarbeitern: [Tweet](https://x.com/BitcoinNewsCom/status/1773008984514961766?s=20)
-21. **IOTA 
+21. **IOTA 2.0**: Neuer Release: [v1.0.0-alpha.13](https://github.com/iotaledger/iota-core/releases/tag/v1.0.0-alpha.13)
+22. **Crypto Drama**: Artikel: [FTX-Gründer Sam Bankman-Fried zu 25 Jahren Haft verurteilt](https://www.blocktrainer.de/ftx-gruender-sam-bankman-fried-zu-25-jahren-haft-verurteilt/)
+23. **Shimmer Ökosystem**: [Peppy.finance](https://www.peppy.finance/) ist live im Testnetz: [Tweet](https://x.com/KryptoniteAli/status/1773314966411530423?s=20)
