@@ -17,4 +17,6 @@
 15. **Crypto Adoption**: Fidelity files S-1 form for Spot Ethereum ETF with staking included: [Tweet](https://x.com/WatcherGuru/status/1772999593577390172?s=20)
 16. **IOTA Identity**: Es gibt eine neue Version von [IOTA Identity: v1.2.0](https://github.com/iotaledger/identity.rs/releases/tag/v1.2.0)
 17. **IOTA Patent**: [Tweet](https://x.com/Wondere12985276/status/1773053360649773557?s=20) von einem neuen Patent: [METHOD FOR SHARING ONE OR MORE CYBERPHISICAL ASSETS/EQUIPMENT WHICH REMAIN PERSISTENT AND RESPONSIVE IN THEIR REAL-WORLD AND VIRTUAL REPRESENTATIONS WHEN INTEGRATED INTO REAL OPERATIONAL CONTEXTS AND INTEROPERABLE METAVERSES](https://worldwide.espacenet.com/patent/search/family/084359850/publication/WO2024057259A1?q=pn%3DWO2024057259A1)
-18. 
+19. **IOTA Promote**: Ein gut recherchierter [Tweet von Web3alert](https://x.com/theweb3alert/status/1773044503596982705?s=20) über IOTA; Selbst die [IF retweetet](https://x.com/iota/status/1773266034524406239?s=20s) das
+20. **Spec Drama**: Die NILA Aktie geht erst steil (+1900%), weil die Firma angeblich Bitcoin kaufen will und stürzt dann ab, weil der CEO das alles nur Fake war. Eine pump and dump Versuch von Mitarbeitern: [Tweet](https://x.com/BitcoinNewsCom/status/1773008984514961766?s=20)
+21. **IOTA 
