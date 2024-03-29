@@ -23,3 +23,6 @@
 22. **Crypto Drama**: Artikel: [FTX-Gründer Sam Bankman-Fried zu 25 Jahren Haft verurteilt](https://www.blocktrainer.de/ftx-gruender-sam-bankman-fried-zu-25-jahren-haft-verurteilt/)
 23. **Shimmer Ökosystem**: [Peppy.finance](https://www.peppy.finance/) ist live im Testnetz: [Tweet](https://x.com/KryptoniteAli/status/1773314966411530423?s=20)
 24. **IOTA Drama**: Dom hat Digidus geblockt und er beschwert sich auf X: [Tweet](https://x.com/DigidusPrime/status/1773395675180601831?s=20)
+25. **IOTA Hype**: [Tweet mit Screenshots](https://x.com/Vrom14286662/status/1773728808652222600?s=20) von Dom aus dem Discord über RWA und die IOTA EVm die bereits gestartet ist
+26. **Crypto Adoption**: Es wurden 1,4 Miliarden USD an Coinbase überwiesen. Soviel wie noch nie... [Tweet](https://x.com/Vivek4real_/status/1773731066441863302?s=20)
+27. 
