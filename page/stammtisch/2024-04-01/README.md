@@ -25,4 +25,4 @@
 24. **IOTA Drama**: Dom hat Digidus geblockt und er beschwert sich auf X: [Tweet](https://x.com/DigidusPrime/status/1773395675180601831?s=20)
 25. **IOTA Hype**: [Tweet mit Screenshots](https://x.com/Vrom14286662/status/1773728808652222600?s=20) von Dom aus dem Discord über RWA und die IOTA EVm die bereits gestartet ist
 26. **Crypto Adoption**: Es wurden 1,4 Miliarden USD an Coinbase überwiesen. Soviel wie noch nie... [Tweet](https://x.com/Vivek4real_/status/1773731066441863302?s=20)
-27. 
+27. **IOTA 2.0**: Neuer [Tweet von id.IOTA](https://x.com/id_iota/status/1773838843025744385?s=20) über den Stand bei IOTA 2.0
