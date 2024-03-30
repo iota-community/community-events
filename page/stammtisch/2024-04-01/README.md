@@ -29,4 +29,7 @@
 28. **IOTA Promote**: Es gab am Samstag eine Art Twitter Flashmob der durch vrom gestartet wurde mit seinem [Tweet](https://x.com/Vrom14286662/status/1774000096188735711?s=20)
 29. **IOTA EVM**: Die [IF tweetet](https://x.com/iota/status/1774074102153695446?s=20) nochmal darüber, dass sie IOTA EVM geauditet wurde und mit 100 von 100 Punkten bewertet wurde
 30. **IOTA Adoption**: [Investopia (a global ecosystem initiated by the UAE Government) tweetet](https://x.com/investopia_ae/status/1774047037924745574?s=20) über den $10 mio Investment Fund den die IF aufgesetzt hat
-31. 
+31. **IOTA Drama**: Hans Moog darf nix mehr sagen: [Tweet von Hans Moog](https://x.com/hus_qy/status/1774163363351650668?s=20)
+32. **IOTA Drama**: [Eric Wall erinnert Hans](https://x.com/ercwl/status/1774166899707830410?s=20) daran, dass es bereits 5 Jahre her ist, dass er ihm Coordicide angekündigt hat
+33. **IOTA EVM**: Das Bloom Wallet zeigt erste Screenshots von der integrierten IOTA EVM in [Bloom](https://bloomwallet.io/): [Tweet](https://x.com/cheerful_nicole/status/1774030969357439369?s=20)
+34. 
