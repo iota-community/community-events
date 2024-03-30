@@ -26,3 +26,7 @@
 25. **IOTA Hype**: [Tweet mit Screenshots](https://x.com/Vrom14286662/status/1773728808652222600?s=20) von Dom aus dem Discord über RWA und die IOTA EVm die bereits gestartet ist
 26. **Crypto Adoption**: Es wurden 1,4 Miliarden USD an Coinbase überwiesen. Soviel wie noch nie... [Tweet](https://x.com/Vivek4real_/status/1773731066441863302?s=20)
 27. **IOTA 2.0**: Neuer [Tweet von id.IOTA](https://x.com/id_iota/status/1773838843025744385?s=20) über den Stand bei IOTA 2.0
+28. **IOTA Promote**: Es gab am Samstag eine Art Twitter Flashmob der durch vrom gestartet wurde mit seinem [Tweet](https://x.com/Vrom14286662/status/1774000096188735711?s=20)
+29. **IOTA EVM**: Die [IF tweetet](https://x.com/iota/status/1774074102153695446?s=20) nochmal darüber, dass sie IOTA EVM geauditet wurde und mit 100 von 100 Punkten bewertet wurde
+30. **IOTA Adoption**: [Investopia (a global ecosystem initiated by the UAE Government) tweetet](https://x.com/investopia_ae/status/1774047037924745574?s=20) über den $10 mio Investment Fund den die IF aufgesetzt hat
+31. 
