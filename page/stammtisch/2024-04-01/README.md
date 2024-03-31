@@ -32,4 +32,5 @@
 31. **IOTA Drama**: Hans Moog darf nix mehr sagen: [Tweet von Hans Moog](https://x.com/hus_qy/status/1774163363351650668?s=20)
 32. **IOTA Drama**: [Eric Wall erinnert Hans](https://x.com/ercwl/status/1774166899707830410?s=20) daran, dass es bereits 5 Jahre her ist, dass er ihm Coordicide angekündigt hat
 33. **IOTA EVM**: Das Bloom Wallet zeigt erste Screenshots von der integrierten IOTA EVM in [Bloom](https://bloomwallet.io/): [Tweet](https://x.com/cheerful_nicole/status/1774030969357439369?s=20)
-34. 
+34. **Fiat Drama**: Artikel: [BRICS: BlackRock CEO Warns Debt Crisis Could End US Dollar](https://watcher.guru/news/brics-blackrock-ceo-warns-debt-crisis-could-end-us-dollar)
+35. **IOTA Ökosystem**: [dlt.green tweetet](https://x.com/dlt_green/status/1774380146297839805?s=20) über [DLT.GREEN Node-Installer](https://twitter.com/dlt_green/status/1774380146297839805)
