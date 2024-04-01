@@ -36,3 +36,4 @@
 35. **IOTA Ökosystem**: [dlt.green tweetet](https://x.com/dlt_green/status/1774380146297839805?s=20) über [DLT.GREEN Node-Installer](https://twitter.com/dlt_green/status/1774380146297839805)
 36. **IOTA Ökosystem**: Der [ApeDAO tweetet](https://x.com/0xApeDAO/status/1774662978585112986?s=20), dass sie ein $2M Investment bekommen haben von dem neu gegründeten IOTA Grants Programm
 37. **IOTA Hype**: Dom hat einige Aussgagen im Discord getroffen bezüglich der IOTA EVM und dem Weg zu den Top 10 mit Hilfe von real world adoption: [Tweet mit Screenshots](https://x.com/Vrom14286662/status/1774357498658533753?s=20)
+38. **IOTA Science**: Ein [Thread von Salima](https://x.com/Salimasbegum/status/1774564144168993078?s=20) über ein Paper mit IOTA inside: [Enhancing Data Preservation and Security in Industrial Control Systems Through Integrated IOTA Implementation](https://t.co/H4p0ALrmNT)
