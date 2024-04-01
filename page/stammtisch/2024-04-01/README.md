@@ -34,3 +34,5 @@
 33. **IOTA EVM**: Das Bloom Wallet zeigt erste Screenshots von der integrierten IOTA EVM in [Bloom](https://bloomwallet.io/): [Tweet](https://x.com/cheerful_nicole/status/1774030969357439369?s=20)
 34. **Fiat Drama**: Artikel: [BRICS: BlackRock CEO Warns Debt Crisis Could End US Dollar](https://watcher.guru/news/brics-blackrock-ceo-warns-debt-crisis-could-end-us-dollar)
 35. **IOTA Ökosystem**: [dlt.green tweetet](https://x.com/dlt_green/status/1774380146297839805?s=20) über [DLT.GREEN Node-Installer](https://twitter.com/dlt_green/status/1774380146297839805)
+36. **IOTA Ökosystem**: Der [ApeDAO tweetet](https://x.com/0xApeDAO/status/1774662978585112986?s=20), dass sie ein $2M Investment bekommen haben bei dem ner gegründeten IOTA Grants Programm
+37. **IOTA Hype**: Dom hat einige Aussgagen im Discord getroffen bezüglich IOTA EVM und dem Weg zu den Top 10: [Tweet mit Screenshots](https://x.com/Vrom14286662/status/1774357498658533753?s=20)
