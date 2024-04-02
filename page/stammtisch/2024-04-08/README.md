@@ -5,3 +5,5 @@
 3. **IOTA Ökosystem**: [TanglePay tweetet](https://x.com/tanglepaycom/status/1775069530584240563?s=20) über [Why IOTA’s Tangle is a Perfect Structure for Web3 Social](https://medium.com/@tanglepay/why-iotas-tangle-is-a-perfect-structure-for-web3-social-98cbb679c342)
 4. **IOTA Promote**: Ein guter [Tweet](https://x.com/Tokenicer/status/1775060989349970112?s=20) von Tokenicer, der die Errungenschaften der IF über die letzten Monate bezüglich real world adoption gut zusammen fast
 5. **IOTA EVM**: Es gab ein kleines Update zur IOTA EVM im Discord von Phylo: [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1775017912631201853?s=20)
+6. **IOTA Ökosystem**: [Ben Böhnisch tweetet](https://x.com/BenBoenisch/status/1775254735672479971?s=20) darüber, dass es CAWAENA jetzt auch im Apple Play Store gibt
+7. 
