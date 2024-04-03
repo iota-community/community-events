@@ -10,4 +10,8 @@
 8. **IOTA Stammtisch**: Am 12.4. ist IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/1769680692558913927?s=20)
 9. **IOTA Hype**: Ein [Thread von IOTerry](https://x.com/io_terry/status/1775264163721580615?s=20) über eine "Trillion Dollar Oportunity" für IOTA und TLIP und verlinkt [TradeTech: Catalysing Innovation INSIGHT REPORT JANUARY 2024](https://www3.weforum.org/docs/WEF_TradeTech_Catalysing_Innovation_2024.pdf)
 10. **IOTA Ökosystem**: [IOTAOrigin tweetet](https://x.com/origin_iota/status/1775196383546421419?s=20) darüber, dass sie sich für ein Grant beworben haben. Sie wollen Commodities als RWA unter den europäischen MICA Regulierungen tokenisieren
-11. **IOTA Promote**: 
+11. **IOTA Promote**: Binance
+12. **IOTA Ökosystem**: [Bloomwallet tweetet](https://x.com/bloomwalletio/status/1775518447750762871?s=20) über den Release vom Bloom Wallet und verlinkt den Blogpost: [Introducing Bloom: Your window into the Web3 world](https://medium.com/bloom-wallet/introducing-bloom-your-window-into-the-web3-world-a8e71f538612); Selbst die [IF tweetet](https://x.com/iota/status/1775508552242561187?s=20) einen eigenen Blogpost darüber: [Bloom Wallet Launched - Ecosystem - Apr 3, 2024 - Enabling Seamless Web3 Interactions](https://blog.iota.org/bloom-wallet-launched/)
+13. **IOTA Event**: Es gibt eine [Suhoor Session with IOTA - Live Session auf Binance Live](https://www.binance.com/en/live/video?roomId=2188234)
+14. **IOTA Event**: Außerdem [retweetet die IF](https://x.com/iota/status/1775438832462074143?s=20) den [Tweet von Binance](https://x.com/binance/status/1775433060168679639?s=20) über ein neues Binance Club House in den UAE, "A global hub for all Binance users to connect, work, and talk all things crypto."...
+15. 
