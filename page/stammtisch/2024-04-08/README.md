@@ -14,4 +14,11 @@
 12. **IOTA Ökosystem**: [Bloomwallet tweetet](https://x.com/bloomwalletio/status/1775518447750762871?s=20) über den Release vom Bloom Wallet und verlinkt den Blogpost: [Introducing Bloom: Your window into the Web3 world](https://medium.com/bloom-wallet/introducing-bloom-your-window-into-the-web3-world-a8e71f538612); Selbst die [IF tweetet](https://x.com/iota/status/1775508552242561187?s=20) einen eigenen Blogpost darüber: [Bloom Wallet Launched - Ecosystem - Apr 3, 2024 - Enabling Seamless Web3 Interactions](https://blog.iota.org/bloom-wallet-launched/)
 13. **IOTA Event**: Es gibt eine [Suhoor Session with IOTA - Live Session auf Binance Live](https://www.binance.com/en/live/video?roomId=2188234)
 14. **IOTA Event**: Außerdem [retweetet die IF](https://x.com/iota/status/1775438832462074143?s=20) den [Tweet von Binance](https://x.com/binance/status/1775433060168679639?s=20) über ein neues Binance Club House in den UAE, "A global hub for all Binance users to connect, work, and talk all things crypto."...
-15. 
+15. **IOTA Q1 Report**: Die [IF tweetet](https://x.com/iota/status/1775870943014899906?s=20) über den [Q1 2024 Progress Report Update - The IOTA Foundation’s Dynamic Start to the Year](https://blog.iota.org/q1-2024-progress-report/)
+16. **Crypto Adoption**: Artikel: [Coinbase embraces Bitcoin Lightning network to speed up transactions](https://cryptoslate.com/coinbase-embraces-bitcoin-lightning-network-to-speed-up-transactions/)
+17. **IOTA EVM**: [Deepr Finance tweetet](https://x.com/DeeprFinance/status/1775858640353689628?s=20) darüber, dass sie in Zukunft auf der IOTAEVM wohl auch RWA integrieren wollen
+18. **IOTA EVM**: Auch [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1775864225753149670?s=20) über ihren Plan mit der IOTA EVM: "..We're doubling down on #IOTA EVM without sidelining our commitment to #Shimmer EVM.."
+19. **IOTA Ökosystem**: [validvent.eth tweetet](https://x.com/validvent/status/1775779532772954492?s=20) über ihre Partnerschaft mit [Demia](https://twitter.com/_Demia)
+20. **IOTA Event**: [Ben Böhnisch tweetet](https://x.com/BenBoenisch/status/1775782451136102619?s=20) darüber, dass er am 16.4. bei der ["Crypto Assets Conference" in Frankfurt](https://crypto-assets-conference.de/speaker-cac24a/benjamin-boenisch) Keynote Speaker ist und eine Hardware mit IOTAinside präsentieren will
+21. **IOTA Event**: Der Finanzgoblin kommt am Donnerstag zum TangleGang Sprachchat: [Tweet](https://x.com/tangle_talk/status/1775592175620804860?s=20)
+22. 
