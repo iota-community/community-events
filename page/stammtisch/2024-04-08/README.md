@@ -21,4 +21,8 @@
 19. **IOTA Ökosystem**: [validvent.eth tweetet](https://x.com/validvent/status/1775779532772954492?s=20) über ihre Partnerschaft mit [Demia](https://twitter.com/_Demia)
 20. **IOTA Event**: [Ben Böhnisch tweetet](https://x.com/BenBoenisch/status/1775782451136102619?s=20) darüber, dass er am 16.4. bei der ["Crypto Assets Conference" in Frankfurt](https://crypto-assets-conference.de/speaker-cac24a/benjamin-boenisch) Keynote Speaker ist und eine Hardware mit IOTAinside präsentieren will
 21. **IOTA Event**: Der Finanzgoblin kommt am Donnerstag zum TangleGang Sprachchat: [Tweet](https://x.com/tangle_talk/status/1775592175620804860?s=20)
-22. 
+22. **Crypto Adoption**: Artikel: [PayPal: Stablecoin PYUSD nun für Überweisungen konvertierbar](https://www.btc-echo.de/schlagzeilen/paypal-stablecoin-pyusd-nun-fuer-ueberweisungen-konvertierbar-181865/)
+23. **Crypto Adoption**: Artikel: [Coinbase embraces Bitcoin Lightning network to speed up transactions](https://cryptoslate.com/coinbase-embraces-bitcoin-lightning-network-to-speed-up-transactions/)
+24. **Crypto Drama**: Solana down? [Tweet](https://x.com/WazzCrypto/status/1776006683187147140)
+25. **IOTA Ökosystem**: Die [Rusty Robots tweeten](https://x.com/RustyRobotCC/status/1774116076743254207) eine Preview von ihrer Web3seite "Earn from the Musik you own" mit dem Rusty Rights Token
+26. 
