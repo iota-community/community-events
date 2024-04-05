@@ -24,5 +24,6 @@
 22. **Crypto Adoption**: Artikel: [PayPal: Stablecoin PYUSD nun für Überweisungen konvertierbar](https://www.btc-echo.de/schlagzeilen/paypal-stablecoin-pyusd-nun-fuer-ueberweisungen-konvertierbar-181865/)
 23. **Crypto Adoption**: Artikel: [Coinbase embraces Bitcoin Lightning network to speed up transactions](https://cryptoslate.com/coinbase-embraces-bitcoin-lightning-network-to-speed-up-transactions/)
 24. **Crypto Drama**: Solana down? [Tweet](https://x.com/WazzCrypto/status/1776006683187147140)
-25. **IOTA Ökosystem**: Die [Rusty Robots tweeten](https://x.com/RustyRobotCC/status/1774116076743254207) eine Preview von ihrer Web3seite "Earn from the Musik you own" mit dem Rusty Rights Token
-26. 
+25. **IOTA Ökosystem**: Die [Rusty Robots tweeten](https://x.com/RustyRobotCC/status/1774116076743254207) eine Preview von ihrer Web3seite "Earn from the Musik you own" mit dem Rusty Rights Token; Außerdem haben sie wohl eine Entität in den USA gegründet, um den Royal Rights Token zu verteilen: [Tweet](https://x.com/RustyRobotCC/status/1776263788334834174)
+26. **Crypto Adoption**: Erste BTC ETFs wohl bald in Australien: [Tweet](https://x.com/BitcoinMagazine/status/1776214544597053463)
+27. **IOTA Youtube**: von Cryptopia: [IOTA: Technology for Your Security! Tried and Tested Long Term Gem](https://www.youtube.com/watch?v=LsI6vxEm1W8)
