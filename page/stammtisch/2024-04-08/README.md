@@ -27,3 +27,5 @@
 25. **IOTA Ökosystem**: Die [Rusty Robots tweeten](https://x.com/RustyRobotCC/status/1774116076743254207) eine Preview von ihrer Web3seite "Earn from the Musik you own" mit dem Rusty Rights Token; Außerdem haben sie wohl eine Entität in den USA gegründet, um den Royal Rights Token zu verteilen: [Tweet](https://x.com/RustyRobotCC/status/1776263788334834174)
 26. **Crypto Adoption**: Erste BTC ETFs wohl bald in Australien: [Tweet](https://x.com/BitcoinMagazine/status/1776214544597053463)
 27. **IOTA Youtube**: von Cryptopia: [IOTA: Technology for Your Security! Tried and Tested Long Term Gem](https://www.youtube.com/watch?v=LsI6vxEm1W8)
+28. **IOTA Drama**: [Hans Moog antwortet](https://x.com/hus_qy/status/1776705618516070674) auf einen Tweet in dem behauptet wird er macht ein Fork von IOTA in seinem privaten GitHub
+29. **IOTA Promote**: HIer das 30 minütige [AMA von Dom auf Binance](https://www.binance.com/en/live/video?roomId=2188234) bei Binance. In diesem [Thread von vrom](https://x.com/Vrom14286662/status/1776872768522395706) findet ihr alle Slides von Doms Präsentation
