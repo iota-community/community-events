@@ -1,6 +1,6 @@
 ## IOTA Stammtischthemen für Montag, den 8.4.2024
 
-1. **IOTA Quicktakes**: Es gab diese Woche keine IOTA Quicktakes
+1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1777260153819025546) über die IOTA Quicktakes
 2. **IOTA Ökosystem**: [Spec Wekkly tweetet](https://x.com/SpecWeekly/status/1774804204298830300) darüber, dass bald die 3. Season von Spec Weekly los geht. Thomas will auch X-Events organisieren und sucht noch Projekte die interviewed werden wollen
 3. **IOTA Ökosystem**: [TanglePay tweetet](https://x.com/tanglepaycom/status/1775069530584240563?s=20) über ihren Blogpost: [Why IOTA’s Tangle is a Perfect Structure for Web3 Social](https://medium.com/@tanglepay/why-iotas-tangle-is-a-perfect-structure-for-web3-social-98cbb679c342)
 4. **IOTA Promote**: Ein guter [Tweet](https://x.com/Tokenicer/status/1775060989349970112?s=20) von [Tokenicer](https://twitter.com/Tokenicer), der die Errungenschaften der IF über die letzten Monate bezüglich "real world adoption" gut zusammen fast
