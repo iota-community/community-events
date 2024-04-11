@@ -19,4 +19,5 @@
 17. **Crypto Adoption**: Die Crypto Community wechselt immer öfter zu [Warpcast.com](https://t.co/BRaw4CNvEE) anstelle von X/Twitter und einige IOTA Projekte z.B [Buildcore ehem. SoonLabs](https://twitter.com/soon_labs) möchte ([Tweet](https://x.com/soon_labs/status/1778133554800763010)), dass man sich dort anmeldet, um den $BUILD Airdrop also $Soon-Holder zu bekommen
 18. **IOTA Ökosystem**: [The Shi Universe Sage tweetet](https://x.com/Shiuniverse/status/1778145298390388840) über ihre Roadmap und das neue Video: [Shi Universe - What´s next?](https://www.youtube.com/watch?v=5RpL7BeMbxY)
 19. **IOTA Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1778311989976043844), dass sie Live sind auf [magicsea.finance](https://www.magicsea.finance/)
+20. **Crypto Adoption**: In Korea wurde die Crypto freundliche demokratische Partei gewählt: [Tweet](https://x.com/BTC_Archive/status/1778345512283824418)
 
