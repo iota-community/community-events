@@ -20,4 +20,7 @@
 18. **IOTA Ökosystem**: [The Shi Universe Sage tweetet](https://x.com/Shiuniverse/status/1778145298390388840) über ihre Roadmap und das neue Video: [Shi Universe - What´s next?](https://www.youtube.com/watch?v=5RpL7BeMbxY)
 19. **IOTA Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1778311989976043844), dass sie Live sind auf [magicsea.finance](https://www.magicsea.finance/)
 20. **Crypto Adoption**: In Korea wurde die Crypto freundliche demokratische Partei gewählt: [Tweet](https://x.com/BTC_Archive/status/1778345512283824418)
+21. **Crypto Drama**: Artikel: [El Salvadors Bitcoin-Wallet gehackt? Daten von 5 Millionen Bürgern veröffentlicht](https://www.blocktrainer.de/el-salvadors-bitcoin-wallet-gehackt-daten-von-5-millionen-buergern-veroeffentlicht/)
+22. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1778407664554254467) über eine Freikarte für das Binance Clubhouse am 18. 19. April die man gewinnen kann
+23. 
 
