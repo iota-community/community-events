@@ -22,5 +22,9 @@
 20. **Crypto Adoption**: In Korea wurde die Crypto freundliche demokratische Partei gewählt: [Tweet](https://x.com/BTC_Archive/status/1778345512283824418)
 21. **Crypto Drama**: Artikel: [El Salvadors Bitcoin-Wallet gehackt? Daten von 5 Millionen Bürgern veröffentlicht](https://www.blocktrainer.de/el-salvadors-bitcoin-wallet-gehackt-daten-von-5-millionen-buergern-veroeffentlicht/)
 22. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1778407664554254467) über eine Freikarte für das Binance Clubhouse am 18. 19. April die man gewinnen kann
-23. 
+23. **IOTA Youtube**: [Miss Crypto tweetet](https://x.com/MissCryptoGER/status/1778469202132709787) über ihr neues IOTA Vidoe: [IOTA AKTUELL - Update RWA, EVM, IOTA 2.0 🌏​Kryptonews](https://www.youtube.com/watch?v=jB-2vIOXQ6Q)
+24. **IOTA Youtube**: von Multi: [Große Schritte nach langer Zeit: Ein neuer Service, der die Augen öffnet](https://www.youtube.com/watch?v=Cf53xVkfpYg)
+25. **IOTA Adoption**: [softstocks tweetet](https://x.com/softstock/status/1778509733059600398) über ihr neues Tool ([yt-summary.com](https://yt-summary.com/)). Ein Ki-Service für Youtube Zusammenfassungen den man mit IOTA bezahlen kann
+26. **IOTA Adoption**: [Filancore tweetet](https://x.com/FilancoreGmbH/status/1778457836726448560) über eine Messe wo sie viele Kontakte knüpfen konnten und wo sie nächstes Jahr selber ausstellen wollen..
+27. **Crypto Adoption**: Das EIP-3074 (für smart contract accounts) kommt auf Ethereum und soll die User Experience verbessern: [Tweet](https://x.com/0xCygaar/status/1778522744919044442)
 
