@@ -27,4 +27,7 @@
 25. **IOTA Adoption**: [softstocks tweetet](https://x.com/softstock/status/1778509733059600398) über ihr neues Tool ([yt-summary.com](https://yt-summary.com/)). Ein Ki-Service für Youtube Zusammenfassungen den man mit IOTA bezahlen kann
 26. **IOTA Adoption**: [Filancore tweetet](https://x.com/FilancoreGmbH/status/1778457836726448560) über eine Messe wo sie viele Kontakte knüpfen konnten und wo sie nächstes Jahr selber ausstellen wollen..
 27. **Crypto Adoption**: Das EIP-3074 (für smart contract accounts) kommt auf Ethereum und soll die User Experience verbessern: [Tweet](https://x.com/0xCygaar/status/1778522744919044442)
+28. **Ki News**: Es gab ein ChatGPT-Moment für die Musik Branche. Auf [udio.com](https://www.udio.com/) kann jeder ganz einfach per Prompt Musik erstellen
+29. **IOTA Ökosystem**: Neues Event bei Dark Mythos: [Tweet](https://x.com/DarkMythosIOTA/status/1778679447786602760)
+30. 
 
