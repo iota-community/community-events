@@ -27,7 +27,9 @@
 25. **IOTA Adoption**: [softstocks tweetet](https://x.com/softstock/status/1778509733059600398) über ihr neues Tool ([yt-summary.com](https://yt-summary.com/)). Ein Ki-Service für Youtube Zusammenfassungen den man mit IOTA bezahlen kann
 26. **IOTA Adoption**: [Filancore tweetet](https://x.com/FilancoreGmbH/status/1778457836726448560) über eine Messe wo sie viele Kontakte knüpfen konnten und wo sie nächstes Jahr selber ausstellen wollen..
 27. **Crypto Adoption**: Das EIP-3074 (für smart contract accounts) kommt auf Ethereum und soll die User Experience verbessern: [Tweet](https://x.com/0xCygaar/status/1778522744919044442)
-28. **Ki News**: Es gab ein ChatGPT-Moment für die Musik Branche. Auf [udio.com](https://www.udio.com/) kann jeder ganz einfach per Prompt Musik erstellen
+28. **Ki News**: Es gab ein ChatGPT-Moment für die Musik Branche. Auf [udio.com](https://www.udio.com/) kann jeder ganz einfach per Prompt Musik erstellen; [vrom](https://twitter.com/Vrom14286662) hat gleich 2 IOTA Lieder erstellt: [Tweet](https://x.com/Vrom14286662/status/1778773089171431711)
 29. **IOTA Ökosystem**: Neues Event bei Dark Mythos: [Tweet](https://x.com/DarkMythosIOTA/status/1778679447786602760)
-30. 
+30. **IOTA Ökosystem**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1778754362711388486) über ihren Blogpost: [Pioneering the Path to Web3: Part 4 — Tokenomics & Utility](https://medium.com/@NakamaLabs/pioneering-the-path-to-web3-part-4-tokenomics-utility-aebb270e6035)
+31. **IOTA Ökosystem Event**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1778712358010990860) über ein Event ([Bitcom](https://twitter.com/Bitkom) 24.04.2024) an dem sie teilnehmen
+32. **IOTA Ökosystem**: Die Rusty Robots Blogpost: [PIONEERING THE PATH TO A GREAT COMMUNITY: TOKENOMICS](https://medium.com/@RustyRobotCountryClub/pioneering-the-path-to-a-great-community-tokenomics-c33e58f562a9)
 
