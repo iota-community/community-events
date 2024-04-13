@@ -32,4 +32,8 @@
 30. **IOTA Ökosystem**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1778754362711388486) über ihren Blogpost: [Pioneering the Path to Web3: Part 4 — Tokenomics & Utility](https://medium.com/@NakamaLabs/pioneering-the-path-to-web3-part-4-tokenomics-utility-aebb270e6035)
 31. **IOTA Ökosystem Event**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1778712358010990860) über ein Event ([Bitcom](https://twitter.com/Bitkom) 24.04.2024) an dem sie teilnehmen
 32. **IOTA Ökosystem**: Die Rusty Robots Blogpost: [PIONEERING THE PATH TO A GREAT COMMUNITY: TOKENOMICS](https://medium.com/@RustyRobotCountryClub/pioneering-the-path-to-a-great-community-tokenomics-c33e58f562a9)
+33. **IOTA Event**: [Christoph Strnadl tweetet](https://x.com/archimate/status/1779155978476306789) über ein Event (Build Digital Twin International Congress) auf dem er als Keynote Sprecher eine "digital Twin Architektur" vorstellen will die auf IOTA basiert
+34. **IOTA Stammtisch** Es gab Geschenke zum IOTA Stammtisch München: [Tweet mit Mannschaftsbild](https://x.com/Vrom14286662/status/1778858339448860701); In Köln soll es auch Geschenke geben... [Tweet](https://x.com/iotashop/status/1779085031249469453)
+35. **Crypto Crash**: Am Freitag und Samstag gab es einen ordentlichen 20-40% Crash bei den Altcoins. Bitcoin hat sich dagegen noch relativ gut gehalten
+36. 
 
