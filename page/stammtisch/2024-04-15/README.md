@@ -34,6 +34,9 @@
 32. **IOTA Ökosystem**: Die Rusty Robots Blogpost: [PIONEERING THE PATH TO A GREAT COMMUNITY: TOKENOMICS](https://medium.com/@RustyRobotCountryClub/pioneering-the-path-to-a-great-community-tokenomics-c33e58f562a9)
 33. **IOTA Event**: [Christoph Strnadl tweetet](https://x.com/archimate/status/1779155978476306789) über ein Event (Build Digital Twin International Congress) auf dem er als Keynote Sprecher eine "digital Twin Architektur" vorstellen will die auf IOTA basiert
 34. **IOTA Stammtisch** Es gab Geschenke zum IOTA Stammtisch München: [Tweet mit Mannschaftsbild](https://x.com/Vrom14286662/status/1778858339448860701); In Köln soll es auch Geschenke geben... [Tweet](https://x.com/iotashop/status/1779085031249469453)
-35. **Crypto Crash**: Am Freitag und Samstag gab es einen ordentlichen 20-40% Crash bei den Altcoins. Bitcoin hat sich dagegen noch relativ gut gehalten
-36. 
+35. **IOTA EVM**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1779049381704159341) darüber, dass sie wohl auch schon auf der IOTA EVM experimentieren
+36. **Crypto Crash**: Am Freitag und Samstag gab es einen ordentlichen 20-40% Crash bei den Altcoins. Bitcoin hat sich dagegen noch relativ gut gehalten
+37. **Allg. News/Crypto Crash**: Iran greift Israel mit 300 Rackenten an und 99% davon werden abgeschossen; Crypto crashed daher weiter; Am Sonntag heißt es dann Israel will innerhalb 24-48h zurück schlagen: [Tweet](https://x.com/BRICSinfo/status/1779558929078407459)
+38. **Allg. News**: Bayer Leverkusen wird Deutscher Meister: Hier ein paar Jubelszenen: [Bayer Leverkusen auf X](https://twitter.com/bayer04_en)
+39. **IOTA Event**: [CryptoGin tweetet](https://x.com/Crypto_Gin21/status/1779438715653202225) über ein Event ([GERMANY’S LEADING WEB3 EVENT](https://conf3rence.com/)) am 16-18.04 wo sie dabei sind
 
