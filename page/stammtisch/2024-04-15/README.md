@@ -41,4 +41,6 @@
 39. **IOTA Event**: [CryptoGin tweetet](https://x.com/Crypto_Gin21/status/1779438715653202225) über ein Event ([GERMANY’S LEADING WEB3 EVENT](https://conf3rence.com/)) am 16-18.04 wo sie dabei sind
 40. **Crypto Adoption**: Artikel: [Breaking: Spot Bitcoin And Ethereum ETFs Approved In Hong Kong](https://www.newsbtc.com/news/spot-bitcoin-ethereum-etfs-approved-hong-kong/)
 41. **IOTA Adoption**: Ben Böhnisch will morgen ein DePin Anwendung die auf IOTA basiert präsentieren: [Tweet](https://x.com/BenBoenisch/status/1779811071898828805)
+42. **IOTA Drama**: Laura Kajtazi ist jetzt auch bei validvent.eth eingestellt worden (und damit wohl nicht mehr bei der IF): [Tweet](https://x.com/validvent/status/1779769671786348844)
+43. **IOTA Adoption**: [TLIP tweetet](https://x.com/TLIP_io/status/1779849512623772047) über [Co-Developing a Digital Supply Chain Management Suite - How the Virtual Watch Tower will leverage open-source to innovate](https://maritime-executive.com/editorials/co-developing-a-digital-supply-chain-management-suite)
 
