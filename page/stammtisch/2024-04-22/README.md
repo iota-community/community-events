@@ -36,8 +36,8 @@
 34. **IOTA Promote**: [Binance (12mio follower) tweetet](https://x.com/binance/status/1781005567353397412) und bedankt sich u.a. bei IOTA als Goldsponsor von ihrem Clubhouse
 35. **IOTA Dev**: Neuer Release: [Firefly IOTA Desktop 2.0.10 Beta 1](https://github.com/iotaledger/firefly/releases/tag/desktop-iota-2.0.10-beta-1)
 36. **Shimmer Adoption**: [DexToolsApp tweetet](https://x.com/DEXToolsApp/status/1781101873094639816) darüber, dass sie Shimmer integrieren auf ihrer [https://www.dextools.io/app/en/shimmer/pairs](https://www.dextools.io/app/en/shimmer/pairs) Webseite
-37. **IOTA Event**: Neue Bilder von BinanceClubhouse: [Tweet von Regine](https://x.com/Energine/status/1781235377019211896); [Tweet von Sebastian Weber](https://x.com/Sebasti65365174/status/1781260358398697933) der sich mit [Kowei](https://twitter.com/kowei1995) und [0xSouvlaki](https://twitter.com/0xSouvlaki) (Head of financial relations for the iota ecosystem) unterhalten hat
+37. **IOTA Event**: Neue Bilder von BinanceClubhouse: [Tweet von Regine](https://x.com/Energine/status/1781235377019211896); [Tweet von Sebastian Weber](https://x.com/Sebasti65365174/status/1781260358398697933) der sich mit [Kowei](https://twitter.com/kowei1995) und [0xSouvlaki](https://twitter.com/0xSouvlaki) (Head of financial relations for the iota ecosystem) unterhalten hat; [Tweet von NakamaLabs](https://x.com/Nakama_Labs/status/1781347991325929483)
 38. **Shimmer Exchange**: [Listing Trade tweetet](https://x.com/Listing_Trade/status/1781270072717123731) darüber, dass Shimmer vielleicht bald bei MEXC gelistet wird
 39. **IOTA 2.0**: Neuer Release: [v1.0.0-alpha.15](https://github.com/iotaledger/iota-core/releases/tag/v1.0.0-alpha.15)
 40. **IOTA Summit**: Die [IF tweetet](https://x.com/iota/status/1781321874426732816) Bilder von ihrem Summit. "IOTA Foundation met in person for the first time in 5 years"; 100 Leute mit dem gleichen weißen IOTA Hoodies
-41. 
+41. **Bitcoin Halvening**: Am Freitag war das Bitcoin Halvening
