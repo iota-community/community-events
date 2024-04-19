@@ -1,0 +1,43 @@
+##IOTA Stammtischthemen für Montag, den 22.4.2024
+
+1. **IOTA Quicktakes**: Es gab diese Woche keine IOTA Quicktakes (Bestimmt weil die gesamte IF bei einem Summit war)
+2. **IOTA Audio**: Interview mit Mat Yager: [Tweet](https://x.com/INATBA_org/status/1779850027440996489); [BC100+ PODCAST SERIES: EXPLORING CARBON MANAGEMENT WITH DEMIA](https://inatba.org/podcast/bc100-podcast-series-exploring-carbon-management-demia/)
+3. **IOTA Ökosystem**: [TangleLabs tweetet](https://x.com/Tangle_Labs/status/1779857451875004878), dass ihr "IOTA identity adaptor" jetzt open-source ist und auf [GitHub/TangleLabs](https://github.com/Tangle-Labs/ssimon/tree/dev) heruntergeladen werden kann
+4. **Crypto Promote**: [Coinbase tweetet](https://x.com/BitcoinMagazine/status/1779906937280172203) eine gute WErbung für Bitcoin (immer mehr Pizzapackungen fallen auf Vespa Roller)
+5. **IOTA Event**: [Regine von Spyce 5 tweetet](https://x.com/Energine/status/1779913400698425684) über ein web3Hub Event auf dem sie sind
+6. **IOTA Ökosystem**: [SoonLabs/Soonaverse tweetet](https://x.com/soon_labs/status/1780120724902158715), dass sie auf die Community hören und wieder Soonaverse heißen; Es gab auch ein AMA in ihrem Discord: [Tweet](https://x.com/soon_labs/status/1780295128349057435)
+7. **IOTA Ökosystem**: [AndersO tweetet](https://x.com/A_Oestergaard/status/1780208471792631911) seine Gedanken über Soonaverse in einem Medium Artikel: [The Leap!](https://mirror.xyz/0xd137cbD64F1c3DE3eb7E14fD4cdfa87eBa909A29/8MzZIfLlNnELHpKBK-Wektwm-zkQjN1uYWo1eAu2qVE)
+8. **IOTA EVM**: Es gab ein Update von Phylo: [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1780229866639536292) "excellent progress on the infrastructure side"
+9. **IOTA 2.0**: Es gab ein kleines Update zu iota2.0 im Discord: [Tweet mit Screenshot]8https://x.com/Vrom14286662/status/1780258505598857542)
+10. **IOTA Event**: Am 7. Mai ist ein EBSI Event ('EBSI Ecosystem Day - W3bsi, trust reimagined'): [Tweet](https://x.com/EU_EBSI/status/1780137734478159942)
+11. **IOTA Event**: [DLT.green tweetet](https://x.com/dlt_green/status/1780142175335899499) erste Bilder von dem Event in Frankfurt mit Ben Böhnisch; Auch [Ben Böhnisch tweetet](https://x.com/BenBoenisch/status/1780225710172323895) ein erstes Fazit und einen Tag später [tweetet Ben](https://x.com/BenBoenisch/status/1780552390413897904) noch etwas mehr Details
+12. **IOTA Ökosystem**: Die [Rusty Robots tweeten](https://x.com/RustyRobotCC/status/1780186735583822066) über ihre "Coda Royalty Rights Exchange" die bald starten wird und wo man Royalty Rights Token vor allem für Musik handeln/staken kann
+13. **Crypto Drama**: Dubai säuft ab kurz vor dem Token2049 Event: [Tweet vom Flughafen](https://x.com/wallstreetbets/status/1780239153281585368); [Tweet im Rolls Royce](https://x.com/jrdnwelch/status/1780128544602963995); Auch [Susanne Krone tweetet](https://x.com/SusanneKrone/status/1780197647178998215) ein Video im Wasser
+14. **IOTA Stammtisch**: Am 3. und 4. Mai findet ein IOTA Stammtisch in Hamburg statt: [Tweet](https://x.com/tangle_talk/status/1780616142823755981)
+15. **IOTA Audio**: Am Donnerstag war der neue Community Manager [Jonathan](https://twitter.com/Eclipse647_) im TangleTalk: [Tweet](https://x.com/tangle_talk/status/1780424374044028975)
+16. **IOTA Ökosystem**: [Audit_One tweetet](https://x.com/auditone_team/status/1780544265380049246), dass sie das Bloom Wallet auditiert haben: [Youtube Video](https://youtu.be/1GCrycs0NAc)
+17. **IOTA Ökosystem**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1780558776841494552) über ein Event von [USDV_Money](https://twitter.com/USDV_Money), wo sie "some interesting connections" knüpfen
+18. **IOTA Event**: Erste Leute (Sebastian Weber, AuditOne and Peppy Finance) treffen sich in Dubai: [Tweet](https://x.com/Sebasti65365174/status/1780561535972134917)
+19. **Tech News**: Boston Dynamics veröffentlicht ein Video von ihrem neuen elektrischen Roboter (davor war er hydraulisch): [Tweet](https://x.com/heyBarsee/status/1780590530562347284)
+20. **Crypto Umfrage (von IOTA)**: Die [IF macht ein Thread](https://x.com/iota/status/1780597083063366109) über ein "CHAISE_EU Project Survey on Blockchain Skills Development in Europe"
+21. **IOTA Dev**: Neuer Release: [iota-sdk-nodejs-v2.0.0-alpha.6](https://github.com/iotaledger/iota-sdk/releases/tag/iota-sdk-nodejs-v2.0.0-alpha.6) und [iota-sdk-wasm-v2.0.0-alpha.3](https://github.com/iotaledger/iota-sdk/releases/tag/iota-sdk-wasm-v2.0.0-alpha.3)
+22. **IOTA Ökosystem**: [Infernal Uprising tweetet](https://x.com/InfernalNFTs/status/1780630653920321620) über ihren Beta Release, den man jetzt auf [tangleverse.io/games](https://www.tangleverse.io/games) spielen kann; [Auch Linus freut sich](https://x.com/LinusNaumann/status/1780631793659519147) darüber
+23. **IOTA Ökosystem**: [IOTACap tweetet](https://x.com/IotaCap/status/1780633700666945797) über ihre Roadmap und die Tokenomics zu ihrer IOTAcaps Webseite, die wohl ähnlich wird wie [shimmercap.app](https://www.shimmercap.app/)
+24. **Ki News**: VASA-1 (von Microsoft) kann aus einem Porträt ein extrem realistisches Video erstellen: [Tweet mit 4 videos](https://x.com/OrctonAI/status/1781333110681923781)
+25. **IOTA Ökosystem**: [Outlier Venture tweetet](https://x.com/OVioHQ/status/1780853803623068045) über "Bitcoin Base Camp Accelerator" mit [Bloom](https://twitter.com/bloomwalletio) 
+26. **IOTA Ökosystem**: [farmunited](https://twitter.com/FarmUnited) pflanzt Bäume und begleitet die Aufforstung mit Sensoren: [Tweet](https://x.com/EtoGruppe/status/1780876568518066346)
+27. **IOTA Adoption**: [Christoph Strnadl tweetet](https://x.com/archimate/status/1780904251809493099) über sein Auftritt bei der "DigitalTwin International Conference 2024" in Barcelona wo er IOTA als shared Datenlösung für digitale Zwillinge vorgestellt hat; Es ist wohl schon Einsatzfähig auf Shimmer EVM und IOTA EVM: [Tweet von Strnadl](https://x.com/archimate/status/1780930536287941086)
+28. **IOTA Event**: [Kowei tweetet](https://x.com/kowei1995/status/1780921081240400311) erste Bilder von der IOTA Ecke im [BinanceClubhouse](https://twitter.com/hashtag/BinanceClubhouse?src=hashtag_click) in Dubai; Die [IF retweetet](https://x.com/iota/status/1780950618099650859) das und verweist auf die Opening Party die bald startet
+29. **IOTA Ökosystem**: [Bivreost tweetet](https://x.com/bivreost/status/1780929394975912393) über die [Bivreost V2 docs](https://docs.bivreost.com/) "There are only a few weeks left until the launch of Bivreost v2"
+30. **IOTA Adoption**: [Dexynth tweetet](https://x.com/DEXYNTH/status/1780862578568421468) darüber, warum sie auf IOTA bauen. In ihrem Profil steht "Revolutionizing synthetic asset trading"
+31. **IOTA Youtube**: [Neues video](https://x.com/CryptoAvon2626/status/1780982625152245779)
+32. **IOTA Adoption**: [TLIP tweetet](https://x.com/TLIP_io/status/1780985363898503433) darüber, dass Frankreich den Warenhandel digitalisieren will und so ein Arte "Electronic Trade Documents Act" nächsten Monat beschließen will
+33. **Crypto Drama**: JP Morgan sagt mal wieder das Bitcoin ein Schneeballsystem ist: [Tweet](https://x.com/Swan/status/1780984490262770064)
+34. **IOTA Promote**: [Binance (12mio follower) tweetet](https://x.com/binance/status/1781005567353397412) und bedankt sich u.a. bei IOTA als Goldsponsor von ihrem Clubhouse
+35. **IOTA Dev**: Neuer Release: [Firefly IOTA Desktop 2.0.10 Beta 1](https://github.com/iotaledger/firefly/releases/tag/desktop-iota-2.0.10-beta-1)
+36. **Shimmer Adoption**: [DexToolsApp tweetet](https://x.com/DEXToolsApp/status/1781101873094639816) darüber, dass sie Shimmer integrieren auf ihrer [https://www.dextools.io/app/en/shimmer/pairs](https://www.dextools.io/app/en/shimmer/pairs) Webseite
+37. **IOTA Event**: Neue Bilder von BinanceClubhouse: [Tweet von Regine](https://x.com/Energine/status/1781235377019211896); [Tweet von Sebastian Weber](https://x.com/Sebasti65365174/status/1781260358398697933) der sich mit [Kowei](https://twitter.com/kowei1995) und [0xSouvlaki](https://twitter.com/0xSouvlaki) (Head of financial relations for the iota ecosystem) unterhalten hat
+38. **Shimmer Exchange**: [Listing Trade tweetet](https://x.com/Listing_Trade/status/1781270072717123731) darüber, dass Shimmer vielleicht bald bei MEXC gelistet wird
+39. **IOTA 2.0**: Neuer Release: [v1.0.0-alpha.15](https://github.com/iotaledger/iota-core/releases/tag/v1.0.0-alpha.15)
+40. **IOTA Summit**: Die [IF tweetet](https://x.com/iota/status/1781321874426732816) Bilder von ihrem Summit. "IOTA Foundation met in person for the first time in 5 years"; 100 Leute mit dem gleichen weißen IOTA Hoodies
+41. 
