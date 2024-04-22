@@ -1,4 +1,4 @@
-##IOTA Stammtischthemen für Montag, den 22.4.2024
+## IOTA Stammtischthemen für Montag, den 22.4.2024
 
 1. **IOTA Quicktakes**: Es gab diese Woche keine IOTA Quicktakes (Bestimmt weil die gesamte IF bei einem Summit war)
 2. **IOTA Audio**: Interview mit Mat Yager: [Tweet](https://x.com/INATBA_org/status/1779850027440996489); [BC100+ PODCAST SERIES: EXPLORING CARBON MANAGEMENT WITH DEMIA](https://inatba.org/podcast/bc100-podcast-series-exploring-carbon-management-demia/)
