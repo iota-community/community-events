@@ -55,3 +55,4 @@
 53. **IOTA Event**: [Kimmo Nurmisto von Spyce_5](https://twitter.com/KimmoNurmisto/status/1782362993914675700) ist am 23. - 24. 4 in Talin bei einem Event: [Tweet](https://x.com/KimmoNurmisto/status/1782362993914675700)
 54. **IOTA 2.0**: Die Beta (iota-core v1.0.0-beta) ist zu 97% completed: [siehe Github: iota-core v1.0.0-beta](https://github.com/iotaledger/iota-core/milestone/2?s=08)
 55. **IOTA Wochenübersicht**: Hier der [IOTATalk Wochenübersicht](https://www.iota-talk.com/index.php?article/389-week-in-review-from-14th-to-20nd-april-2024/)
+56. **IOTA Soon**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1782377673219596340) über ihr neues Produkt "HAVN", mit dem sie am 29.4. live gehen wollen ("Public Website Launch: Monday, April 29, 1:00 PM CEST")
