@@ -8,7 +8,7 @@
 6. **IOTA Ökosystem**: [SoonLabs/Soonaverse tweetet](https://x.com/soon_labs/status/1780120724902158715), dass sie auf die Community hören und wieder Soonaverse heißen; Es gab auch ein AMA in ihrem Discord: [Tweet](https://x.com/soon_labs/status/1780295128349057435)
 7. **IOTA Ökosystem**: [AndersO tweetet](https://x.com/A_Oestergaard/status/1780208471792631911) seine Gedanken über Soonaverse in einem Medium Artikel: [The Leap!](https://mirror.xyz/0xd137cbD64F1c3DE3eb7E14fD4cdfa87eBa909A29/8MzZIfLlNnELHpKBK-Wektwm-zkQjN1uYWo1eAu2qVE)
 8. **IOTA EVM**: Es gab ein Update von Phylo: [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1780229866639536292) "excellent progress on the infrastructure side"
-9. **IOTA 2.0**: Es gab ein kleines Update zu iota2.0 im Discord: [Tweet mit Screenshot]8https://x.com/Vrom14286662/status/1780258505598857542)
+9. **IOTA 2.0**: Es gab ein kleines Update zu iota2.0 im Discord: [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1780258505598857542)
 10. **IOTA Event**: Am 7. Mai ist ein EBSI Event ('EBSI Ecosystem Day - W3bsi, trust reimagined'): [Tweet](https://x.com/EU_EBSI/status/1780137734478159942)
 11. **IOTA Event**: [DLT.green tweetet](https://x.com/dlt_green/status/1780142175335899499) erste Bilder von dem Event in Frankfurt mit Ben Böhnisch; Auch [Ben Böhnisch tweetet](https://x.com/BenBoenisch/status/1780225710172323895) ein erstes Fazit und einen Tag später [tweetet Ben](https://x.com/BenBoenisch/status/1780552390413897904) noch etwas mehr Details
 12. **IOTA Ökosystem**: Die [Rusty Robots tweeten](https://x.com/RustyRobotCC/status/1780186735583822066) über ihre "Coda Royalty Rights Exchange" die bald starten wird und wo man Royalty Rights Token vor allem für Musik handeln/staken kann
