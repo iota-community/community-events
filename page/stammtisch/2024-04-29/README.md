@@ -14,3 +14,4 @@
 12. **IOTA EVM**: [Phylo](https://twitter.com/PhyloIota) hat im Discord etwas zum aktuellen Stand der IOTA EVM geschrieben: [Tweet mit Screenshots](https://x.com/Vrom14286662/status/1782812529963499958)
 13. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1782754664510853526) über den [Auftritt von Dom im BinanceClubhouse](https://www.binance.com/en/live/video?roomId=2192962) bei min 52:00
 14. **IOTA Adoption**: [Dave tweetet](https://x.com/daveghbeer/status/1782701965442470245) über [TLIP](https://x.com/TLIP_io/status/1782342145505980433) und darüber, dass sie das "global" ausrollen wollen
+15. **IOTA Governance**: Die [IF tweetet](https://x.com/iota/status/1782756316127043995) über den Blogpost: [IOTA and Shimmer Governance Votes March 2024 Results](https://blog.iota.org/governance-votes-march-2024-results/)
