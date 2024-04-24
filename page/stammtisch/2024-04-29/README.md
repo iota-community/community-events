@@ -21,3 +21,5 @@ Bridges traditional instrument into crypto/digital world](https://blog.archax.co
 18. **IOTA Ökosystem**: [Bivreost tweetet](https://x.com/bivreost/status/1783023849975484546), dass man in Vorbereitung zum Start von Bivreost V2 jetzt die NFTs konvertieren kann/soll
 19. **IOTA Ökosystem**: [TangleLabs retweetet](https://x.com/Tangle_Labs/status/1783008832139956731) den [Tweet von AuvoID](https://x.com/AuvoDigital/status/1783008219306066074) darüber, dass Organisationen ganz einfach dezentralized IDs erstellen können "seamlessly onboard your organization in minutes and have your Organization Identity issuing credentials from day one!"
 20. **Crypto Drama**: Artikel: [Binance: DOJ Recommends 3-Year Sentence for CZ’s Violations](https://watcher.guru/news/binance-doj-recommends-3-year-sentence-for-czs-violations#google_vignette)
+21. **IOTA Gezwitscher**: [Borsty bzw. TangleTalk tweetet](https://x.com/tangle_talk/status/1783040645805777195) dass IOTA im 2.0 nicht mehr feeless ist und es entstehen viele Diskussionen auf X
+22. 
