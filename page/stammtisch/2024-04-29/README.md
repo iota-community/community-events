@@ -9,7 +9,7 @@
 7. **IOTA Promote**: Die [IF macht einen Thread](https://x.com/iota/status/1782711014431035824) für web3-Startups die sich bei dem "IOTA APAC Accelerator Program" anmelden können
 8. **IOTA Ökosystem**: [TangleLabs tweetet](https://x.com/Tangle_Labs/status/1782733151879463074), dass ihre [openID open source Software](https://github.com/Tangle-Labs/oid4vc) bereits mehr als 6 tausend mal heruntergeladen wurde ("OID4VC allows anyone easy access to #DecentralizedIdentity for passwordless access, credential verification, issuance, and a lot more. All in one easy-to-use package")
 9. **IOTA Event Youtube**: Am 8.5. ist [Holger Köther](https://twitter.com/HolgerKoether) im Tech Talk mit [validvent.eth](https://twitter.com/validvent) mit dem Thema "Challenges and Opportunities of Infrastructure Providers": [Tweet](https://x.com/validvent/status/1782696350636736543): [Youtube Link von validvent.eth](https://www.youtube.com/@validvent)
-10. **IOTA 2.0**: Neuer Release: [iota-core v1.0.0-alpha.18](https://github.com/iotaledger/iota-core/releases/tag/v1.0.0-alpha.18)
+10. **IOTA 2.0**: Neuer Release: [iota-core v1.0.0-alpha.18](https://github.com/iotaledger/iota-core/releases/tag/v1.0.0-alpha.18); [iota-core v1.0.0-alpha.19](https://github.com/iotaledger/iota-core/releases/tag/v1.0.0-alpha.19); [iota-core v1.0.0-alpha.20](https://github.com/iotaledger/iota-core/releases/tag/v1.0.0-alpha.20)
 11. **IOTA Ökosystem**: [Charly Varley vom Bloom Wallet frägt](https://x.com/c_varley/status/1782803958773276911) welche Chain als nächstes integriert werden soll (Bitcoin L2, Solana, Sui/Aptos oder ne andere)
 12. **IOTA EVM**: [Phylo](https://twitter.com/PhyloIota) hat im Discord etwas zum aktuellen Stand der IOTA EVM geschrieben: [Tweet mit Screenshots](https://x.com/Vrom14286662/status/1782812529963499958)
 13. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1782754664510853526) über den [Auftritt von Dom im BinanceClubhouse](https://www.binance.com/en/live/video?roomId=2192962) bei min 52:00
@@ -29,5 +29,5 @@
 27. **Shimmer Exchange**: [MEXC tweetet](https://x.com/MEXC_Official/status/1783438784002220456), dass sie Shimmer integrieren und man SMR gewinnen kann
 28. **Fiat Drama**: EU will anonyme Cryptozahlungen verbieten? [Tweet](https://x.com/RadarHits/status/1783476289585791452); [Tweet zur Aufklärung](https://x.com/paddi_hansen/status/1783487929240666590)
 29. **IOTA Ökosystem**: Bloom Wallet Update: [Tweet](https://x.com/bloomwalletio/status/1783189051295609081)
-30. **Crypto Drama**: Artikel: [Samourai Wallet: US-Behörden nehmen Entwickler fest](https://bitcoin-kurier.de/samourai-wallet-us-behoerden-nehmen-entwickler-fest/)
-31. 
+30. **Crypto Drama**: Artikel: [Samourai Wallet: US-Behörden nehmen Entwickler fest](https://bitcoin-kurier.de/samourai-wallet-us-behoerden-nehmen-entwickler-fest/); Es stecken immerhin über 10K Bitcoins in Samourai Wallets: [Tweet](https://x.com/LukeMikic21/status/1783246418490040707)
+31. **IOTA Audio**: Der TangleTalk mit [Jonathan](https://twitter.com/Eclipse647_) dem neuen Community Manager von der IF wurde veröffentlicht: [Tweet](https://x.com/tangle_talk/status/1783556000936534056)
