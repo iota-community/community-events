@@ -26,4 +26,8 @@
 24. **Shimmer Airdrop**: [Shimmer tweetet](https://x.com/shimmernet/status/1783118704114360571) über den Blogpost: [The Shimmer Liquidity Mining Campaign Airdrop Starts Now](https://blog.shimmer.network/airdrop-rewards/)
 25. **Crypto Adoption**: [Strike tweetet](https://x.com/Strike/status/1783184041228812560), dass ihre [Strike App](https://strike.me/download/?inline_install=1&utm_campaign=Individual&utm_medium=referral&utm_source=CWUY0E) jetzt endlich auch in Europa verwendet werden kann. Jeder der sich über [anmeldet (Z.B. über vroms Ivite Link ;-))](https://strike.me/download/?inline_install=1&utm_campaign=Individual&utm_medium=referral&utm_source=CWUY0E), bekommt 5 Eur gut geschrieben
 26. **IOTA 2.0**: Die [v1.0.0-beta](https://github.com/iotaledger/iota-core/milestone/2?s=08](https://github.com/iotaledger/iota-core/milestone/2?s=08) ist am Donnerstag zu 98% fertig geworden
-27. **Shimmer Eschange**: [MEXC tweetet](https://x.com/MEXC_Official/status/1783438784002220456), dass sie Shimmer integrieren und man SMR gewinnen kann
+27. **Shimmer Exchange**: [MEXC tweetet](https://x.com/MEXC_Official/status/1783438784002220456), dass sie Shimmer integrieren und man SMR gewinnen kann
+28. **Fiat Drama**: EU will anonyme Cryptozahlungen verbieten? [Tweet](https://x.com/RadarHits/status/1783476289585791452); [Tweet zur Aufklärung](https://x.com/paddi_hansen/status/1783487929240666590)
+29. **IOTA Ökosystem**: Bloom Wallet Update: [Tweet](https://x.com/bloomwalletio/status/1783189051295609081)
+30. **Crypto Drama**: Artikel: [Samourai Wallet: US-Behörden nehmen Entwickler fest](https://bitcoin-kurier.de/samourai-wallet-us-behoerden-nehmen-entwickler-fest/)
+31. 
