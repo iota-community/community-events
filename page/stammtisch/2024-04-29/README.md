@@ -39,4 +39,4 @@
 37. **Crypto Drama**: Die SEC verklagt Metamask: [Tweet](https://x.com/RadarHits/status/1783576077501104597)
 38. **IOTA Promote**: Der Vortrag von Dom bei Binance wurde im [Tweet mit Video von Moon](https://x.com/moonbaklava/status/1783183071635792287) etwas aufbereitet. Außerdem [tweetet die IF](https://x.com/iota/status/1783768193833546050) den Link zur [Präsentation von Dom](https://docs.google.com/presentation/d/1F71mCfejjp7nMASPBGD4HYbryDWTrSoe3TToPWKcuwU/edit#slide=id.g2b1e8630d41_4_67)
 39. **IOTA Event**: [impierce Technologies tweetet](https://x.com/ImpierceTech/status/1783790201732579635) über ein Event bei Coinbase wo sie waren
-40. 
+40. **IOTA Gaming**: [Uruk Batas tweetetn](https://x.com/UrukBartas/status/1783753877537308702) über ihre [Roadmap](https://docs.urukbartas.com/detailed-roadmap)
