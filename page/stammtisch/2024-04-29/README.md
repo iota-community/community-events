@@ -28,11 +28,15 @@
 26. **IOTA 2.0**: Die [v1.0.0-beta](https://github.com/iotaledger/iota-core/milestone/2?s=08](https://github.com/iotaledger/iota-core/milestone/2?s=08) ist am Donnerstag zu 98% fertig geworden
 27. **Shimmer Exchange**: [MEXC tweetet](https://x.com/MEXC_Official/status/1783438784002220456), dass sie Shimmer integrieren und man SMR gewinnen kann
 28. **Fiat Drama**: EU will anonyme Cryptozahlungen verbieten? [Tweet](https://x.com/RadarHits/status/1783476289585791452); [Tweet zur Aufklärung](https://x.com/paddi_hansen/status/1783487929240666590)
-29. **IOTA Ökosystem**: Bloom Wallet Update: [Tweet](https://x.com/bloomwalletio/status/1783189051295609081)
-30. **Crypto Drama**: Artikel: [Samourai Wallet: US-Behörden nehmen Entwickler fest](https://bitcoin-kurier.de/samourai-wallet-us-behoerden-nehmen-entwickler-fest/); Es stecken immerhin über 10K Bitcoins in Samourai Wallets: [Tweet](https://x.com/LukeMikic21/status/1783246418490040707)
-31. **IOTA Audio**: Der TangleTalk mit [Jonathan](https://twitter.com/Eclipse647_) dem neuen Community Manager von der IF wurde veröffentlicht: [Tweet](https://x.com/tangle_talk/status/1783556000936534056)
-32. **Crypto Drama**: Artikel: [SEC sued over Ethereum, crypto firm asks court to state token is not a security](https://fortune.com/crypto/2024/04/25/sec-sued-over-ethereum-crypto-firm-asks-court-to-state-token-is-not-a-security/)
-33. **Crypto Crazy**: Jemand hat $2mio für einen Satoshi gezahlt: [Tweet](https://x.com/Vivek4real_/status/1783529481539363184)
-34. **Crypto Adoption**: [Stripe tweetet](https://x.com/collision/status/1783559623511011535), dass sie ab dem Sommer auch Crypto Stablecoin Payments (im Beispiel auf ETH und Solana) einbinden wollen in ihre Internet Paymentlösung [stripe.com](https://stripe.com/)
-35. **Crypto Drama**: Das FBI warnt die Leute in den USA davor, mit Exchanges zu interagieren, die nicht als MSB (Money Service Buisness) registriert sind zu vinteragieren: [Tweet](https://x.com/BitcoinMagazine/status/1783577655968666045)
-36. **Crypto Drama**: Die SEC verklagt Metamask: [Tweet](https://x.com/RadarHits/status/1783576077501104597)
+29. **Fiat Drama**: Artikel: [EU-Parlament stimmt für neues Geldwäschegesetz](https://www.blocktrainer.de/blog/eu-parlament-stimmt-fuer-neues-geldwaeschegesetz/)
+30. **IOTA Ökosystem**: Bloom Wallet Update: [Tweet](https://x.com/bloomwalletio/status/1783189051295609081)
+31. **Crypto Drama**: Artikel: [Samourai Wallet: US-Behörden nehmen Entwickler fest](https://bitcoin-kurier.de/samourai-wallet-us-behoerden-nehmen-entwickler-fest/); Es stecken immerhin über 10K Bitcoins in Samourai Wallets: [Tweet](https://x.com/LukeMikic21/status/1783246418490040707)
+32. **IOTA Audio**: Der TangleTalk mit [Jonathan](https://twitter.com/Eclipse647_) dem neuen Community Manager von der IF wurde veröffentlicht: [Tweet](https://x.com/tangle_talk/status/1783556000936534056)
+33. **Crypto Drama**: Artikel: [SEC sued over Ethereum, crypto firm asks court to state token is not a security](https://fortune.com/crypto/2024/04/25/sec-sued-over-ethereum-crypto-firm-asks-court-to-state-token-is-not-a-security/)
+34. **Crypto Crazy**: Jemand hat $2mio für einen Satoshi gezahlt: [Tweet](https://x.com/Vivek4real_/status/1783529481539363184)
+35. **Crypto Adoption**: [Stripe tweetet](https://x.com/collision/status/1783559623511011535), dass sie ab dem Sommer auch Crypto Stablecoin Payments (im Beispiel auf ETH und Solana) einbinden wollen in ihre Internet Paymentlösung [stripe.com](https://stripe.com/)
+36. **Crypto Drama**: Das FBI warnt die Leute in den USA davor, mit Exchanges zu interagieren, die nicht als MSB (Money Service Buisness) registriert sind zu vinteragieren: [Tweet](https://x.com/BitcoinMagazine/status/1783577655968666045)
+37. **Crypto Drama**: Die SEC verklagt Metamask: [Tweet](https://x.com/RadarHits/status/1783576077501104597)
+38. **IOTA Promote**: Der Vortrag von Dom bei Binance wurde im [Tweet mit Video von Moon](https://x.com/moonbaklava/status/1783183071635792287) etwas aufbereitet. Außerdem [tweetet die IF](https://x.com/iota/status/1783768193833546050) den Link zur [Präsentation von Dom](https://docs.google.com/presentation/d/1F71mCfejjp7nMASPBGD4HYbryDWTrSoe3TToPWKcuwU/edit#slide=id.g2b1e8630d41_4_67)
+39. **IOTA Event**: [impierce Technologies tweetet](https://x.com/ImpierceTech/status/1783790201732579635) über ein Event bei Coinbase wo sie waren
+40. 
