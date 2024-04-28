@@ -45,3 +45,5 @@
 43. **IOTA Ökosystem**: [Virtue tweetet](https://x.com/Virtue_Money/status/1783879791159996666), dass sie ihren StableCon vUSD auch auf L1 bringen werden um feeless zu sein ("..become the first stablecoin capable of transferring USD value feelessly, securely, and transparently across any network")
 44. **IOTA Ökosystem**: [Nimbus tweetet](https://x.com/get_nimbus/status/1783852858267533426) darüber, dass sie Shimmer integriert haben auf [app.getnimbus.io](https://app.getnimbus.io/?tab=defi&type=EVM&chain=SHIMMER&address=0x8fdb179Db2CD74dAdBa35377597e94Bfc62BE512)
 45. **IOTA EVM**: Status Update im [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1783847043640815777) vom techn. Announcement
+46. **IOTA Wochenrückblick**: [IOTA Talk tweetet](https://www.iota-talk.com/index.php?article/390-wochenr%C3%BCckblick-vom-21-bis-27-april-2024/) über den [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/390-wochenr%C3%BCckblick-vom-21-bis-27-april-2024/)
+47. **IOTA Stammtisch**: Der IOTA Stammtisch in Köln war wohl ein voller Erfolg: [Tweet](https://x.com/sciascma/status/1784345754875613334)
