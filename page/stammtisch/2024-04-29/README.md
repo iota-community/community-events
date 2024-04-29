@@ -52,3 +52,4 @@
 50. **IOTA Ökosystem**: [Epoch Zero tweetet](https://x.com/Epoch_0/status/1784782740627325350) über ihren Blogpost: [EpochZero — SwapOne](https://medium.com/@EpochZer0/epochzero-swapone-3d0c03738f5b)
 51. **Fiat Drama**: Japans Yen fällt extrem gegenüber dem US Dollar: [Tweet](https://x.com/Barchart/status/1784807302962254298)
 52. **IOTA Ökosystem**: [Spyce_5 tweetet](https://x.com/SPYCE_5/status/1784902097319637402) über [Introducing HAVN - The-decentralized-network-of-connected-hybrid-chains](https://havn.network/news/introducing-havn-the-decentralized-network-of-connected-hybrid-chains/)
+53. **IOTA Audio Event**: Neue [Twitter Spaces Event Serie](https://x.com/iota/status/1784915547085210005) von der IF startet am Donnerstag 
