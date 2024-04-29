@@ -48,6 +48,6 @@
 46. **IOTA Wochenrückblick**: [IOTA Talk tweetet](https://www.iota-talk.com/index.php?article/390-wochenr%C3%BCckblick-vom-21-bis-27-april-2024/) über den [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/390-wochenr%C3%BCckblick-vom-21-bis-27-april-2024/)
 47. **IOTA Stammtisch**: Der IOTA Stammtisch in Köln war wohl ein voller Erfolg: [Tweet](https://x.com/sciascma/status/1784345754875613334)
 48. **IOTA Stammtisch**: Am Freitag ist IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/1784882047338590607)
-49. **IOTA Gaming**: [Saltmines tweten](https://x.com/SaltminesCo/status/1784493280924995709) ein Trailer für ihr Unreal Engine5 Game
+49. **IOTA Gaming**: [Saltmines tweten](https://x.com/SaltminesCo/status/1784493280924995709) einen Trailer zu ihrem Unreal Engine 5 Game
 50. **IOTA Ökosystem**: [Epoch Zero tweetet](https://x.com/Epoch_0/status/1784782740627325350) über ihren Blogpost: [EpochZero — SwapOne](https://medium.com/@EpochZer0/epochzero-swapone-3d0c03738f5b)
 51. **Fiat Drama**: Japans Yen fällt extrem gegenüber dem US Dollar: [Tweet](https://x.com/Barchart/status/1784807302962254298)
