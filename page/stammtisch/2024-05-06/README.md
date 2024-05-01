@@ -13,3 +13,10 @@
 11. **IOTA Adoption**: Interessant ist auch, dass es bei dem Event eineinen Stand von IOTA geben wird, wo sie mehrere Live Demos von [TLIP](https://www.tlip.io/),von [tokeny.com/](https://tokeny.com/) und von [realizeassets.com](https://www.realizeassets.com/) zeigen wollen
 12. **Crypto Adoption**: Coinbase integriert Lightning für Bitcoin Transaktionen: [Tweet](https://x.com/coinbase/status/1785309426691273092)
 13. **Ki News**: OpenAI stellt Voice Engine vor: [Thread](https://x.com/hey_madni/status/1784982570482155808)
+14. **Crypto Drama**: Artikel: [Kongress wissentlich getäuscht? - SEC-Chef Gary Gensler unter Beschuss](https://www.btc-echo.de/schlagzeilen/sec-chef-gary-gensler-unter-beschuss-183522/)
+15. **IOTA Ökosystem**: [ID8R tweetet](https://x.com/ID8R_com/status/1785646618899005525) darüber, dass sie Shimmer integrieren auf [app.id8r.com/shimmer](https://app.id8r.com/shimmer)
+16. **IOTA Ökosystem**: [TangleLabs retweetet](https://x.com/Tangle_Labs/status/1785670555892424785) den [Tweet von AuvoID](https://x.com/AuvoDigital/status/1785669437279936897), wo es um European Digital Identity space geht und darüber, dass [auvo.io](https://www.auvo.io/) "complex organization identity management and digital credential technology in the hands of every business" bringt. Get early Access: [auvo.io](https://www.auvo.io/)
+17. **IOTA EVM**: [AlphaRo tweetet](), dass [app.chainport.io](https://app.chainport.io/) offenbar IOTA integriert
+18. **IOTA Promote**: Artikel: [Bloom: The Next-Gen Web3 Wallet Experience - Meet CEO and Co-Founder Charlie Varley](https://blockster.com/bloom-the-next-gen-web3-wallet-experience-meet-ceo-and-co-founder-charlie-varley)
+19. **IOTA Grants**: Die [IF retweetet](https://x.com/iota/status/1785540278444499295) nochmal den [Tweet von Tenity](https://x.com/tenity_global/status/1785466665913766195) über das [IOTA Accelerator Program](https://www.tenity.com/programs/iota-apac-accelerator?hss_channel=tw-748546152182779904)
+20. 
