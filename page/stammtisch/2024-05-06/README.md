@@ -23,4 +23,6 @@
 21. **Crypto Adoption**: Artikel: [MICROSTRATEGY ANNOUNCES DECENTRALIZED ID PLATFORM ON BITCOIN CALLED MICROSTRATEGY ORANGE](https://bitcoinmagazine.com/business/microstrategy-announces-decentralized-id-platform-on-bitcoin-called-microstrategy-orange)
 22. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/1784882047338590607)
 23. **IOTA 2.0**: Neuer Release: [github.com...iota-core/.../v1.0.0-alpha.22](https://github.com/iotaledger/iota-core/releases/tag/v1.0.0-alpha.22)
-24. **IOTA Audio**: Es gab ein erstes [Twitter Spaces Event von der IF mit IOTAHeroes]()
+24. **IOTA Audio**: Es gab ein erstes [Twitter Spaces Event von der IF mit IOTAHeroes](https://x.com/iota/status/1786002107344028091)
+25. **Crypto Drama**: Artikel: [„Bitcoin Jesus“ Roger Ver in Spanien verhaftet](https://bitcoinblog.de/2024/05/02/bitcoin-jesus-roger-ver-in-spanien-verhaftet/)
+26. **Crypto Adoption**: Bitcoin ETFs hatten am Donnerstag ihren größten Abfluss: [Tweet](https://x.com/rovercrc/status/1786020314457030680)
