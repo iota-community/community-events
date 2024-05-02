@@ -20,4 +20,5 @@
 18. **IOTA Promote**: Artikel: [Bloom: The Next-Gen Web3 Wallet Experience - Meet CEO and Co-Founder Charlie Varley](https://blockster.com/bloom-the-next-gen-web3-wallet-experience-meet-ceo-and-co-founder-charlie-varley)
 19. **IOTA Grants**: Die [IF retweetet](https://x.com/iota/status/1785540278444499295) nochmal den [Tweet von Tenity](https://x.com/tenity_global/status/1785466665913766195) über das [IOTA Accelerator Program](https://www.tenity.com/programs/iota-apac-accelerator?hss_channel=tw-748546152182779904)
 20. **Crypto Dump**: Bitcoin ist am Mittwoch um fast 5% gefallen
-21. 
+21. **Crypto Adoption**: Artikel: [MICROSTRATEGY ANNOUNCES DECENTRALIZED ID PLATFORM ON BITCOIN CALLED MICROSTRATEGY ORANGE](https://bitcoinmagazine.com/business/microstrategy-announces-decentralized-id-platform-on-bitcoin-called-microstrategy-orange)
+22. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/1784882047338590607)
