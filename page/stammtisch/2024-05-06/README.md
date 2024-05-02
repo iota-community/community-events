@@ -1,6 +1,6 @@
 ## IOTA Stammtischthemen für Montag, den 6.5.2024
 
-1. **IOTA Quicktakes**: Es gab diese Woche keine IOTA Quicktakes
+1. **IOTA Quicktakes**: [IOTA Quicktakes 29.04.2024: Shimmer Liquidity Mining Airdrop Rewards Distribution & Governance Vote](https://youtu.be/D0GOMWOwuF4?si=LrexbtKF_rEBmxUh)
 2. **Crypto Adoption**: In Hongkong sind am Dienstag die Spot ETFs von BTC und ETH an den Start gegangen: [Tweet](https://x.com/blocktrainer/status/1785247933987762546)
 3. **IOTA Youtube**: von Spec Weekly: [CRYPTO RECAP: IOTA on the rise, GameFI funded with $50m, Hong Kong activates Bitcoin + Ethereum ETF](https://www.youtube.com/watch?v=j1lQCkgXI_0)
 4. **IOTA Youtube**: von iotagateway: [The future of IOTA - Dom speaking on Binance Event @Token2049 Dubai | Reaction](https://www.youtube.com/watch?v=ywYJJIpTcuI)
@@ -23,3 +23,4 @@
 21. **Crypto Adoption**: Artikel: [MICROSTRATEGY ANNOUNCES DECENTRALIZED ID PLATFORM ON BITCOIN CALLED MICROSTRATEGY ORANGE](https://bitcoinmagazine.com/business/microstrategy-announces-decentralized-id-platform-on-bitcoin-called-microstrategy-orange)
 22. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/1784882047338590607)
 23. **IOTA 2.0**: Neuer Release: [github.com...iota-core/.../v1.0.0-alpha.22](https://github.com/iotaledger/iota-core/releases/tag/v1.0.0-alpha.22)
+24. **IOTA Audio**: Es gab ein erstes [Twitter Spaces Event von der IF mit IOTAHeroes]()
