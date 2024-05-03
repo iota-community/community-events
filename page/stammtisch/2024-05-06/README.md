@@ -8,7 +8,7 @@
 6. **IOTA 2.0**: v1.0.0-beta zu 99% done... [github.com/iotaledger/iota-core/milestone/2](https://github.com/iotaledger/iota-core/milestone/2)
 7. **Crypto Drama**: Bitvavo zieht sich aus Deutschland zurück: [Tweet](https://x.com/bitcoin2go/status/1785258816558223478)
 8. **IOTA Promotion**: IOTA Artikel: [Shimmer’s UTXO-based DAG ledger: The future of blockchain scalability for DeFi, gaming, and supply chain management](https://chainaffairs.com/shimmers-utxo-based-dag-ledger-the-future-of-blockchain-scalability-for-defi-gaming-and-supply-chain-management/)
-9. **IOTA 2.0**: Neuer v1.0.0-alpha.21 Release: [github.com/iotaledger/iota-core/releases/tag/v1.0.0-alpha.21](https://github.com/iotaledger/iota-core/releases/tag/v1.0.0-alpha.21)
+9. **IOTA 2.0**: Neuer v1.0.0-alpha.21 Release: [alpha.21](https://github.com/iotaledger/iota-core/releases/tag/v1.0.0-alpha.21); [alpha 22](https://github.com/iotaledger/iota-core/releases/tag/v1.0.0-alpha.22); [alpha 23](https://github.com/iotaledger/iota-core/releases/tag/v1.0.0-alpha.23)
 10. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1785293036638876044) über ihren Blogpost: [Showcasing RWA Tokenization in Abu Dhabi](https://blog.iota.org/iota-aim-congress-2024/); Auch [AIM Congress tweetet](https://x.com/AIM_Congress/status/1784968383919739208) über IOTA ("..IOTA is one of the most established Blockchain projects in the world") und das 3 tägige Event ([aimcongress.com](https://aimcongress.com/)) in Abu Dhabi.
 11. **IOTA Adoption**: Interessant ist auch, dass es bei dem Event eineinen Stand von IOTA geben wird, wo sie mehrere Live Demos von [TLIP](https://www.tlip.io/),von [tokeny.com/](https://tokeny.com/) und von [realizeassets.com](https://www.realizeassets.com/) zeigen wollen
 12. **Crypto Adoption**: Coinbase integriert Lightning für Bitcoin Transaktionen: [Tweet](https://x.com/coinbase/status/1785309426691273092)
@@ -22,7 +22,9 @@
 20. **Crypto Dump**: Bitcoin ist am Mittwoch um fast 5% gefallen
 21. **Crypto Adoption**: Artikel: [MICROSTRATEGY ANNOUNCES DECENTRALIZED ID PLATFORM ON BITCOIN CALLED MICROSTRATEGY ORANGE](https://bitcoinmagazine.com/business/microstrategy-announces-decentralized-id-platform-on-bitcoin-called-microstrategy-orange)
 22. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/1784882047338590607)
-23. **IOTA 2.0**: Neuer Release: [github.com...iota-core/.../v1.0.0-alpha.22](https://github.com/iotaledger/iota-core/releases/tag/v1.0.0-alpha.22)
+23. **IOTA DeFi**: Neue [TangleBeast](https://twitter.com/tanglebeasts) Farm auf [Magicsea.Finance](https://magicsea.finance/home): [Tweet](https://x.com/MagicSeaDEX/status/1786274492936782020)
 24. **IOTA Audio**: Es gab ein erstes [Twitter Spaces Event von der IF mit IOTAHeroes](https://x.com/iota/status/1786002107344028091)
 25. **Crypto Drama**: Artikel: [„Bitcoin Jesus“ Roger Ver in Spanien verhaftet](https://bitcoinblog.de/2024/05/02/bitcoin-jesus-roger-ver-in-spanien-verhaftet/)
 26. **Crypto Adoption**: Bitcoin ETFs hatten am Donnerstag ihren größten Abfluss: [Tweet](https://x.com/rovercrc/status/1786020314457030680)
+27. **Crypto Adoption**: US Bürger können über Moonpay jetzt viele Coins über Pypal kaufen: [Tweet](https://x.com/AltcoinDailyio/status/1786150698536878146)
+28. **IOTA Adoption**: [TokenLabs.Tools tweetet](https://x.com/TokenLabsTools/status/1785722361154601313), dass sie eine Plattform zum Erstellen und Managen von Token auf der ShimmerEVM und der IOTAEVM
