@@ -28,3 +28,4 @@
 26. **Crypto Adoption**: Bitcoin ETFs hatten am Donnerstag ihren größten Abfluss: [Tweet](https://x.com/rovercrc/status/1786020314457030680)
 27. **Crypto Adoption**: US Bürger können über Moonpay jetzt viele Coins über Pypal kaufen: [Tweet](https://x.com/AltcoinDailyio/status/1786150698536878146)
 28. **IOTA Adoption**: [TokenLabs.Tools tweetet](https://x.com/TokenLabsTools/status/1785722361154601313), dass sie eine Plattform zum Erstellen und Managen von Token auf der ShimmerEVM und der IOTAEVM
+29. **IOTA DeFi**: [DEXYNTH tweetet](https://x.com/DEXYNTH/status/1786298396669829453), dass sie "crypto trading as well as forex, commodities, stocks, and indexes - assets typically unavailable on other crypto platforms" unterstützen. Die bauen auch auf der IOTAEVM
