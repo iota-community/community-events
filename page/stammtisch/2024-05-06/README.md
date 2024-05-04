@@ -14,7 +14,7 @@
 12. **Crypto Adoption**: Coinbase integriert Lightning für Bitcoin Transaktionen: [Tweet](https://x.com/coinbase/status/1785309426691273092)
 13. **Ki News**: OpenAI stellt Voice Engine vor: [Thread](https://x.com/hey_madni/status/1784982570482155808)
 14. **Crypto Drama**: Artikel: [Kongress wissentlich getäuscht? - SEC-Chef Gary Gensler unter Beschuss](https://www.btc-echo.de/schlagzeilen/sec-chef-gary-gensler-unter-beschuss-183522/)
-15. **IOTA Ökosystem**: [ID8R tweetet](https://x.com/ID8R_com/status/1785646618899005525) darüber, dass sie Shimmer integrieren auf [app.id8r.com/shimmer](https://app.id8r.com/shimmer)
+15. **IOTA Ökosystem**: [ID8R tweetet](https://x.com/ID8R_com/status/1785646618899005525) darüber, dass sie Shimmer integrieren auf [app.id8r.com/shimmer](https://app.id8r.com/shimmer); Hier noch ein [Tweet mit Video](https://x.com/ID8R_com/status/1786372871687995619)
 16. **IOTA Ökosystem**: [TangleLabs retweetet](https://x.com/Tangle_Labs/status/1785670555892424785) den [Tweet von AuvoID](https://x.com/AuvoDigital/status/1785669437279936897), wo es um European Digital Identity space geht und darüber, dass [auvo.io](https://www.auvo.io/) "complex organization identity management and digital credential technology in the hands of every business" bringt. Get early Access: [auvo.io](https://www.auvo.io/)
 17. **IOTA EVM**: [AlphaRo tweetet](), dass [app.chainport.io](https://app.chainport.io/) offenbar IOTA integriert
 18. **IOTA Promote**: Artikel: [Bloom: The Next-Gen Web3 Wallet Experience - Meet CEO and Co-Founder Charlie Varley](https://blockster.com/bloom-the-next-gen-web3-wallet-experience-meet-ceo-and-co-founder-charlie-varley)
@@ -29,5 +29,8 @@
 27. **Crypto Adoption**: US Bürger können über Moonpay jetzt viele Coins über Pypal kaufen: [Tweet](https://x.com/AltcoinDailyio/status/1786150698536878146)
 28. **IOTA Adoption**: [TokenLabs.Tools tweetet](https://x.com/TokenLabsTools/status/1785722361154601313), dass sie eine Plattform zum Erstellen und Managen von Token auf der ShimmerEVM und der IOTAEVM
 29. **IOTA DeFi**: [DEXYNTH tweetet](https://x.com/DEXYNTH/status/1786298396669829453), dass sie "crypto trading as well as forex, commodities, stocks, and indexes - assets typically unavailable on other crypto platforms" unterstützen. Die bauen auch auf der IOTAEVM
-30. **IOTA Gaming**: [Saltmines tweetet](https://x.com/SaltminesCo/status/1786310924267356299), dass sie mit [ArcanaNetwork](https://twitter.com/ArcanaNetwork) zusammen arbeiten um das Spiel um es so Web2-freundlich wie möglich zu machen
+30. **IOTA Gaming**: [Saltmines tweetet](https://x.com/SaltminesCo/status/1786310924267356299), dass sie mit [ArcanaNetwork](https://twitter.com/ArcanaNetwork) zusammen arbeiten um das Spiel um es so Web2-freundlich wie möglich zu machen; Hier der [Tweet von ArcanaNetwork](https://x.com/ArcanaNetwork/status/1786440583612969068) dazu. Die haben immerhin 130K Follower
 31. **Crypto Drama**: [Edward Snowden retweetet](https://x.com/Snowden/status/1786170805728039127) den [Tweet vom Wasabi Wallet](https://x.com/wasabiwallet/status/1786083838415769673) über den Blogpost: [ZKSNACKS IS DISCONTINUING ITS COINJOIN COORDINATION SERVICE 1ST OF JUNE](https://blog.wasabiwallet.io/zksnacks-is-discontinuing-its-coinjoin-coordination-service-1st-of-june/)
+32. **IOTA EVM**: [Bloom tweetet](https://x.com/bloomwalletio/status/1786439801467744486), dass sie bereit sind für die IOTA EVM
+33. **Crypto Drama**: Es gab wieder eine [Bitcoin vs. Gold Debate! Scaramucci & Voorhees vs. Roubini & Schiff](https://www.youtube.com/watch?v=kZFmgfCakXc)
+34. 
