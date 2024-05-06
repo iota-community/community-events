@@ -49,3 +49,5 @@
 46. **Crypto Adoption**: Artikel: [Krypto-Börse Kraken kommt nach Deutschland - Die Krypto-Börse Kraken expandiert nach Deutschland. Mitte Juli soll das Geschäft auf](https://www.btc-echo.de/schlagzeilen/krypto-boerse-kraken-kommt-nach-deutschland-183717/)
 47. **IOTA Event?**: [EBSI tweetet](https://x.com/EU_EBSI/status/1787474437672955982) über ein Event morgen mit "D-1 for 'EBSI Ecosystem Day - W3bsi, trust reimagined' at SPARKS, Brussels!"
 48. **Crypto Drama**: Artikel: [SEC To File Lawsuit Against Robinhood’s Crypto Business](https://watcher.guru/news/sec-to-file-lawsuit-against-robinhoods-crypto-business#google_vignette)
+49. **IOTA Adoption**: [TLIP tweetet](https://x.com/TLIP_io/status/1787502748612669716) über ihren Blogpost: [Transforming Trade Finance: How TLIP and MLETR Are Revolutionising the Industry](https://medium.com/@tlip.io/transforming-trade-finance-how-tlip-and-mletr-are-revolutionising-the-industry-0ec6f7dc3fb2)
+50. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1787506381156762082) von dem Event (AIMCongress2024) in UAE udn zeigen ihren beeindruckenden Stand
