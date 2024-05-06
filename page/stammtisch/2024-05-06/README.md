@@ -9,7 +9,8 @@
 7. **Crypto Drama**: Bitvavo zieht sich aus Deutschland zurück: [Tweet](https://x.com/bitcoin2go/status/1785258816558223478)
 8. **IOTA Promotion**: IOTA Artikel: [Shimmer’s UTXO-based DAG ledger: The future of blockchain scalability for DeFi, gaming, and supply chain management](https://chainaffairs.com/shimmers-utxo-based-dag-ledger-the-future-of-blockchain-scalability-for-defi-gaming-and-supply-chain-management/)
 9. **IOTA 2.0**: Neue v1.0.0-alphas: [alpha.21](https://github.com/iotaledger/iota-core/releases/tag/v1.0.0-alpha.21); [alpha 22](https://github.com/iotaledger/iota-core/releases/tag/v1.0.0-alpha.22); [alpha 23](https://github.com/iotaledger/iota-core/releases/tag/v1.0.0-alpha.23)
-10. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1785293036638876044) über ihren Blogpost: [Showcasing RWA Tokenization in Abu Dhabi](https://blog.iota.org/iota-aim-congress-2024/); Auch [AIM Congress tweetet](https://x.com/AIM_Congress/status/1784968383919739208) über IOTA ("..IOTA is one of the most established Blockchain projects in the world") und über das 3 tägige Event ([aimcongress.com](https://aimcongress.com/)) in Abu Dhabi.
+10. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1785293036638876044) über ihren Blogpost: [Showcasing RWA Tokenization in Abu Dhabi](https://blog.iota.org/iota-aim-congress-2024/); Auch [AIM Congress tweetet](https://x.com/AIM_Congress/status/1784968383919739208) über IOTA ("..IOTA is one of the most established Blockchain projects in the world") und über das 3 tägige Event ([aimcongress.com](https://aimcongress.com/)) in Abu Dhabi und [Tonkeny tweetet](https://x.com/TokenySolutions/status/1785942300650016934) auch davon mit "...We've teamed up with 
+@iota for this event! Stop by their booth to catch Daniel and experience a demo firsthand. ..."
 11. **IOTA Adoption**: Interessant ist auch, dass es bei dem Event eineinen Stand von IOTA geben wird, wo sie mehrere Live Demos von [TLIP](https://www.tlip.io/),von [tokeny.com/](https://tokeny.com/) und von [realizeassets.com](https://www.realizeassets.com/) zeigen wollen
 12. **Crypto Adoption**: Coinbase integriert Lightning für Bitcoin Transaktionen: [Tweet](https://x.com/coinbase/status/1785309426691273092)
 13. **Ki News**: OpenAI stellt Voice Engine vor: [Thread](https://x.com/hey_madni/status/1784982570482155808)
@@ -33,4 +34,14 @@
 31. **Crypto Drama**: [Edward Snowden retweetet](https://x.com/Snowden/status/1786170805728039127) den [Tweet vom Wasabi Wallet](https://x.com/wasabiwallet/status/1786083838415769673) über den Blogpost: [ZKSNACKS IS DISCONTINUING ITS COINJOIN COORDINATION SERVICE 1ST OF JUNE](https://blog.wasabiwallet.io/zksnacks-is-discontinuing-its-coinjoin-coordination-service-1st-of-june/)
 32. **IOTA EVM**: [Bloom tweetet](https://x.com/bloomwalletio/status/1786439801467744486), dass sie bereit sind für die IOTA EVM
 33. **Crypto Drama**: Es gab wieder eine [Bitcoin vs. Gold Debate! Scaramucci & Voorhees vs. Roubini & Schiff](https://www.youtube.com/watch?v=kZFmgfCakXc)
-34. 
+34. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in Hamburg: [Tweet mit Bildern](https://x.com/TanglenautX/status/1786807742448964012)
+35. **Crypto Adoption**: Jack Dorsey spendet mal eben $21 Mio für Bitcoin Entwicklung: [Tweet](https://x.com/BTC_Archive/status/1786749579263615113)
+36. **Crypto Adoption**: Tesla kann man jetzt offenbar mit Doge kaufen: [Tweet](https://x.com/martypartymusic/status/1786715871790137712)
+37. **IOTA Ökosystem**: [SoonLabs Thread](https://x.com/soon_labs/status/1786464178565460048) darüber, dass sie einen Snapshot gemacht haben (Warum eigentlich?!?)
+38. **IOTA 2.0**: Es gab wieder einen super [Thread von id_iota](https://x.com/id_iota/status/1787140864742994180) über den aktuellen Stand der Entwicklung bei iota2.0
+39. **Crypto Drama**: Jemand hat $71 mio an wBTC an eine Phishing Adresse gesendet: [Tweet](https://x.com/LayahHeilpern/status/1786570564355715126)
+40. **IOTA Ökosystem**: Neuer ITEM Sell wird angekündigt im [Tweet von Dark Mythos](https://x.com/DarkMythosIOTA/status/1786878468963144122)
+41. **IOTA Wochenrückblick**: [IOTA Talk tweetet](https://x.com/Iota_Talk_/status/1787015756602818979) über den [IOTA Wochenrückblick](https://www.iota-talk.com/index.php?article/392-wochenr%C3%BCckblick-vom-28-april-bis-4-mai-2024/)
+42. **IOTA Event**: [Crypto Gin tweetet](https://x.com/Crypto_Gin21/status/1787100404032913656). dass sie am 15--16. Mai zusammen mit AKKODIS auf einem Blockchain Event "[Conf3rence](https://twitter.com/conf3rence)" in Dortnumd sind; [Sebastian Weber tweetet](https://x.com/Sebasti65365174/status/1787440113074446477) dass er auch dort sein wird
+43. **IOTA Adoption**: [MosquitoPay versucht](https://x.com/MosquitoPay/status/1787159374852444371) Lieferando zu überreden mit ihrer Hilfe IOTA Zahlungen anzubieten
+44. **IOTA Adoption**: [SoonLabs tweetet](https://x.com/soon_labs/status/1787347586405544376), dass sie auf [Warpcast](https://t.co/BRaw4CNvEE) die am schnellsten wachsende Community (/justbuild) sind
