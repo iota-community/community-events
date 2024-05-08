@@ -18,6 +18,6 @@
 16. **IOTA Promote**: Die [IF macht ein Thread](https://x.com/iota/status/1788192130424345018) über ihr Auftreten beim [AIM_Congress](https://twitter.com/AIM_Congress) und erklären warum RWAs und digital Identities so wichtig sind und was IOTA bereit hält
 17. **IOTA EVM Ökosystem**: [serverox tweetet](https://x.com/servrox/status/1788144741055410615), dass die IOTA EVM sicherer wird weil alle offenen PRs, die IotaEVM in die offiziellen [@safe](https://twitter.com/safe) Repositories integrieren, genehmigt, integriert und veröffentlicht wurden. D.h. die IotaEVM wird mit verfügbarem Gnosis MultiSig gestartet und Projekte können
 18. **Crypto Drama**: Artikel: [FTX-Kunden sollen all ihr Geld plus Zinsen zurück erhalten](https://www.blocktrainer.de/blog/ftx-kunden-sollen-all-ihr-geld-plus-zinsen-zurueck-erhalten) 
-19. 
+19. **Crypto Drama**: Gary Gensler wurde beleidigt ("been characterised by "regulatory hypocrisy, inconsistency, and incompetence."): [Tweet](https://x.com/RadarHits/status/1788159822799523847); Er wurde auch mal wieder im Fernsehen gefragt ob ETH ein Security ist und hat mal wieder nicht geantwortet: [Tweet](https://x.com/CollinBrownXRP/status/1787876128884924792)
 
 
