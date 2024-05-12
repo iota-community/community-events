@@ -30,5 +30,14 @@
 28. **Crypto Adoption**: "Mastercard, JPMorgan, Visa, Citibank & other big US banks are testing shared-ledger technology for tokenised asset settlements": [Tweet](https://x.com/RadarHits/status/1788610078829928534)
 29. **IOTA Drama**: [Furkan tweetet](https://x.com/FurkanCCTV/status/1788276431228703118) über IOTA. Irgendwie hat er ein "IOTA supporter Fan" Armband bekommen bei einer Sitcom-Aufnahme
 30. **IOTA Event**: [TangleLabs tweetet](https://x.com/Tangle_Labs/status/1788641436172488854) darüber, dass sie in Talin bei einem Tech Event ([Latitude59](https://twitter.com/Latitude59)) sind
-
+31. **IOTA EVM**: [id.iota tweetet](https://x.com/id_iota/status/1789619671227850783) über die IOTA EVM und die Vorteile die damit kommen
+32. **IOTA Drama**: Nachdem [Soonaverse tweetet](https://x.com/soon_labs/status/1789464552566063483), dass sie keine Angaben von iotabee bekommen bezüglich der Soon Token auf ihrer Plattform für ihren Snapshot, [tweetet Garret](https://x.com/GarrettBullish/status/1789505817361961072) darüber, dass alles Open Source ist und sie keine Developer abstellen nur um dem Soonaverse ihren Job zu machen
+33. **Crypto Adoption**: [Elon Musk tweetet](https://x.com/elonmusk/status/1789394404446282213) darüber, dass Fiat Money quasi Monopoly Money ist
+34. **IOTA Adoption**: [AKKODIS tweetet](https://x.com/akkodis_global/status/1789036022015107196) ein kurzes Audio File von Adri Wischman und verlinkt ihren Blogpost: [Crypto-Gin Highlights the Potential of Blockchain Technology](https://www.akkodis.com/en/blog/articles/crypto-gin-blockchain-distributed-ledger-technology) in dem IOTA sehr positiv dargestellt wird
+35. **Crypto Adoption**: JP Morgan besitzt natürich doch Bitcoin ETFs, auch wenn (bzw. gerade weil) der CEO Bitcoin ständig nieder gemacht hat: [Tweet](https://x.com/RyanSAdams/status/1789024343038586956)
+36. **Crypto Adoption**: Bitpanda ist jetzt auch in Dubai/UAE: [Tweet](https://x.com/dmcccrypto/status/1787785616857481419)
+37. **IOTA EVM**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1788949747891319257), dass sie ein Spam Test gemacht haben und sehr zufrieden sind mit der IOTA EVM
+38. **IOTA Promote**: [Bloom tweetet](https://x.com/bloomwalletio/status/1788932134079709290), dass sie von sifted.eu in dem [Artikel - ...  78 early-stage startups to add to your radar.](https://sifted.eu/pro/briefings/crypto-and-defi-2024) erwähnt wurden
+39. **IOTA Nodes**: [TangelBay tweetet](https://x.com/tanglebay/status/1789371076272689338) über ihr neues Feature bei dem Node Operatoren automatischen Emails über ihren Node-Status bekommen
+40. **IOTA Wochenrückblick**: [IOTA-Talk tweetet]https://x.com/Iota_Talk_/status/1789575883834966409) über den [IOTA-Talk Wocherückblick](https://www.iota-talk.com/index.php?article/394-wochenr%C3%BCckblick-vom-5-bis-11-mai-2024/)
 
