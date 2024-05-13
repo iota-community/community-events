@@ -49,4 +49,6 @@
 47. **Crypto Adoption**: Artikel: [El Salvador veröffentlicht Tracking für staatliche Bitcoin-Bestände BTC-Käufe transparent dokumentiert!](https://www.blocktrainer.de/blog/el-salvador-veroeffentlicht-tracking-fuer-staatliche-bitcoin-bestaende); Hier die [Webseite](https://bitcoin.gob.sv/de/)
 48. **Robotics News**: Neuer humanoider Roboter Unitree G1: [Tweet mit Video](https://x.com/TheHumanoidHub/status/1789940031907680422)
 49. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1789997180108845316), dass am Donnerstag [2. Buildsphere AMA von der IF mit Dark Mythos](https://x.com/DarkMythosIOTA/status/1789992422614651227) stattfindet
+50. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1789997184496082968) von dem Buildaverse und wie man sich dafür bewirbt. Einfach das [Formular](https://docs.google.com/forms/d/e/1FAIpQLSfPX3u9gwSBP17_omGqk4uhrFAryRBc8n_3agiMM7HV1Pqo9A/viewform?usp=send_form) ausfüllen!
+51. **IOTA Firefly**: Neuer Pre Release: [Firefly Canary Desktop 3.0.0 Beta 1](https://github.com/iotaledger/firefly/releases/tag/desktop-canary-3.0.0-beta-1)
 
