@@ -40,4 +40,8 @@
 38. **IOTA Promote**: [Bloom tweetet](https://x.com/bloomwalletio/status/1788932134079709290), dass sie von sifted.eu in dem [Artikel - ...  78 early-stage startups to add to your radar.](https://sifted.eu/pro/briefings/crypto-and-defi-2024) erwähnt wurden
 39. **IOTA Nodes**: [TangelBay tweetet](https://x.com/tanglebay/status/1789371076272689338) über ihr neues Feature bei dem Node Operatoren automatischen Emails über ihren Node-Status bekommen
 40. **IOTA Wochenrückblick**: [IOTA-Talk tweetet]https://x.com/Iota_Talk_/status/1789575883834966409) über den [IOTA-Talk Wocherückblick](https://www.iota-talk.com/index.php?article/394-wochenr%C3%BCckblick-vom-5-bis-11-mai-2024/)
+41. **Ki News**: Heute am Montag um 19 Uhr will OpenAi einen neue Bombe zünden (bzw. "...some new stuff we think people will love! feels like magic to me."): [Tweet von Sam Altman](https://x.com/sama/status/1788989777452408943)
+42. **IOTA Youtube Tutorial**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1789883268151525754) über ihr neues Tutorial: [How to Bridge..](https://www.youtube.com/watch?v=fmKRY7vPdKE)
+43. **IOTA 2.0**: BETA RELEASE!!! [github.../iota-core/releases/tag/v1.0.0-beta.1](https://github.com/iotaledger/iota-core/releases/tag/v1.0.0-beta.1)
+44. **IOTA Promote**: Dom wurde als Visionär ausgezeichnet im mittleren Osten von [CryptoOasisUAE](https://twitter.com/CryptoOasisUAE): [Tweet von der IF](https://x.com/iota/status/1789919544309322150)
 
