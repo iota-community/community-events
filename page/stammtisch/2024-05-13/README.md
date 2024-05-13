@@ -44,4 +44,5 @@
 42. **IOTA Youtube Tutorial**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1789883268151525754) über ihr neues Tutorial: [How to Bridge..](https://www.youtube.com/watch?v=fmKRY7vPdKE)
 43. **IOTA 2.0**: BETA RELEASE!!! [github.../iota-core/releases/tag/v1.0.0-beta.1](https://github.com/iotaledger/iota-core/releases/tag/v1.0.0-beta.1)
 44. **IOTA Promote**: Dom wurde als Visionär ausgezeichnet im mittleren Osten von [CryptoOasisUAE](https://twitter.com/CryptoOasisUAE): [Tweet von der IF](https://x.com/iota/status/1789919544309322150)
+45. **IOTA Artikel**: von Chain Affairs: [IOTA Unveils Privacy-Preserving KYC System to Address Incoming EU Crypto Regulations](https://chainaffairs.com/iota-unveils-privacy-preserving-kyc-system-to-address-incoming-eu-crypto-regulations/)
 
