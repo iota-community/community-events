@@ -31,4 +31,4 @@
 29. **Crypto Drama**: Nachdem der US Senat sich für das Crypto Gesetz ausgesprochen hat ([Tweet](https://x.com/saylor/status/1791150877891252260) wird es jetzt interessant ob Biden wirklich sein Veto einsetzen will und damit 55mio Crypto Holder so kurz vor der Wahl verärgern wird: [Tweet](https://x.com/markjeffrey/status/1791166376423682179)
 30. **IOTA 2.0**: Die BPS Zahlen sind noch nicht optimiert, u.a. weil die IF den "congestion control mechanismus" testen will: [Tweet von Muxxer](https://x.com/OTTI28518618/status/1791345825538244925)
 31. **IOTA EVM**: Blast (Decentralized Web3 Infrastructure for Everyone) hat IOTA integriert: [blastapi.io/chains/iota](https://blastapi.io/chains/iota)
-32. 
+32. **IOTA VIP News**: [Kowei tweetet](https://x.com/kowei1995/status/1791104437844652079) ein Award von [Blocktempo](https://twitter.com/BlockTempo) in dem er als "Taiwan Blockchain Top30 Influencer" ausgezeichnet wird 
