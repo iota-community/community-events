@@ -29,4 +29,6 @@
 27. **Crypto Adoption**: Die [IF tweetet](https://x.com/iota/status/1791015737105973438) von dem [chaise-blockchain skills for europe - Newsletter #7.pdf](https://chaise-blockchainskills.eu/wp-content/uploads/2024/05/CHAISE-newsletter-7.pdf) (#IOTA is a project partner of CHAISE, a groundbreaking initiative dedicated to shaping the future of blockchain skills development in Europe)
 28. **IOTA Audio**: [IF Twitter Spaces with Dark Mythos](https://x.com/iota/status/1791166269095354743)
 29. **Crypto Drama**: Nachdem der US Senat sich für das Crypto Gesetz ausgesprochen hat ([Tweet](https://x.com/saylor/status/1791150877891252260) wird es jetzt interessant ob Biden wirklich sein Veto einsetzen will und damit 55mio Crypto Holder so kurz vor der Wahl verärgern wird: [Tweet](https://x.com/markjeffrey/status/1791166376423682179)
-30. 
+30. **IOTA 2.0**: Die BPS Zahlen sind noch nicht optimiert, u.a. weil die IF den "congestion control mechanismus" testen will: [Tweet von Muxxer](https://x.com/OTTI28518618/status/1791345825538244925)
+31. **IOTA EVM**: Blast (Decentralized Web3 Infrastructure for Everyone) hat IOTA integriert: [blastapi.io/chains/iota](https://blastapi.io/chains/iota)
+32. 
