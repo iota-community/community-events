@@ -41,4 +41,5 @@
 39. **IOTA 2.0**: In Github zum Thema "[Complete a full paper about the formal model of the IOTA 2.0 consensus #691](https://github.com/iotaledger/iota-core/issues/691) steht: "The effort is finally finished"...
 40. **Allg. News**: Putin war diese Woche in China und die beiden haben sich am Ende sogar umarmt: [Tweet](https://x.com/amuse/status/1791391415856984488)
 41. **Allg. News**: Der Hubschrauber mit dem Iranischen Präsidenten und weiteren Offiziellen ist abgestürzt und alle Insassen sind gestorben: [Tweet](https://x.com/ShaykhSulaiman/status/1792397787180535810)
+42. **IOTA Event**: [Luigi Vigneri tweetet](https://x.com/luigi_vigneri/status/1792464786367623657) darüber, dass der [Beyond the Chain 2024 - Workshop (2nd International Workshop on DAG-based Distributed Ledger Technologies (DAG-DLT))](https://www.iota.org/foundation/beyond-chain) von der IF nur noch 2 Wochen entfernt ist
 
