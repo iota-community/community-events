@@ -1,6 +1,6 @@
 ## Stammtischthemen für Montag, den 20.5.2024
 
-1. **IOTA Quicktakes**: Die [IF tweetet]() über die [IOTA Quicktakes vom 13.05.2024: AIM Congress, Dubai Fintech Summit & IOTA Grants](https://www.youtube.com/watch?v=Wnqv7Oa73HE)
+1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1789943712161645040) über die [IOTA Quicktakes vom 13.05.2024: AIM Congress, Dubai Fintech Summit & IOTA Grants](https://www.youtube.com/watch?v=Wnqv7Oa73HE)
 2. **IOTA Ökosystem**: [Cyberglow tweetet](https://x.com/Cyberglow_cgt/status/1790117267931369492), dass sie die Bloomwallet integriert haben in ihrer DEX
 3. **IOTA 2.0**: Das IOTA 2.0 Testnetz läuft: [explorer.iota.works/iota2-testnet](https://explorer.iota.works/iota2-testnet)
 4. **KI News**: Kurz nachdem OpenAi ihr [ChatGPT-V4o Announcement](https://www.youtube.com/live/DQacCB9tDaw?si=0d3M7N7g6xnDokOO) veröffentlicht hat, [tweetet Google Deepmind](https://x.com/GoogleDeepMind/status/1790137148160823698) über ihr [Event auf X](https://twitter.com/i/events/1785358066470240256) das am folgenden Tag stattgefunden hat; Hier die Kurzfassung von all dem was veröffentlicht wurde: [Tweet](https://x.com/Google/status/1790555395041472948)
@@ -40,5 +40,5 @@
 38. **X-Gezwitscher**: [Christoph Strnadl retweetet](https://x.com/archimate/status/1792120692365804018) einen [Thread von Justin Bonth](https://x.com/Justin_Bons/status/1791519793230626928) in dem er in 96 einzelnen Tweets auf die Probleme beim L2 Scaling von ETH eingeht. Strnadl schreibt dazu in einem weiteren [Tweet](https://x.com/archimate/status/1792121484896301557): "Aus diesem Grund hat #IOTA unter anderem (eine Form von) L1-Sharing vorgeschlagen, um den höchsten Grad an Skalierbarkeit in @EU_EBSI #PCP zu erreichen. (Hoffentlich ermöglicht uns @EU_Commission, diese Ergebnisse zu verteilen.)"
 39. **IOTA 2.0**: In Github zum Thema "Complete a full paper about the formal model of the IOTA 2.0 consensus #691](https://github.com/iotaledger/iota-core/issues/691) steht: "The effort is finally finished"...
 40. **Allg. News**: Putin war diese Woche in China und die beiden haben sich am Ende sogar umarmt: [Tweet](https://x.com/amuse/status/1791391415856984488)
-41. **Allg. News**: Der Hubschrauber mit dem Iranischen Präsident und weiteren Offiziellen ist abgestürzt und die Insassen gestprben: [Tweet](https://x.com/ShaykhSulaiman/status/1792397787180535810)
+41. **Allg. News**: Der Hubschrauber mit dem Iranischen Präsident und weiteren Offiziellen ist abgestürzt und die Insassen sind gestorben: [Tweet](https://x.com/ShaykhSulaiman/status/1792397787180535810)
 
