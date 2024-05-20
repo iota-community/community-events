@@ -39,5 +39,6 @@
 37. **IOTA Event**: [Regine tweetet](https://x.com/C2030_/status/1792031186732417521) über ein Event ([Crypto 2030](https://x.com/C2030_)) auf dem sie am 22.5. sein wird
 38. **X-Gezwitscher**: [Christoph Strnadl retweetet](https://x.com/archimate/status/1792120692365804018) einen [Thread von Justin Bonth](https://x.com/Justin_Bons/status/1791519793230626928) in dem er in 96 einzelnen Tweets auf die Probleme beim L2 Scaling von ETH eingeht. Strnadl schreibt dazu in einem weiteren [Tweet](https://x.com/archimate/status/1792121484896301557): "Aus diesem Grund hat #IOTA unter anderem (eine Form von) L1-Sharing vorgeschlagen, um den höchsten Grad an Skalierbarkeit in @EU_EBSI #PCP zu erreichen. (Hoffentlich ermöglicht uns @EU_Commission, diese Ergebnisse zu verteilen.)"
 39. **IOTA 2.0**: In Github zum Thema "Complete a full paper about the formal model of the IOTA 2.0 consensus #691](https://github.com/iotaledger/iota-core/issues/691) steht: "The effort is finally finished"...
-40. ***Allg. News**: Der Hubschrauber mit dem Iranischen Präsident und weiteren Offiziellen ist abgestürzt und die Insassen gestprben: [Tweet](https://x.com/ShaykhSulaiman/status/1792397787180535810)
+40. **Allg. News**: Putin war diese Woche in China und die beiden haben sich am Ende sogar umarmt: [Tweet](https://x.com/amuse/status/1791391415856984488)
+41. **Allg. News**: Der Hubschrauber mit dem Iranischen Präsident und weiteren Offiziellen ist abgestürzt und die Insassen gestprben: [Tweet](https://x.com/ShaykhSulaiman/status/1792397787180535810)
 
