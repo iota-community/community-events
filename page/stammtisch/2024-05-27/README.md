@@ -11,4 +11,13 @@
 9. **Crypto Pump**: Einn Approval für ein Spot ETH ETF ist wohl wahrscheinlicher geworden. Das beflügelt Ethereum am Dienstag mit ETH +15-20% in 24h
 10. **IOTA Event**: [serveros solutions tweeten](https://x.com/servrox/status/1792841275068301726) erste Eindrücke von der Berlin Blockchain Week
 11. **IOTA EVM**: [Audit One tweetet](https://x.com/auditone_dao/status/1792841885809258503) "EVM very soon" und verteilt Airdrops an Lumi NFT Holder
-12. 
+12. **IOTA EVM**: [Alpha Rho tweetet](https://x.com/0xAlphaRho/status/1792967333029261377), dass er eine Layer Zero Transaktion gefunden hat
+13. **IOTA EVM**: Susanne hat sich zum Stand der IOTA EVM geäußert ([Tweet](https://x.com/OTTI28518618/status/1792963970359574843)) und auch [Mart von der IF schreibt](https://x.com/Vrom14286662/status/1792885866110615568) etwas über das Thema
+14. **IOTA Adoption**: [TLIP tweetet](https://x.com/TLIP_io/status/1792875867032481988) über ein Workshop Kenja in dem es auch über IOTA ging; Auch die [IF retweetet](https://x.com/iota/status/1792888185766260750) das
+15. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1792903176716169368) über den [Beyond the Chain 2024 Workshop - 2nd International Workshop on DAG-based Distributed Ledger Technologies (DAG-DLT)](https://www.iota.org/foundation/beyond-chain) der bald startet
+16. **Crypto Adoption**: Fidelity ändert die Einreichung S-1 für den #Ethereum Spot-ETF und gibt an, dass Ether des Trusts „nicht gestaked werden": [Tweet](https://x.com/TheRobynHD/status/1792865862883410202)
+17. **Crypto Adoption**: Trump akzeptiert Crypto Spenden: [Tweet](https://x.com/WatcherGuru/status/1793007848353345591)
+18. **IOTA Drama**: Auf der Webseite von IOTA sind 2 neue Leute im Board of Directors eingetragen: [iota.org/foundation/team](https://www.iota.org/foundation/team); Auf Twitter erntet das aber mehr Spot als : [Tweet von DLTtimes](https://x.com/TheDLTimes/status/1792935439378030668), [Tweet von Guido Lange](https://x.com/GuidoLange/status/1792970390819708960)
+19. **IOTA Adoption**: [Christoph Strnadl tweetet](https://x.com/archimate/status/1792953157988835397) darüber, dass die EU ein Report "[Digital Product Passport, a Blockchain-based Perspective](https://blockchain-observatory.ec.europa.eu/publications/digital-product-passport-blockchain-based-perspective_en) veröffentlicht haben in dem auch IOTA mehrfach vor kommt obwohl sie offenbar nichtmal die ganzen Verbesserungen von der EBSI Phase 2B beschrieben haben: [Tweet](https://x.com/archimate/status/1792953813730570571)
+20. **IOTA Tutorial**: [Magic Sea tweetet](https://x.com/MagicSeaDEX/status/1792982439716950320) über ihr neues Tutorial: [HOW TO FARM ON A DEX | MAGICSEA Tutorial](https://www.youtube.com/watch?v=fbtvvpkPV9k)
+21. 
