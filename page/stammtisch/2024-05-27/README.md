@@ -36,4 +36,8 @@
 34. **IOTA Ökosystem**: [Bloom tweetet](https://x.com/bloomwalletio/status/1793695920477081996) über ein Update. Man kann NFTs Kollektionen jetzt grupieren
 35. **Allg. News**: Taiwan wird von Chinesischen Schiffen und Flugzeugen umzingelt. Angeblich nur als Übung...
 36. **Crypto Adoption**: Überraschend werden die Spot ETH ETFs frfei gegeben: [Tweet](https://x.com/MarioNawfal/status/1793773891564736590); Die damaligen Aussagen von Saylor sind damit widerlegt: [Tweet](https://x.com/AutismCapital/status/1793758411311788379)
-37. **IOTA Ökosystem**: [Moonpad tweetet](https://x.com/MoonpadXYZ/status/1793894139035009104) über eine Tokenfactory die sie später anbieten werden auf [moonpad.xyz](https://moonpad.xyz/) 
+37. **IOTA Ökosystem**: [Moonpad tweetet](https://x.com/MoonpadXYZ/status/1793894139035009104) über eine Tokenfactory die sie später anbieten werden auf [moonpad.xyz](https://moonpad.xyz/)
+38. **Crypto Adoption**: [Christiano Ronaldo (11Mio Follower) tweetet](https://x.com/Cristiano/status/1794014395460202897) über seine neue Binance NFT Kollektion
+39. **IOTA Adoption**: [EBSI tweetet](https://x.com/EU_EBSI/status/1793981073631699121) über das "European Digital Infrastucture Consortium", das von den Mitglierderstaaten geführt wird und daran arbeiten wird EBSI "productions ready" zu machen
+40. **IOTA Stammtisch**: Am Freitag war der IOTA Stammtisch in Frankfurt: [Tweet](https://x.com/iotashop/status/1793948739490500819)
+41. **Shimmer EVM Tutorial**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1794074181937627465) über ihr neues Tutorial Video: [HOW TO USE ANY DAPP ON YOUR SMARTPHONE | MAGICSEA DEX TUTORIAL](https://www.youtube.com/watch?v=pH1hedPaYPw)
