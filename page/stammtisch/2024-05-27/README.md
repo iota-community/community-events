@@ -34,4 +34,6 @@
 32. **IOTA Adoption**: [filancore tweetet](https://x.com/FilancoreGmbH/status/1793568997058695243) über ihre Webseite die ein Update erhalten hat: [filancore.com](https://filancore.com/)
 33. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1793627949331030303) nochmal über die Binance Trading Challenge: [Spot Trading Tournament: Trade to Share 300,000 USDC in Token Vouchers!](https://www.binance.com/en/support/announcement/spot-trading-tournament-trade-to-share-300-000-usdc-in-token-vouchers-7a1e4ef8f47e4ef6a45aeb3cf8c01553?hl=en)
 34. **IOTA Ökosystem**: [Bloom tweetet](https://x.com/bloomwalletio/status/1793695920477081996) über ein Update. Man kann NFTs Kollektionen jetzt grupieren
-35. **Allg. News**: Taiwan wird von Chinesen Schiffen und Flugzeugen umzingelt...
+35. **Allg. News**: Taiwan wird von Chinesischen Schiffen und Flugzeugen umzingelt. Angeblich nur als Übung...
+36. **Crypto Adoption**: Überraschend werden die Spot ETH ETFs frfei gegeben: [Tweet](https://x.com/MarioNawfal/status/1793773891564736590); Die damaligen Aussagen von Saylor sind damit widerlegt: [Tweet](https://x.com/AutismCapital/status/1793758411311788379)
+37. **IOTA Ökosystem**: [Moonpad tweetet](https://x.com/MoonpadXYZ/status/1793894139035009104) über eine Tokenfactory die sie später anbieten werden auf [moonpad.xyz](https://moonpad.xyz/) 
