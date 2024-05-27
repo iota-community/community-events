@@ -45,3 +45,4 @@
 43. **IOTA EVM**: [Alpha Rho tweetet](https://x.com/0xAlphaRho/status/1794344655532003455), dass IOTA jetzt im Layer Zero Explorer zu finde ist
 44. **Crypto Adoption**: Trump macht Pro Bitcoin/Crypto Wahlkampf: [Tweet](https://x.com/unusual_whales/status/1794557888016339031); Er will sogar Ross Ulbricht begnadigen: [Tweet](https://x.com/BitcoinMagazine/status/1794535395176366260)
 45. **IOTA Wochenrückblick**: [IOTA Talk tweetet](https://x.com/Iota_Talk_/status/1794643021004406926) über den [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/398-wochenr%C3%BCckblick-vom-19-bis-25-mai-2024/)
+46. **IOTA EVM**: Es gibt Gerüchte, dass die IOTA EVM bald startet: [Tweet](https://x.com/Vrom14286662/status/1794991417380446310)
