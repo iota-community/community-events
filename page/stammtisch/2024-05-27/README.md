@@ -46,3 +46,5 @@
 44. **Crypto Adoption**: Trump macht jetzt auf einmal einen Pro Bitcoin/Crypto Wahlkampf: [Tweet](https://x.com/unusual_whales/status/1794557888016339031); Er will sogar Ross Ulbricht begnadigen: [Tweet](https://x.com/BitcoinMagazine/status/1794535395176366260)
 45. **IOTA Wochenrückblick**: [IOTA Talk tweetet](https://x.com/Iota_Talk_/status/1794643021004406926) über den [IOTA Talk Wochenrückblick](https://www.iota-talk.com/index.php?article/398-wochenr%C3%BCckblick-vom-19-bis-25-mai-2024/)
 46. **IOTA EVM**: Es gibt Gerüchte, dass die IOTA EVM bald startet: [Tweet](https://x.com/Vrom14286662/status/1794991417380446310)
+47. **tech announcement**: Es gab ein techn. Announcement bezüglich der Shimmer EVM: [Tweet](https://x.com/Vrom14286662/status/1795069516675703231)
+48. **Crypto Adoption**: Argentinien redet mit El Salvador über ihre Bitcoin Strategie: [Tweet](https://x.com/BitcoinMagazine/status/1795042725399535837)
