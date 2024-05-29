@@ -10,3 +10,4 @@
 8. **Crypto Adoption**: Blackrock hat in Q1 selbst Bitcoin ETFs gekauft: [Tweet](https://x.com/FurkanCCTV/status/1795489152911258070) "Insgesamt wurden $3,5 Mio. des eigenen BTC ETFs in den Strategic Income Opportunities Portfolio aufgenommen"
 9. **IOTA Governement**: Die [Tangle Treasury tweetet](https://x.com/TangleTreasury/status/1795085202168963198) über ihr Statement: [Tangle Community Treasury Election Statement](https://tangletreasury.medium.com/tangle-community-treasury-election-statement-fb4f25825129)
 10. **Crypto Drama**: Die Mt. Gox Funds wurden verschoben, was zu einen negativen Kurssprung geführt hat: [Tweet](https://x.com/AutismCapital/status/1795437465274380560)
+11. **IOTA Identity**: [filancore tweetet](https://x.com/FilancoreGmbH/status/1795732172231639544) über [filancore.com](https://filancore.com/)
