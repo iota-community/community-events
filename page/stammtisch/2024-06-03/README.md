@@ -31,4 +31,5 @@
 29. **IOTA Nodes**: Es gab ein Update vom dlt.green Node Installer. Jetzt kann man sich die Status Notifications direkt aufs Handy schicken lasssen: [DLT.GREEN Automatic Node-Installer for Docker](https://github.com/dlt-green/node-installer-docker)
 30. **IOTA EVM**: Es gibt Rumours, dass die IOTA EVM sehr bald startet: [Tweet von Iotapoet](https://x.com/IotaPoet/status/1796586402450387098); [Tweet von id.IOTA](https://x.com/id_iota/status/1796584907550196095); [Tweet von TangleTalk](https://x.com/tangle_talk/status/1796591513297879049)
 31. **IOTA Ökosystem**: Das web3 Spiel [URUkBaratas tweetet](https://x.com/UrukBartas/status/1796593713801785658), dass sie das Bloom Wallet integriert haben
-32. 
+32. **Crypto Drama**: Biden legt jetzt doch glatt ein Veto ein gegen die Crypto Regulierung: [Tweet](https://x.com/WatcherGuru/status/1796677574086578329)
+33. 
