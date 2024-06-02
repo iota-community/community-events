@@ -37,3 +37,4 @@
 35. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1796844139310420003) über den Artikel auf CoinmarketCap: [IOTA Identity Integrates Zero Knowledge Credentials](https://coinmarketcap.com/community/articles/665724b1d21a744d5c4eb0f8/)
 36. **IOTA Audio**: Am Dienstag geht es im TangleTalk darüber wie es weiter geht mit dem Talk: [Tweet](https://x.com/tangle_talk/status/1797202996641583388)
 37. **Crypto Drama**: Artikel: [$300 Million in Bitcoin Lost After Major Japanese Crypto Exchange Hack](https://u.today/300-million-in-bitcoin-lost-after-major-japanese-crypto-exchange-hack)
+38. **IOTA NFT Ökosystem**: [Metamerge tweetet](https://x.com/tanglebeasts/status/1796206437657424023), dass ihre Beta gestartet ist: [https://beast-art.xyz/pages/metamerge](https://beast-art.xyz/pages/metamerge)
