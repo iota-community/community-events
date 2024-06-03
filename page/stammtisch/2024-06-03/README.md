@@ -40,4 +40,6 @@
 38. **IOTA NFT Ökosystem**: [Metamerge tweetet](https://x.com/tanglebeasts/status/1796206437657424023), dass ihre Beta gestartet ist: [https://beast-art.xyz/pages/metamerge](https://beast-art.xyz/pages/metamerge)
 39. **Crypto Adoption**: Morgen gehen offenbar die ersten Bitcoin Spot ETFs in Australien an den Start: [Tweet](https://x.com/WatcherGuru/status/1797544650972303625)
 40. **Crypto Adoption**: Fernseh Interview: [University professor on State of Wisconsin Investment Board buying $160 million of #Bitcoin ETF.](https://x.com/BitcoinMagazine/status/1797577922439757858)
-41. **Fiat Drama**: Was ist da wieder bei Gamestop los? [Tweet](https://x.com/RadarHits/status/1797551260318769595) Vorbörslich +100% 
+41. **Fiat Drama**: Was ist da wieder bei Gamestop los? [Tweet](https://x.com/RadarHits/status/1797551260318769595) Vorbörslich +100%
+42. **IOTA Hype**: [Dom tweetet](https://x.com/DomSchiener/status/1797630029737885733) "I am ready for big things with #IOTA"
+43. **Shimmer Ökosystem**: [Cointracking tweetet](https://x.com/Coin_Tracking/status/1797617732609024315) darüber, dass sie die ShimmerEVM integriert haben
