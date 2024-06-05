@@ -18,3 +18,7 @@
 16. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1798037089713598821) über die Launch Party und das AMA mit Dom im Discord am 5. Juni um 18 Uhr
 17. **IOTA Ökosystem**: [Peppy Finance tweetet](https://x.com/Peppy_finance/status/1798011809439584727) über den Artikel: [How Peppy Finance uses Envio to power its Perpetual Future Markets with Real-Time Data Indexing](https://docs.envio.dev/blog/envio-real-time-indexing-powers-peppy-finance)
 18. **IOTA Promote**: [WuBlockchain mit 330K followern tweetet](https://x.com/WuBlockchain/status/1797984708514762840) über die IOTA EVM
+19. **IOTA EVM Ökosystem**: [Moonpad tweetet](https://x.com/MoonpadXYZ/status/1798244724404531657), dass sie live sind mit [moonpad.xyz](https://moonpad.xyz/), wo man ganz einfach einen Token launchen kann
+20. **Crypto Adoption**: Die [HBAR Foundation tweetet](https://x.com/HBAR_foundation/status/1797660208111460828), dass Hundai und Kia ihre Supplychain im Hedera Netzwerk gestartet haben
+21. **IOTA Gaming**: [Roy tweetet](https://x.com/SaltminesRoy/status/1798177921221505100) ein neues Making Of Video von dem [Saltmines](https://x.com/SaltminesCo) Spiel
+22. **IOTA FUd**: [Tweet von Eric Wall](https://x.com/ercwl/status/1798089308487700740) zum Theme IOTA EVM: "Oh boy here we go again"
