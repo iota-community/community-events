@@ -38,5 +38,13 @@
 36. **IOTA EVM Audio Event**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1798380988889719069) über ihr [X-Spaces Event](https://x.com/i/spaces/1YpKkwZAeZEKj) am Freitag 7.6.
 37. **Shimmer EVM**: [DeBank (220K Follower) tweetet](https://x.com/DeBankDeFi/status/1798683775616024961) darüber, dass sie die Shimmer EVM integriert haben und fast alle dApp als extra Tweet
 38. **IOTA EVM Adoption**: Die [IF tweetet](https://x.com/iota/status/1798640987188969633) über ihren Blogpost: [LayerZero Integrates With IOTA EVM - Unlocking Interoperability for Enhanced Cross-Chain Communication](https://blog.iota.org/layerzero-integrates-with-iota-evm/); Die [IF tweetet](https://x.com/iota/status/1798640993581084770) dann nochmal speziell um Developer anzusprechen die auf die LayerZero V1 und V2 Bridge bauen können
-39. 
-40. 
+39. **Crypto Adoption**: Robinhood übernimmt Bitstamp: [Tweet](https://x.com/BitcoinMagazine/status/1798684703416803495)
+40. **IF Intern**: [Luca Moser](https://x.com/luca__moser) ist jetzt auch im Board of Directors: [iota.org/foundation/team](https://www.iota.org/foundation/team)
+41. **IF Intern**: Die IF sucht scheinbar Mitarbeiter für ein IOTA Lab: [Tweet](https://x.com/bennnni_web3/status/1798699351990255847)
+42. **Allg. News**: Artikel: [Die Europäische Zentralbank senkt den Leitzins](https://www.btc-echo.de/schlagzeilen/ezb-europaeische-zentralbank-senkt-leitzins-so-reagiert-bitcoin-185997/)
+43. **IOTA EVM**: Aufruf von Phylo an alle Builder sich zu melden: [Tweet](https://x.com/PhyloIota/status/1798716502956515431)
+44. **Allg. News**: Das Starship von SpaceX ist zum 4. Mal gestartet und dieses mal relativ kontrolliert gecrasht: [Start-Video](https://x.com/SpaceX/status/1798699175573700929); [Re-Entry Video](https://x.com/SawyerMerritt/status/1798718420147716545), [Crash-Video](https://x.com/SpaceX/status/1798701489097183286); [Elon Musk tweetet](https://x.com/elonmusk/status/1798718549307109867) von einem Mega Erfolg ("epic achievement!")
+45. **IOTA EVM Meme Coin**: Was ist denn [ChicksWifKicks](https://x.com/ChicksWifKicks)? Die gibt es auf Magic Sea: [Tweet](https://x.com/ChicksWifKicks/status/1798075569059528873); Webseite: [chickswifkicks.com](https://chickswifkicks.com/)
+46. **IOTA EVM**: [Blast (20K follower) tweetet](https://x.com/BlastAPI/status/1798677298813489359), dass sie die IOTA EVM unterstützen und live sind. [Blast](https://blastapi.io/welcome) ist eine "Distributed Web3 Development Platform for Everyone" auf der Developer API Endpunkte bekommen; [Phylo tweetet](https://x.com/PhyloIota/status/1798720110838128707) wie toll die sind
+47. **IOTA EVM**: Was ist [PoolsFinance (2follower)](https://x.com/PoolsFinance/status/1798717126326509888). Die haben irgendwas vor "Your pools your rules"...
+48. 
