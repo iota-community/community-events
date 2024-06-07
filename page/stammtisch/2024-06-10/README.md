@@ -59,4 +59,4 @@
 57. **IOTA Ökosystem**: [Soonaverse tweetet](https://x.com/soon_labs/status/1798991797668237618), dass sie Open Source sind ([github.com/buildcore-io/core](https://github.com/buildcore-io/core)) und verlinken ihren Blogpost: [A Journey Completed: Announcing Our Open Source Release](https://soonlabs.medium.com/a-journey-completed-announcing-our-open-source-release-986591841863
 58. **IOTA EVM**: [DeBank tweetet](https://x.com/DeBankDeFi/status/1799061202146152851) darüber, dass sie jetzt auch die IOTA EVM integriert haben; Die [IF bedankt](https://x.com/iota/status/1799063843890491894) sich
 59. **IOTA EVM**: Die [IF macht ein Shout-out](https://x.com/iota/status/1799048699751862348) an ihre IOTA EVM Tier 1 partner: [StargateFinance](https://x.com/StargateFinance); [LayerZero](https://x.com/LayerZero_Labs); [Blast](https://x.com/BlastAPI); [PythNetwork](https://x.com/PythNetwork); [goldskyio](https://x.com/goldskyio); [Supra](https://x.com/SUPRA_Labs)
-60. 
+60. **IOTA Ökosystem**:  [Neues Tutorial von Magic Sea: [HOW TO TRACK TOKENS ON A DEX | MAGICSEA Tutorial](https://www.youtube.com/watch?v=Du3PKr17x4w)
