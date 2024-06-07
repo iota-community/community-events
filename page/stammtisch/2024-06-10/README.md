@@ -55,3 +55,5 @@
 53. **IOTA Pump**: Am Freitag steigt IOTA doch glatt mal um +10% während sich bei den anderen Coins nicht so viel tut
 54. **IOTA Ökosystem**: [GroupFi tweetet](https://x.com/groupfi_ai/status/1798984816458928296) über ihre neue Homepage [groupfi.ai](https://groupfi.ai/) auf der man web3 chatten kann
 55. **Crypto Adoption**: Neue Bitcoin Erklärungs Werbung vom Wall Street Jornal: [Tweet](https://x.com/BitcoinMagazine/status/1798766978779500816)
+56. **IOTA EVM**: Neue Webseite ist live: [evm.iota.org](https://evm.iota.org/)
+57. **IOTA Ökosystem**: [Soonaverse tweetet](https://x.com/soon_labs/status/1798991797668237618), dass sie Open Source sind ([github.com/buildcore-io/core](https://github.com/buildcore-io/core)) und verlinken ihren Blogpost: [A Journey Completed: Announcing Our Open Source Release](https://soonlabs.medium.com/a-journey-completed-announcing-our-open-source-release-986591841863)
