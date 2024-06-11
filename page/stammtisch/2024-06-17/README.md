@@ -7,3 +7,4 @@
 5. **IOTA Adoption**: [Blackpin tweetet](https://x.com/BLACKPIN_GmbH/status/1800475305108459828) über ihren Messanger für Firmen für den man jetzt eine [demo.blackpin.app](https://demo.blackpin.app/)
 6. **IOTA Event**: Havn war bei einem Event in Berlin: [Tweet von Regine](https://x.com/Energine/status/1800444014488965381)
 7. **IOTA Ökosystem**: [Bivreost tweetet](https://x.com/bivreost/status/1800455771777536024), dass man jetzt auch Receiving Adressen für Telegram Gruppen hinzufügen kann
+8. **IOTA Adoption**: [TLIP tweetet](https://x.com/TLIP_io/status/1800524466297934179) über den Artikel vom WEF: [TradeTech is revolutionizing global trade](https://www.weforum.org/impact/revolutionizing-global-trade-through-technological-transformation/)
