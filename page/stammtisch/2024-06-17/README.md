@@ -8,3 +8,4 @@
 6. **IOTA Event**: Havn war bei einem Event in Berlin: [Tweet von Regine](https://x.com/Energine/status/1800444014488965381)
 7. **IOTA Ökosystem**: [Bivreost tweetet](https://x.com/bivreost/status/1800455771777536024), dass man jetzt auch Receiving Adressen für Telegram Gruppen hinzufügen kann
 8. **IOTA Adoption**: [TLIP tweetet](https://x.com/TLIP_io/status/1800524466297934179) über den Artikel vom WEF: [TradeTech is revolutionizing global trade](https://www.weforum.org/impact/revolutionizing-global-trade-through-technological-transformation/)
+9. **IOTA EVM Adoption**: [DefiLama tweetet](https://x.com/DefiLlama/status/1800579005348991021), dass [MagicSea](https://app.magicsea.finance/) LB jetzt auch getrackt wird auf [DefiLama IOTA EVM](https://defillama.com/chain/IOTA%20EVM)
