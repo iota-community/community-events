@@ -18,9 +18,12 @@
 16. **IOTA Science**: [Salima macht einen Thread](https://x.com/Salimasbegum/status/1800524232515878940) über ein neues Paper: [IOTA-Based Game-Theoretic Energy Trading With Privacy-Preservation for V2G Networks](https://ieeexplore.ieee.org/abstract/document/10551491)
 17. **IOTA Science**: [Salima macht noch ein Thread](https://x.com/Salimasbegum/status/1800981676111315177) über [IOTA-Enabled Decentralized Data Space for IIoT Ecosystems](https://idus.us.es/bitstream/handle/11441/160035/1/JNIC24_232.pdf?sequence=1)
 18. **IOTA Adoption**: [Mathwallet (mit 930K followern) tweetet](https://x.com/MathWallet/status/1800811641438912908), dass sie jetzt die IOTA EVM unterstützen
-19. **IOTA Ökosystem**: [Bivreost tweetet](https://x.com/bivreost/status/1800869557579718994) darüber, dass man jetzt auch invoices senden kann
+19. **IOTA Ökosystem**: [Bivreost tweetet](https://x.com/bivreost/status/1800869557579718994) darüber, dass man jetzt auch Invoices in privaten Messages (auch an Leute die noch kein Wallet haben) senden kann; Hier ein Video wie das geht: [Tweet](https://x.com/RodionVikol/status/1801165610937704516)
 20. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1800875716969455993) über den Blogpost der IF dazu: [Pyth Launches Price Oracles on IOTA EVM](https://blog.iota.org/pyth-launches-on-iota-evm/); Es gab auch ein [Thread von Pyth Network (230K follower)](https://x.com/PythNetwork/status/1800877188545224899) über IOTA und "Real World Assets meets DeFi meets Pyth"
 21. **IOTA Ökosystem**: Neue Partnerschaft zwischen Moonpad und MagicSea: [Tweet](https://x.com/MagicSeaDEX/status/1800875703766045065)
 22. **IOTA Adoption**: Neues von EU EBSI: [Tweet von Strnadl](https://x.com/archimate/status/1801144534975263177)
 23. **IOTA Ökosystem**: [Bloom tweetet](https://x.com/bloomwalletio/status/1800937925959463284) darüber, dass sie Notifications implementiert haben. D.h. wichtige Informationen von dApps können direkt in Bloom angezeigt werden
 24. **IOTA Promote**: [U-Today tweetet](https://x.com/Utoday_en/status/1801162159352668280) über den Artikel auf U-Today: [IOTA EVM Enhances DeFi With Pyth Price Feeds](https://u.today/iota-evm-enhances-defi-with-pyth-price-feeds)
+25. **Crypto Adoption**: Die größte Bank von Australien (17mio Kunden) hat BTC Spot ETFs auf ihre Handelspalttform mit aufgenommen: [Tweet](https://x.com/BTC_Archive/status/1801186384297766929)
+26. **Crypto Adopition**: Biden will jetzt auch Bitcoin als Wahlkampfspenden annehmen: [Tweet](https://x.com/BTC_Archive/status/1801188021808615524)
+27. 
