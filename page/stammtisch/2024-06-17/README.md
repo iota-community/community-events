@@ -36,4 +36,5 @@
 34. **IOTA Audio**: [Buildsphere 5 mit ApeBond](https://x.com/iota/status/1801253189280252043)
 35. **IOTA EVM**: [AlphaRho tweetet](https://x.com/0xAlphaRho/status/1801428585015873744), dass er ein Stargate Smart Contract gefunden hat
 36. **Tangle Community Treassury**: Es gab ein Tangle Community Treassur meeting im Discord: [Tweet](https://x.com/TangleTreasury/status/1801284485595509020); [Airtable](https://airtable.com/appfqH6q67lqwemQL/shrDLGL5hyuh8AYCJ/tbliweTeZ8O7X7EtY)
-37. 
+37. **IOTA Video**: Neues Tutorial von MagicSea: [HOW TO BOOST YOUR LUM TO MAGIC LUM | MAGICSEA DEX Tutorial]()
+38. 
