@@ -37,4 +37,5 @@
 35. **IOTA EVM**: [AlphaRho tweetet](https://x.com/0xAlphaRho/status/1801428585015873744), dass er ein Stargate Smart Contract gefunden hat
 36. **Tangle Community Treassury**: Es gab ein Tangle Community Treassur meeting im Discord: [Tweet](https://x.com/TangleTreasury/status/1801284485595509020); [Airtable](https://airtable.com/appfqH6q67lqwemQL/shrDLGL5hyuh8AYCJ/tbliweTeZ8O7X7EtY)
 37. **IOTA Video**: Neues Tutorial von MagicSea: [HOW TO BOOST YOUR LUM TO MAGIC LUM | MAGICSEA DEX Tutorial]()
-38. 
+38. **IOTA Adaption**: Die [IF tweetet](https://x.com/iota/status/1801540092332257551) darüber, dass sich alle Builder anmeleden sollen bei [https://docs.google.com/forms...](https://docs.google.com/forms/d/e/1FAIpQLSfPX3u9gwSBP17_omGqk4uhrFAryRBc8n_3agiMM7HV1Pqo9A/viewform?usp=send_form) um beim nächsten Buildashere dabei zu sein
+39. **IOTA Ökosystem**: Der [AuditOne Fairlaunch auf MagicSea](https://app.magicsea.finance/fairlaunch/:8822/audit) ist am 15.6.: [Tweet](https://x.com/auditone_dao/status/1801586333342732610) 
