@@ -47,3 +47,6 @@
 45. **IOTA EVM Ökosystem**: Neuer Meme Coin: [QUBITCH](https://x.com/qubih69)
 46. **Crypto Adoption**: Biden will jetzt im Juli auch an einem Crypto Roundtable teilnehmen: [Tweet](https://x.com/AltcoinDailyio/status/1802129738775035920)
 47. **IOTA Audio**: Am 21.6. ist Susanne Krone [IF] im TangleTalk: [Tweet](https://x.com/tangle_talk/status/1802235793089409392)
+48. **Crypto Adoption**: Artikel: [Deutsche Telekom Announces Bitcoin Mining Expansion](https://www.cryptotimes.io/2024/06/16/deutsche-telekom-announces-bitcoin-mining-expansion/)
+49. 
+
