@@ -45,3 +45,5 @@
 43. **IOTA Adoption**: Finnland will $10Mio Fördergleder an TLIP zahlen um "Zeit- und Kostenaufwand für den grenzüberschreitenden Handel in Afrika zu reduzieren": [Tweet](Zeit- und Kostenaufwand für den grenzüberschreitenden Handel in Afrika reduzieren)
 44. **IOTA Adoption**: [TangleLabs retweetet](https://x.com/Tangle_Labs/status/1801647283512971364) den [Tweet von AuvoId](https://x.com/AuvoDigital/status/1801619352237564200) über den Artikel: [Building verifiabletrust inbanking& finance with AuvoID: No-code verifiable identity & data management.](https://auvo.io/wp-content/uploads/2024/06/Building-verifiable-trust-in-banking-and-finance.pdf)
 45. **IOTA EVM Ökosystem**: Neuer Meme Coin: [QUBITCH](https://x.com/qubih69)
+46. **Crypto Adoption**: Biden will jetzt im Juli auch an einem Crypto Roundtable teilnehmen: [Tweet](https://x.com/AltcoinDailyio/status/1802129738775035920)
+47. **IOTA Audio**: Am 21.6. ist Susanne Krone [IF] im TangleTalk: [Tweet](https://x.com/tangle_talk/status/1802235793089409392)
