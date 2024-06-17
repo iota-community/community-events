@@ -52,4 +52,5 @@
 50. **Shimmer Meme Token**: [HodlHamster tweetet](https://x.com/HODL_Hamster/status/1802401680962531657), dass es jetzt bereits [Merchandising Artikel von HodlHamster](https://www.amazon.de/stores/page/B1F1B128-CA4E-4DCD-970A-F0BF1109E66A) gibt. Die haben auch eine [HODL Hamster Webseite](https://hodlhamster.info/)
 51. **IOTA NFT Ökosystem**: [CryptoGin tweetet](https://x.com/Crypto_Gin21/status/1802401106523214075) wie man die Soonaverse NFTs von Crypto Gin herunter bekommen kann. Sie wollen die abkaufen und dann auf der IOTA EVM neu versenden.
 50. **IOTA Adoption**: [id.now tweetet](https://x.com/IDnowGroup/status/1802607279885197513) über ihren Blogpost: [IDnow team explains why invitation to European Blockchain Sandbox will take Web3 identity verification to the next level.](https://www.idnow.io/blog/web3-identity-verification-solution-iota-crypto/?utm_source=linkedin&utm_medium=social&utm_campaign=crypto)
+51. **IOTA EVM**: Es gab ein [Update von Phylo im Discord](https://x.com/Vrom14286662/status/1802620746805436497) bezüglich Stargate Finance, die jetzt offenabar ihre Smart Contract Adressen veröffentlicht haben, sodass die dApps damit arbeiten können
 
