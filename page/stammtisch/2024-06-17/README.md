@@ -58,4 +58,5 @@
 54. **IOTA EVM Adoption**: Die [IF tweetet](https://x.com/iota/status/1802687650903556414) über ihren Blogpost: [IOTA EVM Welcomes Blast API - Blast API Integrates IOTA EVM to Offer Reliable Endpoints](https://blog.iota.org/blast-api-integrates-iota-evm/); Auch [Blast (19 K follower) retweetet](https://x.com/BlastAPI/status/1802691353714811158) das
 55. **IOTA EVM Adoption**: [Blast macht einen Thread](https://x.com/BlastAPI/status/1802709587503583515) ("..seamless tokenization of RWA with feeless transactions, MEV protection, and magic #SmartContracts..") über ihren Blogpost: [IOTA EVM Endpoints Are Now Available in Blast](https://blastapi.io/blog/iota-evm-endpoints-are-now-available-in-blast)
 56. **IOTA Audio**: Am Dienstag ist ein neues [BuildShere #6 Event]() geplant mit dem [UNCX Network](https://x.com/UNCX_token): [Tweet](https://x.com/UNCX_token/status/1802708384962973936)
+57. **IOTA Identity**: [AuvoID tweetet](https://x.com/AuvoDigital/status/1802755835044696317) darüber, dass sie live sind mitihrer Beta ([auvo.io](https://app.auvo.io/sign-up)); [TangleLabs retweetet](https://x.com/Tangle_Labs/status/1802756241745228141) das recht euphorisch
 
