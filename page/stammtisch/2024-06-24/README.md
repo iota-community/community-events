@@ -28,4 +28,4 @@
 26. **IOTA Audio**: Am Freitag war Susanne Krone im TangleTalk ([Tweet](https://x.com/tangle_talk/status/1804049875115315656)) um über das [Proposal -A Proposal for Supercharging the Expansion of IOTA EVM Growth](https://govern.iota.org/t/a-proposal-for-supercharging-the-expansion-of-iota-evm-growth/1751) zu sprechen; Selbst die [IF retweetet](https://x.com/iota/status/1804054018777346302) das
 27. **IOTA EVM**: [MagicSea](https://x.com/MagicSeaDEX) startet am Sonntag den Hypetrain mit $400.000LUM rewards: [Tweet](https://x.com/MagicSeaDEX/status/1804031507255730452)
 28. **IOTA EVM**: [cyberglow tweetet](https://x.com/Cyberglow_cgt/status/1803874558723637718), dass ihre DEX live ist auf: [cyberglow.finance](https://cyberglow.finance/); Es gab aber auch schon "APR incident" (also Vorsicht!): [Tweet](https://x.com/Cyberglow_cgt/status/1804027717370761502)
-29. 
+29. **IOTA Audio**: Es gibt ein [BuildSphere #8 Event](https://x.com/iota/status/1804107001770721434) mit [Accumulator](https://x.com/ACCU_DeFi)
