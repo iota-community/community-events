@@ -12,5 +12,6 @@
 10. **Crypto Drama**: Der Streit zw. ETH und SEC wurde offenbar seitens SEC beendet: [Tweet](https://x.com/AltcoinDailyio/status/1803258103888224404)
 11. **IOTA EVM**: Es gibt ein [Proposal for Supercharging the Expansion of IOTA EVM Growth](https://govern.iota.org/t/a-proposal-for-supercharging-the-expansion-of-iota-evm-growth/1751) indem die Unclaimed Token verwendet werden sollen, um die TVL Liquidität von der IOTA EVM auf ein höheres Level zu heben. Bitte abstimmen und diskutieren. Es wird dazu aber auch noch ein AMA geben und Susanne will sich dazu am Freitag im TangleTalk äußern. [AlphaRo Tweet](https://x.com/0xAlphaRho/status/1803339545678655558) dazu; [Id.iota Tweet](https://x.com/id_iota/status/1803360756227850681) dazu
 12. **IOTA Ökosystem**: [AuditOne tweetet](https://x.com/auditone_dao/status/1803393341997916458) darüber, dass sie die SC ("Advanced Uniswap V2 & Booster") von [MagicSea](https://x.com/MagicSeaDEX) geauditet haben. [Youtube-Link](https://youtu.be/pUAadNik0qY)
-13. 
+13. **IOTA EVM Ökosystem**: [WAGMI tweetet](https://x.com/PopsicleFinance/status/1803846160538583123) darüber, dass sie IOTA integriert haben auf [app.wagmi.com](https://app.wagmi.com/liquidity/strategies)
+14. 
    
