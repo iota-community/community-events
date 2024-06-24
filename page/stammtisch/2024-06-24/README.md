@@ -37,4 +37,5 @@
 35. **IOTA Hype**: Es gab ein [Kommentar von Dom](https://x.com/DomSchiener/status/1804900698116526237) zu dem [Tweet von Vyosh Soko Capital](https://x.com/VyoshSoko/status/1804469990080249929) in dem er schreibt: "We will not stop, there is a lot to do, and we are here to make this industry and the impact that Blockchain will create on the world real 🙏 "
 36. **IOTA NFT Ökosystem**: Ein [Tweet vom Shi Universe](https://x.com/Shiuniverse/status/1804784704861667798) über das neue Promo-Video: [Shi Universe - Valids Raid (Early Access) Teaser 2](https://youtu.be/vbpWWLEfeo4?si=08DOJxQhJOkIEOCQ) -> Irgendwas passiert am 30.Juni...
 37. **Allg. News**: Deutschland ist im Achtelfinale bei der Fußball Europameisterschaft und heute um 21 Uhr spielt die Spanien Gruppe: Albanien vs. Spanien (RTL) und Kroatien vs. Italien (ZDF und Magenta TV)
-38. **Crypto Drama**: MT Gox repayments wohl ab Juli: [Tweet](https://x.com/WatcherGuru/status/1805168222645244311) 
+38. **Crypto Drama**: MT Gox repayments wohl ab Juli: [Tweet](https://x.com/WatcherGuru/status/1805168222645244311)
+39. **IOTA Event**: Am Donnerstag ist ein AMA zu dem Proposal aus Punkt 11: [Tweet](https://x.com/iota/status/1805235596035551514)
