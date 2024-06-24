@@ -35,6 +35,5 @@
 33. **Crypto Adoption**: [Ronaldinho (20 mio follower) tweetet](https://x.com/10Ronaldinho/status/1804952780479557858): "Time for crypto to go mainstream, who’s with me?"
 34. **IOTA 2.0 Promote**: [Id.IOTA tweetet](https://x.com/id_iota/status/1804944250582540609) warum IOTA 2.0 so gut ist
 35. **IOTA Hype**: Ein [Kommentar von Dom](https://x.com/DomSchiener/status/1804900698116526237) unter der [Tweet von Vyosh Soko Capital](https://x.com/VyoshSoko/status/1804469990080249929): "We will not stop, there is a lot to do, and we are here to make this industry and the impact that Blockchain will create on the world real 🙏 "
-36. **IOTA NFT Ökosystem**: Ein [Tweet vom Shi Universe](https://x.com/Shiuniverse/status/1804784704861667798) über das [Youtube-Video](https://youtu.be/vbpWWLEfeo4?si=08DOJxQhJOkIEOCQ)
-37. **Allg. News**: Deutschland ist im Achtelfinale bei der Fußball Europameisterschaft...
-38. 
+36. **IOTA NFT Ökosystem**: Ein [Tweet vom Shi Universe](https://x.com/Shiuniverse/status/1804784704861667798) über das neue Promo-Video: [Shi Universe - Valids Raid (Early Access) Teaser 2](https://youtu.be/vbpWWLEfeo4?si=08DOJxQhJOkIEOCQ)  -> Irgendwas passiert am 30.Juni...
+37. **Allg. News**: Deutschland ist im Achtelfinale bei der Fußball Europameisterschaft und heute um 21 Uhr ist die Spanien Gruppe dran mit Albanien vs. Spanien (RTL) und Kroatien vs. Italien (ZDF und Magenta TV)
