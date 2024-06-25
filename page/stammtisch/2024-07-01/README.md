@@ -9,3 +9,6 @@
 7. **IOTA Adoption**: [GM retweetet](https://x.com/GM__INV/status/1805314504688873787) den [Tweet von ERC3643](https://x.com/ERC3643Org/status/1801188108039286805) und kombiniert, dass IOTA zu den [ERC3643 Association Members](https://www.erc3643.org/members) gehört
 8. **IOTA 2.0**: Auf den [FUD von Ghosty](https://x.com/Ghostie0815/status/1805241300511322235), dass das Testnetz tot ist, [Antwortet ID.iota](https://x.com/id_iota/status/1805273063279272406) und erklärt die aktuelle Situation
 9. **IOTA Event**: Am Donnerstag gibt es ein AMA zum Proposal von Susanne im Discord: [Tweet](https://x.com/iota/status/1805235596035551514)
+10. **IOTA Event**: Am 27.6. ist ein Event von TLIP: [Tweet](https://x.com/TLIP_io/status/1805508384608702874)
+11. **Shimmer**: [TangleBay tweetet](https://x.com/tanglebay/status/1805527109021970713) dass sie nicht länger Nodes für Shimmer bereit stellen wollen
+12. 
