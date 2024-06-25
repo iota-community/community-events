@@ -11,4 +11,7 @@
 9. **IOTA Event**: Am Donnerstag gibt es ein AMA zum Proposal von Susanne im Discord: [Tweet](https://x.com/iota/status/1805235596035551514)
 10. **IOTA Event**: Am 27.6. ist ein Event von TLIP: [Tweet](https://x.com/TLIP_io/status/1805508384608702874)
 11. **Shimmer**: [TangleBay tweetet](https://x.com/tanglebay/status/1805527109021970713) dass sie nicht länger Nodes für Shimmer bereit stellen wollen
-12. 
+12. **IOTA Ökosystem**: [AuditOne tweetet](https://x.com/auditone_dao/status/1805522632978096163) über ihre Tokenomics: [AUDIT Token - Utilities & Features](https://www.auditone.io/blog-posts/audit-token-utilities-features)
+13. **Crypto Drama**: Die Bundesrepublik verkauft wohl 900 BTC: [Tweet](https://x.com/FurkanCCTV/status/1805546629560238383)
+14. **IOTA Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1805586751916012004) darüber wie super die Tide Campagne im [Bloomwallet](https://x.com/bloomwalletio) integriert wurde
+15. **IOTA EVM Promote**: Die [IF macht ein Thread](https://x.com/iota/status/1805586746312142918) über die IOTA EVM und wie man als Builder und User davon profitieren kann
