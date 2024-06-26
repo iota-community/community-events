@@ -19,5 +19,5 @@
 17. **IOTA Stammtisch**: Der nächste IOTA Stammtisch in München findet am 12.7. statt: [Event auf Meetup.de](https://www.meetup.com/iota-muc/events/301660915/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
 18. **Crypto Drama**: Artikel: [Metallica Falls Victim to Crypto Scam](https://u.today/metallica-falls-victim-to-crypto-scam)
 19. **Crypto Adoption**: Artikel: [USA: Gesetzentwurf zu Steuerzahlungen in Bitcoin auf Bundesebene vorgelegt](https://www.blocktrainer.de/blog/usa-gesetzentwurf-zu-steuerzahlungen-in-bitcoin-vorgelegt)
-20. **IOTA Audio**: Die [TangleTalk tweetet](https://x.com/tangle_talk/status/1805874935111254132) über das [Gespäch mit Susanne auf Youtube](https://www.youtube.com/watch?v=towXlkVDWP4), dass jetzt hochgeladen worden ist
-21. 
+20. **IOTA Audio**: Die [TangleTalk tweetet](https://x.com/tangle_talk/status/1805874935111254132) über das [Gespäch mit Susanne auf Youtube](https://www.youtube.com/watch?v=towXlkVDWP4), dass jetzt hochgeladen worden ist; Selbst die [IF retweetet](https://x.com/iota/status/1805885413250204093) das
+21. **IOTA EVM**: Phylo hat sich im IOTA Discord zur IOTAEVM zu den USPs geäußert und warum Projekte auf der IOTA EVM launchen wollen: [Tweet mit Screens](https://x.com/Vrom14286662/status/1805885863013781612)
