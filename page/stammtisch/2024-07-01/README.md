@@ -15,3 +15,9 @@
 13. **Crypto Drama**: Die Bundesrepublik verkauft wohl 900 BTC: [Tweet](https://x.com/FurkanCCTV/status/1805546629560238383)
 14. **IOTA Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1805586751916012004) darüber wie super die Tide Campagne im [Bloomwallet](https://x.com/bloomwalletio) integriert wurde
 15. **IOTA EVM Promote**: Die [IF macht ein Thread](https://x.com/iota/status/1805586746312142918) über die IOTA EVM und wie man als Builder und User davon profitieren kann
+16. **IOTA EVM**: Die erste Farm von MagicSea geht live: [Tweet](https://x.com/MagicSeaDEX/status/1805843437792772495)
+17. **IOTA Stammtisch**: Der nächste IOTA Stammtisch in München findet am 12.7. statt: [Event auf Meetup.de](https://www.meetup.com/iota-muc/events/301660915/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
+18. **Crypto Drama**: Artikel: [Metallica Falls Victim to Crypto Scam](https://u.today/metallica-falls-victim-to-crypto-scam)
+19. **Crypto Adoption**: Artikel: [USA: Gesetzentwurf zu Steuerzahlungen in Bitcoin auf Bundesebene vorgelegt](https://www.blocktrainer.de/blog/usa-gesetzentwurf-zu-steuerzahlungen-in-bitcoin-vorgelegt)
+20. **IOTA Audio**: Die [TangleTalk tweetet](https://x.com/tangle_talk/status/1805874935111254132) über das [Gespäch mit Susanne auf Youtube](https://www.youtube.com/watch?v=towXlkVDWP4), dass jetzt hochgeladen worden ist
+21. 
