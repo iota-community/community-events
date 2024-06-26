@@ -21,3 +21,4 @@
 19. **Crypto Adoption**: Artikel: [USA: Gesetzentwurf zu Steuerzahlungen in Bitcoin auf Bundesebene vorgelegt](https://www.blocktrainer.de/blog/usa-gesetzentwurf-zu-steuerzahlungen-in-bitcoin-vorgelegt)
 20. **IOTA Audio**: Die [TangleTalk tweetet](https://x.com/tangle_talk/status/1805874935111254132) über das [Gespäch mit Susanne auf Youtube](https://www.youtube.com/watch?v=towXlkVDWP4), dass jetzt hochgeladen worden ist; Selbst die [IF retweetet](https://x.com/iota/status/1805885413250204093) das
 21. **IOTA EVM**: Phylo hat sich im IOTA Discord zur IOTAEVM zu den USPs geäußert und warum Projekte auf der IOTA EVM launchen wollen: [Tweet mit Screens](https://x.com/Vrom14286662/status/1805885863013781612)
+22. **IOTA Ökosystem**: Es gab ein Bloom Update: [Tweet](https://x.com/bloomwalletio/status/1805989136324804755)
