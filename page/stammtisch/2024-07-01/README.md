@@ -8,8 +8,8 @@
 6. **IOTA Audio**: [BuildShere #8 mit ACCU Finance](https://x.com/iota/status/1805254556491694278)
 7. **IOTA Adoption**: [GM retweetet](https://x.com/GM__INV/status/1805314504688873787) den [Tweet von ERC3643](https://x.com/ERC3643Org/status/1801188108039286805) und kombiniert, dass IOTA zu den [ERC3643 Association Members](https://www.erc3643.org/members) gehört
 8. **IOTA 2.0**: Auf den [FUD von Ghosty](https://x.com/Ghostie0815/status/1805241300511322235), dass das Testnetz tot ist, [Antwortet ID.iota](https://x.com/id_iota/status/1805273063279272406) und erklärt die aktuelle Situation
-9. **IOTA Event**: Am Donnerstag gibt es ein AMA zum Proposal von Susanne im Discord: [Tweet](https://x.com/iota/status/1805235596035551514)
-10. **IOTA Event**: Am 27.6. ist ein Event von TLIP: [Tweet](https://x.com/TLIP_io/status/1805508384608702874)
+9. **IOTA Event**: Am Donnerstag gibt es ein AMA zum Proposal von Susanne im Discord: [Tweet 1](https://x.com/iota/status/1805235596035551514); [Tweet 2](https://x.com/iota/status/1805235596035551514)
+10. **IOTA Event**: Am 27.6. ist ein Event von [TLIP](https://x.com/TLIP_io): [Tweet](https://x.com/TLIP_io/status/1805508384608702874)
 11. **Shimmer**: [TangleBay tweetet](https://x.com/tanglebay/status/1805527109021970713) dass sie nicht länger Nodes für Shimmer bereit stellen wollen
 12. **IOTA Ökosystem**: [AuditOne tweetet](https://x.com/auditone_dao/status/1805522632978096163) über ihre Tokenomics: [AUDIT Token - Utilities & Features](https://www.auditone.io/blog-posts/audit-token-utilities-features)
 13. **Crypto Drama**: Die Bundesrepublik verkauft wohl 900 BTC: [Tweet](https://x.com/FurkanCCTV/status/1805546629560238383)
@@ -22,3 +22,7 @@
 20. **IOTA Audio**: Die [TangleTalk tweetet](https://x.com/tangle_talk/status/1805874935111254132) über das [Gespäch mit Susanne auf Youtube](https://www.youtube.com/watch?v=towXlkVDWP4), dass jetzt hochgeladen worden ist; Selbst die [IF retweetet](https://x.com/iota/status/1805885413250204093) das
 21. **IOTA EVM**: Phylo hat sich im IOTA Discord zur IOTAEVM zu den USPs geäußert und warum Projekte auf der IOTA EVM launchen wollen: [Tweet mit Screens](https://x.com/Vrom14286662/status/1805885863013781612)
 22. **IOTA Ökosystem**: Es gab ein Bloom Update: [Tweet](https://x.com/bloomwalletio/status/1805989136324804755)
+23. **IOTA Ökosystem**: [TangleLabs retweetet](https://x.com/Tangle_Labs/status/1806270644629164320) den [Tweet von AuvoID](https://x.com/AuvoDigital/status/1806270057292407136) über den Artikel: [Elevating Businesses in the Financial Sector with Reusable KYC and AML Identity Verification Systems with AuvoComply](https://www.linkedin.com/pulse/elevating-businesses-financial-sector-reusable-kyc-aml-identity-lduqe/?trackingId=FNIzbWRSjqTLorIuo4VB3Q%3D%3D)
+24. **IOTA EVM**: [Phylo tweetet](https://x.com/PhyloIota/status/1805957804718727582), dass man durch Stargate V2 USDT, USDC und ETH umsonst auf die IOTA EVM bridgen kann
+25. **Crypto Drama**: Die US-Regierung hat 4000BTC an Coinbase gesendet. Besonders lustig, weil die US Regierung Coinbase als illegalen Broker deklariert hatten und Coinbase jeztt aber offensichtlich trotzdem benutzen: [Tweet](https://x.com/ErikVoorhees/status/1806105760461726023
+26. **IOTA Adoption**: [Akkodis tweetet](https://x.com/akkodis_global/status/1806063933758865738) Werbung für DLTs in dem [IOTerry](https://x.com/io_terry) am Ende sogar IOTA erwähnt "I've never been more optimistic on the future of DLT in gerneral and IOTA in particular" 
