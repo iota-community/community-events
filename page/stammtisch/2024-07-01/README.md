@@ -30,4 +30,14 @@
 28. **IOTA Ökosystem**: Dev Update bei Dark Mythos: [Tweet](https://x.com/DarkMythosIOTA/status/1806232040234188884)
 29. **Crypto Adoption**: Solana ETF soon? [Tweet](https://x.com/TheCryptoLark/status/1806329731777753303)
 30. **Allg. News**: US- Wahlkampf Debatte zw. Biden und Trump: [Watch Live: Biden and Trump in the First 2024 Presidential Debate | WSJ](https://www.youtube.com/watch?v=qqG96G8YdcE)
-31. 
+31. **IOTA Adoption**: Ein [Thread von Christoph Strnadl](https://x.com/archimate/status/1806394668852097345) über das erste Follow Up Meeting nach EBSI mit der Europäischen Union, wo sich die 3 Projekte die von ihnen implementierten Anwendungsfälle präsentieren und diskutieren durften.
+32. **IOTA Event**: [TLIP tweetet](https://x.com/TLIP_io/status/1806343427358884291) über eine Podiumsdiskussion zur digitalen Konnektivität im Handel bei der [World Trade Organisation](https://x.com/wto)
+33. **IOTA EVM**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1806210664421040130) über ihren Hypetrain und alles was bereits möglich ist
+34. **IOTA Gaming**: [Uruk Bartas tweetet](https://x.com/UrukBartas/status/1806340112243998728) darüber, dass sie dem Touchpoint Open Builders Program beigetreten sind
+35. **Crypto Adoption**: Bolivien öffnet sich für Bitcoin und Crypto indem sie Bitcoin Zahlungen legalisieren: [Tweet](https://x.com/BTC_Archive/status/1806441508951806070)
+36. **IOTA EVM Adoption**: Es gibt Neuigkeiten zu de $100mio RWA von dem CEO von Maseer. Er [retwweet](https://x.com/AllgoodFuturist/status/1806343013917966498) den [Tweet von ID.iota](https://x.com/id_iota/status/1804472270544396455) der das Thema gut zusammen gefasst hatte
+37. **IOTA Audio**: Am Freitag  gab es eine "Liquidity Book Deepdive Session" im [MagicSea](https://x.com/MagicSeaDEX) Discord: [Tweet](https://x.com/MagicSeaDEX/status/1805247065326293173)
+38. **IOTA Ökosystem**: [GroupFi tweetet](https://x.com/groupfi_ai/status/1806601748045348895) darüber, dass sie [GroupFi Chatbox Beta (groupfi.ai)](https://groupfi.ai/) jetzt live ist und ein [Video-Tutorial](https://youtu.be/lUGG7UQBUBg?feature=shared) dazu; [Garret tweetet](https://x.com/GarrettBullish/status/1806604749904744591) dazu "The first 100% on-chain free messaging is now LIVE"
+39. 
+40. 
+ 
