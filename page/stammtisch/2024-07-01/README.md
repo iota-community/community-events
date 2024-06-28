@@ -29,3 +29,5 @@
 27. **IOTA Adoption**: [Akkodis tweetet](https://x.com/akkodis_global/status/1806063933758865738) Werbung für DLTs in dem [IOTerry](https://x.com/io_terry) am Ende sogar IOTA erwähnt "I've never been more optimistic on the future of DLT in gerneral and IOTA in particular"
 28. **IOTA Ökosystem**: Dev Update bei Dark Mythos: [Tweet](https://x.com/DarkMythosIOTA/status/1806232040234188884)
 29. **Crypto Adoption**: Solana ETF soon? [Tweet](https://x.com/TheCryptoLark/status/1806329731777753303)
+30. **Allg. News**: US- Wahlkampf Debatte zw. Biden und Trump: [Watch Live: Biden and Trump in the First 2024 Presidential Debate | WSJ](https://www.youtube.com/watch?v=qqG96G8YdcE)
+31. 
