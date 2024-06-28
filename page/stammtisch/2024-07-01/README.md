@@ -38,6 +38,6 @@
 36. **IOTA EVM Adoption**: Es gibt Neuigkeiten zu de $100mio RWA von dem CEO von Maseer. Er [retwweet](https://x.com/AllgoodFuturist/status/1806343013917966498) den [Tweet von ID.iota](https://x.com/id_iota/status/1804472270544396455) der das Thema gut zusammen gefasst hatte
 37. **IOTA Audio**: Am Freitag  gab es eine "Liquidity Book Deepdive Session" im [MagicSea](https://x.com/MagicSeaDEX) Discord: [Tweet](https://x.com/MagicSeaDEX/status/1805247065326293173)
 38. **IOTA Ökosystem**: [GroupFi tweetet](https://x.com/groupfi_ai/status/1806601748045348895) darüber, dass sie [GroupFi Chatbox Beta (groupfi.ai)](https://groupfi.ai/) jetzt live ist und ein [Video-Tutorial](https://youtu.be/lUGG7UQBUBg?feature=shared) dazu; [Garret tweetet](https://x.com/GarrettBullish/status/1806604749904744591) dazu "The first 100% on-chain free messaging is now LIVE"
-39. 
+39. **Crypto Adoption**: Neue Blackrock Werbng über Bitcoin ETFs: [Tweet](https://x.com/CollinBrownXRP/status/1806638170437812268)
 40. 
  
