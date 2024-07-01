@@ -50,4 +50,5 @@
 48. **IOTA Ökosystem**: [Bivreost tweetet](https://x.com/bivreost/status/1807339844357546127) über ihren Fairlaunch auf [MagicSea](https://x.com/MagicSeaDEX) am 6.7.
 49. **IOTA Ökosystem**: [Bivreost tweetet](https://x.com/bivreost/status/1807459907110600737), dass sie BNB integriert haben und noch ein [Tweet von Bivreost](https://x.com/bivreost/status/1807363960166826479) über ihre Partnerschaft mit [StealthEX](https://x.com/StealthEX_io) einer "Custody-free, cross-chain #cryptocurrency exchange with 1500+ assets listed. Fast. Limitless. Private."
 50. **Crypto Adoption**: Artikel: [Walser Krypto-Unternehmer wird Sponsor von Red Bull Salzburg "Hoher fünfstelliger Betrag" von 21bitcoin](https://www.salzburg24.at/sport/fussball/walser-krypto-unternehmer-wird-sponsor-von-red-bull-salzburg-158808718); Auf Youtube von Bitcoin Hotel: [WOW ! RED BULL SALZBURG geht ALL-IN BITCOIN !?](https://youtu.be/AfTjIGNMJZs)
+51. **IOTA Ökosystem**: Es gibt ein AMA mit [MagicSea](https://x.com/MagicSeaDEX) in Mandarin: [Tweet](https://x.com/MagicSeaDEX/status/1807694229520388262)
  
