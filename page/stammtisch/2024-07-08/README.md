@@ -13,4 +13,5 @@
 11. **IOTA Dev Update**: Es gab ein wasp Update (für IOTA EVM): [Tweet](https://x.com/Vrom14286662/status/1808396724618084461)
 12. **IOTA NFT Drama**: Beim Minting Prozess im Shi Universe gab es scheinbar einen Exploit. Irgendwie hat es jemand geschafft die Random Funktion auszuhebeln damit er mehr Holo Karten bekommt
 13. **Crypto Drama**: Polkadot hat $37 Mio für Marketing ausgegeben, war aber wohl nicht so fruchtbar: [Thread 1](https://x.com/DefiIgnas/status/1807784567241351286); [Thread 2](https://x.com/stacy_muur/status/1808084118519140370)
-14. 
+14. **IOTA Ökosystem**: Die [Rusty Robots retweeten](https://x.com/RustyRobotCC/status/1808477544280096800) den [Tweet von Coda](https://x.com/coda_digital/status/1808476630479691803) über ihre neue Royalty Rights Plattform ([coda.to](http://coda.to/)) mit integrierter [Royalty Rights Exchnge](http://coda.to/exchange)
+15. 
