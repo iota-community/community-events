@@ -23,4 +23,6 @@
 21. **IOTA Event**: [GroupFi tweetet](https://x.com/groupfi_ai/status/1808800689142788262) über ein Event am 7.8. Juli in Brüssel
 22. **IOTA Ökosystem**: [TokenLabs tweetet](https://x.com/TokenLabsX/status/1808839333446578281) darüber, dass sie von AudioOne geauditet werden
 23. **IOTA EVM Proposal**: Neues Update ([Tweet](https://x.com/Vrom14286662/status/1808849311758737425)) zum [Proposal for Supercharging the Expansion of IOTA EVM Growth](https://govern.iota.org/t/igp-0005-a-proposal-for-supercharging-the-expansion-of-iota-evm-growth/1756/1)
-24. 
+24. **IOTA Adoption**: Die [IF macht ein Thread](https://x.com/iota/status/1808848246472683827) über den Blockpost: [IOTA Teams Up With Tokeny - Unlocking Enterprise-Level Tokenization on IOTA EVM](https://blog.iota.org/iota-teams-up-with-tokeny/); Hier der [Tweet von Tokeny Solution](https://x.com/TokenySolutions/status/1808850753080950820) dazu
+25. **IOTA NFT Drama**: [Sebastian Weber tweetet](https://x.com/Sebasti65365174/status/1808849257929085124) darüber, dass Akkodis die NFTs vom Soonaverse retten will/kann
+26. **Crypto Drama/Crash**: Artikel: [Bitcoin Dips Below $54K as Mt. Gox Moves $2.6B in BTC](https://www.coindesk.com/markets/2024/07/05/bitcoin-dips-below-54k-as-mt-gox-moves-26b-in-btc/)
