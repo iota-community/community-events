@@ -43,4 +43,6 @@
 41. **IOTA Artikel**: Die [IF tweetet](https://x.com/iota/status/1810016743466602978) über den Artikel auf CoinMarketCap: [Putting DLT at the Heart of the Circular Economy](https://coinmarketcap.com/community/articles/66857dd151cd6f2ea3cead1c/)
 42. **IOTA EVM**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1810038828473921574) über den Start der 2. Episode vom Hypetrain. Es werden in den nächsten 2 Wochen 70.000 LUM (~ $30K) verteilt. Über alle Epochen werden insgesamt 400.000LUM (~ $150K) verteilt. Hier alle Details zur [Hypetrain Campaigne - Ride the hype and earn with IOTA‘s leading native DEX while celebrating the launch of IOTA EVM!](https://docs.magicsea.finance/welcome/hypetrain-campaign); [Garret retweetet](https://x.com/GarrettBullish/status/1810232961251623339) das
 43. **IOTA EVM Gaming**: [The New Elites tweeten](https://x.com/TheNewElites_/status/1810226589843726728) ein Video in dem ihr Gameplay ein bisschen erklärt wird
-44. **Crypto Drama**: Die deutsche Regierung verkauft offenbar weitere 1000 BTC: [Tweet](https://x.com/BitcoinMagazine/status/1810261185578541226)
+44. **Crypto Drama**: Die deutsche Regierung verkauft offenbar weitere 1000 BTC: [Tweet](https://x.com/BitcoinMagazine/status/1810261185578541226); [Tweet von Blocktrainer](https://x.com/blocktrainer/status/1810265015015842026)
+45. **IOTA EVM Gaming**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1810222286953193582) ein Dev Update und zeigt ein Video_Preview von ihrem DECKBUILDER
+46. 
