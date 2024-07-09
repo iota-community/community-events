@@ -7,3 +7,5 @@
 5. **IOTA Ökosystem**: [Figmenttweetet](https://x.com/figment_nfts/status/1810339431343390930) über ihre neue NFT Platform die sie bald auf der IOTA EVM starten wollen
 6. **Crypto Adoption**: Artikel: [USA: Parteiprogramm der Republikaner im Entwurf mit Pro-Bitcoin-Haltung](https://www.blocktrainer.de/blog/usa-parteiprogramm-der-republikaner-bitcoin)
 7. **IOTA Event**: [Bloom tweetet](https://x.com/bloomwalletio/status/1810644345059672295) darüber, dass [Chrley Varley](https://x.com/c_varley) auf der großen Binance Bühne war auf der [Ethereum Community Converence](https://x.com/EthCC)
+8. **IOTA Ökosystem**: Die [IF tweetet](https://x.com/iota/status/1810660181828657271) über den Blogpost: [Goldsky Integrates IOTA EVM
+IOTA EVM - Revolutionizing Data Indexing for the IOTA Developer Ecosystem](https://blog.iota.org/goldsky-integrates-iota-evm/)
