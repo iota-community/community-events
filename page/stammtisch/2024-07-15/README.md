@@ -14,5 +14,5 @@
 12. **Crypto Drama**: Die deutschen verkaufen weiter BTC (8853.5 BTC ($520.17M) am Mittwoch: [Tweet](https://x.com/hoss_crypto/status/1810998072207421707)
 13. **IOTA Promote**: Artikel: [Frictionless Trade: How Cryptocurrencies, VeChain & IOTA are Reshaping the Global Trade Marketplaces](https://chainaffairs.com/frictionless-trade-how-cryptocurrencies-vechain-iota-are-reshaping-the-global-trade-marketplaces/)
 14. **IOTA Science**: Die [IF tweetet](https://x.com/iota/status/1811022567970337240) über ihren Blogpost: [Looking “Beyond the Chain” Research & Development - Insights from the 2nd International Workshop on DAG-based Distributed Ledgers](https://blog.iota.org/looking-beyond-the-chain/)
-15.  
+15. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1811052543167897683) über das [BuildaSphere #10 mit dem Shi Universe](https://x.com/iota/status/1811052543167897683)
 
