@@ -1,0 +1,12 @@
+## Stammtischthemen für Montag, den 22.7.2024
+
+1. **IOTA Quicktakes**: Die [If tweetet](https://x.com/iota/status/1812819450980123057) über die [IOTA Quicktakes]()
+2. **IOTA EVM Ökosystem**: [ApeBond tweetet](https://x.com/ApeBond/status/1812849683825385727) über die Integration der IOTA EVM ("Launching on July 23rd at 17:00 UTC!"); [Phylo tweetet](https://x.com/PhyloIota/status/1813018353113673755) ziemlich begeistert von dem Team rund um [ApeBond](https://x.com/ApeBond)
+3. **IOTA EVM Adoption**: [Figment tweetet](https://x.com/figment_nfts/status/1812877763386241225) über ihren Blogpost: [Launching Figment on IOTA EVM: A Flagship NFT Marketplace](https://medium.com/@figmentmint/launching-figment-on-iota-evm-a-flagship-nft-marketplace-d0f714395692)
+4. **Crypto Adoption**: Artikel: [BRICS to Use Cryptocurrency for Its Payment System?](https://watcher.guru/news/brics-to-use-cryptocurrency-for-its-payment-system) ("..could be set to use cryptocurrency for its payment system, according to one Russian official")
+5. **Crypto Adoption**: Der neue [J.D. Vice](https://x.com/JDVance1) von Trump ist Pro Crypto und kennt sich gut aus: [Tweet mit Video (in dem er über Crypto spricht)](https://x.com/digitalassetbuy/status/1812969196781003088)
+6. **Crypto Adoption**: [Michael Dell (CEO von Dell Technologies) retweetet](https://x.com/MichaelDell/status/1812895900068442621) das Video mit dem BlackRock CEO der sich klar für Bitcoin ausspricht und seine Fehler in der Vergangenheit einsieht
+7. **Crypto Drama**: MTGox hat am Dienstag offenbar 44K BTC von ihren 140K BTCs bewegt: [Tweet](https://x.com/lookonchain/status/1813103427863650726)
+8. 
+
+
