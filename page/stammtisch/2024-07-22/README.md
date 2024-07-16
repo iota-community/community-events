@@ -6,7 +6,10 @@
 4. **Crypto Adoption**: Artikel: [BRICS to Use Cryptocurrency for Its Payment System?](https://watcher.guru/news/brics-to-use-cryptocurrency-for-its-payment-system) ("..could be set to use cryptocurrency for its payment system, according to one Russian official")
 5. **Crypto Adoption**: Der neue [J.D. Vice](https://x.com/JDVance1) von Trump ist Pro Crypto und kennt sich gut aus: [Tweet mit Video (in dem er über Crypto spricht)](https://x.com/digitalassetbuy/status/1812969196781003088)
 6. **Crypto Adoption**: [Michael Dell (CEO von Dell Technologies) retweetet](https://x.com/MichaelDell/status/1812895900068442621) das Video mit dem BlackRock CEO der sich klar für Bitcoin ausspricht und seine Fehler in der Vergangenheit einsieht
-7. **Crypto Drama**: MTGox hat am Dienstag offenbar 44K BTC (bzw. 95K BTC siehe Tweet 2) von ihren 140K BTCs bewegt: [Tweet 1](https://x.com/lookonchain/status/1813103427863650726); [Tweet 2](https://x.com/BitcoinMagazine/status/1813128308747272580)
+7. **Crypto Drama**: MTGox hat am Dienstag offenbar 44K BTC (bzw. 95K BTC siehe Tweet 2) von ihren 140K BTCs bewegt: [Tweet 1](https://x.com/lookonchain/status/1813103427863650726); [Tweet 2](https://x.com/BitcoinMagazine/status/1813128308747272580); Kraken will sie in den nächsten 7-14 Tagen ausbezahlen: [Tweet](https://x.com/News_Of_Alpha/status/1813167748115292467)
 8. **Allg. News**: Scheinbar donated Elon Musk jeden Monat $45Mio and donald Trump (bzw. einem "super PAC backing Donald Trump's presidential run")
+9. **IOTA EVM**: [IOTAMPC tweetet](https://x.com/iotampc/status/1813113723126751344), dass die IOTA MPC Bridge geschlossen wird, weil es jetzt bessere Alternativen gibt
+10. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1811717142703706445) über das [BuildSphere #11 mit Coda](https://x.com/i/spaces/1rmxPoLjvVZJN)
+11. 
 
 
