@@ -11,6 +11,7 @@
 9. **IOTA EVM**: [IOTAMPC tweetet](https://x.com/iotampc/status/1813113723126751344), dass die IOTA MPC Bridge geschlossen wird, weil es jetzt bessere Alternativen gibt
 10. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1811717142703706445) über das [BuildSphere #11 mit Coda](https://x.com/i/spaces/1rmxPoLjvVZJN)
 11. **IOTA EVM**: [Gamma tweetet](https://x.com/GammaStrategies/status/1813156545380950119) dass ihr Automated Liquidity Management jetzt live ist auf der IOTA EVM und auf [app.wagmi.com]([https://linktr.ee/realwagmi](https://app.gamma.xyz/dashboard/wagmi/iotaevm)); [Phylo tweetet](https://x.com/PhyloIota/status/1813182699521421388) darüber, dass sie Gamma noch auf weiteren DEXes integrieren wollen; Auch [WAGMI tweetet](https://x.com/PopsicleFinance/status/1813183113159151670) darüber
-12. 
+12. **IOTA Adoption**: Jelle hat sich zu Eviden geäußert: [Tweet](https://x.com/Vrom14286662/status/1813180799308505342) "... They deal with massive companies..."
+13. **IOTA EVM**: Die [IF tweetet](https://x.com/iota/status/1813196897743487203) über ihren Blogpost: [Supra Oracles Launch on IOTA EVM - Boosting Data Integrity and Availability](https://blog.iota.org/supra-oracles-iota-evm/)
 
 
