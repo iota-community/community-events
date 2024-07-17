@@ -13,5 +13,9 @@
 11. **IOTA EVM**: [Gamma tweetet](https://x.com/GammaStrategies/status/1813156545380950119) dass ihr Automated Liquidity Management jetzt live ist auf der IOTA EVM und auf [app.wagmi.com]([https://linktr.ee/realwagmi](https://app.gamma.xyz/dashboard/wagmi/iotaevm)); [Phylo tweetet](https://x.com/PhyloIota/status/1813182699521421388) darüber, dass sie Gamma noch auf weiteren DEXes integrieren wollen; Auch [WAGMI tweetet](https://x.com/PopsicleFinance/status/1813183113159151670) darüber
 12. **IOTA Adoption**: Jelle hat sich zu Eviden geäußert: [Tweet](https://x.com/Vrom14286662/status/1813180799308505342) "... They deal with massive companies..."
 13. **IOTA EVM**: Die [IF tweetet](https://x.com/iota/status/1813196897743487203) über ihren Blogpost: [Supra Oracles Launch on IOTA EVM - Boosting Data Integrity and Availability](https://blog.iota.org/supra-oracles-iota-evm/)
+14. **IOTA EVM**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1813321103835631858), dass die SMR IOTA Farm live geht
+15. **IOTA Event**: [Bloom tweetet](https://x.com/bloomwalletio/status/1813227754521043151), dass [Charlie Varley](https://x.com/c_varley) auf einem Event in Brüssel war
+16. **IOTA EVM**: [Uncx tweetet](https://x.com/UNCX_token/status/1813221610251268182) "...We continue to deepen our integration with @iota, concentrating on enhancing the safety and security of DeFi offerings..."
+17. 
 
 
