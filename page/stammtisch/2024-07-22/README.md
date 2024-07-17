@@ -16,6 +16,9 @@
 14. **IOTA EVM**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1813321103835631858), dass die SMR IOTA Farm live geht
 15. **IOTA Event**: [Bloom tweetet](https://x.com/bloomwalletio/status/1813227754521043151), dass [Charlie Varley](https://x.com/c_varley) auf einem Event in Brüssel war
 16. **IOTA EVM**: [Uncx tweetet](https://x.com/UNCX_token/status/1813221610251268182) "...We continue to deepen our integration with @iota, concentrating on enhancing the safety and security of DeFi offerings..."
-17. 
+17. **IOTA EVM Ökosystem**: [WAGMI tweetet](https://x.com/PopsicleFinance/status/1813541508991143980), dass man ihren Token jetzt auf die IOTA EVM bridgen kann auf [app.wagmi.com/bridge](https://app.wagmi.com/bridge); [Dom hat das kommentiert](https://x.com/DomSchiener/status/1813545607484801446) und auch [Phylo retweetet](https://x.com/PhyloIota/status/1813542520808521777)
+18. **IOTA Adio**: Am 23. Juli gibt es ein [AMA mit Dom, Strnadl und Eveiden]](https://x.com/iota/status/1813227096333840586) über [Introducing Eviden Digital Passport Solution Powered By IOTA](https://blog.iota.org/eviden-digital-passport-iota/)
+19. **IOTA EVM Ökosystem**: Die [IOTA Heroes tweeten](https://x.com/IotaHeroes/status/1813526204462375134), dass sie bald live gehen auf der IOTA EVM
+20. 
 
 
