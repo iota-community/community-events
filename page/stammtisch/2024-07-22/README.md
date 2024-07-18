@@ -12,13 +12,22 @@
 10. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1811717142703706445) über das [BuildSphere #11 mit Coda](https://x.com/iota/status/1813211996810018962)
 11. **IOTA EVM**: [Gamma tweetet](https://x.com/GammaStrategies/status/1813156545380950119) dass ihr Automated Liquidity Management jetzt live ist auf der IOTA EVM und auf [app.wagmi.com]([https://linktr.ee/realwagmi](https://app.gamma.xyz/dashboard/wagmi/iotaevm)); [Phylo tweetet](https://x.com/PhyloIota/status/1813182699521421388) darüber, dass sie Gamma noch auf weiteren DEXes integrieren wollen; Auch [WAGMI tweetet](https://x.com/PopsicleFinance/status/1813183113159151670) darüber
 12. **IOTA Adoption**: Jelle hat sich zu Eviden geäußert: [Tweet](https://x.com/Vrom14286662/status/1813180799308505342) "... They deal with massive companies..."
-13. **IOTA EVM**: Die [IF tweetet](https://x.com/iota/status/1813196897743487203) über ihren Blogpost: [Supra Oracles Launch on IOTA EVM - Boosting Data Integrity and Availability](https://blog.iota.org/supra-oracles-iota-evm/)
+13. **IOTA EVM**: Die [IF tweetet](https://x.com/iota/status/1813196897743487203) über ihren Blogpost: [Supra Oracles Launch on IOTA EVM - Boosting Data Integrity and Availability](https://blog.iota.org/supra-oracles-iota-evm/); Auch [Supra (280K Follower) tweetet](https://x.com/SUPRA_Labs/status/1813247993128317255) darüber
 14. **IOTA EVM**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1813321103835631858), dass die SMR IOTA Farm live geht
 15. **IOTA Event**: [Bloom tweetet](https://x.com/bloomwalletio/status/1813227754521043151), dass [Charlie Varley](https://x.com/c_varley) auf einem Event in Brüssel war
-16. **IOTA EVM**: [Uncx tweetet](https://x.com/UNCX_token/status/1813221610251268182) "...We continue to deepen our integration with @iota, concentrating on enhancing the safety and security of DeFi offerings..."
+16. **IOTA EVM**: [UNCX tweetet](https://x.com/UNCX_token/status/1813221610251268182) "...We continue to deepen our integration with @iota, concentrating on enhancing the safety and security of DeFi offerings..."
 17. **IOTA EVM Ökosystem**: [WAGMI tweetet](https://x.com/PopsicleFinance/status/1813541508991143980), dass man ihren Token jetzt auf die IOTA EVM bridgen kann auf [app.wagmi.com/bridge](https://app.wagmi.com/bridge); [Dom hat das kommentiert](https://x.com/DomSchiener/status/1813545607484801446) und auch [Phylo retweetet](https://x.com/PhyloIota/status/1813542520808521777)
 18. **IOTA Adio**: Am 23. Juli gibt es ein [AMA mit Dom, Strnadl und Eveiden]](https://x.com/iota/status/1813227096333840586) über [Introducing Eviden Digital Passport Solution Powered By IOTA](https://blog.iota.org/eviden-digital-passport-iota/)
 19. **IOTA EVM Ökosystem**: Die [IOTA Heroes tweeten](https://x.com/IotaHeroes/status/1813526204462375134), dass sie bald live gehen auf der IOTA EVM
-20. 
+20. **IOTA Exchange**: [ChangeNOW tweetet](https://x.com/ChangeNOW_io/status/1813657471988244777) über den Blogpost: [What is IOTA? Exploring the Internet of Things Cryptocurrency and Its Potential](https://changenow.io/blog/what-is-iota-exploring-the-internet-of-things-cryptocurrency-and-its-potential); Man kann auf [changenow.io](https://changenow.io/buy?from=usd&to=iota&utm_content=what_is_iota_july_2024) auch IOTA kaufen
+21. **IOTA Gaming**: [Grumpy Squid tweetet](https://x.com/Grumpy__Squid/status/1813707314731610408) darüber, dass man ejtzt [Tentacle Trials auf der IOTAEVM](https://www.grumpysquid.com/TTink) spielen kann
+22. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1813596125611573720) über ihre Partnerschaft mit [AuditONE](https://x.com/auditone_dao)
+23. **Crypto Drama**: Indische Krypto Börse wurde gehaked und $240mio gedumpt: [Tweet](https://x.com/bitcoin2go/status/1813839356467253527)
+24. **Crypto Adoption**: Trump sagt er will den Kampf von Biden gegen Crypto beenden und die Zukunft von Bitcoin soll in Amerika gemacht werden: [Tweet](https://x.com/BTC_Archive/status/1813689094536618472)
+25. **Allg. News**: Die Spekulationen über den Anschlag auf Trump gehen weiter. Selbst [Joe Rogan spricht](https://x.com/TheChiefNerd/status/1813628723104739571) von sehr vielen eigenartigen Umständen; Und eine [Video Animation](https://x.com/ianbremmer/status/1813335366574940550) zeigt wie knapp der Schuss war
+26. **IOTA Governance**: Die [Tangle Treassury tweetet](https://x.com/TangleTreasury/status/1813865114568966555) darüber, dass sie 8,349,886 IOTA (currently worth ~$1.45 million) bekommen haben für das Jahr 2023/24; Nächste Woche kommt dazu ein Blogpost [schreibt Linus](https://x.com/LinusNaumann/status/1813866374290452523)
+27. **IOTA Ökosystem**: [GroupFi tweetet](https://x.com/groupfi_ai/status/1813837168357290364) über eine strategische Partnerschaft mit [RepoSwap](https://x.com/reposwap)
+28. **IOTA Audio**: AMA mit "[The new Elites](https://x.com/TheNewElites_)" organisiert von [AuditOne](https://x.com/auditone_dao): [Tweet](https://x.com/auditone_dao/status/1813891325948842177)
+29. 
 
 
