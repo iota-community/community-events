@@ -28,6 +28,6 @@
 26. **IOTA Governance**: Die [Tangle Treassury tweetet](https://x.com/TangleTreasury/status/1813865114568966555) darüber, dass sie 8,349,886 IOTA (currently worth ~$1.45 million) bekommen haben für das Jahr 2023/24; Nächste Woche kommt dazu ein Blogpost [schreibt Linus](https://x.com/LinusNaumann/status/1813866374290452523)
 27. **IOTA Ökosystem**: [GroupFi tweetet](https://x.com/groupfi_ai/status/1813837168357290364) über eine strategische Partnerschaft mit [RepoSwap](https://x.com/reposwap)
 28. **IOTA Audio**: AMA mit "[The new Elites](https://x.com/TheNewElites_)" organisiert von [AuditOne](https://x.com/auditone_dao): [Tweet](https://x.com/auditone_dao/status/1813891325948842177)
-29. 
+29. **IOTA Audio**: Am Mittwoch 27.7. gibt es ein [AMA zwischen NakamaLabs und dem Phyth Network(https://x.com/Nakama_Labs/status/1813923686140739743)
 
 
