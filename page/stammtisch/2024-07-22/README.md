@@ -33,5 +33,7 @@
 31. **IOTA Artikel**: [SliceBrand tweetet](https://x.com/slicedbrand/status/1813937769791508917) über den Artikel: [IOTA and Eviden launch digital product passport solution](https://crypto.news/iota-and-eviden-launch-digital-product-passport-solution/)
 32. **IOTA Patent**: [Salima macht einen Thread](https://x.com/Salimasbegum/status/1813980537654227283) über ein Partent: [IOTASDN: IOTA 2.0 Smart Contracts for Securing SDN Ecosystem](https://www.preprints.org/manuscript/202407.1200/v1); Im [Tweet von vrom](https://x.com/Vrom14286662/status/1814183554424709160) sieht man nur das "Abstact" und die "Conclusion" von dem Paper
 33. **IOTA EVM Ökosystem**: [PrismaProject on IOTA EVM tweetet](https://x.com/prsmproject/status/1813587145770377541) über ihren Fairlaunch auf [MagicSea](https://x.com/MagicSeaDEX) am 26.7.2024; Hier ist ihre Webseite: [prismproject.app](https://prismproject.app/) und das [Whitepaper](https://docs.prismproject.app/)
+34. **Crypto Adoption**: Trump will das Recht zu Self Custody von Bitcoin und Crypto unterstützen und Central Bank Digital Currency verhindern sagt er in diesem [Tweet](https://x.com/AltcoinDailyio/status/1814097757382328406)
+35. **Allg. Drama**: "Crowdstrike issue might be the largest IT outage in history": [Tweet](https://x.com/AdrianDittmann/status/1814217476936454466)
 
 
