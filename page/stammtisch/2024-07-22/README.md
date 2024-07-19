@@ -35,5 +35,6 @@
 33. **IOTA EVM Ökosystem**: [PrismaProject on IOTA EVM tweetet](https://x.com/prsmproject/status/1813587145770377541) über ihren Fairlaunch auf [MagicSea](https://x.com/MagicSeaDEX) am 26.7.2024; Hier ist ihre Webseite: [prismproject.app](https://prismproject.app/) und das [Whitepaper](https://docs.prismproject.app/)
 34. **Crypto Adoption**: Trump will das Recht zu Self Custody von Bitcoin und Crypto unterstützen und Central Bank Digital Currency verhindern sagt er in diesem [Tweet](https://x.com/AltcoinDailyio/status/1814097757382328406)
 35. **Allg. Drama**: "Crowdstrike issue might be the largest IT outage in history": [Tweet](https://x.com/AdrianDittmann/status/1814217476936454466)
+36. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1814253864159166719) über ein [BuildShpere AMA mit WAGMI](https://x.com/i/spaces/1zqKVYmWMmYxB/peek)
 
 
