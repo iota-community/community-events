@@ -40,6 +40,7 @@
 38. **Crypto Adoption**: Artikel: [Die ETH-Indexfonds kommen - CBOE bestätigt: Ethereum ETFs starten am Dienstag](https://www.btc-echo.de/schlagzeilen/cboe-bestaetigt-ethereum-etfs-starten-am-dienstag-188505/)
 39. **IOTA Audio**: [Dom Schiener tweetet](https://x.com/DomSchiener/status/1815274115613274536) über ein Interview das er gegeben hat: [Youtube Link](https://www.youtube.com/watch?v=tEgT0ycy-bs)
 40. **Crypto Adoption**: [Christoph Strnadl äußert sich](https://x.com/archimate/status/1815071256753967141) zu MICAR und wie er denkt, dass man IOTA einordnen muss: "kein crypto Asset nach Artikel 3(1)(5) MICAR".
-41. **IOTA EVM Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1815287499704438995) über die 3. Epoche vom Hypetrain, wo es insgesamt 85K LUM zu gewinnen gibt
+41. **IOTA Youtube**: von Whales of Wall Street: [IOTA | Why would the price go up if it's not used as gas fees? & Chart Update](https://www.youtube.com/watch?v=53a3dpRAozk)
+42. **IOTA EVM Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1815287499704438995) über die 3. Epoche vom Hypetrain, wo es insgesamt 85K LUM zu gewinnen gibt
 
 
