@@ -43,5 +43,6 @@
 41. **IOTA Youtube**: von Whales of Wall Street: [IOTA | Why would the price go up if it's not used as gas fees? & Chart Update](https://www.youtube.com/watch?v=53a3dpRAozk)
 42. **IOTA Wallet**: [Bivreost tweetet](https://x.com/bivreost/status/1815344151392821524) über die Zahlen von der letzten Woche (33K users, 18K new Wallets,...)
 43. **IOTA EVM Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1815287499704438995) über die 3. Epoche vom Hypetrain, wo es insgesamt 85K LUM zu gewinnen gibt
+44. **IOTA Jobs**: [TLIP tweetet](https://x.com/TLIP_io/status/1815376399798088085) über eine Stellenanzeige von der IOTA Foundation: [Senior Software Engineer (all genders)](https://iota-foundation.jobs.personio.com/job/1611455?display=en); Auch die [IF retweete](https://x.com/iota/status/1815378425659428953) das
 
 
