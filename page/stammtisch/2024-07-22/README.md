@@ -44,5 +44,7 @@
 42. **IOTA Wallet**: [Bivreost tweetet](https://x.com/bivreost/status/1815344151392821524) über die Zahlen von der letzten Woche (33K users, 18K new Wallets,...)
 43. **IOTA EVM Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1815287499704438995) über die 3. Epoche vom Hypetrain, wo es insgesamt 85K LUM zu gewinnen gibt
 44. **IOTA Jobs**: [TLIP tweetet](https://x.com/TLIP_io/status/1815376399798088085) über eine Stellenanzeige von der IOTA Foundation: [Senior Software Engineer (all genders)](https://iota-foundation.jobs.personio.com/job/1611455?display=en); Auch die [IF retweete](https://x.com/iota/status/1815378425659428953) das
+45. **IOTA EVM**: Phylo hat etwas über "better than Alchemie" und "..onboarding one of the biggest provider for such things (scheinbar geht es da um Account Abstraktion)" geschrieben: [Tweet](https://x.com/Vrom14286662/status/1815109765569360221)
+42. **Crypto Hype**: Michael Saylor verwendet die Laser Augen in Elon Musk Profilbild um Bitcoin Hype zu generieren: [Tweet](https://x.com/saylor/status/1815112378746597593)
 
 
