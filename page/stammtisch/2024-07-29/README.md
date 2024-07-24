@@ -20,3 +20,5 @@
 18. **Crypto Adoption**: Tesla hat keine Bitcoins verkauft und besitzt $640M in Bitcoin: [Tweet](https://x.com/BTC_Archive/status/1815850373032112156)
 19. **Crypto Adoption**: [Lightning Labs tweetet](https://x.com/lightning/status/1815768786752164213) über [Taproot Assets on Lightning: The Global Financial Interoperability Layer](https://lightning.engineering/posts/2024-07-23-taproot-assets-LN/)
 20. **IOTA Gaming**: Es gab ein Dev-Update von Saltmines: [Tweet](https://x.com/SaltminesRoy/status/1815781633628516442)
+21. **IOTA Adoption**: Das [Mission Project tweetet](https://x.com/ProjectMission/status/1816029485302501848) über IOTA ihren Partner. Mission ist EU gefördertes Projekt [missionproject.eu](https://missionproject.eu/)
+22. **IOTA Youtube**: [IOTA x @EvidenLive AMA: Eviden Deigital Passport Solution](https://www.youtube.com/watch?v=MWf1k8VSYPw)
