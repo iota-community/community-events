@@ -10,4 +10,13 @@
 8. **IOTA EVM Ökosystem**: [ApeBond tweetet](https://x.com/ApeBond/status/1815737437995295036) darüber, dass sie am 23.7. starten auf der IOTA EVM mit [ape.bond](https://ape.bond/) starten; Es gibt auch den Blogpost dazu: [ApeBond x IOTA EVM: A New Chapter Towards Sustainability](https://apebond.medium.com/apebond-x-iota-evm-a-new-chapter-towards-sustainability-52efaefdb0a2)
 9. **IOTA Video**: Hier die 8 wichtigen Minuten aus dem Dom Interview aus letzter Woche (da ging es über "RWA, ETF Tokenizationund IOTA's Zukunft): [Tweet](https://x.com/moonbaklava/status/1815443693861745006)
 10. **IOTA Audio**: Es gab ein [BuildShere #12 mit WAGMI](https://x.com/iota/status/1814253864159166719) auf X-Spaces
-11. 
+11. **IOTA Audio**: Es gab ein X-Spaces-Event mit [NakamaLabs](https://x.com/Nakama_Labs) und dem [PythNetwork](https://x.com/PythNetwork): [Tweet](https://x.com/Nakama_Labs/status/1813923686140739743)
+12. **IOTA Audio**: Es gab ein [X-Space-AMA über Eviden](https://x.com/iota/status/1815778229283664187), der wahrscheinich größten Partnerschaft der IF die es jemals gab. Auch [Dom Schiener](https://x.com/DomSchiener) und [Christoph Strnadl](https://x.com/archimate) waren in dem AMA
+13. **IOTA Audio**: [ApeBond tweetet](https://x.com/ApeBond/status/1815794010713108648) über ein [ApeBond Event](http://apebond.click/BwP-16) mit [Rusty Robots](https://x.com/RustyRobotCC), [FomoFox](https://x.com/FOMO_Fox) und [AuditOne](https://x.com/auditone_dao)
+14. **Allg. News**: Elon Musk seine Aussagen gegen die Demokraten werden immer Extremer (Ist das ohne Beweise nicht üble Nachrede?): [Tweet](https://x.com/elonmusk/status/1815929451256979636)
+15. **Crypto Drama**: Kraken hat ihre MT.Gox Bestände offenbar ausbezahlt: [Tweet](https://x.com/BitcoinNewsCom/status/1815886159907807586)
+16. **IOTA Drama**: CFB bekommt ordentlich Gegenwind in seinem Quibic Projekt: [Tweet](https://x.com/DesheShai/status/1815708997309149262)
+17. **Crypto Adoption**: Crypto.com hat das Bitcoin Logo auf dem Sphere in Las Vegas gezeigt: [Tweet](https://x.com/muneeb/status/1815767215624401379)
+18. **Crypto Adoption**: Tesla hat keine Bitcoins verkauft und besitzt $640M in Bitcoin: [Tweet](https://x.com/BTC_Archive/status/1815850373032112156)
+19. **Crypto Adoption**: [Lightning Labs tweetet](https://x.com/lightning/status/1815768786752164213) über [Taproot Assets on Lightning: The Global Financial Interoperability Layer](https://lightning.engineering/posts/2024-07-23-taproot-assets-LN/)
+20. **IOTA Gaming**: Es gab ein Dev-Update von Saltmines: [Tweet](https://x.com/SaltminesRoy/status/1815781633628516442)
