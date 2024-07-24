@@ -22,3 +22,4 @@
 20. **IOTA Gaming**: Es gab ein Dev-Update von Saltmines: [Tweet](https://x.com/SaltminesRoy/status/1815781633628516442)
 21. **IOTA Adoption**: Das [Mission Project tweetet](https://x.com/ProjectMission/status/1816029485302501848) über IOTA ihren Partner. Mission ist EU gefördertes Projekt [missionproject.eu](https://missionproject.eu/)
 22. **IOTA Youtube**: [IOTA x @EvidenLive AMA: Eviden Deigital Passport Solution](https://www.youtube.com/watch?v=MWf1k8VSYPw)
+23. **Fiat Drama**: Artikel: [Vermögensregister geplant - EU will umfassende Datenbank zum Vermögen aller Bürger aufbauen - was dahinter steckt]()
