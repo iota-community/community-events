@@ -27,3 +27,6 @@
 25. **Crypto Adoption**: Ferrari kann man jetzt scheinbar mit Bitcoin und Co in Europa kaufen: [Tweet](https://x.com/BTC_Archive/status/1816076213695262907); Artikel: [Ferrari to expand crypto payments for cars to Europe following US launch: Reuters](https://www.theblock.co/post/307173/ferrari-crypto-payments-europe)
 26. **IOTA Drama**: Gibt es bald keinen Maulkorb mehr? [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1816064173786222670)
 27. **Crypto Adoption**: In Russland wurde scheinbar ein Gesetz eingeführt, damit ausländischen Firmen in Crypto bezahlen können: [Tweet](https://x.com/WealthMastery_/status/1816099437397049826)
+28. **IOTA Ökosystem**: Die [TangleTreassury tweetet](https://x.com/TangleTreasury/status/1816416423255896193) über ihren Blogpost: [Funding Strategy 2024/25](https://medium.com/@tangletreasury_87751/funding-strategy-2024-25-1d99fdba4cba)
+29. **IOTA Ökosystem**: [Bivreost tweetet](https://x.com/bivreost/status/1816170514328539565) darüber, dass sie IOTA L1 L2 swaps eingeführt haben
+30. **IOTA Adoption**: Christoph Strnadl hat etwas auf LinkedIn gepostet: [Tweet](https://x.com/flomeindl/status/1816160150740181185)
