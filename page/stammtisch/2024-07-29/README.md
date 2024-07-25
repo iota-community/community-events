@@ -33,3 +33,5 @@
 31. **IOTA Accelarator**: Die [IF macht ein Thread](https://x.com/iota/status/1816458385547485415) über die 5 Finalisten und verlinkt ihren Blogpost: [Introducing the IOTA Tenity RWA Accelerator Finalists](https://blog.iota.org/iota-tenity-rwa-accelerator-finalists/)
 32. **IOTA Adoption**: [Mastermine tweetet](https://x.com/MastermineEU/status/1816412755131281604) über ihre Deliverables & Publications[](https://www.mastermine-project.eu/deliverables-publications) und verlinken das Paper: [Building Trust in Data for IoT Systems](https://static1.squarespace.com/static/63c945c1b8f27c4ca1808f3f/t/660d245178f3812bc56ab09c/1712137299190/2403.02225.pdf) mit IOTA inside
 33. **IOTA Stammtisch**: Nächsten Freitag ist IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/1816433338061664688)
+34. **IOTA Ökosystem**: [GroupFi tweetet](https://x.com/groupfi_ai/status/1816467154000044124) über [Degenerator.WTF](https://x.com/degenerator_wtf) die auf ihrer Seite [degenerator.wtf](http://degenerator.wtf/) den GroupFI Chat einbinden wollen
+35. **Crypto Crash**: Am Donnerstag crashed ETH um fast 10% 
