@@ -12,7 +12,7 @@
 10. **IOTA Audio**: Es gab ein [BuildShere #12 mit WAGMI](https://x.com/iota/status/1814253864159166719) auf X-Spaces
 11. **IOTA Audio**: Es gab ein X-Spaces-Event mit [NakamaLabs](https://x.com/Nakama_Labs) und dem [PythNetwork](https://x.com/PythNetwork): [Tweet](https://x.com/Nakama_Labs/status/1813923686140739743)
 12. **IOTA Audio**: Es gab ein [X-Space-AMA über Eviden](https://x.com/iota/status/1815778229283664187), der wahrscheinich größten Partnerschaft der IF die es jemals gab. Auch [Dom Schiener](https://x.com/DomSchiener) und [Christoph Strnadl](https://x.com/archimate) waren in dem AMA
-13. **IOTA Audio**: [ApeBond tweetet](https://x.com/ApeBond/status/1815794010713108648) über ein [ApeBond Event](http://apebond.click/BwP-16) mit [Rusty Robots](https://x.com/RustyRobotCC), [FomoFox](https://x.com/FOMO_Fox) und [AuditOne](https://x.com/auditone_dao)
+13. **IOTA Audio**: [ApeBond tweetet](https://x.com/ApeBond/status/1815794010713108648) über ein [ApeBond Event](http://apebond.click/BwP-16) mit [Rusty Robots](https://x.com/RustyRobotCC), [FomoFox](https://x.com/FOMO_Fox) und [AuditOne](https://x.com/auditone_dao); Hier noch ein [Tweet von RRCC](https://x.com/RustyRobotCC/status/1816835036177486279) dazu
 14. **Allg. News**: Elon Musk seine Aussagen gegen die Demokraten werden immer Extremer (Ist das ohne Beweise nicht üble Nachrede?): [Tweet](https://x.com/elonmusk/status/1815929451256979636)
 15. **Crypto Drama**: Kraken hat ihre MT.Gox Bestände offenbar ausbezahlt: [Tweet](https://x.com/BitcoinNewsCom/status/1815886159907807586)
 16. **IOTA Drama**: CFB bekommt ordentlich Gegenwind in seinem Quibic Projekt: [Tweet](https://x.com/DesheShai/status/1815708997309149262)
@@ -29,7 +29,7 @@
 27. **Crypto Adoption**: In Russland wurde scheinbar ein Gesetz eingeführt, damit ausländischen Firmen in Crypto bezahlen können: [Tweet](https://x.com/WealthMastery_/status/1816099437397049826)
 28. **IOTA Ökosystem**: Die [TangleTreassury tweetet](https://x.com/TangleTreasury/status/1816416423255896193) über ihren Blogpost: [Funding Strategy 2024/25](https://medium.com/@tangletreasury_87751/funding-strategy-2024-25-1d99fdba4cba)
 29. **IOTA Ökosystem**: [Bivreost tweetet](https://x.com/bivreost/status/1816170514328539565) darüber, dass sie IOTA L1 L2 swaps eingeführt haben
-30. **IOTA Adoption**: Christoph Strnadl hat etwas auf LinkedIn gepostet: [Tweet](https://x.com/flomeindl/status/1816160150740181185)
+30. **IOTA Adoption**: Christoph Strnadl hat etwas auf LinkedIn gepostet: [Tweet](https://x.com/flomeindl/status/1816160150740181185); Einen [Tweet mit dem Inhalt aus LinkedIn] hat er dann noch [kommentiert](https://x.com/archimate/status/1816502381217005682)
 31. **IOTA Accelarator**: Die [IF macht ein Thread](https://x.com/iota/status/1816458385547485415) über die 5 Finalisten von dem "IOTA Tenity RWA Accelerator" und verlinkt ihren Blogpost: [Introducing the IOTA Tenity RWA Accelerator Finalists](https://blog.iota.org/iota-tenity-rwa-accelerator-finalists/)
 32. **IOTA Adoption**: [Mastermine tweetet](https://x.com/MastermineEU/status/1816412755131281604) über ihre Deliverables & Publications[](https://www.mastermine-project.eu/deliverables-publications) und verlinken das Paper: [Building Trust in Data for IoT Systems](https://static1.squarespace.com/static/63c945c1b8f27c4ca1808f3f/t/660d245178f3812bc56ab09c/1712137299190/2403.02225.pdf) mit IOTA inside
 33. **IOTA Stammtisch**: Nächsten Freitag ist IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/1816433338061664688)
@@ -40,4 +40,8 @@
 39. **Crypto Adoption**: Eine Stadt in USA (Jersey City) kauft Bitcoin für ihren Pensionfund: [Tweet](https://x.com/RadarHits/status/1816536762493051110)
 40. **Crypto Adoption**: Auf der Bitcoin Conferenz sagt JK, dass er ein großer Verfechter von Bitcoin ist und fast all sein Geld in Bitcoin hat: [Tweet](https://x.com/MarioNawfal/status/1816693998402035726)
 41. **Crypto Drama**: Auf X ist das Bitcoin Symbol hinter dem Hashtag Bitcoin verschwunden: [Tweet](https://x.com/WatcherGuru/status/1816683558716555285)
-42. **IOTA EVM Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1816495353492869482), dass einige Liquidity Book Farms live gehen am Freitag 26.7. 
+42. **IOTA EVM Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1816495353492869482), dass einige Liquidity Book Farms live gehen am Freitag 26.7.; Hier noch ein [Tweet](https://x.com/MagicSeaDEX/status/1816809790166753530), dass sie jetzt live sind
+43. **IOTA Gaming**: Das [Shi Universe tweetet](https://x.com/Shiuniverse/status/1816787480848355561), dass sie vorbereiten die Shi Weas auf den IOTA L2 zu schicken
+44. **IOTA Defi**: [Cyberperpio tweetet](https://x.com/cyberperp/status/1816811694552756624), dass sie die erste perpetual trading DEX auf der IOTA EVM am 31.7. starten wollen
+45. **Fiat Drama**: [Elon Musk tweetet](https://x.com/elonmusk/status/1816814086149005495), dass Amerika Pleite geht, weil scheinbar aktuell 76% aller Steuern verwenden um Schulden zu bezahlen
+46. 
