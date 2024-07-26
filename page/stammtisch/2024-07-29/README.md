@@ -30,8 +30,14 @@
 28. **IOTA Ökosystem**: Die [TangleTreassury tweetet](https://x.com/TangleTreasury/status/1816416423255896193) über ihren Blogpost: [Funding Strategy 2024/25](https://medium.com/@tangletreasury_87751/funding-strategy-2024-25-1d99fdba4cba)
 29. **IOTA Ökosystem**: [Bivreost tweetet](https://x.com/bivreost/status/1816170514328539565) darüber, dass sie IOTA L1 L2 swaps eingeführt haben
 30. **IOTA Adoption**: Christoph Strnadl hat etwas auf LinkedIn gepostet: [Tweet](https://x.com/flomeindl/status/1816160150740181185)
-31. **IOTA Accelarator**: Die [IF macht ein Thread](https://x.com/iota/status/1816458385547485415) über die 5 Finalisten und verlinkt ihren Blogpost: [Introducing the IOTA Tenity RWA Accelerator Finalists](https://blog.iota.org/iota-tenity-rwa-accelerator-finalists/)
+31. **IOTA Accelarator**: Die [IF macht ein Thread](https://x.com/iota/status/1816458385547485415) über die 5 Finalisten von dem "IOTA Tenity RWA Accelerator" und verlinkt ihren Blogpost: [Introducing the IOTA Tenity RWA Accelerator Finalists](https://blog.iota.org/iota-tenity-rwa-accelerator-finalists/)
 32. **IOTA Adoption**: [Mastermine tweetet](https://x.com/MastermineEU/status/1816412755131281604) über ihre Deliverables & Publications[](https://www.mastermine-project.eu/deliverables-publications) und verlinken das Paper: [Building Trust in Data for IoT Systems](https://static1.squarespace.com/static/63c945c1b8f27c4ca1808f3f/t/660d245178f3812bc56ab09c/1712137299190/2403.02225.pdf) mit IOTA inside
 33. **IOTA Stammtisch**: Nächsten Freitag ist IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/1816433338061664688)
 34. **IOTA Ökosystem**: [GroupFi tweetet](https://x.com/groupfi_ai/status/1816467154000044124) über [Degenerator.WTF](https://x.com/degenerator_wtf) die auf ihrer Seite [degenerator.wtf](http://degenerator.wtf/) den GroupFI Chat einbinden wollen
-35. **Crypto Crash**: Am Donnerstag crashed ETH um fast 10% 
+35. **Crypto Crash**: Am Donnerstag crashed ETH um fast 10%
+36. **IOTA Ökosystem**: [ApeBond tweetet](https://x.com/ApeBond/status/1816486207347380525), dass sie live sind auf der IOTA EVM: [ape.bond](https://ape.bond/)
+38. **IOTA EVM Ökosystem**: [TokenLabs.network tweetet](https://x.com/TokenLabsX/status/1816772227083186600), dass sie das [Bloomwallet](https://x.com/bloomwalletio) via [Rainbowdotme](https://x.com/rainbowdotme) integriert haben
+39. **Crypto Adoption**: Eine Stadt in USA (Jersey City) kauft Bitcoin für ihren Pensionfund: [Tweet](https://x.com/RadarHits/status/1816536762493051110)
+40. **Crypto Adoption**: Auf der Bitcoin Conferenz sagt JK, dass er ein großer Verfechter von Bitcoin ist und fast all sein Geld in Bitcoin hat: [Tweet](https://x.com/MarioNawfal/status/1816693998402035726)
+41. **Crypto Drama**: Auf X ist das Bitcoin Symbol hinter dem Hashtag Bitcoin verschwunden: [Tweet](https://x.com/WatcherGuru/status/1816683558716555285)
+42. **IOTA EVM Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1816495353492869482), dass einige Liquidity Book Farms live gehen am Freitag 26.7. 
