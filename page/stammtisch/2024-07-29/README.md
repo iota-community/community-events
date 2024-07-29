@@ -1,6 +1,6 @@
 ## IOTA Stammtischthemen für Montag, den 29.7.2024
 
-1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1815315252206018973) über die [IOTA Quicktakes 15.07.24: Eviden Digital Passport Solution, Goldsky IOTA EVM Integration, Vote & ...](https://x.com/iota/status/1815315252206018973)
+1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1815315252206018973) über die [IOTA Quicktakes 15.07.24: Eviden Digital Passport Solution, Goldsky IOTA EVM Integration, Vote & more](https://x.com/iota/status/1815315252206018973)
 2. **IOTA EVM Ökosystem**: [Accumulator tweetet](https://x.com/ACCU_DeFi/status/1815373040860930311), dass sie nach dem Audit alle Farms von MagicSea auch auf [accumulator.finance](https://www.accumulator.finance/) anbieten werden
 3. **IOTA EVM Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1815630315878068225) über die IOTA EVM  als "fastest and cheapest EVM we ever used" und verinken alle Bridges die es aktuell bereits gibt: [app.magicsea.finance/magic-bridge](https://app.magicsea.finance/magic-bridge); [rustyrobot.io/de/bridge](https://www.rustyrobot.io/de/bridge) und [stargate.finance/bridge](https://stargate.finance/bridge)
 4. **Allg. News**: Die Chefin vom Secret Service wird mehr als 3h im Congress befragt und beantwortet nahezu keine Fragen: [Tweet 1](https://x.com/Motabhai012/status/1815452774047297638); [Tweet 2](https://x.com/MJTruthUltra/status/1815449408840102061); [Tweet 3](https://x.com/phi_ci/status/1815429265531248787)
