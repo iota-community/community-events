@@ -5,3 +5,5 @@
 3. **IOTA Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1818194008138502211) über ihren Blogpost: [Magic LUM Staking Pool and Booster Update for MagicSea DEX](https://x.com/MagicSeaDEX/status/1818192234254135438)
 4. **IOTA Artikel**: [web3Alert schreibt](https://x.com/theweb3alert/status/1818141148168556831) über die 2 Projekte (IOTA und CHEQD) die "EBSI's EU Pre Commercial DLT trials Phase 2B" erfolgreich abgeschlossen haben und jetzt weiter mit der EU zusammen arbeiten
 5. **IOTA NFT Ökosystem**: [Epoch Zero tweetet](https://x.com/Epoch_0/status/1818119673289773231) über ihren Artikel: [Soonaverse NFT Migration](https://medium.com/@EpochZer0/soonaverse-nft-migration-29080159cd6e)
+6. **IOTA Ökosystem**: [TokenLabs.network retweetet](https://x.com/TokenLabsX/status/1818248488271978754), dass sie von [AuditOne](https://x.com/auditone_dao) auditiert wurden
+7. **Crypto Drama**: Verkaufen die USA jetzt ihre 300K BTC im Wert von $2 Milliarden? Diese wurden zumindest in Richtung Coinbase gesendet: [Tweet](https://x.com/blocktrainer/status/1817964547246014933)
