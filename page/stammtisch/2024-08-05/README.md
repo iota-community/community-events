@@ -8,3 +8,5 @@
 6. **IOTA Ökosystem**: [TokenLabs.network retweetet](https://x.com/TokenLabsX/status/1818248488271978754), dass sie von [AuditOne](https://x.com/auditone_dao) auditiert wurden
 7. **Crypto Drama**: Verkaufen die USA jetzt ihre 300K BTC im Wert von $2 Milliarden? Diese wurden zumindest in Richtung Coinbase gesendet: [Tweet](https://x.com/blocktrainer/status/1817964547246014933)
 8. **Crypto Drama**: SEC Klage gegen Binance wird aufgehoben. Danach wären $SOL, $ADA, $MATIC, $FIL, $ATOM, $SAND, $MANA, $ALGO, $AXS and $COTI nicht läner als Wertpapiere (Securities) gewertet: [Tweet](https://x.com/MissCryptoGER/status/1818266833754968494)
+9. **IOTA Ökosystem**: Das [Shi Universe tweetet](https://x.com/Shiuniverse/status/1818528258440229199) darüber, dass sie auditiert wurden von [AuditOne](https://x.com/auditone_dao) und sie ihre NFTs bald migrieren auf die IOTA EVM
+10. 
