@@ -22,3 +22,5 @@
 20. **IOTA Audio**: Am Freitag war eine [Liquidity Book Farming Session mit Dr. Tangle](https://x.com/MagicSeaDEX/status/1818647804920668292) im [MagicSea](https://x.com/MagicSeaDEX) Discord
 21. **Allg. News**: Der Hamas Führer wurde bei einem Besuch im Iran von den Israelis getötet indem sie ihn über ein whatsApp Bot gefunden haben: [Tweet](https://x.com/ShaykhSulaiman/status/1818786492514246679); Eine Eskalation der Gewalt wird wohl die Folge sein...
 22. **IOTA Ökosystem**: [Tokeny tweetet](https://x.com/TokenySolutions/status/1818943459262149060) über ihren Blogpost: [Transaction Privacy: The Last Blocker for Massive Open Finance Adoption](https://tokeny.com/transaction-privacy-the-last-blocker-for-massive-open-finance-adoption/?utm_content=302528051&utm_medium=social&utm_source=twitter&hss_channel=tw-908124503913517056)
+23. **Shimmer Pump**: Shimmer steigt um 100% in 24h. Scheinbar weil es Gerüchte zum Binance Listing gibt: [Tweet](https://x.com/1000xAnon/status/1818966093605568832)
+24. **Real World Drama**: Transfrau gewinnt beim Frauen Boxen: [Tweet](https://x.com/ben_brechtken/status/1818960921202499910)
