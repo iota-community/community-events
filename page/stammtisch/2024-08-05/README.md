@@ -40,3 +40,4 @@
 38. **IOTA EVM**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1820181144714801399) über ihren Hypetrain Episode 3 die jetzt startet
 39. **Crypto Drama**: Am Sontag fällt Bitcoin auf unter $58K und [Peter Schiff tweetet](https://x.com/PeterSchiff/status/1820152935940300973) natürlich gleich davon
 40. **Allg. News**: Man könnte mal über Olympia reden, das gerade läuft
+41. **IOTA EVM Adoption**: [Chips tweetet](https://x.com/CHIPS_OOO/status/1820193056030859418), dass ihre L2 IOTA EVM auf Chainlist registriert ist ist. 
