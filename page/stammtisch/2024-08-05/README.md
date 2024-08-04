@@ -25,4 +25,18 @@
 23. **Shimmer Pump**: Shimmer steigt um 100% in 24h. Scheinbar weil es Gerüchte zum Binance Listing gibt: [Tweet](https://x.com/1000xAnon/status/1818966093605568832); Auch alle Coins auf der Shimmer EVM geben ähnlich Gas: [Tweet](https://x.com/1000xAnon/status/1818969956790243626)
 24. **Real World Drama**: Transfrau gewinnt beim Frauen Boxen: [Tweet mit Video](https://x.com/ainyrockstar/status/1818963824281542776); [Tweet 2 mit Video](https://x.com/EndWokeness/status/1818986846870777878); [Tweet 3](https://x.com/ben_brechtken/status/1818960921202499910)
 25. **Crypto Adoption**: Artikel: [Donald Trump verkauft Bitcoin-Schuhe](https://www.blocktrainer.de/blog/donald-trump-verkauft-bitcoin-schuhe)
-26. **IOTA EVM Adoption**: Die [IF macht ein Thread](https://x.com/iota/status/1818995102750056858) über [Community Funds EVM Growth - 172M IOTA for Ecosystem Liquidity](https://blog.iota.org/community-funds-evm-growth/); [Dom retweetet](https://x.com/DomSchiener/status/1819000648764940366) das mit "We are getting ready for for IOTA GROWTH"
+26. **Crypto Adoption**: In den USA wurde ein Gesetz um Bitcoin als strategische Währung einzuführen eingereicht: [Tweet](https://x.com/BTC_Archive/status/1819811613756580326)
+27. **IOTA NFT Ökosystem**: Das [Shi Universe tweetet](https://x.com/Shiuniverse/status/1819093454183596206), dass die Shi Weas jetzt auf der IOTA EVM sind
+28. **IOTA EVM Adoption**: Die [IF macht ein Thread](https://x.com/iota/status/1818995102750056858) über [Community Funds EVM Growth - 172M IOTA for Ecosystem Liquidity](https://blog.iota.org/community-funds-evm-growth/); [Dom retweetet](https://x.com/DomSchiener/status/1819000648764940366) das mit "We are getting ready for for IOTA GROWTH"
+29. **Crypto Adoption**: Microstrategie hat wieder Bitcoin gekauft: [Tweet](https://x.com/BTC_Archive/status/1819103810981339546)
+30. **IOTA EVM 
+31. **IOTA EVM Ökosystem**: [coda tweetet](https://x.com/coda_digital/status/1820036962926961048) über [coda.to/exchange](https://www.coda.to/exchange), der ersten RWA Exchange die auf der IOTA EVM basiert
+32. **IOTA Gaming**: [AuditOne tweetet](https://x.com/auditone_dao/status/1819325729202409899), dass sie die Smart Contracts vom [Shi Universe](https://twitter.com/Shiuniverse) geauditet haben; Hier der [Report](https://www.auditone.io/audit-report/shiuniverse-audit)
+33. **Crypto Adoption**: Trump will Bitcoin embracen (umarmen) und US-Schulden mit Bitcoin bezahlen: [Tweet](https://x.com/corybates1895/status/1819539189219938757)
+34. **IF Intern**: [Jonas Theis tweetet](https://x.com/jonastheis_/status/1818953431643799833) darüber, dass er jetzt für [Scroll ZKP](https://twitter.com/Scroll_ZKP)
+35. **IOTA Stammtisch**: Am 28.9. ist IOTA Stammtisch in Köln: [Tweet](https://x.com/sciascma/status/1819708759515463772)
+36. **Crypto Adoption**: [Christoph Strnadl tweetet](https://x.com/archimate/status/1820028076400537826) einige Aussagen zu ISO20022
+37. **Crypto Adoption**: [TLIP retweetet](https://x.com/TLIP_io/status/1819686163533254871) den [Tweet von der World Customs Organisation](https://twitter.com/WCO_OMD/status/1819028715906515135) und freut sich, dass Blockchain eine große Rolle spielen im Bericht ["WCO Smart Customs Project releases results of the global survey on disruptive technologies"](https://www.wcoomd.org/en/media/newsroom/2024/july/wco-smart-customs-project-releases-results-of-the-global-survey-on-disruptive-technologies.aspx) 
+38. **IOTA EVM**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1820181144714801399) über ihren Hypetrain Episode 3 die jetzt startet
+39. **Crypto Drama**: Am Sontag fällt Bitcoin auf unter $58K und [Peter Schiff tweetet](https://x.com/PeterSchiff/status/1820152935940300973) natürlich gleich davon
+40. **Allg. News**: Man könnte mal über Olympia reden, das gerade läuft
