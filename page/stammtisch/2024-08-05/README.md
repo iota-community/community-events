@@ -28,16 +28,20 @@
 26. **Crypto Adoption**: In den USA wurde ein Gesetz um Bitcoin als strategische Währung einzuführen eingereicht: [Tweet](https://x.com/BTC_Archive/status/1819811613756580326)
 27. **IOTA NFT Ökosystem**: Das [Shi Universe tweetet](https://x.com/Shiuniverse/status/1819093454183596206), dass die Shi Weas jetzt auf der IOTA EVM sind
 28. **IOTA EVM Adoption**: Die [IF macht ein Thread](https://x.com/iota/status/1818995102750056858) über [Community Funds EVM Growth - 172M IOTA for Ecosystem Liquidity](https://blog.iota.org/community-funds-evm-growth/); [Dom retweetet](https://x.com/DomSchiener/status/1819000648764940366) das mit "We are getting ready for for IOTA GROWTH"
-29. **Crypto Adoption**: Microstrategie hat wieder Bitcoin gekauft: [Tweet](https://x.com/BTC_Archive/status/1819103810981339546)
-30. **IOTA EVM 
-31. **IOTA EVM Ökosystem**: [coda tweetet](https://x.com/coda_digital/status/1820036962926961048) über [coda.to/exchange](https://www.coda.to/exchange), der ersten RWA Exchange die auf der IOTA EVM basiert
-32. **IOTA Gaming**: [AuditOne tweetet](https://x.com/auditone_dao/status/1819325729202409899), dass sie die Smart Contracts vom [Shi Universe](https://twitter.com/Shiuniverse) geauditet haben; Hier der [Report](https://www.auditone.io/audit-report/shiuniverse-audit)
-33. **Crypto Adoption**: Trump will Bitcoin embracen (umarmen) und US-Schulden mit Bitcoin bezahlen: [Tweet](https://x.com/corybates1895/status/1819539189219938757)
-34. **IF Intern**: [Jonas Theis tweetet](https://x.com/jonastheis_/status/1818953431643799833) darüber, dass er jetzt für [Scroll ZKP](https://twitter.com/Scroll_ZKP)
-35. **IOTA Stammtisch**: Am 28.9. ist IOTA Stammtisch in Köln: [Tweet](https://x.com/sciascma/status/1819708759515463772)
-36. **Crypto Adoption**: [Christoph Strnadl tweetet](https://x.com/archimate/status/1820028076400537826) einige Aussagen zu ISO20022
-37. **Crypto Adoption**: [TLIP retweetet](https://x.com/TLIP_io/status/1819686163533254871) den [Tweet von der World Customs Organisation](https://twitter.com/WCO_OMD/status/1819028715906515135) und freut sich, dass Blockchain eine große Rolle spielen im Bericht ["WCO Smart Customs Project releases results of the global survey on disruptive technologies"](https://www.wcoomd.org/en/media/newsroom/2024/july/wco-smart-customs-project-releases-results-of-the-global-survey-on-disruptive-technologies.aspx) 
-38. **IOTA EVM**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1820181144714801399) über ihren Hypetrain Episode 3 die jetzt startet
-39. **Crypto Drama**: Am Sontag fällt Bitcoin auf unter $58K und [Peter Schiff tweetet](https://x.com/PeterSchiff/status/1820152935940300973) natürlich gleich davon
-40. **Allg. News**: Man könnte mal über Olympia reden, das gerade läuft
-41. **IOTA EVM Adoption**: [Chips tweetet](https://x.com/CHIPS_OOO/status/1820193056030859418), dass ihre L2 IOTA EVM auf Chainlist registriert ist ist. 
+29. **Crypto Adoption**: Microstrategie hat wieder Bitcoin gekauft: [Tweet mit Fotos](https://x.com/BTC_Archive/status/1819103810981339546)
+30. **IOTA Stammtisch**: Es war ein IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/1819711003791130859)
+31. **IOTA Stammtisch**: Es war ein IOTA Stammtisch in Hamburg: [Tweet](https://x.com/FOMO_Fox/status/1819674587023528353)
+32. **IOTA EVM Ökosystem**: [coda tweetet](https://x.com/coda_digital/status/1820036962926961048) über [coda.to/exchange](https://www.coda.to/exchange), der ersten RWA Exchange die auf der IOTA EVM basiert; Auch die [IF retweetet](https://x.com/iota/status/1820350247668715785) das
+33. **IOTA Gaming**: [AuditOne tweetet](https://x.com/auditone_dao/status/1819325729202409899), dass sie die Smart Contracts vom [Shi Universe](https://twitter.com/Shiuniverse) geauditet haben; Hier der [Report](https://www.auditone.io/audit-report/shiuniverse-audit)
+34. **Crypto Adoption**: Trump will Bitcoin embracen (umarmen) und US-Schulden mit Bitcoin bezahlen: [Tweet](https://x.com/corybates1895/status/1819539189219938757)
+35. **IF Intern**: [Jonas Theis tweetet](https://x.com/jonastheis_/status/1818953431643799833) darüber, dass er jetzt für [Scroll ZKP](https://twitter.com/Scroll_ZKP)
+36. **IOTA Stammtisch**: Am 28.9. ist IOTA Stammtisch in Köln: [Tweet](https://x.com/sciascma/status/1819708759515463772)
+37. **Crypto Adoption**: [Christoph Strnadl tweetet](https://x.com/archimate/status/1820028076400537826) einige Aussagen zu ISO20022
+38. **Crypto Adoption**: [TLIP retweetet](https://x.com/TLIP_io/status/1819686163533254871) den [Tweet von der World Customs Organisation](https://twitter.com/WCO_OMD/status/1819028715906515135) und freut sich, dass Blockchain eine große Rolle spielen im Bericht ["WCO Smart Customs Project releases results of the global survey on disruptive technologies"](https://www.wcoomd.org/en/media/newsroom/2024/july/wco-smart-customs-project-releases-results-of-the-global-survey-on-disruptive-technologies.aspx) 
+39. **IOTA EVM Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1820181144714801399) über ihren Hypetrain Episode 3 die jetzt startet
+40. **Crypto Drama**: Am Sontag fällt Bitcoin auf unter $58K und [Peter Schiff tweetet](https://x.com/PeterSchiff/status/1820152935940300973) natürlich gleich davon
+41. **Allg. News**: Man könnte mal über Olympia reden, das gerade läuft
+42. **IOTA EVM Adoption**: [Chips tweetet](https://x.com/CHIPS_OOO/status/1820193056030859418), dass ihre L2 IOTA EVM auf Chainlist registriert ist. Die wollen scheinbar Poker onchain bringen
+43. **Stock Crash**: Nachem der Nikkei Index am Sonntag stärker fällt als beim Black Friday ([Tweet](https://x.com/KobeissiLetter/status/1820281834300699060)) crashen die Märkte und viele Tech Aktien fallen um 10% in kurzer Zeit: [Tweet](https://x.com/WatcherGuru/status/1820355633008296324)
+44. **Crypto Crash**: Von Sonntag auf Montag fällt BTC um 17% auf unter $50K: [Tweet](https://x.com/BitcoinMagazine/status/1820345902059430204); ETh fällt sogar um 25% in 24h; Fun Fact: Jetzt hat Deutschland auf einmal wieder alles richtig gemacht weil sie ihre BTCs verkauft haben... [Tweet](https://x.com/IvanOnTech/status/1820345821398733023)
+45. **IOTA NFT Gaming**: [The New Elites](https://x.com/TheNewElites_/status/1820320215982624861) tweeten über ihr NFT Design; Auch die [IF retweetet](https://x.com/iota/status/1820349195447898284) das
