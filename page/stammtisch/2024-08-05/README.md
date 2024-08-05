@@ -38,7 +38,7 @@
 36. **IOTA Stammtisch**: Am 28.9. ist ein IOTA Stammtisch in Köln: [Tweet](https://x.com/sciascma/status/1819708759515463772)
 37. **Crypto Adoption**: [Christoph Strnadl tweetet](https://x.com/archimate/status/1820028076400537826) einige Aussagen zu ISO 20022
 38. **Crypto Adoption**: [TLIP retweetet](https://x.com/TLIP_io/status/1819686163533254871) den [Tweet von der World Customs Organisation](https://twitter.com/WCO_OMD/status/1819028715906515135) und freut sich, dass Blockchain darin eine große Rolle spielt im Bericht: ["WCO Smart Customs Project releases results of the global survey on disruptive technologies"](https://www.wcoomd.org/en/media/newsroom/2024/july/wco-smart-customs-project-releases-results-of-the-global-survey-on-disruptive-technologies.aspx) 
-39. **IOTA EVM Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1820181144714801399) über ihren Hypetrain Episode 3 der endet und noch ein [Tweet]() über den Hypetrain Episode 4, der jetzt startet
+39. **IOTA EVM Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1820181144714801399) über ihren Hypetrain Episode 3 der endet
 40. **Crypto Drama**: Am Sontag fällt Bitcoin auf unter $58K und [Peter Schiff tweetet](https://x.com/PeterSchiff/status/1820152935940300973) natürlich gleich davon
 41. **Allg. News**: Man könnte mal über Olympia reden, das gerade läuft...
 42. **IOTA EVM Adoption**: [Chips tweetet](https://x.com/CHIPS_OOO/status/1820193056030859418), dass ihre L2 IOTA EVM auf Chainlist registriert ist. Die wollen scheinbar Poker onchain bringen
