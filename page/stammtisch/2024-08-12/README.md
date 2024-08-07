@@ -13,3 +13,4 @@
 11. **IOTA Adoption**: [Wallet Connect (60K follower) tweetet](https://x.com/WalletConnect/status/1820951447787417882) über das [Bloom Wallet](https://x.com/bloomwalletio) und darüber, dass es der einfachste Weg in das IOTA und Shimmer Ökosystem ist
 12. **Crypto Adoption**: Artikel: [Semler Scientific: Aktiengesellschaft kauft Bitcoin nach](https://www.blocktrainer.de/blog/semler-scientific-aktiengesellschaft-kauft-bitcoin-nach)
 13. **IOTA Adoption**: Die [IF macht ein Thread](https://x.com/iota/status/1821169462474657871) über den Blogpost: [Digital Product Passports for Electronics - Enhancing Recycling with IOTA Technology](https://blog.iota.org/dpp-for-electronics-iota/)
+14. **Crypto Adoption**: Die [IF retweetet](https://x.com/iota/status/1821178653155242079) den [Tweet von Blockscout](https://x.com/blockscoutcom/status/1821172993831383262), die $3Mio funding klar gemacht haben. Auch [Phylo retweetet](https://x.com/PhyloIota/status/1821176452043481504)
