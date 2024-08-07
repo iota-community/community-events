@@ -7,3 +7,5 @@
 5. **IOTA Adoption**: Es gab ein [Thread von der IF](https://x.com/iota/status/1820776845010141404) über den Blogpost: [Compliance Matters - Regulatory Affairs - IOTA is Now a Shari’a-Compliant Token](https://blog.iota.org/sharia-compliance-iota/)
 6. **IOTA Drama**: "Sharia Complient" wurde in der FUD Community natürlich wieder negativ ausgelegt... Eine [Aussage im Discord von Pathin](https://x.com/Vrom14286662/status/1821047292255670646) beendet das Thema hoffentlich
 7. **Crypto Adoption**: Die beiden Trump Kinder hypen Crypto / DeFi: [Tweet von Donald Trump Jr.](https://x.com/DonaldJTrumpJr/status/1820916519682912533) "Big things coming. This is the future!!!"; [Tweet von Eric Trump](https://x.com/EricTrump/status/1820906993802211751) "Stay tuned for a big announcement…"
+8. **IOTA Audio**: Es gab ein [BuildShpere #14 AMA mit MagicSea](https://x.com/MagicSeaDEX/status/1820887321023279446) am Mittwoch 7.8.24
+9. 
