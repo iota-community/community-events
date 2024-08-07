@@ -12,4 +12,4 @@
 10. **IOTA EVM Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1821109122193928292), dass aktuell 75% aller MLUM token gestaked sind
 11. **IOTA Adoption**: [Wallet Connect (60K follower) tweetet](https://x.com/WalletConnect/status/1820951447787417882) über das [Bloom Wallet](https://x.com/bloomwalletio) und darüber, dass es der einfachste Weg in das IOTA und Shimmer Ökosystem ist
 12. **Crypto Adoption**: Artikel: [Semler Scientific: Aktiengesellschaft kauft Bitcoin nach](https://www.blocktrainer.de/blog/semler-scientific-aktiengesellschaft-kauft-bitcoin-nach)
-13. 
+13. **IOTA Adoption**: Die [IF macht ein Thread](https://x.com/iota/status/1821169462474657871) über den Blogpost: [Digital Product Passports for Electronics - Enhancing Recycling with IOTA Technology](https://blog.iota.org/dpp-for-electronics-iota/)
