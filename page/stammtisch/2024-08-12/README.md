@@ -18,4 +18,5 @@
 16. **Crypto Drama**: Der Ripple Fall scheint erledigt zu sein: [Tweet](https://x.com/FurkanCCTV/status/1821283567474798687); XRP steigt zumindest um fast 20% in 24h
 17. **IOTA EVM Ökosystem**: [FOMO Fow tweetet](https://x.com/FOMO_Fox/status/1821222319341154622) über ein Community Murmelspiel, bei dem man nur gewinnen kann das am 11. August 11th um 8 PM EST (also um 2 Uhr in der Nach CET) stattfindet
 18. **IOTA Treasury**: Die [Tangle Community Treasury tweetet](https://x.com/TangleTreasury/status/1821458794012151952) über ihren Blogpost: [Tangle Treasury resumes reviewing activities](https://medium.com/@tangletreasury_87751/tangle-treasury-resumes-reviewing-activities-bfc0f8c6e0f3)
-19. 
+19. **IOTA Promote**: Ein [Thread von der IF](https://x.com/iota/status/1821486512669651385) über die [Tide Kampagne](https://www.tideprotocol.xyz/users/campaign/66f3f523-de45-4e71-a2b5-d3b77f30c237) die aktuell läuft und über alle Projekte die auf der IOTA EVM mitmachen
+20. 
