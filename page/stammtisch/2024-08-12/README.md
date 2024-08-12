@@ -20,7 +20,11 @@
 18. **IOTA Treasury**: Die [Tangle Community Treasury tweetet](https://x.com/TangleTreasury/status/1821458794012151952) über ihren Blogpost: [Tangle Treasury resumes reviewing activities](https://medium.com/@tangletreasury_87751/tangle-treasury-resumes-reviewing-activities-bfc0f8c6e0f3)
 19. **IOTA Promote**: Ein [Thread von der IF](https://x.com/iota/status/1821486512669651385) über die [Tide Kampagne](https://www.tideprotocol.xyz/users/campaign/66f3f523-de45-4e71-a2b5-d3b77f30c237) die aktuell läuft und über alle Projekte die auf der IOTA EVM mitmachen
 20. **Crypto Adoption**: Erster Solana Spot ETF wurde in Brasilien genehmigt: [Tweet](https://x.com/martypartymusic/status/1821293780328444126)
-21. **IOTA Adoption**: Die [IF tweetet ein Video](https://x.com/iota/status/1821547057414393885) über Update zu EBSI. Bzw. ein genauerer Blick auf den "Digital Product Passport for electronic goods" den sie im Zuge von EBSI entwickelt haben
+21. **IOTA Adoption**: Die [IF tweetet ein Video](https://x.com/iota/status/1821547057414393885) über ein Update zu EBSI. Bzw. ein genauerer Blick auf den "Digital Product Passport for electronic goods" den sie im Zuge von EBSI entwickelt haben
 22. **Crypto Adoption**: Russland erlaubt mit neuem Gesetz Bitcoin und Crypto Mining: [Tweet](https://x.com/RadarHits/status/1821555839305482348); Artikel: [Russland legalisiert das Mining von Bitcoin und Kryptowährungen](https://www.blocktrainer.de/blog/russland-legalisiert-das-mining-von-bitcoin-und-kryptowaehrungen)
 23. **Crypto Adoption**: Scheinbar will Donald Trump Jr. eine "LARGE PLATFORM TO "TAKE ON A LOT OF THE BANKING WORLD" USING DEFI" launchen: [Tweet](https://x.com/AbsGMCrypto/status/1821789035389395375)
 24. **IOTA Identity**: [AuvoID tweetet](https://x.com/AuvoDigital/status/1821801227937570837) ein Video: [Introducing AuvoComply, KYC Done right for Web 3.0](https://www.youtube.com/watch?v=Ow5rnAEZWzs)
+25. **IOTA Gaming**: Es wurde die [Saltmines Story part 2](https://x.com/SaltminesRoy/status/1822846705739665773) veröffentlicht
+26. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1822271817291116724) über ein #EBSI Update #2: [Transforming Plastic Waste with DPPs - IOTA Tech Boosts Circular Economy](https://blog.iota.org/dpp-plastics-iota/)
+27. **IOTA EVM Adoption**: Neues zu RWA auf der IOTA EVM: [Tweet](https://x.com/AllgoodFuturist/status/1818725658572493172)
+28. 
