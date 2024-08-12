@@ -30,3 +30,6 @@
 28. **IOTA EVM Adoption**: Neues zu RWAs auf der IOTA EVM: [Tweet](https://x.com/AllgoodFuturist/status/1818725658572493172)
 29. **Allg. News**: Am Sonntag gingen die Olympischen Spiele zu Ende
 30. **Allg. News**: Am Montag spricht Trump und Elon Musk auf X: [Tweet](https://x.com/elonmusk/status/1822799027580137510)
+31. **IOTA Audio**: Am Mittwoch ist [Tentity](https://x.com/tenity_global) im [BuildShere #15 with Tenity](https://x.com/iota/status/1821864005821923687)
+32. **IOTA EVM Ökosystem**: Die [IF retweetet](https://x.com/iota/status/1822984318240633047) den [Tweet von iolendfi](https://x.com/iolendfi/status/1822976451525620114) darüber, dass sie diese Woche live gehen wollen
+33. **IOTA Adoption**: Die [IF macht ein Thread](https://x.com/iota/status/1822981401655816558) über den Blogpost: [Smart Contracts, Smarter Rights - IOTA Enhances IPR Management](https://blog.iota.org/ipr-management-iota/)
