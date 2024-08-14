@@ -5,3 +5,5 @@
 3. **Allg. News**: Am Montag war das [Interview zwischen Trump und Elon Musk auf X](https://x.com/realDonaldTrump/status/1823144316014911820); Hier eine [Kurzform davon ohne Pausen](https://x.com/farzyness/status/1823224969972560278)
 4. **IOTA NFT Ökosystem**: Noch 7 Tage um sich bei den [MoonMorons.com](https://moonmorons.com/) anzumelden: [Tweet](https://x.com/MoonMorons/status/1823245479154446548): "...there will be several drops of L1 & L2 assets and other fancy #IOBA stuff."
 5. **Crypto Adoption**: Larry Fink, der CEO von Blackrock spricht positiv über Bitcoin auf CNN: [Tweet](https://x.com/kyle_chasse/status/1823055214619787380)
+6. **Crypto Adoption**: Goldman Sachs hält $400 Mio in Bitcoin ETFs: [Tweet](https://x.com/FurkanCCTV/status/1823606907447205971)
+7. 
