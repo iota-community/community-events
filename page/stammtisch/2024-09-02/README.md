@@ -1,3 +1,3 @@
 ## IOTA Stammtischthemen für Montag, den 02.09.2024
 
-1.**IOTA **:
+1.**IOTA Quicktakes**:
