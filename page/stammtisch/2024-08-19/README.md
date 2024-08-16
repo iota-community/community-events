@@ -14,4 +14,6 @@
 12. **IOTA Audio**: [kowei.iota](https://x.com/kowei1995) ist am 15.8. bei einem AMA dabei: [Tweet](https://x.com/RealtyX_DAO/status/1823336845213679745)
 13. **IOTA EVM Ökosystem**: [iolendfi macht ein Thread](https://x.com/iolendfi/status/1823282121298849839) will die erste lending platform auf IOTA sein und erklärt ihr System vom "Infinite money loop"
 14. **IOTA EVM Ökosystem**: Das [phythNetwork tweetet](https://x.com/PythNetwork/status/1823374262780170706) über [cyberperp](https://x.com/cyberperp), der ersten perpetual exchange auf der IOTA EVM
-15. 
+15. **IOTA Ökosystem**: [AuvoID tweetet](https://x.com/AuvoDigital/status/1824004311661064460), dass sie live sind mit [app.auvo.io](https://app.auvo.io/dashboard) und verlinken ihre [Auvo Docs](https://docs.auvo.io/)
+16. **IOTA Hype**: Marc hat sich zum NDA Projekt geäußert: [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1823820099008311736)
+17. **Allgemeine News**: Neue Pandemie: [WHO ruft wegen Mpox weltweite Notlage aus](https://www.tagesschau.de/eilmeldung/mpox-104.html)
