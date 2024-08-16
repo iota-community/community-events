@@ -15,5 +15,19 @@
 13. **IOTA EVM Ökosystem**: [iolendfi macht ein Thread](https://x.com/iolendfi/status/1823282121298849839) will die erste lending platform auf IOTA sein und erklärt ihr System vom "Infinite money loop"
 14. **IOTA EVM Ökosystem**: Das [phythNetwork tweetet](https://x.com/PythNetwork/status/1823374262780170706) über [cyberperp](https://x.com/cyberperp), der ersten perpetual exchange auf der IOTA EVM
 15. **IOTA Ökosystem**: [AuvoID tweetet](https://x.com/AuvoDigital/status/1824004311661064460), dass sie live sind mit [app.auvo.io](https://app.auvo.io/dashboard) und verlinken ihre [Auvo Docs](https://docs.auvo.io/)
-16. **IOTA Hype**: Marc hat sich zum NDA Projekt geäußert: [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1823820099008311736)
+16. **IOTA Hype**: Mark von der IF hat sich zum NDA Projekt geäußert: [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1823820099008311736)
 17. **Allgemeine News**: Neue Pandemie: [WHO ruft wegen Mpox weltweite Notlage aus](https://www.tagesschau.de/eilmeldung/mpox-104.html)
+18. **IOTA EVM Ökosystem**: [iolendfi tweetet](https://x.com/iolendfi/status/1824096676568588635), dass sie live sind auf [iolend.fi](https://www.iolend.fi/markets); [kowei.iota tweetet](https://x.com/kowei1995/status/1824378256037974467) eine ziemlich lange Erklärung zu iolend
+19. **IOTA Ökosystem**: [Coda tweetet](https://x.com/coda_digital/status/1824178036599664778), dass ein neues Lied verkauft wurde auf [www.coda.to/exchange/15](https://www.coda.to/exchange/15) handelbar ist
+20. **IOTA EVM**: Das TVL auf der IOTA EVM steigt endlich: [defillama.com/chain/IOTA..EVM](https://defillama.com/chain/IOTA%20EVM)
+21. **IOTA Hype**: Dom hat einige [Aussagen im Discord](https://discord.com/channels/397872799483428865/397872799483428867/1273904393527230524) gemacht: [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1824390055730839716)
+22. **IOTA Adoption**: Neue Single von einem Koreanischen Rapper (Young Ill) wird von Rusty Robots als Airdrop released: [Tweet](https://x.com/RustyRobotCC/status/1824359078207918282)
+23. **IOTA Audio**:Am Mittwoch ist [Buildsphere #14 Event](https://x.com/iota/status/1824400720281362742) mit [InvoiceMate](https://x.com/MateInvoice)
+24. **IOTA EVM Ökosystem**: [Deepr tweetet](https://x.com/DeeprFinance/status/1824467765366821178), dass am Montag der DEEPR/IOTA Pool und die Farm live geht und dass am Freitag eine Bridge live gehen soll, mit der man seine $Deepr ganz einfach transferring kan zur Shimmer EVM
+25. **IOTA EVM Ökosystem**: WAGMI neue Partnerschaft mit IOTA: [Tweet](https://x.com/PopsicleFinance/status/1824175025823334818)
+26. **IOTA NFT Ökosystem**: [Epoch Zero tweetet](https://x.com/Epoch_0/status/1824437756950413508), dass die Mewota Katzen auf die IOTA EVM gebridged werden können
+27. **IOTA Adoption**: Es gab ein wichtiges Treffen wo Dom dabei war: [Tweet](https://x.com/Vrom14286662/status/1824454035388469366)
+28. **IOTA Promote**: Die [IF macht ein Thread](https://x.com/iota/status/1824446014314446852) zu den 3 EBSI Projekten
+29. **Crypto Adoption**: [Elon Musk tweetet](https://x.com/elonmusk/status/1824410315422871867) darüber wie gefährlich Foilen ist
+30. **IOTA Community**: Neue Einschränkungen : [Tweet](https://x.com/lohegrim/status/1824480110528852226)
+31. **IOTA Audio**: Neues AMa mit Borsty (TangleTalk) geplant: (https://x.com/tangle_talk/status/1824479498579923440)  
