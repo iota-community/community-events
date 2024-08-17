@@ -31,4 +31,6 @@
 29. **Crypto Adoption**: [Elon Musk tweetet](https://x.com/elonmusk/status/1824410315422871867) darüber, dass Inflation gefährlich "wasteful government spending ist" und warum das Inflation ausläst
 30. **IOTA Community**: Neues Governement Proposal um decentraler zu werden: [Tweet](https://x.com/lohegrim/status/1824480110528852226); [no more only distributed validators, Power to the Community](https://govern.iota.org/t/no-more-only-distributed-validators-power-to-the-community/1759)
 31. **IOTA Audio**: Neuer TangleTalk mit Borsty geplant: [Tweet](https://x.com/tangle_talk/status/1824479498579923440)
-32. 
+32. **IOTA Drama**: [DeepSea tweetet](https://x.com/Deep_Sea_Iotan/status/1824282511981093215?t=6l1iTuYQRPnG2OPpd2I-sA&s=19) ab jetzt wohl auch nur noch negativ über IOTA... [Tweet 2](https://x.com/Deep_Sea_Iotan/status/1824432973694882128?t=YPDgoR9mfkhcDD9TaCqpyg&s=19)
+33. **Crypto Adoption**: Dubai Gericht erlaubt Bitcoin und Crypto Zahlungen als Gehalt: [Tweet](https://x.com/BitcoinMagazine/status/1824742566564081677?t=fmliF7iRnvDZrltMD-P7_A&s=19)
+34. **Crypto Adoption**: Es gibt mal wieder Gerüchte, dass China Crypto und Bitcoin Mining wieder erlauben wird: [Tweet](https://x.com/CatchTheLatest/status/1824453695142010990?t=77PyHXG-U3J2nYgIFYsCew&s=19)
