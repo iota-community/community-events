@@ -4,3 +4,10 @@
 2. **IOTA EVm Ökosystem**: [coda tweetet](https://x.com/coda_digital/status/1825781575398629870) über das Buch was sie am Donnerstag releasen: [Book Publishing Royalties on Coda](https://blog.coda.to/book-publishing-royalties-on-coda/)
 3. **IOTA EVM Ökosystem**: [iotalendfi tweetet](https://x.com/iolendfi/status/1825825445230542862) über ihre Partnerschaft mit dem [PhythNetwork](https://x.com/PythNetwork). Außerdem [tweeten sie](https://x.com/iolendfi/status/1825625127935160338) darüber, dass sie bereits $1mio TVL haben auf ihre Plattform [iolend.fi](https://www.iolend.fi/)
 4. **IOTA EVM Ökosystem**: [FRAKTALZ tweetet](https://x.com/NFT_FRACTALZ/status/1825585507344200001) erste Eindrücke von ihrer Plattform
+5. **IOTA EBSI**: Die [IF macht ein Thread](https://x.com/iota/status/1825880509324362185) über den Blogpost: [IOTA Successfully Completes European Blockchain PCP](https://blog.iota.org/european-blockchain-pcp-final/)
+6. **IOTA Ökosystem**: [HAVN retweetet](https://x.com/HAVN_network/status/1825897170760872123) ein Event in Bali wo sie dabei sind
+7. **IOTA Ökosystem**: [Viviswap.com tweetet](https://x.com/viviswapcom/status/1825860736083448090) über ein Relaunch im September
+8. **IOTA AMA**: Die [IF tweetet](https://x.com/iota/status/1824400720281362742) über das [Buildsphere #1 mit InvoiceMate](https://x.com/i/spaces/1ypKdpagnEyKW)
+9. **IOTA Adoption**: [DefiLama tweetet](https://x.com/DefiLlama/status/1825907334310408559) darüber, das sie [CyberPerp](https://x.com/cyberperp) auf der IOTA EVm integriert haben
+10. **IOTA Hype**: Dom hat etwas in Discoord geschrieben: [Tweet](https://x.com/jemk24316154/status/1825514270055927920)
+11. 
