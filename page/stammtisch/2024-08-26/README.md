@@ -13,6 +13,6 @@
 11. **IOTA EVM Ökosystem**: die [MoonMorons tweeten](https://x.com/MoonMorons/status/1825973477179818149), dass sie Live sind mit [soon.moonmorons.com](https://soon.moonmorons.com/home)
 12. **IOTA EVM Ökosystem**: Update beim [ShiUniverse](https://x.com/Shiuniverse): [Tweet](https://x.com/Shiuniverse/status/1826317495281537183)
 13. **IOTA EVM Ökosystem**: Votet für IOTA bei Blockpit: [Tweet](https://x.com/flomeindl/status/1826311269571592372)
-14. **IOTA EVM Ökosystem**: Ab Freitag kann man seine $Deepr staken: [Tweet](https://x.com/DeeprFinance/status/1825876971462561941)
+14. **IOTA EVM Ökosystem**: Ab Freitag kann man seine $Deepr staken ([Tweet](https://x.com/DeeprFinance/status/1825876971462561941)) und schon heute kann man in die $Deepr/IOTA Farm live auf Magicsea.Finance ([Tweet](https://x.com/DeeprFinance/status/1826258310481277329)) 
 15. **IOTA Gezwitscher**: [Dom Tweet](https://x.com/DomSchiener/status/1826213804255879499) über Real World Adoption
-16. 
+16. **IOTA EVM Ökosystem**: [iolendfi tweetet](https://x.com/iolendfi/status/1826188445439361234), dass sie jetzt bei [debank](https://x.com/DeBankDeFi) zu finden sind
