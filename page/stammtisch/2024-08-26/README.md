@@ -16,3 +16,4 @@
 14. **IOTA EVM Ökosystem**: Ab Freitag kann man seine $Deepr staken ([Tweet](https://x.com/DeeprFinance/status/1825876971462561941)) und schon heute kann man in die $Deepr/IOTA Farm live auf Magicsea.Finance ([Tweet](https://x.com/DeeprFinance/status/1826258310481277329)) 
 15. **IOTA Gezwitscher**: [Dom Tweet](https://x.com/DomSchiener/status/1826213804255879499) über Real World Adoption
 16. **IOTA EVM Ökosystem**: [iolendfi tweetet](https://x.com/iolendfi/status/1826188445439361234), dass sie jetzt bei [debank](https://x.com/DeBankDeFi) zu finden sind
+17. **IOTA EVM Ökosystem**: [coda tweetet](https://x.com/coda_digital/status/1826232101374742872), dass die ersten Royalty Rights Token für ein Buch verkauft werden am Donnerstag 22.8.24 auf [www.coda.to](https://www.coda.to/de)
