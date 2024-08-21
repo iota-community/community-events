@@ -10,4 +10,4 @@
 8. **IOTA AMA**: Die [IF tweetet](https://x.com/iota/status/1824400720281362742) über das [Buildsphere #1 mit InvoiceMate](https://x.com/i/spaces/1ypKdpagnEyKW)
 9. **IOTA Adoption**: [DefiLama tweetet](https://x.com/DefiLlama/status/1825907334310408559) darüber, das sie [CyberPerp](https://x.com/cyberperp) auf der IOTA EVm integriert haben
 10. **IOTA Hype**: Dom hat etwas in Discoord geschrieben: [Tweet](https://x.com/jemk24316154/status/1825514270055927920)
-11. 
+11. **IOTA EVM Ökosystem**: die [MoonMorons tweeten](https://x.com/MoonMorons/status/1825973477179818149), dass sie Live sind mit [soon.moonmorons.com](https://soon.moonmorons.com/home)
