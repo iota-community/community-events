@@ -11,3 +11,8 @@
 9. **IOTA Adoption**: [DefiLama tweetet](https://x.com/DefiLlama/status/1825907334310408559) darüber, das sie [CyberPerp](https://x.com/cyberperp) auf der IOTA EVm integriert haben
 10. **IOTA Hype**: Dom hat etwas in Discoord geschrieben: [Tweet](https://x.com/jemk24316154/status/1825514270055927920)
 11. **IOTA EVM Ökosystem**: die [MoonMorons tweeten](https://x.com/MoonMorons/status/1825973477179818149), dass sie Live sind mit [soon.moonmorons.com](https://soon.moonmorons.com/home)
+12. **IOTA EVM Ökosystem**: Update beim [ShiUniverse](https://x.com/Shiuniverse): [Tweet](https://x.com/Shiuniverse/status/1826317495281537183)
+13. **IOTA EVM Ökosystem**: Votet für IOTA bei Blockpit: [Tweet](https://x.com/flomeindl/status/1826311269571592372)
+14. **IOTA EVM Ökosystem**: Ab Freitag kann man seine $Deepr staken: [Tweet](https://x.com/DeeprFinance/status/1825876971462561941)
+15. **IOTA Gezwitscher**: [Dom Tweet](https://x.com/DomSchiener/status/1826213804255879499) über Real World Adoption
+16. 
