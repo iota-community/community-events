@@ -16,4 +16,15 @@
 14. **IOTA EVM Ökosystem**: Ab Freitag kann man seine $Deepr staken ([Tweet](https://x.com/DeeprFinance/status/1825876971462561941)) und schon heute kann man in die $Deepr/IOTA Farm live auf Magicsea.Finance ([Tweet](https://x.com/DeeprFinance/status/1826258310481277329)) 
 15. **IOTA Gezwitscher**: [Dom Tweet](https://x.com/DomSchiener/status/1826213804255879499) über Real World Adoption
 16. **IOTA EVM Ökosystem**: [iolendfi tweetet](https://x.com/iolendfi/status/1826188445439361234), dass sie jetzt bei [debank](https://x.com/DeBankDeFi) zu finden sind
-17. **IOTA EVM Ökosystem**: [coda tweetet](https://x.com/coda_digital/status/1826232101374742872), dass die ersten Royalty Rights Token für ein Buch verkauft werden am Donnerstag 22.8.24 auf [coda.to](https://www.coda.to/de)
+17. **IOTA EVM Ökosystem**: [coda tweetet](https://x.com/coda_digital/status/1826232101374742872), dass die ersten Royalty Rights Token für ein Buch verkauft werden am Donnerstag 22.8.24 auf [coda.to](https://www.coda.to/de); Hier der [Tweet von coda](https://x.com/coda_digital/status/1826650544553033942) zum Start
+18. **IOTA EVM Ökosystem**: [iolend tweetet](https://x.com/iolendfi/status/1826559940481188181) über ihre Zealy Campagne wo man $2000 verdienen kann
+19. **IOTA EVM Ökosystem**: [Deepr retweetet](https://x.com/DeeprFinance/status/1826596249283559693), dass sie auditiert wurden von [Sherloc](https://x.com/sherlockdefi)
+20. **IOTA EVM Ökosystem**: Neue Partnerschaft zw. [ShiWeas](https://x.com/Shiuniverse) und [MoonMorons](https://x.com/MoonMorons): [Tweet](https://x.com/Shiuniverse/status/1826613885085839777)
+21. **IOTA Ökosystem**: [Bloom tweetet](), dass Bloom in den Web3-Stream 2024/25 des [CDL](https://x.com/creativedlab)-Programms aufgenommen wurde ; Hier der [Retweet von Charley Varley](https://x.com/c_varley/status/1826623445700087814)
+22. **IOTA EVM Ökosystem**: [cyberperb tweetet](https://x.com/cyberperp/status/1826557377732133280) ein Video Tutorial wie man Liquidität bereitstellt und dafür Zinsen bekommt
+23. **IOTA EVM ökosystem**: [FRAKTAL tweetet](https://x.com/NFT_FRACTALZ/status/1826655826498785776), dass man ab Samstag testen und gewinnen kann
+24. **IOTa Ökosystem**: [TangleTalk tweetet](https://x.com/tangle_talk/status/1826652810739679579) über ein neues Interview mit HODLHamster und FOMOFox
+25. **IOTA Community**: [Gamamind tweetet](https://x.com/ThensilZ/status/1826278896456942070) dass er auf der Gamescom ist und man ihn bei dem Stand der tech. Hochschule Ostwestfalen treffen kann um über IOTA zu sprechen
+26. **Crypto Drama**: CZ ist raus aus dem Gefängnis: [Tweet](https://x.com/AltcoinDailyio/status/1826678604463571457)
+27. **IOTA Ökosystem**: [NOWPayments tweetet](https://x.com/NOWPayments_io/status/1826655600098333159) über IOTA und ihren Blogpost: [Accept IOTA Payments - NOWPayments is a crypto payment gateway that lets you accept IOTA payments and donations in an easy and convenient way.](https://nowpayments.io/supported-coins/miota-payments)
+28. 
