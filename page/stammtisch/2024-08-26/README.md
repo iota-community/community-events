@@ -27,4 +27,8 @@
 25. **IOTA Community**: [Gamamind tweetet](https://x.com/ThensilZ/status/1826278896456942070) dass er auf der Gamescom ist und man ihn bei dem Stand der tech. Hochschule Ostwestfalen treffen kann um über IOTA zu sprechen
 26. **Crypto Drama**: CZ ist raus aus dem Gefängnis: [Tweet](https://x.com/AltcoinDailyio/status/1826678604463571457)
 27. **IOTA Ökosystem**: [NOWPayments tweetet](https://x.com/NOWPayments_io/status/1826655600098333159) über IOTA und ihren Blogpost: [Accept IOTA Payments - NOWPayments is a crypto payment gateway that lets you accept IOTA payments and donations in an easy and convenient way.](https://nowpayments.io/supported-coins/miota-payments)
-28. 
+28. **IOTA Ökosystem**: [GroupFi tweetet](https://x.com/groupfi_ai/status/1826847315275169967) über ein Gamechanger im September... Auch [Garret tweetet](https://x.com/GarrettBullish/status/1826848428103700756) "you don't want to miss it.."
+29. **IOTA Ökosystem**: Der [Coordicide Song von MoonMorons](https://open.spotify.com/track/4uB3npP1ir6Q5Y0u49uEu1?si=509813ba3086487d) ist jetzt auf Spotify: [Tweet](https://x.com/MoonMorons/status/1826744806598738175)
+30. **IOTA Event**: Dom Schiener spricht im September bei der RWA Konferenz Singapur: [Tweet](https://x.com/rwasummit/status/1826778898534727795)
+31. **IOTA Exchange**: [MEXC tweetet](https://x.com/MEXC_Official/status/1826817062410277248), dass sie das IOTA/USDT Pair listen
+32. 
