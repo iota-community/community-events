@@ -31,4 +31,9 @@
 29. **IOTA Ökosystem**: Der [Coordicide Song von MoonMorons](https://open.spotify.com/track/4uB3npP1ir6Q5Y0u49uEu1?si=509813ba3086487d) ist jetzt auf Spotify: [Tweet](https://x.com/MoonMorons/status/1826744806598738175)
 30. **IOTA Event**: Dom Schiener spricht im September bei der RWA Konferenz Singapur: [Tweet](https://x.com/rwasummit/status/1826778898534727795)
 31. **IOTA Exchange**: [MEXC tweetet](https://x.com/MEXC_Official/status/1826817062410277248), dass sie das IOTA/USDT Pair listen
-32. 
+32. **IOTA EVM Ökosystem**: [Deepr tweetet](https://x.com/DeeprFinance/status/1827002042310680900) dass sie live sind; Auch die [IF retweetet](https://x.com/iota/status/1827003864072998915) das
+33. **IOTA EVM Ökosystem**: [Poolsfinance tweetet](https://x.com/PoolsFinance/status/1826992442832302287) über ein [Audit von HashEX](https://hashex.org/audits/pools/) das sie absolviert haben
+34. **IOTA Promote**: Die [IF retweetet](https://x.com/iota/status/1827012929385816302) den Artikel auf CoinmarketCap: [IOTA Successfully Completes European Blockchain PCP](https://coinmarketcap.com/community/articles/66c33ce47f6a04413b350637/)
+35. **IOTA Video**: Neue Folge von SpecWeekly: [Tweet](https://x.com/SpecWeekly/status/1826941529845645769); [The IOTA EVM is gearing up to be an S-Tier Layer 2 - here's why.](https://www.youtube.com/watch?v=VDjPcpBRxDw)
+36. **IOTA Adoption**: Die [European Blockchain Sandbox tweetet](https://x.com/EuropeanSandbox/status/1826991870309695793) über ein Consortium ("lead by iota"), die eine Lösung für digitale web3 Identitäten basierend auf iota gebaut haben
+37. 
