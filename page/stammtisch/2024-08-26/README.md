@@ -43,4 +43,6 @@
 41. **ETh Adoption**: Sony will eigenen Ethereum L2 Chain starten: [Tweet](https://x.com/AltcoinDailyio/status/1827007700947136918)
 42. **IOTA Ökosystem**: [Mosquito Pay tweetet](https://x.com/MosquitoPay/status/1827302960340054105), dass sie kein Grant bekommen haben
 43. **IOTA NFT Ökosystem**: Am Montag gibt es MoonMoron NFTs zu kaufen: [Tweet](https://x.com/MoonMorons/status/1827385004478865744)
-44. **IOTA EVM Ökosystem**: [FRAKTALZ tweetet](https://x.com/NFT_FRACTALZ/status/1827375359832055884), dass sie live sind mit [app.fractalz.xyz](https://app.fractalz.xyz/collections)
+44. **IOTA EVM Ökosystem**: [FRACTALZ tweetet](https://x.com/NFT_FRACTALZ/status/1827375359832055884), dass sie live sind mit [app.fractalz.xyz](https://app.fractalz.xyz/collections)
+45. **IOTA Drama**: Es gibt jetzt ein Hans-Moog-Chat-GPT-Tool (aus Spec2): [https://chatgpt.com/g/g-99LMdGQFQ-hans-moog-gpt](https://chatgpt.com/g/g-99LMdGQFQ-hans-moog-gpt)
+46. **Allg. News**: Telegram Founder wurde scheibar in Frankreich eingesperrt: [Tweet](https://x.com/wallstreetbets/status/1827454999950946471); [Tweet](https://x.com/Cobratate/status/1827449050347794837)
