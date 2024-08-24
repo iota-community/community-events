@@ -41,4 +41,5 @@
 39. **IOTA NFT Ökosystem**: [CryptoGin tweetet](https://x.com/Crypto_Gin21/status/1827083558709543076), dass ihre Phygical NFTs bereits auf der IOTA EVM sind
 40. **IOTA Audio**: Nächstes BuildSphere ist am 28.8. mit [cyberperp](https://x.com/cyberperp): [Tweet](https://x.com/iota/status/1826953990250086794)
 41. **ETh Adoption**: Sony will eigenen Ethereum L2 Chain starten: [Tweet](https://x.com/AltcoinDailyio/status/1827007700947136918)
-42. 
+42. **IOTA Ökosystem**: [Mosquito Pay tweetet](https://x.com/MosquitoPay/status/1827302960340054105), dass sie kein Grant bekommen haben
+43. **IOTA NFT Ökosystem**: Am Montag gibt es MoonMoron NFTs zu kaufen: [Tweet](https://x.com/MoonMorons/status/1827385004478865744)
