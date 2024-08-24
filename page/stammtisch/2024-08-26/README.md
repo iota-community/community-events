@@ -43,3 +43,4 @@
 41. **ETh Adoption**: Sony will eigenen Ethereum L2 Chain starten: [Tweet](https://x.com/AltcoinDailyio/status/1827007700947136918)
 42. **IOTA Ökosystem**: [Mosquito Pay tweetet](https://x.com/MosquitoPay/status/1827302960340054105), dass sie kein Grant bekommen haben
 43. **IOTA NFT Ökosystem**: Am Montag gibt es MoonMoron NFTs zu kaufen: [Tweet](https://x.com/MoonMorons/status/1827385004478865744)
+44. **IOTA EVM Ökosystem**: [FRAKTALZ tweetet](https://x.com/NFT_FRACTALZ/status/1827375359832055884), dass sie live sind mit [app.fractalz.xyz](https://app.fractalz.xyz/collections)
