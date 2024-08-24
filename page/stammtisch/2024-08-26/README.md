@@ -36,4 +36,7 @@
 34. **IOTA Promote**: Die [IF retweetet](https://x.com/iota/status/1827012929385816302) den Artikel auf CoinmarketCap: [IOTA Successfully Completes European Blockchain PCP](https://coinmarketcap.com/community/articles/66c33ce47f6a04413b350637/)
 35. **IOTA Video**: Neue Folge von SpecWeekly: [Tweet](https://x.com/SpecWeekly/status/1826941529845645769); [The IOTA EVM is gearing up to be an S-Tier Layer 2 - here's why.](https://www.youtube.com/watch?v=VDjPcpBRxDw)
 36. **IOTA Adoption**: Die [European Blockchain Sandbox tweetet](https://x.com/EuropeanSandbox/status/1826991870309695793) über ein Consortium ("lead by iota"), die eine Lösung für digitale web3 Identitäten basierend auf iota gebaut haben
-37. 
+37. **IOTA DeFi Tutorial**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1826967629556519140) ein Video Tutorial zu ihren V2 Pools
+38. **Allg. News**: Robert J.F. Kennedy endoresd Trump: [Tweet](https://x.com/BitcoinMagazine/status/1827131699223826511)
+39. **IOTA NFT Ökosystem**: [CryptoGin tweetet](https://x.com/Crypto_Gin21/status/1827083558709543076), dass ihre Phygical NFTs bereits auf der IOTA EVM sind
+40. **IOTA Audio**: Nächstes BuildSphere ist am 28.8. mit [cyberperp](https://x.com/cyberperp): [Tweet](https://x.com/iota/status/1826953990250086794)
