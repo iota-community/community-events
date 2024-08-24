@@ -40,3 +40,5 @@
 38. **Allg. News**: Robert J.F. Kennedy endoresd Trump: [Tweet](https://x.com/BitcoinMagazine/status/1827131699223826511)
 39. **IOTA NFT Ökosystem**: [CryptoGin tweetet](https://x.com/Crypto_Gin21/status/1827083558709543076), dass ihre Phygical NFTs bereits auf der IOTA EVM sind
 40. **IOTA Audio**: Nächstes BuildSphere ist am 28.8. mit [cyberperp](https://x.com/cyberperp): [Tweet](https://x.com/iota/status/1826953990250086794)
+41. **ETh Adoption**: Sony will eigenen Ethereum L2 Chain starten: [Tweet](https://x.com/AltcoinDailyio/status/1827007700947136918)
+42. 
