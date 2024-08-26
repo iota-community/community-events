@@ -20,7 +20,7 @@
 18. **IOTA EVM Ökosystem**: [iolend tweetet](https://x.com/iolendfi/status/1826559940481188181) über ihre Zealy Campagne wo man $2000 verdienen kann
 19. **IOTA EVM Ökosystem**: [Deepr retweetet](https://x.com/DeeprFinance/status/1826596249283559693), dass sie auditiert wurden von [Sherloc](https://x.com/sherlockdefi)
 20. **IOTA EVM Ökosystem**: Neue Partnerschaft zw. [ShiWeas](https://x.com/Shiuniverse) und [MoonMorons](https://x.com/MoonMorons): [Tweet](https://x.com/Shiuniverse/status/1826613885085839777)
-21. **IOTA Ökosystem**: [Bloom tweetet](), dass Bloom in den Web3-Stream 2024/25 des [CDL](https://x.com/creativedlab)-Programms aufgenommen wurde ; Hier der [Retweet von Charley Varley](https://x.com/c_varley/status/1826623445700087814)
+21. **IOTA Ökosystem**: [Bloom tweetet](https://x.com/bloomwalletio/status/1826601405395993066), dass Bloom in den Web3-Stream 2024/25 des [CDL](https://x.com/creativedlab)-Programms aufgenommen wurde ; Hier der [Retweet von Charley Varley](https://x.com/c_varley/status/1826623445700087814)
 22. **IOTA EVM Ökosystem**: [cyberperb tweetet](https://x.com/cyberperp/status/1826557377732133280) ein Video Tutorial wie man Liquidität bereitstellt und dafür Zinsen bekommt
 23. **IOTA EVM ökosystem**: [FRAKTAL tweetet](https://x.com/NFT_FRACTALZ/status/1826655826498785776), dass man ab Samstag testen und gewinnen kann
 24. **IOTa Ökosystem**: [TangleTalk tweetet](https://x.com/tangle_talk/status/1826652810739679579) über ein neues Interview mit HODLHamster und FOMOFox
@@ -42,10 +42,11 @@
 40. **IOTA Audio**: Nächstes BuildSphere ist am 28.8. mit [cyberperp](https://x.com/cyberperp): [Tweet](https://x.com/iota/status/1826953990250086794)
 41. **ETh Adoption**: Sony will eigenen Ethereum L2 Chain starten: [Tweet](https://x.com/AltcoinDailyio/status/1827007700947136918)
 42. **IOTA Ökosystem**: [Mosquito Pay tweetet](https://x.com/MosquitoPay/status/1827302960340054105), dass sie kein Grant bekommen haben
-43. **IOTA NFT Ökosystem**: Am Montag gibt es MoonMoron NFTs zu kaufen: [Tweet](https://x.com/MoonMorons/status/1827385004478865744)
+43. **IOTA NFT Ökosystem**: Am Montag gibt es MoonMoron NFTs zu kaufen: [Tweet](https://x.com/MoonMorons/status/1827385004478865744); [Tweet](https://x.com/servrox1337/status/1827807878998356468)
 44. **IOTA EVM Ökosystem**: [FRACTALZ tweetet](https://x.com/NFT_FRACTALZ/status/1827375359832055884), dass sie live sind mit [app.fractalz.xyz](https://app.fractalz.xyz/collections)
 45. **IOTA Drama**: Es gibt jetzt ein Hans-Moog-Chat-GPT-Tool (aus Spec2): [https://chatgpt.com/g/g-99LMdGQFQ-hans-moog-gpt](https://chatgpt.com/g/g-99LMdGQFQ-hans-moog-gpt)
-46. **Allg. News**: Telegram Founder wurde scheibar in Frankreich eingesperrt: [Tweet](https://x.com/wallstreetbets/status/1827454999950946471); [Tweet](https://x.com/Cobratate/status/1827449050347794837); In dem Zusammenhang empfehle ich mal das Interview mit ihm anzuhören: [Tweet](https://x.com/TuckerCarlson/status/1780355490964283565); [edward Snowden hat das auch kommentiert](https://x.com/Snowden/status/1827695836832334169)
+46. **Allg. News**: Telegram Founder wurde scheibar in Frankreich eingesperrt: [Tweet](https://x.com/wallstreetbets/status/1827454999950946471); [Tweet](https://x.com/Cobratate/status/1827449050347794837); In dem Zusammenhang empfehle ich mal das Interview mit ihm anzuhören: [Tweet](https://x.com/TuckerCarlson/status/1780355490964283565); [edward Snowden hat das auch kommentiert](https://x.com/Snowden/status/1827695836832334169); [Tweet von Telegram](https://x.com/telegram/status/1827787345367834772)
 47. **IOTA EVM Ökosystem**: [cyberperp tweetet](https://x.com/cyberperp/status/1827610974687244520) dass sie $3mio an Tradingvolumen überschritten haben
-48. 
+48. **IOTA paper**: [Salima tweetet](https://x.com/Salimasbegum/status/1827835608053731589) über ein neues Paper: [LAM-IoT: Lightweight Authentication Model for monitoring systems in IoT-enabled smart homes based on DID using IOTA ](https://journal.uob.edu.bh/bitstream/handle/123456789/5848/1571056947.pdf?sequence=1&isAllowed=y)
 49. 
+50. 
