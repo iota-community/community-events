@@ -10,4 +10,7 @@
 8. **IOTA Gaming**: Es gab ein Update beim ShiUniverse: [Tweet](https://x.com/Shiuniverse/status/1826317495281537183)
 9. **IOTA EVM Ökosystem**: [Deepr tweetet](https://x.com/DeeprFinance/status/1828130656171499853) über Incentives die es ab Mittwoche 28.8. gibt
 10. **Bitcoin Adoption**: Es gibt jetzt wohlt Trump Trading Crads auf Bitcoin Ordinals: [Tweet](https://x.com/BitcoinMagazine/status/1828469068019495038)
-11. 
+11. **IOTA Gezwitscher**: [Kutkraft](https://x.com/kutkraft) will jetzt offenbar auch [Soneium](https://x.com/soneium) Videos machen, der neuen Sony Chain (L2 Chain auf Ethereum): [Tweet](https://x.com/SpecWeekly/status/1828595947523493953)
+12. **Real World Drama**: Die UAE pausiert Geschäfte (jets für $10 billion) mit Frankreich, weil die den Telegram Gründer Pavel Durov nicht frei lassen: [Tweet](https://x.com/AutismCapital/status/1828640772952076601); Auch [Macron tweetet](https://x.com/EmmanuelMacron/status/1828077245606342672) über den Fall; Scheinbar kam Durov nach Frankreich weil er zum Dinner mit Macron eingeladen wurde: [Tweet](https://x.com/MarioNawfal/status/1828524724164469013)
+13. **Crypto Drama**: Ton Blockchain steht: [Tweet](https://x.com/ton_blockchain/status/1828644569669607839)
+14. 
