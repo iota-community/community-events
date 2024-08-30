@@ -1,6 +1,6 @@
 ## IOTA Stammtischthemen für Montag, den 02.09.2024
 
-1. **IOTA Quicktakes**
+1. **IOTA Quicktakes**: [IOTA Quicktakes 26.08.24: IOTA Successfully Completes #ebsi & New BuildSphere Episode](https://www.youtube.com/watch?v=1y1soUjylGc)
 2. **IOTA EVM Promote**: [DeBank tweetet](https://x.com/DeBankDeFi/status/1828262114643059151) und [DefiLama tweetet](https://x.com/DefiLlama/status/1828153223779078429) darüber, dass sie [iolend](https://x.com/iolendfi) inegriert haben und auch das [PythNetwork tweetet](https://x.com/PythNetwork/status/1828115264287973872) und der [Martini Guy (500K follower) tweetet](https://x.com/MartiniGuyYT/status/1828087881677582678) über iolendfi
 3. **IOTA EVM TVL**: [Dom retweetet](https://x.com/DomSchiener/status/1828172737866567766) den Tweet über $3 mio TVL und schreibt: "Let's 10x those numbers"
 4. **IOTA Adoption**: Das [Mission Project tweetet](https://x.com/ProjectMission/status/1828420559333433347) ein Video mit IOTA Inside: [Implementing blockchain for maritime operations | MISSION Project](https://www.youtube.com/watch?v=Ry2x9IWBzP8)
