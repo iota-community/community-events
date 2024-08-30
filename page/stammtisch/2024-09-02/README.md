@@ -20,4 +20,12 @@
 18. **IOTA Audio**: [Mission Project tweetet](https://x.com/DefiLlama/status/1828903635884884360) das Video mit Jens Lund Nielson [IF]:[Implementing blockchain for maritime operations | MISSION Project](https://www.youtube.com/watch?v=Ry2x9IWBzP8)
 19. **IOTA EVM**: Die TVL für die IOTA EVM nimmt weiter zu: [defillama.com/.../IOTA](https://defillama.com/chain/IOTA%20EVM)
 20. **IOTA Artikel**: [IOTA ebnet den Weg für skalierbare und sichere Blockchain-Infrastruktur in der EU](https://www.coinkurier.de/iota-ebnet-den-weg-fuer-skalierbare-und-sichere-blockchain-infrastruktur-in-der-eu/)
-21. 
+21. **Crypto Glück**: Artikel: [ Solo-Miner gelungen, einen #Bitcoin-Block zu erstellen. -> 200.000 US-Dollar](https://x.com/btcecho/status/1829519910566859026)
+22. **IOTA EVM Adoption**: Ein [Thread 1/10 von Torqez](https://x.com/torqez/status/1829457294574457203) der scheinbar 50% Return on Invest auf der IOTA EVM schafft
+23. **IOTA 2.0 Hype**: [Christoph Strnadl tweetet](https://x.com/archimate/status/1829523104336371942) darüber, "dass das Team auch den ganzen Sommer über sehr konzentriert (und aus der Sicht von Technolog Adoption sehr erfolgreich) an der technischen Zukunft von IOTA gearbeitet hat. 💪"
+24. **IOTA EVM Adoption**: [FxWallet tweetet](https://x.com/FxWallet/status/1829446631776833542), dass sie die IOTA EVM integriert haben
+25. **IOTA EVM Ökosystem**: [coda tweetet](https://x.com/coda_digital/status/1829450542906552325) über das Buch von dem man jetzt die Royalty Rights Token auf [coda.com](https://www.coda.to/exchange/17) handeln kann
+26. **IOTA EVM Ökosystem**: [IOTACap tweetet](https://x.com/IotaCap/status/1829532629009605015), dass sie wohl aufhören müssen, weil sei kein Funding bekommen
+27. **IOTA EVM Ökosystem**: [AuditOne tweetet](https://x.com/auditone_dao/status/1829514525038485535) über ihr {Zealy Ambassador Program](https://zealy.io/cw/auditone/questboard/2a0abf4b-60b7-4278-9cb3-f46e91a87e40)
+28. **Crypto Adoption**: Der Club von Messi (Inter Miami CF) hat jetzt ne Trikot Werbung "Polkadot": [Tweet](https://x.com/InterMiamiCF/status/1829222185539371477)
+29. **IOTA EVM Ökosystem**: [Deepr tweetet](https://x.com/DeeprFinance/status/1829545562183434285), dass sie das borrow limit erhöht haben um den größer werdenen Ansturm gerecht zu werden
