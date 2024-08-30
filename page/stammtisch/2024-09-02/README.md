@@ -29,3 +29,4 @@
 27. **IOTA EVM Ökosystem**: [AuditOne tweetet](https://x.com/auditone_dao/status/1829514525038485535) über ihr {Zealy Ambassador Program](https://zealy.io/cw/auditone/questboard/2a0abf4b-60b7-4278-9cb3-f46e91a87e40)
 28. **Crypto Adoption**: Der Club von Messi (Inter Miami CF) hat jetzt ne Trikot Werbung "Polkadot": [Tweet](https://x.com/InterMiamiCF/status/1829222185539371477)
 29. **IOTA EVM Ökosystem**: [Deepr tweetet](https://x.com/DeeprFinance/status/1829545562183434285), dass sie das borrow limit erhöht haben um den größer werdenen Ansturm gerecht zu werden
+30. **IOTA EVM Learn**: [Tweet von id.IOTA](https://x.com/id_iota/status/1829608300561719343) zu DeFi lending 
