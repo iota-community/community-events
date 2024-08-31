@@ -6,7 +6,7 @@
 4. **IOTA Adoption**: Das [Mission Project tweetet](https://x.com/ProjectMission/status/1828420559333433347) ein Video mit IOTA Inside: [Implementing blockchain for maritime operations | MISSION Project](https://www.youtube.com/watch?v=Ry2x9IWBzP8)
 5. **IOTA Audio**: Am Mittwoch war das [BuildSphere #17 Event mit cyperperp](https://x.com/iota/status/1826953990250086794)
 6. **IOTA NFT Ökosystem**: Die [MoonMorons tweeten](https://x.com/MoonMorons/status/1828115337314984051), dass ihr Mint live ist auf [moonmorons.com/nfts](https://moonmorons.com/nfts)
-7. **IOTA EVM Ökosystem**: [OTsea tweetet](https://x.com/otseaERC20/status/1828124644471382404) sie sind live auf der IOTA EVM mit [otsea.io](https://www.otsea.io/en)
+7. **IOTA EVM Ökosystem**: [OTsea tweetet](https://x.com/otseaERC20/status/1828124644471382404) sie sind live auf der IOTA EVM mit [otsea.io](https://www.otsea.io/en); Hier noch ein [Tweet](https://x.com/otseaERC20/status/1829917626816241683)
 8. **IOTA Gaming**: Es gab ein Update beim ShiUniverse: [Tweet](https://x.com/Shiuniverse/status/1826317495281537183)
 9. **IOTA EVM Ökosystem**: [Deepr tweetet](https://x.com/DeeprFinance/status/1828130656171499853) über Incentives die es ab Mittwoch (28.8.) gibt
 10. **Bitcoin Adoption**: Es gibt jetzt wohlt Trump Trading Crads auf Bitcoin Ordinals: [Tweet](https://x.com/BitcoinMagazine/status/1828469068019495038)
@@ -29,4 +29,10 @@
 27. **IOTA EVM Ökosystem**: [AuditOne tweetet](https://x.com/auditone_dao/status/1829514525038485535) über ihr {Zealy Ambassador Program](https://zealy.io/cw/auditone/questboard/2a0abf4b-60b7-4278-9cb3-f46e91a87e40)
 28. **Crypto Adoption**: Der Club von Messi (Inter Miami CF) hat jetzt ne Trikot Werbung "Polkadot": [Tweet](https://x.com/InterMiamiCF/status/1829222185539371477)
 29. **IOTA EVM Ökosystem**: [Deepr tweetet](https://x.com/DeeprFinance/status/1829545562183434285), dass sie das borrow limit erhöht haben um den größer werdenen Ansturm gerecht zu werden
-30. **IOTA EVM Learn**: [Tweet von id.IOTA](https://x.com/id_iota/status/1829608300561719343) zu DeFi lending 
+30. **IOTA EVM Learn**: [Tweet von id.IOTA](https://x.com/id_iota/status/1829608300561719343) zu DeFi lending
+31. **Crypto Event**: [Holger Köther tweetet](https://x.com/HolgerKoether/status/1829825669565727038) von einem Crypto Event in Bali
+32. **IOTA EVM Ökosystem**: [Roy Saltmines tweetet](https://x.com/SaltminesRoy/status/1829718101036056794) über den "September Saltmines development plan"
+33. **IOTA Video**: [Kutkraft tweetet](https://x.com/kutkraft/status/1829794330976141502) über das neue Spec Weekly Video: [IOTA Grant Recipients: Cohort 1 Projects](https://www.youtube.com/watch?v=i9AQs7Lc9A4)
+34. **IOTA EVM Promote**: Ein super (langer) [Tweet von id.iota](https://x.com/id_iota/status/1829608300561719343) über DeFi und Yield Möglichkeiten auf der IOTA EVM; Es gab auch ein [Screenshot von Phylo](https://x.com/Vrom14286662/status/1829546075075780922) darüber wie man vorgehen soll wenn man noch keine Ahnung von DeFi hat
+35. **IOTA EVM Promote**: [DeFiLama tweetet](https://x.com/DefiLlama/status/1829930340514672885) über [iolendfi](https://x.com/iolendfi) und das sie das TVL davon mittlerweile tracken auf [defilama.com... IOAT..EVM](https://defillama.com/chain/IOTA%20EVM)
+36. 
