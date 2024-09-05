@@ -14,4 +14,5 @@
 12. **Crypto Adoption**: Bitbanda ist jetzt offizieller Partner bei der NFL: [Tweet](https://x.com/Bitpanda_global/status/1831604858551452147)
 13. **IOTA Adoption**: Die [IF macht ein Thread](https://x.com/iota/status/1831678680218628489) über ihren Blogpost: [IOTA: A Trusted Partner in Europe - Pioneering Web3 Solutions for Europe’s Digital Growth](https://blog.iota.org/iota-a-trusted-partner-in-europe/)
 14. **IOTA EVM Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1831692967494418799) über ein Interview mit einen Core Member
-15. 
+15. **Crypto Adoption**: Trump spricht darüber, dass er die Amerika zur "world capitol for Bitcoin und Crypto" machen will: [Tweet](https://x.com/saylor/status/1831749832823783890)
+16. 
