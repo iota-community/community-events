@@ -11,4 +11,5 @@
 9. **Crypto Crash**: Am Mittwoch gab es einen ordentlichen Rücksetzer im Aktienmarkt und bei Crypto. Der Grund ist wohl das US Justice Department, das Vorladungen an Nvidia und andere Unternehmen erlassen hat, um mögliche Kartellrechtsverstöße zu untersuchen: [Tweet](https://x.com/CollinBrownXRP/status/1831170166001983701)
 10. **IOTA EVM Ökosystem**: [IOTApoet tweetet](https://x.com/IotaPoet/status/1830970436877767063) eine ziemlich lange Liste and Projekten die es auf der IOTA EVM bereits gibt und die größten Teils von dem IF EVM Team ongeboardet wurden. Daher [retweetet Susanne Krone](https://x.com/SusanneKrone/status/1830975847437828428) das auch
 11. **Crypto Adoption**: In der Züricher Kantonalbank können Kunden jetzt Bitcoin und Crypto kaufen: [Tweet](https://x.com/BitcoinMagazine/status/1831295803249275119)
-12. 
+12. **Crypto Adoption**: Bitbanda ist jetzt offizieller Partner bei der NFL: [Tweet](https://x.com/Bitpanda_global/status/1831604858551452147)
+13. 
