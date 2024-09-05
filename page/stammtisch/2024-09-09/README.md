@@ -12,4 +12,6 @@
 10. **IOTA EVM Ökosystem**: [IOTApoet tweetet](https://x.com/IotaPoet/status/1830970436877767063) eine ziemlich lange Liste and Projekten die es auf der IOTA EVM bereits gibt und die größten Teils von dem IF EVM Team ongeboardet wurden. Daher [retweetet Susanne Krone](https://x.com/SusanneKrone/status/1830975847437828428) das auch
 11. **Crypto Adoption**: In der Züricher Kantonalbank können Kunden jetzt Bitcoin und Crypto kaufen: [Tweet](https://x.com/BitcoinMagazine/status/1831295803249275119)
 12. **Crypto Adoption**: Bitbanda ist jetzt offizieller Partner bei der NFL: [Tweet](https://x.com/Bitpanda_global/status/1831604858551452147)
-13. 
+13. **IOTA Adoption**: Die [IF macht ein Thread](https://x.com/iota/status/1831678680218628489) über ihren Blogpost: [IOTA: A Trusted Partner in Europe - Pioneering Web3 Solutions for Europe’s Digital Growth](https://blog.iota.org/iota-a-trusted-partner-in-europe/)
+14. **IOTA EVM Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1831692967494418799) über ein Interview mit einen Core Member
+15. 
