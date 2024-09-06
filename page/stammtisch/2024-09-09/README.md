@@ -15,4 +15,8 @@
 13. **IOTA Adoption**: Die [IF macht ein Thread](https://x.com/iota/status/1831678680218628489) über ihren Blogpost: [IOTA: A Trusted Partner in Europe - Pioneering Web3 Solutions for Europe’s Digital Growth](https://blog.iota.org/iota-a-trusted-partner-in-europe/)
 14. **IOTA EVM Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1831692967494418799) über ein Interview mit einen Core Member
 15. **Crypto Adoption**: Trump spricht darüber, dass er die Amerika zur "world capitol for Bitcoin und Crypto" machen will: [Tweet](https://x.com/saylor/status/1831749832823783890)
-16. 
+16. **IOTA Hype**: Es gab Aussagen zum Geheimprojekt im iota Discord: [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1831977730671595541)
+17. **Allg. News**: Es gab eine [Aussage von Pavel Durov](https://x.com/durov/status/1831826862936633657) dem Telegram Gründer bezüglich seiner Verhaftung
+18. **IOTA EVM Gaming**: Ein [Tweet von IOTAHeroes](https://x.com/IotaHeroes/status/1831787268673253491) zum Sonderkonditionen beim Weekend Adventure
+19. **IOTA Science**: Es gab ein [Thread von Salima](https://x.com/Salimasbegum/status/1831795143592267971) über das Paper: [IOTASDN: IOTA 2.0 Smart Contracts for Securing Software-Defined Networking Ecosystem](https://www.mdpi.com/1424-8220/24/17/5716)
+20. **IOTA EVM Ökosystem**: [Apebond tweetet](https://x.com/ApeBond/status/1831784603616747695) darüber, dass man jetzt auch RUST und IOL Bonds kaufen kann
