@@ -23,3 +23,5 @@
 21. **IOTA Drama**: Scheinbar ist [Chr. Strnadl](https://twitter.com/archimate) schon wieder raus bei der IF...  [siehe #german channel](https://discord.com/channels/397872799483428865/1011169301631356978/1281699509092487211)
 22. **IOTA Drama**: Warum [schreibt IOTABot](https://x.com/iotabots/status/1832117717568200830) "IOTA is dead" und macht diesen [Clown-Tweet](https://x.com/iotabots/status/1816808712243487026) über die IOTA Community?
 23. **Crypto Adoption**: [Michael Dell tweetet](https://x.com/MichaelDell/status/1832137497943413115) "Enjoy Bitcoin". Er ist offenbar der 13. reichste Mensch der Welt ([Tweet](https://x.com/blocknewsdotcom/status/1832155630486089839))
+24. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1832448746107318637) über einen Guestpost auf CoinmarketCap: [IOTA: A Trusted Partner in Europe](https://coinmarketcap.com/community/articles/66d80eb56274207270cded23/)
+25. 
