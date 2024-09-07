@@ -12,7 +12,7 @@
 10. **IOTA EVM Ökosystem**: [IOTApoet tweetet](https://x.com/IotaPoet/status/1830970436877767063) eine ziemlich lange Liste and Projekten die es auf der IOTA EVM bereits gibt und die größten Teils von dem IF EVM Team ongeboardet wurden. Daher [retweetet Susanne Krone](https://x.com/SusanneKrone/status/1830975847437828428) das auch
 11. **Crypto Adoption**: In der Züricher Kantonalbank können Kunden jetzt Bitcoin und Crypto kaufen: [Tweet](https://x.com/BitcoinMagazine/status/1831295803249275119)
 12. **Crypto Adoption**: Bitbanda ist jetzt offizieller Partner bei der NFL: [Tweet](https://x.com/Bitpanda_global/status/1831604858551452147)
-13. **IOTA Adoption**: Die [IF macht ein Thread](https://x.com/iota/status/1831678680218628489) über ihren Blogpost: [IOTA: A Trusted Partner in Europe - Pioneering Web3 Solutions for Europe’s Digital Growth](https://blog.iota.org/iota-a-trusted-partner-in-europe/)
+13. **IOTA Adoption**: Die [IF macht ein Thread](https://x.com/iota/status/1831678680218628489) über ihren Blogpost: [IOTA: A Trusted Partner in Europe - Pioneering Web3 Solutions for Europe’s Digital Growth](https://blog.iota.org/iota-a-trusted-partner-in-europe/); Auch [Dom retweetet](https://x.com/DomSchiener/status/1832100610956558651) das
 14. **IOTA EVM Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1831692967494418799) über ein Interview mit einen Core Member
 15. **Crypto Adoption**: Trump spricht darüber, dass er die Amerika zur "world capitol for Bitcoin und Crypto" machen will: [Tweet](https://x.com/saylor/status/1831749832823783890)
 16. **IOTA Hype**: Es gab Aussagen zum Geheimprojekt im iota Discord: [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1831977730671595541)
@@ -20,3 +20,6 @@
 18. **IOTA EVM Gaming**: Ein [Tweet von IOTAHeroes](https://x.com/IotaHeroes/status/1831787268673253491) zum Sonderkonditionen beim Weekend Adventure
 19. **IOTA Science**: Es gab ein [Thread von Salima](https://x.com/Salimasbegum/status/1831795143592267971) über das Paper: [IOTASDN: IOTA 2.0 Smart Contracts for Securing Software-Defined Networking Ecosystem](https://www.mdpi.com/1424-8220/24/17/5716)
 20. **IOTA EVM Ökosystem**: [Apebond tweetet](https://x.com/ApeBond/status/1831784603616747695) darüber, dass man jetzt auch RUST und IOL Bonds kaufen kann
+21. **IOTA Drama**: Scheinbar ist [Chr. Strnadl](https://twitter.com/archimate) schon wieder raus bei der IF...  [siehe #german channel](https://discord.com/channels/397872799483428865/1011169301631356978/1281699509092487211)
+22. **IOTA Drama**: Warum [schreibt IOTABot](https://x.com/iotabots/status/1832117717568200830) "IOTA is dead" und macht diesen [Clown-Tweet](https://x.com/iotabots/status/1816808712243487026) über die IOTA Community?
+23. **Crypto Adoption**: [Michael Dell tweetet](https://x.com/MichaelDell/status/1832137497943413115) "Enjoy Bitcoin". Er ist offenbar der 13. reichste Mensch der Welt ([Tweet](https://x.com/blocknewsdotcom/status/1832155630486089839))
