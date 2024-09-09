@@ -33,3 +33,4 @@
 31. **IOTA Adoption**: Die [AMINA Bank tweetet](https://x.com/AMINABankGlobal/status/1832728085331853654), dass sie den "@IOTA x @tenity_global RWA Accelerator Demo Day" sponsort, wofür man sich [hier](https://lu.ma/tnnki0vs?hss_channel=tw-1024292924077629441&utm_campaign=Token%202049&utm_content=194164970&utm_medium=social&utm_source=twitter) anmelden kann
 32. **Shimmer Drama**: [Deepr Finance tweetet](https://x.com/DeeprFinance/status/1833118413931127269), dass sie "Deepr Degen" auf Shimmer einstellen werden, weil es bei den 2 Memecoins kaum liquidity gibt
 33. **Crypto News**: [Rabby Wallet tweetet](https://x.com/Rabby_io/status/1833117731412984014), dass man Gas Fees jetzt mit einem eigenen Gas Account managen kann
+34. **IOTA Video**: Die [IF tweetet](https://x.com/iota/status/1833143420455354865) +ber [BuildaSphere #18 with Deepr Finance](https://youtu.be/RT3FyiLv--s)
