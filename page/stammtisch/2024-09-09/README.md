@@ -31,5 +31,5 @@
 29. **IOTA EVM Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1833024768515154006) über "the latest progress of our game development!"
 30. **Crypto Adoption**: Michael Saylor war aus CNN: [Tweet](https://x.com/TheBTCTherapist/status/1833112990633087299)
 31. **IOTA Adoption**: Die [AMINA Bank tweetet](https://x.com/AMINABankGlobal/status/1832728085331853654), dass sie den "@IOTA x @tenity_global RWA Accelerator Demo Day" sponsort, wofür man sich [hier](https://lu.ma/tnnki0vs?hss_channel=tw-1024292924077629441&utm_campaign=Token%202049&utm_content=194164970&utm_medium=social&utm_source=twitter) anmelden kann
-32. **Shimmer Drama**: [Deepr Finance tweetet](https://x.com/DeeprFinance/status/1833118413931127269), dass sie Deepr auf Shimmer einstellen werden, weil kaum mehr Liquidität ist auf Shimmer
+32. **Shimmer Drama**: [Deepr Finance tweetet](https://x.com/DeeprFinance/status/1833118413931127269), dass sie "Deepr Degen" auf Shimmer einstellen werden, weil es bei den 2 Memecoins kaum liquidity gibt
 33. **Crypto News**: [Rabby Wallet tweetet](https://x.com/Rabby_io/status/1833117731412984014), dass man Gas Fees jetzt mit einem eigenen Gas Account managen kann
