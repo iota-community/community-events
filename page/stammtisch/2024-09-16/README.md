@@ -1,6 +1,6 @@
 ## IOTA Stammtischthemen für Montag, den 16.9.2024
 
-1. **IOTA Quicktakes**: Die [IF tweetet]() über die [IOTA Quicktakes]()
+1. **IOTA Quicktakes**: Die [IF tweetet](Großbritannien führt einen Gesetzentwurf ein, um Kryptowährungen offiziell und rechtlich als persönliches Eigentum anzuerkennen.) über die [IOTA Quicktakes](); Man beachte: Das Video ist wieder vertont!
 2. **IOTA EVM Ökosystem**: Die [Rusti Robots tweeten](https://x.com/RustyRobotCC/status/1833370866132152799) über eine NFT Bridge zw. Shimmer und IOTA die sie implementiert haben. Sie [tweeten](https://x.com/RustyRobotCC/status/1833371220445970458) auch, dass sich Projekte bei ihnen melden können wenn sie auch migrieren wollen
 3. **IOTA EVM Gaming**: [Roy Saltmines tweetet](https://x.com/SaltminesRoy/status/1833386151220269481) ein Update zu ihrer Spielentwicklung: "we have finished the smart contracts for Phase 1"
 4. **IOTA EVM Ökosystem Learn**: [FomoFow tweetet](https://x.com/FOMO_Fox/status/1833475515564376274) über ein neuen Tutorial für Crypto starter: [What is a Cryptocurrency Wallet?](https://fomofox.info/education/understanding-cryptocurrency-wallets/)
@@ -10,4 +10,13 @@
 8. **Allg. News**: Es gab eine [Fernsehdebatte zwischen Trump und Harris](); Nach der Debatte hat sich Taylor Swift für K. Harris ausgesprochen mit einem [längeren Statement](https://x.com/wallstreetbets/status/1833705234457071725)
 9. **IOTA Adoption**: Die [IF macht ein Thread](https://x.com/iota/status/1833837901215338601) über ihre European Blockchain Services PCP Lösungen: 1. [Digital Product Passports for Electronics EBSI - Enhancing Recycling with IOTA Technology](https://blog.iota.org/dpp-for-electronics-iota/); 2. [Transforming Plastic Waste with DPPs - IOTA Tech Boosts Circular Economy](https://blog.iota.org/dpp-plastics-iota/); 3. [Smart Contracts, Smarter Rights - IOTA Enhances IPR Management](https://blog.iota.org/ipr-management-iota/)
 10. **IOTA Audio**: Am Mittwoch war das [BuildSphere #19 AMA mit Cybar](https://x.com/iota/status/1833868098887147868)
-11. **IOTA Event**: Artikel: [Pioneering the Future: IOTA x Tenity’s Demo Day Showcases Game-Changing Blockchain](https://cryptonewsfocus.com/pioneering-the-future-iota-x-tenitys-demo-day-showcases-game-changing-blockchain-projects/)
+11. **IOTA EVM Ökosystem**:  [GroupFi tweetet](https://x.com/groupfi_ai/status/1833855714038563194), dass sie auf [Abitrum](https://x.com/arbitrum) launchen
+12. **IOTA Event**: Artikel: [Pioneering the Future: IOTA x Tenity’s Demo Day Showcases Game-Changing Blockchain](https://cryptonewsfocus.com/pioneering-the-future-iota-x-tenitys-demo-day-showcases-game-changing-blockchain-projects/)
+13. **Crypto Adoption**: [Elon Musk tweetet](https://x.com/elonmusk/status/1834104386303520822) "Department Of Government Efficiency" (Anfangsbuchstaben DOGE)
+14. **Crypto Adoption**: Großbritannien führt einen Gesetzentwurf ein, um Kryptowährungen offiziell und rechtlich als persönliches Eigentum anzuerkennen.: [Tweet](https://x.com/wallstreetbets/status/1833907716047430010)
+15. **IOTA EVM Ökosystem**: [DeeprFinance tweetet](https://x.com/DeeprFinance/status/1833889041386811421) über 3,4Mio TVL auf Deepr.Finance und promoted "endless DeFi psibilities"
+16. **IOTA Event**: [Bloom tweetet](https://x.com/bloomwalletio/status/1833923149416513766) über das [Token 2049 Event in Singapoore](https://x.com/token2049) wo sie auch sein werden; Hier noch ein [Tweet von Bloom](https://x.com/bloomwalletio/status/1834217867220582866) darüber; Interessant auch, dass dort mal Arben Kane auftritt: [Tweet](https://x.com/token2049/status/1834192956389216585) ("UX and Economics: The Secret Sauce for Sticky dApps” on Sep 18th at 12:45 PM.)
+17. **IOTA EVM Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1834128987083120953) über ein "GAME DEV UPDATE: Lineupphase - Flow of Elements"
+18. **IOTA EVM Ökosystem**: [Sherlock tweetet](https://x.com/sherlockdefi/status/1833933718303498683), dass sie [MagicSea](https://x.com/MagicSeaDEX) auditiert haben
+19. **IOTA EVM Ökosystem**: [Iotaheroes tweetet](https://x.com/IotaHeroes/status/1834173956116390318) über ihre Erfahrungen mit der IOTA EVM und der Betreuung von der IOTA Foundation; [Phylo bedankt sich](https://x.com/PhyloIota/status/1834176113754751160) für die netten Worte
+20. **Allg. News**: Space X hat Astronauten aussteigen lassen: 
