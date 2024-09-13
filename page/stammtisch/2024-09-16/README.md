@@ -19,4 +19,10 @@
 17. **IOTA EVM Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1834128987083120953) über ein "GAME DEV UPDATE: Lineupphase - Flow of Elements"
 18. **IOTA EVM Ökosystem**: [Sherlock tweetet](https://x.com/sherlockdefi/status/1833933718303498683), dass sie [MagicSea](https://x.com/MagicSeaDEX) auditiert haben
 19. **IOTA EVM Ökosystem**: [Iotaheroes tweetet](https://x.com/IotaHeroes/status/1834173956116390318) über ihre Erfahrungen mit der IOTA EVM und der Betreuung von der IOTA Foundation; [Phylo bedankt sich](https://x.com/PhyloIota/status/1834176113754751160) für die netten Worte
-20. **Allg. News**: Space X hat Astronauten aussteigen lassen: 
+20. **Allg. News**: Space X hat 4 Astronauten aussteigen lassen:
+21. **Crypto Adoption**: Van Eck CEO sagt Bitcoin geht auf $350K: [Tweet](https://x.com/Vivek4real_/status/1834345582388744418)
+22. **Crypto Adoption**: Uber CEO will Crypto Bezahlungen ermöglichen: [Tweet](https://x.com/bitcoinlfgo/status/1834159097559580853)
+23. **Crypto Adoption**: Coinbase bringt wrapped Bitcoin und wrapped Ethereum auf Base: [Tweet](https://x.com/bitcoinlfgo/status/1834215693736165816); $100mio in 24h: [Tweet](https://x.com/tomwanhh/status/1834332049379049926)
+24. **Crypto Adoption**: Blocktrainer war im Bundestag zum Thema: "Wie Deutschland schon HEUTE von #Bitcoin profitieren kann!": [Tweet 1](https://x.com/blocktrainer/status/1834286610676154484); [Tweet 2]8https://x.com/blocktrainer/status/1834333913931563334)
+25. **Ki News**: [OpenAi tweetet](https://x.com/OpenAI/status/1834278217626317026) darüber, dass sie eine Preview von OpenAI o1 ("a new series of AI models designed to spend more time thinking before they respond.") veröffentlicht haben
+26. 
