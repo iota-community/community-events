@@ -39,4 +39,4 @@
 37. **IOTA EVM Ökosystem**: Das Multisig Wallet von den Community Funds zur TVL erhöhung wird langsam aktiv... Es gibt zumindest einen [MultisigWalletTracker Bot](https://discord.com/channels/397872799483428865/1284022214420729856/1284060362995666994) im iota Discord
 38. **IOTA Event**: Der [TangleTalk tweetet](https://x.com/tangle_talk/status/1835253045069750646) über einen Sprachchat Ende Oktober wahrscheinlich mit [Susanne Krone](https://twitter.com/SusanneKrone) von der IF (25.10.24 um 17 Uhr ein.)
 39. **IOTA Stammtisch**: Am 17.9 ist ein IOTA Stammtisch in Stuttgart: [Tweet](https://x.com/tangle_talk/status/1835326909850304707)
-40. 
+40. **IOTA Drama**: Auf [Christoph Strnadls Twitter Prfofil](https://twitter.com/archimate) ist jetzt kein Hinweis mehr auf IOTA...
