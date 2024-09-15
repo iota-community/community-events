@@ -37,3 +37,4 @@
 35. **Allg. News**: Am Samstag hat Stefan Raab gegen Regina Halmich geboxt...
 36. **Allg. News**: Es gibt heftige Überschwemmungen im Südosten: [Tweet](https://x.com/NurderK/status/1835227703303172113)
 37. **IOTA EVM Ökosystem**: Das Multisig Wallet von den Community Funds zur TVL erhöhung wird langsam aktiv... Es gibt zumindest einen [MultisigWalletTracker Bot](https://discord.com/channels/397872799483428865/1284022214420729856/1284060362995666994) im iota Discord
+38. **IOTA Event**: Der [TangleTalk tweetet](https://x.com/tangle_talk/status/1835253045069750646) über einen Sprachchat Ende Oktober wahrscheinlich mit [Susanne Krone](https://twitter.com/SusanneKrone) von der IF (25.10.24 um 17 Uhr ein.)
