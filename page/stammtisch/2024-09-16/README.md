@@ -1,7 +1,7 @@
 ## IOTA Stammtischthemen für Montag, den 16.9.2024
 
 1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1833173520093683759) über die [IOTA Quicktakes 09.09.24: IOTA as a trusted partner in the EU, BuildSphere #18 & NEW FORMAT](https://www.youtube.com/watch?v=yJmKmiz8B4A); Man beachte: Das Video ist wieder vertont!
-2. **IOTA EVM Ökosystem**: Die [Rusti Robots tweeten](https://x.com/RustyRobotCC/status/1833370866132152799) über ihre neue NFT Bridge zwischen Shimmer und IOTA auf [rustyrobot.io/de)](https://www.rustyrobot.io/de). Sie [tweeten](https://x.com/RustyRobotCC/status/1833371220445970458) auch, dass sich Projekte bei ihnen melden können, wenn sie ihre NFTs auch migrieren wollen
+2. **IOTA EVM Ökosystem**: Die [Rusti Robots tweeten](https://x.com/RustyRobotCC/status/1833370866132152799) über ihre neue NFT Bridge zwischen Shimmer und IOTA auf [rustyrobot.io/de](https://www.rustyrobot.io/de). Sie [tweeten](https://x.com/RustyRobotCC/status/1833371220445970458) auch, dass sich Projekte bei ihnen melden können, wenn sie ihre NFTs auch migrieren wollen
 3. **IOTA EVM Gaming**: [Roy Saltmines tweetet](https://x.com/SaltminesRoy/status/1833386151220269481) ein Update zu ihrer Spielentwicklung: "we have finished the smart contracts for Phase 1"
 4. **IOTA EVM Ökosystem Learn**: [FomoFox tweetet](https://x.com/FOMO_Fox/status/1833475515564376274) über ein neues Tutorial für Crypto Beginner: [What is a Cryptocurrency Wallet?](https://fomofox.info/education/understanding-cryptocurrency-wallets/)
 5. **Crypto Adoption**: Artikel: [BONK wird Premium Partner von Borussia Dortmund](https://www.btc-echo.de/schlagzeilen/dortmund-im-memecoin-fieber-bonk-wird-partner-des-bvb-191536/)
