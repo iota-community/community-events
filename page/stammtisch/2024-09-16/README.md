@@ -39,7 +39,7 @@
 37. **IOTA EVM Ökosystem**: Das Multisig Wallet von den Community Funds zur TVL Erhöhung auf der IOTA EVM wird langsam aktiv... Es gibt jetzt zumindest schon mal ein [Multisig-Wallet-Tracker-Bot](https://discord.com/channels/397872799483428865/1284022214420729856/1284060362995666994) im iota Discord
 38. **IOTA Event**: Der [TangleTalk tweetet](https://x.com/tangle_talk/status/1835253045069750646) über einen Sprachchat Ende Oktober (25.10.24 um 17 Uhr ein.) der wahrscheinlich mit [Susanne Krone](https://twitter.com/SusanneKrone) von der IF stattfindet
 39. **IOTA Stammtisch**: Am 17.9 ist ein IOTA Stammtisch in Stuttgart: [Tweet](https://x.com/tangle_talk/status/1835326909850304707)
-40. **IOTA Drama**: Auf [Christoph Strnadls Twitter Prfofil](https://twitter.com/archimate) ist jetzt kein Hinweis mehr auf IOTA...
+40. **IOTA Drama**: Auf [Christoph Strnadls Twitter Prfofil](https://twitter.com/archimate) ist jetzt kein Hinweis mehr auf IOTA... Er ist übrigens jetzt bei Gaia-X: [Gaia-X welcomes Dr Christoph Strnadl as the new chief technology officer starting October 2024](https://gaia-x.eu/news-press/gaia-x-welcomes-dr-christoph-strnadl-as-new-chief-technology-officer-starting-october-2024/)
 41. **Allg. Drama**: Es gab einen 2. Tötungsversuch auf Donald Trump in seinem Golf Resort: [Tweet 1](https://x.com/Huberton/status/1835430105989947891); [Tweet 2](https://x.com/Huberton/status/1835465495706833179)
 42. **IOTA EVM Ökosystem**: Der EVM Hypetrain 6 von Magic Sea ist zu Ende: [Tweet von MagicSea](https://x.com/MagicSeaDEX/status/1835598883478450502)
 43. **IOTA Event**: Dom Schiener ist Sprecher bei einer Panel Discussion: [Tweet](https://x.com/iota/status/1835649850009850345)
