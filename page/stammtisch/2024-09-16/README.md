@@ -42,3 +42,5 @@
 40. **IOTA Drama**: Auf [Christoph Strnadls Twitter Prfofil](https://twitter.com/archimate) ist jetzt kein Hinweis mehr auf IOTA...
 41. **Allg. Drama**: Es gab einen 2. Tötungsversuch auf Donald Trump in seinem Golf Resort: [Tweet 1](https://x.com/Huberton/status/1835430105989947891); [Tweet 2](https://x.com/Huberton/status/1835465495706833179)
 42. **IOTA EVM Ökosystem**: Der EVM Hypetrain 6 von Magic Sea ist zu Ende: [Tweet von MagicSea](https://x.com/MagicSeaDEX/status/1835598883478450502)
+43. **IOTA Event**: Dom Schiener ist Sprecher bei einer Panel Discussion: [Tweet](https://x.com/iota/status/1835649850009850345)
+44. **IOTA EVM Ökosystem**: [CoinRabbit tweetet](https://x.com/CoinRabbitLoans/status/1835650091664703618) darüber, dass sie bald IOTA integrieren auf [coinrabbit.io](https://coinrabbit.io/?referral=fromTwitterProjects) ("Crypto Loans: Get Instant Funds Against Your Crypto")
