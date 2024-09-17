@@ -8,3 +8,4 @@
 6. **IOTA EVM Ökosystem**: [cyberperb tweetet](https://x.com/cyberperp/status/1835929188257202648) über ihren Tokenlaunch und
 7. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1835953481766576377) ein paar Bilder von Dom auf der Bühne vom "Real World Asset Summit"
 8. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1835967916711285135) von der Panel Diskussion "making RWA adoption happen" auf dem #IOTA [@Tenity_global](https://x.com/Tenity_global) Accelerator Demo Day
+9. **IOTA Event**: Die [IF retweetet](https://x.com/iota/status/1836026609364586893) den [Tweet von Binance](https://x.com/binance/status/1835559242842992739) über die Binance Blockchain Week in Dubai, auf der Dom Schiener als Sprecher eingeladen ist
