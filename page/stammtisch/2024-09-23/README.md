@@ -24,4 +24,4 @@
 22. **IOTA Promote**: Artikel mit IOTA inside: [Alles im Blick - Das sind die 5 wichtigsten Krypto-News der Woche](https://www.btc-echo.de/news/das-sind-die-5-wichtigsten-krypto-news-der-woche-31-189701/) darin enthalten: "...Dominik Schiener: Darum ist IOTA jetzt Scharia-konform..."
 23. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1836677333794611573) ein neues Core Team Interview
 24. **Crypto Adoption**: Es kommt wohl bal dein 2. Solana Phone: [Tweet](https://x.com/AltcoinDailyio/status/1836695432292180174)
-25. 
+25. **IOTA Adoption**: Die [IF macht ein Thread](https://x.com/iota/status/1836706804891361426) über die 5 Projekte, die sich am Demo Day vorgestellt haben: ([Qiro_Finance](https://x.com/Qiro_Finance) mit [qiro.fi](https://www.qiro.fi/), [defaprimitive](https://x.com/defaprimitive) mit [invoicemate.tech](https://invoicemate.tech/), [The Real Lifestyle](https://x.com/Trl_co) mit [linktr.ee/trl.co](https://linktr.ee/trl.co), [Black Frog](https://x.com/BlackFrog_xyz) mit [blackfrog.xyz](http://blackfrog.xyz/) und [AuvoID](https://x.com/AuvoDigital) mit [auvo.io](https://auvo.io/))
