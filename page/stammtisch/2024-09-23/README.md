@@ -22,4 +22,6 @@
 20. **IOTA Adoption?**: Die Crypto Bank [Amina tweetet](https://x.com/AMINABankGlobal/status/1836415899043049573) darüber, dass sie einem Konsortium von Zentralbanken für Crossboarder Transaktionen beigetreten sind um Tokenisierung von Länderübergreifenden Zahlungsströmen zu ergründen: [AMINA Bank Selected to Participate in Project Agorá to Explore Tokenization of Cross-Border Payments](https://aminagroup.com/press/amina-bank-selected-to-participate-in-project-agora-to-explore-tokenization-of-cross-border-payments/); Hier noch ein [Tweet von Amina](https://x.com/AMINABankGlobal/status/1834560450337386851) mit #iota
 21. **IOTA EVM Ökosystem**: [EpochZero tweetet](https://x.com/Epoch_0/status/1836428195014296032), dass sie ihren Marktplatz auf Multichain optimiert haben: [nft.epochzero.io](https://nft.epochzero.io/)
 22. **IOTA Promote**: Artikel mit IOTA inside: [Alles im Blick - Das sind die 5 wichtigsten Krypto-News der Woche](https://www.btc-echo.de/news/das-sind-die-5-wichtigsten-krypto-news-der-woche-31-189701/) darin enthalten: "...Dominik Schiener: Darum ist IOTA jetzt Scharia-konform..."
-23. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1836677333794611573) ein neues Core Team Interview 
+23. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1836677333794611573) ein neues Core Team Interview
+24. **Crypto Adoption**: Es kommt wohl bal dein 2. Solana Phone: [Tweet](https://x.com/AltcoinDailyio/status/1836695432292180174)
+25. 
