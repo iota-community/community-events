@@ -25,3 +25,11 @@
 23. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1836677333794611573) ein neues Core Team Interview
 24. **Crypto Adoption**: Es kommt wohl bal dein 2. Solana Phone: [Tweet](https://x.com/AltcoinDailyio/status/1836695432292180174)
 25. **IOTA Adoption**: Die [IF macht ein Thread](https://x.com/iota/status/1836706804891361426) über die 5 Projekte, die sich am Demo Day vorgestellt haben: ([Qiro_Finance](https://x.com/Qiro_Finance) mit [qiro.fi](https://www.qiro.fi/), [defaprimitive](https://x.com/defaprimitive) mit [invoicemate.tech](https://invoicemate.tech/), [The Real Lifestyle](https://x.com/Trl_co) mit [linktr.ee/trl.co](https://linktr.ee/trl.co), [Black Frog](https://x.com/BlackFrog_xyz) mit [blackfrog.xyz](http://blackfrog.xyz/) und [AuvoID](https://x.com/AuvoDigital) mit [auvo.io](https://auvo.io/))
+26. **IOTA Promote**: [Tokeny tweetet](https://x.com/TokenySolutions/status/1836721907317584295) über ein Interview, dass sie vor der New York Stock Exchange hatten; Tokeny hat ja ne Partnerschaft mit IOTA (siehe [Tweet vom 4. Juli](https://x.com/iota/status/1808848246472683827))
+27. **Crypto Adoption**: Der US Staat Louisiana akzeptiert jetzt offenbar Bitcoinzahlungen: [Tweet](https://x.com/CollinBrownXRP/status/1836682892967317558)
+28. **Crypto Adoption**: Die Commerzbank will Bitcoin und Ethereum Handel über Crypto Finance anbieten: [Tweet](https://x.com/FurkanCCTV/status/1836710631719809315)
+29. **Crypto Adoption**: Blackrock bereitet sich offenbar auf eine 35-Billionen-Dollar-Krise der Federal Reserve mit Bitcoin vor: [Tweet](https://x.com/TheRobynHD/status/1837032368374264232)
+30. **IOTA EVM Ökosystem**: [CoinRabbit tweetet](https://x.com/CoinRabbitLoans/status/1837095041703039394), dass Loans mit IOTA als Kollateral jetzt möglich sind auf [coinrabbit.io](https://coinrabbit.io/)
+31. **Crypto Pump**: Am Donnerstag/Freitag ist Bitcoin auf über $63K gestiegen und IOTA steigt auch mal wieder...
+32. **IOTA Audio**: Am Mittwoch gibt es ein [BuildSphere #20 X-Spaces](https://x.com/iota/status/1837099408669704279) mit :[Velocimeter](https://x.com/VelocimeterDEX)
+33. **Crypto Adoption**: Microstrategie leiht sich $1 Milliarde um Bitcoin zu kaufen: [Tweet](https://x.com/BTC_Archive/status/1837101403967275440)
