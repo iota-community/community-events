@@ -49,3 +49,4 @@
 47. **IOTA EVM Ökosystem**: [Figment tweetet](https://x.com/figment_nfts/status/1838210518600794242) über "Figment is coming soon, bringing powerful tools and a vibrant community for NFT creators and collectors. " und die [IF retweetet](https://x.com/iota/status/1838218897255723370)
 48. **IOTA Code Update**: Neuer Release auf GitHub: [identity.rs/v1.4.0](https://x.com/iota/status/1838218897255723370)
 49. **IOTA Artikel**: von CoinTrust: [Blockchain IoT in Europe Gains Momentum with VeChain and IOTA Leading Innovation](https://www.cointrust.com/market-news/blockchain-iot-in-europe-gains-momentum-with-vechain-and-iota-leading-innovation)
+50. **IOTA Code Update**: Neue EVM Wasp geht morgen online
