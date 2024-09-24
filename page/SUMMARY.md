@@ -189,4 +189,5 @@
 - [2024-09-09](./stammtisch/2024-09-09/README.md)
 - [2024-09-16](./stammtisch/2024-09-16/README.md)
 - [2024-09-23](./stammtisch/2024-09-23/README.md)
+- [2024-09-30](./stammtisch/2024-09-30/README.md)
 
