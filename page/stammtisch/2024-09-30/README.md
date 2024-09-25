@@ -14,4 +14,5 @@
 12. **IOTA Audio**: Am Mittwoch gab es ein X-Space Event: [Buildsphere #20](https://x.com/i/spaces/1BdGYEXmOAQGX/peek) mit [VelocimeterDEX](https://x.com/VelocimeterDEX)
 13. **Crypto News**: Caroline Ellison die Dame von FTX muss 2 Jahren ins Gefängnis: [Tweet](https://x.com/wallstreetbets/status/1838676401093833080) und Puff Dady kommt ins gleiche Gefängnis (Metropolitan Detention Center) wie Sam Bankman-Fried; Artikel: [Diddy and Sam Bankman-Fried Are Jail Bunkmates](https://www.curbed.com/article/p-diddy-sam-bankman-fried-sbf-roomates-new-york-federal-jail-metropolitan-detention-center.html?utm_medium=s1&utm_source=tw&utm_campaign=nym)
 14. **Crypto Drama**: Bil Maher ein wichtiger Showmaster in der USA kritisiert den Energieverbrauch von Bitcoin: [Tweet](https://x.com/AltcoinDailyio/status/1838760659443703833)
-15. 
+15. **Crypto Adoption**: Der Head of Tokenization bei Blackrock macht Werbung für Bitcoin im TV: [Tweet](https://x.com/BitcoinMagazine/status/1838865008555602079)
+16. 
