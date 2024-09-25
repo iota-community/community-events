@@ -8,4 +8,5 @@
 6. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1838564046993309768) über den Event: [CHAISE Workshop: “Teach and Work on the Blockchain Landscape” to boost Blockchain Skills in the EU](https://chaise-blockchainskills.eu/teach-and-work-on-the-blockchain-landscape/) am 27.Sept in Brüssel
 7. **IOTA EVM Gaming**: Das [Shi Universe tweetet](https://x.com/Shiuniverse/status/1838837213045326313) über eine P2P Arena die es bald geben wird
 8. **IOTA EVM Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1838805631471591425) darüber, dass die [UrukBartas](https://x.com/UrukBartas) bald zu MagicSea kommen
-9. **Crypto Drama**: Gary Gensler wurde befragt: [SEC Gary Gensler testified before the House Financial Services Commitee - 9/24/24]()
+9. **Crypto Drama**: Gary Gensler wurde befragt: [SEC Gary Gensler testified before the House Financial Services Commitee - 9/24/24](https://www.youtube.com/watch?v=prVRVeYissQ)
+10. 
