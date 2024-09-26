@@ -19,3 +19,11 @@
 17. **IOTA EVM Gaming**: Lord Alexander tweetet](https://x.com/shortaktien/status/1838906116870185034) über ein Spiel dass er entwickelt: [Cryptotribe mein eigenes web3 Spiel auf der IOTA EVM](https://shortaktien.de/notes/cryptotribe-web3-iota-evm)
 18. **IOTA Ökosystem**: [Bloom macht ein Thread](https://x.com/bloomwalletio/status/1838939030177857775) über ihre Erfahrungen beim Token 2049 Event
 19. **Crypto Adoption**: Artikel: [Offizieller Krypto-Partner - Kraken ist neuer “Exclusive Partner” von RB Leipzig](https://www.btc-echo.de/schlagzeilen/kraken-ist-neuer-exclusive-partner-von-rb-leipzig-192394/)
+20. **IOTA EVM Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1839205351457013812) darüber, dass sie alle NFTs am 30. September auf die IOTA EVM airdroppen werden
+21. **IOTA Youtube**: Miss Crypto hat scheinbar ein Interview mit Dom Schiener gemacht: [Tweet](https://x.com/MissCryptoGER/status/1838982624595063136)
+22. **Allg. News**: Meta veröffentlicht neue (revolutionäre?) 3D Brille: [Tweet](https://x.com/RihardJarc/status/1839014234266755473)
+23. **Crypto Adoption**: Kamala Harris ist wohl jetzt auch Pro Blockchain... [Tweet](https://x.com/coinbureau/status/1839118945082814968)
+24. **Crypto Adoption**: [Kraken tweetet](https://x.com/krakenfx/status/1838881162472657065) über ihre Partnerschaft mit Red Bull Leipzig und ein Video von dem neuen Trikot mit dem "Kraken" Aufdruck
+25. **Crypto Adoption**: Artikel: [PayPal Enables US Businesses to Buy, Sell, and Hold Cryptocurrency](https://watcher.guru/news/paypal-enables-us-businesses-to-buy-sell-and-hold-cryptocurrency)
+26. **Crypto Adoption**: Blackrock kauft seit Januar 2024 Bitcoin und haben jetzt 359,279 BTC im Wert von $22.8 Milliarden: [Tweet](https://x.com/BitcoinMagazine/status/1838948831280410789)
+27. **IOTA Promote**: Artikel von Crypto News Flash: [Highlights from IOTA Demo Day: Exciting Innovations and Presentations on IOTA EVM](https://www.crypto-news-flash.com/highlights-from-iota-demo-day-exciting-innovations-and-presentations-on-iota-evm/)
