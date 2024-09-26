@@ -27,3 +27,8 @@
 25. **Crypto Adoption**: Artikel: [PayPal Enables US Businesses to Buy, Sell, and Hold Cryptocurrency](https://watcher.guru/news/paypal-enables-us-businesses-to-buy-sell-and-hold-cryptocurrency)
 26. **Crypto Adoption**: Blackrock kauft seit Januar 2024 Bitcoin und haben jetzt 359,279 BTC im Wert von $22.8 Milliarden: [Tweet](https://x.com/BitcoinMagazine/status/1838948831280410789)
 27. **IOTA Promote**: Artikel von Crypto News Flash: [Highlights from IOTA Demo Day: Exciting Innovations and Presentations on IOTA EVM](https://www.crypto-news-flash.com/highlights-from-iota-demo-day-exciting-innovations-and-presentations-on-iota-evm/)
+28. **IOTA Event Recap**: Die [IF tweetet](https://x.com/iota/status/1839258677074612606) nochmal ein paar Bilder vom RWA Demo Day
+29. **IOTA EVM TVL**: Die Multisig Wallet ist aktiv geworden und 100,000,000 IOTA im WErt von $14,606,700 wurden versendet: [Tweet von Linux](https://x.com/LinusNaumann/status/1839276145230872896); [Transaction im Explorer](https://explorer.evm.iota.org/tx/0x446495eaf407ba9c607187d198639159ae05751fcdd87dfbb63a6580ebd6691f?tab=index
+30. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1839288824536445320) über ein [Event in Afrika](https://x.com/iota/status/1839288824536445320) am 7.-8. Okt. das sie sponsoren
+31. **IOTA Promote**: [Kutkraft tweetet](https://x.com/kutkraft/status/1839285184178598006) er will nakt Skifahren gehen wenn IOTA $4 EOY macht. [Dom kommentiert](https://x.com/DomSchiener/status/1839287968630259884) das
+32. **IOTA EVM Ökosystem**: [TangleBeast tweetet](https://x.com/tanglebeasts/status/1839274498140381429) über ihren neuen NFT Marktplatz in dem sie auch die [Crypto Gin](https://x.com/Crypto_Gin21) NFTs verkaufen werden
