@@ -34,3 +34,4 @@
 32. **IOTA Promote**: [Kutkraft tweetet](https://x.com/kutkraft/status/1839285184178598006) er will nakt Skifahren gehen wenn IOTA $4 EOY macht. [Dom kommentiert](https://x.com/DomSchiener/status/1839287968630259884) das
 33. **IOTA EVM Ökosystem**: [TangleBeast tweetet](https://x.com/tanglebeasts/status/1839274498140381429) über ihren neuen NFT Marktplatz in dem sie auch die [Crypto Gin](https://x.com/Crypto_Gin21) NFTs verkaufen werden
 34. **Crypto Pump**: Bitcoin ist am Donnerstag/Freitag auf über $65K gestiegen und IOTA hält sehr gut mit. Selbst [Senfda Tzu tweetet](https://x.com/SenfdaTzu/status/1839349240444928310) über eine Trendwende beim IOTA Kurs
+35. **IOTA Adoption**: [Regine tweetet](https://x.com/Energine/status/1839568779199574332) von der [Inno Trans](https://x.com/InnoTrans) über einen real world usecase "The first decentralized industry cloud with AI agents" von [Ostakon](https://ostakon.de/) mit IOTA inside
