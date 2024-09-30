@@ -42,5 +42,5 @@
 40. **IOTA Stammtisch**: Der IOTa Stammtisch München war auf der Wiesn: [Tweet mit Bildern](https://x.com/IotaMunchen/status/1839990728371360143)
 41. **IOTA EVM Ökosystem**: [cyberperp tweetet](https://x.com/cyberperp/status/1840354705614032902) über eine Trading Competition die bald startet
 42. **Crypto Drama**: Es gibt Neuigkeiten zu den FTX Repayments in Höhe von $16 Milliarden: [Tweet](https://x.com/cryptomanran/status/1840415403933360283)
-43. **IOTA EVM Ökosystem**: Der [Head of Defi [IF] tweetet](https://x.com/0xSouvlaki/status/1839990692837294303) darüber, dass [VelocimeterDEX](https://x.com/VelocimeterDEX) auf die IOTA EVM kommt. Hier nochmal das [Buildsphere AMA Ep #20 mit Velocimeter]()
+43. **IOTA EVM Ökosystem**: Der [Head of Defi [IF] tweetet](https://x.com/0xSouvlaki/status/1839990692837294303) darüber, dass [VelocimeterDEX](https://x.com/VelocimeterDEX) auf die IOTA EVM kommt. Hier nochmal das [Buildsphere AMA Ep #20 mit Velocimeter](https://www.youtube.com/watch?v=gFdLa2PEI3c&t=480s)
 44. **IOTA EVM Ökosystem**: [Dar Mythos tweetet](https://x.com/DarkMythosIOTA/status/1840638784607519039) über die nächsten Schritte "moving to the IOTA EVM"
