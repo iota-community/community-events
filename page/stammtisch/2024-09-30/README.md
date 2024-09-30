@@ -48,3 +48,4 @@
 46. **IOTA Ökosystem**: [Realize tweetet](https://x.com/realizefinance/status/1840728576770945128) über ihre "upcoming Tokenization platform launching on IOTA and Ethereum". Sie sprechen von einem "real-world asset tokenization market" von "$16 trillion by 2030" und im besten Fall "$68 trillion" die von der [Boston Consulting Group](https://x.com/BCG) vorhergesagt sind
 47. **Crypto Adoption**: Der Film [Vitalik: An Ethereum Story](https://ethereumfilm.xyz/) wurde veröffentlicht und kann nur über eine Token-gated Webseite angeschaut werden
 48. **IOTA Analytics**: Die IF hat scheinbar 6,5 Tiota zu Binance geschickt: [Tweet](https://x.com/tanglelytics/status/1840626561206165563)
+49. **IOTA EVM Community Funds**: Harry hat im IOTA Discord 7 Fragen zu den TVL-Support beantwortet: [Discord Link](https://discord.com/channels/397872799483428865/397872799483428867/1290302082649296988)
