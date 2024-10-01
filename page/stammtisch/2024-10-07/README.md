@@ -5,3 +5,4 @@
 3. **IOTA Drama**: DEXes fangen jetzt offenbar auch an gegen Dom zu haten: [Tweet 1](https://x.com/_DEXES_/status/1840843712412176798); [Tweet 2](https://x.com/_DEXES_/status/1840844919767728461)
 4. **Bitcoin Adoption**: Eine japanische Firma "Metaplanet" hat 100K BTC gekauft: [Tweet](https://x.com/BitcoinMagazine/status/1840957602869514393)
 5. **Allg. News**: Pressemitteilung Bundesinnenministerium: [Sichere digitale Identitäten: Bürgerinnen und Bürger sollen sich mit dem Smartphone ausweisen können - Bundesregierung entwickelt staatliche EUDI-Wallet / Anerkennung von nicht-staatlichen Lösungen möglich](https://www.bmi.bund.de/DE/startseite/startseite-node.html;jsessionid=F135ED98E24D790C1D54A934F67BE53A.live861)
+6. **IOTA Audio**: Am Mittwoch war [BuildSphere #22 mit FomoFox](https://x.com/iota/status/1839621010598818171)
