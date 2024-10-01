@@ -8,4 +8,8 @@
 6. **IOTA Audio**: Am Mittwoch war [BuildSphere #22 mit FomoFox](https://x.com/iota/status/1839621010598818171)
 7. **Allg. News**: Julian Assange: [Befragung in der Versammlung des Europarates](https://www.youtube.com/live/Mq85IZMeigc?si=3JEsmaRB2rhjhQsk)
 8. **IOTA Ökosystem**: [Realize kommentiert](https://x.com/realizefinance/status/1841035844859158574), dass sie bald eine Pressebericht herausgeben wollen zu ihrer "tokenization platform" die auf ETH und IOTA laufen soll ([siehe Tweet](https://x.com/realizefinance/status/1840728576770945128)) 
-9. 
+9. **Allg. News**: [E-Cat tweetet](https://x.com/LeonardoCorpor3/status/1841087512627847498) sie wollen am 3. Oktober Videos veröffentlichen von ihrem [E-cat EV Test auf youtube](https:/www.youtube.com/@ecatthenewfire)
+10. **IOTA Drama**: Binance warnt jetzt die User u.a. vor IOTA wenn man die kaufen will, weil sie den Tokensupply innerhalb der letzten 18 Monate erhöht haben: [Introducing Risk Warnings for Tokens with Significant Tokenomics Changes](https://www.binance.com/en/support/announcement/introducing-risk-warnings-for-tokens-with-significant-tokenomics-changes-fc3b6e0ac0b644138cd35969663775b2?hl=en)
+11. **IOTA Announcement**: Es gibt jetzt wohl ein Datum für das Secret Projekt von der IF (15.10.24): [Tweet von der IF](https://x.com/iota/status/1841093063000613006); [Susanne Krone retweetet](https://x.com/SusanneKrone/status/1841098734236549583) das und auch [Phylo retweetet](https://x.com/PhyloIota/status/1841102608028549480) das
+12. **IOTA EVM Ökosystem**: [Realize macht einen Thread](https://x.com/realizefinance/status/1841099770410000532) über ihre "tokenization platform based on IOTA and Ethereum"
+13. **IOTA EVM Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1841125681549185285) über den Artikel: [Booster Launch on IOTA EVM](https://x.com/MagicSeaDEX/status/1841124357499924578)
