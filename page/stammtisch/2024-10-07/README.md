@@ -19,4 +19,6 @@
 17. **IOTA Drama**: Die [IF tweetet](https://x.com/iota/status/1841093063000613006) ein Countdown der am 15.10. endet und alle denken es geht um das geheime Tech Update auf das alle schon so lange warten. Die [3 Tweets von Susanne](https://x.com/SusanneKrone/status/1841136172170461451) machen das klar, dass es um ein Community Growth Program geht, aber ich befürchte die Community wird am Ende entäuscht sein weil sie das einfach nicht mitbekommen hat...
 18. **Bitcoin Adoption**: Die weltgrößte Terminbörse CME Group gab bekannt, dass Bitcoin Freitags-Futures eingeführt wurden und zum Handel verfügbar sind : [Tweet](https://x.com/BitcoinMagazine/status/1841144818648449524)
 19. **Crypto Crash**: Nachdem der Krieg eskaliert ist brechen am Dienstag die Aktienmärkte und die Cryptomärkte ein. IOTA trifft es besonders hart mit -10% in 24h
-20. **IOTA EVM Ökosystem**: [cyberperp tweetet](https://x.com/cyberperp/status/1841176064460042447) darüber, dass sie das erste mal $10 million in traiding volumen überschritten haben 
+20. **IOTA EVM Ökosystem**: [cyberperp tweetet](https://x.com/cyberperp/status/1841176064460042447) darüber, dass sie das erste mal $10 million in traiding volumen überschritten haben
+21. **Crypto Drama**: [Snowden](https://x.com/Snowden) sagt dass Solana zentralisiert ist auf der Token 2024 Konferenz: [Tweet](https://x.com/StakeWithPride/status/1841147593671561685)
+22. **Crypto Adoption**: Argentinien spricht mit El Salvador bezüglich Bitcoin Bonds: [Tweet](https://x.com/BitcoinMagazine/status/1841229729082576961)
