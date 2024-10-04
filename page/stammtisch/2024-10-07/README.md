@@ -36,4 +36,5 @@
 34. **IOTA Jobs**: [Stefan Schulte tweetet](https://x.com/stefschulte/status/1841864679318073786) über eine Sellenausschreibung der TU Hamburg: [Research Associate (m/f/d) / Wissenschaftliche*r Mitarbeiter*in (m/w/d)](https://stellenportal.tuhh.de/jobposting/1aa04df6e792a22257a54c7a5dd0e035b3110d76)
 35. **IOTA Artikel**: [BTC Echo tweetet](https://x.com/btcecho/status/1841797848154710251) über ihren Artikel: [IOTA-Gründer Dominik Schiener “Ziel ist ein DeFi-Ökosystem, das sich auf Real-World-Assets konzentriert"](https://www.btc-echo.de/news/ziel-ist-ein-defi-oekosystem-das-sich-auf-real-world-assets-konzentriert-192632/?utm_content=bufferf9d5c&utm_medium=social&utm_source=x.com&utm_campaign=buffer)
 36. **IOTA Adoption**: Es wurde eine TWIN Webseite gefunden ([twindev.org](https://twindev.org/)) und es gibt ein paar interessante Aussagen dazu: [Tweet mit Screenshot](https://x.com/IotaPoet/status/1841745418142560751); [Tweet mit Screenshot](https://x.com/IotaPoet/status/1841746532946550880)
-37. 
+37. **Crypto Adoption**: [SWIFT tweetet](https://x.com/swiftcommunity/status/1841764830023192733) über "Starting next year, financial institutions from around the world will start trialling live digital asset and currency transactions on the Swift network..."
+38. 
