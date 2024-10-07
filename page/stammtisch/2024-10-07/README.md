@@ -48,3 +48,4 @@
 46. **IOTA EVM Ökosystem**: [Tanglebeast tweetet](https://x.com/tanglebeasts/status/1842616346896400626) über ihre NFT Plattform und darüber, dass sie schon 9 NFT Projekte eingegliedert haben
 47. **IOTA Gaming**: Neues von dem Spiel von [Lord Alexander](https://x.com/shortaktien): [Dev Blog 1: Verbesserungen am Spiel – mehr Inhalt](https://shortaktien.de/notes/dev-blog-1-verbesserungen-inhalte-updates)
 48. **IOTA Youtube**: Jens Lund-Nielsen beim KRA Summit: [Tweet mit Fotos](https://x.com/GeckoFlyingHigh/status/1843197117587972316); Youtube: [The KRA Summit 2024 -  IOTA (Jens Lund-Nielson)](https://youtu.be/UAnAzGTW2gs)
+49. **IOTA Adoption**: Die [IF macht ein Thread](https://x.com/iota/status/1843275093717189052) über ihren Blogpost: [Fireblocks Integrates IOTA EVM - Expanding Options for Digital Assets](https://blog.iota.org/fireblocks-integrates-iota-evm/)
