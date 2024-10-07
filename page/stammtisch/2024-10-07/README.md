@@ -1,4 +1,4 @@
-## Stammtischthemen für Montag, den 7.102024
+## Stammtischthemen für Montag, den 7.10.2024
 
 1. **IOTA Gaming**: Die [IOTA Heroes tweeten](https://x.com/IotaHeroes/status/1840823274919653519) über ihr ein jähriges Geburtstags-Event
 2. **IOTA Event**: [Dominique Guinard tweetet](https://x.com/domguinard/status/1840763593467277678) über ein Event: "Preparing for Digital Product Passport and the Future of Product Identification and Information" in dem es offenbar um den digitalen Produkt Passports geht mit #IOTAinside
