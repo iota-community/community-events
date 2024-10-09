@@ -9,3 +9,8 @@
 7. **Allg. News**: Am Donnerstag war der [Tesla Robot Day - Livestream](https://x.com/i/broadcasts/1YqJDkbjazvGV)
 8. **Crypto Drama**: Artikel: [Crypto.com reicht Klage gegen SEC ein](https://x.com/i/broadcasts/1YqJDkbjazvGV)
 9. **IOTA Audio**: [Buildsphrere #22 mit AuditOne](https://x.com/iota/status/1843667671729987853)
+10. **IOTA EVM Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1843955383729062056) über ihr Rebranding
+11. **IOTA EVM Ökosystem**: [coda tweetet](https://x.com/coda_digital/status/1843965882797592956), dass sie bei einem VC-Event von [soonami](https://x.com/soonami_io) dabei sind
+12. **IOTA EVM Ökosystem Event**: Auch [Bloom tweetet](https://x.com/bloomwalletio/status/1843970782374019490) über ein Event ([Zebu live](https://x.com/Zebu_live)) wo sie auftreten dürfen
+13. **Crypto Adoption**: Die [HBO Serie](https://x.com/HBODocs/status/1843697871561838854) über Satoshi Nakamoto meint ihn in [Peter Todd](https://x.com/peterktodd) gefunden zu haben. Der verneint natürlich ([Video](https://x.com/BitcoinMagazine/status/1843978423712293163); [Tweet](https://x.com/BTC_Archive/status/1843950445259313393)... War wohl eher eine Marketing Geschichte... Hier ein Artikel darüber: [Der Erfinder von Bitcoin? Von HBO als Satoshi Nakamoto enthüllt: Das ist Peter Todd](https://www.btc-echo.de/news/von-hbo-als-satoshi-nakamoto-enthuellt-das-ist-peter-todd-193167/?utm_content=bufferb2429&utm_medium=social&utm_source=x.com&utm_campaign=buffer)
+14. 
