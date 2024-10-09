@@ -5,4 +5,7 @@
 3. **IOTA Event**: [TLIP tweetet](https://x.com/TLIP_io/status/1843538025629786378) über die [INATBA Digital Blockchain Week 2024](https://inatba.org/idbw/); [Livestream](https://www.youtube.com/live/TJGF6TS88GQ?feature=shared)
 4. **Allg. News**: Es gab ein [Interview zw. Elon Musk und Tucker Carlson](https://x.com/TuckerCarlson/status/1843375397024485778) in dem er sagt, dass die mögliche Veröffentlichung der Epsteinliste wahrscheinlich der Grund ist, warum so viele Billionäre ihr Geld an Kamala Harris spenden. Er nennt auch Namen wie [Bill Gates](https://x.com/BillGates) und [Reid Hoffman](https://x.com/reidhoffman): [Tweet](https://x.com/EndWokeness/status/1843381576719315053). Außerdem hat er Angst um sein Leben falls Trump nicht gewinnt: [Tweet](https://x.com/VigilantFox/status/1843446294917894208)
 5. **IOTA EVM Ökosystem**: [Insura Labs retweetet](https://x.com/Insura_Labs/status/1843586401402794301) den [Tweet von Vitalik Buterin](https://x.com/VitalikButerin/status/1836622619841564733) über Insurance DAOs. Sie wollen die auf IOTA bringen
-6. 
+6. **IOTA Adoption Event**: [TLIP retweetet](https://x.com/TLIP_io/status/1843896761062174913) den [Tweet von Asa](https://x.com/asadahlborn/status/1843889738731676073) über das Event in Kenya
+7. **Allg. News**: Am Donnerstag war der [Tesla Robot Day - Livestream](https://x.com/i/broadcasts/1YqJDkbjazvGV)
+8. **Crypto Drama**: Artikel: [Crypto.com reicht Klage gegen SEC ein](https://x.com/i/broadcasts/1YqJDkbjazvGV)
+9. **IOTA Audio**: [Buildsphrere #22 mit AuditOne](https://x.com/iota/status/1843667671729987853)
