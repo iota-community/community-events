@@ -29,3 +29,4 @@
 27. **Allg. News**: Es gab wohl einen 3. Assassination Atempt auf Trump: [Tweet](https://x.com/BRICSinfo/status/1845550535824322632)
 28. **IOTA EVM Ökosystem**: [Deepr tweetet](https://x.com/DeeprFinance/status/1845812651915436244) darüber, dass sie 100K zusätzliche Liquidität in das Deepr/IOTA pair auf [MagicSea](https://x.com/MagicSeaDEX) eingezahlt haben
 29. **Crypto Adoption**: Deutsche Bank Partnerschaft mit [KeyRock](https://x.com/KeyrockTrading): [Keyrock and Deutsche Bank partner to advance global digital asset operations](https://keyrock.com/keyrock-enters-strategic-partnership-with-deutsche-bank/)
+30. **Crypto Pump**: Am Montag steigt BTC auf über $65K und IOTA hält ganz gut mit...
