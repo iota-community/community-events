@@ -27,3 +27,4 @@
 25. **IOTA EVM**: Am Montag haben wir die $15 Million TVL überschritten auf [defillama.com...IOTA20EVM](https://defillama.com/chain/IOTA%20EVM); Auch die [IF tweetet](https://x.com/iota/status/1845751461822554424) darüber
 26. **IOTA Event**: Die [IF retweetet](https://x.com/iota/status/1845787098411942395) den [Tweet von Binance](https://x.com/binance/status/1845736396616806489) über die [Binance Blockchain Week](https://www.binanceblockchainweek.com/event/b7fbe2af-9ab6-4bb2-b78b-486c4d1fa80f/websitePage:9ec1ee53-cbdd-4234-8f04-fb70d6f7ad2e) wo IOTA Gold+ Sponsor ist
 27. **Allg. News**: Es gab wohl einen 3. Assassination Atempt auf Trump: [Tweet](https://x.com/BRICSinfo/status/1845550535824322632)
+28. **IOTA EVM Ökosystem**: [Deepr tweetet](https://x.com/DeeprFinance/status/1845812651915436244) darüber, dass sie 100K zusätzliche Liquidität in das Deepr/IOTA pair auf [MagicSea](https://x.com/MagicSeaDEX) eingezahlt haben
