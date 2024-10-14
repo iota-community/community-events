@@ -24,4 +24,4 @@
 22. **IOTA Artikel**: Die [IF tweetet](https://x.com/iota/status/1844769933839716548) über den Artikel auf CoinMarketCap: [Fireblocks Integrates IOTA EVM](https://coinmarketcap.com/community/articles/670384415c066437d29192d0/)
 23. **IOTA Youtube**: Der TangleTalk mit [TangleBeast](https://x.com/tanglebeasts) (bzw. [NFT Fractalz](https://x.com/NFT_FRACTALZ) ist jetzt auf Youtube: [Tweet](https://x.com/tangle_talk/status/1845513406125666376)
 24. **Allg. News**: Artikel: [US: Third assassination attempt on Donald Trump; Nevada man arrested with loaded firearm near rally](https://organiser.org/2024/10/14/260263/world/us-third-assassination-attempt-on-donald-trump-nevada-man-arrested-with-loaded-firearm-near-rally/)
-25. **IOTA EVM**: Am Montag haben wir die $15 Million TVL überschritten auf [defillama.com...IOTA20EVM](https://defillama.com/chain/IOTA%20EVM)
+25. **IOTA EVM**: Am Montag haben wir die $15 Million TVL überschritten auf [defillama.com...IOTA20EVM](https://defillama.com/chain/IOTA%20EVM); Auch die [IF tweetet](https://x.com/iota/status/1845751461822554424) darüber
