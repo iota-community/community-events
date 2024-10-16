@@ -15,4 +15,4 @@
 13. **IOTA Hype**: Dom hat ein paar Aussagen im Discord getätigt: [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1846231974953746652); [Tweet mit Screenshot](https://x.com/RemSchu/status/1846303938296906032)
 14. **IOTA Event**: Am Mittwoch gab es ein AMA im Discord zu [IOTA Labs](https://x.com/iotalabs_); Der Twitter Account wurde übrigends "eingeschränkt von X". Man kann ihm aber trotzdem folgen wenn man auf "Ja, Profil anzeigen" klickt
 15. **Crypto Adoption**: [Donald Trump tweetet](https://x.com/realDonaldTrump/status/1846326266011762820) über den Token Sale von [worldlibertyfinancial.com](https://www.worldlibertyfinancial.com/) (Scheinbar will er damit $300 mio USD einsammeln)
-16. 
+16. **Crypto Adoption**: 
