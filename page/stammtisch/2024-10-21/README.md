@@ -27,3 +27,5 @@
 25. **IOTA EVM Ökosystem**: [DeFa macht ein Thread](https://x.com/defaprimitive/status/1835905164458275063) über DeFa; Und auch [Salima macht einen Thread](https://x.com/Salimasbegum/status/1847244556128972919) über die Funktionsweise von DeFa (Decentralized Factoring)
 26. **IOTA EVM Ökosystem**: [Dark Mythos macht ein Thread](https://x.com/DarkMythosIOTA/status/1847190575339954679) über Arcane Essence, sowas wie der internen Währung im Dark Mythos Ökosystem
 27. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1847216055560573403) über [Chaise-Blockchainkills.eu](https://chaise-blockchainskills.eu/contribute-to-the-delivery-of-blockchain-skills-across-the-eu/)
+28. **IOTA Labs**: [IOTA Labs macht ein Thread](https://x.com/iotalabs_/status/1847266746165588114) über den grünen Blobs bzw. die Aufgaben von IOTA Labs
+29. **IOTA Progress**: Die [IF tweetet](https://x.com/iota/status/1847261355750908329) über den [Q3 2024 Progress Report](https://blog.iota.org/q3-2024-progress-report/)
