@@ -1,6 +1,6 @@
 ## IOTA Stammtischthemen für Montag, den 21.10.2024
 
-1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1845766564726849828) über die [IOTA Quicktakes 14.10.24: Fireblocks Integrates #IOTA EVM & New BuildSphere Episodes!](https://www.youtube.com/watch?v=EaSm2JzaJhA&list=PLMbc46iGTB_QyqqU-QwbFsrVd9-HN55i_)
+1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1845766564726849828) über die [IOTA Quicktakes 14.10.24: Fireblocks Integrates #IOTA EVM & New BuildSphere Episodes!](https://www.youtube.com/watch?v=EaSm2JzaJhA&list=PLMbc46iGTB_QyqqU-QwbFsrVd9-HN55i)
 2. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1845787098411942395) darüber, dass sie Gold+ Sponsor sind bei der [Binance Blockchain Week in Dubai](http://binanceblockchainweek.com/)
 3. **Crypto Adoption**: Der Blackrock CEO Larry Fink "answers a Bitcoin/Ethereum/crypto question on the BlackRock Q3 earnings call": [Tweet mit Audio](https://x.com/AltcoinDailyio/status/1846044032658468984) "Ethereum can grow dramatically"
 4. **IOTA EVM Promote**: [Crypto Rank tweetet](https://x.com/CryptoRank_io/status/1846001005743210740) darüber, dass die IOTA EVM am zweit schnellsten gewachsen ist von allen Blockchains im letzten Monat
@@ -42,4 +42,4 @@
 40. **IOTA Report**: Die [IF tweetet](https://x.com/iota/status/1848303293832872099) über den [Q3 2024 Progress Report](https://blog.iota.org/q3-2024-progress-report/)
 41. **IOTA Ökosystem**: Die [IF retweetet](https://x.com/iota/status/1848318012966715643) den [Tweet von Tenity](https://x.com/tenity_global/status/1848310730790928824) über den Blogpost: [Six Innovative RWA and DeFi startups Graduate from the IOTA Tenity RWA Accelerator.](https://www.tenity.com/press/six-innovative-rwa-and-defi-startups-graduate-from-the-iota-tenity-rwa-accelerator)
 42. **IOTA EVM Ökosystem**: Ein [Thread von Dark Mythos](https://x.com/DarkMythosIOTA/status/1848294849763561928) über "Introducing the Crafting System – Forge Your Own Destiny"
-43. 
+43. **IOTA Hype**: [Dom shillt TLIP](https://x.com/DomSchiener/status/1848347109533036787) unter einem [Tweet von House of Chimera](https://x.com/HouseofChimera/status/1848067013156942296) der einen Altcoin sucht mit Utility
