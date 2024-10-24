@@ -15,5 +15,5 @@
 13. **IOTA EVM Ökosystem**: [VelocimeterDEX tweetet](https://x.com/VelocimeterDEX/status/1849251068301177095) über ihre erste Auszahlungs Epoche
 14. **IOTA EVM Ökosystem**: [Bloomwallet tweeetet](https://x.com/bloomwalletio/status/1849127127435895076) darüber, dass sie ein Web Wallet "Bloom Web" bauen wollen
 15. **IOTA EVM Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1849362873811689614) über [Card Assembler - More than just a shell: Customize your ultimate NFTs!](https://x.com/DarkMythosIOTA/status/1849362873811689614)
-16. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1849405483766915240) über die [Binance Blockchain Week](https://www.binanceblockchainweek.com/event/b7fbe2af-9ab6-4bb2-b78b-486c4d1fa80f/websitePage:9ec1ee53-cbdd-4234-8f04-fb70d6f7ad2e) wo Dom Schiener auf der Main Stage auftreten wird
+16. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1849420316029669694) über die [Binance Blockchain Week](https://www.binanceblockchainweek.com/event/b7fbe2af-9ab6-4bb2-b78b-486c4d1fa80f/websitePage:9ec1ee53-cbdd-4234-8f04-fb70d6f7ad2e) wo Dom Schiener auf der Main Stage auftreten wird
 17. **IOTA EVM**: Am Donnerstag ist das TVL auf der IOTA EVM nochmal deutlich gestiegen, so dass die IOTA EVM jetzt in den Top 50 ist bezüglich EVM Chain TVL: [defillama.com/chains/EVM](https://defillama.com/chains/EVM) 
