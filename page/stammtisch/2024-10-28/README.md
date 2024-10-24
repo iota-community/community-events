@@ -18,3 +18,4 @@
 16. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1849420316029669694) über die [Binance Blockchain Week](https://www.binanceblockchainweek.com/event/b7fbe2af-9ab6-4bb2-b78b-486c4d1fa80f/websitePage:9ec1ee53-cbdd-4234-8f04-fb70d6f7ad2e) wo Dom Schiener auf der Main Stage auftreten wird
 17. **IOTA EVM**: Am Donnerstag ist das TVL auf der IOTA EVM nochmal deutlich gestiegen, so dass die IOTA EVM jetzt in den Top 50 ist bezüglich EVM Chain TVL: [defillama.com/chains/EVM](https://defillama.com/chains/EVM)
 18. **IOTA NFT Ökosystem**: Es gab ein [Soon-Tweet von figment](https://x.com/figment_nfts/status/1849440990404190321)
+19. **IOTA Audio**: IF Youtube: [Buildsphere AMA Ep #23: Velocimeter](https://www.youtube.com/watch?v=nSahj96LcvM)
