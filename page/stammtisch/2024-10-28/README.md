@@ -12,3 +12,4 @@
 10. **IOTA EVM Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1848979115853939111) über ihr Whitepaper und 3 Termine die sie in nächster Zeit wahrnehmen wollen
 11. **IOTA Entertainment**: [Holger Köther tweetet](https://x.com/HolgerKoether/status/1848818441060553068) über ein TV Format bei dem er in Bali dabei war und die jetzt den ersten Trailer ([Startup Warriors Show - Trailer XFounder](https://www.youtube.com/watch?v=CkJBPMCUWpI)) herausgebracht haben
 12. **IOTA EVM Ökosystem**: Der [ApeDAO tweetet](https://x.com/0xApeDAO/status/1848797045689090227) über ein Update ihrer Webseite [apedao.finance](https://apedao.finance/)
+13. **IOTA EVM Ökosystem**: [VelocimeterDEX tweetet](https://x.com/VelocimeterDEX/status/1849251068301177095) über ihre erste Auszahlungs Epoche
