@@ -13,3 +13,5 @@
 11. **IOTA Entertainment**: [Holger Köther tweetet](https://x.com/HolgerKoether/status/1848818441060553068) über ein TV Format bei dem er in Bali dabei war und die jetzt den ersten Trailer ([Startup Warriors Show - Trailer XFounder](https://www.youtube.com/watch?v=CkJBPMCUWpI)) herausgebracht haben
 12. **IOTA EVM Ökosystem**: Der [ApeDAO tweetet](https://x.com/0xApeDAO/status/1848797045689090227) über ein Update ihrer Webseite [apedao.finance](https://apedao.finance/)
 13. **IOTA EVM Ökosystem**: [VelocimeterDEX tweetet](https://x.com/VelocimeterDEX/status/1849251068301177095) über ihre erste Auszahlungs Epoche
+14. **IOTA EVM Ökosystem**: [Bloomwallet tweeetet](https://x.com/bloomwalletio/status/1849127127435895076) darüber, dass sie ein Web Wallet "Bloom Web" bauen wollen
+15. 
