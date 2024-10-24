@@ -14,4 +14,4 @@
 12. **IOTA EVM Ökosystem**: Der [ApeDAO tweetet](https://x.com/0xApeDAO/status/1848797045689090227) über ein Update ihrer Webseite [apedao.finance](https://apedao.finance/)
 13. **IOTA EVM Ökosystem**: [VelocimeterDEX tweetet](https://x.com/VelocimeterDEX/status/1849251068301177095) über ihre erste Auszahlungs Epoche
 14. **IOTA EVM Ökosystem**: [Bloomwallet tweeetet](https://x.com/bloomwalletio/status/1849127127435895076) darüber, dass sie ein Web Wallet "Bloom Web" bauen wollen
-15. 
+15. **IOTA EVM Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1849362873811689614) über [Card Assembler - More than just a shell: Customize your ultimate NFTs!]()
