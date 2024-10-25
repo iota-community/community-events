@@ -22,5 +22,6 @@
 20. **Crypto Adoption**: Pensilvania verabschiedet ein Gesetz zu "Bitcoin Rechten": [Tweet](https://x.com/kyle_chasse/status/1849493301130588246)
 21. **IOTA Event**: Am 8.November ist IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/1849492708588507453)
 22. **Crypto Entertainment**: Gary Gensler wird gefragt was er davon hält, dass er gefeuert wird sobald Trump im Amt ist: [Tweet](https://x.com/AltcoinDailyio/status/1849692898930893044)
-23. **Crypto Adoption**: Microsoft will abstimmen lassen ob sie Bitcoin kaufen sollen. Das Board ist aber dagegen: Artikel: [Microsoft Board Snubs Bitcoin](https://u.today/microsoft-board-snubs-bitcoin)
-24. 
+23. **Crypto Adoption**: Microsoft will die Aktionäre abstimmen lassen ob sie Bitcoin kaufen sollen: [Tweet](https://x.com/FurkanCCTV/status/1849567845199274115) Das Board ist aber dagegen: Artikel: [Microsoft Board Snubs Bitcoin](https://u.today/microsoft-board-snubs-bitcoin); Artikel vom Blocktrainer: [SEC-Filing enthüllt Aktionärsvorschlag:
+Microsoft soll Bitcoin-Investment in Betracht ziehen – Aktionäre können darüber abstimmen](https://www.blocktrainer.de/blog/microsoft-soll-bitcoin-kaufen-aktionaere-koennen-darueber-abstimmen)
+24. **Crypto Ökosystem**: Cardano integriert Bitcoin über zK-proof: [Thread von BitcoinOS](https://x.com/BTC_OS/status/1849437727877415416)
