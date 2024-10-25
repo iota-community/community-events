@@ -25,3 +25,5 @@
 23. **Crypto Adoption**: Microsoft will die Aktionäre abstimmen lassen ob sie Bitcoin kaufen sollen: [Tweet](https://x.com/FurkanCCTV/status/1849567845199274115) Das Board ist aber dagegen: Artikel: [Microsoft Board Snubs Bitcoin](https://u.today/microsoft-board-snubs-bitcoin); Artikel vom Blocktrainer: [SEC-Filing enthüllt Aktionärsvorschlag:
 Microsoft soll Bitcoin-Investment in Betracht ziehen – Aktionäre können darüber abstimmen](https://www.blocktrainer.de/blog/microsoft-soll-bitcoin-kaufen-aktionaere-koennen-darueber-abstimmen)
 24. **Crypto Ökosystem**: Cardano integriert Bitcoin über zK-proof: [Thread von BitcoinOS](https://x.com/BTC_OS/status/1849437727877415416)
+25. **IOTA Ökosystem**: Die [Tangle Community Treassury tweetet](https://x.com/TangleTreasury/status/1849744158958706789) über ihren Blogpost: [Tangle DAO LLC Resumes Active Asset Management Program](https://medium.com/@tangletreasury_87751/tangle-dao-llc-resumes-active-asset-management-program-2c0dbced1b25)
+26. **Crypto Drama**: Es wurde scheinbar eine Wallet mit $20mio USD von der US Regierung gehacked: [Tweet](https://x.com/bitcoin2go/status/1849740235313201587)
