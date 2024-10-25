@@ -19,3 +19,8 @@
 17. **IOTA EVM**: Am Donnerstag ist das TVL auf der IOTA EVM nochmal deutlich gestiegen, so dass die IOTA EVM jetzt in den Top 50 ist bezüglich EVM Chain TVL: [defillama.com/chains/EVM](https://defillama.com/chains/EVM)
 18. **IOTA NFT Ökosystem**: Es gab ein [Soon-Tweet von figment](https://x.com/figment_nfts/status/1849440990404190321)
 19. **IOTA Audio**: IF Youtube: [Buildsphere AMA Ep #23: Velocimeter](https://www.youtube.com/watch?v=nSahj96LcvM)
+20. **Crypto Adoption**: Pensilvania verabschiedet ein Gesetz zu "Bitcoin Rechten": [Tweet](https://x.com/kyle_chasse/status/1849493301130588246)
+21. **IOTA Event**: Am 8.November ist IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/1849492708588507453)
+22. **Crypto Entertainment**: Gary Gensler wird gefragt was er davon hält, dass er gefeuert wird sobald Trump im Amt ist: [Tweet](https://x.com/AltcoinDailyio/status/1849692898930893044)
+23. **Crypto Adoption**: Microsoft will abstimmen lassen ob sie Bitcoin kaufen sollen. Das Board ist aber dagegen: Artikel: [Microsoft Board Snubs Bitcoin](https://u.today/microsoft-board-snubs-bitcoin)
+24. 
