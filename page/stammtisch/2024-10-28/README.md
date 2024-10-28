@@ -28,5 +28,6 @@ Microsoft soll Bitcoin-Investment in Betracht ziehen – Aktionäre können dar�
 25. **IOTA Ökosystem**: Die [Tangle Community Treassury tweetet](https://x.com/TangleTreasury/status/1849744158958706789) über ihren Blogpost: [Tangle DAO LLC Resumes Active Asset Management Program](https://medium.com/@tangletreasury_87751/tangle-dao-llc-resumes-active-asset-management-program-2c0dbced1b25)
 26. **Crypto Drama**: Es wurde scheinbar eine Wallet mit $20mio USD von der US Regierung gehacked: [Tweet](https://x.com/bitcoin2go/status/1849740235313201587)
 27. **Crypto Adoption**: Ab dem 1. Nov kann in Russland wieder Bitcoin Mining betrieben werden: [Tweet](https://x.com/bitcoinlfgo/status/1850601602463535293)
-28. **IOTA NFT Ökosystem**: Es gab einige Tweets von [The New Elites](https://x.com/TheNewElites_). Die scheinen wohl bald zu starten
+28. **IOTA NFT Ökosystem**: Es gab einige Tweets von [The New Elites](https://x.com/TheNewElites_). Die scheinen wohl bald zu starten. Hier das [Litepaper](https://tnenft.gitbook.io/the-new-elites)
 29. **IOTA NFT Ökosystem**: [Crypto Gin tweetet](https://x.com/Crypto_Gin21/status/1850601976410800181), dass sie soon auf [tanglespace.app](https://www.tanglespace.app/) sind
+30. **Crypto Adoption**: HongKong will mehr Crypto Exchanges erlauben: [Tweet](https://x.com/BitcoinMagazine/status/1850805642161803418)
