@@ -34,3 +34,4 @@ Microsoft soll Bitcoin-Investment in Betracht ziehen – Aktionäre können dar�
 31. **IOTA Ökosystem**: Im [Bivreost](https://x.com/bivreost) Telegram Wallet kann man jetzt bald EVM dApps direkt öffnen: [Tweet](https://x.com/RodionVikol/status/1850832368665239586)
 32. **IOTA Adoption**: Dom äußert sich zu TWIN: [Tweet mit Screenshot](https://x.com/IotaPoet/status/1850931970873991605)
 33. **IOTA Ökosystem**: [GroupFi tweetet](https://x.com/groupfi_ai/status/1850839636542685617) über ihre Partnerschaft mit [TangleSpace](https://x.com/tanglebeasts)
+34. **IOTA EVM Ökosystem**: Die [IF tweetet](https://x.com/iota/status/1850888484594315754) darüber, dass die IOTA EVM mehr als 20mio TVL hat. [Dom retweetet](https://x.com/DomSchiener/status/1850913909395358058) das mit "We won't stop. I promise"
