@@ -20,7 +20,7 @@
 18. **IOTA NFT Ökosystem**: Es gab ein [Soon-Tweet von figment](https://x.com/figment_nfts/status/1849440990404190321)
 19. **IOTA Audio**: IF Youtube: [Buildsphere AMA Ep #23: Velocimeter](https://www.youtube.com/watch?v=nSahj96LcvM)
 20. **Crypto Adoption**: Pensilvania verabschiedet ein Gesetz zu "Bitcoin Rechten": [Tweet](https://x.com/kyle_chasse/status/1849493301130588246)
-21. **IOTA Event**: Am 8.November ist IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/1849492708588507453)
+21. **IOTA Event**: Am 8. November ist IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/1849492708588507453)
 22. **Crypto Entertainment**: Gary Gensler wird gefragt was er davon hält, dass er gefeuert wird sobald Trump im Amt ist: [Tweet](https://x.com/AltcoinDailyio/status/1849692898930893044)
 23. **Crypto Adoption**: Microsoft will die Aktionäre abstimmen lassen, ob sie Bitcoin kaufen sollen: [Tweet](https://x.com/FurkanCCTV/status/1849567845199274115) Das Board ist aber dagegen: Artikel: [Microsoft Board Snubs Bitcoin](https://u.today/microsoft-board-snubs-bitcoin); Artikel vom Blocktrainer: [SEC-Filing enthüllt Aktionärsvorschlag:
 Microsoft soll Bitcoin-Investment in Betracht ziehen – Aktionäre können darüber abstimmen](https://www.blocktrainer.de/blog/microsoft-soll-bitcoin-kaufen-aktionaere-koennen-darueber-abstimmen)
@@ -32,3 +32,5 @@ Microsoft soll Bitcoin-Investment in Betracht ziehen – Aktionäre können dar�
 29. **IOTA NFT Ökosystem**: [Crypto Gin tweetet](https://x.com/Crypto_Gin21/status/1850601976410800181), dass sie soon auf [tanglespace.app](https://www.tanglespace.app/) sind
 30. **Crypto Adoption**: HongKong will mehr Crypto Exchanges erlauben: [Tweet](https://x.com/BitcoinMagazine/status/1850805642161803418)
 31. **IOTA Ökosystem**: Im [Bivreost](https://x.com/bivreost) Telegram Wallet kann man jetzt bald EVM dApps direkt öffnen: [Tweet](https://x.com/RodionVikol/status/1850832368665239586)
+32. **IOTA Adoption**: Dom äußert sich zu TWIN: [Tweet mit Screenshot](https://x.com/IotaPoet/status/1850931970873991605)
+33. **IOTA Ökosystem**: [GroupFi tweetet](https://x.com/groupfi_ai/status/1850839636542685617) über ihre Partnerschaft mit [TangleSpace](https://x.com/tanglebeasts)
