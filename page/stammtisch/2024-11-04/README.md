@@ -8,7 +8,7 @@
 6. **Crypto Pump**: Am Dienstag pumpt Bitcoin um über 6% auf fast $73K. Nur noch 1% entfernt vom ATH
 7. **IOTA EVM Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1851141919507705925) nochmal über ihr Buildersprogram. Man kann $80K verdienen
 8. **IOTA Ökosystem**: [Abu Dhabi Global Market tweetet](https://x.com/ADGlobalMarket/status/1851305601890206014) über [Consultation Paper No. 9 of 2024 – Proposed Enhancements to the Regulatory Framework of the FSRA](https://adgmen.thomsonreuters.com/rulebook/consultation-paper-no-9-2024-proposed-enhancements-regulatory-framework-fsra)
-9. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1851652300718096512) über [Unlocking Africa’s Trade Potential: The TWIN Digital Trade Platform](https://institute.global/insights/economic-prosperity/unlocking-africas-trade-potential-the-twin-digital-trade-platform)
+9. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1851652300718096512) über [Unlocking Africa’s Trade Potential: The TWIN Digital Trade Platform](https://institute.global/insights/economic-prosperity/unlocking-africas-trade-potential-the-twin-digital-trade-platform); Auch [TLIP tweetet](https://x.com/TLIP_io/status/1851726275867443449) darüber und [Dom retweetet](https://x.com/DomSchiener/status/1851864625652056495) das mit einem längeren Statement und auch [Phylos Tweet](https://x.com/PhyloIota/status/1851834427871015204) klingt stolz über das Erreichte
 10. **IOTA Audio**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1851534514847425007) über ihr AMA im TangleTalk am 1.Nov
 11. **IOTA Promote**: [Iotalabs tweetet](https://x.com/iotalabs_/status/1851519408121802885) ein erstes Video von der Binance Blockchain Week; Die [IF tweetet](https://x.com/iota/status/1851519427881095461) erste Bilder von der Binance Blockchain Week
 12. **IOTA EVM Ökosystem**: [coda tweetet](https://x.com/coda_digital/status/1851536674611683641) über ihr erfolgreiches Abschneiden beim [soonami_io](https://x.com/soonami_io) Venturethon mit ihrer dApp [app.foundance.org](https://app.foundance.org/projects/11373?cid=15771)
@@ -17,5 +17,12 @@
 15. **IOTA Audio**: [Iotalabs tweetet](https://x.com/iotalabs_/status/1850885236969578890) über das [Buildshpere #24](https://x.com/iotalabs_/status/1851654874624147846) mit [Virtue_Money](https://x.com/Virtue_Money)
 16. **Crypto Adoption**: Mit Visa kann man jetzt Bitcoin und Crypto kaufen. Es gibt da wohl eine Partnerschaft mit Coinbase: [Tweet](https://x.com/RadarHits/status/1851594080809034060)
 17. **IOTA EVM Ökosystem**: [iolendFi tweetet](https://x.com/iolendfi/status/1851642812854423609), dass sie auditiert wurden
-18. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1851583905658204172) über "Dom Schiener auf der Mainstage" auf der Binance Blockchain Week
+18. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1851583905658204172) über "Dom Schiener auf der Mainstage" auf der Binance Blockchain Week; Hier ein kurzer [Ausschnitt von  Dom](https://x.com/moonbaklava/status/1851729481242657213), wo er ein RWA Projekt für diese Woche anteasert
 19. **Crypto Drama**: Mr Beast hat wohl Insider Trainding gemacht: [Tweet](https://x.com/Cointelegraph/status/1851607838944084288)
+20. **IOTA Adoption**: [serverox tweetet](https://x.com/servrox/status/1851919400263172186) über ihren Prediction Market [panana_predict](https://x.com/panana_predict) auf Aptos (Move VM) der auf nem Hackathon gut abschneidet
+21. **Crypto Adoption**: MicroStrategy will weitere 42 Milliarden an Bitcoins kaufen über die nächsten 3 Jahre: [Tweet](https://x.com/BitcoinMagazine/status/1851717680274825293)
+22. **Crypto News**: Das Bitcoin Whitepaper ist 16 Jahre alt geworden: [Tweet](https://x.com/BitcoinMagazine/status/1851903714597970311)
+23. **Crypto Adoption**: Die Bitcoin Spot ETFs halten zusammen jetzt mehr als 1 Millionen BTCs: [Tweet](https://x.com/BitcoinMagazine/status/1851928827716354380)
+24. **Crypto News/Drama**: Artikel: [Nach HBO-"Offenbarung" - Wird heute Satoshi Nakamotos Identität gelüftet?](https://www.btc-echo.de/schlagzeilen/spekulation-um-satoshi-gibt-bitcoin-gruender-pressekonferenz-194744/)
+25. **Real World Drama**: Artikel: [Großer Autobauer meldet Insolvenz an: Viele Fahrzeuge werden jetzt Elektroschrott](https://www.chip.de/news/Ein-grosser-Automobilhersteller-hat-Insolvenz-angemeldet-Viele-Fahrzeuge-drohen-nun-zu-Elektroschrott-zu-werden_185549361.html)
+26. 
