@@ -36,4 +36,6 @@
 34. **IOTA Promote**: [iotaLabs tweetet](https://x.com/iotalabs_/status/1852364982752809214) ein Video von dem Binance Blockchain Event
 35. **IOTA EVM Ökosystem**: [cyberperb tweetet](https://x.com/cyberperp/status/1853392944621138287) über die Gewinner der Trading Competition
 36. **Crypto Scam**: Ich wurde am Wochenende von einem Bitpanda Scam angerufen. War eine nette deutsch sprechende Gesprächspartnerin (Ki-generiert?), wollte aber am Ende, dass ich zur Sicherheit meine Coins besser auf eine neue Adresse sende...
-37. **Allg. News**: Der US Wahlkampf ist nächste Woche Gott sei Dank endlich vorbei...
+37. **Allg. News**: Der US Wahlkampf ist nächste Woche Gott sei Dank endlich vorbei... Die Wette darauf auf [Polymarket (Presidential Election Winner 2024)](https://polymarket.com/event/presidential-election-winner-2024/will-donald-trump-win-the-2024-us-presidential-election) macht einen Rekord nach dem anderen bezüglich Volumen (aktuell über $3 Milliarden)
+38. **Crypto Adotpion**: Artikel: ["Prozess für Deutschland validieren" - Deutsche Telekom startet Bitcoin Mining](https://www.btc-echo.de/schlagzeilen/prozess-fuer-deutschland-validieren-telekom-startet-bitcoin-mining-194909/?utm_content=bufferf51e1&utm_medium=social&utm_source=x.com&utm_campaign=buffer)
+39. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1853391842424807860) über [Dom seinen Auftritt bei der Binance Blockchain Week (Dom ab 57:00:00, ab 109:10:00](https://www.binance.com/en/live/video?roomId=2232524)
