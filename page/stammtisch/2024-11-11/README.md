@@ -26,3 +26,6 @@
 24. **IOTA Promote**: [iotalabs macht ein Thread](https://x.com/iotalabs_/status/1854887769320935917) über die IOTA Kissen auf der Binance Blockchain Week mit einigen interessanten Bildern
 25. **IOTA EVM Ökosystem**: [iolendFi tweetet](https://x.com/iolendfi/status/1854897529516687506) über USDC das man jetzt als loan hinterlegen kann auf [iolend.fi](https://www.iolend.fi/markets)
 26. **IOTA EVM Gaming**: Die [Uruk bartas tweeten](https://x.com/UrukBartas/status/1855283187544412270) über ihren "Founder’s Edition NFT presale"
+27. **IOTA EVM Ökosystem**: [TokenLabs.Network tweetet](https://x.com/TokenLabsX/status/1855295275348164663) über ihren neuen [Youtube Channel](https://www.youtube.com/@TokenLabsCryptoEnglish-w2p)
+28. **Crypto Specualtion**: Wird Charles Hoskinson der Crypto Advisor für Trump? [Tweet](https://x.com/TheUnpopularEL/status/1854901002672988595)
+29. 
