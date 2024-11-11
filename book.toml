@@ -4,5 +4,3 @@ language = "en"
 multilingual = false
 src = "page"
 title = "IOTA Stammtisch Themen"
-[output.html]
-theme = "page/theme"
