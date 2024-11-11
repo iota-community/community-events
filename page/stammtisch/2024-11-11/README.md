@@ -40,3 +40,5 @@
 38. **IOTA EVM Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1855864286549049761) über einen krassen Anstieg im Trading Volumen am 10.Nov (4x höher als normal)
 39. **Crypto Adoption**: Artikel: [In nur 10 Monaten abgehängt - BlackRocks Bitcoin-ETF ist jetzt mehr wert als der hauseigene Gold-ETF](https://www.btc-echo.de/schlagzeilen/blackrocks-bitcoin-etf-mehr-wert-als-der-hauseigene-gold-etf-195412/?utm_content=buffer13264&utm_medium=social&utm_source=x.com&utm_campaign=buffer)
 40. **IOTA Gaming**: [serverox solutions machen einen Thread](https://x.com/servrox/status/1855972007545799148) über Updates beim [Shi Universe](https://x.com/Shiuniverse)
+41. **Crypto Adoption**: Die [Coinbase Aktie](https://www.finanzen.net/aktien/coinbase-aktie) steigt um über 75% in 7 Tagen
+42. **IOTA EVM Ökosystem**: [Deepr Finance tweetet](https://x.com/DeeprFinance/status/1855980626672767098), dass sie das Borrow Limit erhöht haben
