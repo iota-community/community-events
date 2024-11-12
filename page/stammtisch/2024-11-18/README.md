@@ -10,4 +10,5 @@
 8. **IOTA Hype**: [Dom retweetet](https://x.com/DomSchiener/status/1856026712741449952) den [Tweet von Roaring Kitty](https://x.com/RoaringKitty/status/1855782862106005713), der auf der Suche nach dem nach einem 50x projekt ist und flüstert ihm "IOTA" ein...
 9. **IOTA EVM**: [iotalabs tweetet](https://x.com/iotalabs_/status/1856275745473220799) über $30Mio TVL auf [defillama.com...IOTAEVM](https://defillama.com/chain/IOTA%20EVM)
 10. **Crypto Adoption**: [peaq tweetet](https://x.com/peaq/status/1856261620806144379) über [November 12, 2024 - peaq is live](https://www.peaq.network/blog/peaq-is-live) ..."Welcome to the Machine Economy..." das war doch mal IOTAs Aufgabe...
-11. 
+11. **IOTA Event**: Ein [Tweet mit Screenshot](https://x.com/kowei1995/status/1856376979794342010) vom SUI Network Bangkok Event
+12. **IOTA Hype**: [Dom macht einen "Leapfrog"-Tweet](https://x.com/DomSchiener/status/1856368945202102613) und einen 22 is my lucky number [Tweet](https://x.com/DomSchiener/status/1856357879860560192)
