@@ -12,3 +12,7 @@
 10. **Crypto Adoption**: [peaq tweetet](https://x.com/peaq/status/1856261620806144379) über [November 12, 2024 - peaq is live](https://www.peaq.network/blog/peaq-is-live) ..."Welcome to the Machine Economy..." das war doch mal IOTAs Aufgabe...
 11. **IOTA Event**: Ein [Tweet mit Screenshot](https://x.com/kowei1995/status/1856376979794342010) vom SUI Network Bangkok Event
 12. **IOTA Hype**: [Dom macht einen "Leapfrog"-Tweet](https://x.com/DomSchiener/status/1856368945202102613) und einen 22 is my lucky number [Tweet](https://x.com/DomSchiener/status/1856357879860560192)
+13. **Crypto Adoption**: Die Genius Group kauft $120 mio in Bitcoin für ihre "primary treasury": [Tweet](https://x.com/RadarHits/status/1856368102335795444)
+14. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1856396606305886304) einen Ausschnitt vom AMA und schreibt dazu "Why should you choose #IOTA over Solana or Sui?... "
+15. **Crypto Adoption**: Krasser inflow bei den Ethereum ETFs: [Tweet](https://x.com/LeonWaidmann/status/1856310892901871947)
+16. **IOTA EVM Ökosystem**: [vrom tweetet](https://x.com/Vrom14286662/status/1856422840876073375) über den ersten Meme Coin (MIGA) auf [tokenlabs.network](https://tokenlabs.network/de/tokenlist)
