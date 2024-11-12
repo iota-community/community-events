@@ -8,4 +8,4 @@
 6. **IOTA EVM Ökosystem**: [TokenLabs.Network tweetet](https://x.com/TokenLabsX/status/1856239925869326768), dass sie "heute" (12.11.24) live gehen mit tokenlabs.network
 7. **IOTA Gezwitscher**: Neue Details zum "Secret Project" von Dom: [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1856227997675667592)
 8. **IOTA Hype**: [Dom retweetet](https://x.com/DomSchiener/status/1856026712741449952) den [Tweet von Roaring Kitty](https://x.com/RoaringKitty/status/1855782862106005713), der auf der Suche nach dem nach einem 50x projekt ist und flüstert ihm "IOTA" ein...
-9. 
+9. **IOTA EVM**: [iotalabs tweetet](https://x.com/iotalabs_/status/1856275745473220799) über $30Mio TVL auf [defillama.com...IOTAEVM](https://defillama.com/chain/IOTA%20EVM)
