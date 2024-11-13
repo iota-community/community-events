@@ -15,4 +15,10 @@
 13. **Crypto Adoption**: Die Genius Group kauft $120 mio in Bitcoin für ihre "primary treasury": [Tweet](https://x.com/RadarHits/status/1856368102335795444)
 14. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1856396606305886304) einen Ausschnitt vom AMA und schreibt dazu "Why should you choose #IOTA over Solana or Sui?... "
 15. **Crypto Adoption**: Krasser inflow bei den Ethereum ETFs: [Tweet](https://x.com/LeonWaidmann/status/1856310892901871947)
-16. **IOTA EVM Ökosystem**: [vrom tweetet](https://x.com/Vrom14286662/status/1856422840876073375) über den ersten Meme Coin (MIGA) auf [tokenlabs.network](https://tokenlabs.network/de/tokenlist)
+16. **IOTA EVM Ökosystem**: [vrom tweetet](https://x.com/Vrom14286662/status/1856422840876073375) über den ersten Meme Coin (MIGA) auf [tokenlabs.network](https://tokenlabs.network/de/tokenlist); Leider wurde der zu 98,9% von einer Adresse gekauft und später gedumpt ([REKT Tweet](https://x.com/Vrom14286662/status/1856583670833823812)). Daraufhin gab es ein [Security Update von TokenLabs](https://x.com/TokenLabsX/status/1856632961442938938)
+17. **Crypto Adoption**: Artikel: [BlackRock Expands Tokenized Fund BUIDL Beyond Ethereum to 5 New Blockchains](https://www.coindesk.com/business/2024/11/13/blackrock-expands-tokenized-fund-buidl-beyond-ethereum-to-five-new-blockchains/?utm_term=organic&utm_source=twitter&utm_medium=social&utm_campaign=coindesk_main&utm_content=editorial)
+18. **IOTA EVM Ökosystem**: [figment tweetet](https://x.com/figment_nfts/status/1856705430279360658) dass sich Projekte bei ihnen melden können, um schon mal vorab ihren NFT Marktplatz kenne zu lernen
+19. **IOTA Ökosystem**: [dlt.green tweetet](https://x.com/dlt_green/status/1856618484773367973), dass sie eine Partnerschaft mit der Hall AG eingegangen sind
+20. **Crypto Pump**: Bitcoin pumpt auf $92K am Mittwoch: [Tweet](https://x.com/BitcoinMagazine/status/1856721546720555019)
+21. **IOTA EVM Adoption**: [iotalabs tweetet](https://x.com/iotalabs_/status/1856721182193852609) über ein ATH an Transaktionen auf der IOTA EVM
+22. 
