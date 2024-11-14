@@ -21,4 +21,9 @@
 19. **IOTA Ökosystem**: [dlt.green tweetet](https://x.com/dlt_green/status/1856618484773367973), dass sie eine Partnerschaft mit der Hall AG eingegangen sind
 20. **Crypto Pump**: Bitcoin pumpt auf $92K am Mittwoch: [Tweet](https://x.com/BitcoinMagazine/status/1856721546720555019)
 21. **IOTA EVM Adoption**: [iotalabs tweetet](https://x.com/iotalabs_/status/1856721182193852609) über ein ATH an Transaktionen auf der IOTA EVM
-22. 
+22. **IOTA Hype**: Dom war wieder sehr aktiv im Discord: [Tweet 1 mit Screenshot](https://x.com/OTTI28518618/status/1856175480057053397); [Tweet 2 mit Screenshot](https://x.com/crypto43338158/status/1857015618400080237) "the new protocol is done..";
+23. **Crypto Crazyness**: Einer hat mit $Pnut aus $17 mehr als $2,9Mio
+24. **Crypto Drama**: FBI durchsucht die Wohnung vom Polymarket Founder: [Tweet](https://x.com/btcecho/status/1856984375411294588)
+25. **IOTA Community**: [TangleTalk tweetet](https://x.com/tangle_talk/status/1857003136889541052), dass sie neue Unterstützer suchen
+26. **IOTA EVM Adoption**: [Virtue tweetet](https://x.com/Virtue_Money/status/1856743767773942097) über ihren Stablecoin; Interessant auch weil [Dom kommentiert](https://x.com/DomSchiener/status/1856738863529484762) mit "new stablecoin coming to IOTA?"
+27. 
