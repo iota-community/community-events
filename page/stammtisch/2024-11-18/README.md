@@ -26,4 +26,10 @@
 24. **Crypto Drama**: FBI durchsucht die Wohnung vom Polymarket Founder: [Tweet](https://x.com/btcecho/status/1856984375411294588)
 25. **IOTA Community**: [TangleTalk tweetet](https://x.com/tangle_talk/status/1857003136889541052), dass sie neue Unterstützer suchen
 26. **IOTA EVM Adoption**: [Virtue tweetet](https://x.com/Virtue_Money/status/1856743767773942097) über ihren Stablecoin; Interessant auch weil [Dom kommentiert](https://x.com/DomSchiener/status/1856738863529484762) mit "new stablecoin coming to IOTA?"
-27. 
+27. **Crypto Drama**: Es gab ein Statement von Gary Gensler ([Tweet](https://x.com/RadarHits/status/1857143419614691798)), dass er wohl zurücktreten will. Auch 18 US Staaten verklagen die SEC
+wegen „verfassungswidriger Übergriffe und unfairer Verfolgung“ der #crypto -Industrie unter Gary Gensler ([Tweet](https://x.com/BTC_Archive/status/1857149822983106741))
+28. **IOTA Gaming**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1857324095500603623) über ihr [Whitepaper](https://dark-mythos.com/whitepaperDE)
+29. **Crypto Adoption**: Gerüchten zu Folge sollen die US Wahlen zukünftig auf der Blockchain geschehen: [Tweet](https://x.com/oroogle/status/1857094541221728653)
+30. **US Wahlen**: [Donald Trump tweetet](https://x.com/realDonaldTrump/status/1856658569124262092) über D.O.G.E und dem Berater-Team um Elon Musk die Vorschläge machen sollen wie die Regierung effizienter werden kann; [Donald Trump tweetet](https://x.com/realDonaldTrump/status/1857170020427595797), dass er JFK als US-Gesundheitsminister einstetzt. Zu allen anderen Team Entscheidungen gab es auch [Tweets von Donald Trump](https://x.com/realDonaldTrump)
+31. **Crypto Adoption**: Aleph Zero bringt Privacy on any EVM Chain? [Common tweetet](https://x.com/Common__App/status/1857097628879622153) über [Common 2.0: Financial Privacy. On Any Chain.](https://common.fi/blog/common-financial-privacy-on-any-chain/); Scheinbar gibt es dort dann (ab Q1 2025) durch Zero Knowledge Proof "omnichain shielded pools" wodurch die "transaction history and ownership details"irgendwie "private by default" bleiben. Ich fand das [Demo Video](https://zk-demo.common.fi/) schon mal ganz interessant...
+32. 
