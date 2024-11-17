@@ -21,7 +21,7 @@
 19. **IOTA Ökosystem**: [dlt.green tweetet](https://x.com/dlt_green/status/1856618484773367973), dass sie eine Partnerschaft mit der Hall AG eingegangen sind
 20. **Crypto Pump**: Bitcoin pumpt auf $92K am Mittwoch: [Tweet](https://x.com/BitcoinMagazine/status/1856721546720555019)
 21. **IOTA EVM Adoption**: [iotalabs tweetet](https://x.com/iotalabs_/status/1856721182193852609) über ein ATH an Transaktionen auf der IOTA EVM
-22. **IOTA Hype**: Dom war wieder sehr aktiv im Discord: [Tweet 1 mit Screenshot](https://x.com/OTTI28518618/status/1856175480057053397); [Tweet 2 mit Screenshot](https://x.com/crypto43338158/status/1857015618400080237) "the new protocol is done..";
+22. **IOTA Hype**: Dom war wieder sehr aktiv im Discord: [Tweet 1 mit Screenshot](https://x.com/OTTI28518618/status/1856175480057053397); [Tweet 2 mit Screenshot](https://x.com/crypto43338158/status/1857015618400080237) "the new protocol is done.."; [Tweet 3 mit Screenshot](https://x.com/Vrom14286662/status/1857839177544388835); [Tweet 4 mit Screenshot](https://x.com/Salimasbegum/status/1857738652689760311); [Tweet von Phylo](https://x.com/IotaPoet/status/1857708404619292944) "Prepare yourself..."
 23. **Crypto Crazyness**: Einer hat mit $Pnut aus $17 mehr als $2,9Mio
 24. **Crypto Drama**: FBI durchsucht die Wohnung vom Polymarket Founder: [Tweet](https://x.com/btcecho/status/1856984375411294588)
 25. **IOTA Community**: [TangleTalk tweetet](https://x.com/tangle_talk/status/1857003136889541052), dass sie neue Unterstützer suchen
@@ -42,3 +42,6 @@ wegen „verfassungswidriger Übergriffe und unfairer Verfolgung“ der #crypto 
 39. **IOTA Intern**: [iotalabs tweetet](https://x.com/iotalabs_/status/1857423317017170142) nochmal über [iotalabs.io](https://iotalabs.io/)
 40. **IOTA Fun**: [FomoFox tweetet](https://x.com/FOMO_Fox/status/1857348643172274300) über das [MarbleRace](https://www.tideprotocol.xyz/users/campaign/b36dab33-a395-4de1-89a8-ce5508ed06a5)
 41. **Crypto Pump**: IOTA steigt am Freitag um 10% und schafft mal wieder die $0,15. Cardano macht +20% weil Hoskinson bei Space X ist und ein Foto vor der Rakete gemacht hat: [Tweet](https://x.com/IOHK_Charles/status/1857138070686228783)
+42. **IOTA NFT Ökosystem**: [Epoch Zero tweetet](https://x.com/Epoch_0/status/1858020037098922092), dass sie die Meowta Katzen NFTs jetzt auch auf [nft.epochzero.io/migration](https://nft.epochzero.io/migration) integriert haben für "cross-chain NFT transfer"
+43. **IOTA Adoption**: Interessanter Beitrag auf LinkedIn: [Identifying Cyber Risks with IOTA - Identifying Vulnerabilities with TCP Analysis](https://www.linkedin.com/pulse/identifying-vulnerabilities-tcp-analysis-mbfzc/)
+44. **IOTA Hype**: Nachdem Dom immer öfter über einen technischen Leapfrog geschrieben hat der uns erwartet und in seinem [Tweet](https://x.com/DomSchiener/status/1857746012435042612) die Memes dazu gelobt hat, wurde natürlich auf [tokenlabs.network](https://tokenlabs.network/de/tokenlist) ein Memecoin (Leap) erstellt, der in diesem [Thread von ID.IOTA](https://x.com/id_iota/status/1858155400089989596) geshillt wird (bzw. er erklärt wie man den kaufen kann)
