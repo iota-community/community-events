@@ -47,4 +47,4 @@ wegen „verfassungswidriger Übergriffe und unfairer Verfolgung“ der #crypto 
 44. **IOTA Hype**: Nachdem Dom immer öfter über einen technischen Leapfrog geschrieben hat und in seinem [Tweet](https://x.com/DomSchiener/status/1857746012435042612) die Memes dazu gelobt hat, wurde auf [tokenlabs.network](https://tokenlabs.network/de/tokenlist) ein Memecoin (Leap) erstellt, der in diesem [Thread von ID.IOTA](https://x.com/id_iota/status/1858155400089989596) geshillt wird (bzw. er erklärt wie man den kaufen kann)
 45. **Crypto Adoption**: Polnischer Präsidentschaftskandidat ist Pro Bitcoiner: [Tweet](https://x.com/BTC_Archive/status/1858242531022229588)
 46. **Crypto Adoption**: Der Typ den Elon Musk für die US-Treassury vorgeschlagen hat besitzt offenbar "100’s of millions of dollars" in #Bitcoin: [Tweet](https://x.com/Vivek4real_/status/1857841954530406812)
-47. **IOTA Rebase**: Die [IF tweetet](https://x.com/iota/status/1858498545025679632)
+47. **IOTA Rebased**: Die [IF tweetet](https://x.com/iota/status/1858498545025679632) ein Video zu IOTA Rebased
