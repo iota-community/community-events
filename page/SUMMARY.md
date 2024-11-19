@@ -197,4 +197,6 @@
 - [2024-11-04](./stammtisch/2024-11-04/README.md)
 - [2024-11-11](./stammtisch/2024-11-11/README.md)
 - [2024-11-18](./stammtisch/2024-11-18/README.md)
+- [2024-11-25](./stammtisch/2024-11-25/README.md)
+
 
