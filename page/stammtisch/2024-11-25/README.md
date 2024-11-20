@@ -6,3 +6,4 @@
 4. **IOTA Stammtisch**: Am 6.12. um 18 Uhr ist IOTA Stammtisch in Hamburg (Überquell (St. Pauli): [Tweet](https://x.com/TanglenautX/status/1843733678486348007)) und in München (Alter Wirt (Thalkirchen): [Tweet](https://x.com/IotaMunchen/status/1858882314962391356))
 5. **IOTA AMA**: Am Freitag sind Dom und Luca im TangleTalk: [Tweet](https://x.com/tangle_talk/status/1858523916932636799)
 6. **IOTA Rebase**: Erst dApp auf dem Testnetz: [Tweet mit Video](https://x.com/0xRimac/status/1858888159909568878)
+7. 
