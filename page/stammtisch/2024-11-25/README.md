@@ -28,5 +28,9 @@
 26. **IOTA Intern**: Dom zieht in die USA "...to push IOTA in the US": [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1859195873999167705); Er erzählt auch was von Liquid Staking das möglich sein wird: [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1859196299905474693)
 27. **IOTA Hype**: Ein Leapfrog [Tweet von Dom](https://x.com/DomSchiener/status/1859232769953398787)
 28. **Crypto Drama**: SUI mainnet ist down... [Tweet](https://x.com/DegenerateNews/status/1859540060221165596)
-29. **IOTA Rebase**: Unser Testnetz war aber auch kurz down... . Jetzt geht's wieder. Wer mal testen will hier wichtige Links: [Tweet](https://x.com/Vrom14286662/status/1859537694138728463)
+29. **IOTA Rebase**: Unser Testnetz war aber auch am zweiten Tag gleich down...  Wer mal testen will hier wichtige Links: [Tweet](https://x.com/Vrom14286662/status/1859537694138728463)
+30. **Crypto Drama**: Justin Sun kauft die Banane mit dem Klebewand (Kunst) für $6mio und will sie essen: [Tweet](https://x.com/justinsuntron/status/1859403540315373942)
+31. **IOTA Rebase Ökosystem**: [GenSol tweetet](https://x.com/GenSol_io/status/1859576034573811850) über "Something amazing is coming… Join us to build the future of entertainment". Die haben schon einige Preise gewonnen: [Tweet von overcocked](https://x.com/overclocksalmon/status/1859596961776873754)
+32. **IOTA Event**: Die Abu Dhabi Finance Week (ADFW) vom 9.-12. Dez. wird gesponsort u.a. von IOTA und Realize Finance. Zu sehen im [Tweet mit Promo-Video](https://x.com/ADFinanceWeek/status/1856244653864993010) und auch Dom spricht darüber im Discord: [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1859610110588338550) "we are all there..."
+33. 
 
