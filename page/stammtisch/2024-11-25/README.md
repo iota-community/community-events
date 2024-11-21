@@ -19,10 +19,14 @@
 17. **IOTA Rebase**: [dlt.green tweetet](https://x.com/dlt_green/status/1858858848330699039), dass sie einen Validator Node laufen lassen werden; Die [IF retweetet](https://x.com/iota/status/1858884974046273861) das
 18. **IOTA AMA**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1858897411730555033) über ihr AMA zu Nakama dApps Update
 19. **IOTA Event**: [Realize tweetet](https://x.com/realizefinance/status/1859242349454365045), dass sie Offizieller Partner der Abu Dhabi Finanze Week 2024 sind
-20. **IOTA Drama**: [Virtue tweetet](https://x.com/Virtue_Money/status/1859235596947882455) über [Virtue, an Exclusive Liquity V2 Fork, Brings a Stablecoin Lending Platform to IOTA EVM](https://medium.com/@Virtue_Money/virtue-an-exclusive-liquity-v2-fork-brings-a-stablecoin-lending-platform-to-iota-evm-7c9c18073f7b)
+20. **IOTA Drama**: [Virtue tweetet](https://x.com/Virtue_Money/status/1859235596947882455) über [Virtue, an Exclusive Liquity V2 Fork, Brings a Stablecoin Lending Platform to IOTA EVM](https://medium.com/@Virtue_Money/virtue-an-exclusive-liquity-v2-fork-brings-a-stablecoin-lending-platform-to-iota-evm-7c9c18073f7b); Auch [Dom retweetet](https://x.com/DomSchiener/status/1859238300319445254) das
 21. **IOTA Adoption**: [Impierce Technologies macht ein Thread](https://x.com/ImpierceTech/status/1859261820713808046) über ein Event bei dem sie ihren Partnern die Technologie eingebaut/vorgestellt haben
 22. **Tangle Fork?**: [Garret tweetet](https://x.com/GarrettBullish/status/1859227384102461733) darüber, dass er den Tangle irgendwie am Leben halten will... Auch [Linus tweetet](https://x.com/LinusNaumann/status/1859228310925976038) darüber und schreibt von "..advanced talks about creating a community-owned version of #Shimmer network" und "This chain would remain feeless and keep the old Tangle vision alive."
 23. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1859205101937709158) einen Ausschnitt aus dem AMA mit Dom
 24. **IOTA Rebase**: Erste Spiele kommen auf dem Testnetz: [Tweet](https://x.com/teunvw5/status/1859269314106269825) über [https://iotaflip.netlify.app/](https://iotaflip.netlify.app/) und [Threadscape tweetet](https://x.com/_threadscape_/status/1859300752373710896)auch sie haben relativ einfach migrieren können auf die MoveVM
 25. **IOTA Rebase Promote**: Die [IF macht ein Thread](https://x.com/iota/status/1859265455879303638) über den Fast Forward Plan von IOTA
 26. **IOTA Intern**: Dom zieht in die USA "...to push IOTA in the US": [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1859195873999167705); Er erzählt auch was von Liquid Staking das möglich sein wird: [Tweet mit Screenshot](https://x.com/Vrom14286662/status/1859196299905474693)
+27. **IOTA Hype**: Ein Leapfrog [Tweet von Dom](https://x.com/DomSchiener/status/1859232769953398787)
+28. **Crypto Drama**: SUI mainnet ist down... [Tweet](https://x.com/DegenerateNews/status/1859540060221165596)
+29. **IOTA Rebase**: Unser Testnetz war aber auch kurz down... . Jetzt geht's wieder. Wer mal testen will hier wichtige Links: [Tweet](https://x.com/Vrom14286662/status/1859537694138728463)
+
