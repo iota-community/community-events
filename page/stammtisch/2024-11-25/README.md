@@ -35,5 +35,7 @@
 33. **IOTA Drama**: Hans Moog meldet sich doch nochmal auf X: [Tweet](https://x.com/hus_qy/status/1859767734851997975)
 34. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1859879963199189435) über ihre Airdrop Campagne auf [Zealy](https://t.co/FWwx7qNZ52)
 35. **Crypto Pump**: Bitcoin schafft am Freitag die $100K... fast; Artikel: [Totgeglaubte leben länger Alte Altcoins: Warum pumpen XRP, ADA und Co.?](https://www.btc-echo.de/news/alte-altcoins-warum-pumpen-xrp-ada-und-co-196163/?utm_content=buffera087e&utm_medium=social&utm_source=x.com&utm_campaign=buffer)
-36. 
+36. **Crypto Drama**: Am 20. Januar ist Gary Gensler endlich raus: [Thread von Gary Gensler](https://x.com/GaryGensler/status/1859658192298574096?t=xmg-NrD0FKbeukubSktRyg&s=19)
+37. **Crypto Adoption**: Senator Lummis will Gold in Bitcoin tauschen und [spricht darüber im TV](https://x.com/TheRobynHD/status/1859623316316676548); Dazu passend: "Trump's crypto advisory council expected to set up strategic #Bitcoin reserve - Reuters: [Tweet](https://x.com/BTC_Archive/status/1859683803423453650)
+38. **IOTA Rebased**: [adam tweetet](https://x.com/adam_unchained/status/1859830953625125215) über erste Node Validatoren... [Twinstake](https://www.twinstake.io/) und [BWARE Labs](https://bwarelabs.com/)
 
