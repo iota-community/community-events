@@ -38,4 +38,9 @@
 36. **Crypto Drama**: Am 20. Januar ist Gary Gensler endlich raus: [Thread von Gary Gensler](https://x.com/GaryGensler/status/1859658192298574096?t=xmg-NrD0FKbeukubSktRyg&s=19)
 37. **Crypto Adoption**: Senator Lummis will Gold in Bitcoin tauschen und [spricht darüber im TV](https://x.com/TheRobynHD/status/1859623316316676548); Dazu passend: "Trump's crypto advisory council expected to set up strategic #Bitcoin reserve - Reuters: [Tweet](https://x.com/BTC_Archive/status/1859683803423453650)
 38. **IOTA Rebased**: [adam tweetet](https://x.com/adam_unchained/status/1859830953625125215) über erste Node Validatoren... [Twinstake](https://www.twinstake.io/) und [BWARE Labs](https://bwarelabs.com/)
+39. **IOTA Promote**: [Dom retweetet](https://x.com/arndxt_xo/status/1859929626216439832) ein [Artikel auf X](https://x.com/arndxt_xo/status/1859929626216439832) mit den wichtigsten Details zu IOTA Rebase auch im Vergleich zu SUI und den Vorzügen der MoveVM
+40. **Crypto Promote**: 20 min Interview mit Michael Saylor auf CNN: [Tweet](https://x.com/Vivek4real_/status/1859964019983134952)
+41. **IOTA Audio**: Am Montag 25.11. ist Tech Talk mit Dom und Luca: [Tweet von der IF](https://x.com/iota/status/1859960031703179372)
+42. **IOTA Promote**: [iotaLabs tweetet](https://x.com/iotalabs_/status/1859960031216541877) ein erklärendes Bild wie sie Developer helfen können
+43. **IOTA Adoption**: [Impierce tweetet](https://x.com/ImpierceTech/status/1859907675318018316) über ihre [App UniMe](https://play.google.com/store/apps/details?id=com.impierce.identity_wallet&pli=1) die jetzt im Playstore runter geladen werden kann
 
