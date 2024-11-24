@@ -48,5 +48,5 @@
 46. **IOTA Adoption**: Die [European Blockchain Sandbox tweetet](https://x.com/EuropeanSandbox/status/1859971406332899831), dass EnergieKnip gewonnen hat bzw. der "final usecase" ist
 47. **IOTA Marketing**: Die IF schaltet scheinbar aktiv Werbung auf X: [Werbe-Tweet](https://x.com/iota/status/1858808384050655475)
 48. **IOTA Drama**: Hans lässt das Thema leider doch nicht, wie in diesem [Tweet](https://x.com/hus_qy/status/1858514756623040601) angekündigt, ruhen. Erst gab es nochmal einen [Nachtrags-Tweet](https://x.com/hus_qy/status/1859767734851997975) und dann etliche Kommentare von ihm: [Tweet 1](https://x.com/hus_qy/status/1860456004527304760?t=sHshRJXbfBS_3t1pGIQFDg&s=19); [Tweet 2](https://x.com/hus_qy/status/1860474428012064811?t=TMn1AoXvVRRP-YGymjwi7w&s=19); [Tweet 3](https://x.com/hus_qy/status/1860487509320388666?t=LRZvABM8bFsqODyV3UJ3Iw&s=19); [Tweet 4](https://x.com/hus_qy/status/1860480487384580615?t=9zw9gDDmHvmleYBKo3A_ug&s=19); [Tweet 5](https://x.com/hus_qy/status/1860480487384580615?t=9zw9gDDmHvmleYBKo3A_ug&s=19)
-49. 
+49. **IOTA EVM Adoption**: [cyberperp tweetet](https://x.com/cyberperp/status/1860376662665277532), dass sie $100mio in Trading Volumen überschritten haben
 
