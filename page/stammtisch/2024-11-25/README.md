@@ -52,5 +52,5 @@
 50. **IOTA EVM Adoption**: [cyberperp tweetet](https://x.com/cyberperp/status/1860376662665277532), dass sie $100mio in Trading Volumen überschritten haben
 51. **IOTA Youtube**: Tangle Talk (auf deutsch) mit Luca Moser zm Thema IOTA Rebased: [Interview mit Luca Moser Board Member der Iota Foundation](https://www.youtube.com/watch?v=WbOPOIfRv_w)
 52. **IOTA Gezwitscher**: Es gibt das erste mal wieder zwei [Tweets von Christoph Strnadl](https://x.com/archimate/status/1860674265982419131) über IOTA und die EU Geschichten
-53. **IOTA Youtube**: [AMA mit Dom und Luca Moser vom Montag, 25.12.2024](https://www.youtube.com/live/bbcM0pL4RTU)
+53. **IOTA Youtube**: [AMA mit Dom und Luca Moser vom Montag, 25.11.2024 um 5pm CET](https://www.youtube.com/live/bbcM0pL4RTU)
 
