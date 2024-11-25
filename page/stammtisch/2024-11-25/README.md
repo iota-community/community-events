@@ -53,4 +53,5 @@
 51. **IOTA Youtube**: Tangle Talk (auf deutsch) mit Luca Moser zm Thema IOTA Rebased: [Interview mit Luca Moser Board Member der Iota Foundation](https://www.youtube.com/watch?v=WbOPOIfRv_w)
 52. **IOTA Gezwitscher**: Es gibt das erste mal wieder zwei [Tweets von Christoph Strnadl](https://x.com/archimate/status/1860674265982419131) über IOTA und die EU Geschichten
 53. **IOTA Youtube**: [AMA mit Dom und Luca Moser vom Montag, 25.11.2024 um 5pm CET](https://www.youtube.com/live/bbcM0pL4RTU)
+54. **IOTA Pump**: IOTA ist in den letzten 7 Tagen um 50% gestiegen und im letzten Monat sogar um 130%: [IOTA on CoinmarketCap](https://coinmarketcap.com/de/currencies/iota/); Auch das TVL auf der IOTA EVM hat einen schönen Anstieg auf über $50K hingelegt: [defillama.com...IOTAEVM](https://defillama.com/chain/IOTA%20EVM)
 
