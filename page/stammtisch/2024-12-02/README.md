@@ -9,3 +9,10 @@
 7. **IOTA VOTE**: Am 2. Dezember startet die Voting Periode für oder gegen IOTA Rebase. Man wird mit seinen IOTA Token voten können: [Tweet](https://x.com/iota/status/1861047234512519594)
 8. **IOTA Rebase Gaming**: Ein [Tweet von GenSol](https://x.com/GenSol_io/status/1861293012745363852) verrät mehr über ihr Gaming Projekt: "...A multiplayer shooter game (UE5 prototype already done), an animated series (in development), and blockbuster sci-fi films for the big screen..."
 9. **IOTA Ökosystem**: Die [TangleTreassury tweetet](https://x.com/TangleTreasury/status/1861289635906789481) über ihren [Call-for-Proposals: Security Audits!](https://medium.com/@tangletreasury_87751/call-for-proposals-security-audits-28ee74a315b0)
+10. **IOTA Promote**: Die [IF macht ein Thread](https://x.com/iota/status/1861439778232656040) über IOTA Rebased und verlinkt nochmal die Blogposts: [IOTA Rebased: Technical View](https://blog.iota.org/iota-rebased-technical-view/)
+11. **IOTA Promote**: [Tokenicer tweetet](https://x.com/Tokenicer/status/1861687014547947630) über die Real World Adoption die IOTA schon hat und schreibt nochmal über EBSI
+12. **IOTA Audio**: [ApeDAO tweetet](https://x.com/0xApeDAO/status/1861670535324635409) über ein Meeting in ihrem Discord um über Magic Sea s "voting & bribing system on #IOTA EVM." zu sprechen
+13. **Crypto Adoption**: Artikel: [Gute Wahl für die BTC-Reserve? Trump nominiert Bitcoin-Befürworter Scott Bessent als Finanzminister](https://www.blocktrainer.de/blog/trump-nominiert-bitcoin-befuerworter-scott-bessent-als-finanzminister)
+14. **IOTA Ökosystem**: Der Arcanum Token Sale ist am 14. Dezember: [Tweet](https://x.com/DarkMythosIOTA/status/1861411158164385806)
+15. **IOTA Audio**: Am Freitag kommt Linus zum Borsty und will über Shimmer sprechen: [Tweet](https://x.com/tangle_talk/status/1861418308571943286)
+16. **IOTA Rebase Promote**: Die [IF tweetet](https://x.com/iota/status/1861742404870537602) ein kurzes Video von Luca wo er über die Entscheidung spricht wie wir Leapfroggen wollen
