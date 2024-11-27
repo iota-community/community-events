@@ -16,3 +16,6 @@
 14. **IOTA Ökosystem**: Der Arcanum Token Sale ist am 14. Dezember: [Tweet](https://x.com/DarkMythosIOTA/status/1861411158164385806)
 15. **IOTA Audio**: Am Freitag kommt Linus zum Borsty und will über Shimmer sprechen: [Tweet](https://x.com/tangle_talk/status/1861418308571943286)
 16. **IOTA Rebase Promote**: Die [IF tweetet](https://x.com/iota/status/1861742404870537602) ein kurzes Video von Luca wo er über die Entscheidung spricht wie wir Leapfroggen wollen
+17. **Crypto News**: Am Mittwoch war der TGE von Supra (angeblich das neue Chainlink mit MoveVM); Hier der [Kursverlauf von Supra](https://coinmarketcap.com/de/currencies/supra/)
+18. **IOTA Ökosystem**: [Bloom tweetet](https://x.com/bloomwalletio/status/1861780850930511961)
+)
