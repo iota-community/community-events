@@ -22,3 +22,6 @@
 20. **Crypto Adoption**: "Die SEC hat den „Bitwise 10 Crypto Index ETF" eingereicht, der Folgendes umfasst: $BTC , $ETH , $SOL $XRP $ADA , $AVAX , $LINK , $BCH , $UNI und $DOT": [Tweet](https://x.com/Cointelegraph/status/1861875997504840159)
 21. **Shimmer Ökosystem**: [GropuFi tweetet](https://x.com/groupfi_ai/status/1861009795198922861) darüber, dass ihre GroupFi Web3 Chatbox jetzt integriert ist bei der [Mint_Blockchain](https://x.com/Mint_Blockchain) und damit zugägnlich für 440K Usern
 22. **IOTA Gaming**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1862045828065694037) das erste Mal ein kurzes Video Tutorial von ihrem Card Game
+23. **IOTA Promote**: Promotion auf X: Der [Tweet von der IF]() wird mir als "promotion" angezeigt; Und ich denke da ist Influenzer Marketing am Start: [Thread von Amber](https://x.com/0xAmberCT/status/1862044271031038147) [Thread von Hercules 50K](https://x.com/Hercules_Defi/status/1861807409624477823)
+24. **IOTA Ökosystem**: Es gab ein [Soon-Tweet von MagicSea](https://x.com/MagicSeaDEX/status/1862056240467046660) mit "Something Something December"
+25. **IOTA Youtube**: [Kutkraft tweetet](https://x.com/kutkraft/status/1862076263453847651) über sein neues [Spec Weekly Video: ](https://youtu.be/CT37UoO2Vlg)
