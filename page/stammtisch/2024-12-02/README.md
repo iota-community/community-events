@@ -17,5 +17,8 @@
 15. **IOTA Audio**: Am Freitag kommt Linus zum Borsty und will über Shimmer sprechen: [Tweet](https://x.com/tangle_talk/status/1861418308571943286)
 16. **IOTA Rebase Promote**: Die [IF tweetet](https://x.com/iota/status/1861742404870537602) ein kurzes Video von Luca wo er über die Entscheidung spricht wie wir Leapfroggen wollen
 17. **Crypto News**: Am Mittwoch war der TGE von Supra (angeblich das neue Chainlink mit MoveVM); Hier der [Kursverlauf von Supra](https://coinmarketcap.com/de/currencies/supra/)
-18. **IOTA Ökosystem**: [Bloom tweetet](https://x.com/bloomwalletio/status/1861780850930511961)
-)
+18. **IOTA Ökosystem**: [Bloom tweetet](https://x.com/bloomwalletio/status/1861780850930511961) über ihr neues Web Wallet das von 100 Leuten gestestet werden soll
+19. **IOTA Rebase Ökosystem**: [DLT.green tweetet](https://x.com/dlt_green/status/1861852329198133438), dass ihre Balidator Node live ist im IOTA Rebased Testnetz
+20. **Crypto Adoption**: "Die SEC hat den „Bitwise 10 Crypto Index ETF" eingereicht, der Folgendes umfasst: $BTC , $ETH , $SOL $XRP $ADA , $AVAX , $LINK , $BCH , $UNI und $DOT": [Tweet](https://x.com/Cointelegraph/status/1861875997504840159)
+21. **Shimmer Ökosystem**: [GropuFi tweetet](https://x.com/groupfi_ai/status/1861009795198922861) darüber, dass ihre GroupFi Web3 Chatbox jetzt integriert ist bei der [Mint_Blockchain](https://x.com/Mint_Blockchain) und damit zugägnlich für 440K Usern
+22. **IOTA Gaming**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1862045828065694037) das erste Mal ein kurzes Video Tutorial von ihrem Card Game
