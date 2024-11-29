@@ -32,6 +32,6 @@
 30. **IOTA Learn**: [Sebastian Müller tweetet](https://x.com/NaitsabesMue/status/1862141159830700384) über SUIs Congestion Cotrol; Hier noch ein [Tweet von Sebastian](https://x.com/NaitsabesMue/status/1861768830604697923) über "Understanding congestion: not just how, but also why it is how it is"
 31. **IOTA Artikel**: [BTC Echo tweetet](https://x.com/btcecho/status/1862182169029837156) über ihren Artikel: [IOTA vor großem Upgrade - Dominik Schiener verrät Details zu IOTA Rebased](https://www.btc-echo.de/news/iota-vor-grossem-upgrade-dominik-schiener-verraet-details-196456/)
 32. **IOTA EVM Ökosystem**: Die [Uruk Barats machen einen Thread](https://x.com/UrukBartas/status/1862199911959204272) über "The Golden Uruks Mainnet Era Begins" und ihren bereits gestarteten Tokenlaunch auf MagicSea
-33. **IOTA Promote**: [CoinmarketCap [6mio follower) tweetet](https://x.com/CoinMarketCap/status/1862421319263920555) über IOTA als RWA Kurs Gewinner
+33. **IOTA Promote**: [CoinmarketCap[6mio follower) tweetet](https://x.com/CoinMarketCap/status/1862421319263920555) über IOTA als RWA Kurs Gewinner
 34. **Crypto Promote**: Justin Sun hat die Banane gegessen: [Tweet](https://x.com/Crypto_Crib_/status/1862401132548550980)
 
