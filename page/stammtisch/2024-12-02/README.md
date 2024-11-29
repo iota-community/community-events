@@ -15,7 +15,7 @@
 13. **Crypto Adoption**: Artikel: [Gute Wahl für die BTC-Reserve? Trump nominiert Bitcoin-Befürworter Scott Bessent als Finanzminister](https://www.blocktrainer.de/blog/trump-nominiert-bitcoin-befuerworter-scott-bessent-als-finanzminister)
 14. **IOTA Ökosystem**: Der Arcanum Token Sale ist am 14. Dezember: [Tweet](https://x.com/DarkMythosIOTA/status/1861411158164385806)
 15. **IOTA Audio**: Am Freitag kommt Linus zum Borsty und will über Shimmer sprechen: [Tweet](https://x.com/tangle_talk/status/1861418308571943286)
-16. **IOTA Rebase Promote**: Die [IF tweetet](https://x.com/iota/status/1861742404870537602) ein kurzes Video von Luca wo er über die Entscheidung spricht wie wir Leapfroggen wollen
+16. **IOTA Rebase Promote**: Die [IF tweetet](https://x.com/iota/status/1861742404870537602) ein kurzes Video von Luca wo er über die Entscheidung spricht wie wir Leapfroggen wollen; Hier noch ein [Tweet von der IF mit kurzem Video](https://x.com/iota/status/1862481672135909449)
 17. **Crypto News**: Am Mittwoch war der TGE von Supra (angeblich das neue Chainlink mit MoveVM); Hier der [Kursverlauf von Supra](https://coinmarketcap.com/de/currencies/supra/)
 18. **IOTA Ökosystem**: [Bloom tweetet](https://x.com/bloomwalletio/status/1861780850930511961) über ihr neues Web Wallet das von 100 Leuten gestestet werden soll
 19. **IOTA Rebase Ökosystem**: [DLT.green tweetet](https://x.com/dlt_green/status/1861852329198133438), dass ihre Balidator Node live ist im IOTA Rebased Testnetz
