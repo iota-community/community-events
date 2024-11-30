@@ -39,5 +39,5 @@
 37. **IOTA Rebase Nodes**: [Tweet](https://x.com/0xRimac/status/1862796771274944932) über 2 weitere Validator Nodes: [luganodes](https://twitter.com/luganodes) und [staketab](https://twitter.com/staketab); Und noch ein [Tweet über 4 Validator Nodes](https://x.com/Salimasbegum/status/1862299898768461926)
 38. **IOTA EVM Ökosystem**: Neue Airdrop Kampagne von Dark Mythos: [Tweet](https://x.com/DarkMythosIOTA/status/1862776078588420460)
 39. **IOTA Promote**: [Chainbroker tweetet](https://x.com/chain_broker/status/1862481641299452383) über extreme developer Aktivität bei IOTA (bzw. "TOP PROJECTS BY DEVELOPMENT ACTIVITY GROWTH")
-40. 
+40. **IOTA Exchanges**: Dom will US Exchanges pushen: [Tweet mit Screenshot](https://x.com/OTTI28518618/status/1862857217537409114)
 
