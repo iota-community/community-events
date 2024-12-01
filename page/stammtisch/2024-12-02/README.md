@@ -36,7 +36,7 @@
 34. **Crypto Promote**: Justin Sun hat die Banane gegessen: [Tweet](https://x.com/Crypto_Crib_/status/1862401132548550980)
 35. **IOTA Tech**: [Hans Moog Thread](https://x.com/hus_qy/status/1862616529768002030) über die Vorteile der Move VM
 36. **IOTA Speculation**: IOTA hat 40 Plätze gut gemacht und ist seit Sonntag wieder ein Top 100 Coin auf CoinMarketCap: [Tweet](https://x.com/Vrom14286662/status/1862869541006475722)
-37. **IOTA Rebase Nodes**: [Tweet](https://x.com/0xRimac/status/1862796771274944932) über 2 weitere Validator Nodes: [luganodes](https://twitter.com/luganodes) und [staketab](https://twitter.com/staketab); Und noch ein [Tweet über 4 Validator Nodes](https://x.com/Salimasbegum/status/1862299898768461926)
+37. **IOTA Rebase Nodes**: [Tweet](https://x.com/0xRimac/status/1862796771274944932) über 2 weitere Validator Nodes: [luganodes](https://twitter.com/luganodes) und [staketab](https://twitter.com/staketab); Und noch ein [Tweet über 4 Validator Nodes](https://x.com/Salimasbegum/status/1862299898768461926); Noch ein [Tweet über neue Validatoren](https://x.com/Salimasbegum/status/1863305830810181785)
 38. **IOTA EVM Ökosystem**: Neue Airdrop Kampagne von Dark Mythos: [Tweet](https://x.com/DarkMythosIOTA/status/1862776078588420460)
 39. **IOTA Promote**: [Chainbroker tweetet](https://x.com/chain_broker/status/1862481641299452383) über extreme developer Aktivität bei IOTA (bzw. "TOP PROJECTS BY DEVELOPMENT ACTIVITY GROWTH")
 40. **IOTA Exchanges**: Dom will US Exchanges pushen: [Tweet mit Screenshot](https://x.com/OTTI28518618/status/1862857217537409114)
