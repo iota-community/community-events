@@ -22,7 +22,7 @@
 20. **Crypto Adoption**: "Die SEC hat den „Bitwise 10 Crypto Index ETF" eingereicht, der Folgendes umfasst: $BTC , $ETH , $SOL $XRP $ADA , $AVAX , $LINK , $BCH , $UNI und $DOT": [Tweet](https://x.com/Cointelegraph/status/1861875997504840159)
 21. **Shimmer Ökosystem**: [GropuFi tweetet](https://x.com/groupfi_ai/status/1861009795198922861) darüber, dass ihre GroupFi Web3 Chatbox jetzt integriert ist bei der [Mint_Blockchain](https://x.com/Mint_Blockchain) und damit zugägnlich für 440K Usern
 22. **IOTA Gaming**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1862045828065694037) das erste Mal ein kurzes Video Tutorial von ihrem Card Game
-23. **IOTA Promote**: Promotion auf X: Der [Tweet von der IF]() wird mir als "promotion" angezeigt; Und ich denke da ist Influenzer Marketing am Start: [Thread von Amber](https://x.com/0xAmberCT/status/1862044271031038147) [Thread von Hercules 50K](https://x.com/Hercules_Defi/status/1861807409624477823)
+23. **IOTA Promote**: Promotion auf X: Der [Tweet von der IF]() wird mir als "promotion" angezeigt; Und ich denke da ist Influenzer Marketing am Start: [Thread von Amber](https://x.com/0xAmberCT/status/1862044271031038147); [Thread von Hercules (50K follower)](https://x.com/Hercules_Defi/status/1861807409624477823); [Thread von Andrew (50K follower)](https://x.com/0xAndrewMoh/status/1863246753694466184); [Thread von Axel (120K follower)](https://x.com/Axel_bitblaze69/status/1863138564915306812); [Tweet von DjPrestige (130K follower)](https://x.com/DjPrestigeUk/status/1862795653086126308)
 24. **IOTA Ökosystem**: Es gab ein [Soon-Tweet von MagicSea](https://x.com/MagicSeaDEX/status/1862056240467046660) mit "Something Something December"
 25. **IOTA Youtube**: [Kutkraft tweetet](https://x.com/kutkraft/status/1862076263453847651) über sein neues [Spec Weekly Video: ](https://youtu.be/CT37UoO2Vlg)
 26. **IOTA Ökosystem**: [Realize Finance tweetet](https://x.com/realizefinance/status/1862119777356964344) über den Blogpost: [Realize Joins Abu Dhabi Finance Week 2024 as an Official Partner – Empowering Asset Tokenization](https://blog.realizeassets.com/realize-joins-abu-dhabi-finance-week-2024-as-an-official-partner-empowering-asset-tokenization/); Auch [Dom retweetet](https://x.com/DomSchiener/status/1862127073571082429) das
@@ -40,4 +40,8 @@
 38. **IOTA EVM Ökosystem**: Neue Airdrop Kampagne von Dark Mythos: [Tweet](https://x.com/DarkMythosIOTA/status/1862776078588420460)
 39. **IOTA Promote**: [Chainbroker tweetet](https://x.com/chain_broker/status/1862481641299452383) über extreme developer Aktivität bei IOTA (bzw. "TOP PROJECTS BY DEVELOPMENT ACTIVITY GROWTH")
 40. **IOTA Exchanges**: Dom will US Exchanges pushen: [Tweet mit Screenshot](https://x.com/OTTI28518618/status/1862857217537409114)
+41. **IOTA Stammtisch**: Am Freitag ist IOTA Stammtisch in München
+42. **IOTA online Stammtisch**: Am Montag kommt Dark Mythos in den Stammtisch: [Tweet](https://x.com/DarkMythosIOTA/status/1863130916312551581)
+43. **IOTA Promote**: Ein 4 minütiges Hype Video "The Greatest Leap" mit eingeblendeten IOTA Texten [Tweet](https://x.com/danielasdf22/status/1862624085139705966)
+44. **IOTA Rebased Voting**: Die [IF tweetet](https://x.com/iota/status/1863176221602742326) nochmal über ihr IOTA Rebased Proposal. Das Voting startet am 2.12.2024 im Bloom/Firefly Wallet
 
