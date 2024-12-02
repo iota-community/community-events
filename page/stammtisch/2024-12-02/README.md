@@ -51,4 +51,5 @@
 49. **Crypto Adoption**: Microstrategie hat wieder Bitcoin für $15 Milliarden gekauft: [Tweet](https://x.com/blocktrainer/status/1863572350056235394)
 50. **IOTA EVM Ökosystem Promote**: Es gab ein [Thread von iotalabs](https://x.com/iotalabs_/status/1863579008241398230) über alle DEXes und DeFi dApps auf der IOTA EVM
 51. **IOTA Rebased Vote**: Die [IF tweetet](https://x.com/iota/status/1863583910510092773) über ihren Blogpost: [IOTA Rebased Governance Vote Starts Today](https://blog.iota.org/iota-rebased-governance-vote-start/)
+52. **IOTA Treasury**: Die [Tangle Community Treasury tweetet](https://x.com/TangleTreasury/status/1863596236038660495) über den [Tangletreasury Progress Report](https://medium.com/@tangletreasury_87751/tangletreasury-progress-report-65d55d58b5d6)
 
