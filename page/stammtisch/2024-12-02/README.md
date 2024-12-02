@@ -1,6 +1,6 @@
 ## IOTA Stammtischthemen für Montag, den 2.12.2024
 
-1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1861005304810332484) über die [IOTA Quicktakes 25.11.24: Introducing IOTA Rebased, Governance Proposal, join our Tech Talk today!](https://www.youtube.com/watch?v=WuhxFIlBkZA)
+1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1861005304810332484) über [IOTA Quicktakes 25.11.24: Introducing IOTA Rebased, Governance Proposal, join our Tech Talk today!](https://www.youtube.com/watch?v=WuhxFIlBkZA)
 2. **IOTA Learn**: Im Binance Campus gab es eine IOTA Masterclass: [Tweet](https://x.com/luckybb88/status/1861253511755039068)
 3. **IOTA Ökosystem**: Es gab ein [Thread von Impierce Technologies](https://x.com/ImpierceTech/status/1861063216723374342) über ihre neue identity App die man bereits runterladen kann ([UniMe (im Playstore)](https://play.google.com/store/apps/details?id=com.impierce.identity_wallet); [Jelle Milentar retweetet](https://x.com/JelleFm/status/1861101541953814644)) das und erklärt in wieweit IOTA verwendet wird
 4. **IOTA EVM Ökosystem**: [figment tweetet](https://x.com/figment_nfts/status/1861104218725036338) über ihren NFT Marktplatz, der wohl nächste Woche live gehen soll (siehe Antwort auf [Tweet von vrom](https://x.com/Vrom14286662/status/1862140828333842650), den sie mit "nächster Woche" kommentieren)
