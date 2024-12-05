@@ -42,3 +42,4 @@
 40. **IOTA Event**: Die [ADFW tweetet](https://x.com/ADFinanceWeek/status/1864629827958944150) macht Werbung mit Dom Schiener für die Abu Dhabi Finance Week und verlinkt den [Ticketshop](https://adfw.com/tickets)
 41. **Crypto Adoption**: Trump gratuliert Bitcoin 100K: [Tweet](https://x.com/bitcoin2go/status/1864657227707019555)
 42. **IOTA EVM Ökosystem**: [Cyberperp tweetet](https://x.com/cyberperp/status/1864652111079694642) darüber, dass sie $200M Tradingvolumen überschriten haben
+43. **Crypto Drama**: Artikel: [The Hawk Tuah Girl Launched a Meme Coin, Everybody Lost Their Money, People Want Her Thrown in Jail](https://www.barstoolsports.com/blog/3533095/the-hawk-tuah-girl-launched-a-meme-coin-its-not-going-well?utm_content=buffer5fb43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
