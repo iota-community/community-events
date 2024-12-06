@@ -53,3 +53,4 @@
 51. **IOTA Adoption**: [Bancor retweetet](https://x.com/Bancor/status/1864334179086860356) den [Tweet von Velocimeter](https://x.com/VelocimeterDEX/status/1864258949043863796) über automatisches IOTA Trading auf [automate.velocimeter.xyz](https://automate.velocimeter.xyz/)
 52. **Crypto Adoption**: Crypto MarketCap erreicht ATH: [Tweet](https://x.com/Ashcryptoreal/status/1865084300497944758)
 47. **IOTA Audio**: [iotalabs tweetet](https://x.com/iotalabs_/status/1865048559285883253), dass Dark Mythos am 11.12. in den [Buildsphere #25 with Dark Mythos](https://twitter.com/i/spaces/1OdKrXvozvvJX) kommt
+48. **Crypto Adoption**: Keine Steuern auf Krypto Gewinne mehr in Tschechien: [Tweet](https://x.com/RadarHits/status/1865008674344743331)
