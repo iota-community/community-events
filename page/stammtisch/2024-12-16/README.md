@@ -1,4 +1,4 @@
-## IOTA Stammtischthemen für Montag, den 16.12.2024
+## IOTA Stammtischthemen für Montag, den 09.12.2024
 
 1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1863553776520478940) über die [IOTA Quicktakes 02.12.2024: Vote on IOTA Rebased Governance Proposal TODAY & AMA Tomorrow @ 5PM CET](https://www.youtube.com/watch?v=uQ_V4SZwHOI)
 2. **IOTA Adoption**: [Dom retweetet](https://x.com/DomSchiener/status/1863815073577214438) den [Tweet von TLIP](https://x.com/TLIP_io/status/1863578315488891390) über die Eröffnungsrede wo der CEO von Trademark Afrika explizit von IOTA spricht und auf den morgigen [Livestream 1](https://www.youtube.com/live/LnYZqNevRN0?si=Qpy8p-9TwxcroplT) und [Livestream 2](https://www.youtube.com/watch?v=B2st8SGuJqA) hinweist, in dem es eine Demo geben wird von der Trade Logistics Platform welche die IF in Zusammenarbeit mit Kenya entwickelt hat; Hier noch ein [Tweet von TLIP](https://x.com/TLIP_io/status/1864378795412611215) über diesen [aufgenommene Vortrag](https://www.youtube.com/live/B2st8SGuJqA?feature=shared)
