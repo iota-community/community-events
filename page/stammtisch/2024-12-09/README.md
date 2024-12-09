@@ -64,3 +64,6 @@
 51. **IOTA NFT Gaming**: [Th New Elites tweetet](https://x.com/TheNewElites_/status/1866010085388136588), dass die Whitelist jetzt offen ist für die ersten 100 TNE NFTs
 52. **IOTA Wallet**: [Bivreost tweetet](https://x.com/bivreost/status/1865405199717666944), dass ihre App jetzt bei [bitgetglobal](https://x.com/bitgetglobal) zu finden ist
 53. **IOTA Event**: Die ADFW hat begonnen und [Dom tweetet](https://x.com/DomSchiener/status/1866067067365130366) ein Bild vom Eingang
+54. **Crypto Adoption**: Microstrategie hat wieder ordentlich Bitcoin gekauft: [Tweet](https://x.com/blocktrainer/status/1866108516118696406)
+55. **Crypto Adoption**: Iran will Crypto erlauben: [Tweet](https://x.com/BTC_Archive/status/1866090687390704085)
+56. **IOTA EVM Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1866117173036429711) über [Voting & Bribing is live on MagicSea](https://x.com/MagicSeaDEX/status/1866117173036429711)
