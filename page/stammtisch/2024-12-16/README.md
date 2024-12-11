@@ -23,3 +23,4 @@
 21. **Crypto Audio**: Roger Ver (der Bitcoin Jesus) war bei Tucker Carlson: [Tweet](https://x.com/TuckerCarlson/status/1866543923939729870)
 22. **IOTA EVM Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1866828256659284297) über ihre Partnerschaft mit [TheNewElites](https://x.com/TheNewElites_)
 23. **IOTA Voting**: Die [IF tweetet](https://x.com/iota/status/1866845397986996401), dass aktuell 98% der Token Holder IOTA Rebased unterstützen
+24. **Crypto Adoption**: Microstrategie
