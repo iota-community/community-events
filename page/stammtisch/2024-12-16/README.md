@@ -21,4 +21,5 @@
 19. **IOTA Rebased Validator Nodes**: Neue Validator Nodes: [Tweet 1 von Salima](https://x.com/Salimasbegum/status/1866531966436422022) über [StakinOfficial](https://x.com/StakinOfficial); [Tweet 2 von Salima](https://x.com/Salimasbegum/status/1866589983584424286) über [HashKeyCloud](https://x.com/HashKeyCloud)
 20. **IOTA Trading**: im IOTA/BTC Chart gab es eine wichtige Wende: Der 50-Tage-Durchschnitt kreuzt den 200-Tage-Durchschnitt nach oben: [Tweet](https://x.com/Colibali5270741/status/1866779037915345149)
 21. **Crypto Audio**: Roger Ver (der Bitcoin Jesus) war bei Tucker Carlson: [Tweet](https://x.com/TuckerCarlson/status/1866543923939729870)
-22. 
+22. **IOTA EVM Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1866828256659284297) über ihre Partnerschaft mit [TheNewElites](https://x.com/TheNewElites_)
+23. **IOTA Voting**: Die [IF tweetet](https://x.com/iota/status/1866845397986996401), dass aktuell 98% der Token Holder IOTA Rebased unterstützen
