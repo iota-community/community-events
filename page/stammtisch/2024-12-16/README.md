@@ -23,4 +23,7 @@
 21. **Crypto Audio**: Roger Ver (der Bitcoin Jesus) war bei Tucker Carlson: [Tweet](https://x.com/TuckerCarlson/status/1866543923939729870)
 22. **IOTA EVM Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1866828256659284297) über ihre Partnerschaft mit [TheNewElites](https://x.com/TheNewElites_)
 23. **IOTA Voting**: Die [IF tweetet](https://x.com/iota/status/1866845397986996401), dass aktuell 98% der Token Holder IOTA Rebased unterstützen
-24. **Crypto Adoption**: Microstrategie
+24. **Crypto Adoption**: Microstrategie wird wohl am Freitag in den Nasdag Top 100 aufgenommen; Artikel: [Preistreiber für Bitcoin: MicroStrategy kurz vor der Aufnahme in den Nasdaq 100?](https://www.blocktrainer.de/blog/microstrategy-kurz-vor-der-aufnahme-in-den-nasdaq-100)
+25. **IOTA Exchanges**: [Dom Schiener kommentiert](https://x.com/DomSchiener/status/1866548000098791855) ob "Kraken einem Freund helfen kann" der IOTA kaufen will...
+26. **IOTA Event**: [Kowei tweetet](https://x.com/kowei1995/status/1867118366630219916) vons einem IOTA Vortrag auf der [Taipei Blockchain Week](https://lu.ma/BlockMeetTBW) am 15. Dezember; Er war davor auch schon auf einem Move Side Event auf dem er IOTA repräsentiert hatte: [Tweet](https://x.com/kowei1995/status/1866849940011692287)
+27. 
