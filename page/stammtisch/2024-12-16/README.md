@@ -18,7 +18,7 @@
 16. **Crypto Adoption**: Partnerschaft zwischen Crypto.com und der Deutschen Bank: [Tweet](https://x.com/cryptocom/status/1866380702809309228)
 17. **Tangle News**: Erst gab es ein [Tweet von Garret](https://x.com/GarrettBullish/status/1859227384102461733) to save the Tangle und ein Tag später [retweetet Garret](https://x.com/GarrettBullish/status/1866781471031300336) den [Tweet von TAN](https://x.com/tan_technology/status/1866781040674795854), was wohl der Name von dem neuen Tangle Projekt sein wird
 18. **Crypto Drama**: Artikel: [Microsoft Shareholders Vote Against Bitcoin Investment Proposal](https://watcher.guru/news/microsoft-shareholders-vote-against-bitcoin-investment-proposal#google_vignette)
-19. **IOTA Rebased Validator Nodes**: Neue Validator Nodes: [Tweet 1 von Salima](https://x.com/Salimasbegum/status/1866531966436422022) über [StakinOfficial](https://x.com/StakinOfficial); [Tweet 2 von Salima](https://x.com/Salimasbegum/status/1866589983584424286) über [HashKeyCloud](https://x.com/HashKeyCloud)
+19. **IOTA Rebased Validator Nodes**: Neue Validator Nodes: [Tweet 1 von Salima](https://x.com/Salimasbegum/status/1866531966436422022) über [StakinOfficial](https://x.com/StakinOfficial); [Tweet 2 von Salima](https://x.com/Salimasbegum/status/1866589983584424286) über [HashKeyCloud](https://x.com/HashKeyCloud, [Tweet 3 von Salima](https://x.com/Salimasbegum/status/18670928730924077989) über [Nakama_Labs](https://x.com/Nakama_Labs)
 20. **IOTA Trading**: im IOTA/BTC Chart gab es eine wichtige Wende: Der 50-Tage-Durchschnitt kreuzt den 200-Tage-Durchschnitt nach oben: [Tweet](https://x.com/Colibali5270741/status/1866779037915345149)
 21. **Crypto Audio**: Roger Ver (der Bitcoin Jesus) war bei Tucker Carlson: [Tweet](https://x.com/TuckerCarlson/status/1866543923939729870)
 22. **IOTA EVM Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1866828256659284297) über ihre Partnerschaft mit [TheNewElites](https://x.com/TheNewElites_)
@@ -26,4 +26,4 @@
 24. **Crypto Adoption**: Microstrategie wird wohl am Freitag in den Nasdag Top 100 aufgenommen; Artikel: [Preistreiber für Bitcoin: MicroStrategy kurz vor der Aufnahme in den Nasdaq 100?](https://www.blocktrainer.de/blog/microstrategy-kurz-vor-der-aufnahme-in-den-nasdaq-100)
 25. **IOTA Exchanges**: [Dom Schiener kommentiert](https://x.com/DomSchiener/status/1866548000098791855) ob "Kraken einem Freund helfen kann" der IOTA kaufen will...
 26. **IOTA Event**: [Kowei tweetet](https://x.com/kowei1995/status/1867118366630219916) vons einem IOTA Vortrag auf der [Taipei Blockchain Week](https://lu.ma/BlockMeetTBW) am 15. Dezember; Er war davor auch schon auf einem Move Side Event auf dem er IOTA repräsentiert hatte: [Tweet](https://x.com/kowei1995/status/1866849940011692287)
-27. 
+27. **IOTA Youtube**: [TangleTalk tweetet](https://x.com/tangle_talk/status/1867139422887797226) über Das [Interview mit Dom](https://www.youtube.com/watch?v=z8rIc-p-5VY)
