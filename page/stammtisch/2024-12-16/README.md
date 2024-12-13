@@ -1,7 +1,7 @@
 ## IOTA Stammtischthemen für Montag, den 16.12.2024
 
 1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1866077400372539600) über die [IOTA Quicktakes](https://x.com/iota/status/1866077400372539600)
-2. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1866396462562591123) "Welcome [Bancor](https://x.com/Bancor) ("An ecosystem of DeFi protocols that foster onchain trading and liquidity. "); [Bancor tweetet](https://x.com/Bancor/status/1866535992506601511) "Bancor technologies are live on iota"; Hier die Webseite: [bancor.network](https://bancor.network/)
+2. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1866396462562591123) "Welcome [Bancor](https://x.com/Bancor) ("An ecosystem of DeFi protocols that foster onchain trading and liquidity. "); [Bancor tweetet](https://x.com/Bancor/status/1866535992506601511) "Bancor technologies are live on iota"; Hier die Webseite: [bancor.network](https://bancor.network/) und es gab ein [Livestream](https://x.com/i/broadcasts/1ynJODwDvXQxR)
 3. **Ki News**: Grok kann jetzt ultra realistische Fotos von Personen erstellen: [Tweet](https://x.com/stillgray/status/1866174199964061847)
 4. **Quanten Computer**: [Sundar (der CEO von Google und Alphabet) tweetet](https://x.com/sundarpichai/status/1866167429367468422), über [Meet Willow, our state-of-the-art quantum chip](https://blog.google/technology/research/google-willow-quantum-chip/)
 5. **IOTA EVM Adoption**: [Catapus macht ein Thread](https://x.com/CatapusOfficial/status/1866146063217811886) über ihren Meme Coin Plattform: [catapus.com](https://www.catapus.com/)
@@ -33,3 +33,8 @@
 31. **Crypto Adoption**: Bitcoin bei der Kindersendung "Logo": [Tweet](https://x.com/blocktrainer/status/1867117815981023347)
 32. **Crypto Adoption**: Blackrock sagt 2% Crypto Allocation ist sinnvoll: [Tweet](https://x.com/BitcoinMagazine/status/1867203387713876251)
 33. **IOTA Rebased Validator**: Die [IF macht ein Thread](https://x.com/iota/status/1867207788344021299) über die ihren Blogpost: [IOTA Rebased Welcomes Testnet Validators](https://blog.iota.org/iota-rebased-validators/)
+34. **IOTA EVM Ökosystem**: Das [Shi Universe tweetet](https://x.com/Shiuniverse/status/1867516511037878548) über ein [Valid Raid Special Event](https://youtu.be/Zm3HzCm0Aoc?si=wsl6qaA1JDU3d_yG) (Video)
+35. **IOTA Youtube**: [TYoutube Link](https://youtu.be/Zm3HzCm0Aoc?si=wsl6qaA1JDU3d_yG)
+36. **Crypto Adoption**: 2 Staaten in den USA wollen Bitcoin Reserve einführen: [Tweet](https://x.com/BitcoinMagazine/status/1867308091416678825)
+37. **IOTA NFT**: [The New Elite tweeten](https://x.com/TheNewElites_/status/1867508664862748751) ein [Video](https://youtu.be/2t2BK7JYtz0)
+38. **IOTA NFT Marktplatz**: Noch ein [Soon Tweet von figment](https://x.com/figment_nfts/status/1867215479636385894)...
