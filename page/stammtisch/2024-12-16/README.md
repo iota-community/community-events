@@ -38,3 +38,5 @@
 36. **Crypto Adoption**: 2 Staaten in den USA wollen Bitcoin Reserve einführen: [Tweet](https://x.com/BitcoinMagazine/status/1867308091416678825)
 37. **IOTA NFT**: [The New Elite tweeten](https://x.com/TheNewElites_/status/1867508664862748751) ein [Video](https://youtu.be/2t2BK7JYtz0)
 38. **IOTA NFT Marktplatz**: Noch ein [Soon Tweet von figment](https://x.com/figment_nfts/status/1867215479636385894)...
+39. **Crypto Adoption**: Argentinien will 2025 Bitcoin Zahlungen ermöglichen: [Tweet](https://x.com/CryptoAvon2626/status/1867515068037865708)
+40. **Crypto Adoption**: Artikel: [El Salvador Expands Crypto Partnerships, Extending Agreements Beyond Argentina](https://bitcoinworld.news/article/675aca0c681c381e0f07ad65)
