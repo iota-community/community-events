@@ -55,3 +55,6 @@
 53. **Crypto Pump**: Der Bitcoin hat in der Nacht zum Montag die 100K EUR durchbrochen: [Tweet](https://x.com/JoeNakamoto/status/1868566620865446097); Bitcoin erreicht auch eine neues Hashrate Maximum: [Tweet](https://x.com/BitcoinMagazine/status/1868596025201660300)
 54. **IOTA Event**: Es gab einen IOTA Side Event auf der Taipei Blockchain Week: [Tweet von kowei](https://x.com/kowei1995/status/1868503610847641973)
 55. **Crypto Adoption**: [Bitpanda tweetet](https://x.com/Bitpanda/status/1868597388882907458), dass sie global gehen und in den UAE die In-Principle-Zulassung erhalten haben: [Bitpanda erhält die grundsätzliche Genehmigung der Virtual Assets Regulatory Authority (VARA) für den Markteintritt in den Vereinigten Arabischen Emiraten](https://blog.bitpanda.com/de/bitpanda-erhalt-die-grundsatzliche-genehmigung-der-virtual-assets-regulatory-authority-vara-fur-den-markteintritt-den-vereinigten-arabischen-emiraten)
+56. **Crypto Adoption**: Lindner hat heute über Bitcoin im Bundestag geredet: [Tweet von Frank Schäffler](https://x.com/f_schaeffler/status/1868654092102349061)
+57. **IOTA Audio**: Am Mittwoch ist Buildsphere #26 mit Kutkraft: [Tweet](https://x.com/iotalabs_/status/1868657460875239928)
+58. **IOTA Audio Event**: Am Donnerstag ist "Year in Review mit Dom und Kutkraft": [Tweet von der IF](https://x.com/iota/status/1868627137403474358)
