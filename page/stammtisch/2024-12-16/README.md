@@ -49,7 +49,8 @@
 47. **IOTA Audio**: Am 16.12. ist ein Roundtable mit [Virtue Money](https://twitter.com/Virtue_Money) geplant: [Tweet](https://x.com/Virtue_Money/status/1867565920358428921)
 48. **IOTA EVM Ökosystem**: [GenSol tweetet](https://x.com/GenSol_io/status/1867544546525257805) einige Details darüber, wie sie beim "Demo Day event of the 2024 Busan Content Startup Acceleration Program" gewonnen haben
 49. **IOTA Adoptions**: Einige finanzstarke IOTA-Transaktionen wurden gemacht: $9mio: [Tweet](https://x.com/tanglelytics/status/1867637757280915549); $9mio: [Tweet](https://x.com/tanglelytics/status/1867636062186553430); $8mio: [Tweet](https://x.com/tanglelytics/status/1867684791929241950); $20mio: [Tweet ](https://x.com/tanglelytics/status/1867881110832656637); $2mio: [Tweet](https://x.com/tanglelytics/status/1868453152267149674)
-50. **IOTA Adoption**: [Crypto Gin tweetet](https://x.com/Crypto_Gin21/status/1868335683443576943) über die neue Gin Kollektion die jetzt gekauft werden kann (zusammen mit einem NFT auf der IOTA EVM)
-51. **IOTA Youtube**: [TangleTalk tweetet](https://x.com/tangle_talk/status/1867863692450353566) über das [Interview mit Sebastian Weber von Akkodis vom 04.12.24](https://www.youtube.com/watch?v=DtqEOuihiC0)
-52. **Crypto Pump**: Der Bitcoin hat in der Nacht zum Montag die 100K EUR durchbrochen: [Tweet](https://x.com/JoeNakamoto/status/1868566620865446097)
-53. **IOTA Event**: Es gab einen IOTA Side Event auf der Taipei Blockchain Week: [Tweet von kowei](https://x.com/kowei1995/status/1868503610847641973)
+50. **IOTA Gezwitscher**: [Dom tweetet](https://x.com/DomSchiener/status/1868553488579326296) über Ai Agents, die sie auch gerne bei IOTA sehen würden
+51. **IOTA Adoption**: [Crypto Gin tweetet](https://x.com/Crypto_Gin21/status/1868335683443576943) über die neue Gin Kollektion die jetzt gekauft werden kann (zusammen mit einem NFT auf der IOTA EVM)
+52. **IOTA Youtube**: [TangleTalk tweetet](https://x.com/tangle_talk/status/1867863692450353566) über das [Interview mit Sebastian Weber von Akkodis vom 04.12.24](https://www.youtube.com/watch?v=DtqEOuihiC0)
+53. **Crypto Pump**: Der Bitcoin hat in der Nacht zum Montag die 100K EUR durchbrochen: [Tweet](https://x.com/JoeNakamoto/status/1868566620865446097); Bitcoin erreicht auch eine neues Hashrate Maximum: [Tweet](https://x.com/BitcoinMagazine/status/1868596025201660300)
+54. **IOTA Event**: Es gab einen IOTA Side Event auf der Taipei Blockchain Week: [Tweet von kowei](https://x.com/kowei1995/status/1868503610847641973)
