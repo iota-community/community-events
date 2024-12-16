@@ -1,6 +1,6 @@
 ## IOTA Stammtischthemen für Montag, den 16.12.2024
 
-1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1866077400372539600) über die [IOTA Quicktakes](https://x.com/iota/status/1866077400372539600)
+1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1866077400372539600) über die [IOTA Quicktakes 09.12.2024: First Validators Join IOTA Rebased Test Network, Vote Counting Begins](https://www.youtube.com/watch?v=fo_DpGoQ71o)
 2. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1866396462562591123) "Welcome [Bancor](https://x.com/Bancor) ("An ecosystem of DeFi protocols that foster onchain trading and liquidity. "); [Bancor tweetet](https://x.com/Bancor/status/1866535992506601511) dazu: "Bancor technologies are live on iota"; Hier die Webseite: [bancor.network](https://bancor.network/) und es gab ein [Livestream auf X](https://x.com/i/broadcasts/1ynJODwDvXQxR)
 3. **Ki News**: Grok kann jetzt ultra realistische Fotos von Personen erstellen: [Tweet](https://x.com/stillgray/status/1866174199964061847)
 4. **Quanten Computer**: [Sundar (der CEO von Google und Alphabet) tweetet](https://x.com/sundarpichai/status/1866167429367468422), über [Meet Willow, our state-of-the-art quantum chip](https://blog.google/technology/research/google-willow-quantum-chip/); Aber scheinbar noch kein eGefahr für Bitcoin und Co...
@@ -37,7 +37,7 @@
 35. **IOTA Youtube**: Neues vom Shi Universe: [Shi Universe - Valids Raid (Special Event)](https://youtu.be/Zm3HzCm0Aoc?si=wsl6qaA1JDU3d_yG)
 36. **Crypto Adoption**: Es gab eine bullische [Keynote von Eric Trump auf der Bitcoin Konferenz in Abu Dhabi](https://www.youtube.com/watch?v=SZ6rqYl5Xn4)
 37. **Crypto Adoption**: Schon 2 Staaten in den USA wollen wahrscheinlich eine Bitcoin Reserve einführen: [Tweet](https://x.com/BitcoinMagazine/status/1867308091416678825)
-38. **IOTA NFT**: [The New Elite tweetet](https://x.com/TheNewElites_/status/1867508664862748751) ein [Video](https://youtu.be/2t2BK7JYtz0)
+38. **IOTA NFT**: [The New Elite tweetet](https://x.com/TheNewElites_/status/1867508664862748751) ein [Video: The New Elites - Walkthrough](https://youtu.be/2t2BK7JYtz0)
 39. **IOTA NFT Marktplatz**: Es gab nochmal ein [Soon Tweet von figment](https://x.com/figment_nfts/status/1867215479636385894)...
 40. **Crypto Adoption**: Argentinien will 2025 offenbar Bitcoin Zahlungen ermöglichen: [Tweet](https://x.com/CryptoAvon2626/status/1867515068037865708)
 41. **Crypto Adoption**: Artikel: [El Salvador Expands Crypto Partnerships, Extending Agreements Beyond Argentina](https://bitcoinworld.news/article/675aca0c681c381e0f07ad65)
