@@ -1,10 +1,8 @@
 # IOTA Community Events
 
-## Global
+## Allgemein
 - Virtuelle Stammtische finend jeden Montag um 20:15 Uhr im [einfachIOTA Discord](https://discord.gg/YpZGRfAbYX) statt
-
-
-## Real Life Stammtische werden im [einfachIOTA Discord](https://discord.gg/YpZGRfAbYX) organisiert
+- Real Life Stammtische werden im [einfachIOTA Discord](https://discord.gg/YpZGRfAbYX) organisiert
 
 ## Deutschland (Real Live Stammtische)
     - Berlin
