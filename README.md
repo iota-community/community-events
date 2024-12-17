@@ -1,22 +1,38 @@
 # IOTA Community Events
 
-Global
-- [Virtual Stammtisch (einfachIOTA Discord)](./page/stammtisch)
-- [Community Twitter spaces (us time zone)](./page/twitter-spaces)
+## Global
+- [Virtual Stammtisch (jeden Montag 20:15 Uhr im [einfachIOTA Discord](https://discord.gg/YpZGRfAbYX))
 
-## Germany
-- [Real Life Stammtisch](./page/stammtisch)
-    - [Berlin](./page/stammtisch/berlin/)
-    - [Hamburg](./page/stammtisch/hamburg)
-    - [Mannheim](./page/stammtisch/mannheim)
-    - [München](./page/stammtisch/muenchen)
-    - [Saarbrücken](./page/stammtisch/saarbruecken)
 
-## Switzerland
-- [Real Life Stammtisch](./page/rl_stammtisch)
-    - [Switzerland](./page/stammtisch/switzerland/)
+## Real Life Stammtische werden im [einfachIOTA Discord](https://discord.gg/YpZGRfAbYX) organisiert
+
+## Germany (real live Stammtisch)
+    - Berlin
+    - Hamburg
+    - Mannheim
+    - München
+    - Saarbrücken
+    - Aachen
+    - Stuttgart
+    - Köln
+    - Bern
+    - Ruhrgebiet
+    - Karlsruhe
+    - Düsseldorf
+    - Thüringen-Jena
+    - Frankfurt
+    - Freiburg
+    - Osnabrück
+
+## Austria (real live Stammtisch)
+    - Wien
+    - Tirol
+    - Vorarlberg
+
+## Switzerland (real live Stammtisch)
+    - Basel
+    - Zürich
     
-## Italy
-- [Real Life Stammtisch](./page/rl_stammtisch)
-    - [South Tyrol](./page/stammtisch/south_tyrol)
+## Italy (real live Stammtisch)
+-     Südtirol
     
