@@ -201,5 +201,6 @@
 - [2024-12-02](./stammtisch/2024-12-02/README.md)
 - [2024-12-09](./stammtisch/2024-12-09/README.md)
 - [2024-12-16](./stammtisch/2024-12-16/README.md)
+- [2024-12-23](./stammtisch/2024-12-23/README.md)
 
 
