@@ -1,12 +1,12 @@
 # IOTA Community Events
 
 ## Global
-- [Virtual Stammtisch (jeden Montag 20:15 Uhr im [einfachIOTA Discord](https://discord.gg/YpZGRfAbYX))
+- Virtuelle Stammtische finend jeden Montag um 20:15 Uhr im [einfachIOTA Discord](https://discord.gg/YpZGRfAbYX) statt
 
 
 ## Real Life Stammtische werden im [einfachIOTA Discord](https://discord.gg/YpZGRfAbYX) organisiert
 
-## Germany (real live Stammtisch)
+## Deutschland (Real Live Stammtische)
     - Berlin
     - Hamburg
     - Mannheim
@@ -24,15 +24,15 @@
     - Freiburg
     - Osnabrück
 
-## Austria (real live Stammtisch)
+## Österreich (Real Live Stammtische)
     - Wien
     - Tirol
     - Vorarlberg
 
-## Switzerland (real live Stammtisch)
+## Schweiz (Real Live Stammtisch)
     - Basel
     - Zürich
     
-## Italy (real live Stammtisch)
+## Italien (Real Live Stammtisch)
     -  Südtirol
     
