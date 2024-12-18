@@ -15,3 +15,8 @@
 13. **Crypto Adoption**: Im Europa Parlament wird über ein Bitcoin Reserve geredet: [Tweet](https://x.com/BitcoinMagazine/status/1868968945421853181)
 14. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1869324786486378537) über [The first Two Years of the Shipper-Driven, Terminal Centric...](https://www.youtube.com/watch?v=Vxp252QP3Y8&t=2189s)
 15. **Crypto Adoption**: Blackrock macht ein Bitcoin Werbe Video: [Tweet](https://x.com/WatcherGuru/status/1869134812696687015)
+16. **Crypto Adoption**: 4 neue Crypto Trading Plattfomen wurden in Hongkong genehmigt: [Tweet](https://x.com/BitcoinMagazine/status/1869352024036499872)
+17. **Crypto Adoption**: Es wurde ein Bitcoin-Reserve-Gesetzentwurf im Ohio Staat eingereicht: [Tweet](https://x.com/BTC_Archive/status/1869148527664021529)
+18. **IOTA Audio**: [iotalabs tweetet](https://x.com/iotalabs_/status/1868657460875239928) über das Interview: [Buildshpere #26 mit The New Elites](https://x.com/i/spaces/1OwxWNkwOpAJQ)
+19. **Ki News**: Google bringt Veo 2 womit man sehr gute Videos erstellen kann: [Beispiel 1: Ski fahren auf dem Mond](https://x.com/noonescente/status/1869138005925265587); [Beispiel 2: Hase hüpft in Seifenblase](https://x.com/DeryaTR_/status/1869041493752852568)
+20. **Crypto Adoption**: Artikel: [Vorbild Trump - FDP zieht mit Bitcoin-Reserven in den Wahlkampf](https://www.btc-echo.de/schlagzeilen/fdp-zieht-mit-bitcoin-reserven-in-den-wahlkampf-197916/?utm_content=buffer8005f&utm_medium=social&utm_source=x.com&utm_campaign=buffer)
