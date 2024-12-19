@@ -25,4 +25,9 @@
 23. **IOTA EVM Ökosystem**: Das [Shi-Universe tweetet](https://x.com/Shiuniverse/status/1869428047130066956), dass man jetzt mit seinen NFTs abstimmen kann auf [tanglespace.app](https://www.tanglespace.app/)
 24. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1868627137403474358) über das "Year in review with Kutkraft" Event im Discord (am Do. 19.12.24)
 25. **Allg. News**: In den USA haben sie ein 1500 seitiges Gesetzentwurf ([Tweet](https://x.com/Kristennetten/status/1869457547780141501)) erst 19h vor der Abstimmung vorgelegt bekommen. Und die DOGE Truppe rund um Elon Musk hat das verhindert: [Tweet](https://x.com/MarioNawfal/status/1869423069430771957)
-26. 
+26. **IOTA Speculation**: Ein [Tweet von GM](https://x.com/GM__INV/status/1869683720510476632) sugeriert, dass IOTA und EBSI mit der spanischen Regierung zusammen arbeitet. Ich denke allerdings, dass das nur ein Beispiel ist wie EBSI funktionieren würde
+27. **IOTA Rebased**: Die [IF tweetet](https://x.com/iota/status/1869699205154984400) über ihren Blogpost: [IOTA Rebased Welcomes Next Round of Testnet Validators](https://blog.iota.org/iota-rebased-validators2/)
+28. **IOTA Exchanges**: [BYDfi tweetet](https://x.com/BYDFi/status/1869681374497763601), dass sie IOTA gelistet ist auf [bydfi.com/en/spot/iota_usdt](https://www.bydfi.com/en/spot/iota_usdt)
+29. **IOTA Exchanges**: Die [LBank tweetet](https://x.com/LBank_Exchange/status/1869696182806827251), dass man am 19.12 IOTA handeln kann und verlinken ihr Announcement: [IOTA (IOTA) Will Be Listed in LBank](https://support.lbank.com/hc/en-gb/articles/41375350555289-IOTA-IOTA-Will-Be-Listed-in-LBank)
+30. **IOTA Ökosystem**: [Bivreost tweetet](https://x.com/bivreost/status/1869687640397639741), dass $LUM jetzt integriert ist in ihrem Telegram IOTA Wallet
+31. 
