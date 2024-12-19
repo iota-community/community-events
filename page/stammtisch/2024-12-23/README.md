@@ -30,4 +30,5 @@
 28. **IOTA Exchanges**: [BYDfi tweetet](https://x.com/BYDFi/status/1869681374497763601), dass sie IOTA gelistet ist auf [bydfi.com/en/spot/iota_usdt](https://www.bydfi.com/en/spot/iota_usdt)
 29. **IOTA Exchanges**: Die [LBank tweetet](https://x.com/LBank_Exchange/status/1869696182806827251), dass man am 19.12 IOTA handeln kann und verlinken ihr Announcement: [IOTA (IOTA) Will Be Listed in LBank](https://support.lbank.com/hc/en-gb/articles/41375350555289-IOTA-IOTA-Will-Be-Listed-in-LBank)
 30. **IOTA Ökosystem**: [Bivreost tweetet](https://x.com/bivreost/status/1869687640397639741), dass $LUM jetzt integriert ist in ihrem Telegram IOTA Wallet
-31. 
+31. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1869735426103124408) über eine X-Mas Raffle
+32. 
