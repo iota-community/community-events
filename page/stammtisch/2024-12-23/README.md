@@ -31,4 +31,10 @@
 29. **IOTA Exchanges**: Die [LBank tweetet](https://x.com/LBank_Exchange/status/1869696182806827251), dass man am 19.12 IOTA handeln kann und verlinken ihr Announcement: [IOTA (IOTA) Will Be Listed in LBank](https://support.lbank.com/hc/en-gb/articles/41375350555289-IOTA-IOTA-Will-Be-Listed-in-LBank)
 30. **IOTA Ökosystem**: [Bivreost tweetet](https://x.com/bivreost/status/1869687640397639741), dass $LUM jetzt integriert ist in ihrem Telegram IOTA Wallet
 31. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1869735426103124408) über eine X-Mas Raffle
-32. 
+32. **Crypto Adoption**: Senatorin Lummis äußert sich zur Bitcoin Reserve in den USA: [Tweet](https://x.com/Kristennetten/status/1869457547780141501)
+33. **IOTA Adoption**: Neuer Blogpost von Digimarc mit IOTAinside: [A Future Proof Solution for Strong Digital Product Passports](https://www.digimarc.com/blog/future-proof-solution-strong-digital-product-passports)
+34. **Crypto Adoption**: Die dänische Regierung will evtl. Gold in Bitcoin tauschen: [Tweet](https://x.com/notrealsaylor/status/1869700862496653651)
+35. **IOTA Rebased**: Die [IF tweetet](https://x.com/iota/status/1869744681162059875) über IOTA Rebased und den Blogpost: [IOTA Rebased Welcomed by the Community](https://blog.iota.org/iota-rebased-welcomed-by-community/); Auch [Dom retweetet](https://x.com/DomSchiener/status/1869777835411521996) das
+36. **IOTA EVM Ökosystem**: [IOTAheroes tweeten](https://x.com/IotaHeroes/status/1869774704501817703) von ihrer Partnerschaft mit [Anazir_game](https://x.com/Anazir_game) und einem NFT Giveaway Airdrop Event
+37. **IOTA Adoption**: [TLIP tweetet](https://x.com/TLIP_io/status/1869771191939994105) einen Jahresrückblick mit viel IOTAinside
+38. **Crypto Crash**: Bitcoin crashed am Donnerstag wieder auf unter $100K: [Tweet](https://x.com/AltcoinDailyio/status/1869832104735084957)
