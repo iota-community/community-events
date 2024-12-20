@@ -35,6 +35,8 @@
 33. **IOTA Adoption**: Neuer Blogpost von Digimarc mit IOTAinside: [A Future Proof Solution for Strong Digital Product Passports](https://www.digimarc.com/blog/future-proof-solution-strong-digital-product-passports)
 34. **Crypto Adoption**: Die dänische Regierung will evtl. Gold in Bitcoin tauschen: [Tweet](https://x.com/notrealsaylor/status/1869700862496653651)
 35. **IOTA Rebased**: Die [IF tweetet](https://x.com/iota/status/1869744681162059875) über IOTA Rebased und den Blogpost: [IOTA Rebased Welcomed by the Community](https://blog.iota.org/iota-rebased-welcomed-by-community/); Auch [Dom retweetet](https://x.com/DomSchiener/status/1869777835411521996) das
-36. **IOTA EVM Ökosystem**: [IOTAheroes tweeten](https://x.com/IotaHeroes/status/1869774704501817703) von ihrer Partnerschaft mit [Anazir_game](https://x.com/Anazir_game) und einem NFT Giveaway Airdrop Event
-37. **IOTA Adoption**: [TLIP tweetet](https://x.com/TLIP_io/status/1869771191939994105) einen Jahresrückblick mit viel IOTAinside
-38. **Crypto Crash**: Bitcoin crashed am Donnerstag wieder auf unter $100K: [Tweet](https://x.com/AltcoinDailyio/status/1869832104735084957)
+36. **IOTA Rebased**: Es gab auch Reaktionen darauf: [Tweet von Route 2(320K follower)](https://x.com/Route2FI/status/1869769115944288690); [Tweet von Eric Wall](https://x.com/ercwl/status/1869867502198763558)
+37. **IOTA EVM Ökosystem**: [IOTAheroes tweeten](https://x.com/IotaHeroes/status/1869774704501817703) von ihrer Partnerschaft mit [Anazir_game](https://x.com/Anazir_game) und einem NFT Giveaway Airdrop Event
+38. **IOTA Adoption**: [TLIP tweetet](https://x.com/TLIP_io/status/1869771191939994105) einen Jahresrückblick mit viel IOTAinside
+39. **Crypto Crash**: Bitcoin crashed am Donnerstag wieder auf unter $100K: [Tweet](https://x.com/AltcoinDailyio/status/1869832104735084957)
+40. **Allg. News**: Elon Musk mischt sich jetzt auch in den deutschen Wahlkampf ein: [Tweet](https://x.com/elonmusk/status/1869986946031988780)
