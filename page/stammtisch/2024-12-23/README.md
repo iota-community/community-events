@@ -39,4 +39,6 @@
 37. **IOTA EVM Ökosystem**: [IOTAheroes tweeten](https://x.com/IotaHeroes/status/1869774704501817703) von ihrer Partnerschaft mit [Anazir_game](https://x.com/Anazir_game) und einem NFT Giveaway Airdrop Event
 38. **IOTA Adoption**: [TLIP tweetet](https://x.com/TLIP_io/status/1869771191939994105) einen Jahresrückblick mit viel IOTAinside
 39. **Crypto Crash**: Bitcoin crashed am Donnerstag wieder auf unter $100K: [Tweet](https://x.com/AltcoinDailyio/status/1869832104735084957)
-40. **Allg. News**: Elon Musk mischt sich jetzt auch in den deutschen Wahlkampf ein: [Tweet](https://x.com/elonmusk/status/1869986946031988780)
+40. **Allg. News**: Elon Musk mischt sich jetzt auch in den deutschen Wahlkampf ein: [Tweet](https://x.com/elonmusk/status/1869986946031988780); Die [AFD freut sich](https://x.com/AfD/status/1870051089594364400) darüber
+41. **IOTA Governement**: Es gab ein [Thread von Linus](https://x.com/LinusNaumann/status/1870067321601151108) über ein neues Proposal: [[IGP - 0007] - IOTA Growth Initiative](https://govern.iota.org/t/igp-0007-iota-growth-initiative/1780)
+42. **IOTA Promote**: Die [IF tweetet](https://govern.iota.org/t/igp-0007-iota-growth-initiative/1780) über die Tokenomics von IOTA Rebased; HIer noch ein [Tweet von der IF](https://x.com/iota/status/1870106902333419626)
