@@ -42,8 +42,11 @@
 40. **Allg. News**: Elon Musk mischt sich jetzt auch in den deutschen Wahlkampf ein: [Tweet](https://x.com/elonmusk/status/1869986946031988780); Die [AFD freut sich](https://x.com/AfD/status/1870051089594364400) darüber
 41. **IOTA Governement**: Es gab ein [Thread von Linus](https://x.com/LinusNaumann/status/1870067321601151108) über ein neues Proposal: [[IGP - 0007] - IOTA Growth Initiative](https://govern.iota.org/t/igp-0007-iota-growth-initiative/1780)
 42. **IOTA Promote**: Die [IF tweetet](https://govern.iota.org/t/igp-0007-iota-growth-initiative/1780) über die Tokenomics von IOTA Rebased; HIer noch ein [Tweet von der IF](https://x.com/iota/status/1870106902333419626)
-43. **Crypto Drama**: [Dom kommentiert](https://x.com/DomSchiener/status/1870174922578043318) den Exit von dem Aptos VC, der offenbar sofort verkauft hat sobald das möglich war
+43. **Crypto Drama**: [Dom kommentiert](https://x.com/DomSchiener/status/1870174922578043318) den Exit von dem Aptos VC, der offenbar sofort verkauft hat sobald das möglich war; [Eric Wall tweetet](https://x.com/ercwl/status/1870185426067083360) daraufhin IOTA FUD woraufhin es eine [lange Antwort von Dom](https://x.com/DomSchiener/status/1870351897892094214) gab
 44. ****: Die [IF retweetet](https://x.com/iota/status/1870165098842517914) den [Tweet von TLIP](https://x.com/TLIP_io/status/1870160446625357858) über das neue Promo Video für TLIP: [TLIP revolutionising global trade by digitising documentation and approval processes](https://www.youtube.com/watch?v=TW3HtMXOzJA); Auch [Dom retweetet](https://x.com/DomSchiener/status/1870175742593544691) das
 45. **Crypto Adoption**: El Salvador beschleunigt ihren täglichen Bitcoin Kauf: [Tweet](https://x.com/BitcoinMagazine/status/1870207089018064920)
 46. **Allg. News**: In Magdeburg am Weihnachtsmarkt ist jemand mit einem Auto in die Menschenmasse gerast: [Tweet](https://x.com/CollinRugg/status/1870187310840459544)
-47. 
+47. **Crypto Drama**: USDT soll scheinbar in der EU verboten werden und muss auf den Exchanges delisted werden: [Tweet](https://x.com/blckchaindaily/status/1870170177158918552)
+48. **Crypto Drama**: Richard Schueler (Richard Heart) steht jetzt auf der Most Wanted Liste der EU: [Tweet](https://x.com/WhaleFUD/status/1870584254293565787)
+49. **Crypto Adoption**: Artikel: [UAE Reaches New Milestone with Impressive Bitcoin Holdings ($40 billion BTC)](https://cryptodnes.bg/en/uae-reaches-new-milestone-with-impressive-bitcoin-holdings/)
+50. **IOTA EVM Gaming**: Die [IotaHeroes tweeten](https://x.com/IotaHeroes/status/1870813611129528730) über ein Update in ihrem Spiel
