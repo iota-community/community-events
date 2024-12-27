@@ -8,5 +8,5 @@
 6. **IOTA Rebased Tutorial**: [Teun tweetet](https://x.com/teunvw5/status/1871587496095826412) über sein neues Tutorial: [IOTA Rebased - Writing a Raffle Smart Contract With Move](https://teunvw14.github.io/posts/iota-move-raffle-tutorial/); [Dom bedankt sich](https://x.com/DomSchiener/status/1871994984528011535) dafür
 7. **IOTA Adoption**: [Trademark East Afrika tweetet](https://x.com/TradeMarkAfrica/status/1872145317883232267) über [Africa Trade Development Forum - How it all went down on the second day of the event](https://www.youtube.com/watch?v=XwGl_1REW7I)
 8. **IOTA Rebased**: Die [IF tweetet](https://x.com/iota/status/1872643606416085398) über die Anforderungen für Validatoren bei IOTA Rebased
-9. 
+9. **Crypto Adoption**: Russland benutzt scheinbar Bitcoin um den Sanktionen zu umgehen: [Tweet](https://x.com/WatcherGuru/status/1871890969681166578)
 
