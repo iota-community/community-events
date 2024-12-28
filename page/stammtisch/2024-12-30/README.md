@@ -9,4 +9,6 @@
 7. **IOTA Adoption**: [Trademark East Afrika tweetet](https://x.com/TradeMarkAfrica/status/1872145317883232267) über [Africa Trade Development Forum - How it all went down on the second day of the event](https://www.youtube.com/watch?v=XwGl_1REW7I)
 8. **IOTA Rebased**: Die [IF tweetet](https://x.com/iota/status/1872643606416085398) über die Anforderungen für Validatoren bei IOTA Rebased
 9. **Crypto Adoption**: Russland benutzt scheinbar Bitcoin um den Sanktionen zu umgehen: [Tweet](https://x.com/WatcherGuru/status/1871890969681166578)
+10. **IOTA Ökosystem**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1873002378221289642) über ihren Blogpost: [Nakama Ecosystem 2024: Leading the Way with Our Vision Nearly Complete](https://medium.com/@NakamaLabs/nakama-ecosystem-2024-leading-the-way-with-our-vision-nearly-complete-a6b7d2055493)
+11.  
 
