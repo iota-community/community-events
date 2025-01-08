@@ -7,4 +7,4 @@
 5. **Allg. News**: Mark Zuckerberg will free speach wieder erlauben und community notes ähnlich wie X einfügen. Es gibt von ihm ein [langes Statement](https://x.com/teslaownersSV/status/1876606982096093651) dazu; Er meint es offenbar ernst. Stellt sogar diesen MMA Fighter als Board Leader von Meta ein: [Tweet](https://x.com/bennyjohnson/status/1876447531091300604) mit Free Speach Aussage von ihm
 6. **IOTA ökosystem**: [Realize tweetet](https://x.com/realizefinance/status/1876613094665048409) ein Video von ihrer Tokenisation Plattform die bald live gehen wird
 7. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1876629872723857524) nochmal über den Blogpost: [IOTA Rebased: Public Testnet and DevNet Guide](https://blog.iota.org/iota-rebased-testnet-devnet-guide/)
-8. 
+8. **Crypto Adoption**: Der Minister von THailand will in Phuket ein Pilot Projekt "Bitcoin und Cryptzahlungen" für Touristen starten: [Tweet](https://x.com/BTC_Archive/status/1876959734005109191)
