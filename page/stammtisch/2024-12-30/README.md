@@ -20,4 +20,4 @@
 18. **IOTA Ökosystem** [iotalabs tweetet](https://x.com/iotalabs_/status/1877309796388675600) über [IOTA Grants Season 2 ](https://t.co/1q5f9xy3cW)
 19. **Crypto Adoption**: Bitpanda Partnerschaft mit Paris St'Germain: [Tweet](https://x.com/Bitpanda_global/status/1877340236381839465)
 20. **IOTA Hype**: [Dom retweetet](https://x.com/DomSchiener/status/1877311761306521932) den Artikel von CoinMarketCap: [ChatGPT’s top 5 crypto picks for the 2025 market surge](https://coinmarketcap.com/community/articles/677efe9ceb91cd54ab8b5ce7/) in dem IOTA dabei ist
-21. 
+21. **IOTA Hype**: Dom will wetten, dass IOTA $4 erreicht: [Tweet]8https://x.com/DomSchiener/status/1877350315634085945)
