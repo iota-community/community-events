@@ -16,4 +16,8 @@
 14. **Crypto News**: 69K Bitcoins von der Silk Road werden wohl vom US Governeent verkauft: [Tweet](https://x.com/BitcoinMagazine/status/1877177432945422487); Hier die [Blockchain Adresse](https://intel.arkm.com/explorer/address/bc1qa5wkgaew2dkv56kfvj49j0av5nml45x9ek9hz6) der (unverkauften?!?) Coins
 15. **Crypto Adoption**: In Oklahoma kann man jetzt wohl Cryptos als Gehalt bekommen: [Tweet](https://x.com/BitcoinMagazine/status/1877109978474950677)
 16. **Crypto Adoption**: Brad Garlinghouse (CEO von Ripple) Ripple hatte wohl ein Dinner mit Donald Trump und [Stuart Alderoty](https://x.com/s_alderoty) (Chief Legal Officer von Ripple): [Tweet](https://x.com/bgarlinghouse/status/1876783603603939438)
-17. 
+17. **Crypto Adoption**: Senator Lummis will ein "arm race for Bitcoin" starten: [Tweet](https://x.com/CryptosR_Us/status/1877327712244871282)
+18. **IOTA Ökosystem** [iotalabs tweetet](https://x.com/iotalabs_/status/1877309796388675600) über [IOTA Grants Season 2 ](https://t.co/1q5f9xy3cW)
+19. **Crypto Adoption**: Bitpanda Partnerschaft mit Paris St'Germain: [Tweet](https://x.com/Bitpanda_global/status/1877340236381839465)
+20. **IOTA Hype**: [Dom retweetet](https://x.com/DomSchiener/status/1877311761306521932) den Artikel von CoinMarketCap: [ChatGPT’s top 5 crypto picks for the 2025 market surge](https://coinmarketcap.com/community/articles/677efe9ceb91cd54ab8b5ce7/) in dem IOTA dabei ist
+21. 
