@@ -21,3 +21,5 @@
 19. **Crypto Adoption**: Bitpanda Partnerschaft mit Paris St'Germain: [Tweet](https://x.com/Bitpanda_global/status/1877340236381839465)
 20. **IOTA Hype**: [Dom retweetet](https://x.com/DomSchiener/status/1877311761306521932) den Artikel von CoinMarketCap: [ChatGPT’s top 5 crypto picks for the 2025 market surge](https://coinmarketcap.com/community/articles/677efe9ceb91cd54ab8b5ce7/) in dem IOTA dabei ist
 21. **IOTA Hype**: Dom will wetten, dass IOTA $4 erreicht: [Tweet]8https://x.com/DomSchiener/status/1877350315634085945)
+22. **Crypto Adoption**: Bitcoin und Crypto im Roundtable mit Chr. Lindner: [Tweet](https://x.com/paddi_hansen/status/1877658740175831170)
+23. **Allg. News**: Alice Weidel hat mit Elon Musk auf X gesprochen: [Gespräche mit Video](https://x.com/Alice_Weidel/status/1877475125970211197)
