@@ -25,4 +25,6 @@
 23. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/1877968346253062553)
 24. **Crypto Adoption**: Microstrategie hat wieder $243M in Bitcoin gekauft: [Tweet](https://x.com/WatcherGuru/status/1878790594421801043)
 25. **Crypto Dump**: Am Montag fällt Bitcoin auf $91K und auch IOTA schmiert um 12% ab: [coinmarketcap.com](https://coinmarketcap.com/)
-26. **IOTA Governance**: [iota tweetet](https://x.com/iota/status/1878804201939079183) über [[IGP - 0007] - IOTA Growth Initiative [Phase 2 Poll]](https://govern.iota.org/t/igp-0007-iota-growth-initiative-phase-2-poll/1782)
+26. **IOTA Governance**: [iota tweetet](https://x.com/iota/status/1878804201939079183) über [[IGP - 0007] - IOTA Growth Initiative [Phase 2 Poll]](https://govern.iota.org/t/igp-0007-iota-growth-initiative-phase-2-poll/1782); Auch [Linus tweetet](https://x.com/LinusNaumann/status/1878811583918547015) darüber und die [Tangle Community Treasury retweetet](https://x.com/TangleTreasury/status/1878812652534948245) das
+27. **IOTA Drama**: ThomasQV ist scheinbar raus bei IOTA und hat alles seine Accounts gelöscht: [Tweet](https://x.com/texos70/status/1878021714711306728)
+28. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1878804201624776976) über "Dual Smart contracts"
