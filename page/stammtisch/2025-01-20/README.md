@@ -8,4 +8,7 @@
 6. **Crypto Drama**: JP Morgan spricht davon, dass Bitcoin kein intrinsic value hat und nur für illegale Sachen verwendet wird: [Tweet](https://x.com/disclosetv/status/1878818687337324920); Im Hintergrund kauft er wahrscheinlich wieder wie damals: [Tweet](https://x.com/RyanSAdams/status/1789024343038586956)
 7. **Crypto Adoption**: Italiens größte Bank hat erstmals Bitcoin (11 BTCs) gekauft: [Tweet](https://x.com/FurkanCCTV/status/1879092024592498778)
 8. **Crypto Adoption**: Am 17.1. wird es einen Side Event "Crypto Ball" geben (zu Ehren des 1. Crypto Präsidenten) bei der Amtseinführung von Trump: [Tweet](https://x.com/DocumentingBTC/status/1878935332940611732)
-9. 
+9. **Crypto Drama**: Das vielleicht letzte [Interview mit Gary Gensler](https://x.com/DocumentingBTC/status/1879182338275651625) auf CNBC. Er eiert weiter rum bezüglich Bitcoin und Altcoins ("highly speculative asset...")
+10. **Crypto Adoption**: Max Kaiser meint, dass El Salvador in jedem Haushalt einen Bitcoin Miner installieren will: [Tweet](https://x.com/BitcoinMagazine/status/1879117554767266055)
+11. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1879166716518830368) über IOTA Rebased und verlinkt nochmal den Blogpost: [IOTA Rebased: Technical View](https://blog.iota.org/iota-rebased-technical-view/)
+12. 
