@@ -13,4 +13,9 @@
 11. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1879166716518830368) über IOTA Rebased und verlinkt nochmal den Blogpost: [IOTA Rebased: Technical View](https://blog.iota.org/iota-rebased-technical-view/)
 12. **IOTA Pump**: IOTA steigt am Donnerstag um 15% und
 13. **IOTA Promote**: [Dom tweetet]([Dom tweetet](https://x.com/DomSchiener/status/1879437944299356236)) nochmal über IOTA Rebased und will allen nochmal klar machen was bald kommt: [IOTA Rebased: Fast Forward](https://blog.iota.org/iota-rebased-fast-forward/)
-14. 
+14. **Crypto Adoption**: Trump wiederholt seine Aussage, dass er Amerika zur Crypto Hauptstadt der Welt machen will: [Tweet](https://x.com/Cointelegraph/status/1879508101579329875)
+15. **Crypto Adoption**: Scheinbar hat Trump selbst eine ziemlich große Menge an Bitcoins: [Tweet](https://x.com/DocumentingBTC/status/1879230353682149392?t=2zkHHceT5fuuFm_nCFBdDA&s=19)
+16. **Crypto Adoption**: Der Prime Minister von Malaysia will nicht als letzter Bitcoin kaufen ("we have to move quickly.."): [Tweet](https://x.com/BTC_Archive/status/1879484045077385518)
+17. **Crypto Adoption**: Auch HongKong hat das jetzt offenbar vor: [Tweet](https://x.com/bitcoinlfgo/status/1879517112408141992)
+18. **IOTA Developer**: Die [IF tweetet](https://x.com/iota/status/1879528616381309045) überden Blogpost: [IOTA Rebased: Fast Forward](https://blog.iota.org/iota-rebased-fast-forward/); Auch [iotalabs tweetet](https://x.com/iotalabs_/status/1879530444091441617) darüber
+19. **IOTA Audio**: Am 24.1. kommt Phylo in den TangleTalk: [https://x.com/tangle_talk/status/1879531296738926907](https://x.com/tangle_talk/status/1879531296738926907)
