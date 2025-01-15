@@ -11,4 +11,6 @@
 9. **Crypto Drama**: Das vielleicht letzte [Interview mit Gary Gensler](https://x.com/DocumentingBTC/status/1879182338275651625) auf CNBC. Er eiert weiter rum bezüglich Bitcoin und Altcoins ("highly speculative asset...")
 10. **Crypto Adoption**: Max Kaiser meint, dass El Salvador in jedem Haushalt einen Bitcoin Miner installieren will: [Tweet](https://x.com/BitcoinMagazine/status/1879117554767266055)
 11. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1879166716518830368) über IOTA Rebased und verlinkt nochmal den Blogpost: [IOTA Rebased: Technical View](https://blog.iota.org/iota-rebased-technical-view/)
-12. 
+12. **IOTA Pump**: IOTA steigt am Donnerstag um 15% und
+13. **IOTA Promote**: [Dom tweetet]([Dom tweetet](https://x.com/DomSchiener/status/1879437944299356236)) nochmal über IOTA Rebased und will allen nochmal klar machen was bald kommt: [IOTA Rebased: Fast Forward](https://blog.iota.org/iota-rebased-fast-forward/)
+14. 
