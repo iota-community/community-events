@@ -19,3 +19,5 @@
 17. **Crypto Adoption**: Auch HongKong hat das jetzt offenbar vor: [Tweet](https://x.com/bitcoinlfgo/status/1879517112408141992)
 18. **IOTA Developer**: Die [IF tweetet](https://x.com/iota/status/1879528616381309045) überden Blogpost: [IOTA Rebased: Fast Forward](https://blog.iota.org/iota-rebased-fast-forward/); Auch [iotalabs tweetet](https://x.com/iotalabs_/status/1879530444091441617) darüber
 19. **IOTA Audio**: Am 24.1. kommt Phylo in den TangleTalk: [https://x.com/tangle_talk/status/1879531296738926907](https://x.com/tangle_talk/status/1879531296738926907)
+20. **Crypto Drama**: 120 000 BTC von einem Hack sollen zurück bezahlt werden: [Tweet](https://x.com/BitcoinMagazine/status/1879540465122566288)
+21. **IOTA DeFAI**: [Hey Anon tweetet](https://x.com/HeyAnonai/status/1879545527152640354) darüber, dass [HeyAnon AI Module Development Documentation](https://github.com/RealWagmi/anon-integration-guide) jetzt open source ist. Selbst die [IF tweetet](https://x.com/iota/status/1879551584444801184) darüber
