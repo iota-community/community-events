@@ -35,3 +35,6 @@
 33. **Crypto Adoption**: Trump will Amerika First Coins (Solana, USDC und Ripple) für die Bitcoin Reserve: [Tweet](https://x.com/MissCryptoGER/status/1879871285951672558)
 34. **IOTA Ökosystem**: [Realize tweetet](https://x.com/realizefinance/status/1879885458240581729) über ihren Blogpost: [Overcoming Regulatory Hurdles: Key Considerations for Tokenizing Assets](https://blog.realizeassets.com/overcoming-regulatory-hurdles-key-considerations-for-tokenizing-assets/)
 35. **Crypto Adoption**: Coinbase führt Bitcoin Kredite ein: [Tweet](https://x.com/BTC_Archive/status/1879892314631598274)
+36. **IOTA Progress**: Die [IF macht ein Thread](https://x.com/iota/status/1879891362943819854) über ihren [Q4 2024 Progress Report](https://blog.iota.org/q4-2024-progress-report/)
+37. **Ki News**: xAI baut gerade den größten Ki-Supercomputer für GROK; Hier ein [Video über die Anlage](https://x.com/MarioNawfal/status/1879807253072802018)
+38. **Allg News**: Blue Origin die Rakete von Jeff Bezos ist abgehoben: [Tweet](https://x.com/MarioNawfal/status/1879898031341879595)
