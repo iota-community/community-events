@@ -32,3 +32,5 @@
 30. **IOTA Promote**: IOTA ist auf Platz 1 beim Developer Activity Growth: [Tweet](https://x.com/chain_broker/status/1879559171172937926); Auch [Dom retweetet](https://x.com/DomSchiener/status/1879865526891184167) das
 31. **IOTA Promote**: Influenzers über IOTA: [AltCryptoGems (450K follower) tweetet](https://x.com/AltCryptoGems/status/1879827100401885364) bullish über IOTA; [Tweet von QuintenFrancois (200K Follower)](https://x.com/QuintenFrancois/status/1879598971611672778)
 32. **IOTA NFT Ökosystem**: Die Rusty Robots sind jetzt auf [figment.exchange](https://www.figment.exchange/): [Tweet](https://x.com/figment_nfts/status/1879849867864080589)
+33. **Crypto Adoption**: Trump will Amerika First Coins (Solana, USDC und Ripple) für die Bitcoin Reserve: [Tweet](https://x.com/MissCryptoGER/status/1879871285951672558)
+34. **IOTA Ökosystem**: [Realize tweetet](https://x.com/realizefinance/status/1879885458240581729) über ihren Blogpost: [Overcoming Regulatory Hurdles: Key Considerations for Tokenizing Assets](https://blog.realizeassets.com/overcoming-regulatory-hurdles-key-considerations-for-tokenizing-assets/)
