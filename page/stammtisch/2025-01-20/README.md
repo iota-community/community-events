@@ -34,3 +34,4 @@
 32. **IOTA NFT Ökosystem**: Die Rusty Robots sind jetzt auf [figment.exchange](https://www.figment.exchange/): [Tweet](https://x.com/figment_nfts/status/1879849867864080589)
 33. **Crypto Adoption**: Trump will Amerika First Coins (Solana, USDC und Ripple) für die Bitcoin Reserve: [Tweet](https://x.com/MissCryptoGER/status/1879871285951672558)
 34. **IOTA Ökosystem**: [Realize tweetet](https://x.com/realizefinance/status/1879885458240581729) über ihren Blogpost: [Overcoming Regulatory Hurdles: Key Considerations for Tokenizing Assets](https://blog.realizeassets.com/overcoming-regulatory-hurdles-key-considerations-for-tokenizing-assets/)
+35. **Crypto Adoption**: Coinbase führt Bitcoin Kredite ein: [Tweet](https://x.com/BTC_Archive/status/1879892314631598274)
