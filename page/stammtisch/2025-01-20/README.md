@@ -46,4 +46,4 @@
 44. **IOTA Ökosystem**: [TangleBeast tweetet](https://x.com/tanglebeasts/status/1880226548919472601) über ihre Plattform auf der man bald ganz einfach NFT Kollektionen erstellen kann
 45. **IOTA Promote**: [Dom retweetet](https://x.com/DomSchiener/status/1880244175662379413) einen Tweet über den Artikel: [10 Top Staking Networks Launching in 2025](https://www.stakingrewards.com/journal/research/10-top-staking-networks-launching-in-2025) mit den Worten "Let's make IOTA the biggest staking network launch of the year"
 46. **Crypto Adoption**: SUI ist Sponsor bei der Trump Inaugration: [Tweet](https://x.com/WinX_io/status/1880201354247041100)
-47. 
+47. **Crypto Adoption**: Auf dem Crypto Ball hat Trump (oder sein Sohn?!?) den [$TRUMP Meme Coin](https://www.coingecko.com/en/coins/official-trump) auf Solana gestartet ([Tweet von Trump](https://x.com/realDonaldTrump/status/1880446012168249386)), der in kürzester Zeit durch die Decke gegangen ist und sogar unter Platz 30 auf CMC kam; Selbst [Kraken tweetet](https://x.com/krakenfx/status/1880697715438338302) darüber, dass sie ihn gelistet haben
