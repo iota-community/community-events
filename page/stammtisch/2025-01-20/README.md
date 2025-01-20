@@ -51,3 +51,4 @@
 49. **Allg. News**: Am Sonntag ist der TikTok Ban in den USA gestartet: [Tweet](https://x.com/SawyerMerritt/status/1880830186754609205; [Trump tweetet](https://x.com/charliekirk11/status/1880998030364860455) aber er will den wieder aufheben, bzw. hat ihn Sonntag dann auch aufgehoben
 50. **Crypto Drama**: Am Sonntag Abend dumpt der Trump Coin, weil [Melania tweetet](https://x.com/MELANIATRUMP/status/1881094861279129643), dass sie einen eigenen Coin gelaunched hat: [https://melaniameme.com/](https://melaniameme.com/); Der Coin ird natürlic hauch gleich überall gelistet...
 51. **Bitcoin Pump**: Am Montag schafft Bitcoin ein neues ATH: [coinmarketcap.com/.../bitcoin/](https://coinmarketcap.com/currencies/bitcoin/)
+52. **IOTA Hype**: [iotalabs tweetet](https://x.com/iotalabs_/status/1881356039561322984) über "..a new adventure"
