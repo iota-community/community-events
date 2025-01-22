@@ -25,3 +25,7 @@
 23. **Crypto Adoption**: am 27.1. startet in El Salvador ein großes Crypto Event: [Tweet](https://x.com/bitcoinlfgo/status/1881716469559410833)
 24. **Crypto Adoption**: [Dom gratuliert](https://x.com/DomSchiener/status/1869049725997265285) Ripple zu ihrem Stablecoin (RLUSD) der jetzt handelbar ist
 25. **Crypto Adoption**: Beim WEF wurde auch über Bitcoin gesprochen: [Tweet mit Video zum Thema "Crypto at a Crossroads"](https://x.com/wef/status/1881672639842005307)
+26. **IOTA Ökosystem**: [AuditONe tweetet](https://x.com/AuditOne_DAO/status/1882080971367018679) über ihre Bridge zw. IOTA EVM und Base die sie für den Audit Token erstellt haben
+27. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1882080794459382113) einen mystischen Tweet über IOTA
+28. **Crypto Adoption**: Larry Fink von Blackrock shillt IOTA auf dem WEF: [Tweet](https://x.com/WatcherGuru/status/1882100507180953764)
+29. **IOTA Development**: IOTA ist schon wieder das "TOP PROJECTS BY DEVELOPMENT ACTIVITY GROWTH": [Tweet](https://x.com/chain_broker/status/1882100914535682391)
