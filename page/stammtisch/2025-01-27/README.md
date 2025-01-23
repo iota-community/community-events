@@ -31,3 +31,4 @@
 29. **IOTA Development**: IOTA ist schon wieder das "TOP PROJECTS BY DEVELOPMENT ACTIVITY GROWTH": [Tweet](https://x.com/chain_broker/status/1882100914535682391)
 30. **IOTA Rebased**: [Ankr tweetet](https://x.com/ankr/status/1882119936157655048) darüber, dass sie ein Validator Node bei IOTA Rebased stellen und verlinken ihren Blogpost: [Ankr Becomes IOTA Validator Node Operator](https://www.ankr.com/blog/ankr-becomes-iota-validator-node-operator/); Auch die [IF retweetet](https://x.com/iota/status/1882139410642174188) das
 31. **IOTA Rebased**: Dom bestätigt, dass Q1 immernoch das Ziel für IOTA Rebased ist: [Tweet](https://x.com/DomSchiener/status/1882092412828635602)
+32. **Crypto Adoption**: Larry Fink will dass die SEC sofort die Tokenisierung von Assets erlaubt, weil das enorm viele Vorteile hätte: [Tweet](https://x.com/BTC_Archive/status/1882427030060552650)
