@@ -29,5 +29,5 @@
 27. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1882080794459382113) einen mystischen Tweet über IOTA
 28. **Crypto Adoption**: Larry Fink von Blackrock shillt IOTA auf dem WEF: [Tweet](https://x.com/WatcherGuru/status/1882100507180953764); Und 2 Tage später komm traus sie haben $600Mio BTC gekauft: [Tweet](https://x.com/Ashcryptoreal/status/1882129529638117511)
 29. **IOTA Development**: IOTA ist schon wieder das "TOP PROJECTS BY DEVELOPMENT ACTIVITY GROWTH": [Tweet](https://x.com/chain_broker/status/1882100914535682391)
-30. **IOTA Rebased**: [Ankr tweetet](https://x.com/ankr/status/1882119936157655048) darüber, dass sie ein Validator Node bei IOTA Rebased stellen und verlinken ihren Blogpost: [Ankr Becomes IOTA Validator Node Operator](https://www.ankr.com/blog/ankr-becomes-iota-validator-node-operator/)
+30. **IOTA Rebased**: [Ankr tweetet](https://x.com/ankr/status/1882119936157655048) darüber, dass sie ein Validator Node bei IOTA Rebased stellen und verlinken ihren Blogpost: [Ankr Becomes IOTA Validator Node Operator](https://www.ankr.com/blog/ankr-becomes-iota-validator-node-operator/); Auch die [IF retweetet](https://x.com/iota/status/1882139410642174188) das
 31. **IOTA Rebased**: Dom bestätigt, dass Q1 immernoch das Ziel für IOTA Rebased ist: [Tweet](https://x.com/DomSchiener/status/1882092412828635602)
