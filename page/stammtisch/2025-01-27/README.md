@@ -18,7 +18,7 @@
 16. **Crypto Adoption**: Die SEC erstellt eine Crypto Taskforce mit einigen bekannten Pro-Bitcoinern: [Tweet](https://x.com/FurkanCCTV/status/1881761678880338300)
 17. **Ki News**: Die USA wollen $500 Milliarden in die entwicklung von AGI stekcen: [Tweet](https://x.com/ai_for_success/status/1881887921156005947)
 18. **Crypto Adoption**: Bitcoin ist jetzt auch Halal: [Tweet](https://x.com/IvanOnTech/status/1882063745796780471)
-19. **Crypto Drama**: Ross Ulbricht wurde frei gelassen: [Tweet](https://x.com/BitcoinMagazine/status/1881925811617546586); Allerdings klingt das bei Trump ziemlich nach Mafia ("hilf du mir, dann helf ich dir.."): [Tweet](https://x.com/TrumpDailyPosts/status/1881856567684817230)
+19. **Crypto Drama**: Ross Ulbricht wurde frei gelassen: [Tweet](https://x.com/BitcoinMagazine/status/1881925811617546586); Allerdings klingt das bei Trump ziemlich nach Mafia ("hilf du mir, dann helf ich dir.."): [Tweet](https://x.com/TrumpDailyPosts/status/1881856567684817230); Hier die ersten Worte von Ross Ulbricht: [Tweet](https://x.com/BitcoinMagazine/status/1882613961448997085)
 20. **Crypto Drama**: Trump äußert sich das erste mal zu seinem $Trump Coin: [Tweet](https://x.com/AltcoinDailyio/status/1881843981417595040)
 21. **Crypto Drama**: Die Anklage gegen Tornado Cash wird aufgehoben: [Tweet](https://x.com/Ashcryptoreal/status/1882008446285103482)
 22. **Crypto Adoption**: US Firma (Critical Metals Corp) kauft Bitcoin im Wert von $500Mio: [Tweet](https://x.com/Saylorsatsire/status/1881790844271026418)
@@ -32,3 +32,7 @@
 30. **IOTA Rebased**: [Ankr tweetet](https://x.com/ankr/status/1882119936157655048) darüber, dass sie ein Validator Node bei IOTA Rebased stellen und verlinken ihren Blogpost: [Ankr Becomes IOTA Validator Node Operator](https://www.ankr.com/blog/ankr-becomes-iota-validator-node-operator/); Auch die [IF retweetet](https://x.com/iota/status/1882139410642174188) das
 31. **IOTA Rebased**: Dom bestätigt, dass Q1 immernoch das Ziel für IOTA Rebased ist: [Tweet](https://x.com/DomSchiener/status/1882092412828635602)
 32. **Crypto Adoption**: Larry Fink will dass die SEC sofort die Tokenisierung von Assets erlaubt, weil das enorm viele Vorteile hätte: [Tweet](https://x.com/BTC_Archive/status/1882427030060552650)
+33. **Crypto Drama**: Was ist da los bei Thorchain? Sind die Insolvent und haben ihre Chain gestoppt? [Tweet](https://x.com/hosseeb/status/1882628227920965748)
+34. **Crypto Adoption**: Trump hat eine Crypto Executive Order ([STRENGTHENING AMERICAN LEADERSHIP IN DIGITAL FINANCIAL TECHNOLOGY](https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/)) unterschrieben; Hier ein [Tweet mit Video](https://x.com/MMCrypto/status/1882539376137404493?t=LKKAXO3ug7owLhchpBb3MQ&s=19) in dem er das unterschreibt
+35. **Crypto Adoption**: SAP 121 wurde aufgehoben. Demnach können US Banken jetzt Bitcoin verwahren: [Tweet](https://x.com/saylor/status/1882565582870270241)
+36. **Crypto Adoption**: Trump hat in seiner Rede in Davos auch von Crypto gesprochen. Hier die ganze Rede in [diesem Tweet](https://x.com/BGatesIsaPyscho/status/1882504368097988706)
