@@ -38,3 +38,4 @@
 36. **Crypto Adoption**: SAP 121 wurde aufgehoben. Demnach können US Banken jetzt Bitcoin verwahren: [Tweet](https://x.com/saylor/status/1882565582870270241)
 37. **Crypto Adoption**: Trump hat in seiner Rede in Davos auch von Crypto gesprochen. Hier die ganze Rede in [diesem Tweet](https://x.com/BGatesIsaPyscho/status/1882504368097988706)
 38. **IOTA Rebased Promote**: [Dom retweetet](https://x.com/DomSchiener/status/1882798167479218328) den [Tweet von iota](https://x.com/iota/status/1882790465705046384)
+39. **IOTA Ökosystem**: Noch ein [Soon-Tweet von Realize](https://x.com/realizefinance/status/1882732056318472325)
