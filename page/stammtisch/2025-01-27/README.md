@@ -23,16 +23,18 @@
 21. **Crypto Drama**: Die Anklage gegen Tornado Cash wird aufgehoben: [Tweet](https://x.com/Ashcryptoreal/status/1882008446285103482)
 22. **Crypto Adoption**: US Firma (Critical Metals Corp) kauft Bitcoin im Wert von $500Mio: [Tweet](https://x.com/Saylorsatsire/status/1881790844271026418)
 23. **Crypto Adoption**: am 27.1. startet in El Salvador ein großes Crypto Event: [Tweet](https://x.com/bitcoinlfgo/status/1881716469559410833)
-24. **Crypto Adoption**: [Dom gratuliert](https://x.com/DomSchiener/status/1869049725997265285) Ripple zu ihrem Stablecoin (RLUSD) der jetzt handelbar ist
-25. **Crypto Adoption**: Beim WEF wurde auch über Bitcoin gesprochen: [Tweet mit Video zum Thema "Crypto at a Crossroads"](https://x.com/wef/status/1881672639842005307)
-26. **IOTA Ökosystem**: [AuditONe tweetet](https://x.com/AuditOne_DAO/status/1882080971367018679) über ihre Bridge zw. IOTA EVM und Base die sie für den Audit Token erstellt haben
-27. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1882080794459382113) einen mystischen Tweet über IOTA
-28. **Crypto Adoption**: Larry Fink von Blackrock shillt IOTA auf dem WEF: [Tweet](https://x.com/WatcherGuru/status/1882100507180953764); Und 2 Tage später komm traus sie haben $600Mio BTC gekauft: [Tweet](https://x.com/Ashcryptoreal/status/1882129529638117511)
-29. **IOTA Development**: IOTA ist schon wieder das "TOP PROJECTS BY DEVELOPMENT ACTIVITY GROWTH": [Tweet](https://x.com/chain_broker/status/1882100914535682391)
-30. **IOTA Rebased**: [Ankr tweetet](https://x.com/ankr/status/1882119936157655048) darüber, dass sie ein Validator Node bei IOTA Rebased stellen und verlinken ihren Blogpost: [Ankr Becomes IOTA Validator Node Operator](https://www.ankr.com/blog/ankr-becomes-iota-validator-node-operator/); Auch die [IF retweetet](https://x.com/iota/status/1882139410642174188) das
-31. **IOTA Rebased**: Dom bestätigt, dass Q1 immernoch das Ziel für IOTA Rebased ist: [Tweet](https://x.com/DomSchiener/status/1882092412828635602)
-32. **Crypto Adoption**: Larry Fink will dass die SEC sofort die Tokenisierung von Assets erlaubt, weil das enorm viele Vorteile hätte: [Tweet](https://x.com/BTC_Archive/status/1882427030060552650)
-33. **Crypto Drama**: Was ist da los bei Thorchain? Sind die Insolvent und haben ihre Chain gestoppt? [Tweet](https://x.com/hosseeb/status/1882628227920965748); Hier ein [Thread](https://x.com/1984_is_today/status/1882616341926162653) zu dem Thema
-34. **Crypto Adoption**: Trump hat eine Crypto Executive Order ([STRENGTHENING AMERICAN LEADERSHIP IN DIGITAL FINANCIAL TECHNOLOGY](https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/)) unterschrieben; Hier ein [Tweet mit Video](https://x.com/MMCrypto/status/1882539376137404493?t=LKKAXO3ug7owLhchpBb3MQ&s=19) in dem er das unterschreibt
-35. **Crypto Adoption**: SAP 121 wurde aufgehoben. Demnach können US Banken jetzt Bitcoin verwahren: [Tweet](https://x.com/saylor/status/1882565582870270241)
-36. **Crypto Adoption**: Trump hat in seiner Rede in Davos auch von Crypto gesprochen. Hier die ganze Rede in [diesem Tweet](https://x.com/BGatesIsaPyscho/status/1882504368097988706)
+24. **Crypto Drama**: Der Ledger Co-Founder wurde gekidnapt: [Tweet](https://x.com/0xLouisT/status/1882711063306666287)
+25. **Crypto Adoption**: [Dom gratuliert](https://x.com/DomSchiener/status/1869049725997265285) Ripple zu ihrem Stablecoin (RLUSD) der jetzt handelbar ist
+26. **Crypto Adoption**: Beim WEF wurde auch über Bitcoin gesprochen: [Tweet mit Video zum Thema "Crypto at a Crossroads"](https://x.com/wef/status/1881672639842005307)
+27. **IOTA Ökosystem**: [AuditONe tweetet](https://x.com/AuditOne_DAO/status/1882080971367018679) über ihre Bridge zw. IOTA EVM und Base die sie für den Audit Token erstellt haben
+28. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1882080794459382113) einen mystischen Tweet über IOTA
+29. **Crypto Adoption**: Larry Fink von Blackrock shillt IOTA auf dem WEF: [Tweet](https://x.com/WatcherGuru/status/1882100507180953764); Und 2 Tage später komm traus sie haben $600Mio BTC gekauft: [Tweet](https://x.com/Ashcryptoreal/status/1882129529638117511)
+30. **IOTA Development**: IOTA ist schon wieder das "TOP PROJECTS BY DEVELOPMENT ACTIVITY GROWTH": [Tweet](https://x.com/chain_broker/status/1882100914535682391)
+31. **IOTA Rebased**: [Ankr tweetet](https://x.com/ankr/status/1882119936157655048) darüber, dass sie ein Validator Node bei IOTA Rebased stellen und verlinken ihren Blogpost: [Ankr Becomes IOTA Validator Node Operator](https://www.ankr.com/blog/ankr-becomes-iota-validator-node-operator/); Auch die [IF retweetet](https://x.com/iota/status/1882139410642174188) das
+32. **IOTA Rebased**: Dom bestätigt, dass Q1 immernoch das Ziel für IOTA Rebased ist: [Tweet](https://x.com/DomSchiener/status/1882092412828635602)
+33. **Crypto Adoption**: Larry Fink will dass die SEC sofort die Tokenisierung von Assets erlaubt, weil das enorm viele Vorteile hätte: [Tweet](https://x.com/BTC_Archive/status/1882427030060552650)
+34. **Crypto Drama**: Was ist da los bei Thorchain? Sind die Insolvent und haben ihre Chain gestoppt? [Tweet](https://x.com/hosseeb/status/1882628227920965748); Hier ein [Thread](https://x.com/1984_is_today/status/1882616341926162653) zu dem Thema
+35. **Crypto Adoption**: Trump hat eine Crypto Executive Order ([STRENGTHENING AMERICAN LEADERSHIP IN DIGITAL FINANCIAL TECHNOLOGY](https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/)) unterschrieben; Hier ein [Tweet mit Video](https://x.com/MMCrypto/status/1882539376137404493?t=LKKAXO3ug7owLhchpBb3MQ&s=19) in dem er das unterschreibt
+36. **Crypto Adoption**: SAP 121 wurde aufgehoben. Demnach können US Banken jetzt Bitcoin verwahren: [Tweet](https://x.com/saylor/status/1882565582870270241)
+37. **Crypto Adoption**: Trump hat in seiner Rede in Davos auch von Crypto gesprochen. Hier die ganze Rede in [diesem Tweet](https://x.com/BGatesIsaPyscho/status/1882504368097988706)
+38. **IOTA Rebased Promote**: [Dom retweetet](https://x.com/DomSchiener/status/1882798167479218328) den [Tweet von iota](https://x.com/iota/status/1882790465705046384)
