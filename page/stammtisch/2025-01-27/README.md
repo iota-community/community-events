@@ -47,4 +47,4 @@
 45. **Crypto Adoption**: Microstrategy hat weitere 10K BTC gekauft: [Tweet](https://x.com/saylor/status/1883848242376650840)
 46. **Crypto Adoption**: [Bitpanda tweetet](https://x.com/Bitpanda/status/1883820575178539127) über ihren Blogpost: [Bitpanda sichert sich MiCAR-Lizenz](https://blog.bitpanda.com/de/bitpanda-sichert-sich-micar-lizenz)
 47. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1883823442023092352) über das "TradeTech Forum 2025" an dem sie am 8.04. dran teilnehmen. "...Wir freuen uns, einem Anwendungsfall mit Schwerpunkt auf KYC und digitaler Identität für Trade Finance vorzustellen"
-48. **IOTA Hype**: [iotalabs tweetet](https://x.com/iotalabs_/status/1883892756919046597) weiter mythtisch über "... Tomorrow, the journey begins."
+48. **IOTA Hype**: [iotalabs tweetet](https://x.com/iotalabs_/status/1883892756919046597) weiter mysthtisch über "... Tomorrow, the journey begins."
