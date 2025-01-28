@@ -5,3 +5,4 @@
 3. **IOTA Promote**: Influenzer: [Tweet von Kong Trading (130K follower)](https://x.com/KongBTC/status/1883847674501406970)
 4. **Tangle Ökosystem**: [Tan tweetet](https://x.com/tan_technology/status/1883812748234285517) über ihr [Whitepaper: TANGLE - Application Network - A Community Driven Feeless Network for the M2M Economy](https://t.co/k3i3l2CJ7Q)
 5. **IOTA Ökosystem**: [zokyo tweetet](https://x.com/zokyo_io/status/1884168720567713920), dass sie die smart contracts von [Realize Finance](https://x.com/realizefinance) geauditet haben; Hier der [Thread von Realize](https://x.com/realizefinance/status/1884170788787626349) dazu mit dem Blogpost: [Realize Earns Perfect Score in Smart Contract Audit](https://blog.realizeassets.com/realize-earns-perfect-score-in-smart-contract-audit/)
+6. **Crypto Adoption**: Bitcoin wird in einer Rede im EU-Parlament erwähnt: [Tweet](https://x.com/BTC_Archive/status/1883926000347800043)
