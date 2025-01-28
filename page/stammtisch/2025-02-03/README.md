@@ -8,3 +8,7 @@
 6. **Crypto Adoption**: Bitcoin wird in einer Rede im EU-Parlament erwähnt: [Tweet](https://x.com/BTC_Archive/status/1883926000347800043)
 7. **IOTA Rebased**: [Dom tweetet](https://x.com/DomSchiener/status/1884195233556259327) über liquid Staking und sucht nach einem Namen für die dApp
 8. **IOTA Ökosystem**: [coda tweetet](https://x.com/coda_digital/status/1883943979479359825) über ihren Blogpost: [The Music Industry's Digital Revolution: How IP Tokenization is Changing the Game](https://www.coda.to/blog/the-music-industrys-digital-revolution-how-ip-tokenization-is-changing-the-game)
+9. **IOTA NFT Ökosystem**: Die Iotapunks sind jetzt auf figment: [Tweet](https://x.com/figment_nfts/status/1884259076877738195)
+10. **IOTA Ökosystem**: [swarmlogistics tweetet](https://x.com/SwarmLogistics/status/1884234602807758850) über ein Fieldtest mit IOTA inside
+11. **IOTA Ökosystem**: [Tanglebeast tweetet](https://x.com/tanglebeasts/status/1884244725643071605) über ihre NFT Plattform
+12. 
