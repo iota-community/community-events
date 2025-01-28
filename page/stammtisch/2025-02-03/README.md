@@ -1,3 +1,7 @@
 ## IOTA Stammtischthemen für Montag, den 3.2.2024
 
 1. **IOTA Ökosystem**: [DLT.Green tweetet](https://x.com/dlt_green/status/1883915666652340239) über ihre [neu gegründete Firma](https://dlt.green/en/ogs/information), die erste tokenisierte Firma aus Österreich. Die Token wurden an die IOTA OGs (die Leute die jahrelang Nodes gestellt hatten), prozentual zur Verfügbarkeit ihrer Nodes verkauft, wodurch sie jetzt Anteile an der GmbH besitzen und dementsprechend [stimmberechtigt](https://dlt.green/en/ogs/stimmverteilung) sind.
+2. **Crypto Adoption**: Arizona wird der erste US-Staat der über eine strategische Bitcoin Reserve abstimmt: [Tweet](https://x.com/pete_rizzo_/status/1884014716890276258)
+3. **IOTA Promote**: Influenzer: [Tweet von Kong Trading (130K follower)](https://x.com/KongBTC/status/1883847674501406970)
+4. **Tangle Ökosystem**: [Tan tweetet](https://x.com/tan_technology/status/1883812748234285517) über ihr [Whitepaper: TANGLE - Application Network - A Community Driven Feeless Network for the M2M Economy](https://t.co/k3i3l2CJ7Q)
+5. **IOTA Ökosystem**: [zokyo tweetet](https://x.com/zokyo_io/status/1884168720567713920), dass sie die smart contracts von [Realize Finance](https://x.com/realizefinance) geauditet haben; Hier der [Thread von Realize](https://x.com/realizefinance/status/1884170788787626349) dazu mit dem Blogpost: [Realize Earns Perfect Score in Smart Contract Audit](https://blog.realizeassets.com/realize-earns-perfect-score-in-smart-contract-audit/)
