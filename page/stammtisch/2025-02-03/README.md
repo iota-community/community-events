@@ -15,4 +15,6 @@
 13. **Fiat Adoption**: X-Payments Partnerschaft mit Visa: [Tweet](https://x.com/Cointelegraph/status/1884280631225385317)
 14. **Crypto Adoption**: Lummis macht Werbung für eine Bitcoin Reserve: [Tweet](https://x.com/Cointelegraph/status/1884300583357628598)
 15. **IOTA Tutorial**: [Jonathan tweetet](https://x.com/3clipsep/status/1884525159324742062) ein Video Tutorial wie man den "Portal Key" claimen kann für die Campagne von Punkt. 12
-16. 
+16. **Crypto Adoption**: Die Chechische Nationalbank wird darüber abstimmen, ob sie Bitcoin kaufen sollen: [Tweet](https://x.com/blocktrainer/status/1884530305182093336)
+17. **IOTA Adopion**: [Jonathan tweetet](https://x.com/3clipsep/status/1884557095950794917) über den [Tweet von DeFa](https://x.com/defaprimitive/status/1884485861259034670). Ihr Testnetzt auch IOTA EVM ist live und man kann Belohnungen verdienen
+18. **Ki News**: Alibaba schlägt Deepseak: [Tweet](https://x.com/E_Boeminghaus/status/1884352905374818433)
