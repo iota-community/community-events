@@ -18,3 +18,4 @@
 16. **Crypto Adoption**: Die Chechische Nationalbank wird darüber abstimmen, ob sie Bitcoin kaufen sollen: [Tweet](https://x.com/blocktrainer/status/1884530305182093336)
 17. **IOTA Adopion**: [Jonathan tweetet](https://x.com/3clipsep/status/1884557095950794917) über den [Tweet von DeFa](https://x.com/defaprimitive/status/1884485861259034670). Ihr Testnetzt auch IOTA EVM ist live und man kann Belohnungen verdienen
 18. **Ki News**: Alibaba schlägt Deepseak: [Tweet](https://x.com/E_Boeminghaus/status/1884352905374818433)
+19. **IOTA Adoption**: Neuer [Tweet von TLIP](https://x.com/TLIP_io/status/1884612750053417455)
