@@ -11,4 +11,8 @@
 9. **IOTA NFT Ökosystem**: Die Iotapunks sind jetzt auf figment: [Tweet](https://x.com/figment_nfts/status/1884259076877738195)
 10. **IOTA Ökosystem**: [swarmlogistics tweetet](https://x.com/SwarmLogistics/status/1884234602807758850) über ein Fieldtest mit IOTA inside
 11. **IOTA Ökosystem**: [Tanglebeast tweetet](https://x.com/tanglebeasts/status/1884244725643071605) über ihre NFT Plattform
-12. 
+12. **IOTA Promote**: Es gibt eine neue EVM Campagne bei der 3M IOTA Token verteilt werden: Die [IF retweetet](https://x.com/iota/status/1884340248320123135) den [Tweet von iotalabs](https://x.com/iotalabs_/status/1884293673988333583) über die [The return of IOTA Campagne](https://guild.xyz/iota/the-return-of-iota); [Dom tweeetet](https://x.com/DomSchiener/status/1884304874059489563) aber auch, dass das nur der Start für eine größere Campagne ist, die später für Move L1 startet
+13. **Fiat Adoption**: X-Payments Partnerschaft mit Visa: [Tweet](https://x.com/Cointelegraph/status/1884280631225385317)
+14. **Crypto Adoption**: Lummis macht Werbung für eine Bitcoin Reserve: [Tweet](https://x.com/Cointelegraph/status/1884300583357628598)
+15. **IOTA Tutorial**: [Jonathan tweetet](https://x.com/3clipsep/status/1884525159324742062) ein Video Tutorial wie man den "Portal Key" claimen kann für die Campagne von Punkt. 12
+16. 
