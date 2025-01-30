@@ -19,3 +19,6 @@
 17. **IOTA Adopion**: [Jonathan tweetet](https://x.com/3clipsep/status/1884557095950794917) über den [Tweet von DeFa](https://x.com/defaprimitive/status/1884485861259034670). Ihr Testnetzt auch IOTA EVM ist live und man kann Belohnungen verdienen
 18. **Ki News**: Alibaba schlägt Deepseak: [Tweet](https://x.com/E_Boeminghaus/status/1884352905374818433)
 19. **IOTA Adoption**: Neuer [Tweet von TLIP](https://x.com/TLIP_io/status/1884612750053417455)
+20. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1884979942842130652) über die first quest von [The return of IOTA](https://guild.xyz/iota/the-return-of-iota)
+21. **Crypto Adoption**: Bitcoin soll laut Lagarde keine europäische Reservewährung werden: [Tweet](https://x.com/BitcoinNewsCom/status/1884986684590490063); Sie reagiert damit auf das hier: [Tweet](https://x.com/BitcoinMagazine/status/1884991862651437510)
+22. 
