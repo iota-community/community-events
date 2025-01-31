@@ -2,7 +2,7 @@
 
 1. **IOTA Ökosystem**: [DLT.Green tweetet](https://x.com/dlt_green/status/1883915666652340239) über ihre [neu gegründete Firma](https://dlt.green/en/ogs/information), die erste tokenisierte Firma aus Österreich. Die Token wurden an die IOTA OGs (die Leute die jahrelang Nodes gestellt hatten), prozentual zur Verfügbarkeit ihrer Nodes verkauft, wodurch sie jetzt Anteile an der GmbH besitzen und dementsprechend [stimmberechtigt](https://dlt.green/en/ogs/stimmverteilung) sind.
 2. **Crypto Adoption**: Arizona wird der erste US-Staat der über eine strategische Bitcoin Reserve abstimmt: [Tweet](https://x.com/pete_rizzo_/status/1884014716890276258)
-3. **IOTA Promote**: Influenzer: [Tweet von Kong Trading (130K follower)](https://x.com/KongBTC/status/1883847674501406970)
+3. **IOTA Promote**: Influenzer: [Tweet von Kong Trading (130K follower)](https://x.com/KongBTC/status/1883847674501406970); [Tweet von AltCryptoGems (480K follower)](https://x.com/AltCryptoGems/status/1885070484280152382)
 4. **Tangle Ökosystem**: [Tan tweetet](https://x.com/tan_technology/status/1883812748234285517) über ihr [Whitepaper: TANGLE - Application Network - A Community Driven Feeless Network for the M2M Economy](https://t.co/k3i3l2CJ7Q)
 5. **IOTA Ökosystem**: [zokyo tweetet](https://x.com/zokyo_io/status/1884168720567713920), dass sie die smart contracts von [Realize Finance](https://x.com/realizefinance) geauditet haben; Hier der [Thread von Realize](https://x.com/realizefinance/status/1884170788787626349) dazu mit dem Blogpost: [Realize Earns Perfect Score in Smart Contract Audit](https://blog.realizeassets.com/realize-earns-perfect-score-in-smart-contract-audit/)
 6. **Crypto Adoption**: Bitcoin wird in einer Rede im EU-Parlament erwähnt: [Tweet](https://x.com/BTC_Archive/status/1883926000347800043)
@@ -21,4 +21,4 @@
 19. **IOTA Adoption**: Neuer [Tweet von TLIP](https://x.com/TLIP_io/status/1884612750053417455)
 20. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1884979942842130652) über die first quest von [The return of IOTA](https://guild.xyz/iota/the-return-of-iota)
 21. **Crypto Adoption**: Bitcoin soll laut Lagarde keine europäische Reservewährung werden: [Tweet](https://x.com/BitcoinNewsCom/status/1884986684590490063); Sie reagiert damit auf das hier: [Tweet](https://x.com/BitcoinMagazine/status/1884991862651437510)
-22. 
+22. **Allg. News**: [Mat Yager tweetet](https://x.com/Mat_Yarger/status/1885029436690436147) über seinen Podcast über "The Future of Trust Podcast" der bald startet: [Tweet](https://x.com/_Demia/status/1884859368216162530)
