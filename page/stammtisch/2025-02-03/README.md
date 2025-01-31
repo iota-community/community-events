@@ -24,3 +24,4 @@
 22. **Allg. News**: [Mat Yager tweetet](https://x.com/Mat_Yarger/status/1885029436690436147) über seinen Podcast über "The Future of Trust Podcast" der bald startet: [Tweet](https://x.com/_Demia/status/1884859368216162530)
 23. **Crypto Drama**: Bitcoin ist nicht mehr gesetzliches Zahlungsmittel in El Salvador: [Tweet](https://x.com/blocktrainer/status/1884935435689836572)
 24. **IOTA Rebased**: Neuer Release: [[DevNet] v0.9.2-beta](https://github.com/iotaledger/iota/releases/tag/v0.9.2-beta)
+25. **IOTA Event**: [SUPRA tweetet](https://x.com/SUPRA_Labs/status/1885352212454342739) darüber dass der Head of Engineering von iota auf ihrem Side Event von ETH Denver 2025 sprechen wird
