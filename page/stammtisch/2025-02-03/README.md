@@ -22,3 +22,5 @@
 20. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1884979942842130652) über die first quest von [The return of IOTA](https://guild.xyz/iota/the-return-of-iota)
 21. **Crypto Adoption**: Bitcoin soll laut Lagarde keine europäische Reservewährung werden: [Tweet](https://x.com/BitcoinNewsCom/status/1884986684590490063); Sie reagiert damit auf das hier: [Tweet](https://x.com/BitcoinMagazine/status/1884991862651437510)
 22. **Allg. News**: [Mat Yager tweetet](https://x.com/Mat_Yarger/status/1885029436690436147) über seinen Podcast über "The Future of Trust Podcast" der bald startet: [Tweet](https://x.com/_Demia/status/1884859368216162530)
+23. **Crypto Drama**: Bitcoin ist nicht mehr gesetzliches Zahlungsmittel in El Salvador: [Tweet](https://x.com/blocktrainer/status/1884935435689836572)
+24. **IOTA Rebased**: Neuer Release: [[DevNet] v0.9.2-beta](https://github.com/iotaledger/iota/releases/tag/v0.9.2-beta)
