@@ -2,7 +2,7 @@
 
 1. **IOTA Ökosystem**: [DLT.Green tweetet](https://x.com/dlt_green/status/1883915666652340239) über ihre [neu gegründete Firma](https://dlt.green/en/ogs/information), die erste tokenisierte Firma aus Österreich. Die Token wurden an die IOTA OGs (die Leute die jahrelang Nodes gestellt hatten), prozentual zur Verfügbarkeit ihrer Nodes verkauft, wodurch sie jetzt Anteile an der GmbH besitzen und dementsprechend [stimmberechtigt](https://dlt.green/en/ogs/stimmverteilung) sind.
 2. **Crypto Adoption**: Arizona wird der erste US-Staat der über eine strategische Bitcoin Reserve abstimmt: [Tweet](https://x.com/pete_rizzo_/status/1884014716890276258)
-3. **IOTA Promote**: Influenzer: [Tweet von Kong Trading (130K follower)](https://x.com/KongBTC/status/1883847674501406970); [Tweet von AltCryptoGems (480K follower)](https://x.com/AltCryptoGems/status/1885070484280152382)
+3. **IOTA Promote**: Influenzer: [Tweet von Kong Trading (130K follower)](https://x.com/KongBTC/status/1883847674501406970); [Tweet von AltCryptoGems (480K follower)](https://x.com/AltCryptoGems/status/1885070484280152382); [ZetachChain (1mio follower)](https://x.com/zetablockchain/status/1885364957685911815)
 4. **Tangle Ökosystem**: [Tan tweetet](https://x.com/tan_technology/status/1883812748234285517) über ihr [Whitepaper: TANGLE - Application Network - A Community Driven Feeless Network for the M2M Economy](https://t.co/k3i3l2CJ7Q)
 5. **IOTA Ökosystem**: [zokyo tweetet](https://x.com/zokyo_io/status/1884168720567713920), dass sie die smart contracts von [Realize Finance](https://x.com/realizefinance) geauditet haben; Hier der [Thread von Realize](https://x.com/realizefinance/status/1884170788787626349) dazu mit dem Blogpost: [Realize Earns Perfect Score in Smart Contract Audit](https://blog.realizeassets.com/realize-earns-perfect-score-in-smart-contract-audit/)
 6. **Crypto Adoption**: Bitcoin wird in einer Rede im EU-Parlament erwähnt: [Tweet](https://x.com/BTC_Archive/status/1883926000347800043)
@@ -20,8 +20,17 @@
 18. **Ki News**: Alibaba schlägt Deepseak: [Tweet](https://x.com/E_Boeminghaus/status/1884352905374818433)
 19. **IOTA Adoption**: Neuer [Tweet von TLIP](https://x.com/TLIP_io/status/1884612750053417455)
 20. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1884979942842130652) über die first quest von [The return of IOTA](https://guild.xyz/iota/the-return-of-iota)
-21. **Crypto Adoption**: Bitcoin soll laut Lagarde keine europäische Reservewährung werden: [Tweet](https://x.com/BitcoinNewsCom/status/1884986684590490063); Sie reagiert damit auf das hier: [Tweet](https://x.com/BitcoinMagazine/status/1884991862651437510)
-22. **Allg. News**: [Mat Yager tweetet](https://x.com/Mat_Yarger/status/1885029436690436147) über seinen Podcast über "The Future of Trust Podcast" der bald startet: [Tweet](https://x.com/_Demia/status/1884859368216162530)
-23. **Crypto Drama**: Bitcoin ist nicht mehr gesetzliches Zahlungsmittel in El Salvador: [Tweet](https://x.com/blocktrainer/status/1884935435689836572)
-24. **IOTA Rebased**: Neuer Release: [[DevNet] v0.9.2-beta](https://github.com/iotaledger/iota/releases/tag/v0.9.2-beta)
-25. **IOTA Event**: [SUPRA tweetet](https://x.com/SUPRA_Labs/status/1885352212454342739) darüber dass der Head of Engineering von iota auf ihrem Side Event von ETH Denver 2025 sprechen wird
+21. **Crypto Adoption**: MicroStrategie verkauft neue Aktien um noch mehr Bitcoin zu kaufen: [Tweet](https://x.com/BTC_Archive/status/1885291246723256643)
+22. **Crypto Adoption**: Bitcoin soll laut Lagarde keine europäische Reservewährung werden: [Tweet](https://x.com/BitcoinNewsCom/status/1884986684590490063); Sie reagiert damit auf das hier: [Tweet](https://x.com/BitcoinMagazine/status/1884991862651437510)
+23. **Allg. News**: [Mat Yager tweetet](https://x.com/Mat_Yarger/status/1885029436690436147) über seinen Podcast über "The Future of Trust Podcast" der bald startet: [Tweet](https://x.com/_Demia/status/1884859368216162530)
+24. **IOTA Audio**: Charley Varley war in einem X-Space: [Tweet](https://x.com/bloomwalletio/status/1885009711482749131)
+25. **Crypto Drama**: Bitcoin ist nicht mehr gesetzliches Zahlungsmittel in El Salvador: [Tweet](https://x.com/blocktrainer/status/1884935435689836572)
+26. **IOTA Rebased**: Neuer Release: [[DevNet] v0.9.2-beta](https://github.com/iotaledger/iota/releases/tag/v0.9.2-beta)
+27. **IOTA Event**: [SUPRA tweetet](https://x.com/SUPRA_Labs/status/1885352212454342739) darüber dass der Head of Engineering von iota auf ihrem Side Event von ETH Denver 2025 sprechen wird
+28. **Crypto Adoption**: Trumps neuer FBI Chef hält $115K in Bitcoin ETFs: [Tweet](https://x.com/BTC_Archive/status/1885636728033083569); Und RFK der neue Gesundheitsminister srpicht über Bitcoin: [Tweet](https://x.com/BoldBitcoin/status/1883349257383547385)
+29. **IOTA Ökosystem**: Es gab am Wochenende ein Event vom Shi Universe: [Tweet](https://x.com/Shiuniverse/status/1885605736291459223)
+30. **Crypto Adoption**: Tesla hat ihre Bitcoins gehalten und kann sie erstmals fair bewerten in ihrer Bilanz (Gewinn von fast 600 Mio. $): [Tweet](https://x.com/blocktrainer/status/1884900039484461256)
+31. **Crypto Adoption**: Charles Hoskinson spricht von einem "crazy Monat Februar" der uns bevorsteht. Er darf aber nicht sagen warum: [Tweet](https://x.com/AbsGMCrypto/status/1885689388991959448)
+32. **Crypto Adoption**: Der Head of FED spricht darüber, dass die Banken hervorragend geeignet sind Crypto zu verwahren: [Tweet](https://x.com/WatcherGuru/status/1884699251860553789)
+33. **German Politik**: Großes Drama, weil die CDU mit der AFD gemeinsame Sache machen wollte...
+34.  
