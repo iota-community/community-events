@@ -6,16 +6,16 @@
 4. **Tangle Ökosystem**: [Tan tweetet](https://x.com/tan_technology/status/1883812748234285517) über ihr [Whitepaper: TANGLE - Application Network - A Community Driven Feeless Network for the M2M Economy](https://t.co/k3i3l2CJ7Q); Da geht es um die "Weiterentwicklung" von Shimmer bzw. um den Erhalt von der Stargate Technologie
 5. **IOTA Ökosystem**: [zokyo tweetet](https://x.com/zokyo_io/status/1884168720567713920), dass sie die smart contracts von [Realize Finance](https://x.com/realizefinance) geauditet haben; Hier der [Thread von Realize](https://x.com/realizefinance/status/1884170788787626349) dazu mit dem Blogpost: [Realize Earns Perfect Score in Smart Contract Audit](https://blog.realizeassets.com/realize-earns-perfect-score-in-smart-contract-audit/)
 6. **Crypto Adoption**: Bitcoin wird in einer Rede im EU-Parlament erwähnt: [Tweet](https://x.com/BTC_Archive/status/1883926000347800043)
-7. **IOTA Rebased**: [Dom tweetet](https://x.com/DomSchiener/status/1884195233556259327) über liquid Staking und sucht nach einem Namen für die dApp die dazu gerade gebaut wird
+7. **IOTA Rebased**: [Dom tweetet](https://x.com/DomSchiener/status/1884195233556259327) über "liquid staking" und sucht nach einem Namen für eine dApp, die dazu gerade entwickelt wird
 8. **IOTA Ökosystem**: [coda tweetet](https://x.com/coda_digital/status/1883943979479359825) über ihren Blogpost: [The Music Industry's Digital Revolution: How IP Tokenization is Changing the Game](https://www.coda.to/blog/the-music-industrys-digital-revolution-how-ip-tokenization-is-changing-the-game)
 9. **IOTA NFT Ökosystem**: Die [Iotapunks](https://x.com/IotaPunks_71) sind jetzt auf [figment.exchange](https://t.co/APbFUa4EtI): [Tweet](https://x.com/figment_nfts/status/1884259076877738195)
-10. **IOTA Ökosystem**: [swarmlogistics tweetet](https://x.com/SwarmLogistics/status/1884234602807758850) über ein Fieldtest mit IOTA inside
-11. **IOTA Ökosystem**: [Tanglebeast tweetet](https://x.com/tanglebeasts/status/1884244725643071605) über ihre NFT Plattform
+10. **IOTA Ökosystem**: [swarmlogistics tweetet](https://x.com/SwarmLogistics/status/1884234602807758850) über ein Felldtest mit IOTA inside
+11. **IOTA Ökosystem**: [Tanglebeast tweetet](https://x.com/tanglebeasts/status/1884244725643071605) über ihre NFT Plattform die "soon" live geht
 12. **IOTA Promote**: Es gibt eine neue EVM Campagne bei der 3M IOTA Token verteilt werden: Die [IF retweetet](https://x.com/iota/status/1884340248320123135) den [Tweet von iotalabs](https://x.com/iotalabs_/status/1884293673988333583) über die [The return of IOTA Campagne](https://guild.xyz/iota/the-return-of-iota); [Dom tweeetet](https://x.com/DomSchiener/status/1884304874059489563) aber auch, dass das nur der Start für eine größere Campagne ist, die später für Move L1 startet
-13. **Fiat Adoption**: X-Payments Partnerschaft mit Visa: [Tweet](https://x.com/Cointelegraph/status/1884280631225385317)
-14. **Crypto Adoption**: Lummis macht Werbung für eine Bitcoin Reserve: [Tweet](https://x.com/Cointelegraph/status/1884300583357628598)
-15. **IOTA Tutorial**: [Jonathan tweetet](https://x.com/3clipsep/status/1884525159324742062) ein Video Tutorial wie man den "Portal Key" claimen kann für die Campagne von Punkt. 12
-16. **Crypto Adoption**: Die Chechische Nationalbank wird darüber abstimmen, ob sie Bitcoin kaufen sollen: [Tweet](https://x.com/blocktrainer/status/1884530305182093336)
+13. **Fiat Adoption**: Es gibt eine Payments-Partnerschaft zw. X und Visa: [Tweet](https://x.com/Cointelegraph/status/1884280631225385317)
+14. **Crypto Adoption**: Die US Senatorin Lummis macht Werbung für eine Bitcoin Reserve: [Tweet](https://x.com/Cointelegraph/status/1884300583357628598)
+15. **IOTA Tutorial**: [Jonathan tweetet](https://x.com/3clipsep/status/1884525159324742062) ein Video Tutorial, wie man den "Portal Key" claimen kann, für die Campagne aus Punkt. 12 veröffentlicht
+16. **Crypto Adoption**: Die Tschechische Nationalbank wird darüber abstimmen, ob sie Bitcoin kaufen sollen: [Tweet](https://x.com/blocktrainer/status/1884530305182093336)
 17. **IOTA Adopion**: [Jonathan tweetet](https://x.com/3clipsep/status/1884557095950794917) über den [Tweet von DeFa](https://x.com/defaprimitive/status/1884485861259034670). Ihr Testnetzt auch IOTA EVM ist live und man kann Belohnungen verdienen
 18. **Ki News**: Alibaba schlägt Deepseak: [Tweet](https://x.com/E_Boeminghaus/status/1884352905374818433)
 19. **IOTA Adoption**: Neuer [Tweet von TLIP](https://x.com/TLIP_io/status/1884612750053417455)
