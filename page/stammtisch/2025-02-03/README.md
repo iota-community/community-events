@@ -18,14 +18,14 @@
 16. **Crypto Adoption**: Die Tschechische Nationalbank wird darüber abstimmen, ob sie Bitcoin kaufen sollen: [Tweet](https://x.com/blocktrainer/status/1884530305182093336)
 17. **IOTA Adopion**: [Jonathan tweetet](https://x.com/3clipsep/status/1884557095950794917) über den [Tweet von DeFa](https://x.com/defaprimitive/status/1884485861259034670). Ihr Testnetzt auch IOTA EVM ist live und man kann Belohnungen verdienen
 18. **Ki News**: Alibaba schlägt Deepseak: [Tweet](https://x.com/E_Boeminghaus/status/1884352905374818433)
-19. **IOTA Adoption**: Neuer [Tweet von TLIP](https://x.com/TLIP_io/status/1884612750053417455)
+19. **IOTA Adoption**: Neuer [Tweet von TLIP](https://x.com/TLIP_io/status/1884612750053417455) über das Video: [TLIP revolutionising global trade by digitising documentation and approval processes](https://www.youtube.com/watch?v=TW3HtMXOzJA)
 20. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1884979942842130652) über die first quest von [The return of IOTA](https://guild.xyz/iota/the-return-of-iota)
 21. **Crypto Adoption**: MicroStrategie verkauft neue Aktien um noch mehr Bitcoin zu kaufen: [Tweet](https://x.com/BTC_Archive/status/1885291246723256643)
 22. **Crypto Adoption**: Bitcoin soll laut Lagarde keine europäische Reservewährung werden: [Tweet](https://x.com/BitcoinNewsCom/status/1884986684590490063); Sie reagiert damit auf das hier: [Tweet](https://x.com/BitcoinMagazine/status/1884991862651437510)
 23. **Allg. News**: [Mat Yager tweetet](https://x.com/Mat_Yarger/status/1885029436690436147) über seinen Podcast über "The Future of Trust Podcast" der bald startet: [Tweet](https://x.com/_Demia/status/1884859368216162530)
 24. **IOTA Audio**: Charley Varley war in einem X-Space: [Tweet](https://x.com/bloomwalletio/status/1885009711482749131)
 25. **Crypto Drama**: Bitcoin ist nicht mehr gesetzliches Zahlungsmittel in El Salvador: [Tweet](https://x.com/blocktrainer/status/1884935435689836572)
-26. **IOTA Rebased**: Neuer Release: [[DevNet] v0.9.2-beta](https://github.com/iotaledger/iota/releases/tag/v0.9.2-beta)
+26. **IOTA Rebased**: Neuer Release von IOTA DevNet: [[DevNet] v0.9.2-beta](https://github.com/iotaledger/iota/releases/tag/v0.9.2-beta)
 27. **IOTA Event**: [SUPRA tweetet](https://x.com/SUPRA_Labs/status/1885352212454342739) darüber dass der Head of Engineering von iota auf ihrem Side Event von ETH Denver 2025 sprechen wird
 28. **Crypto Adoption**: Trumps neuer FBI Chef hält $115K in Bitcoin ETFs: [Tweet](https://x.com/BTC_Archive/status/1885636728033083569); Und RFK der neue Gesundheitsminister srpicht über Bitcoin: [Tweet](https://x.com/BoldBitcoin/status/1883349257383547385)
 29. **IOTA Ökosystem**: [iotalabs retweetet](https://x.com/iotalabs_/status/1886339624726856145) den [Tweet von Anon](https://x.com/HeyAnonai/status/1885706300698333350) über ihr Beta Release am 7.Februar; Auf [cyberperb retweetet](https://x.com/cyberperp/status/1885708633196958052) das
@@ -33,8 +33,8 @@
 31. **Crypto Adoption**: Tesla hat ihre Bitcoins gehalten und kann sie erstmals fair bewerten in ihrer Bilanz (Gewinn von fast 600 Mio. $): [Tweet](https://x.com/blocktrainer/status/1884900039484461256)
 32. **Crypto Adoption**: Charles Hoskinson spricht von einem "crazy Monat Februar" der uns bevorsteht. Er darf aber nicht sagen warum: [Tweet](https://x.com/AbsGMCrypto/status/1885689388991959448)
 33. **Crypto Adoption**: Der Head of FED spricht darüber, dass die Banken hervorragend geeignet sind Crypto zu verwahren: [Tweet](https://x.com/WatcherGuru/status/1884699251860553789)
-34. **German Politik**: Großes Drama, weil die CDU mit der AFD gemeinsame Sache machen wollte...
-35. **Crypto Crash**: Am Montag gab es den größten Crash den es jemals gegeben hat bei Crypto:
-36. **IOTA Adoption**: [DeFa tweetet](https://x.com/defaprimitive/status/1886327936162156746), dass sie live sind im IOTA Testnetz auf [https://testnet.imdefa.com/](https://testnet.imdefa.com/); Es gibt auch ein [Tutorial](https://youtu.be/a69_4N1Xxj8); Auch [iotalabs retweetet](https://x.com/iotalabs_/status/1886346389719855449) das
-37. **IOTA Ökosystem**: [DLT.Green tweetet](https://x.com/dlt_green/status/1885966635283951713), dass ihre tokenbasierte dezentrale Governance nun online ist auf [dlt.green/de/ogs/abstimmungen](https://dlt.green/de/ogs/abstimmungen/1)
+34. **German Politik**: Großes Drama, weil die CDU mit der AFD gemeinsame Sache machen wollte... Es gab daraufhin am WE überall Demos gegen Rechts
+35. **Crypto Crash**: Am Montag gab es den größten Crash, den es vom Marketcap her jemals gegeben hat bei Crypto
+36. **IOTA Adoption**: [DeFa tweetet](https://x.com/defaprimitive/status/1886327936162156746), dass sie live sind im IOTA Testnetz auf [testnet.imdefa.com/](https://testnet.imdefa.com/); Es gibt auch ein [Tutorial](https://youtu.be/a69_4N1Xxj8); Auch [iotalabs retweetet](https://x.com/iotalabs_/status/1886346389719855449) das
+37. **IOTA Ökosystem**: [DLT.Green tweetet](https://x.com/dlt_green/status/1885966635283951713), dass ihre tokenbasierte dezentrale Governance Struktur jetzt online ist auf [dlt.green/de/ogs/abstimmungen](https://dlt.green/de/ogs/abstimmungen/1)
 38. **IOTA Rebased**: [Iotascan tweetet](https://x.com/iotascan/status/1886388159736680801) über ihre [Blockberry Iota Testnet API](https://docs.blockberry.one/reference/iota-testnet-quickstart) und den Blogpost: [IOTA Testnet API Launch](https://iotascan.com/testnet/news/798)
