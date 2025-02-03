@@ -37,3 +37,4 @@
 35. **Crypto Crash**: Am Montag gab es den größten Crash den es jemals gegeben hat bei Crypto:
 36. **IOTA Adoption**: [DeFa tweetet](https://x.com/defaprimitive/status/1886327936162156746), dass sie live sind im IOTA Testnetz auf [https://testnet.imdefa.com/](https://testnet.imdefa.com/); Es gibt auch ein [Tutorial](https://youtu.be/a69_4N1Xxj8); Auch [iotalabs retweetet](https://x.com/iotalabs_/status/1886346389719855449) das
 37. **IOTA Ökosystem**: [DLT.Green tweetet](https://x.com/dlt_green/status/1885966635283951713), dass ihre tokenbasierte dezentrale Governance nun online ist auf [dlt.green/de/ogs/abstimmungen](https://dlt.green/de/ogs/abstimmungen/1)
+38. **IOTA Rebased**: [Iotascan tweetet](https://x.com/iotascan/status/1886388159736680801) über ihre [Blockberry Iota Testnet API](https://docs.blockberry.one/reference/iota-testnet-quickstart) und den Blogpost: [IOTA Testnet API Launch](https://iotascan.com/testnet/news/798)
