@@ -40,3 +40,4 @@
 38. **IOTA Rebased**: [Iotascan tweetet](https://x.com/iotascan/status/1886388159736680801) über ihre [Blockberry Iota Testnet API](https://docs.blockberry.one/reference/iota-testnet-quickstart) und den Blogpost: [IOTA Testnet API Launch](https://iotascan.com/testnet/news/798)
 39. **IOTA Audio**: [iotalabs tweetet](https://x.com/iotalabs_/status/1886414337482342535) über ein [X-Space über RWA am Freitag](https://x.com/i/spaces/1MnxnDwDPoOGO)
 40. **IOTA Rebased Promote**: Die [IF tweetet](https://x.com/iota/status/1886414343832555992) darüber, dass sie mehrere VMs in IOTA Rebased integrieren wollen
+41. **Crypto Adoption**: Morgen hält Donald Trumps Krypto-Zar David Sacks eine Crypto Presse Konferenz in den USA: [Tweet](https://x.com/BitcoinMagazine/status/1886432755581370432)
