@@ -28,9 +28,12 @@
 26. **IOTA Rebased**: Neuer Release: [[DevNet] v0.9.2-beta](https://github.com/iotaledger/iota/releases/tag/v0.9.2-beta)
 27. **IOTA Event**: [SUPRA tweetet](https://x.com/SUPRA_Labs/status/1885352212454342739) darüber dass der Head of Engineering von iota auf ihrem Side Event von ETH Denver 2025 sprechen wird
 28. **Crypto Adoption**: Trumps neuer FBI Chef hält $115K in Bitcoin ETFs: [Tweet](https://x.com/BTC_Archive/status/1885636728033083569); Und RFK der neue Gesundheitsminister srpicht über Bitcoin: [Tweet](https://x.com/BoldBitcoin/status/1883349257383547385)
-29. **IOTA Ökosystem**: Es gab am Wochenende ein Event vom Shi Universe: [Tweet](https://x.com/Shiuniverse/status/1885605736291459223)
-30. **Crypto Adoption**: Tesla hat ihre Bitcoins gehalten und kann sie erstmals fair bewerten in ihrer Bilanz (Gewinn von fast 600 Mio. $): [Tweet](https://x.com/blocktrainer/status/1884900039484461256)
-31. **Crypto Adoption**: Charles Hoskinson spricht von einem "crazy Monat Februar" der uns bevorsteht. Er darf aber nicht sagen warum: [Tweet](https://x.com/AbsGMCrypto/status/1885689388991959448)
-32. **Crypto Adoption**: Der Head of FED spricht darüber, dass die Banken hervorragend geeignet sind Crypto zu verwahren: [Tweet](https://x.com/WatcherGuru/status/1884699251860553789)
-33. **German Politik**: Großes Drama, weil die CDU mit der AFD gemeinsame Sache machen wollte...
-34.  
+29. **IOTA Ökosystem**: [iotalabs retweetet](https://x.com/iotalabs_/status/1886339624726856145) den [Tweet von Anon](https://x.com/HeyAnonai/status/1885706300698333350) über ihr Beta Release am 7.Februar; Auf [cyberperb retweetet](https://x.com/cyberperp/status/1885708633196958052) das
+30. **IOTA Ökosystem**: Es gab am Wochenende ein Event vom Shi Universe: [Tweet](https://x.com/Shiuniverse/status/1885605736291459223)
+31. **Crypto Adoption**: Tesla hat ihre Bitcoins gehalten und kann sie erstmals fair bewerten in ihrer Bilanz (Gewinn von fast 600 Mio. $): [Tweet](https://x.com/blocktrainer/status/1884900039484461256)
+32. **Crypto Adoption**: Charles Hoskinson spricht von einem "crazy Monat Februar" der uns bevorsteht. Er darf aber nicht sagen warum: [Tweet](https://x.com/AbsGMCrypto/status/1885689388991959448)
+33. **Crypto Adoption**: Der Head of FED spricht darüber, dass die Banken hervorragend geeignet sind Crypto zu verwahren: [Tweet](https://x.com/WatcherGuru/status/1884699251860553789)
+34. **German Politik**: Großes Drama, weil die CDU mit der AFD gemeinsame Sache machen wollte...
+35. **Crypto Crash**: Am Montag gab es den größten Crash den es jemals gegeben hat bei Crypto:
+36. **IOTA Adoption**: [DeFa tweetet](https://x.com/defaprimitive/status/1886327936162156746), dass sie live sind im IOTA Testnetz auf [https://testnet.imdefa.com/](https://testnet.imdefa.com/); Es gibt auch ein [Tutorial](https://youtu.be/a69_4N1Xxj8); Auch [iotalabs retweetet](https://x.com/iotalabs_/status/1886346389719855449) das
+37. **IOTA Ökosystem**: [DLT.Green tweetet](https://x.com/dlt_green/status/1885966635283951713), dass ihre tokenbasierte dezentrale Governance nun online ist auf [dlt.green/de/ogs/abstimmungen](https://dlt.green/de/ogs/abstimmungen/1)
