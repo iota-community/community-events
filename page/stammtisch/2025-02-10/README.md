@@ -4,7 +4,7 @@
 2. **IOTA Influencer**: [Tweet von CryptoBird (700K follower)](https://x.com/crypto_birb/status/1886379698436935991); [Tweet von Open4profit (150K follower)](https://x.com/open4profit/status/1886691104424386989)
 3. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1886522356132106733) darüber, dass ihr letzter Test für das tokenbasierte Governance Voting erfolgreich beendet wurde
 4. **Crypto Adoption**: US Pressekonferenz über Crypto: [Tweet](https://x.com/CoinDesk/status/1886858827737522503)
-5. **IOTA Promote**: IOTA ist schon wieder Nr. 1 bei den Top-Projekten nach Wachstum der Entwicklungsaktivität: [Tweet](https://x.com/crypto_rand/status/1886789307899474163)
+5. **IOTA Promote**: IOTA ist schon wieder Nr. 1 bei den Top-Projekten nach Wachstum der Entwicklungsaktivität: [Tweet](https://x.com/crypto_rand/status/1886789307899474163); Es gibt jetzt eine [Crypto Task Force Webseite](https://www.sec.gov/about/crypto-task-force) von der SEC
 6. **IOTA Promote**: [IOTALabs tweetet](https://x.com/iotalabs_/status/1886792180649394592) über die "The Return of IOTA Campagne"
 7. **IOTA Audio**: Am 11.2. gibt es ein [AMA von NakamaLabs](https://x.com/Nakama_Labs/status/1886783322602303687)
 8. **IOTA Audio**: Am Freitag gab es ein X-Spaces für IOTA RWA Projekte: [Tweet](https://x.com/iotalabs_/status/1886414337482342535)
