@@ -1,7 +1,7 @@
 ## Stammtischthemen für Montag, den 10.2.2025
 
 1. **IOTA Promote**: Beim Crypto-Crash am Montag [tweetet Dom Schiener](https://x.com/DomSchiener/status/1886458288151167238) eine Durchhalteparole "...Path to adoption is more clear than ever..."; Außerdem [retweetet Dom](https://x.com/DomSchiener/status/1886666554726592892) den [Tweet von der EU Comission](https://x.com/EU_Commission/status/1886427917762150427) und beschwert sich über die Bürokratie
-2. **IOTA Influencer**: [Tweet von CryptoBird (700K follower)](https://x.com/crypto_birb/status/1886379698436935991); [Tweet von Open4profit (150K follower)](https://x.com/open4profit/status/1886691104424386989)
+2. **IOTA Influencer**: [Tweet von CryptoBird (700K follower)](https://x.com/crypto_birb/status/1886379698436935991); [Tweet von Open4profit (150K follower)](https://x.com/open4profit/status/1886691104424386989); [Tweet (230K Follower)](https://x.com/TheDustyBC/status/1886859946781995154)
 3. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1886522356132106733) darüber, dass ihr letzter Test für das tokenbasierte Governance Voting erfolgreich beendet wurde
 4. **Crypto Adoption**: US Pressekonferenz über Crypto: [Tweet](https://x.com/CoinDesk/status/1886858827737522503)
 5. **IOTA Promote**: IOTA ist schon wieder Nr. 1 bei den Top-Projekten nach Wachstum der Entwicklungsaktivität: [Tweet](https://x.com/crypto_rand/status/1886789307899474163); Es gibt jetzt eine [Crypto Task Force Webseite](https://www.sec.gov/about/crypto-task-force) von der SEC
