@@ -9,4 +9,4 @@
 7. **IOTA Audio**: Am 11.2. gibt es ein [AMA von NakamaLabs](https://x.com/Nakama_Labs/status/1886783322602303687)
 8. **IOTA Audio**: Am Freitag gab es ein X-Spaces für IOTA RWA Projekte: [Tweet](https://x.com/iotalabs_/status/1886414337482342535)
 9. **IOTA Ökosystem**: [DeFa tweetet](https://x.com/defaprimitive/status/1886757698433146928), dass sie im Halbfinale sind bei einer "Ai-Supernova Pitch competition at AI Everything Global"
-10. 
+10. **IOTA Audio**: [X-Spaces: Web3 Global Talks](https://x.com/web3globalmedia/status/1887068980881613210) mit iotainside
