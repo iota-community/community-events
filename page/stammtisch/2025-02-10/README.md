@@ -12,3 +12,4 @@
 10. **IOTA Audio**: [X-Spaces: Web3 Global Talks](https://x.com/web3globalmedia/status/1887068980881613210) mit iotainside
 11. **IOTA Rebased**: Die [IF macht einen Thread](https://x.com/iota/status/1887501506800234997) über ihren Blogpost: [New Validators Join IOTA Rebased Testnet](https://blog.iota.org/iota-rebased-validators3/)
 12. **Crypto Adoption**: Elon Musk will Governance auf die Blockchain bringen: [Tweet](https://x.com/Cointelegraph/status/1887237508884275477)
+13. **IOTA Ökosystem**: [Realize tweetet](https://x.com/realizefinance/status/1887517089230979220) darüber, dass sie live sind auf [realizeassets.com](https://www.realizeassets.com/) und veröffentlichen den Blogpost: [Scaling Tokenization: Realize is Launching on IOTA](https://blog.realizeassets.com/scaling-tokenization-realize-is-launching-on-iota/)
