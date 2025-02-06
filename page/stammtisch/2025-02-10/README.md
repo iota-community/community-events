@@ -13,3 +13,4 @@
 11. **IOTA Rebased**: Die [IF macht einen Thread](https://x.com/iota/status/1887501506800234997) über ihren Blogpost: [New Validators Join IOTA Rebased Testnet](https://blog.iota.org/iota-rebased-validators3/)
 12. **Crypto Adoption**: Elon Musk will Governance auf die Blockchain bringen: [Tweet](https://x.com/Cointelegraph/status/1887237508884275477)
 13. **IOTA Ökosystem**: [Realize tweetet](https://x.com/realizefinance/status/1887517089230979220) darüber, dass sie live sind auf [realizeassets.com](https://www.realizeassets.com/) und veröffentlichen den Blogpost: [Scaling Tokenization: Realize is Launching on IOTA](https://blog.realizeassets.com/scaling-tokenization-realize-is-launching-on-iota/)
+14. **Crypto Adoption**: Trumps Truth.fi Plattform plant einen Bitcoin Plus ETF: [Tweet](https://x.com/BTC_Archive/status/1887519961330905561)
