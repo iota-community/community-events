@@ -10,4 +10,5 @@
 8. **IOTA Audio**: Am Freitag gab es ein X-Spaces für IOTA RWA Projekte: [Tweet](https://x.com/iotalabs_/status/1886414337482342535)
 9. **IOTA Ökosystem**: [DeFa tweetet](https://x.com/defaprimitive/status/1886757698433146928), dass sie im Halbfinale sind bei einer "Ai-Supernova Pitch competition at AI Everything Global"
 10. **IOTA Audio**: [X-Spaces: Web3 Global Talks](https://x.com/web3globalmedia/status/1887068980881613210) mit iotainside
-11. 
+11. **IOTA Rebased**: Die [IF macht einen Thread](https://x.com/iota/status/1887501506800234997) über ihren Blogpost: [New Validators Join IOTA Rebased Testnet](https://blog.iota.org/iota-rebased-validators3/)
+12. **Crypto Adoption**: Elon Musk will Governance auf die Blockchain bringen: [Tweet](https://x.com/Cointelegraph/status/1887237508884275477)
