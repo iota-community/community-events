@@ -8,7 +8,7 @@
 6. **IOTA Promote**: [IOTALabs tweetet](https://x.com/iotalabs_/status/1886792180649394592) über die "The Return of IOTA Campagne"
 7. **IOTA Audio**: Am 11.2. gibt es ein [AMA von NakamaLabs](https://x.com/Nakama_Labs/status/1886783322602303687)
 8. **IOTA Audio**: Am Freitag gab es ein X-Spaces für IOTA RWA Projekte: [Tweet](https://x.com/realizefinance/status/1887795316428066921)
-9. **IOTA Ökosystem**: [DeFa tweetet](https://x.com/defaprimitive/status/1886757698433146928), dass sie im Halbfinale sind bei einer "Ai-Supernova Pitch competition at AI Everything Global"
+9. **IOTA Ökosystem**: [DeFa tweetet](https://x.com/defaprimitive/status/1886757698433146928), dass sie im Halbfinale sind bei einer "Ai-Supernova Pitch competition at AI Everything Global"; Hier noch ein [Tweet von DeFa](https://x.com/defaprimitive/status/1888925395287749041) in dem sie sich darüber, freuen ausgewählt zu sein für ein Startup Event in Abu Dhabi
 10. **IOTA Audio**: [X-Spaces: Web3 Global Talks](https://x.com/web3globalmedia/status/1887068980881613210) mit iotainside
 11. **IOTA Rebased**: Die [IF macht einen Thread](https://x.com/iota/status/1887501506800234997) über ihren Blogpost: [New Validators Join IOTA Rebased Testnet](https://blog.iota.org/iota-rebased-validators3/)
 12. **Crypto Adoption**: Elon Musk will Governance auf die Blockchain bringen: [Tweet](https://x.com/Cointelegraph/status/1887237508884275477)
@@ -29,3 +29,7 @@
 27. **Crypto Adoption**: Ist das Scam, oder hat der Präsident von Zentralafrica wirklich verkündet einen Meme Coin zu launchen? [Tweet](https://x.com/coffeebreak_YT/status/1888735221001908680) -> Es war ein DeepFake Scam: [Tweet](https://x.com/Cointelegraph/status/1888782440665370950) aber der Coin ist trotzdem auf $530 million Marketcap angestiegen...
 28. **Crypto Adoption**: 27 US-Staaten wollen bereits eine Bitcoin Strategie einführen: [Tweet](https://x.com/Cointelegraph/status/1888854162726695014)
 29. **Tangle Ökosystem**: [TAN tweetet](https://x.com/tan_technology/status/1888548592501297170) über ihr neues Netzwerk (IOTA Stardust (permissioned chain)) in dem sie 10% Airdrop an IOTA und Shimmer Holder verteilen wollen.
+30. **Crypto Adoption**: Oliver Kahn erklärt web3 im neuen Bitpanda Werbespot: [Tweet](https://x.com/BitpandaWeb3/status/1888927104038809617)
+31. **IOTA Event**: Die [IF retweetet](https://x.com/iota/status/1888933895812288564) ein [OKX Developer Event](https://x.com/OKXDevs/status/1888878598792364154) am 17. Februar das sie sponsoren
+32. **Crypto Adoption**: Michael Saylor hat schon wieder 7,8K BTC gekauft für $742mio: [Tweet](https://x.com/WatcherGuru/status/1888935224811176261)
+33. 
