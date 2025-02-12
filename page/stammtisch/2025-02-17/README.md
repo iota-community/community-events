@@ -6,4 +6,7 @@
 4. **Allg. News**: JFK Files werden wohl sehr bald veröffentlicht: [Tweet](https://x.com/libsoftiktok/status/1889411775696896438); Außerdem wird wegen UFOs, Covid 19, 9/11 und andere Assasiantions eine Sonderkomission eingesetzt: [Tweet](https://x.com/bennyjohnson/status/1889408318357098668)
 5. **IOTA Quicktakes**: [Thread von der IF](https://x.com/iota/status/1889373989765517494) über die IOTA Quicktakes
 6. **Crypto Adoption**: Microsoft Partnerschaft mit Cardano? [Tweet](https://x.com/MinswapIntern/status/1889267803884048674)
-7. 
+7. **Allg. News**: Trump hat mit Putin telefnoniert: [Tweet](https://x.com/MitAktien/status/1889727498423844962)
+8. **IOTA Stammtisch**: IOTA Stammtisch am 15.2. in Hamburg: [Tweet](https://x.com/tangle_talk/status/1889748135951430018)
+9. **IOTA Event**: [kowei tweetet](https://x.com/kowei1995/status/1889709777908903985) von einem SUI Event wo er IOTA vertreten hat
+10. 
