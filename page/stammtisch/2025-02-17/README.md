@@ -12,8 +12,10 @@
 10. **IOTA EVM Ökosystem **: [IOTA tweetet](https://x.com/iota/status/1889966781780955334) über das [Announcement von Anker](https://x.com/ankr/status/1889974818457714916): [IOTA EVM RPC Now Live!](https://www.ankr.com/blog/iota-evm-rpc-now-live/)
 11. **IOTA Wallet**: [Bivreost tweetet](https://x.com/bivreost/status/1889972010056626398) über neue Multichain Möglichkeiten bei Bivreost V3
 12. **IOTA Rebased**: Das Testnet wurde auf [v0.9.2-rc](https://github.com/iotaledger/iota/releases/tag/v0.9.2-rc) upgedated
-13. **IOTA Event**: [Realize tweetet](https://x.com/realizefinance/status/1889971545910747440) darüber, dass sie bei dem Paris NFT Event am 13. und 14. 02. dabei sind
+13. **IOTA Event**: [Realize tweetet](https://x.com/realizefinance/status/1889971545910747440) darüber, dass sie bei dem Paris NFT Event am 13. und 14. 02. dabei sind; Hier noch ein [Tweet von dem Event](https://x.com/realizefinance/status/1890035513501135001)
 14. **IOTA Promote**: IOTA ist wieder ganz vorne bei den "TOP PROJECTS BY DEVELOPMENT ACTIVITY GROWTH": [Tweet](https://x.com/chain_broker/status/1889721129108959392)
 15. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1889992723446538743) über ein Amassador Program: [The IOTA Ambassador Program Is Live](http://blog.iotalabs.io/the-iota-ambassador-program-is-live/)
 16. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1890011864366473522) über "Arcane Binding is LIVE – Lock, Earn & Grow!", das man im [Dark Mythos Explorer](https://explorer.dark-mythos.com/arcane-binding?tab=bind) ausprobieren kann
 17. **Crypto Adoption**: Die Kanadische Nationalbank hat $2 Mio in BTC gekauft: [Tweet](https://x.com/Ashcryptoreal/status/1889924453934751827)
+18. **IOTA Ökosystem**: [Web3Decision tweetet](https://x.com/web3decision/status/1890047505103986873) über eine Partnerschaft mit IOTA
+19. 
