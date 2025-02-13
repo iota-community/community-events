@@ -16,3 +16,4 @@
 14. **IOTA Promote**: IOTA ist wieder ganz vorne bei den "TOP PROJECTS BY DEVELOPMENT ACTIVITY GROWTH": [Tweet](https://x.com/chain_broker/status/1889721129108959392)
 15. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1889992723446538743) über ein Amassador Program: [The IOTA Ambassador Program Is Live](http://blog.iotalabs.io/the-iota-ambassador-program-is-live/)
 16. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1890011864366473522) über "Arcane Binding is LIVE – Lock, Earn & Grow!", das man im [Dark Mythos Explorer](https://explorer.dark-mythos.com/arcane-binding?tab=bind) ausprobieren kann
+17. **Crypto Adoption**: Die Kanadische Nationalbank hat $2 Mio in BTC gekauft: [Tweet](https://x.com/Ashcryptoreal/status/1889924453934751827)
