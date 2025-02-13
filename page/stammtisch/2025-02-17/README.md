@@ -15,4 +15,4 @@
 13. **IOTA Event**: [Realize tweetet](https://x.com/realizefinance/status/1889971545910747440) darüber, dass sie bei dem Paris NFT Event am 13. und 14. 02. dabei sind
 14. **IOTA Promote**: IOTA ist wieder ganz vorne bei den "TOP PROJECTS BY DEVELOPMENT ACTIVITY GROWTH": [Tweet](https://x.com/chain_broker/status/1889721129108959392)
 15. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1889992723446538743) über ein Amassador Program: [The IOTA Ambassador Program Is Live](http://blog.iotalabs.io/the-iota-ambassador-program-is-live/)
-16. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1890011864366473522) über 
+16. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1890011864366473522) über "Arcane Binding is LIVE – Lock, Earn & Grow!", das man im [Dark Mythos Explorer](https://explorer.dark-mythos.com/arcane-binding?tab=bind) ausprobieren kann
