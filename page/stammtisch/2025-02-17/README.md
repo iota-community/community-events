@@ -20,4 +20,4 @@
 18. **Crypto Adoption**: Die Kanadische Nationalbank hat $2 Mio in BTC gekauft: [Tweet](https://x.com/Ashcryptoreal/status/1889924453934751827)
 19. **IOTA Ökosystem**: [Web3Decision tweetet](https://x.com/web3decision/status/1890047505103986873) über eine Partnerschaft mit IOTA
 20. **IOTA Event**: [Realize tweetet](https://x.com/realizefinance/status/1890395607560323212) über ein Event (Consensus Hongkong) wo auch Dom dabei sein wird
-21. 
+21. **Crypto Adoption**: Der Abu Dhabi's Sovereign Wealth Fund hat $437Mio Bitcoin ETFs gekauft: [Tweet](https://x.com/AltcoinDailyio/status/1890482663439343731)
