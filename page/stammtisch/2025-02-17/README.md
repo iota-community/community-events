@@ -15,8 +15,9 @@
 13. **IOTA Event**: [Realize tweetet](https://x.com/realizefinance/status/1889971545910747440) darüber, dass sie bei dem Paris NFT Event am 13. und 14. 02. dabei sind; Hier noch ein [Tweet von dem Event](https://x.com/realizefinance/status/1890035513501135001)
 14. **IOTA Promote**: IOTA ist wieder ganz vorne bei den "TOP PROJECTS BY DEVELOPMENT ACTIVITY GROWTH": [Tweet](https://x.com/chain_broker/status/1889721129108959392)
 15. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1889992723446538743) über ein Amassador Program: [The IOTA Ambassador Program Is Live](http://blog.iotalabs.io/the-iota-ambassador-program-is-live/)
-16. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1890011864366473522) über "Arcane Binding is LIVE – Lock, Earn & Grow!", das man im [Dark Mythos Explorer](https://explorer.dark-mythos.com/arcane-binding?tab=bind) ausprobieren kann
-17. **Crypto Adoption**: Die Kanadische Nationalbank hat $2 Mio in BTC gekauft: [Tweet](https://x.com/Ashcryptoreal/status/1889924453934751827)
-18. **IOTA Ökosystem**: [Web3Decision tweetet](https://x.com/web3decision/status/1890047505103986873) über eine Partnerschaft mit IOTA
-19. **IOTA Event**: [Realize tweetet](https://x.com/realizefinance/status/1890395607560323212) über ein Event (Consensus Hongkong) wo auch Dom dabei sein wird
-20. 
+16. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1890400613873160684) über IOTA Rebased und dass eine Transaktion bis zu 1024 Move Funktionen aufrufen kann
+17. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1890011864366473522) über "Arcane Binding is LIVE – Lock, Earn & Grow!", das man im [Dark Mythos Explorer](https://explorer.dark-mythos.com/arcane-binding?tab=bind) ausprobieren kann
+18. **Crypto Adoption**: Die Kanadische Nationalbank hat $2 Mio in BTC gekauft: [Tweet](https://x.com/Ashcryptoreal/status/1889924453934751827)
+19. **IOTA Ökosystem**: [Web3Decision tweetet](https://x.com/web3decision/status/1890047505103986873) über eine Partnerschaft mit IOTA
+20. **IOTA Event**: [Realize tweetet](https://x.com/realizefinance/status/1890395607560323212) über ein Event (Consensus Hongkong) wo auch Dom dabei sein wird
+21. 
