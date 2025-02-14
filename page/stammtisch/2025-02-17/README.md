@@ -1,7 +1,7 @@
 ## Stammtischthemen für Montag, den 17.2.2025
 
 1. **IOTA Audio**: [NakamaLabs AMA X-Space](https://x.com/Nakama_Labs/status/1886783322602303687)
-2. **IOTA Influencer**: [Tweet (130K Follower)](https://x.com/HedgehogTrader/status/1889020323598590235); [Tweet (130K Follower)](https://x.com/KongBTC/status/1888906622694498623); [Tweet (132K Follower)](https://x.com/blackbeardXBT/status/1888997992738275368); [Tweet (80K Follower)](https://x.com/blazing420s/status/1889237793832136870); [Tweet (180K Follower)](https://x.com/CryptoDaku_/status/1890006085781836231)
+2. **IOTA Influencer**: [Tweet (130K Follower)](https://x.com/HedgehogTrader/status/1889020323598590235); [Tweet (130K Follower)](https://x.com/KongBTC/status/1888906622694498623); [Tweet (132K Follower)](https://x.com/blackbeardXBT/status/1888997992738275368); [Tweet (80K Follower)](https://x.com/blazing420s/status/1889237793832136870); [Tweet (180K Follower)](https://x.com/CryptoDaku_/status/1890006085781836231); [Tweet (380K Follower)](https://x.com/MerlijnTrader/status/1890355320112730392)
 3. **IOTA Builders**: Die [IF macht ein Thread](https://x.com/iota/status/1889313451752718719) über ihren Blogpost: [IOTA Business Innovation Program - Build Real-World Solutions on IOTA](https://blog.iota.org/iota-business-innovation-program/)
 4. **Allg. News**: JFK Files werden wohl sehr bald veröffentlicht: [Tweet](https://x.com/libsoftiktok/status/1889411775696896438); Außerdem wird wegen UFOs, Covid 19, 9/11 und andere Assasiantions eine Sonderkomission eingesetzt: [Tweet](https://x.com/bennyjohnson/status/1889408318357098668)
 5. **IOTA Quicktakes**: [Thread von der IF](https://x.com/iota/status/1889373989765517494) über die IOTA Quicktakes
@@ -18,4 +18,5 @@
 16. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1890011864366473522) über "Arcane Binding is LIVE – Lock, Earn & Grow!", das man im [Dark Mythos Explorer](https://explorer.dark-mythos.com/arcane-binding?tab=bind) ausprobieren kann
 17. **Crypto Adoption**: Die Kanadische Nationalbank hat $2 Mio in BTC gekauft: [Tweet](https://x.com/Ashcryptoreal/status/1889924453934751827)
 18. **IOTA Ökosystem**: [Web3Decision tweetet](https://x.com/web3decision/status/1890047505103986873) über eine Partnerschaft mit IOTA
-19. 
+19. **IOTA Event**: [Realize tweetet](https://x.com/realizefinance/status/1890395607560323212) über ein Event (Consensus Hongkong) wo auch Dom dabei sein wird
+20. 
