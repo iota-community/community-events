@@ -15,9 +15,16 @@
 13. **IOTA Event**: [Realize tweetet](https://x.com/realizefinance/status/1889971545910747440) darüber, dass sie bei dem Paris NFT Event am 13. und 14. 02. dabei sind; Hier noch ein [Tweet von dem Event](https://x.com/realizefinance/status/1890035513501135001)
 14. **IOTA Promote**: IOTA ist wieder ganz vorne bei den "TOP PROJECTS BY DEVELOPMENT ACTIVITY GROWTH": [Tweet](https://x.com/chain_broker/status/1889721129108959392)
 15. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1889992723446538743) über ein Amassador Program: [The IOTA Ambassador Program Is Live](http://blog.iotalabs.io/the-iota-ambassador-program-is-live/)
-16. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1890400613873160684) über IOTA Rebased und dass eine Transaktion bis zu 1024 Move Funktionen aufrufen kann
+16. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1890400613873160684) über IOTA Rebased und dass eine Transaktion bis zu 1024 Move Funktionen aufrufen kann; Hier noch ein [Tweet](https://x.com/karlaxelm/status/1890461470120407100) zur Erklärung
 17. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1890011864366473522) über "Arcane Binding is LIVE – Lock, Earn & Grow!", das man im [Dark Mythos Explorer](https://explorer.dark-mythos.com/arcane-binding?tab=bind) ausprobieren kann
 18. **Crypto Adoption**: Die Kanadische Nationalbank hat $2 Mio in BTC gekauft: [Tweet](https://x.com/Ashcryptoreal/status/1889924453934751827)
 19. **IOTA Ökosystem**: [Web3Decision tweetet](https://x.com/web3decision/status/1890047505103986873) über eine Partnerschaft mit IOTA
 20. **IOTA Event**: [Realize tweetet](https://x.com/realizefinance/status/1890395607560323212) über ein Event (Consensus Hongkong) wo auch Dom dabei sein wird
 21. **Crypto Adoption**: Der Abu Dhabi's Sovereign Wealth Fund hat $437Mio Bitcoin ETFs gekauft: [Tweet](https://x.com/AltcoinDailyio/status/1890482663439343731)
+22. **Crypto Adoption**: Die Barclays Bank hat ordentlich Bitcoin im Wert von $131,000,000 gekauft: [Tweet](https://x.com/Ashcryptoreal/status/1890358788672098529)
+23. **Crypto Adoption**: Trump Media erlaubt Crypto kauf: [Tweet](https://x.com/BitcoinMagazine/status/1890515528940187946)
+24. **Allg. News**: JD Vance hat eine Rede auf der Münchner Sicherheitskonferenz getätigt, die für viel Aufmerksamkeit gesorgt hat: [Tweet](); Rede auf deutsch: [Tweet](https://x.com/Deu_Kurier/status/1890419598865903749) ; Trump steht voll hinter der Rede: [Tweet](https://x.com/AHuxley1963/status/1890506591201292303)
+25. **Tangle Ökosystem**: [Tan tweetet](https://x.com/tan_technology/status/1890371165320806756) über den 10% Airdrop. Snapshot am 1. März Wochenende
+26. **IOTA Ökosystem**: [Lukkka tweetet](https://x.com/Lukka/status/1890050521341497506) über ihre Partnerschaft mit IOTA und verlinkt den Blogpost: [IOTA Selects Lukka as Exclusive Blockchain Analytics and Compliance Provider](https://lukka.tech/iota-selects-lukka-blockchain-analytics/)
+27. **Crypto Adoption**: Jerome Powel spricht über Bitcoin als Competitor für Gold: [Tweet](https://x.com/simplykashif/status/1890663950942872033)
+28. 
