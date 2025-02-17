@@ -35,3 +35,4 @@
 32. **Allg. News**: D.O.G.E soll jetzt wahrscheinlich auch die US-Goldreserven auditieren: [Tweet](https://x.com/WatcherGuru/status/1891190917303832810)
 33. **Allg. News**: Endspurt im deutschen Wahlkampf: In dieser Woche war das [Klartext 4rer Duell auf ZDF](https://www.youtube.com/watch?v=GWE49ksWXUA) und das [Kanzlerduell (Scholz vs. Merz) auf ZDF](https://www.youtube.com/watch?v=5gFyKQ1A3t0) und gestern das [Quadruell auf RTL](https://www.rtl.de/news/bundestagswahl-2025/kanzler-quadrell-2025-heute-bei-rtl-alle-infos-zur-debatte-von-merz-habeck-weidel-und-scholz-id2069742.html)
 34. **IOTA Hype**: [Tweet von Dom](https://x.com/DomSchiener/status/1891488357328265549): "...It's a great time to be building. We have an entire world to bring onchain."
+35. **IOTA Event**: [Tokeny tweetet](https://x.com/TokenySolutions/status/1891473028946465145) über das RWA Paris Event auf dem sie gerade sind
