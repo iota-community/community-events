@@ -7,3 +7,4 @@
 5. **Allg. News**: Erstes Treffen zw. Außenminister von USA und Russland in Riyadh ([Tweet](https://x.com/mfa_russia/status/1891756218722537620)) und quasi parallel dazu treffen sich die EU Minister für Rüstungsunterstützungen für die Ukraine ([Tweet](https://x.com/vonderleyen/status/1891575706598981985))
 6. **IOTA Event**: [Realize tweetet](https://x.com/realizefinance/status/1891789837117632833) erste Bilder von dem Event "Consensus Hong Kong"
 7. **IOTA Promote**: vrom hat eine Liste auf X erstellt mit wichtigen IOTA Profilen: [Tweet](https://x.com/Vrom14286662/status/1891772244453404745)
+8. **IOTA Promote**: [Tweet von iotalabs](https://x.com/iotalabs_/status/1891865363899449624) 
