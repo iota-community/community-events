@@ -30,3 +30,4 @@
 28. **Crypto Adoption**: STRATEGIe kauf wieder 20K Bitcoins im Wert von 2 $Milliarden
 29. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1894024581385519227) über die neue Webseite: [iota.org](https://www.iota.org/); Auch [Dom tweetet](https://x.com/DomSchiener/status/1894037660726964302) darüber
 30. **Crypto Drama**: Artikel: [Coinbase, OpenSea, Robinhood: SEC lässt immer mehr Klagen fallen](https://www.btc-echo.de/schlagzeilen/coinbase-opensea-robinhood-sec-laesst-klagen-fallen-202400/?utm_content=bufferae778&utm_medium=social&utm_source=x.com&utm_campaign=buffer)
+31. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1894039592174575631) über das Ökosystem
