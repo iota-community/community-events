@@ -28,4 +28,4 @@
 26. **Allg. News**: Deutschland hat gewählt. Hier das [vorläufige Endergebnis](https://x.com/Wahlen_DE/status/1893898836604555365)
 27. **IOTA Rebased**: Neuer Release: [[Devnet] v0.10.0-alpha](https://github.com/iotaledger/iota/releases/tag/v0.10.0-alpha)
 28. **Crypto Adoption**: STRATEGIe kauf wieder 20K Bitcoins im Wert von 2 $Milliarden
-29. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1894024581385519227) über die neue Webseite: [iota.org](https://www.iota.org/)
+29. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1894024581385519227) über die neue Webseite: [iota.org](https://www.iota.org/); Auch [Dom tweetet](https://x.com/DomSchiener/status/1894037660726964302) darüber
