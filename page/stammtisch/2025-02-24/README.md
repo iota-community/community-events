@@ -1,7 +1,7 @@
 ## IOTA Stammtischthemen für Montag, den 24.02.2025
 
 1. **IOTA Quicktakes**: Die [IF tweetet]() über die [IOTA Quicktakes]()
-2. **IOTA Marketing**: Influenzer posten über IOTA: [Tweet (130K Follower)](https://x.com/TKralow/status/1891563160059953523);[Tweet (660K Follower)](https://x.com/MartiniGuyYT/status/1891447845992984772)
+2. **IOTA Marketing**: Influenzer posten über IOTA: [Tweet (130K Follower)](https://x.com/TKralow/status/1891563160059953523);[Tweet (660K Follower)](https://x.com/MartiniGuyYT/status/1891447845992984772); [Teet (68K Follower)](https://x.com/Walknonthemoon/status/1893322356887822759); [Tweet (700K Follower)](https://x.com/crypto_birb/status/1893956534356398099)
 3. **Ki News**: Grok3 wird veröffentlicht und schlägt alles was bisher da war bezüglich Mathe, Science und Coding: [Tweet](https://x.com/WhaleInsider/status/1891760550977171795)
 4. **Crypto Drama**: [Dom tweetet](https://x.com/DomSchiener/status/1891765295791915167) über Meme Coins und wie die Scams gerade Crypto erroieren... "...Let's go back to building the future we want to live in."
 5. **Allg. News**: Erstes Treffen zw. Außenminister von USA und Russland in Riyadh ([Tweet](https://x.com/mfa_russia/status/1891756218722537620)) und quasi parallel dazu treffen sich die EU Minister für Rüstungsunterstützungen für die Ukraine ([Tweet](https://x.com/vonderleyen/status/1891575706598981985))
@@ -19,9 +19,12 @@
 17. **IOTA Exchange**: Neue Exchange hat IOTA gelistet: [Tweet](https://x.com/GMZeusINV/status/1892264497454149926)
 18. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1893315510630031475), dass sie durch ihre Partnerschaft mit der Hall AG auf 100% erneuerbarer Energie setzen können
 19. **Tech News**: Microsoft hat scheinbar einen Durchbruch bei Quanten Computern gemacht: [Tweet](https://x.com/satyanadella/status/1892242895094313420); Selbst [Elon retweetet](https://x.com/elonmusk/status/1892285692933234775) das
-20. **IOTA Exchange**: Binance US tweetet u.a. darüber, dass es ein IOTA/USD Trading Pair gibt auf [Binance.US](https://x.com/BinanceUS/status/1892997850490937809Binance.us)
+20. **IOTA Exchange**: Binance US tweetet u.a. darüber, dass es ein IOTA/USD Trading Pair gibt auf [Binance.US](https://x.com/BinanceUS/status/1892997850490937809Binance.us); Auch [Dom retweetet](https://x.com/DomSchiener/status/1893660731733582256) das
 21. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1892937325803438107) über IOTA Rebased und verlinken den Blogpost: [IOTA Rebased: Fast Forward](https://blog.iota.org/iota-rebased-fast-forward/)
 22. **IOTA Promote**: [Dom tweetet](https://x.com/DomSchiener/status/1892918412617068641) darüber, das Ivan on Tech IOTA erwähnt hat in seinem Video: [Bitcoin Shocking Truth...](https://www.youtube.com/watch?v=YpfZ1R0ilXY&t=1185s)
 23. **IOTA Youtube**: [2025 Showdown XRP and IOTA's Epic Upgrade Unveiled](https://youtu.be/KtdbJJnISTU?si=rzM2BJTUV1vaN-_7)
 24. **IOTA Hype**: [Dom tweetet](https://x.com/DomSchiener/status/1893738787584303552) "We will march forward..."
-25. 
+25. **Crypto Drama**: Artikel: [Bybit’s $1.46B Hack: Recovery Efforts Begin as North Korean Laundering Operation Unfolds](https://blockonomi.com/bybits-1-46b-hack-recovery-efforts-begin-as-north-korean-laundering-operation-unfolds/)
+26. **Allg. News**: Deutschland hat gewählt. Hier das [vorläufige Endergebnis](https://x.com/Wahlen_DE/status/1893898836604555365)
+27. **IOTA Rebased**: Neuer Release: [[Devnet] v0.10.0-alpha](https://github.com/iotaledger/iota/releases/tag/v0.10.0-alpha)
+28. **Crypto Adoption**: STRATEGIe kauf wieder 20K Bitcoins im Wert von 2 $Milliarden
