@@ -15,7 +15,13 @@
 13. **Crypto Adoption**: In dem [Tweet mit Video](https://x.com/AltcoinDailyio/status/1892079050316820863) erklärt der neue US Head of Commerce, dass Bitcoin zukünftig bei entsprechender Regulierung von allen Banken adaptiert werden kann
 14. **IOTA Event**: Die [IF retweetet](https://x.com/iota/status/1891925655635272069) den [Tweet von SUPRA](https://x.com/SUPRA_Labs/status/1890423969167065268) über das Event bei dem ETH Denver das sie sponsoren
 15. **KI News**: Grok3 wurde für alle frei gegeben: [Tweet](https://x.com/xai/status/1892400129719611567)
-16. **Crypto Adoption**: Trump erneuert seine Aussage, dass er die "US zur Crypto Capital of the world" machen: [Tweet](https://x.com/WatcherGuru/status/1892359211633307687)
+16. **Crypto Adoption**: Trump erneuert seine Aussage, dass er die "US zur Crypto Capital of the world" machen will: [Tweet](https://x.com/WatcherGuru/status/1892359211633307687)
 17. **IOTA Exchange**: Neue Exchange hat IOTA gelistet: [Tweet](https://x.com/GMZeusINV/status/1892264497454149926)
-18. **Tech News**: Microsoft hat scheinbar einen Durchbruch bei Quanten Computern gemacht: [Tweet](https://x.com/satyanadella/status/1892242895094313420); Selbst [Elon retweetet](https://x.com/elonmusk/status/1892285692933234775) das
-19. 
+18. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1893315510630031475), dass sie durch ihre Partnerschaft mit der Hall AG auf 100% erneuerbarer Energie setzen können
+19. **Tech News**: Microsoft hat scheinbar einen Durchbruch bei Quanten Computern gemacht: [Tweet](https://x.com/satyanadella/status/1892242895094313420); Selbst [Elon retweetet](https://x.com/elonmusk/status/1892285692933234775) das
+20. **IOTA Exchange**: Binance US tweetet u.a. darüber, dass es ein IOTA/USD Trading Pair gibt auf [Binance.US](https://x.com/BinanceUS/status/1892997850490937809Binance.us)
+21. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1892937325803438107) über IOTA Rebased und verlinken den Blogpost: [IOTA Rebased: Fast Forward](https://blog.iota.org/iota-rebased-fast-forward/)
+22. **IOTA Promote**: [Dom tweetet](https://x.com/DomSchiener/status/1892918412617068641) darüber, das Ivan on Tech IOTA erwähnt hat in seinem Video: [Bitcoin Shocking Truth...](https://www.youtube.com/watch?v=YpfZ1R0ilXY&t=1185s)
+23. **IOTA Youtube**: [2025 Showdown XRP and IOTA's Epic Upgrade Unveiled](https://youtu.be/KtdbJJnISTU?si=rzM2BJTUV1vaN-_7)
+24. **IOTA Hype**: [Dom tweetet](https://x.com/DomSchiener/status/1893738787584303552) "We will march forward..."
+25. 
