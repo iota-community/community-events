@@ -7,3 +7,5 @@
 6. **Crypto Adoption**: Gamestop will wohl Bitcoin kaufen: [Tweet](https://x.com/Vivek4real_/status/1894463656890404936)
 7. **IOTA Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1894496632621723958) über [Maker Vaults are Live!](https://x.com/MagicSeaDEX/status/1894496632621723958); Auch [Dom retweetet](https://x.com/DomSchiener/status/1894692485785391587) das
 8. **IOTA Event**: [iotashops tweetet](https://x.com/iotashop/status/1894672585868132715) über seine [IOTA MEetup Group](https://www.meetup.com/de-DE/iota-meetup-workshop/)
+9. **IOTA Ökosystem**: [Uruk Bartas tweeten(https://x.com/UrukBartas/status/1894114832007233988) darüber, dass man ihr Spiel jetzt auch im [Amazon App Store: Uruk Bartas - Heroes & Legends](https://www.amazon.com/gp/product/B0DX3M233Z) downloaden kann
+10. **IOTA Rebased**: Die [IF tweetet](https://x.com/iota/status/1894749264791654501) über die neuen Node Validatoren: [New Validators Join IOTA Rebased Testnet](https://blog.iota.org/iota-rebased-validators3/)
