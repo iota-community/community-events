@@ -5,4 +5,5 @@
 4. **IOTA Rebased**: [IOTA tweetet](https://x.com/iota/status/1894392613551198448) über "The new open-source #IOTA Gas Station" und den Blogpost: [Introducing IOTA Gas Station (Alpha)](https://blog.iota.org/iota-gas-station-alpha/)
 5. **IOTA Audio**: [Jonathan [IF]](https://x.com/3rdEclips3) war am Dienstag im [TangleTalk](https://x.com/tangle_talk): [Tweet](https://x.com/tangle_talk/status/1894124852266606770)
 6. **Crypto Adoption**: Gamestop will wohl Bitcoin kaufen: [Tweet](https://x.com/Vivek4real_/status/1894463656890404936)
-7. 
+7. **IOTA Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1894496632621723958) über [Maker Vaults are Live!](https://x.com/MagicSeaDEX/status/1894496632621723958); Auch [Dom retweetet](https://x.com/DomSchiener/status/1894692485785391587) das
+8. **IOTA Event**: [iotashops tweetet](https://x.com/iotashop/status/1894672585868132715) über seine [IOTA MEetup Group](https://www.meetup.com/de-DE/iota-meetup-workshop/)
