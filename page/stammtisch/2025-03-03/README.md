@@ -11,3 +11,4 @@
 10. **IOTA Rebased**: Die [IF tweetet](https://x.com/iota/status/1894749264791654501) über die neuen Node Validatoren: [New Validators Join IOTA Rebased Testnet](https://blog.iota.org/iota-rebased-validators3/)
 11. **IOTA Audio**: [IOTA AMA auf X mit Dom und Thoralf](https://x.com/iota/status/1895140864181100548)
 12. **IOTA Ökosystem**: [Dapp That tweetet](https://x.com/DappThatAI/status/1895118526932721782), dass sie IOTA integreirt haben auf [dappthat.com](https://www.dappthat.com/)
+13. **IOTA Rebased Ökosystem**: Das [Pyth Network tweetet](https://x.com/PythNetwork/status/1895443870202429947), dass sie auf IOTA Rebased über 1000 Price Feeds integriert haben; Auch die [IF retweetet](https://x.com/iota/status/1895450817945088352) das
