@@ -18,3 +18,5 @@
 16. **IOTA Rebased Infrastructure**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1897561210725273808) darüber, dass sie ihr "Disaster Recovery- und Blackout-Tests im IOTA Rebased Testnet erfolgreich abgeschlossen haben". Es scheint also von ihrer Seite alles bereit zu sein für IOTA Rebased...; Ein weiterer [Tweet von DLT.GREEN](https://x.com/dlt_green/status/1897595058917876173) darüber, dass das Tirol Symbol offiziell verwendet werden darf auf [dlt.green](dlt.green)
 17. **IOTA Ökosystem**: [IOTAHeroes tweetet](https://x.com/IotaHeroes/status/1897563360331284780) über P2P Games die heute starten
 18. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1896938811185061999) über das neue Portal NFT das man sich abholen kann
+19. **Crypto Adoption**: Der weißrussische Präsident Lukaschenko ist voll und ganz für Bitcoin und Krypto-Mining: [Tweet](https://x.com/RWAwatchlist_/status/1897626952787226714)
+20. **Crypto Adoption**: Auch der Prime Minister von Buthan spricht im Fernsehen über Bitcoin: [Tweet](https://x.com/TheBTCTherapist/status/1897620921692586467)
