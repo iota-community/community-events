@@ -36,7 +36,7 @@
 34. **IOTA Rebased Promote**: Die [IF tweetet](https://x.com/iota/status/1898086252764680269) über die Vorteile von "UTXO model to an Object Model powered by the #MoveVM..."
 35. **Crypto Adoption**: Es gab doch tatsächlich ein [Crypto Summit im White House](https://x.com/WatcherGuru/status/1898113819127259431) und auch [Trump tweetet](https://x.com/POTUS/status/1898162648962756970) darüber und nennt es "White House Digital Asset Summit"
 36. **IOTA Youtube**: [Interview mit Joanthan Community Manager Iota Foundation vom 26.02.25](https://www.youtube.com/watch?v=8mWfkzPb-OY)
-37. **IOTA Drama**: Scheinbar ist Susanne und Harry wieder raus bei der IOTA Foundation... Weiß nda jemand mehr dazu?
+37. **IOTA Drama**: Scheinbar ist Susanne und Harry wieder raus bei der IOTA Foundation... Weiß da jemand mehr dazu? In [Souvlaki](https://x.com/0xSouvlaki) Profil steht "previously iota"
 38. **IOTA Promote**: Auch [Boxmining tweetet](https://x.com/boxmining/status/1897925223200309523) wieder über IOTA und verlinkt sein uraltes Video (von vor 7 Jahren): [What is IOTA in a Nutshell](https://www.youtube.com/watch?v=UwEp5cexTJE)
 39. **IOTA Promote**: [Kutkraft tweetet](https://x.com/kutkraft/status/1898345718982865407) über ein neues Video von ihm: [IOTA is using a Move ledger to achieve decentralisation.. in mere weeks, we enter the MoveVM era.](https://www.youtube.com/watch?v=vL48ea1TtcE)
 40. **Crypto Adoption**: [Das Weisse Haus tweetet](https://x.com/WhiteHouse/status/1898446369674936755) über daws crypto Summit und schreibt "America will be the Bitcoin superpower of the world."
