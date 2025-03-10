@@ -46,4 +46,7 @@
 44. **Crypto Adoption**: Die größte spanische Bank will Crypto Traiding starten: [Tweet](https://x.com/Ashcryptoreal/status/1899043801265529050)
 45. **IOTA Adoption**: [Nansen tweetet](https://x.com/nansen_ai/status/1899000536487403748), dass iota zu den Top3 growing chains gehört bezüglich neuer aktiver Adressen
 46. **IOTA Stammtisch**: Am Freitag ist IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/1897707341958857034)
-47. **IOTA Event**: IOTA ist Sponsor und Dom ist Sprecher auf dem Washington[D.C. Bockchain Summit 2025](https://www.dcblockchainsummit.com/tickets) in 15 Tagen: [Tweet](https://www.dcblockchainsummit.com/)
+47. **IOTA Event**: IOTA ist Sponsor und Dom ist Sprecher auf dem Washington[D.C. Bockchain Summit 2025](https://www.dcblockchainsummit.com/tickets) in 15 Tagen: [Tweet](https://www.dcblockchainsummit.com/); Auch die [If tweetet](https://x.com/iota/status/1899112145658277943) darüber
+48. **Crypto Adoption**: Japan verringert die Steuern auf Crypto Gewinne von 55 auf 20%: [Tweet](https://x.com/BTC_Archive/status/1899086715228238122)
+49. **Crypto Adoption**: Strategy will weitere Aktien ausgeben um mit dem Geld Bitcoin zu kaufen: [Tweet](https://x.com/blocktrainer/status/1899069825395077122); [Blocktrainer Artikel](https://www.blocktrainer.de/blog/strategy-bis-zu-21-mrd-fuer-bitcoin-kaeufe-durch-vorzugsaktien)
+50. **IOTA Rebased**: Die [IF tweetet](https://x.com/iota/status/1899104636528660990) über das Product Arsenal was alles zur Verfügung steht sobald IOTA Rebased startet
