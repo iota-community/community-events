@@ -46,3 +46,4 @@
 44. **Crypto Adoption**: Die größte spanische Bank will Crypto Traiding starten: [Tweet](https://x.com/Ashcryptoreal/status/1899043801265529050)
 45. **IOTA Adoption**: [Nansen tweetet](https://x.com/nansen_ai/status/1899000536487403748), dass iota zu den Top3 growing chains gehört bezüglich neuer aktiver Adressen
 46. **IOTA Stammtisch**: Am Freitag ist IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/1897707341958857034)
+47. **IOTA Event**: IOTA ist Sponsor und Dom ist Sprecher auf dem Washington[D.C. Bockchain Summit 2025](https://www.dcblockchainsummit.com/tickets) in 15 Tagen: [Tweet](https://www.dcblockchainsummit.com/)
