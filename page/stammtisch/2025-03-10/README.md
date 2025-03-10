@@ -26,7 +26,7 @@
 24. **Crypto Adoption**: SUI pumpt, weil Trumps World Liberty Financial eine Partnerschaft mit SUI eingeht, um eine strategische SUI-Reserve aufzubauen: [Tweet](https://x.com/WatcherGuru/status/1897650350716281175)
 25. **Crypto Adoption**: Trump unterzeichnet eine Executive Order für eine strategische Bitcoin Reserve: [Tweet](https://x.com/TheBTCTherapist/status/1897804089544658963)
 26. **Crypto Adoption**: Die größte Bank in Dubai darf jetzt Cryptos verkaufen und für ihre Kunden verwahren: [Tweet](https://x.com/BitcoinMagazine/status/1897685784007700563)
-27. **IOTA Rebased**: Neuer IOTA Rebased Devnet Release: [IOTA DevNet v0.10.3-beta]()
+27. **IOTA Rebased**: Neuer IOTA Rebased Devnet Release: [IOTA DevNet v0.10.3-beta](https://github.com/iotaledger/iota/releases/tag/v0.10.3-rc)
 28. **IOTA Audio**: [Trapist tweetet](https://x.com/trappist1_mmo/status/1897672902276972715) über das [X-Spaces Event: BuildSphere #28 with Trappist 1](https://x.com/i/spaces/1ypJdZVYpkQKW) und verlinken ihren Trailer: [Trappist 1 Extended Announcement Trailer](https://youtu.be/nWM83vhegU0?si=FZXVSraftcrs5Vfy)
 29. **IOTA Ökosystem**: Die [Tangle Community Treassury tweetet](https://x.com/TangleTreasury/status/1897900472763375909) über ein Grant Update für [Dark Mythos](https://x.com/DarkMythosIOTA): "Grant amount: $55,900"
 30. **IOTA Hackathon**: Die [IF tweetet](https://x.com/iota/status/1898010963254640912) über den Moveathon zu dem man sich [hier](https://www.moveathon.build/?ref=blog.iota.org) registrieren kann
