@@ -43,3 +43,4 @@
 41. **IOTA Drama**: Es gab einige [Tweets von Schmucklos](https://x.com/Schmucklos_/status/1898391940590170423). Er scheint immernoch sehr frustriert zu sein über die Entwicklung von iota zu einem "SUI Fork"
 42. **Fiat Drama**: Der digitale Euro soll schon im Oktober 2025 kommen: [Tweet](https://x.com/coinbureau/status/1898665567172571634)
 43. **Crypto Adoption**: Texas will scheinbar $500 Mio in BTC jedes Jahr kaufen: [Tweet](https://x.com/kyle_chasse/status/1898590566641791281)
+44. **Crypto Adoption**: Die größte spanische Bank will Crypto Traiding starten: [Tweet](https://x.com/BTC_Archive/status/1899028838329290824)
