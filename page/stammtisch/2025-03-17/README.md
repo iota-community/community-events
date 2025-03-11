@@ -5,4 +5,4 @@
 3. **IOTA Ökosystem**: [Bloom tweetet](https://x.com/bloomwalletio/status/1899185136337645672), dass sie unter den Top 100 von 1000+ startups sind auf der [Paris Blockchain Week](https://x.com/ParisBlockWeek)
 4. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1899112145658277943) über das Washington [DC Blockchain Summit](https://www.dcblockchainsummit.com/), wo sie Silver Sponsor sind und Dom Schiener als ein Sprecher unter vielen prominenten Crypto und US Politiker Leuten ist
 5. **Crypto Adoption**: Die EU spricht sich gegen den US Weg und gegen Crypto aus. Das könnte die "Souveränität und finanzielle Stabilität der EU gefährden": [Tweet](https://x.com/blocktrainer/status/1899397654544584959)
-6. 
+6. **Crypto Adoption**: Die Deutsche Börse will ab April institutionellen Kunden Verwahrdienstleistungen für Bitcoin und Ethereum erlauben: [Tweet](https://x.com/blocktrainer/status/1899399780301750395)
