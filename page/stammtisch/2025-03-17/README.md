@@ -6,3 +6,6 @@
 4. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1899112145658277943) über das Washington [DC Blockchain Summit](https://www.dcblockchainsummit.com/), wo sie Silver Sponsor sind und Dom Schiener als ein Sprecher unter vielen prominenten Crypto und US Politiker Leuten ist
 5. **Crypto Adoption**: Die EU spricht sich gegen den US Weg und gegen Crypto aus. Das könnte die "Souveränität und finanzielle Stabilität der EU gefährden": [Tweet](https://x.com/blocktrainer/status/1899397654544584959)
 6. **Crypto Adoption**: Die Deutsche Börse will ab April institutionellen Kunden Verwahrdienstleistungen für Bitcoin und Ethereum erlauben: [Tweet](https://x.com/blocktrainer/status/1899399780301750395)
+7. **Crypto Adoption**: [Lummis tweetet](https://x.com/SenLummis/status/1899459877480579344) über "Proud to re-introduce the BITCOIN Act. Let’s secure America’s financial future." und auch [Michael Saylor tweetet](https://x.com/BitcoinMagazine/status/1899460139691671556) von dem Event auf dem er präsentieren durfte; Hier der [Tweet über den Bitcoin Act](https://x.com/SenLummis/status/1899449083628036177)
+8. **IOTA Adoption**: [cyberperp tweetet](https://x.com/cyberperp/status/1899435609866879108) über besonders hohe Rewards in diesem Monat
+9. 
