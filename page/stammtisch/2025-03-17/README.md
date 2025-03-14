@@ -17,3 +17,7 @@
 15. **IOTA Wallet**: [Nightly tweetet](https://x.com/Nightly_app/status/1900170432961024322) über iota und das Staking Feature das sie für IOTA Rebased schon testen
 16. **Crypto Adoption**: $719 million wurde zu Coinbase geschickt: [Tweet]8https://x.com/TheCryptoLark/status/1900162499913068639)
 17. **Crypto Adoption**: die Trump Famillie will bei Binance US mitmischen: [Tweet](https://x.com/blocktrainer/status/1900201185237221619)
+18. **Crypto Adoption**: Russland verkauft China scheinbar Öl im Austausch für Bitcoin: [Tweet](https://x.com/Ashcryptoreal/status/1900450228307657176)
+19. **IOTA Hype**: [Dom tweetet](https://x.com/DomSchiener/status/1900232681675276786): "Say after me: We will MOVE IOTA Forward 🚀"
+20. **IOTA Ökosystem**: [dlT.Green tweetet](https://x.com/dlt_green/status/1900281119590789520) über die neue Webseite: [dlt.green/de/services/iota-validator-node](https://dlt.green/de/services/iota-validator-node)
+21. **IOTA Security**: [iotalabs tweetet](https://x.com/iotalabs_/status/1899837796241605043) über die 3 Wallet Strategie
