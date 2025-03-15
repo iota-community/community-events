@@ -21,3 +21,6 @@
 19. **IOTA Hype**: [Dom tweetet](https://x.com/DomSchiener/status/1900232681675276786): "Say after me: We will MOVE IOTA Forward 🚀"
 20. **IOTA Ökosystem**: [dlT.Green tweetet](https://x.com/dlt_green/status/1900281119590789520) über die neue Webseite: [dlt.green/de/services/iota-validator-node](https://dlt.green/de/services/iota-validator-node)
 21. **IOTA Security**: [iotalabs tweetet](https://x.com/iotalabs_/status/1899837796241605043) über die 3 Wallet Strategie
+22. **IOTA Promote**: Ivan on Tech spricht über IOTA Rebased: [Tweet](https://x.com/GMZeusINV/status/1900645877976342956)
+23. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen)
+24. **IOTA Youtube**: [Kutkraft tweetet](https://x.com/kutkraft/status/1900825347723325746) über sein neues Video: [IOTA fits 1,024 Smart Contracts in 1 Tx! Plus - details on the IOTA Hackathon and Nightly wallet.](https://www.youtube.com/watch?v=hQwgH_BmYIY)
