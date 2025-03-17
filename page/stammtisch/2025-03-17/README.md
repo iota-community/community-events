@@ -23,4 +23,11 @@
 21. **IOTA Security**: [iotalabs tweetet](https://x.com/iotalabs_/status/1899837796241605043) über die 3 Wallet Strategie
 22. **IOTA Promote**: Ivan on Tech spricht über IOTA Rebased: [Tweet](https://x.com/GMZeusINV/status/1900645877976342956)
 23. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen)
-24. **IOTA Youtube**: [Kutkraft tweetet](https://x.com/kutkraft/status/1900825347723325746) über sein neues Video: [IOTA fits 1,024 Smart Contracts in 1 Tx! Plus - details on the IOTA Hackathon and Nightly wallet.](https://www.youtube.com/watch?v=hQwgH_BmYIY)
+24. **Crypto Adoption**: Michael Saylor bei FOX News: [Tweet](https://x.com/DocumentingBTC/status/1901275639224627508)
+25. **IOTA Youtube**: [Kutkraft tweetet](https://x.com/kutkraft/status/1900825347723325746) über sein neues Video: [IOTA fits 1,024 Smart Contracts in 1 Tx! Plus - details on the IOTA Hackathon and Nightly wallet.](https://www.youtube.com/watch?v=hQwgH_BmYIY)
+26. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1901634746423345565) über die neue Webseite: [iota-foundation.org](https://iota-foundation.org/)
+27. **IOTA Rebased**: [Levante retweetet](https://x.com/lzpap/status/1901349246386782679) den [Thread von Kutkraft](https://x.com/kutkraft/status/1901234246871650370) zu seinem SUI Auftritt
+28. **IOTA Wallet**: [nightly tweetet](https://x.com/Nightly_app/status/1901630790116536335) über ihr IOTA Wallet
+29. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1901562892282933340) über den Moveathon wo man $150K gewinnen kann
+30. **IOTA Hype**: [Dom tweetet](https://x.com/DomSchiener/status/1901600140957249885) " I am ready for IOTA"
+31. **IOTA Rebased**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1901634791369269368) über "4 templates powered by React, Next.js, Vite, Chakra, Tailwind & more. Seamless wallet integration with @iota/dapp-kit & @iota/iota-sdk"; Hier die Templates: [Create IOTA App CLI](https://create-iota-app.vercel.app/)
