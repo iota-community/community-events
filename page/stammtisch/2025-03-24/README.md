@@ -3,7 +3,7 @@
 1. **IOTA Gezwitscher**: [Dom tweetet](https://x.com/DomSchiener/status/1901874094615789879) über Hyperledger und permissioned Blockchains und warum sie nicht dezentral sind und daher nicht funktionieren für RWAs; Er [äußert sich](https://x.com/DomSchiener/status/1901878696581185815) auch noch zur dezentralisierung von IOTA Rebased
 2. **IOTA Promote**: Die [IOTA retweetet](https://x.com/iota/status/1901901354160816186) den [Artikel von Blockhunters](https://x.com/BlockhuntersOrg/status/1901711729458901003) der IOTA Rebased zusammenfasst "Breaking Barriers in Blockchain: How IOTA is Redefining Scalability and Efficiency"
 3. **Crypto Adoption**: Artikel: [Strategy Announces Proposed STRF Perpetual Preferred Stock Offering](https://www.strategy.com/press/strategy-announces-proposed-strf-preferred-stock-offering_03-18-2025)
-4. **IOTA Tech**: Die [IOTA Foundation tweetet](https://x.com/iota/status/1901997024100151676) über [IOTA Identity Alpha Release - Secure, Decentralized, and Scalable Digital Identity](https://blog.iota.org/iota-identity-alpha-release/)
+4. **IOTA Tech**: Die [IOTA Foundation tweetet](https://x.com/iota/status/1901997024100151676) über [IOTA Identity Alpha Release - Secure, Decentralized, and Scalable Digital Identity](https://blog.iota.org/iota-identity-alpha-release/); Auch [Dom tweetet](https://x.com/DomSchiener/status/1902037233109991677) darüber
 5. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1902002033059582209) über ihr Closed Alpha - Dev Update
 6. **IOTA Event**: [TangleTalk tweetet](https://x.com/tangle_talk/status/1901992507426116016) über ein IOTA Meetup in Hamburg
 7. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1902012659924353197) über ein neues Portal
@@ -14,4 +14,7 @@
 12. **Crypto Adoption**: Ripple vs. SEC Gerichtsverhandlung ist vorbei: [Tweet](https://x.com/IvanOnTech/status/1902348702779379971)
 13. **IOTA Exchange**: IOTA/USDC Traiding Paar auf Binance: [Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2025-03-20](https://www.binance.com/en/support/announcement/detail/49d9f5fa7c904f59bd77ae3535f699f0)
 14. **IOTA Promote**: Die IOTA Amabassador Token sollen onchain gehen: [Tweet](https://x.com/3rdEclips3/status/1902351455279051121)
-15. **IOTA Exchange**: IOTA wird wohl bald auf Kraken gelistet: [Kraken New Listings]https://www.kraken.com/de/listings); [https://www.kraken.com/de/prices/iota](https://www.kraken.com/de/prices/iota)
+15. **IOTA Exchange**: IOTA wird wohl bald auf Kraken gelistet: [Kraken New Listings](https://www.kraken.com/de/listings); [https://www.kraken.com/de/prices/iota](https://www.kraken.com/de/prices/iota)
+16. **Crypto Adoption**: Coinbase Partnerschaft mit Uniswap: [Tweet](https://x.com/AltcoinDailyio/status/1902247268713140534)
+17. **IOTA Ökosystem**: [iotalabs retweetet](https://x.com/iotalabs_/status/1902366954330980661) den [Tweet von TokenLabs](https://x.com/TokenLabsX/status/1901713709799510017) über Video Tutorials die sie bald veröffentlichen wollen
+18. **IOTA Ökosystem**: [Dom tweetet](https://x.com/DomSchiener/status/1902122103119474891) über ein digital identity Rüstungs beschaffungsprojekt das scheinbar IOTA verwendet: [What’s a defence Digital Product Passport? IOTA 2 provides answers](https://eda.europa.eu/news-and-events/news/2025/03/13/what-s-a-defence-digital-product-passport-iota-2-provides-answers)
