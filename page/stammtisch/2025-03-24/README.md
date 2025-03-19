@@ -12,7 +12,7 @@
 10. **Crypto Adoption**: Interview zur Bitcoin Reserve Strategie: [Tweet](https://x.com/AltcoinDailyio/status/1902074126241521739)
 11. **Allg. News**: Putin und Trump haben telefoniert: [Kremlin Statement](https://x.com/BNODesk/status/1902051909244235896); [Tweet von US Pressesprecherin](https://x.com/PressSec/status/1902049487457071248); [Tweet von Trump](https://x.com/TrumpDailyPosts/status/1902070224649678873); Offizielles Schreiben vom White House: [Tweet](https://x.com/TrumpDailyPosts/status/1902065480623649159)
 12. **Crypto Adoption**: Ripple vs. SEC Gerichtsverhandlung ist vorbei: [Tweet](https://x.com/IvanOnTech/status/1902348702779379971)
-13. **IOTA Exchange**: IOTA/USDC Traiding Paar auf Binance: [Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2025-03-20](https://www.binance.com/en/support/announcement/detail/49d9f5fa7c904f59bd77ae3535f699f0)
+13. **IOTA Exchange**: IOTA/USDC Traiding Paar auf Binance: [Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2025-03-20](https://www.binance.com/en/support/announcement/detail/49d9f5fa7c904f59bd77ae3535f699f0); [Phylo bedankt sich](https://x.com/PhyloIota/status/1902259988279812142)
 14. **IOTA Promote**: Die IOTA Amabassador Token sollen onchain gehen: [Tweet](https://x.com/3rdEclips3/status/1902351455279051121)
 15. **IOTA Exchange**: IOTA wird wohl bald auf Kraken gelistet: [Kraken New Listings](https://www.kraken.com/de/listings); [https://www.kraken.com/de/prices/iota](https://www.kraken.com/de/prices/iota)
 16. **Crypto Adoption**: Coinbase Partnerschaft mit Uniswap: [Tweet](https://x.com/AltcoinDailyio/status/1902247268713140534)
