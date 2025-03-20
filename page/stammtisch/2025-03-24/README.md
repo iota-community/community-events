@@ -7,7 +7,7 @@
 5. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1902002033059582209) über ihr Closed Alpha - Dev Update
 6. **IOTA Event**: [TangleTalk tweetet](https://x.com/tangle_talk/status/1901992507426116016) über ein IOTA Meetup in Hamburg
 7. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1902012659924353197) über ein neues Portal
-8. **IOTA Promote**: Influenzer posten über IOTA: [Tweet (1,2mio follower)](https://x.com/BSCNews/status/1902012126727667736); [Tweet (120K)](https://x.com/CryptoMiners_Co/status/1902297822042714484); [Tweet (340K Follower)](https://x.com/wiseadvicesumit/status/1901731515479826812)
+8. **IOTA Promote**: Influenzer posten über IOTA: [Tweet (1,2mio follower)](https://x.com/BSCNews/status/1902012126727667736); [Tweet (120K)](https://x.com/CryptoMiners_Co/status/1902297822042714484); [Tweet (340K Follower)](https://x.com/wiseadvicesumit/status/1901731515479826812); [Tweet (144K)](https://x.com/top7ico/status/1902401653841572107); [Tweet (200K Follower)](https://x.com/mominsaqib/status/1902708237499027954)
 9. **IOTA Intern**: [IotaPenguin (Stefan) tweetet](https://x.com/iota_penguin/status/1901995252635808247) darüber, dass er jetzt bei der IF ist
 10. **Crypto Adoption**: Interview zur Bitcoin Reserve Strategie: [Tweet](https://x.com/AltcoinDailyio/status/1902074126241521739)
 11. **Allg. News**: Putin und Trump haben telefoniert: [Kremlin Statement](https://x.com/BNODesk/status/1902051909244235896); [Tweet von US Pressesprecherin](https://x.com/PressSec/status/1902049487457071248); [Tweet von Trump](https://x.com/TrumpDailyPosts/status/1902070224649678873); Offizielles Schreiben vom White House: [Tweet](https://x.com/TrumpDailyPosts/status/1902065480623649159)
@@ -18,3 +18,9 @@
 16. **Crypto Adoption**: Coinbase Partnerschaft mit Uniswap: [Tweet](https://x.com/AltcoinDailyio/status/1902247268713140534)
 17. **IOTA Ökosystem**: [iotalabs retweetet](https://x.com/iotalabs_/status/1902366954330980661) den [Tweet von TokenLabs](https://x.com/TokenLabsX/status/1901713709799510017) über Video Tutorials die sie bald veröffentlichen wollen
 18. **IOTA Ökosystem**: [Dom tweetet](https://x.com/DomSchiener/status/1902122103119474891) über ein digital identity Rüstungs beschaffungsprojekt das scheinbar IOTA verwendet: [What’s a defence Digital Product Passport? IOTA 2 provides answers](https://eda.europa.eu/news-and-events/news/2025/03/13/what-s-a-defence-digital-product-passport-iota-2-provides-answers)
+19. **IOTA Grants**: Die [IF tweetet](https://x.com/iota/status/1902721805380632617) über ein [IOTA Business Innovation Program - Build Real-World Solutions on IOTA](https://blog.iota.org/iota-business-innovation-program/)
+20. **IOTA Gaming**: Es gab ein [Thread von Uruk Bartas](https://x.com/UrukBartas/status/1902456400476807618) über ein größeres Update von ihrem Spiel: [game.urukbartas.com](https://game.urukbartas.com/)
+21. **Tangle Ökosystem**: [GroupFi tweetet](https://x.com/groupfi_ai/status/1902695189434507404) darüber, dass sie ein Seed-Funding bekommen haben
+22. **Crypto Adoption**: Artikel: [Erste Future SOL ETFs in den USA - Ab morgen: Neue Solana ETFs kommen an die Wall Street](https://www.btc-echo.de/schlagzeilen/ab-morgen-neue-solana-etfs-kommen-an-die-wall-street-204017/?utm_content=buffer91f50&utm_medium=social&utm_source=x.com&utm_campaign=buffer)
+23. **Crypto Adoption**: Hier der [Live Stream von Trump auf dem Crpyto Summit in New York](https://x.com/FurkanCCTV/status/1902721707875389518)
+24. **IOTA Ökosystem**: [BeerX tweetet](https://x.com/Beermaniota/status/1902736638348034174) über ein Giveaway und ihre Webseite: [beerx.xyz](https://www.beerx.xyz/)
