@@ -24,3 +24,16 @@
 22. **Crypto Adoption**: Artikel: [Erste Future SOL ETFs in den USA - Ab morgen: Neue Solana ETFs kommen an die Wall Street](https://www.btc-echo.de/schlagzeilen/ab-morgen-neue-solana-etfs-kommen-an-die-wall-street-204017/?utm_content=buffer91f50&utm_medium=social&utm_source=x.com&utm_campaign=buffer)
 23. **Crypto Adoption**: Hier der [Live Stream von Trump auf dem Crpyto Summit in New York](https://x.com/FurkanCCTV/status/1902721707875389518)
 24. **IOTA Ökosystem**: [BeerX tweetet](https://x.com/Beermaniota/status/1902736638348034174) über ein Giveaway und ihre Webseite: [beerx.xyz](https://www.beerx.xyz/)
+25. **IOTA Promote**: [Chain Broker tweetet](https://x.com/chain_broker/status/1902412251581329675), dass IOTA beim "DEVELOPMENT ACTIVITY GROWTH" +245% gemacht hat
+26. **IOTA Transfer**: Jemand hat  80,499,049 $IOTA (15,095,906 USD) versendet: [Tweet](https://x.com/tanglelytics/status/1902657230698389559)
+27. **Crypto Adoption**: Der US Crypto Beaftragte trifft sich in der UAE um über Crypto und Bitcoin zu reden: [Tweet](https://x.com/BitcoinMagazine/status/1902897333710336380)
+28. **Crypto? Adotpion**: UAE investiert $1,4 Milliarden in den USA für Ki und Energie Infrastruktur: [Tweet](https://x.com/LindaTangUSA/status/1903143427459650038)
+29. **IOTA Promote**: Auf Binance wird bei IOTA ein Feuer (Hot coin?) eingeblendet: [Tweet](https://x.com/Vrom14286662/status/1903015134747832543)
+30. **IOTA Adoption**: [3XL tweetet](https://x.com/3xl_app/status/1903019835329585630) darüber, dass sie dem IOTA Business Innovation Program beitreten und Basketball digitalisieren wollen. Sie wollen eine Open Basketball League gründen, die Spielern und Communities weltweit durch Web3 mehr Möglichkeiten bietet.
+31. **IOTA Hype**: [Dom tweetet](https://x.com/DomSchiener/status/1903356328979951630), dass IOTA Rebased schneller sein wird
+32. **IOTA Youtube**: [Kutkraft tweetet](https://x.com/kutkraft/status/1903341568435818643) über sein neues Video: [IOTA to be listed on one of the biggest US exchanges, and, we are introduced to IOTA Identity.](https://www.youtube.com/watch?v=xMuMXyXQD0Q)
+33. **Crypto Adotpion**: Kraken verbreitet Fakenews, dass das Bitcoin Whitepaper im White House präsentiert wird: [Tweet](https://x.com/krakenfx/status/1903510367587745866); Es war nur die US_Unabhängigkeitserklärung die gezeigt wurde: [Tweet](https://x.com/Acyn/status/1902507718176600554)
+34. **Tangle Ökosystem**: [TAN tweetet](https://x.com/tan_technology/status/1903722209560133953), dass ihr Netzwerk am 31.3. startet: [Carrying the Tangle Torch — $TAN Token Launch on March 31, 2025](https://medium.com/@TAN.Technology/carrying-the-tangle-torch-tan-token-launch-on-march-31-2025-76874fea2714)
+35. **Move Adoption**: [Sabri Goldberg tweetet](https://x.com/sabrigoldberg/status/1903762043494113304) von seinen Erfahrungen Move zu lernen
+36. **IOTA Audio**: [Kutkraft tweetet](https://x.com/kutkraft/status/1903704785100103931), dass er wohl bald X-Spaces machen will: [IOTA, crypto and stuff](https://x.com/i/spaces/1YpJkBMXEOBGj)
+37. **Allg. News**: Wir sollten man über Pyramiden reden...
