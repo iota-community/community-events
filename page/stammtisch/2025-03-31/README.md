@@ -1,7 +1,7 @@
 ## IOTA Stammtischthemen für Montag, den 31.3.2025
 
 1. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1904473370810626286) darüber, dass sie vom WEF eingeladen wurden
-2. **IOTA Promote**: Influencer tweeten über IOTA: [Tweet (130K Follower)](https://x.com/blackbeardXBT/status/1904419569701105963); [Tweet (680K Follower)](https://x.com/MartiniGuyYT/status/1904515909558935802); [Tweet (170K Follower)](https://x.com/0xChainMind/status/1904496972481941801); [Tweet (160K Follower)](https://x.com/thecryptomonk/status/1904581237546659877); [Tweet (80K Follower)](https://x.com/blazing420s/status/1904783091870073074); [Tweet (250K Follower)](https://x.com/QuintenFrancois/status/1904798614305857845); [Tweet (470K Follower)](https://x.com/AltCryptoGems/status/1904847045078188101)
+2. **IOTA Promote**: Influencer tweeten über IOTA: [Tweet (130K Follower)](https://x.com/blackbeardXBT/status/1904419569701105963); [Tweet (680K Follower)](https://x.com/MartiniGuyYT/status/1904515909558935802); [Tweet (170K Follower)](https://x.com/0xChainMind/status/1904496972481941801); [Tweet (160K Follower)](https://x.com/thecryptomonk/status/1904581237546659877); [Tweet (80K Follower)](https://x.com/blazing420s/status/1904783091870073074); [Tweet (250K Follower)](https://x.com/QuintenFrancois/status/1904798614305857845); [Tweet (470K Follower)](https://x.com/AltCryptoGems/status/1904847045078188101); [Tweet (100K Follower)](https://x.com/kurcenli34/status/1904996435365617870); [Tweet (380K Follower)](https://x.com/MerlijnTrader/status/1905213208568512948)
 3. **Crypto Adoption**: Blackrock startet Bitcoin ETP in Europa: [Tweet](https://x.com/BTC_Archive/status/1904463475235024980)
 4. **Tangle Entertain**: Der Tangle verabschiedet sich am Nachthimmel (Space X Rakete): [Tweet](https://x.com/volcaholic1/status/1904308984149856522)
 5. **Crypto Drama**: BitBoy wurde verhaftet: [Tweet](https://x.com/Cointelegraph/status/1904737896030232626)
@@ -17,4 +17,10 @@
 15. **IOTA Grants**: Die [Tangle Community Treassurry tweetet](https://x.com/TangleTreasury/status/1904762769934868745) über ihr [Grants Program](https://t.co/vQXTx3fwkD) bei dem man sich anmelden kann
 16. **IOTA EVM Adoption**: [DefiLama tweetet](https://x.com/DefiLlama/status/1904634414883364956) darüber, dass sie ein "IOTA Fees & Revenue Dashboard" hinzugefügt haben
 17. **IOTA Hackathon**: Die [IF tweetet](https://x.com/iota/status/1904868083858051190) über den [Moveathon.build](https://www.moveathon.build/) der bald startet
-18. 
+18. **IOTA Promote**: [Lark Davis (1,3mio Follower) tweetet](https://x.com/TheCryptoLark/status/1904986061547155859) ein Video von sich in dem er IOTA Rebased erklärt
+19. **IOTA Promote**: [Iotalabs macht ein Thread](https://x.com/iotalabs_/status/1904927692836745482) über IOTA Rebased. Sie schreiben u.a. "Your current IOTA tokens will automatically migrate—same addresses and no manual steps."
+20. **IOTA Event**: [iota tweetet](https://x.com/iota/status/1904960924856770633) ein paar Bilder von dem Event in Washington DC, auf dem Dom Schiener gesprochen hat; [Tweet über ein Livestream](https://x.com/GMZeusINV/status/1904878639251939777) von dem Event
+21. **IOTA Audio**: [Nightly tweetet](https://x.com/Nightly_app/status/1904900900012851420) über ein [X-Spaces mit Dom]()
+22. **Tangle Ökosystem**: [TAN tweetet](https://x.com/tan_technology/status/1905179477115822468) darüber, dass sie am 31.3. ihr Netzwerk starten
+23. **Crypto Drama**: Die SPD will Steuern auf Kryptogewinne einführen und die 1 Jahres Regel abschaffen: [Koalitionsverhandlungen mit CDU/CSU: SPD will Jahresfrist auf Bitcoin- und Krypto-Gewinne abschaffen!](v)
+24. 
