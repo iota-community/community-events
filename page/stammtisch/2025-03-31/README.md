@@ -23,4 +23,7 @@
 21. **IOTA Audio**: [Nightly tweetet](https://x.com/Nightly_app/status/1904900900012851420) über ein [X-Spaces mit Dom]()
 22. **Tangle Ökosystem**: [TAN tweetet](https://x.com/tan_technology/status/1905179477115822468) darüber, dass sie am 31.3. ihr Netzwerk starten
 23. **Crypto Drama**: Die SPD will Steuern auf Kryptogewinne einführen und die 1 Jahres Regel abschaffen: [Koalitionsverhandlungen mit CDU/CSU: SPD will Jahresfrist auf Bitcoin- und Krypto-Gewinne abschaffen!](v)
-24. 
+24. **IOTA Regulatory Affairs**: Es gab 2 neue Blogposts vom IF Team Regulatory Affairs heraus: [IOTA Foundation's Response to FATF’s AML/CFT Standards](https://blog.iota.org/fatf-aml-cft-standards-response/); [Kenya’s Virtual Asset Law: Key ProposalsIOTA Foundation’s Feedback on Kenya’s VASPs Bill](https://blog.iota.org/kenya-virtual-asset-law-proposals/)
+25. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1905258516387946961) über das [IOTA Business Innovation Program - Build Real-World Solutions on IOTA](https://blog.iota.org/iota-business-innovation-program/)
+26. **IOTA Rabased Dev**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1905263439251165492) über ihre Tools die jeder Developer nutzen kann: [Create IOTA App CLI](https://create-iota-app.vercel.app/)
+27. 
