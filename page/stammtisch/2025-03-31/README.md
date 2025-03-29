@@ -32,3 +32,6 @@
 30. **IOTA Development**: Es gab ein neues [Devnet Release](https://github.com/iotaledger/iota/releases)
 31. **IOTA Ökosystem**: [ApeDAO tweetet](https://x.com/0xApeDAO/status/1905324126774198374), dass sie wohl auf IOTA Rebased gehen werden
 32. **IOTA Promote**: Neues Video frägt ob IOTA das neue SUI wird: [Tweet mit Video](https://x.com/cryptopizzagirl/status/1905308945368948872)
+33. **Tangle Ökosystem**: [TAN tweetet](https://x.com/tan_technology/status/1905914545224466451), dass ihr Stardust Netzwerk gestartet ist und verlinken ihren [Hornet-Explorer](https://api.tan.technology/dashboard/explorer)
+34. **IOTA Rebased Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1905901808549081174) über ihren neuen [Staking Explorer](https://dlt.green/de/services/staking-explorer)
+35. **IOTA Audio**: [Kutkraft X-Spaces](https://x.com/kutkraft/status/1905789314434580876)
