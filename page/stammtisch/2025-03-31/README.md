@@ -20,10 +20,15 @@
 18. **IOTA Promote**: [Lark Davis (1,3mio Follower) tweetet](https://x.com/TheCryptoLark/status/1904986061547155859) ein Video von sich in dem er IOTA Rebased erklärt
 19. **IOTA Promote**: [Iotalabs macht ein Thread](https://x.com/iotalabs_/status/1904927692836745482) über IOTA Rebased. Sie schreiben u.a. "Your current IOTA tokens will automatically migrate—same addresses and no manual steps."
 20. **IOTA Event**: [iota tweetet](https://x.com/iota/status/1904960924856770633) ein paar Bilder von dem Event in Washington DC, auf dem Dom Schiener gesprochen hat; [Tweet über ein Livestream](https://x.com/GMZeusINV/status/1904878639251939777) von dem Event
-21. **IOTA Audio**: [Nightly tweetet](https://x.com/Nightly_app/status/1904900900012851420) über ein [X-Spaces mit Dom]()
+21. **IOTA Audio**: [Nightly tweetet](https://x.com/Nightly_app/status/1904900900012851420) über ein [X-Spaces mit Dom](https://x.com/Nightly_app/status/1905236106460741701)
 22. **Tangle Ökosystem**: [TAN tweetet](https://x.com/tan_technology/status/1905179477115822468) darüber, dass sie am 31.3. ihr Netzwerk starten
 23. **Crypto Drama**: Die SPD will Steuern auf Kryptogewinne einführen und die 1 Jahres Regel abschaffen: [Koalitionsverhandlungen mit CDU/CSU: SPD will Jahresfrist auf Bitcoin- und Krypto-Gewinne abschaffen!](v)
 24. **IOTA Regulatory Affairs**: Es gab 2 neue Blogposts vom IF Team Regulatory Affairs heraus: [IOTA Foundation's Response to FATF’s AML/CFT Standards](https://blog.iota.org/fatf-aml-cft-standards-response/); [Kenya’s Virtual Asset Law: Key ProposalsIOTA Foundation’s Feedback on Kenya’s VASPs Bill](https://blog.iota.org/kenya-virtual-asset-law-proposals/)
 25. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1905258516387946961) über das [IOTA Business Innovation Program - Build Real-World Solutions on IOTA](https://blog.iota.org/iota-business-innovation-program/)
 26. **IOTA Rabased Dev**: [NakamaLabs tweetet](https://x.com/Nakama_Labs/status/1905263439251165492) über ihre Tools die jeder Developer nutzen kann: [Create IOTA App CLI](https://create-iota-app.vercel.app/)
-27. 
+27. **IOTA Ökosystem**: [Tokenized.id tweeetet](https://x.com/tokenizeitHQ/status/1905545395402318215) über [DLT.GREEN](https://dlt.green/de), "a pioneer in #DeFi infrastructure in Austria" als ihren ersten Österreichischen Kunden und verlinkt das [Interview mit DLT.DREEN](https://www.tokenize.it/en/resources/blog/dlt-green)
+28. **IOTA Entertain**: [Holger Köther tweetet](https://x.com/HolgerKoether/status/1905568728936218879) über die XFounders-Serie in der er mitgespielt hat: [XFounders Startup Warriors | Episode 1](https://www.youtube.com/watch?v=p1dvCSfnYK8)
+29. **Crypto Adoption**: US-Senatorin Lummis will Bitcoin-Reserve der USA durch Mining vergrößern: [Tweet](https://x.com/blocktrainer/status/1905415530036474061)
+30. **IOTA Development**: Es gab ein neues [Devnet Release](https://github.com/iotaledger/iota/releases)
+31. **IOTA Ökosystem**: [ApeDAO tweetet](https://x.com/0xApeDAO/status/1905324126774198374), dass sie wohl auf IOTA Rebased gehen werden
+32. **IOTA Promote**: Neues Video frägt ob IOTA das neue SUI wird: [Tweet mit Video](https://x.com/cryptopizzagirl/status/1905308945368948872)
