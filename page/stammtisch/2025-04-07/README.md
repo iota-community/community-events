@@ -10,4 +10,4 @@
 8. **Crypto Adoption**: Die SEC will ein RWA roundtable halten: [Tweet](https://x.com/RWAwatchlist_/status/1907421312793948337)
 9. **IOTA Promote**: IOTA Influenzer tweeten über IOTA: [Tweet (190K Follower)](https://x.com/mominsaqib/status/1907744889028358263)
 10. **IOTA Rebased**: Neues Devnet Prerelease: [[Devnet] v0.11.5-beta ](https://github.com/iotaledger/iota/releases/tag/v0.11.5-beta)
-11. 
+11. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1907780130375627087) über ihren Blogpost: [IOTA Foundation's Response to FATF’s AML/CFT Standards](https://blog.iota.org/fatf-aml-cft-standards-response/)
