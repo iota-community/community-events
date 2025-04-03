@@ -4,4 +4,8 @@
 2. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1906693093446852659) nochmal über den Moveathon
 3. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1906738368194465853) über die [IOTA Quicktakes](https://x.com/iota/status/1906738368194465853)
 4. **IOTA Progress Report**: Die [IF macht einen Thread](https://x.com/iota/status/1907055355214872923) über den [Q1 2025 Progress Report](https://blog.iota.org/q12025-progress-report/)
-5. 
+5. **Allg. News**: Trump erhöht die Zölle, die Märkte reagieren negativ: [Tweet](https://x.com/HKCMNews/status/1907698023095795873)
+6. **IOTA Ökosystem**: [Uruk Bartas tweetet](https://x.com/UrukBartas/status/1907460993623457841) über ein Update von ihrem Spiel:
+7. **Crypto Adoption**: Trump und Bukele wollen sich treffen: [Bukele tweetet](https://x.com/BitcoinMagazine/status/1907515168768008301) ein Bild der beiden mit Laser Augen
+8. **Crypto Adoption**: Die SEC will ein RWA roundtable halten: [Tweet](https://x.com/RWAwatchlist_/status/1907421312793948337)
+9. 
