@@ -8,7 +8,7 @@
 6. **IOTA Ökosystem**: Die [Uruk Bartas tweeten](https://x.com/UrukBartas/status/1907460993623457841) über ein Update von ihrem Spiel
 7. **Crypto Adoption**: Trump und Bukele wollen sich treffen: [Bukele tweetet](https://x.com/BitcoinMagazine/status/1907515168768008301) ein Bild von den beiden mit Laser Augen
 8. **Crypto Adoption**: Die SEC will ein RWA Roundtable abhalten: [Tweet](https://x.com/RWAwatchlist_/status/1907421312793948337)
-9. **IOTA Promote**: IOTA Influenzer tweeten über IOTA: [Tweet (190K Follower)](https://x.com/mominsaqib/status/1907744889028358263); [Tweet (150K Folower)](https://x.com/TeddyCleps/status/1908027961489465845)
+9. **IOTA Promote**: IOTA Influenzer tweeten über IOTA: [Tweet (190K Follower)](https://x.com/mominsaqib/status/1907744889028358263); [Tweet (150K Folower)](https://x.com/TeddyCleps/status/1908027961489465845); [Tweet (330K Follower)](https://x.com/ByCoinvo/status/1908905034429223142)
 10. **IOTA Rebased**: Neues Devnet Prerelease: [[Devnet] v0.11.5-beta ](https://github.com/iotaledger/iota/releases/tag/v0.11.5-beta)
 11. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1907780130375627087) über ihren Blogpost: [IOTA Foundation's Response to FATF’s AML/CFT Standards](https://blog.iota.org/fatf-aml-cft-standards-response/)
 12. **Crypto Video**: [Kutkraft tweetet](https://x.com/kutkraft/status/1908060978346078714) über sein neues Video: [RWAs are one of the MAJOR crypto narratives.. IOTA is building up to bring them on chain.](https://www.youtube.com/watch?v=pp2Xnak6gqA)
@@ -22,3 +22,6 @@
 20. **IOTA Moveathon**: Die [IF tweetet](https://x.com/iota/status/1909147588663591309) den Link zum Zoom Meeting von der Eröffnungansprache des [Moveathons](https://www.moveathon.build/) mit Dom. Sie wollen das später auf Youtube hochladen: [Tweet](https://x.com/iota/status/1909151140530299035)
 21. **Allg. News**: Trump erhebt die Zölle und die Märkte crashen. Bitcoin steht am Montag nur noch bei $75K und der S&P Index verzeichnet seinen größten Rückgang über 3 Tage seit 1987: [Tweet](https://x.com/unusual_whales/status/1909004135162417467)
 22. **IOTA Exchange**: Das Trading Volumen bei IOTA ist am Montag scheinbar um 200% gestiegen: [Tweet](https://x.com/tanglelytics/status/1909139096745705779)
+23. **IOTA Event**: Die [IF retweetet](https://x.com/iota/status/1909211802912649721) den [Tweet von Morningstar Venture](https://x.com/Morningstar_VC/status/1909195702229721241) über ein Event am 1. Mai in Dubai: [On the Move: Morning with IOTA](https://t.co/ZUYZrVldPb)
+24. **Crypto Adoption**: Pakistan stellt ehem. Binance CEO als "Crypto Advisor" ein: [Tweet](https://x.com/BitcoinMagazine/status/1909239532173570185)
+25. **IOTA Event**: [TLIP tweetet](https://x.com/TLIP_io/status/1909221940113399976) über das Event " #TradeTechForum2025!" in Abu Dhabi; [Phylo retweetet](https://x.com/PhyloIota/status/1909244991341580724) das
