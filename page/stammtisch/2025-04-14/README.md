@@ -6,3 +6,4 @@
 4. **Crypto Adoption**: [Holger Köther tweetet](https://x.com/HolgerKoether/status/1909481290966896839) über ein Crypto/Micar Event bei der Frankfurt School of Finance. Er sagt, dass Stablecoins und RWAs das nächste große Ding sind und erwähnt auch iota...
 5. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1909501475719381489) über den heutigen Event "TradeTech Forum 2025 in Abu Dhabi" wo über TWIN aber auch über TLIP gesprochen wird: [Tweet](https://x.com/iota/status/1909501479884378398); Das Event wird von dem Ministerium von Abu Dhabi gehostet: [Tweet](https://x.com/iota/status/1909501483860582734)
 6. **IOTA Video**: Hier ist das Video von der Moveathon Eröfnungszeremonie: [IOTA #MOVEATHON - Welcome Ceremony 07.04.2025](https://t.co/f5doIrqXXf)
+7. **IOTA Rebased**: Neues blaues Logo auf [coinmarketcap.com/currencies/iota/](https://coinmarketcap.com/currencies/iota/)
