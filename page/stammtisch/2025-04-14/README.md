@@ -15,5 +15,6 @@
 13. **Crypto News**: Die Bitcoin Hashrate hat ein neues Maximum erreicht: [Tweet](https://x.com/rovercrc/status/1909872327291985935)
 14. **Crypto Event**: [Holger Köther tweetet](https://x.com/HolgerKoether/status/1909920731871257022) über den IOT Solutions World Congress (über "IoT, AI, and cutting-edge technologies") im Mai an dem er teilnimmt
 15. **IOTA Event**: [TLIP retweetet](https://x.com/TLIP_io/status/1909933793772789835) den [Tweet von Kenya Chamber](https://x.com/kenya_chamber/status/1909711088305742109) über das [WCF Africa Summit](https://2go.iccwbo.org/wcf-africa-summit-2025-africa-s-global-future.html), auf dem jemand von der IOTA Foundation spricht
-16. **IOTA Hackathon**: Die [IF tweetet](https://x.com/iota/status/1909878961422708874) über das [Moveathon Zoom Meeting: workshop & get hands-on with the #IOTA Tech Stack](https://x.com/iota/status/1909878961422708874) vom 10. April; Auch [Dom retweetet](https://x.com/DomSchiener/status/1909887622517837930) das und erzählt von seinem damaligen Hackathon
-17. **
+16. **IOTA Hackathon**: Die [IF tweetet](https://x.com/iota/status/1909878961422708874) über das [Moveathon Zoom Meeting: workshop & get hands-on with the #IOTA Tech Stack](https://x.com/iota/status/1909878961422708874) vom 10. April; Auch [Dom retweetet](https://x.com/DomSchiener/status/1909887622517837930) das und erzählt von seinem damaligen Hackathon; Hier noch ein [Tweet von der IF](https://x.com/iota/status/1910233007895490802) dazu
+17. **Crypto Adoption**: Neuer SEC Chef ist Bitcoiner: [Tweet](https://x.com/WatcherGuru/status/1910116583302914127)
+18. 
