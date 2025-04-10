@@ -17,4 +17,5 @@
 15. **IOTA Event**: [TLIP retweetet](https://x.com/TLIP_io/status/1909933793772789835) den [Tweet von Kenya Chamber](https://x.com/kenya_chamber/status/1909711088305742109) über das [WCF Africa Summit](https://2go.iccwbo.org/wcf-africa-summit-2025-africa-s-global-future.html), auf dem jemand von der IOTA Foundation spricht
 16. **IOTA Hackathon**: Die [IF tweetet](https://x.com/iota/status/1909878961422708874) über das [Moveathon Zoom Meeting: workshop & get hands-on with the #IOTA Tech Stack](https://x.com/iota/status/1909878961422708874) vom 10. April; Auch [Dom retweetet](https://x.com/DomSchiener/status/1909887622517837930) das und erzählt von seinem damaligen Hackathon; Hier noch ein [Tweet von der IF](https://x.com/iota/status/1910233007895490802) dazu
 17. **Crypto Adoption**: Neuer SEC Chef ist Bitcoiner: [Tweet](https://x.com/WatcherGuru/status/1910116583302914127)
-18. 
+18. **Allg. News**: Trump hat den Supreme Court gefraft, ob er den Federal Reserve Vorsitzenden Jerome Powell feuern darf: [Tweet](https://x.com/pete_rizzo_/status/1910279197857059130)
+19. **IOTA Youtube**: [Kutkraft tweetet](https://x.com/kutkraft/status/1910288274628976885) über ein neues Video von ihm [Staking is set to...](https://youtu.be/_ZB1rtaG67s)
