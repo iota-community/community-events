@@ -19,3 +19,8 @@
 17. **Crypto Adoption**: Neuer SEC Chef ist Bitcoiner: [Tweet](https://x.com/WatcherGuru/status/1910116583302914127)
 18. **Allg. News**: Trump hat den Supreme Court gefraft, ob er den Federal Reserve Vorsitzenden Jerome Powell feuern darf: [Tweet](https://x.com/pete_rizzo_/status/1910279197857059130)
 19. **IOTA Youtube**: [Kutkraft tweetet](https://x.com/kutkraft/status/1910288274628976885) über ein neues Video von ihm [Staking is set to...](https://youtu.be/_ZB1rtaG67s)
+20. **IOTA Audio**: Am 25.4. gibt es einen TangleTalk mit Phylo: [Tweet](https://x.com/tangle_talk/status/1910598928904388884)
+21. **IOTA Event**: [TLIP tweetet](https://x.com/TLIP_io/status/1910384788877517092) über ein Event "World Congress of Families African Regional Conference"
+22. **IOTA Promote**: [Nightly tweetet](https://x.com/Nightly_app/status/1910343507685892324) über ihren Arktikel: [Why 2025 Could Be the Year IOTA Changes Everything](https://x.com/Nightly_app/status/1910343507685892324)
+23. **IOTA Promote**: [Stefan tweetet](https://x.com/iota_penguin/status/1910326545425539272) eine sehr positive Einschätzung zu IOTA Rebased "IOTA Rebased isn’t just another direction change. It’s the moment IOTA stops experimenting and starts executing..."
+24. **IOTA Ökosystem**: Neuer [Tweet von Ethosphere](https://x.com/ETOSPHERES/status/1910573543613489209) "...One SDK. All problems solved. "
