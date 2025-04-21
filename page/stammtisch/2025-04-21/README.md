@@ -32,5 +32,5 @@
 30. **IOTA Rebased Learn**: [Teun tweetet](https://x.com/teunvw5/status/1912999748128157980) über sein neues Tutorial: [Teun van Wezel's Tech Blog](https://teunvw14.github.io/posts/iota-move-access-control-patterns/)
 31. **IOTA Promote**: Meme Contest von FomoFox: [Tweet](https://x.com/iotalabs_/status/1913170649708720387)
 32. **Allg. News**: Der Papst ist gestorben kurz nachdem er nochmal den Ostersegen verkündet hat und nachdem JD. Vance ihn getroffen hat und gesagt hat: "It is good to see you in better health" [Tweet](https://x.com/clashreport/status/1914232933080088895)
-33. ****: [Swirl tweetet](https://x.com/swirlstake/status/1914295635760579070) darüber, dass sie Liquid Staking bei IOTA Rebased ermöglichen und man es jetzt schon im Testnetz ausprobieren kann; Auch [Phylo retweetet](https://x.com/PhyloIota/status/1914297227323089339) das
+33. **IOTA Ökosystem**: [Swirl tweetet](https://x.com/swirlstake/status/1914295635760579070) darüber, dass sie Liquid Staking bei IOTA Rebased ermöglichen und man es jetzt schon im Testnetz ausprobieren kann; Auch [Phylo retweetet](https://x.com/PhyloIota/status/1914297227323089339) das
 34. **IOTA Hype**: [Dom tweetet](https://x.com/DomSchiener/status/1914240313033470311) und schreibt: "gm hope you all have a lovely week 🫶 IOTA
