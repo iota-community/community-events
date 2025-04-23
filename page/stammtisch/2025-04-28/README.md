@@ -6,7 +6,17 @@
 4. **IOTA Audio**: Dom war im Tangle Talk: [Tweet](https://x.com/tangle_talk/status/1862525544153161936)
 5. **IOTA Event**: [Tweet](https://x.com/dx5ve/status/1914565976940573166) zu dem Event in Afrika am 30.Mai
 6. **IOTA Rebased Leak**: Im Artikel von cryptomonday steht der 5.5. alsIOTA Rebased Released Date: [IOTA präsentiert Roadmap für das Rebase-Upgrade: ‘Here We Go’](https://cryptomonday.de/news/2025/04/22/iota-praesentiert-roadmap-fuer-das-rebase-upgrade-here-we-go/)
-7. **IOTA Rebased**: Die [IF macht ein Thread]()
-8. 
-9. 
-10. 
+7. **IOTA REBASED START!!!!**: Die [IF macht ein Thread](https://x.com/iota/status/1914665629673574520) über [IOTA Rebased Mainnet Upgrade IOTA Rebased - When, What, and How: Everything You Need to Know](https://blog.iota.org/rebased-mainnet-upgrade/) und verkünden, dass am 5.5. das neue dezentrale IOTA Netzwerk startet; Hier der [Tweet von Dom](https://x.com/DomSchiener/status/1914672120488935835) dazu
+8. **IOTA Influencer**: [Tweet von Lark Davis (1,7mio Follower)](https://x.com/TheCryptoLark/status/1914613076915060758); [Tweet (80K Follower)](https://x.com/JoeParys/status/1914731248645509124); [Tweet (90K Follower)](https://x.com/Utoday_en/status/1914705399049052393); [Tweet (860K Follower)](https://x.com/MartiniGuyYT/status/1914755760539500809); [Tweet (800K Follower)](https://x.com/ibcig/status/1914995228311949659); [Tweet (160K Follower)](https://x.com/Overdose_AI/status/1914922025979686942); [Tweet (60K Follower)](https://x.com/blazing420s/status/1914948480033853901)
+9. **IOTA Ökosystem**: [coda tweetet](https://x.com/coda_digital/status/1914670775631491080), dass sie am Freitag starten mit Coda v.1
+10. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1914665662607155367) von einem [IOTA Rebased Townhall](https://x.com/i/broadcasts/1zqJVjzbPvpJB) am Mittwoch 23.04.
+11. **IOTA Hype**: [Alex Sport tweetet](https://x.com/alexsporn/status/1914669330593128765), dass der 5.5. nur der Start für viele weitere Verbeserungen ist. Er scriebt u.a.: "Es sind zahlreiche iterative Verbesserungen geplant, um IOTA zum besten Netzwerk für Entwickler und Benutzer zu machen."
+12. **Crypto Adoption**: Paul Atkinson, Vorsitzender der US-Börsenaufsichtsbehörde SEC unter Trump, sagt, dass die Schaffung einer soliden regulatorischen Grundlage für digitale Vermögenswerte oberste Priorität habe: [Tweet](https://x.com/BTC_Archive/status/1914798424139932064)
+13. **IOTA Ökosystem**: [Ecospheres tweetet](https://x.com/ETOSPHERES/status/1914979501529763895), dass dass "ETOPay IOTA Rebased vollständig unterstützen wird. ETOPay ist unser EU-konformes Krypto-Zahlungs-SDK, mit dem Unternehmen sichere Wallet-Lösungen mit integriertem KYC, Fiat-On/Off-Rampen und Multi-Währungs-Unterstützung integrieren können."
+14. **Crypto Pump**: Am Mittwoche steigt Bitcoin um 6% und ist vom Marketcap her wieder vor Google auf Platz 5: [Tweet](https://x.com/BitcoinMagazine/status/1914963956164075744)
+15. **IOTA Adoption**: [Dom retweetet](https://x.com/DomSchiener/status/1914975564709998631) einen Bericht über Matrazen Lieferanten Scam uns schreibt: "IOTA behebt dieses Problem mit digitalen Produktpässen. ..."
+16. **Allg. News**: [Dom tweetet](https://x.com/DomSchiener/status/1915014862909907279) von seinen Ki Investment, die gerade eine Funding Runde abgeschlossen haben: [Noxtua raises $92M for its sovereign AI tuned for the German legal system](https://techcrunch.com/2025/04/22/noxtua-raises-92m-for-its-sovereign-ai-tuned-for-the-german-legal-system/)
+17. **IOTA Ökosystem**: [Realize tweetet](https://x.com/realizefinance/status/1915024673932206094), über ihren Blogpost: [Realize to Launch on IOTA Rebased: Expanding the Future of Tokenization](https://blog.realizeassets.com/realize-to-launch-on-iota-rebased-expanding-the-future-of-tokenization/)
+18. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1915027889529012389), dass sie Gold Sponsor sind beim [BINANCE CLUBHOUSE TOKEN2049 DUBAI](https://www.binance.com/en/events/BinanceCH) nächste Woche
+19. 
+
