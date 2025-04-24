@@ -20,12 +20,13 @@
 18. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1915027889529012389), dass sie Gold Sponsor sind beim [BINANCE CLUBHOUSE TOKEN2049 DUBAI](https://www.binance.com/en/events/BinanceCH) nächste Woche; Hier noch ein [Tweet von Binance MENA](https://x.com/BinanceArabic/status/1915012811895328783) die auch IOTA erwähnen. Und selbst [Ronaldo tweetet](https://x.com/Cristiano/status/1914982579465281859) über das Event
 19. **IOTA Promote**: [Morningstar Veenture tweetet](https://x.com/Morningstar_VC/status/1915049261655576790) ein Video über IOTA das selbst die [IF retweetet](https://x.com/iota/status/1915055476729135378)
 20. **IOTA Moveathon**: Im [Tweet von der IF]() wird Dom wird als Jury Mitglied vorgestellt
-21. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1915092061826519166) von einem 2. Townhall Eventüber Staking: [IOTA Goes Staking...](https://x.com/i/spaces/1YqKDZbzzkDJV); [Phylo tweetet](https://x.com/PhyloIota/status/1915180452132119037) schon vorab über die Themen die besprochen werden
+21. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1915092061826519166) von einem 2. Townhall Event auf X über Staking: [IOTA Goes Staking...](https://x.com/i/spaces/1YqKDZbzzkDJV); [Phylo tweetet](https://x.com/PhyloIota/status/1915180452132119037) schon vorab über die Themen die besprochen werden
 22. **IOTA Soon**: [cyberperb tweetet](https://x.com/cyberperp/status/1915133206292283422) über ein Announcement das tags drauf kommen soll. Sie schreiben "We have a plan how to completely dominate Rebased network launch. Cyberperp will be nr1 in volume and fees."
 23. **Crypto Adoption**: Panama-Stadt unterzeichnet offiziell einen Vertrag mit einer lokalen Bank zur Abwicklung kommunaler Zahlungen in Bitcoin: [Tweet](https://x.com/BitcoinMagazine/status/1915208418840674809)
 24. **Crypto Adoption**: Neue Bitcoin Firma "Twenty One Capital" startet mit Jack Mallers als CEO und 42000 BTC. Ziel ist so viele Bitcoins einzusammeln wie möglich: [Tweet](https://x.com/blocktrainer/status/1915045895307202945)
 25. **Crypto Adoption**: Auch Metaplanet kauft weiter Bitcoin und die Strategie scheint aufzugehen: [Tweet](https://x.com/blocktrainer/status/1915324925948420144)
 26. **IOTA EVM Rebased**: Die [IF macht einen Thread](https://x.com/iota/status/1915299677051769120) über die IOTA EVM die man jetzt im IOTA Rebased Testnetz testen kann
 27. **Crypto Drama**: Trumps Meme Coin pumpt weil er die größten Holder zu einen Event einladen will: [Tweet](https://x.com/KobeissiLetter/status/1915131779486282194)
-28. 
+28. **Crypto Adoption**: Die SEC spricht mit El Salvador wegen Crypto: [Tweet](https://x.com/RWAwatchlist_/status/1915394400185733629)
+29. **IOTA Steuern**: Wir müssen mal wieder über Steuern, bzw. versteuern von Staking Rewards bei IOTA Rebased reden: [Tweet](https://x.com/IOTA_TCG/status/1915400948173705515)
 
