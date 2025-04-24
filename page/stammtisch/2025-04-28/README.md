@@ -29,4 +29,6 @@
 27. **Crypto Drama**: Trumps Meme Coin pumpt weil er die größten Holder zu einen Event einladen will: [Tweet](https://x.com/KobeissiLetter/status/1915131779486282194)
 28. **Crypto Adoption**: Die SEC spricht mit El Salvador wegen Crypto: [Tweet](https://x.com/RWAwatchlist_/status/1915394400185733629)
 29. **IOTA Steuern**: Wir müssen mal wieder über Steuern, bzw. versteuern von Staking Rewards bei IOTA Rebased reden: [Tweet](https://x.com/IOTA_TCG/status/1915400948173705515)
+30. **Crypto Adoption**: PayPal Partnerschaft mit Coinbase bzgl. Stablecoin: [Tweet von Coinbase](https://x.com/coinbase/status/1915392709579178484)
+31. 
 
