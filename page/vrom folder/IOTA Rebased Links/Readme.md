@@ -13,5 +13,12 @@ Already working dApps:
 4. Staking Explorer: [dlt.green/de/services/staking-explorer](https://dlt.green/de/services/staking-explorer)
 5. First Game: [iotaflip.netlify.app](https://iotaflip.netlify.app/)
 
+Upcoming dApps for IOTA Rebased:
+1. Lending: [Deepr.finance](https://www.deepr.finance/)
+2. NFT: [figment.exchange](https://www.figment.exchange/)
+3. RWA: [realize.finance](https://realize.finance/)
+4. Stable Coin: [virtue.money](https://virtue.money/)
+
+
 For IOTA Developer:
 1. [Create IOTA App CLI](https://create-iota-app.vercel.app/)
