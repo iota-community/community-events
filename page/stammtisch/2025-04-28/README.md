@@ -36,5 +36,6 @@
 34. **IOTA Ökosystem**: [Coda tweetet](https://x.com/coda_digital/status/1915707357176488295), dass sie am Fr. um 18 Uhr live gehen mit [coda V1](https://www.coda.to/)
 35. **Crypto Adoption**: [Holger Köther tweetet](https://x.com/HolgerKoether/status/1915698280782061856) über ETO Pay, die "All-in-One-SDK Lösung für Zahlung, Konvertierung und Buchhaltung zur reibungslosen Integration von Krypto und Stablecoin."
 36. **IOTA Ökosystem**: [Lord Alexander tweetet](https://x.com/shortaktien/status/1915696331999346960) über eine Social Media Plattform wo man für Likes IOTA bekommt (an der er baut?!?)
-37. 
+37. **IOTA Event**: Dom wird als Keynote Speaker in Afrika [IOTA East Africa Web3 Innovation Summit](https://events.cioafrica.co/iota-east-africa-web3-innovation-summit) vorgestellt: [Tweet](https://x.com/dx5ve/status/1915749069286162449)
+38. **IOTA Promote**: IOTA führt beim Community Sentiment auf CoinmarketCap: [coinmarketcap.com/de/sentiment](https://coinmarketcap.com/de/sentiment/)
 
