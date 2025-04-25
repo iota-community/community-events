@@ -11,6 +11,7 @@ Already working dApps:
 2. Launchpad: [pools.finance/launch](https://www.pools.finance/launch/)
 3. Liquid Staking: [testnet.swirlstake.com/app](https://testnet.swirlstake.com/app/)
 4. Staking Explorer: [dlt.green/de/services/staking-explorer](https://dlt.green/de/services/staking-explorer)
+5. First Game: [iotaflip.netlify.app](https://iotaflip.netlify.app/)
 
 For IOTA Developer:
 1. [Create IOTA App CLI](https://create-iota-app.vercel.app/)
