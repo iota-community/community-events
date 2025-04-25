@@ -6,7 +6,7 @@ Wallets:
    
 (All wallets are Ledger compatible, but you need the new IOTA App on your Ledger Device => Download the App to your Ledger Devide in your Ledger Live application)
 
-Already working dApps:
+Already working dApps for IOTA Rebased:
 1. DEX: [pools.finance](https://www.pools.finance/)
 2. Launchpad: [pools.finance/launch](https://www.pools.finance/launch/)
 3. Liquid Staking: [testnet.swirlstake.com/app](https://testnet.swirlstake.com/app/)
