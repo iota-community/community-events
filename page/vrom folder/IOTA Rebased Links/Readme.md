@@ -10,3 +10,7 @@ Already working dApps:
 1. DEX: [pools.finance](https://www.pools.finance/)
 2. Launchpad: [pools.finance/launch](https://www.pools.finance/launch/)
 3. Liquid Staking: [testnet.swirlstake.com/app](https://testnet.swirlstake.com/app/)
+4. Staking Explorer: [dlt.green/de/services/staking-explorer](https://dlt.green/de/services/staking-explorer)
+
+For IOTA Developer:
+1. [Create IOTA App CLI](https://create-iota-app.vercel.app/)
