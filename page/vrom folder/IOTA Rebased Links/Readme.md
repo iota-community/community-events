@@ -21,6 +21,9 @@ Upcoming dApps for IOTA Rebased:
 5. Leverage Trading: [app.cyberperp.io](https://app.cyberperp.io/) to be announced on [x.com/cyberperp](https://x.com/cyberperp)
 6. Modular Web3 Service Suite: [etospheres.com]([https://x.com/ETOSPHERES](https://etospheres.com/)) to be announced on [x.com/ETOSPHERES](https://x.com/ETOSPHERES)
 
+Apps using IOTA Technology:
+1. Digital Identity: [auvo.io](https://www.auvo.io/)
+
 
 For IOTA Developer:
 1. [Create IOTA App CLI](https://create-iota-app.vercel.app/) from [NakamaLabs](https://x.com/Nakama_Labs)
