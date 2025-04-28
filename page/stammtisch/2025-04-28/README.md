@@ -33,7 +33,7 @@
 31. **Crypto News**: Bitpanda bringt bald ein web3 Wallet heraus: [Tweet](https://x.com/VSN_Unofficial/status/1915378287011910068)
 32. **Crypto Adoption**: [Grayscale tweetet](https://x.com/Grayscale/status/1915100607939322104) über ihren neuen SUI Trust und scheibar will Pokemon SUI implementieren: [Tweet]()
 33. Crypto Adoption**: Die FED verkündet, dass die Crypto Einschränkungen für Banken aufgehoben wurde: [Tweet](https://x.com/federalreserve/status/1915519104435224895); [Federal Reserve Board announces the withdrawal of guidance for banks related to their crypto-asset and dollar token activities and related changes to its expectations for these activities](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250424a.htm)
-34. **IOTA Ökosystem**: [Coda tweetet](https://x.com/coda_digital/status/1915707357176488295), dass sie am Fr. um 18 Uhr live gehen mit [coda V1](https://www.coda.to/)
+34. **IOTA Ökosystem**: Die [IF retweetet](https://x.com/iota/status/1916734883696722395) den [Tweet von Coda](https://x.com/coda_digital/status/1915797960891265125), dass [coda V1](https://www.coda.to/) live ist
 35. **Crypto Adoption**: [Holger Köther tweetet](https://x.com/HolgerKoether/status/1915698280782061856) über ETO Pay, die "All-in-One-SDK Lösung für Zahlung, Konvertierung und Buchhaltung zur reibungslosen Integration von Krypto und Stablecoin."
 36. **IOTA Ökosystem**: [Lord Alexander tweetet](https://x.com/shortaktien/status/1915696331999346960) über eine Social Media Plattform wo man für Likes IOTA bekommt (an der er baut?!?); Hier noch ein [Tweet von Lord Alexander](https://x.com/shortaktien/status/1916057448009388265) dazu
 37. **IOTA Event**: Dom wird als Keynote Speaker in Afrika [IOTA East Africa Web3 Innovation Summit](https://events.cioafrica.co/iota-east-africa-web3-innovation-summit) vorgestellt: [Tweet](https://x.com/dx5ve/status/1915749069286162449)
@@ -45,4 +45,7 @@
 43. **Crypto Hype**: Der Nividia CEO hat ne orangene Jacke an und spricht über Michael Saylor: [Tweet](https://x.com/mikealfred/status/1915870113028575243)
 44. **IOTA Learn**: Gute Posts zum Theam Liquid Staking mit IOTA: [Thread 1](https://x.com/Banacubana0/status/1915791269319627160); [Thread 2](https://x.com/Cigamatoi/status/1916117410949611824)
 45. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1916054645991997446) zum Event in Nairobi am 30.Mai
+46. **IOTA Promote**: [Dom tweetet](https://x.com/DomSchiener/status/1916752275281691107) über das IOTA "Project Review" von Morningstar Ventures: [IOTA – Built to Make a Difference](https://blog.morningstar.ventures/project-reviews/iota)
+47. **IOTA Soon**: Ein [Tweet von RodionVikol](https://x.com/RodionVikol/status/1916758222414745769) über eine dApp die diese Woche noch live geht mit "sponsored transactions"
+48. **IOTA Pump**: Bitcoin ist in den letzten 7 Tagen um 10% gestiegen, IOTA hat sogar 35% geschafft: [coinmarketcap.com](https://coinmarketcap.com/de/=); IOTA ist seit dem 7.April von 0,12Eur auf 0,20Eur gestiegen
 
