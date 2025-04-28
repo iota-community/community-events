@@ -52,4 +52,5 @@
 50. **Allg. News**: Blackout in Europa (Spanien, Portugal, Frankreich und Belgien): [Tweet](https://x.com/GeneralMCNews/status/1916824281897373926)
 51. **Crypto Adoption**: Michael Saylors STRATEGY hat wieder 15.355 BTC für $1.42 Milliarden gekauft: [Tweet](https://x.com/saylor/status/1916825375155380688)
 52. **Crypto Adoption**: Coinbase startet institutionellen Fonds mit Rendite auf Bitcoin: [Tweet](https://x.com/BTC_Archive/status/1916826867887206596)
+53. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1916477433739448677) über ein INATBA Gespräch am 31.4.25, wo über eIDAS2.0 mit Eike Haß von der IF gesprochen wird
 
