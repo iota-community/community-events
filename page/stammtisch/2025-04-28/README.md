@@ -49,4 +49,5 @@
 47. **IOTA Soon**: Ein [Tweet von RodionVikol](https://x.com/RodionVikol/status/1916758222414745769) über eine dApp die diese Woche noch live gehen soll, mit IOTA "sponsored transactions"
 48. **IOTA Pump**: Bitcoin ist in den letzten 7 Tagen um 10% gestiegen und IOTA hat sogar 35% geschafft: [coinmarketcap.com](https://coinmarketcap.com/de/=); Btw.: IOTA ist seit dem 7.April von 0,12Eur auf 0,20Eur gestiegen
 49. **IOTA Event**: Die [IF retweetet](https://x.com/iota/status/1916782775178273174) den [Tweet von kowei](https://x.com/kowei1995/status/1916775528201150501) mit ersten Bildern vom Staking Event in Dubai
+50. **Allg. News**: Blackout in Europa (Spanien, Portugal, Frankreich und Belgien): [Tweet](https://x.com/GeneralMCNews/status/1916824281897373926)
 
