@@ -12,3 +12,15 @@
 10. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1917202214914768916) über das Binance Clubhouse Event
 11. **IOTA Audio**: [Tweet von European Blockchain Sandbox](https://x.com/EuropeanSandbox/status/1917158733593088301); [Tweet](https://x.com/_tomjansson/status/1917219722766307706)
 12. **IOTA Event**: [Tweet](https://x.com/ETOSPHERES/status/1917202825869693428)
+13. **IOTA Ökosystem**: Das [Shi Universe tweetet](https://x.com/Shiuniverse/status/1917262543178928260) über ihre neue Platform: [shi-universe.io](https://shi-universe.io/)
+14. **IOTA Stammtisch**: Am Freitag ist IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/1917299158429659303)
+15. **IOTA Exchange**: Bitfinex unterstützt IOTA Rebased: [Tweet](https://x.com/GMZeusINV/status/1917252572420677930)
+16. **IOTA Exchange**: Bitpanda unterstützt IOTA Rebased: [Tweet](https://x.com/dlt_green/status/1917189650369724862)
+17. **IOTA Audio**: [INATBA tweetet](https://x.com/INATBA_org/status/1917142457113890929) über das [X-Space mit IOTA: Trust Mechanisms in eIDAS 2.0](https://x.com/i/spaces/1kvKpyVERQgGE)
+18. **IOTA Event**: Holger Köther und Ben Böhnisch sind am 8.-9. Mai auf einem [Event in Stuttgart](https://event.cyberlaend.eu/willkommen): [Tweet](https://x.com/ETOSPHERES/status/1917202825869693428)
+19. **Crypto Adoption**: Süd Korea schlägt einen kryptofreundlichen Weg ein: [Tweet](https://x.com/BTC_Archive/status/1917165808364462147)
+20. **IOTA Event**: [Dom tweetet](https://x.com/DomSchiener/status/1917252543392215250) von einer Paneldiskussion beim Circle Forum
+21. **IOTA Hype**: [Dom tweetet](https://x.com/DomSchiener/status/1917250332729708753) über den aktuellen Weg von IOTA: 1 Build one of the most performant L1s in the market. 2 Bring the real world onchain (starting with trade finance and RWA tokenization)
+22. 
+   
+
