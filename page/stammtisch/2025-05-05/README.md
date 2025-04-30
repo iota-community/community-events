@@ -21,6 +21,6 @@
 19. **Crypto Adoption**: Süd Korea schlägt einen kryptofreundlichen Weg ein: [Tweet](https://x.com/BTC_Archive/status/1917165808364462147)
 20. **IOTA Event**: [Dom tweetet](https://x.com/DomSchiener/status/1917252543392215250) von einer Paneldiskussion beim Circle Forum
 21. **IOTA Hype**: [Dom tweetet](https://x.com/DomSchiener/status/1917250332729708753) über den aktuellen Weg von IOTA: 1 Build one of the most performant L1s in the market. 2 Bring the real world onchain (starting with trade finance and RWA tokenization)
-22. 
+22. **IOTA Influencer**: [Tweet (250K Follower)](https://x.com/QuintenFrancois/status/1917502934805266549)
    
 
