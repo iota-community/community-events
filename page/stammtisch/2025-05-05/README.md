@@ -10,7 +10,7 @@
 8. **IOTA Tutorial**: [Tweet](https://x.com/zizicrypt/status/1916796912524538349) von einem Tutorial: [Getting Started with IOTA MoveVM: A Beginner’s Guide to Your First Smart Contract](https://medium.com/@cryptogrowthmarketer/getting-started-with-iota-movevm-a-beginners-guide-to-your-first-smart-contract-32e96bd51733)
 9. **IOTA Adoption**: [Tweet](https://x.com/reht100/status/1916965311296786548) zum Thema IOTA in Peru
 10. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1917202214914768916) über das Binance Clubhouse Event
-11. **IOTA Audio**: [Tweet von European Blockchain Sandbox](https://x.com/EuropeanSandbox/status/1917158733593088301); [Tweet](https://x.com/_tomjansson/status/1917219722766307706)
+11. **IOTA Audio**: [Tweet von European Blockchain Sandbox](https://x.com/EuropeanSandbox/status/1917158733593088301) über den [2nd Cohort Best Practices Report](https://blockchain-observatory.ec.europa.eu/2nd-cohort-best-practices-report_en); [Tweet von IF Mitarbeiter](https://x.com/_tomjansson/status/1917219722766307706) dazu; [Retweet von PB Token](https://x.com/pbtokn/status/1917326820564939064) dazu
 12. **IOTA Event**: [Tweet](https://x.com/ETOSPHERES/status/1917202825869693428)
 13. **IOTA Ökosystem**: Das [Shi Universe tweetet](https://x.com/Shiuniverse/status/1917262543178928260) über ihre neue Platform: [shi-universe.io](https://shi-universe.io/)
 14. **IOTA Stammtisch**: Am Freitag ist IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/1917299158429659303)
