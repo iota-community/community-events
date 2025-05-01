@@ -25,6 +25,15 @@
 23. **IOTA Influencer**: [Tweet (250K Follower)](https://x.com/QuintenFrancois/status/1917502934805266549)
 24. **Crypto Adoption**: Eric Trump sagt, dass Banken irrelevant werden, wenn sie Crypto nicht adaptieren: [Teet](https://x.com/RWAwatchlist_/status/1917524349126598768)
 25. **IOTA Adoption**: Die [IF macht einen Thread](https://x.com/iota/status/1917564600997839006) über ihren Blogpost: [Enabling Institutional Access to IOTA and Beyond - Announcing Our Partnership with Zodia Custody](https://blog.iota.org/iota-partnership-zodia/)
-26. 
+26. **IOTA Event**: [Morningstar Venture tweetet](https://x.com/Morningstar_VC/status/1917549281550164189) über ein Event mit IOTA in Dubai: [On the Move: Morning with IOTA](https://lu.ma/iota-37xdubai); Hier noch ein [Tweet von Crypto Rand](https://x.com/crypto_rand/status/1917840781664284716) darüber
+27. **IOTA Adoption**: [Tweet](https://x.com/RodionVikol/status/1917569461223149614) über ein Telegram Tooling wo man irgendwie mit Sternen die IOTA Transaktionsgebühren zahlen kann...
+28. **IOTA Rebased**: Die [IF tweetet](https://x.com/iota/status/1917926988989202578) über die Genesis Validatoren: [IOTA Rebased Genesis Validators](https://blog.iota.org/iota-rebased-genesis-validators/); [Phylo retweetet](https://x.com/PhyloIota/status/1917999118250909927) das
+29. **IOTA Learn**: [DLT.GREEN macht einen langen Tweet](https://x.com/dlt_green/status/1917929540971827564) über die Genesis Prozedur und über das was man beachten muss
+30. **Crypto Adoption**: Eric Trump war beim Token2049 Event in Dubai: [Tweet von Justin Sun](https://x.com/justinsuntron/status/1917965038578454875); Er war auch auf der Bühne: [Tweet](https://x.com/Cointelegraph/status/1917871139096822183)
+31. **Crypto Adoption**: SUI ETF soon: [Tweet](https://x.com/matteodotsui/status/1917925925540286699)
+32. **Crypto News**: [SUI tweetet](https://x.com/SuiNetwork/status/1917868560363167773) über [Sui to Support sBTC and Stacks, Unlocking Powerful Institutional BTCfi Use Cases](https://blog.sui.io/sbtc-stacks-btcfi/)
+33. **Crypto Adoption**: Nvidia will wohl Bitcoin kaufen: [Tweet](https://x.com/cryptobeastreal/status/1917876267610943756)
+34. **Crypto Adoption**: Morgan Stanley (1,5 Milliarden schwer) will Krypto an ihre E-Trade Kunden anbieten: [Tweet](https://x.com/BitcoinMagazine/status/1917895168117846510)
+35. 
    
 
