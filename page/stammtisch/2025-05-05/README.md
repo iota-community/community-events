@@ -41,7 +41,9 @@
 39. **Crypto Adoption**: North Carolina verabschiedet im Repräsentantenhaus ein Gesetz zur strategischen Bitcoin-Reserve: [Tweet](https://x.com/BTC_Archive/status/1917679972614856752)
 40. **IOTA Rebased dApp**: [Teun macht ein Thread](https://x.com/teunvw5/status/1917567987273421140) über seine neue dApp: [iotaraffle.netlify.app](https://iotaraffle.netlify.app/)
 41. **Crypto Adoption**: Goldman Sachs gibt an, ihre Bemühungen in den Bereichen von Bitcoin und Kryptowährungen zu verstärken.: [Tweet](https://x.com/BitcoinMagazine/status/1918274947912266078)
-42. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1918299859511021762) darüber, dass ihre ID Lösung im [2nd cohort Best Practices Repor](https://blockchain-observatory.ec.europa.eu/2nd-cohort-best-practices-report_en) von der [European Blockchain Sandbox](https://x.com/EuropeanSandbox)
+42. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1918299859511021762) darüber, dass ihre ID Lösung im [2nd cohort Best Practices Report](https://blockchain-observatory.ec.europa.eu/2nd-cohort-best-practices-report_en) von der [European Blockchain Sandbox](https://x.com/EuropeanSandbox)
 43. **IOTA Event**: [CEO Africa tweetet](https://x.com/dx5ve/status/1918239884168376775) über das TLIP/TWIN Event in Afrika am 30.Mai: [IOTA East Africa Web3 Innovation Summit](https://lnkd.in/dqVPvBME)
+44. **Crypto Adoption**: Die USA will scheinbar 1.000.000 BTC kaufen als Reserve Currency. [Tweet](https://x.com/WatcherGuru/status/1918335342324937160)
+45. **IOTA Event**: Eindrücke von dem Binance Clubhouse Event in Dubai: [Tweet von Alpha](https://x.com/0xRimac/status/1918322441790935194)
    
 
