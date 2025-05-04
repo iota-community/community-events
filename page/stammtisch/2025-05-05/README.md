@@ -19,31 +19,39 @@
 17. **IOTA Exchange**: Upbit unterstützt IOTA Rebased: [Tweet](https://x.com/GMZeusINV/status/1917554165284495542)
 18. **IOTA Exchange**: BitHump unterstützt IOTA Rebased: [Tweet](https://x.com/GMZeusINV/status/1918154756675064175); [Tweet von der IF](https://x.com/iota/status/1918206859279847674)
 19. **IOTA Exchange**: Binance unterstütz IOTA Rebased: [Tweet von der IF](https://x.com/iota/status/1918190704075088113) über den Binance Blogpost: [Binance Will Support the IOTA (IOTA) Network Upgrade & Hard Fork - 2025-05-05](https://www.binance.com/en/support/announcement/detail/a18db274720642c0a0c20d477a431ad6)
-20. **IOTA Audio**: [INATBA tweetet](https://x.com/INATBA_org/status/1917142457113890929) über das [X-Space mit IOTA: Trust Mechanisms in eIDAS 2.0](https://x.com/i/spaces/1kvKpyVERQgGE)
-21. **IOTA Event**: Holger Köther und Ben Böhnisch sind am 8.-9. Mai auf einem [Event in Stuttgart](https://event.cyberlaend.eu/willkommen): [Tweet](https://x.com/ETOSPHERES/status/1917202825869693428)
-22. **Crypto Adoption**: Süd Korea schlägt einen kryptofreundlichen Weg ein: [Tweet](https://x.com/BTC_Archive/status/1917165808364462147)
-23. **IOTA Event**: [Dom tweetet](https://x.com/DomSchiener/status/1917252543392215250) von einer Paneldiskussion beim Circle Forum
-24. **IOTA Hype**: [Dom tweetet](https://x.com/DomSchiener/status/1917250332729708753) über den aktuellen Weg von IOTA: 1 Build one of the most performant L1s in the market. 2 Bring the real world onchain (starting with trade finance and RWA tokenization)
-25. **IOTA Influencer**: [Tweet (250K Follower)](https://x.com/QuintenFrancois/status/1917502934805266549)
-26. **Crypto Adoption**: Eric Trump sagt, dass Banken irrelevant werden, wenn sie Crypto nicht adaptieren: [Teet](https://x.com/RWAwatchlist_/status/1917524349126598768)
-27. **IOTA Adoption**: Die [IF macht einen Thread](https://x.com/iota/status/1917564600997839006) über ihren Blogpost: [Enabling Institutional Access to IOTA and Beyond - Announcing Our Partnership with Zodia Custody](https://blog.iota.org/iota-partnership-zodia/)
-28. **IOTA Event**: [Morningstar Venture tweetet](https://x.com/Morningstar_VC/status/1917549281550164189) über ein Event mit IOTA in Dubai: [On the Move: Morning with IOTA](https://lu.ma/iota-37xdubai); Hier noch ein [Tweet von Crypto Rand](https://x.com/crypto_rand/status/1917840781664284716) darüber
-29. **IOTA Adoption**: [Tweet](https://x.com/RodionVikol/status/1917569461223149614) über ein Telegram Tooling wo man irgendwie mit Sternen die IOTA Transaktionsgebühren zahlen kann...
-30. **IOTA Rebased**: Die [IF tweetet](https://x.com/iota/status/1917926988989202578) über die Genesis Validatoren: [IOTA Rebased Genesis Validators](https://blog.iota.org/iota-rebased-genesis-validators/); [Phylo retweetet](https://x.com/PhyloIota/status/1917999118250909927) das
-31. **IOTA Learn**: [DLT.GREEN macht einen langen Tweet](https://x.com/dlt_green/status/1917929540971827564) über die Genesis Prozedur und über das was man beachten muss
-32. **Crypto Adoption**: Eric Trump war beim Token2049 Event in Dubai: [Tweet von Justin Sun](https://x.com/justinsuntron/status/1917965038578454875); Er war auch auf der Bühne: [Tweet](https://x.com/Cointelegraph/status/1917871139096822183)
-33. **Crypto Adoption**: SUI ETF soon: [Tweet](https://x.com/matteodotsui/status/1917925925540286699)
-34. **Crypto News**: [SUI tweetet](https://x.com/SuiNetwork/status/1917868560363167773) über [Sui to Support sBTC and Stacks, Unlocking Powerful Institutional BTCfi Use Cases](https://blog.sui.io/sbtc-stacks-btcfi/)
-35. **Crypto Adoption**: Nvidia will wohl Bitcoin kaufen: [Tweet](https://x.com/cryptobeastreal/status/1917876267610943756)
-36. **Crypto Adoption**: Morgan Stanley (1,5 Milliarden schwer) will Krypto an ihre E-Trade Kunden anbieten: [Tweet](https://x.com/BitcoinMagazine/status/1917895168117846510)
-37. **IOTA Staking**: [Tweet von vrom](https://x.com/Vrom14286662/status/1918193631556411768) mit kleinem Screenshot Tutorial wie das geht
-38. **Crypto Adoption**: [Michael Saylor tweetet](https://x.com/saylor/status/1918034658878513408) über ihren Blogpost: [Strategy Announces First Quarter 2025 Financial Results](https://www.strategy.com/press/strategy-announces-first-quarter-2025-financial-results_05-01-2025); "... sie verdoppeln den Kapitalplan auf 42 Mrd. USD Eigenkapital und 42 Mrd. USD festverzinsliche Wertpapiere zum Kauf von Bitcoin und erhöht das BTC-Renditeziel von 15 % auf 25 % und das BTC-Dollar-Gewinnziel von 10 Mrd. USD auf 15 Mrd. USD für 2025. Hier noch ein [Tweet](https://x.com/Saylorsatsire/status/1918282877227123193) in dem sie bestätigen weitere 1,4Milliarden in BTC gekauft zu haben
-39. **Crypto Adoption**: North Carolina verabschiedet im Repräsentantenhaus ein Gesetz zur strategischen Bitcoin-Reserve: [Tweet](https://x.com/BTC_Archive/status/1917679972614856752)
-40. **IOTA Rebased dApp**: [Teun macht ein Thread](https://x.com/teunvw5/status/1917567987273421140) über seine neue dApp: [iotaraffle.netlify.app](https://iotaraffle.netlify.app/)
-41. **Crypto Adoption**: Goldman Sachs gibt an, ihre Bemühungen in den Bereichen von Bitcoin und Kryptowährungen zu verstärken.: [Tweet](https://x.com/BitcoinMagazine/status/1918274947912266078)
-42. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1918299859511021762) darüber, dass ihre ID Lösung im [2nd cohort Best Practices Report](https://blockchain-observatory.ec.europa.eu/2nd-cohort-best-practices-report_en) von der [European Blockchain Sandbox](https://x.com/EuropeanSandbox)
-43. **IOTA Event**: [CEO Africa tweetet](https://x.com/dx5ve/status/1918239884168376775) über das TLIP/TWIN Event in Afrika am 30.Mai: [IOTA East Africa Web3 Innovation Summit](https://lnkd.in/dqVPvBME)
-44. **Crypto Adoption**: Die USA will scheinbar 1.000.000 BTC kaufen als Reserve Currency. [Tweet](https://x.com/WatcherGuru/status/1918335342324937160)
-45. **IOTA Event**: Eindrücke von dem Binance Clubhouse Event in Dubai: [Tweet von Alpha](https://x.com/0xRimac/status/1918322441790935194)
+20. **IOTA Exchange**: KuCoin unterstützt IOTA Rebased: [Tweet](https://x.com/GMZeusINV/status/1919003099550642629)
+21. **IOTA Audio**: [INATBA tweetet](https://x.com/INATBA_org/status/1917142457113890929) über das [X-Space mit IOTA: Trust Mechanisms in eIDAS 2.0](https://x.com/i/spaces/1kvKpyVERQgGE)
+22. **IOTA Event**: Holger Köther und Ben Böhnisch sind am 8.-9. Mai auf einem [Event in Stuttgart](https://event.cyberlaend.eu/willkommen): [Tweet](https://x.com/ETOSPHERES/status/1917202825869693428)
+23. **Crypto Adoption**: Süd Korea schlägt einen kryptofreundlichen Weg ein: [Tweet](https://x.com/BTC_Archive/status/1917165808364462147)
+24. **IOTA Event**: [Dom tweetet](https://x.com/DomSchiener/status/1917252543392215250) von einer Paneldiskussion beim Circle Forum
+25. **IOTA Hype**: [Dom tweetet](https://x.com/DomSchiener/status/1917250332729708753) über den aktuellen Weg von IOTA: 1 Build one of the most performant L1s in the market. 2 Bring the real world onchain (starting with trade finance and RWA tokenization)
+26. **IOTA Influencer**: [Tweet (250K Follower)](https://x.com/QuintenFrancois/status/1917502934805266549); [Boxmining (219K Follower) tweetet](https://x.com/boxmining/status/1918598722692526373), dass er IOTA kauft; [Tweet (109K Follower)](https://x.com/Mechnft/status/1918440379223048213)
+27. **Crypto Adoption**: Eric Trump sagt, dass Banken irrelevant werden, wenn sie Crypto nicht adaptieren: [Tweet](https://x.com/RWAwatchlist_/status/1917524349126598768)
+28. **IOTA Adoption**: Die [IF macht einen Thread](https://x.com/iota/status/1917564600997839006) über ihren Blogpost: [Enabling Institutional Access to IOTA and Beyond - Announcing Our Partnership with Zodia Custody](https://blog.iota.org/iota-partnership-zodia/)
+29. **IOTA Event**: [Morningstar Venture tweetet](https://x.com/Morningstar_VC/status/1917549281550164189) über ein Event mit IOTA in Dubai: [On the Move: Morning with IOTA](https://lu.ma/iota-37xdubai); Hier noch ein [Tweet von Crypto Rand](https://x.com/crypto_rand/status/1917840781664284716) darüber
+30. **IOTA Adoption**: [Tweet](https://x.com/RodionVikol/status/1917569461223149614) über ein Telegram Tooling wo man irgendwie mit Sternen die IOTA Transaktionsgebühren zahlen kann...; Hier noch ein [Tweet von ihm](https://x.com/RodionVikol/status/1918582030494822754), dass man auch Staking kann im Telegram Wallet
+31. **IOTA Rebased**: Die [IF tweetet](https://x.com/iota/status/1917926988989202578) über die Genesis Validatoren: [IOTA Rebased Genesis Validators](https://blog.iota.org/iota-rebased-genesis-validators/); [Phylo retweetet](https://x.com/PhyloIota/status/1917999118250909927) das
+32. **IOTA Learn**: [DLT.GREEN macht einen langen Tweet](https://x.com/dlt_green/status/1917929540971827564) über die Genesis Prozedur und über das was man beachten muss
+33. **Crypto Adoption**: Eric Trump war beim Token2049 Event in Dubai: [Tweet von Justin Sun](https://x.com/justinsuntron/status/1917965038578454875); Er war auch auf der Bühne: [Tweet](https://x.com/Cointelegraph/status/1917871139096822183)
+34. **Crypto Adoption**: SUI ETF soon: [Tweet](https://x.com/matteodotsui/status/1917925925540286699)
+35. **Crypto News**: [SUI tweetet](https://x.com/SuiNetwork/status/1917868560363167773) über [Sui to Support sBTC and Stacks, Unlocking Powerful Institutional BTCfi Use Cases](https://blog.sui.io/sbtc-stacks-btcfi/)
+36. **Crypto Adoption**: Nvidia will wohl Bitcoin kaufen: [Tweet](https://x.com/cryptobeastreal/status/1917876267610943756)
+37. **Crypto Adoption**: Morgan Stanley (1,5 Milliarden schwer) will Krypto an ihre E-Trade Kunden anbieten: [Tweet](https://x.com/BitcoinMagazine/status/1917895168117846510)
+38. **IOTA Staking**: [Tweet von vrom](https://x.com/Vrom14286662/status/1918193631556411768) mit kleinem Screenshot Tutorial wie das geht
+39. **Crypto Adoption**: [Michael Saylor tweetet](https://x.com/saylor/status/1918034658878513408) über ihren Blogpost: [Strategy Announces First Quarter 2025 Financial Results](https://www.strategy.com/press/strategy-announces-first-quarter-2025-financial-results_05-01-2025); "... sie verdoppeln den Kapitalplan auf 42 Mrd. USD Eigenkapital und 42 Mrd. USD festverzinsliche Wertpapiere zum Kauf von Bitcoin und erhöht das BTC-Renditeziel von 15 % auf 25 % und das BTC-Dollar-Gewinnziel von 10 Mrd. USD auf 15 Mrd. USD für 2025. Hier noch ein [Tweet](https://x.com/Saylorsatsire/status/1918282877227123193) in dem sie bestätigen weitere 1,4Milliarden in BTC gekauft zu haben
+40. **Crypto Adoption**: North Carolina verabschiedet im Repräsentantenhaus ein Gesetz zur strategischen Bitcoin-Reserve: [Tweet](https://x.com/BTC_Archive/status/1917679972614856752)
+41. **IOTA Rebased dApp**: [Teun macht ein Thread](https://x.com/teunvw5/status/1917567987273421140) über seine neue dApp: [iotaraffle.netlify.app](https://iotaraffle.netlify.app/)
+42. **Crypto Adoption**: Goldman Sachs gibt an, ihre Bemühungen in den Bereichen von Bitcoin und Kryptowährungen zu verstärken.: [Tweet](https://x.com/BitcoinMagazine/status/1918274947912266078)
+43. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1918299859511021762) darüber, dass ihre ID Lösung im [2nd cohort Best Practices Report](https://blockchain-observatory.ec.europa.eu/2nd-cohort-best-practices-report_en) von der [European Blockchain Sandbox](https://x.com/EuropeanSandbox)
+44. **IOTA Event**: [CEO Africa tweetet](https://x.com/dx5ve/status/1918239884168376775) über das TLIP/TWIN Event in Afrika am 30.Mai: [IOTA East Africa Web3 Innovation Summit](https://lnkd.in/dqVPvBME)
+45. **Crypto Adoption**: Die USA will scheinbar 1.000.000 BTC kaufen als Reserve Currency. [Tweet](https://x.com/WatcherGuru/status/1918335342324937160)
+46. **IOTA Event**: Eindrücke von dem Binance Clubhouse Event in Dubai: [Tweet von Alpha](https://x.com/0xRimac/status/1918322441790935194)
+47. **IOTA Event**: Video von Phylo auf dem Staking Summit: [Tweet](https://x.com/StakingSummit/status/1918951868362895770); [Stake Tank: Staking Summit 2025 with Holger](https://www.youtube.com/watch?v=FCZFWB3gaYA)
+48. **IOTA Rebased Vorbereitung**: [Tweet][(https://x.com/Cigamatoi/status/1918727304097792111) mit perfekter Anleitung was man machen kann bevor IOTA Rebased startet
+49. **IOTA Audio**: [Raphael tweetet](https://x.com/Raphie_El/status/1918567856335143383) über ein X-Spaces zu [IOTA Rebased](https://x.com/i/spaces/1vOGwXgRbjVJB)
+50. **IOTA Promote**: [Thread von Sander Griffion](https://x.com/sgriffioen/status/1918340831221543124) über die digital Identity Lösung von IOTA im Bezug auf die "Web3 Identification Solution featured in the EU Blockchain Sandbox"
+51. **Crypto Adoption**: Die Brown Universität hat Bitcoin gekauft: [Tweet](https://x.com/Vivek4real_/status/1918316313656647818)
+52. **IOTA Audio**: [Interview mit Phylo](https://x.com/IoachimViju/status/1918326034820194767)
+53. **IOTA Audio**: [IOTA Afrika X-Spaces](https://x.com/iota_africa/status/1918372524095586757)
    
 
