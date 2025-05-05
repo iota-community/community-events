@@ -48,10 +48,21 @@
 46. **IOTA Event**: Eindrücke von dem Binance Clubhouse Event in Dubai: [Tweet von Alpha](https://x.com/0xRimac/status/1918322441790935194)
 47. **IOTA Event**: Video von Phylo auf dem Staking Summit: [Tweet](https://x.com/StakingSummit/status/1918951868362895770); [Stake Tank: Staking Summit 2025 with Holger](https://www.youtube.com/watch?v=FCZFWB3gaYA)
 48. **IOTA Rebased Vorbereitung**: [Tweet][(https://x.com/Cigamatoi/status/1918727304097792111) mit perfekter Anleitung was man machen kann bevor IOTA Rebased startet
-49. **IOTA Audio**: [Raphael tweetet](https://x.com/Raphie_El/status/1918567856335143383) über ein X-Spaces zu [IOTA Rebased](https://x.com/i/spaces/1vOGwXgRbjVJB)
+49. **IOTA Audio**: [Raphael tweetet](https://x.com/Raphie_El/status/1918567856335143383) über ein [X-Spaces zu IOTA Rebased](https://x.com/i/spaces/1vOGwXgRbjVJB) 
 50. **IOTA Promote**: [Thread von Sander Griffion](https://x.com/sgriffioen/status/1918340831221543124) über die digital Identity Lösung von IOTA im Bezug auf die "Web3 Identification Solution featured in the EU Blockchain Sandbox"
 51. **Crypto Adoption**: Die Brown Universität hat Bitcoin gekauft: [Tweet](https://x.com/Vivek4real_/status/1918316313656647818)
 52. **IOTA Audio**: [Interview mit Phylo](https://x.com/IoachimViju/status/1918326034820194767)
 53. **IOTA Audio**: [IOTA Afrika X-Spaces](https://x.com/iota_africa/status/1918372524095586757)
+54. **IOTA Audio**: [TangleTalk tweetet](https://x.com/tangle_talk/status/1919062044130554229) über das [Inteview mit Phylo](https://t.co/7nC6viU9Vu)
+55. **Crypto Adoption**: Trump setzt auf Crypto, weil wenn sie es nicht machen wird China es machen: [Tweet](https://x.com/WatcherGuru/status/1919112973466956241)
+56. **IOTA Rebased Start**: [Tweet 1 der IF](https://x.com/iota/status/1919255745008152751) zum Start von IOTA Rebased; [Tweet 2](https://x.com/iota/status/1919287057144221763); [Tweet 3](https://x.com/Vrom14286662/status/1919293179544662084); [Tweet 4](https://x.com/iota/status/1919304870470750514); [Tweet 5](https://x.com/iota/status/1919332854552510563); [Tweet 6]()
+57. **IOTA Audio**: Zum Start vom IOTA Rebased Upgrade gab es ein [X-Space mit Dom](https://x.com/iota/status/1919255750079087058)
+58. **Crypto Adoption**: Die EU will offenbar private Wallets komplett verbieten: [Tweet](https://x.com/EliNagarBrr/status/1919031710882124160)
+59. **IOTA Event**: [Tweet](https://x.com/dx5ve/status/1919261022109507962) zum Even in Afrika ["IOTA East Africa Web3 Innovation Summit"](https://events.cioafrica.co/iota-east-africa-web3-innovation-summit) am 30.Mai
+60. **Crypto Drama**: Trump hat sich zu seinem Meme Coin geäußert und gibt sich ziemlich unwissend: [Tweet](https://x.com/blocknewsdotcom/status/1919110647586914471)
+61. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1919338797474406512) über ein 2. X-Spaces: [Post-Upgrade Space](https://x.com/i/spaces/1lPKqMYoyvMKb)
+62. **Crypto Adoption**: Artikel: [Google nutzt jetzt Blockchain-Technologie für mehr Privatsphäre](https://www.btc-echo.de/schlagzeilen/google-nutzt-jetzt-blockchain-technologie-fuer-mehr-privatsphaere-206765/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1746430902)
+63. **IOTA Wallet Tutorial**: [Tweet](https://x.com/Cigamatoi/status/1919364367545471103) darüber, wie man aus dem Stronghold File seinen Seed extrahiert um ihn im neuen Wallet einzufügen
+64. **IOTA Rebased**: [Thread von Luca](https://x.com/luca__moser/status/1919342142926758173) über das IOTA Rebased Upgrade und das was in Zukunft noch alles kommt; Und auch [Dom tweetet](https://x.com/DomSchiener/status/1919379018127708622) zu dem Start von IOTA Rebased
    
 
