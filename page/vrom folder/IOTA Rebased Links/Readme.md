@@ -3,7 +3,7 @@
 Wallets:
 1. Personal Computer (Browser Addons): [IOTA Wallet](https://chromewebstore.google.com/detail/iota-wallet/iidjkmdceolghepehaaddojmnjnkkija); Or: [Nightly Wallet (Chrome, Opera, Edge, Brave)](https://nightly.app/download); 
 2. Mobile Phone: [Nightly Wallet (Play Store)](https://play.google.com/store/apps/details?id=com.nightlymobile&pli=1); [Nightly Wallet (Apple Store)](https://apps.apple.com/pl/app/nightly-multichain-wallet/id6444768157)
-3. IOTA Dashboard (ähnlich Firefly): [wallet-dashboard.iota.org/](https://wallet-dashboard.iota.org/)
+3. IOTA Dashboard (looks like Firefly Wallet, but you have to login with one of the wallets above): [wallet-dashboard.iota.org/](https://wallet-dashboard.iota.org/)
    
 (All wallets are Ledger compatible, but you need the new IOTA App on your Ledger Device => Download the App to your Ledger Devide in your Ledger Live application)
 
