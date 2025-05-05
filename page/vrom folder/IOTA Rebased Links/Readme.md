@@ -1,7 +1,7 @@
 ## Important links for IOTA Rebased
 
 Wallets:
-1. Personal Computer (Browser Addons): [Nightly Wallet (Chrome, Opera, Edge, Brave)](https://nightly.app/download); [IOTA Wallet](https://chromewebstore.google.com/search/iota)
+1. Personal Computer (Browser Addons): [IOTA Wallet](https://chromewebstore.google.com/detail/iota-wallet/iidjkmdceolghepehaaddojmnjnkkija); Or: [Nightly Wallet (Chrome, Opera, Edge, Brave)](https://nightly.app/download); 
 2. Mobile Phone: [Nightly Wallet (Play Store)](https://play.google.com/store/apps/details?id=com.nightlymobile&pli=1); [Nightly Wallet (Apple Store)](https://apps.apple.com/pl/app/nightly-multichain-wallet/id6444768157)
 3. IOTA Dashboard (ähnlich Firefly): [wallet-dashboard.iota.org/](https://wallet-dashboard.iota.org/)
    
