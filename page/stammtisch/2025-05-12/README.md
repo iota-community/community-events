@@ -15,11 +15,12 @@
 13. **Crypto Adoption**: [Tweet mit Video](https://x.com/Vivek4real_/status/1920131649825632296) in dem der US Finanzminister sagt: „Die USA sollten das wichtigste Ziel für BITCOIN und Krypto sein."
 14. **Crypto Adoption**: Der Staat Arizona wird zum 2. Staat, der eine strategische Bitcoin Reserve beschlossen hat: [Tweet](https://x.com/pete_rizzo_/status/1920271354240053679)
 15. **IOTA Ökosystem**: [Virtue tweetet](https://x.com/Virtue_Money/status/1920159959603417595) über ihren Stablecoin den man sich bald leihen kann wenn man z.B. IOTA hinterlegt
-16. **IOTA Audio**: [Cryptorand tweetet](https://x.com/crypto_rand/status/1919743954750206170) über ein AMA mit IOTA in ihrem Discord
-17. **IOTA Drama**: Irgendwas ist schief gelaufen beim Staking: [Tweet von TangleBay](https://x.com/tanglebay/status/1920390676669235609)
-18. **IOTA Audio**: [Dom tweetet](https://x.com/DomSchiener/status/1920459647867052089) über ein [X-Spaces mit Memecoin Morning: Markets coming back to life w/ @IOTA](https://x.com/i/spaces/1MnxnwrjBYeKO)
-19. **IOTA Ökosystem**: [Nightly macht einen Thread](https://x.com/Nightly_app/status/1920461710294438372) über die [nightly.app/download](https://nightly.app/download), die jetzt das IOTA Mainnet unterstützt
-20. **IOTA EVM Ökosystem**: Die [IF tweetet](https://x.com/iota/status/1920452721045283081) darüber, dass die [EVM Bridge (evm-bridge.iota.org)](https://evm-bridge.iota.org/) jetzt live ist und man damit jetzt zwischen der IOTA EVM (Layer 2) und IOTA L1 hin und her senden kann
-21. **IOTA Audio**: [Nightly tweetet](https://x.com/Nightly_app/status/1920478798199296340) über eine [Late Night(ly) Show with IOTA](https://x.com/Nightly_app/status/1920478801433186663)
-22. 
+16. **IOTA Ökosystem**: [Virtue tweetet](https://x.com/Virtue_Money/status/1920487979836899399), dass sie live sind auf dem Testnetz mit [virtue.money](https://virtue.money/)
+17. **IOTA Audio**: [Cryptorand tweetet](https://x.com/crypto_rand/status/1919743954750206170) über ein AMA mit IOTA in ihrem Discord
+18. **IOTA Drama**: Irgendwas ist schief gelaufen beim Staking: [Tweet von TangleBay](https://x.com/tanglebay/status/1920390676669235609)
+19. **IOTA Audio**: [Dom tweetet](https://x.com/DomSchiener/status/1920459647867052089) über ein [X-Spaces mit Memecoin Morning: Markets coming back to life w/ @IOTA](https://x.com/i/spaces/1MnxnwrjBYeKO)
+20. **IOTA Ökosystem**: [Nightly macht einen Thread](https://x.com/Nightly_app/status/1920461710294438372) über die [nightly.app/download](https://nightly.app/download), die jetzt das IOTA Mainnet unterstützt
+21. **IOTA EVM Ökosystem**: Die [IF tweetet](https://x.com/iota/status/1920452721045283081) darüber, dass die [EVM Bridge (evm-bridge.iota.org)](https://evm-bridge.iota.org/) jetzt live ist und man damit jetzt zwischen der IOTA EVM (Layer 2) und IOTA L1 hin und her senden kann
+22. **IOTA Audio**: [Nightly tweetet](https://x.com/Nightly_app/status/1920478798199296340) über eine [Late Night(ly) Show with IOTA](https://x.com/Nightly_app/status/1920478801433186663)
+23. 
  
