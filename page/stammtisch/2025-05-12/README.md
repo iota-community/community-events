@@ -31,5 +31,5 @@
 29. **IOTA Learn**: [Phylo tweetet](https://x.com/PhyloIota/status/1920677050920358165) über seinen Artikel: IOTA Staking all in one! A Staker's Guide to the Rebased Network](https://x.com/PhyloIota/status/1920677050920358165)
 30. **IOTA Ökosystem**: [Liquid Link tweetet](https://x.com/Liquidlink_io/status/1920813848711622835) von [liquidlink.io](https://liquidlink.io/) das bereits im Testnetz getestet werden kann; Auch [kowei retweetet](https://x.com/kowei1995/status/1920815348762505718) das
 31. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1919749178999116168) über ein Meme Contest
-32. 
+32. **Crypto Adoption**: Facebook will scheinbar Cryptopayments unterstützen: [Tweet](https://x.com/fiatarchive/status/1920806384318202125)
  
