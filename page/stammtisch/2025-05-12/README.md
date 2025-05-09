@@ -28,7 +28,7 @@
 26. **Crypto Pump**: Bitcoin durchbricht am Freitag die $100K Marke [coinmarketcap.com](https://coinmarketcap.com/)
 27. **IOTA Drama**: [TangleBay tweetet](https://x.com/tanglebay/status/1920769053230076036) enttäuscht darüber, dass bisher nicht genug Stake zusammen gekommen ist, damit sein Validator Teil des Commitees wird
 28. **IOTA Promote**: Influenzer: [Tweet von DustyBC(220K Follower)](https://x.com/TheDustyBC/status/1920808400939528700)
-29. **
+29. **IOTA Learn**: [Phylo tweetet](https://x.com/PhyloIota/status/1920677050920358165) über seinen Artikel: IOTA Staking all in one! A Staker's Guide to the Rebased Network](https://x.com/PhyloIota/status/1920677050920358165)
 30. **IOTA Ökosystem**: [Liquid Link tweetet](https://x.com/Liquidlink_io/status/1920813848711622835) von [liquidlink.io](https://liquidlink.io/) das bereits im Testnetz getestet werden kann; Auch [kowei retweetet](https://x.com/kowei1995/status/1920815348762505718) das
 31. **
 32. 
