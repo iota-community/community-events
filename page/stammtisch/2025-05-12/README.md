@@ -22,5 +22,14 @@
 20. **IOTA Ökosystem**: [Nightly macht einen Thread](https://x.com/Nightly_app/status/1920461710294438372) über die [nightly.app/download](https://nightly.app/download), die jetzt das IOTA Mainnet unterstützt
 21. **IOTA EVM Ökosystem**: Die [IF tweetet](https://x.com/iota/status/1920452721045283081) darüber, dass die [EVM Bridge (evm-bridge.iota.org)](https://evm-bridge.iota.org/) jetzt live ist und man damit jetzt zwischen der IOTA EVM (Layer 2) und IOTA L1 hin und her senden kann
 22. **IOTA Audio**: [Nightly tweetet](https://x.com/Nightly_app/status/1920478798199296340) über eine [Late Night(ly) Show with IOTA](https://x.com/Nightly_app/status/1920478801433186663)
-23. 
+23. **IOTA Adoption**: Die [IF macht einen Thread](https://x.com/iota/status/1920501452092346570) über ihren Blogpost: [TWIN Foundation Launched - Leading Trade Transformation for Good](https://blog.iota.org/twin-foundation-launched/); [Dom retweetet](https://x.com/DomSchiener/status/1920515317178249510) das und schreibt u.a. "Real. World. Adoption. ..incredibly proud moment for us at IOTA"
+24. **IOTA Adoption**: [TWIN tweetet](https://x.com/TWINGlobalOrg/status/1920502870626931165) über die neue TWIN Foundation und die [IF tweetet](https://x.com/iota/status/1920762216254521733) nochmal ein Video mit Toni Blair, wo er TWIN promotet; Das gleiche Video gibts auch im [Tweet vom Toni Blair Institut](https://x.com/InstituteGC/status/1920773238042292598)
+25. **Crypto Adoption**: [Holger Köther tweetet](https://x.com/HolgerKoether/status/1920797337892401490) über das Event in Barcelona
+26. **Crypto Pump**: Bitcoin durchbricht am Freitag die $100K Marke [coinmarketcap.com](https://coinmarketcap.com/)
+27. **IOTA Drama**: [TangleBay tweetet](https://x.com/tanglebay/status/1920769053230076036) enttäuscht darüber, dass bisher nicht genug Stake zusammen gekommen ist, damit sein Validator Teil des Commitees wird
+28. **IOTA Promote**: Influenzer: [Tweet von DustyBC(220K Follower)](https://x.com/TheDustyBC/status/1920808400939528700)
+29. **
+30. **IOTA Ökosystem**: [Liquid Link tweetet](https://x.com/Liquidlink_io/status/1920813848711622835) von [liquidlink.io](https://liquidlink.io/) das bereits im Testnetz getestet werden kann; Auch [kowei retweetet](https://x.com/kowei1995/status/1920815348762505718) das
+31. **
+32. 
  
