@@ -23,6 +23,7 @@ Upcoming dApps for IOTA Rebased:
 4. Stable Coin: [virtue.money](https://virtue.money/) to be announced on [x.com/Virtue_Money](https://x.com/Virtue_Money)
 5. Leverage Trading: [app.cyberperp.io](https://app.cyberperp.io/) to be announced on [x.com/cyberperp](https://x.com/cyberperp)
 6. Modular Web3 Service Suite: [etospheres.com]([https://x.com/ETOSPHERES](https://etospheres.com/)) to be announced on [x.com/ETOSPHERES](https://x.com/ETOSPHERES)
+7. LiquidLink ([liquidlink.io](https://liquidlink.io/)): [Tweet](https://x.com/Liquidlink_io/status/1920813848711622835)
 
 
 Apps using IOTA Technology:
