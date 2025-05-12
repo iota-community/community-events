@@ -42,5 +42,4 @@
 40. **IOTA NFTs**: Die [Iotamorons tweetet](https://x.com/iotamorons/status/1921856138745618816), dass ihre NFTs auf den Layer 1 wechseln
 41. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1921913256722981259) über [Introducing TWIN Trade - The Future of Supply Chains is Built on IOTA](https://blog.iota.org/introducing-twin-technology/)
 42. **Crypto Adoption**: Nach dem Tradedeal mit China will Trump jetzt offenbar auch Michael Saylor treffen: [Tweet](https://x.com/cryptobeastreal/status/1921902359824781471)
-43. 
  
