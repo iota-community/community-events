@@ -32,7 +32,7 @@
 30. **IOTA Ökosystem**: [Liquid Link tweetet](https://x.com/Liquidlink_io/status/1920813848711622835) von [liquidlink.io](https://liquidlink.io/) das bereits im Testnetz getestet werden kann; Auch [kowei retweetet](https://x.com/kowei1995/status/1920815348762505718) das
 31. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1919749178999116168) über ein Meme Contest
 32. **Crypto Adoption**: Facebook will scheinbar Cryptopayments unterstützen: [Tweet](https://x.com/fiatarchive/status/1920806384318202125)
-33. **IOTA Ökosystem**: Neben [explorer.iota.org](https://explorer.iota.org/) ist jetzt auch [iotascan](https://iotascan.com/mainnet/home live
+33. **IOTA Ökosystem**: Neben [explorer.iota.org](https://explorer.iota.org/) ist jetzt auch [iotascan](https://iotascan.com/mainnet/home) live
 34. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1921143195817111988) Fotos vom Binance Clubhouse Event in Dubai, wo sie Gold Sponsor waren
 35. **IOTA Ökosystem**: Es gab ein großes Update bei [DLT.GREEN](https://x.com/dlt_green/status/1921448093708345479): [Tweet](https://x.com/dlt_green/status/1921448093708345479)
 36. **IOTA DeFi learn**: [ID.iota mach einen Thread](https://x.com/id_iota/status/1921606055613620442) zu DeFi auf IOTA Rebased
