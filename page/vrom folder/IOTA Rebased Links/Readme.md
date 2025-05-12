@@ -1,13 +1,17 @@
 ## Important links for IOTA Rebased
 
-Wallets:
+# Wallets:
 1. Personal Computer (Browser Addons): [IOTA Wallet](https://chromewebstore.google.com/detail/iota-wallet/iidjkmdceolghepehaaddojmnjnkkija); Or: [Nightly Wallet (Chrome, Opera, Edge, Brave)](https://nightly.app/download); 
 2. Mobile Phone: [Nightly Wallet (Play Store)](https://play.google.com/store/apps/details?id=com.nightlymobile&pli=1); [Nightly Wallet (Apple Store)](https://apps.apple.com/pl/app/nightly-multichain-wallet/id6444768157)
 3. IOTA Dashboard (looks like Firefly Wallet, but you have to login with one of the wallets above): [wallet-dashboard.iota.org](https://wallet-dashboard.iota.org/)
    
 (All wallets are Ledger compatible, but you need the new IOTA App on your Ledger Device => Download the App to your Ledger Devide in your Ledger Live application)
 
-Already working dApps for IOTA Rebased:
+# IOTA Explorer:
+1. [iotascan.com](https://iotascan.com/mainnet/home)
+2. [explorer.iota.org](https://explorer.iota.org/)
+
+# Already working dApps for IOTA Rebased:
 1. DEX: [pools.finance](https://www.pools.finance/)
 2. Launchpad: [pools.finance/launch](https://www.pools.finance/launch/)
 3. Liquid Staking: [testnet.swirlstake.com/app](https://testnet.swirlstake.com/app/)
@@ -16,7 +20,7 @@ Already working dApps for IOTA Rebased:
 6. Raffles or Giveaways: [iotaraffle.netlify.app](https://iotaraffle.netlify.app/); [Thread](https://x.com/teunvw5/status/1917567987273421140)
 7. 
 
-Upcoming dApps for IOTA Rebased:
+# Upcoming dApps for IOTA Rebased:
 1. Lending: [Deepr.finance](https://www.deepr.finance/) to be announced on [x.com/DeeprFinance](https://x.com/DeeprFinance)
 2. NFT: [figment.exchange](https://www.figment.exchange/) to be announced on [x.com/figment_nfts](https://x.com/figment_nfts)
 3. RWA: [realize.finance](https://realize.finance/) to be announced on [x.com/realizefinance](https://x.com/realizefinance)
@@ -26,11 +30,11 @@ Upcoming dApps for IOTA Rebased:
 7. LiquidLink ([liquidlink.io](https://liquidlink.io/)): [Tweet](https://x.com/Liquidlink_io/status/1920813848711622835)
 
 
-Apps using IOTA Technology:
+# Apps using IOTA Technology:
 1. Digital Identity: [auvo.io](https://www.auvo.io/)
 
 
-For IOTA Developer:
+# For IOTA Developer:
 1. [IOTA Documentation](https://docs.iota.org/)
 2. [iotalabs.io](https://iotalabs.io/)
 3. [Create IOTA App CLI](https://create-iota-app.vercel.app/) from [NakamaLabs](https://x.com/Nakama_Labs)
