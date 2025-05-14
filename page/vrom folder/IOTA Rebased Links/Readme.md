@@ -4,8 +4,9 @@
 1. Personal Computer (Browser Addons): [IOTA Wallet](https://chromewebstore.google.com/detail/iota-wallet/iidjkmdceolghepehaaddojmnjnkkija); Or: [Nightly Wallet (Chrome, Opera, Edge, Brave)](https://nightly.app/download); 
 2. Mobile Phone: [Nightly Wallet (Play Store)](https://play.google.com/store/apps/details?id=com.nightlymobile&pli=1); [Nightly Wallet (Apple Store)](https://apps.apple.com/pl/app/nightly-multichain-wallet/id6444768157)
 3. IOTA Dashboard (looks like Firefly Wallet, but you have to login with one of the wallets above): [wallet-dashboard.iota.org](https://wallet-dashboard.iota.org/)
+4. Hier noch ein [Tweet](https://x.com/IBCwallet/status/1922576506326270361) über das [Cosmostation Wallet](https://chromewebstore.google.com/detail/cosmostation-wallet/fpkhgmpbidmiogeglndfbkegfdlnajnf?hl=ko&utm_source=ext_sidebar) mit IOTA Integration
    
-(All wallets are Ledger compatible, but you need the new IOTA App on your Ledger Device => Download the App to your Ledger Devide in your Ledger Live application)
+(All wallets are Ledger compatible, but you need the new IOTA App on your Ledger Device => Download the App to your Ledger Device in your Ledger Live application)
 
 # IOTA Explorer:
 1. [iotascan.com](https://iotascan.com/mainnet/home)
