@@ -25,3 +25,5 @@
 23. **IOTA Gaming**: [Uruk Bartas tweeten](https://x.com/UrukBartas/status/1923419170839929304) über ein Update von ihrem Spiel [urukbartas.com](https://urukbartas.com/)
 24. **IOTA Event**: [Dom retweetet](https://x.com/DomSchiener/status/1923386838091174179) über ein Event in Malaysia: [My Blockchain Week](https://x.com/MalaysiaBCW) wo IOTA präsentiert wurde
 25. **IOTA Event**: [Tweet](https://x.com/dx5ve/status/1923263021821956407) über das Event in Afrika am 30.Mai
+26. **IOTA Infrastructure**: [Cigamatoi tweetet](https://x.com/Cigamatoi/status/1923740623896498617) über den neuen [IOTA Staking APY Calculator](https://www.iotaapycalculator.com/)
+27. **IOTA Hype**: [ tweetet](https://x.com/iota_penguin/status/1923669035016741364) über seine Erfahrungen innerhalb der IF
