@@ -11,6 +11,8 @@
 # IOTA Explorer:
 1. [iotascan.com](https://iotascan.com/mainnet/home)
 2. [explorer.iota.org](https://explorer.iota.org/)
+3. [iotaapycalculator.com](https://www.iotaapycalculator.com/)
+4. [dlt.green/de/services/iota-staking-analytics](dlt.green/de/services/iota-staking-analytics)
 
 # Already working dApps for IOTA Rebased:
 1. DEX: [pools.finance](https://www.pools.finance/)
