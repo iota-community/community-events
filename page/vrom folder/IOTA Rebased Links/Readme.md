@@ -9,10 +9,10 @@
 (All wallets are Ledger compatible, but you need the new IOTA App on your Ledger Device => Download the App to your Ledger Device in your Ledger Live application)
 
 # IOTA Explorer:
-1. [iotascan.com](https://iotascan.com/mainnet/home)
-2. [explorer.iota.org](https://explorer.iota.org/)
-3. [iotaapycalculator.com](https://www.iotaapycalculator.com/)
-4. [dlt.green/de/services/iota-staking-analytics](dlt.green/de/services/iota-staking-analytics)
+1. IOTA Explorer: [iotascan.com](https://iotascan.com/mainnet/home)
+2. IOTA Explorer: [explorer.iota.org](https://explorer.iota.org/)
+3. Staking Analytics: [dlt.green/de/services/iota-staking-analytics](dlt.green/de/services/iota-staking-analytics)
+4. Staking APY Calculator: [iotaapycalculator.com](https://www.iotaapycalculator.com/)
 
 # Already working dApps for IOTA Rebased:
 1. DEX: [pools.finance](https://www.pools.finance/)
