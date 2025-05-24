@@ -21,7 +21,7 @@
 4. Staking Explorer: [dlt.green/de/services/staking-explorer](https://dlt.green/de/services/staking-explorer)
 5. First Game: [iotaflip.netlify.app](https://iotaflip.netlify.app/)
 6. Raffles or Giveaways: [iotaraffle.netlify.app](https://iotaraffle.netlify.app/); [Thread](https://x.com/teunvw5/status/1917567987273421140)
-7. 
+7. Link your EVM address to your MoveVM account: [iotalink.io](https://iotalink.io/)
 
 # Upcoming dApps for IOTA Rebased:
 1. Lending: [Deepr.finance](https://www.deepr.finance/) to be announced on [x.com/DeeprFinance](https://x.com/DeeprFinance)
