@@ -34,3 +34,4 @@
 32. **IOTA Promote**: [Crypto Rand tweetet](https://x.com/crypto_rand/status/1926910171395022853) über die extrem niedrigen Gebühren bei IOTA im Gegensatz zu ETH, BNB, SUI und Solana und in [diesem Tweet](https://x.com/byMattHarder/status/1926944589727846826) wird das noch ausführlicher beschrieben
 33. **Crypto Adoption**: [Michael Saylor tweetet](https://x.com/saylor/status/1926972171349373129), dass Strategy B weitere 4000 BTC für $427,1 Millionen gekauft hat
 34. **IOTA Audio**: [Tweet von INATBA](https://x.com/INATBA_org/status/1926976263601692722) über ein [X-Spaces Event: Internationalisation of National Identity](https://x.com/i/spaces/1MnxnwaeZjVKO) mit Eike Haß von der IF
+35. **IOTA Ökosystem**: Die [IF tweetet](https://x.com/iota/status/1927001788508442814), dass [IOTA Identity](https://github.com/iotaledger/identity) jetzt Main Net kompatibel ist
