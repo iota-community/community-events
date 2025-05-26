@@ -42,4 +42,5 @@
 1. [IOTA Documentation](https://docs.iota.org/)
 2. [iotalabs.io](https://iotalabs.io/)
 3. [Create IOTA App CLI](https://create-iota-app.vercel.app/) from [NakamaLabs](https://x.com/Nakama_Labs)
+4. [iota identity](https://github.com/iotaledger/identity)
 
