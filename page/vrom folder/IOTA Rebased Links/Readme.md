@@ -13,6 +13,7 @@
 2. IOTA Explorer: [explorer.iota.org](https://explorer.iota.org/)
 3. Staking Analytics: [dlt.green/de/services/iota-staking-analytics](dlt.green/de/services/iota-staking-analytics)
 4. Staking APY Calculator: [iotaapycalculator.com](https://www.iotaapycalculator.com/)
+5. Staking Overview: [iota.guru](www.iota.guru)
 
 # Already working dApps for IOTA Rebased:
 1. DEX: [pools.finance](https://www.pools.finance/)
