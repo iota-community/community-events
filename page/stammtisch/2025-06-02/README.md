@@ -28,7 +28,7 @@
 26. **Crypto Adoption**: Trumps Firma hat die Kapitalaufnahme abgeschlossen um Bitcoin zu kaufen: [Tweet](https://x.com/blocktrainer/status/1928474351092859350)
 27. **IOTA Video**: Neues Video von Kutkraft: [TWIN: The Future of Global Trade -- Powered by IOTA.](https://www.youtube.com/watch?v=oHtYmPRjzKs); Auch [Dom retweetet](https://x.com/DomSchiener/status/1928429571168186808) das mit den Worten "Watch it 🔥 - Real world adoption - IOTA"
 28. **IOTA Promote**: [swirl tweetet](https://x.com/swirlstake/status/1928405311540416713) über ihren APY Boost der gestartet wurde
-29. **IOTA NFT Ökosystem**: Die [iotapunks tweeten](https://x.com/IotaPunks_71/status/1928191176286327206) dass man seine IOTA punks migrieren kann auf [iotapunks.store](https://iotapunks.store/)
+29. **IOTA NFT Ökosystem**: Die [iotapunks tweeten](https://x.com/IotaPunks_71/status/1928191176286327206) dass man IOTA punks ([iotapunks.store](https://iotapunks.store/)) kaufen kann auf [figment.exchange](https://www.figment.exchange/)
 30. **Crypto Adoption**: Tether besitzt über 100K an BTC: [Tweet](https://x.com/BitcoinMagazine/status/1928166935537058181)
 31. **Crypto Adoption**: Paris Saint German, der Fußballverein der gerade im Championsleague Finale ist, hat Bitcoins gekauft: [Tweet](https://x.com/BitcoinMagazine/status/1928158160751079898)
 32. **IOTA Ökosystem**: [Tweet](https://x.com/iota_guru/status/1928123059744956841) über ein Update bei [iota.guru](https://www.iota.guru/), die jetzt auch die Metriken der Validatoren anzeigen (was diese Woche wichtig war). [DLT.GREEN lobt](https://x.com/dlt_green/status/1928471584144056581) das auch
