@@ -45,3 +45,5 @@
 43. **IOTA Network**: Es gibt ein Update bei im IOTA Rebased code und [DLT.GREEN tweetet](https://x.com/dlt_green/status/1929403140438208592), dass ihre OGs sich per Token-Vote dafür entschieden haben so dass es von ihrem Validator jetzt auch umgesetzt wird
 44. **IOTA Audio**: [iotalabs tweetet](https://x.com/iotalabs_/status/1929478441734156406) über "BuildSphere episode 29" das am Donnerstag stattfindet
 45. **IOTA Event**: [iotaevent tweetet](https://x.com/iotashop/status/1929482459000807787) über die Berlin Blockchain Week und hofft, das sie dort auch ein IOTA Event starten können
+46. **Allg. News**: Der Vulkan Etna ist ausgebrochen: [Tweet](https://x.com/GeoTales_/status/1929489680958935448)
+47. **Allg. News**: Mit der Operation Spiderweb [Thread](https://x.com/anmol_kaundilya/status/1929430984522662212) wurde Russlands Fliegerflotte wurde stark (1/3) geschwächt, kurz bevor die Friedensverhandlungen am Montag gestartet sind: [Tweet](https://x.com/frei_geist_/status/1929514349212635322)
