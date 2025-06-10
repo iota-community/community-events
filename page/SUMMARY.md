@@ -226,5 +226,6 @@
 - [2025-05-26](./stammtisch/2025-05-26/README.md)
 - [2025-06-02](./stammtisch/2025-06-02/README.md)
 - [2025-06-09](./stammtisch/2025-06-09/README.md)
+- [2025-06-16](./stammtisch/2025-06-16/README.md)
 
 
