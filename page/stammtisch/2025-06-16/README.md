@@ -10,4 +10,6 @@
 8. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1931290057563898216) über eine "fantastische Zusammenkunft von Köpfen, die das reale DLT-Potenzial erkunden", also ein Science Event ("#ICBC2025") in Pisa
 9. **IOTA Audio**: AMA mit Dom in einer chinesischen Telegram Gruppe? [Tweet](https://x.com/ROKMCFIREANT/status/1931999594776526977); Später wahrscheinlich auch auf Youtube zu finden: [youtube.com/@FIREANTCRYPTO](https://www.youtube.com/@FIREANTCRYPTO)
 10. **IOTA Video**: [TLIP tweetet](https://x.com/TLIP_io/status/1932394583154995278) über [Take On Tech: Can a bin think? JKUAT students unveil a Smart Bin that sorts waste in real-time](https://www.youtube.com/watch?v=sT6BceaG0pA) (gleiches Video wie in Punkt 6
-11. 
+11. **IOTA Ökosystem**: Die [IF tweetet](https://x.com/iota/status/1932461639372001601) über [stakingrewards.com/asset/iota](https://www.stakingrewards.com/asset/iota) die jetzt IOTA gelistet haben
+12. **Crypto Adoption**: Coinbase sagt, dass 60% der Fortune 500 Unternehmen an Krypto Projekten arbeiten: [Tweet](https://x.com/MartiniGuyYT/status/1932432964518129928)
+13. **IOTA Ökosystem**: [Virtue tweetet](https://x.com/Virtue_Money/status/1932443384163234257) darüber, dass sie live sind im Testnet mit [virtue.money](https://virtue.money/)
