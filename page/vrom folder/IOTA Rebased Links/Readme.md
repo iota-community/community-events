@@ -29,10 +29,11 @@
 1. Lending: [Deepr.finance](https://www.deepr.finance/) to be announced on [x.com/DeeprFinance](https://x.com/DeeprFinance)
 2. NFT: [figment.exchange](https://www.figment.exchange/) to be announced on [x.com/figment_nfts](https://x.com/figment_nfts)
 3. RWA: [realize.finance](https://realize.finance/) to be announced on [x.com/realizefinance](https://x.com/realizefinance)
-4. Stable Coin: [virtue.money](https://virtue.money/) to be announced on [x.com/Virtue_Money](https://x.com/Virtue_Money)
+4. Stable Coin: [virtue.money](https://virtue.money/) already working in testnet on [staging.virtue.money](https://staging.virtue.money)
 5. Leverage Trading: [app.cyberperp.io](https://app.cyberperp.io/) to be announced on [x.com/cyberperp](https://x.com/cyberperp)
 6. Modular Web3 Service Suite: [etospheres.com]([https://x.com/ETOSPHERES](https://etospheres.com/)) to be announced on [x.com/ETOSPHERES](https://x.com/ETOSPHERES)
 7. LiquidLink ([liquidlink.io](https://liquidlink.io/)): [Tweet](https://x.com/Liquidlink_io/status/1920813848711622835)
+8. 
 
 
 # Apps using IOTA Technology:
