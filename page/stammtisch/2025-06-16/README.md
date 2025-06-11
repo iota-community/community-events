@@ -14,4 +14,7 @@
 12. **Crypto Adoption**: Coinbase sagt, dass 60% der Fortune 500 Unternehmen an Krypto Projekten arbeiten: [Tweet](https://x.com/MartiniGuyYT/status/1932432964518129928)
 13. **IOTA Ökosystem**: [Virtue tweetet](https://x.com/Virtue_Money/status/1932443384163234257) darüber, dass sie live sind im Testnet mit [virtue.money](https://virtue.money/)
 14. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1932756196928201195) über das Event bei der Blockchainweek Berlin
-15. 
+15. **Crypto Adoption**: Ukraine will Bitcoin kaufen: [Tweet](https://x.com/Vivek4real_/status/1932710239670865994)
+16. **IOTA Exchange**: Neue Exchange listet IOTA? [Tweet](https://x.com/Meria_Finance/status/1932476792826106037)
+17. **IOTA Ökosystem**: [coda tweetet](https://x.com/coda_digital/status/1932420402183024840) über ein Update. Man kann jetzt auch als web2 User Musikrechte bei [coda.to](https://www.coda.to/) kaufen
+18. **Allg. News**: Die USA und China haben sich offenbar im Handelsstreit geeinigt: [Tweet](https://x.com/bitcoin2go/status/1932780269762744416)
