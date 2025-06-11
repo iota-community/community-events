@@ -13,3 +13,5 @@
 11. **IOTA Ökosystem**: Die [IF tweetet](https://x.com/iota/status/1932461639372001601) über [stakingrewards.com/asset/iota](https://www.stakingrewards.com/asset/iota) die jetzt IOTA gelistet haben
 12. **Crypto Adoption**: Coinbase sagt, dass 60% der Fortune 500 Unternehmen an Krypto Projekten arbeiten: [Tweet](https://x.com/MartiniGuyYT/status/1932432964518129928)
 13. **IOTA Ökosystem**: [Virtue tweetet](https://x.com/Virtue_Money/status/1932443384163234257) darüber, dass sie live sind im Testnet mit [virtue.money](https://virtue.money/)
+14. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1932756196928201195) über das Event bei der Blockchainweek Berlin
+15. 
