@@ -18,7 +18,7 @@
 16. **IOTA Exchange**: Neue Exchange listet IOTA? [Tweet](https://x.com/Meria_Finance/status/1932476792826106037)
 17. **IOTA Ökosystem**: [coda tweetet](https://x.com/coda_digital/status/1932420402183024840) über ein Update. Man kann jetzt auch als web2 User Musikrechte bei [coda.to](https://www.coda.to/) kaufen
 18. **Allg. News**: Die USA und China haben sich offenbar im Handelsstreit geeinigt: [Tweet](https://x.com/bitcoin2go/status/1932780269762744416)
-19. **IOTA Science Event**: Die [IF tweetet](https://x.com/iota/status/1932784885258764796) über ein Event ([protocol.berlin](https://protocol.berlin/)) wo Starfish, der neue Consensus Mechanismus, vorgestellt wird
+19. **IOTA Science Event**: Die [IF tweetet](https://x.com/iota/status/1932784885258764796) über ein Event ([protocol.berlin](https://protocol.berlin/)) wo Starfish, der neue Consensus Mechanismus, vorgestellt wird; Hier ein [Tweet mit Bild](https://x.com/protocol_berg/status/1933177958497214743) von dem Vortrag
 20. **IOTA Blogpost**: [Celebrating Innovation - The Winners of the APAC Moveathon](https://blog.iota.org/apac-moveathon-winners/)
 21. **IOTA Promote**: IOTA ist dabei bei den TOP PROJECTS BY DEVELOPMENT ACTIVITY GROWTH: [Tweet](https://x.com/chain_broker/status/1932830189106414017)
 22. **IOTA Ökosystem**: Update bei IOTAHeroes: [Tweet](https://x.com/IotaHeroes/status/1896919856395485267)
