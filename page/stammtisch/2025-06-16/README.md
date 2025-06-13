@@ -29,3 +29,12 @@
 27. **IOTA Event**: [kowei tweetet](https://x.com/kowei1995/status/1933104490674299314) auch über das Event in Malaysia
 28. **IOTA Event**: [Markus Soppa macht ein Threasm](https://x.com/MS_filancore/status/1933102350668890290) über eine Messe wo sie mit [Filancore](https://x.com/FilancoreGmbH) sind
 29. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1933456924781035710) über [Staking Officials](https://x.com/StakinOfficial)
+30. **IOTA Audio**: [AMA mit Dom](https://x.com/ROKMCFIREANT/status/1933128539693605148)
+31. **IOTA Promote**: IOTA bei Coinmarketcap in der DePin Wertung: [Tweet](https://x.com/Salimasbegum/status/1933210455113134239)
+32. **Crypto Adoption**: Coinbase Partnerschaft mit Shopify: [Tweet](https://x.com/AltcoinDaily/status/1933233233808011651)
+33. **IOTA Event**: Am 24. Juni mit [Eike Haß von der IF](https://x.com/eike_ha): [Tweet](https://x.com/INATBA_org/status/1933432321002385846)
+34. **Crypto Adoption**: Amazon und Walmarkt wollen zusammen einen Stablecoin raus bringen: [Tweet](https://x.com/coinbureau/status/1933462978021515564)
+35. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/1933576223340237027) über eine Anwendung von IOTA Identity bei [objectid.io](https://objectid.io/)
+36. **IOTA Ökosystem**: Ein [Thread von Uruk Bartas](https://x.com/UrukBartas/status/1933566723925631234) über ein Update ihres Spiels
+37. **IOTA Validator**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1933546239997489302) über Citynet auf dem sie laufen, das die Disaster-Recovery-Funktionen mit Lenovo TruScale verbessert.
+
