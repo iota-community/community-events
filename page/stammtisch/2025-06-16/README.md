@@ -18,3 +18,13 @@
 16. **IOTA Exchange**: Neue Exchange listet IOTA? [Tweet](https://x.com/Meria_Finance/status/1932476792826106037)
 17. **IOTA Ökosystem**: [coda tweetet](https://x.com/coda_digital/status/1932420402183024840) über ein Update. Man kann jetzt auch als web2 User Musikrechte bei [coda.to](https://www.coda.to/) kaufen
 18. **Allg. News**: Die USA und China haben sich offenbar im Handelsstreit geeinigt: [Tweet](https://x.com/bitcoin2go/status/1932780269762744416)
+19. **IOTA Science Event**: Die [IF tweetet](https://x.com/iota/status/1932784885258764796) über ein Event ([protocol.berlin](https://protocol.berlin/)) wo Starfish, der neue Consensus Mechanismus, vorgestellt wird
+20. **IOTA Blogpost**: [Celebrating Innovation - The Winners of the APAC Moveathon](https://blog.iota.org/apac-moveathon-winners/)
+21. **IOTA Promote**: IOTA ist dabei bei den TOP PROJECTS BY DEVELOPMENT ACTIVITY GROWTH: [Tweet](https://x.com/chain_broker/status/1932830189106414017)
+22. **IOTA Ökosystem**: Update bei IOTAHeroes: [Tweet](https://x.com/IotaHeroes/status/1896919856395485267)
+23. **IOTA Development**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1932828832912060690) über ein IOTA Rebased Mainnet Protocol Upgrade V8, dass sie umsetzen wollen
+24. **IOTA Event**: [Phylo tweetet](https://x.com/PhyloIota/status/1932945638813282388) über eine Keynote die er in Malaysia gegeben hat
+25. **IOTA Adoption**: Die [IF retweetet](https://x.com/iota/status/1933076853830340788) den [Tweet von GBBC](https://x.com/GBBCouncil/status/1932910081940803956) über [GBBC’s 101 Real-World Blockchain Use Cases Handbook](https://t.co/9b1EOofQBJ) in dem IOTA vorkommt (TLIP und TWIN)
+26. **IOTA Promote**: [Stefan tweetet](https://x.com/iota_penguin/status/1933079905937276990) über Realize Finance und ihre RWA Lösung die gerade auditiert wird
+27. **IOTA Event**: [kowei tweetet](https://x.com/kowei1995/status/1933104490674299314) auch über das Event in Malaysia
+28. 
