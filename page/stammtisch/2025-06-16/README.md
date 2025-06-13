@@ -27,4 +27,5 @@
 25. **IOTA Adoption**: Die [IF retweetet](https://x.com/iota/status/1933076853830340788) den [Tweet von GBBC](https://x.com/GBBCouncil/status/1932910081940803956) über [GBBC’s 101 Real-World Blockchain Use Cases Handbook](https://t.co/9b1EOofQBJ) in dem IOTA vorkommt (TLIP und TWIN)
 26. **IOTA Promote**: [Stefan tweetet](https://x.com/iota_penguin/status/1933079905937276990) über Realize Finance und ihre RWA Lösung die gerade auditiert wird
 27. **IOTA Event**: [kowei tweetet](https://x.com/kowei1995/status/1933104490674299314) auch über das Event in Malaysia
-28. 
+28. **IOTA Event**: [Markus Soppa macht ein Threasm](https://x.com/MS_filancore/status/1933102350668890290) über eine Messe wo sie mit [Filancore](https://x.com/FilancoreGmbH) sind
+29. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1933456924781035710) über [Staking Officials](https://x.com/StakinOfficial)
