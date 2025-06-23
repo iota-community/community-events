@@ -34,14 +34,14 @@
 32. **Crypto Adoption**: Coinbase Partnerschaft mit Shopify: [Tweet](https://x.com/AltcoinDaily/status/1933233233808011651)
 33. **IOTA Event**: Am 24. Juni mit [Eike Haß von der IF](https://x.com/eike_ha): [Tweet](https://x.com/INATBA_org/status/1933432321002385846)
 34. **Crypto Adoption**: Amazon und Walmarkt wollen zusammen einen Stablecoin raus bringen: [Tweet](https://x.com/coinbureau/status/1933462978021515564)
-35. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/1933576223340237027) über eine Anwendung von IOTA Identity bei [objectid.io](https://objectid.io/)
+35. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/1933576223340237027) über eine Anwendung von IOTA Identity bei [objectid.io](https://objectid.io/); Auch die [IF retweetet](https://x.com/iota/status/1937047315119816949) den [Tweet von Object.id](https://x.com/ObjectID_io/status/1936403405284470841) zu dem Thema
 36. **IOTA Ökosystem**: Ein [Thread von Uruk Bartas](https://x.com/UrukBartas/status/1933566723925631234) über ein Update ihres Spiels
 37. **IOTA Validator**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1933546239997489302) über Citynet auf dem sie laufen, das die Disaster-Recovery-Funktionen mit Lenovo TruScale verbessert.
 38. **IOTA Adoption**: Die [IF retweetet](https://x.com/iota/status/1934534995537789043) den [Tweet von INATBA](https://x.com/INATBA_org/status/1933432321002385846) über digitale Identitäten
 39. **IOTA Audio**: [IOTA X-Spaces mit Kutkraft](https://x.com/kutkraft/status/1934494474639638661)
 40. **Crypto Adoption**: Vietnam legalisiert Crypto: [Tweet](https://x.com/Cointelegraph/status/1934204402404900989)
-41. **Crypto Adoption**: US Banken können jetzt (Bald?) Crypto anbieten: [Tweet](https://x.com/coinbureau/status/1933962644765233531)
+41. **Crypto Adoption**: US Banken können jetzt (bald?) Crypto anbieten: [Tweet](https://x.com/coinbureau/status/1933962644765233531)
 42. **Crypto Adoption**: Frankreich macht ein Gesetzesvorschlag um als Staat Crypto Mining zu betreiben: [Tweet](https://x.com/pete_rizzo_/status/1933546919256621097)
 43. **IOTA Event**: [Tweet](https://x.com/iotashop/status/1934537699366740421) zum IOTA Rooftop Event in Neuköln
-44. 
+44. **IOTA Science**: [Salima tweetet](https://x.com/Salimasbegum/status/1937116542543532489) über ein [Paper: Shaping the next generations of chips](https://www.dac.com/Portals/0/62DAC/Program/62DACProgram.pdf?ver=M_DMJU3AU3OMZhX6dDjwsQ%3D%3D) wo auf Seite 85 IOTA drin vorkommt
 
