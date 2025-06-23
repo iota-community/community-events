@@ -26,3 +26,5 @@
 24. **IOTA Exchange**: [wukong tweetet](https://x.com/defiwukong/status/1936053125280149927) darüber, dass man IOTA kaufen kann auf [letsexchange.io](https://letsexchange.io/)
 25. **IOTA Soon**: [TokenLabs tweetet](https://x.com/TokenLabsX/status/1936335120782573974) über "omething very special is coming your way"
 26. **IOTA Science**: [Salima tweetet](https://x.com/Salimasbegum/status/1936497971291463868) über ein neues Paper: [DAPP for Short-Term Accommodation Rentals on the Ethereum and IOTA Blockchains](https://t.co/fsn1ErTjiC)
+27. **Crypto Adoption**: Strategy hat 245 BTC für ca. 26,0 Millionen US-Dollar gekauft: [Tweet](https://x.com/saylor/status/1937118945057915061)
+28. **Crypto Crash**: Die Spannungen in Iran haben zu einem ordentlichn Absturz auf den Crypto Märkten geführt: [coinmarketcap.com](https://coinmarketcap.com/)
