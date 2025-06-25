@@ -39,6 +39,7 @@
 
 # Apps using IOTA Technology:
 1. Digital Identity: [auvo.io](https://www.auvo.io/)
+2. Digitale (Objekt) ID: [X-Account: ObjectID_io](https://x.com/ObjectID_io); Website: [https://objectid.io/](https://objectid.io/)
 
 
 # For IOTA Developer:
