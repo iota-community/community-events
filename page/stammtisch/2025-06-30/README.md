@@ -25,5 +25,5 @@
 23. **IOTA Audio**: Am Dienstag ist ein [X-Spaces mit Kutkraft](https://x.com/kutkraft/status/1939154991740264811)
 24. **IOTA Adoption**: [Dom tweetet](https://x.com/DomSchiener/status/1939237564105314765) "lots more coming" zu dem [Tweet](https://x.com/VikEUNE/status/1938997601162141716) über die Ländern die bereits TLIP oder TWIN verwenden
 25. **IOTA Gaming**: Die [Tangle Community Treasury retweetet](https://x.com/TangleTreasury/status/1939612096385384508) den [Tweet von Trappist 1 MMO](https://x.com/trappist1_mmo/status/1938979393445019970) über ihr Spiel in dem man offenbar 5000$ in Shimmer verdinen kann, bereitgestellt von der Shimmer Community Treasury
-26. **IOTA Ökosystem**: [LiquidLink tweetet](https://x.com/Liquidlink_io/status/1939655141587816632) darüber, dass [LiquidLink.io](https://liquidlink.io/) jetzt live ist auf dem IOTA Mainnet
+26. **IOTA Ökosystem**: [LiquidLink tweetet](https://x.com/Liquidlink_io/status/1939655141587816632) darüber, dass [LiquidLink.io](https://liquidlink.io/) jetzt live ist auf dem IOTA Mainnet; Auch [swirl tweetet](https://x.com/swirlstake/status/1939657648309170680) darüber
 27. **Crypto Adoption**: Strategie hat wieder fast 5000 BTC gekauft: [Tweet](https://x.com/saylor/status/1939655936118808917)
