@@ -2,7 +2,7 @@
 
 1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1937073280273273309) über die [IOTA Quicktakes](https://x.com/iota/status/1937073280273273309)
 2. **IOTA Ökosystem**: [Iotaguru tweetet](https://x.com/iota_guru/status/1937198220293410886) über ein Update bei [iota.guru](https://www.iota.guru/)
-3. **IOTA Ökosystem**: [starfisch tweetet](https://x.com/starfishoneiota/status/1937546536532983918) über ein Update bei 
+3. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1937809348610146438) über die letzte Woche in der Mega Airdrop Kampagne
 4. **IOTA Promote**: [kingloui tweetet](https://x.com/kingloui96/status/1937189690538344822) darüber, dass IOTA erwähnt wurde in dem AskCI-Marktbericht (China) als wichtiger Akteur im globalen Datenhandels-Ökosystem
 5. **IOTA Promote**: Neues [Short Video von Kutkraft](https://x.com/kutkraft/status/1937437627692839191) über TWIN
 6. **IOTA Promote**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1937554725378851161) ein anschauliches Video über [Object.ID](objectid.io)
@@ -12,7 +12,7 @@
 10. **IOTA Hype**: [Tweet von Dom](https://x.com/DomSchiener/status/1937501860501315843) über "..100-Milliarden-Dollar-Unternehmen ...konzentriert sich IOTA unermüdlich auf die Digitalisierung des Rückgrats unserer modernen Wirtschaft – des internationalen Handels. Wir sind hier, um diesen Markt als Erste zu erobern..."; [shotaktion tweetet](https://x.com/shortaktien/status/1937859217227923946) daraufhin über seine dApp: [my2c.eu](https://my2c.eu/); Er braucht offenbar Leute die das ausgiebig nutzen: [Tweet](https://x.com/shortaktien/status/1938247451133051141)
 11. **Crypto Adoption**: China erlaubt den ersten Crypto Broker auf dem Festland: [Tweet](https://x.com/pete_rizzo_/status/1937805122433671466)
 12. **IOTA Ökosystem**: [DLT-GREEN tweetet](https://x.com/dlt_green/status/1938258666479665278) über ihre "Strategische Partnerschaft" mit [Object.id](https://x.com/ObjectID_io). Auch [Object.id tweetet](https://x.com/ObjectID_io/status/1938260280833937712) darüber; Und hier [tweetet DLT.GREEN](https://x.com/dlt_green/status/1937886558113206366) über das onboarding bei [objectid.io](https://objectid.io/)
-13. **IOTA Ökosystem**: [starfish one tweetet](https://x.com/starfishoneiota/status/1937546536532983918) eine Grafik in der man sieht, wieviel Stake die einzelnen IOTA Validatoren im Vergleich zu fremdem Stake bei sich gestaked haben (Skin in the Game)
+13. **IOTA Ökosystem**: [starfish-one tweetet](https://x.com/starfishoneiota/status/1937546536532983918) eine Grafik in der man sieht, wieviel Stake die einzelnen IOTA Validatoren im Vergleich zu fremdem Stake bei sich gestaked haben (Skin in the Game)
 14. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/1937628942095335520) über das Video: [AIs reveal that Markets & Markets and Mordor Intelligence have also spotlighted IOTA.](https://youtu.be/NDmEWXefgKUf)
 15. **IOTA Promote**: [Kutkraft tweetet](https://x.com/kutkraft/status/1937732182409461891) über ein neues Ambassador Program ("Create an AI Hype Video about IOTA") von der IF
 16. **IOTA Hype**: [Dom tweetet](https://x.com/DomSchiener/status/1937507803477778663) über "Buy Back program". Er antwortet: "We are working on some big structures to do exactly that right now." 
