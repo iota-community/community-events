@@ -50,4 +50,5 @@
 3. [Create IOTA App CLI](https://create-iota-app.vercel.app/) from [NakamaLabs](https://x.com/Nakama_Labs)
 4. [iota identity](https://github.com/iotaledger/identity)
 5. [twindev.orgs](https://twindev.org/docs/pkgs)
+6. [iota notarization](https://www.iota.org/products/notarization?ref=blog.iota.org)
 
