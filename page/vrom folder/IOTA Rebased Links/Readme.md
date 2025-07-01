@@ -41,6 +41,7 @@
 # Apps using IOTA Technology:
 1. Digital Identity: [auvo.io](https://www.auvo.io/)
 2. Digitale (Objekt) ID: [X-Account: ObjectID_io](https://x.com/ObjectID_io); Website: [https://objectid.io/](https://objectid.io/)
+3. TWIN: [twindev.orgs](https://twindev.org/docs/pkgs)
 
 
 # For IOTA Developer:
@@ -48,4 +49,5 @@
 2. [iotalabs.io](https://iotalabs.io/)
 3. [Create IOTA App CLI](https://create-iota-app.vercel.app/) from [NakamaLabs](https://x.com/Nakama_Labs)
 4. [iota identity](https://github.com/iotaledger/identity)
+5. [twindev.orgs](https://twindev.org/docs/pkgs)
 
