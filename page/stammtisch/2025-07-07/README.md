@@ -15,3 +15,4 @@
 13. **Crypto Adoption**: Elon Musk hat scheinbar einen Post geliked in der stand: "He is secretly buying Bitcoin"
 14. **IOTA Progress**: Die [IF macht einen Thread](https://x.com/iota/status/1940395038778790366) über ihren Blogpost: [Q2 2025 Progress Report](https://blog.iota.org/q2-2025-progress-report/)
 15. **Crypto Adoption**: Eine chinesische Firma will $1,3 Milliarden in BTC investieren: [Tweet](https://x.com/Vivek4real_/status/1940402179145412773)
+16. **Crypto Adoption**: Peter Thiel will eine Crypto Bank starten: [Tweet](https://x.com/pete_rizzo_/status/1940396412522352998)
