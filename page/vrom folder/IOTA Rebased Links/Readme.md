@@ -52,5 +52,6 @@
 4. [iota identity](https://github.com/iotaledger/identity)
 5. [twindev.orgs](https://twindev.org/docs/pkgs)
 6. [iota notarization](https://www.iota.org/products/notarization?ref=blog.iota.org)
-7. [iota-gas-station-alpha](https://blog.iota.org/iota-gas-station-alpha/)
+7. [iota-gas-station-alpha](https://blog.iota.org/iota-gas-station-alpha/); [https://www.iota.org/products/gas-station?ref=blog.iota.org](https://www.iota.org/products/gas-station?ref=blog.iota.org)
+8. [Digital Product Passport](https://www.iota.org/learn/showcases/dpp)
 
