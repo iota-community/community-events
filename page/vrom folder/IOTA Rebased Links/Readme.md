@@ -35,13 +35,14 @@
 5. Leverage Trading: [app.cyberperp.io](https://app.cyberperp.io/) to be announced on [x.com/cyberperp](https://x.com/cyberperp)
 6. Modular Web3 Service Suite: [etospheres.com]([https://x.com/ETOSPHERES](https://etospheres.com/)) to be announced on [x.com/ETOSPHERES](https://x.com/ETOSPHERES)
 7. LiquidLink ([liquidlink.io](https://liquidlink.io/)): [Tweet](https://x.com/Liquidlink_io/status/1920813848711622835)
-8. 
 
 
 # Apps using IOTA Technology:
 1. Digital Identity: [auvo.io](https://www.auvo.io/)
 2. Digitale (Objekt) ID: [X-Account: ObjectID_io](https://x.com/ObjectID_io); Website: [https://objectid.io/](https://objectid.io/)
 3. TWIN: [twindev.orgs](https://twindev.org/docs/pkgs)
+4. Digital Product Passport: [orobo.tech](https://orobo.tech)
+5. Digital Identity: [impierce.com](https://www.impierce.com/?ref=blog.iota.org#products)
 
 
 # For IOTA Developer:
