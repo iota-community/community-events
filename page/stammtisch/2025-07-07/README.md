@@ -19,3 +19,5 @@
 17. **Crypto Talk**: Nach 14 Jahren ist eine Bitcoin Adresse aufgewacht und hat 10.000 Bitcoin im Wert von 1,09 Milliarden US-Dollar bewegt: [Tweet](https://x.com/BitcoinMagazine/status/1941049799811416097)
 18. **IOTA Promote**: [Tweet](https://x.com/mat_rash38998/status/1940843011279409583) über die Begeisterung
 19. **IOTA Promote**: Die [IF macht ein Thread](https://x.com/iota/status/1941014116837081470) darüber, dass IOTA Rebased schon 100 Millionen Transaktionen bestätigt hat
+20. **IOTA Promote**: Dom war scheinbar im koreanischen Fernsehen: [Tweet](https://x.com/ksatoshi_iota/status/1941384716550275349)
+21. 
