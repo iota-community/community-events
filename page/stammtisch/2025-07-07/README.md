@@ -19,5 +19,11 @@
 17. **Crypto Talk**: Nach 14 Jahren ist eine Bitcoin Adresse aufgewacht und hat 10.000 Bitcoin im Wert von 1,09 Milliarden US-Dollar bewegt: [Tweet](https://x.com/BitcoinMagazine/status/1941049799811416097)
 18. **IOTA Promote**: [Tweet](https://x.com/mat_rash38998/status/1940843011279409583) über die Begeisterung
 19. **IOTA Promote**: Die [IF macht ein Thread](https://x.com/iota/status/1941014116837081470) darüber, dass IOTA Rebased schon 100 Millionen Transaktionen bestätigt hat
-20. **IOTA Promote**: Dom war scheinbar im koreanischen Fernsehen: [Tweet](https://x.com/ksatoshi_iota/status/1941384716550275349)
-21. 
+20. **IOTA Promote**: Dom war im koreanischen Fernsehen: [Tweet](https://x.com/ksatoshi_iota/status/1941384716550275349); Hier das ganze Interview: [Tweet](https://x.com/moonbaklava/status/1941567012372971782); Und hier [Doms Kommentar](https://x.com/DomSchiener/status/1941868277434642583) dazu
+21. **IOTA Promote**: Kutkraft hat scheinbar ein Ki-Workshop für Promo Videos gemacht: [Tweet](https://x.com/Cigamatoi/status/1941821716637843771)
+22. **IOTA Promote**: [Jonathan tweetet](https://x.com/3rdEclips3/status/1942207766560464945) über ein Ambassador-Incentiveprogram für das beste Ki Video über IOTA
+23. **Crypto Adoption**: Elon Musk hat eine neue Partei gegründet und schreibt "Fiat is hopeless. So yes" als er gefragt wurde ob sie Bitcoin unterstützt: [Tweet](https://x.com/blocktrainer/status/1942034931414159381)
+24. **Crypto Adoption**: Der X-Account der [Americanischen Partei tweetet](https://x.com/AmericaPartyX/status/1942030173081157784): "Crypto adoption isn’t optional—it’s inevitable"
+25. **Crypto Adoption**: Strategie B kauft weiter Bitcoin: [Tweet](https://x.com/saylor/status/1942200866158596465)
+26. **IOTA Audio**: Am Montag war ein [Kowei X-Spaces Event: Monday's Web3 Global Talks](https://x.com/iota/status/1942173202442022978)
+27. **IOTA Ökosystem**: [Iotaguru tweetet](https://x.com/iota_guru/status/1942145370521280597) über ein Update von [iota.guru](https://www.iota.guru/). Es wird jetzt angezeigt wo und wieviel [Swirl](https://x.com/swirlstake) (stIOTA) überall staked
