@@ -14,4 +14,7 @@
 12. **IOTA Adoption**: Das Tradingvolumen bei IOTA hat sich am Donnerstag verdoppelt: [Tweet](https://x.com/tanglelytics/status/1943113305687494973)
 13. **Crypto Adoption**: Apple hat das erste IOS Spiel genehmigt, dass Lightning Zahlungen verwendet: [Tweet](https://x.com/Vivek4real_/status/1943211361175027861)
 14. **Ki News**: [GROK 4 wurde veröffentlicht](https://x.com/xai/status/1943158495588815072) und schlägt scheinbar alle anderen Ki Modelle: [Tweet](https://x.com/deedydas/status/1943190393602068801)
-15. 
+15. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1943298880537350653) über ein Crypto Event in Bali: [coinfest.asia](https://coinfest.asia/) "The Worlds Largest Crypto Event"
+16. **IOTA Event**: [Tweet](https://x.com/IotaRebased/status/1943295144473542723) über ein Hackathon Event in Malaysia: [IOTA Hackathon Malaysia 2025](https://lu.ma/6d0xwfqw)
+17. **IOTA Ökosystem**: Die [IF retweetet](https://x.com/iota/status/1943302321175195843) den [Tweet vom Keystone Hardware Wallet](https://x.com/KeystoneWallet/status/1943297379613933645) die über die IOTA Integration im Nightly Wallet berichten
+18. 
