@@ -10,3 +10,8 @@
 8. **IOTA Hype**: [Phylor tweetet](https://x.com/PhyloIota/status/1942780526357582127) darüber "Never been more confident that we will finally break out of the boring extraction cycle of “crypto” with and start delivering real yield by solving real problems 💪"; Hier noche in [Tweet von Phylo](https://x.com/PhyloIota/status/1942746341660319808) über RWAs
 9. **Crypto Adoption**: Trumps Truth Social will Crypto ETF (mit BTC, XRP, SOL, CRO) starten: [Tweet](https://x.com/CryptosR_Us/status/1942566791282032745)
 10. **Crypto Adoption**: Am 22. Juli will die Trump Administration einen Bericht zur Bitcoin und Kryptopolitik veröffentlichen: [Tweet](https://x.com/BitcoinMagazine/status/1942230205516616130)
+11. **IOTA Stammtisch**: Am Montag ist ein IOTA Stammtisch in Frankfurt: [Tweet 1](https://x.com/Cigamatoi/status/1943006201991827974); [Tweet 2](https://x.com/iotashop/status/1943222696717771208)
+12. **IOTA Adoption**: Das Tradingvolumen bei IOTA hat sich am Donnerstag verdoppelt: [Tweet](https://x.com/tanglelytics/status/1943113305687494973)
+13. **Crypto Adoption**: Apple hat das erste IOS Spiel genehmigt, dass Lightning Zahlungen verwendet: [Tweet](https://x.com/Vivek4real_/status/1943211361175027861)
+14. **Ki News**: [GROK 4 wurde veröffentlicht](https://x.com/xai/status/1943158495588815072) und schlägt scheinbar alle anderen Ki Modelle: [Tweet](https://x.com/deedydas/status/1943190393602068801)
+15. 
