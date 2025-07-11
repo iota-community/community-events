@@ -17,4 +17,11 @@
 15. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1943298880537350653) über ein Crypto Event in Bali: [coinfest.asia](https://coinfest.asia/) "The Worlds Largest Crypto Event"
 16. **IOTA Event**: [Tweet](https://x.com/IotaRebased/status/1943295144473542723) über ein Hackathon Event in Malaysia: [IOTA Hackathon Malaysia 2025](https://lu.ma/6d0xwfqw)
 17. **IOTA Ökosystem**: Die [IF retweetet](https://x.com/iota/status/1943302321175195843) den [Tweet vom Keystone Hardware Wallet](https://x.com/KeystoneWallet/status/1943297379613933645) die über die IOTA Integration im Nightly Wallet berichten
-18. 
+18. **IOTA Ökosystem**: [Virtue tweetet](https://x.com/Virtue_Money/status/1943324406312222874) über das 2. Audit, das positiv abgeschlossen wurde. "We’re now one step closer to launch.."
+19. **Crypto Adoption**: China will Bitcoin und Crypto wieder erlauben: [Tweet](https://x.com/CryptoNewsHntrs/status/1943593008923902045)
+20. **Crypto Adoption**: Staaten im mittleren Osten wollen Bitcoin Strategie machen: [Tweet](https://x.com/WatcherGuru/status/1898054900006703511)
+21. **Crypto Pump**: Bitcoin erreicht am Freitag ein neues ATH von über $118K: [Tweet](https://x.com/WatcherGuru/status/1943547535957651881)
+22. **Crypto Adoption**: Auch [Trump tweetet](https://x.com/BitcoinMagazine/status/1943318586862321891) darüber "Crypto through the roof"
+23. **Crypto Adoption**: Staking ist wohl keine Security mehr in den USA: [Tweet](https://x.com/coinbureau/status/1943596132703019506)
+24. **IOTA Gaming**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1943315981746446584) über ein Update. Jetzt können sich selbst web2 User anmelden und ihr Starterset abholen ([Tweet])(https://x.com/DarkMythosIOTA/status/1943316380331503987))
+25. 
