@@ -24,4 +24,5 @@
 22. **Crypto Adoption**: Auch [Trump tweetet](https://x.com/BitcoinMagazine/status/1943318586862321891) darüber "Crypto through the roof"
 23. **Crypto Adoption**: Staking ist wohl keine Security mehr in den USA: [Tweet](https://x.com/coinbureau/status/1943596132703019506)
 24. **IOTA Gaming**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1943315981746446584) über ein Update. Jetzt können sich selbst web2 User anmelden und ihr Starterset abholen ([Tweet])(https://x.com/DarkMythosIOTA/status/1943316380331503987))
-25. 
+25. **IOTA Event**: [Phylo tweetet](https://x.com/PhyloIota/status/1943632801804492935) über das Event Team von der Malaysia Blockchain Week
+26. 
