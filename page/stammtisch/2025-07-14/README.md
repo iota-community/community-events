@@ -25,4 +25,7 @@
 23. **Crypto Adoption**: Staking ist wohl keine Security mehr in den USA: [Tweet](https://x.com/coinbureau/status/1943596132703019506)
 24. **IOTA Gaming**: [Dark Mythos tweetet](https://x.com/DarkMythosIOTA/status/1943315981746446584) über ein Update. Jetzt können sich selbst web2 User anmelden und ihr Starterset abholen ([Tweet])(https://x.com/DarkMythosIOTA/status/1943316380331503987))
 25. **IOTA Event**: [Phylo tweetet](https://x.com/PhyloIota/status/1943632801804492935) über das Event Team von der Malaysia Blockchain Week
-26. 
+26. **IOTA Adoption**: Die [TWIN Foundation tweetet](https://x.com/TWINGlobalOrg/status/1943661318466044082) über ein Update von ihrem [TWIN White Paper] (Reference Architectur); [Salima tweetet](https://x.com/Salimasbegum/status/1943692253467185214) eine Zusammenfassung darüber
+27. **IOTA Ökosystem**: [Virtue tweetet](https://x.com/Virtue_Money/status/1943662347811205166) darüber, dass sie live sind mit vUSD und verlinken ihren Blogpost: [Turn Your IOTA Into DeFi Power with Virtue](https://medium.com/@Virtue_Money/turn-your-iota-into-defi-power-with-virtue-2ba260f7471c)
+28. **IOTA Ökosystem**: Auch [Pools.Finance tweetet](https://x.com/PoolsFinance/status/1943679972515676603), dass sie live sind mit [pools.finance](https://www.pools.finance/) (erstmal nur mit stIOTA ↔ IOTA, VUSD ↔ IOTA, stIOTA ↔ VUSD; And for liquidity providers the farm: stIOTA–IOTA
+29. 
