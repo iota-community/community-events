@@ -28,4 +28,4 @@
 26. **IOTA Adoption**: Die [TWIN Foundation tweetet](https://x.com/TWINGlobalOrg/status/1943661318466044082) über ein Update von ihrem [TWIN White Paper] (Reference Architectur); [Salima tweetet](https://x.com/Salimasbegum/status/1943692253467185214) eine Zusammenfassung darüber
 27. **IOTA Ökosystem**: [Virtue tweetet](https://x.com/Virtue_Money/status/1943662347811205166) darüber, dass sie live sind mit vUSD und verlinken ihren Blogpost: [Turn Your IOTA Into DeFi Power with Virtue](https://medium.com/@Virtue_Money/turn-your-iota-into-defi-power-with-virtue-2ba260f7471c)
 28. **IOTA Ökosystem**: Auch [Pools.Finance tweetet](https://x.com/PoolsFinance/status/1943679972515676603), dass sie live sind mit [pools.finance](https://www.pools.finance/) (erstmal nur mit stIOTA ↔ IOTA, VUSD ↔ IOTA, stIOTA ↔ VUSD; And for liquidity providers the farm: stIOTA–IOTA
-29. 
+29. **IOTA Protocol**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1943949766737416331) über ein IOTA Rebased Testnet Protocol Upgrade V9, für das ihre OGs gestimmt haben und in dem IOTA Rebased auf 80 Validatoren erhöht wird
