@@ -37,3 +37,4 @@
 35. **IOTA Adoption**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1944683476868903198) über ein starken Anstieg beim Volumen auf L2 wegen dem Start von DeFi auf IOTA Rebased (Layer 1)
 36. **IOTA Ökosystem**: Auch [TokenLabs tweetet](https://x.com/TokenLabsX/status/1944694532584436175) von einer Partnerschaft mit [ObjectID_io](https://x.com/ObjectID_io)
 37. **IOTA Audio**: Die [IF teetet](https://x.com/iota/status/1944743689391157490) über ein [X-Spaces mit TWIN: Reimagining Global Trade](https://x.com/i/spaces/1OwxWXdDVgVKQ) am 17. Juli und schreibt "We’ll explore how TWIN is building a decentralized network for global trade using IOTA."
+38. **IOTA Event**: [Tweet](https://x.com/dx5ve/status/1944673424816677276) von einem Event in Nairobi am 16. Juli "[Smart Government Summit](https://events.cioafrica.co/smart-government-summit-2025)", wo auch das Tony Blair Insitut kommen wird...
