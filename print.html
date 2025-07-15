@@ -37,6 +37,7 @@
             const path_to_root = "";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "searchindex.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="toc.js"></script>
@@ -93,10 +94,13 @@
                 sidebar = sidebar || 'visible';
             } else {
                 sidebar = 'hidden';
+                sidebar_toggle.checked = false;
             }
-            sidebar_toggle.checked = sidebar === 'visible';
-            html.classList.remove('sidebar-visible');
-            html.classList.add("sidebar-" + sidebar);
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
         </script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
@@ -147,7 +151,12 @@
 
                 <div id="search-wrapper" class="hidden">
                     <form id="searchbar-outer" class="searchbar-outer">
-                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                        <div class="search-wrapper">
+                            <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <i class="fa fa-spinner fa-spin"></i>
+                            </div>
+                        </div>
                     </form>
                     <div id="searchresults-outer" class="searchresults-outer hidden">
                         <div id="searchresults-header" class="searchresults-header"></div>
@@ -12799,6 +12808,7 @@ wegen „verfassungswidriger Übergriffe und unfairer Verfolgung“ der #crypto 
 <li><strong>IOTA Event</strong>: <a href="https://x.com/dx5ve/status/1944673424816677276">Tweet</a> von einem Event in Nairobi am 16. Juli "<a href="https://events.cioafrica.co/smart-government-summit-2025">Smart Government Summit</a>", wo auch das Tony Blair Insitut kommen wird...</li>
 <li><strong>Crypto Adoption</strong>: <a href="https://x.com/Cristiano/status/1944700494120616372">C. Ronaldo (115 Mio Follower) tweetet</a> über seine 8 Jährige Binance Partnerschaft</li>
 </ol>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="2025-07-21"><a class="header" href="#2025-07-21">2025-07-21</a></h1>
 
                     </main>
 
@@ -12840,6 +12850,7 @@ wegen „verfassungswidriger Übergriffe und unfairer Verfolgung“ der #crypto 
             window.setTimeout(window.print, 100);
         });
         </script>
+
 
     </div>
     </body>
