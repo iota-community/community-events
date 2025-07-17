@@ -26,6 +26,7 @@
 8. Globaler Messanger: [my2c.eu](https://my2c.eu/) (funktioniert schon im Testnetz)
 9. Digitale (Objekt) ID: [X-Account: ObjectID_io](https://x.com/ObjectID_io); Website: [https://objectid.io/](https://objectid.io/)
 10. Digitale Identität Portfolio Manager: [liquidlink.io](https://liquidlink.io/)
+11. Einfache Coin Giveaways: [iota.gives](https://iota.gives/)
 
 # Upcoming dApps for IOTA Rebased:
 1. Lending: [Deepr.finance](https://www.deepr.finance/) to be announced on [x.com/DeeprFinance](https://x.com/DeeprFinance)
