@@ -14,3 +14,5 @@
 12. **Crypto Adoption**: Es gibt Bedenken, dass die Firmen in der USA durch die Tokenisierung aus den SEC Regulierung heraustreten könnten und sie ihre Macht verlieren könnte und die New York Stock Exchange ihren Wert verlieren könnte: [Tweet](https://x.com/WatcherGuru/status/1945667844219277644)
 13. **IOTA dApps**: [kowei retweetet](https://x.com/kowei1995/status/1945748796111204526) den [Tweet von IOTA Gives](https://x.com/IotaGives/status/1945744303474553254) über ihre neue dApp für IOTA Rebased: [iota.gives](https://iota.gives); [vrom tweetet](https://x.com/Vrom14286662/status/1945788433466642888) auch begeistert davon
 14. **IOTA Drama**: Die [IF tweetet](https://x.com/iota/status/1945821199893668087) darüber, dass sie das Legacy Migration Tool nicht mehr betreiben und die Leute sich melden müssen auf [token-reclaims@iota.org](token-reclaims@iota.org), wenn sie noch migrieren wollen
+15. **Crypto Adoption**: Frankreich will Bitcoin Mining betreiben: [Tweet](https://x.com/BitcoinMagazine/status/1945763783864885312)
+16. 
