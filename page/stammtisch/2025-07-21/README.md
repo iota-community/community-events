@@ -30,6 +30,6 @@
 28. **IOTA Promote**: Auch [Holger Köther tweetet](https://x.com/HolgerKoether/status/1947146396563611938) ein Ki Promo Video über IOTA
 29. **Crypto Adoption**: Trump postet ein 8 min. Video "the greatest Bitcoin explanation of all time." auf Truth Social: [Tweet](https://x.com/WatcherGuru/status/1947085829903466665)
 30. **IOTA Adoption**: [Object.ID tweetet](https://x.com/ObjectID_io/status/1947261234430005390) darüber, dass sie ihre Identity Lösung zum Patent angemeldet haben
-31. **IOTA Adoption**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1947270579842601011) über ein Event von [Schneider Electric](https://x.com/SchneiderElec/status/1937855853433860313) bei dem sie zusammen mit [Object.ID](https://x.com/ObjectID_io) hingehen wollen
+31. **IOTA Adoption**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1947270579842601011) über ein Event von [Schneider Electric](https://x.com/SchneiderElec/status/1937855853433860313) bei dem sie hingehen wollen und DLT.GREEN und [Object.ID](https://x.com/ObjectID_io) vertreten wollen
 32. **Crypto Adoption**: Trump Media kauft Bitcoin: [Tweet](https://x.com/BitcoinMagazine/status/1947276238533317010)
 33. **IOTA Adoption**: [Virtue tweetet](https://x.com/Virtue_Money/status/1947303984043082062) "We are just getting started" über das TVL auf Layer 1
