@@ -7,3 +7,5 @@
 5. **Crypto Adoption**: Western Union will Bitcoin und Crypto unterstützen: [Tweet](https://x.com/pete_rizzo_/status/1947439228071100507)
 6. **IOTA Event**: Die [Malaysia Blockchain Week tweetet](https://x.com/MalaysiaBCW/status/1947560511459234286) über den Panel Talk mit Phylo
 7. **IOTA Adoption**: Die [IF retweetet](https://x.com/iota/status/1947565294810980590) den [Tweet von TWIN](https://x.com/TWINGlobalOrg/status/1947564327059525877) über zur offiziellen Gründung der TWIN Foundation
+8. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1947642789069516937) über ihr Announcement: [Strengthening Compliance and Institutional Trust - IOTA Partners with Lukka for On-Chain Analytics and Monitoring](https://blog.iota.org/iota-and-lukka/)
+9. **IOTA Hackathon**: Die [IF tweetet](https://x.com/iota/status/1947642788855566456) über die Gewinner vom Hackathon:
