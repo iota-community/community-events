@@ -6,4 +6,4 @@
 4. **IOTA Audio**: Talk auf X: [IOTA at Malaysia Blockchain Week](https://x.com/kutkraft/status/1947556610534265246)
 5. **Crypto Adoption**: Western Union will Bitcoin und Crypto unterstützen: [Tweet](https://x.com/pete_rizzo_/status/1947439228071100507)
 6. **IOTA Event**: Die [Malaysia Blockchain Week tweetet](https://x.com/MalaysiaBCW/status/1947560511459234286) über den Panel Talk mit Phylo
-7. 
+7. **IOTA Adoption**: Die [IF retweetet](https://x.com/iota/status/1947565294810980590) den [Tweet von TWIN](https://x.com/TWINGlobalOrg/status/1947564327059525877) über zur offiziellen Gründung der TWIN Foundation
