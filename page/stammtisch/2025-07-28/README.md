@@ -13,3 +13,7 @@
 11. **Crypto Adoption**: Telegram integriert in der USA das Ton Wallet womit Bitcoin und Crypto Transaktionen innerhalb von Telegram möglich sind: [Tweet](https://x.com/BTC_Archive/status/1947654308788637788)
 12. **IOTA Interview**: Die [IF retweetet](https://x.com/iota/status/1947671325465522405) das [DegenTalk Interview mit Dom](https://x.com/DEGNTalk/status/1947661780710482171)
 13. **Crypto Adoption**: Süd Koreas Regierung will Bitcoin und Crypto Gesetze erlassen: [Tweet](https://x.com/pete_rizzo_/status/1947629661325852702)
+14. **IOTA Ökosystem**: [Virtue tweetet](https://x.com/Virtue_Money/status/1947652545033183731) darüber, dass sie live sind mit [app.virtue.money](https://app.virtue.money/borrow)
+15. **Crypto Adoption**: Robinhood erlaubt Staking mit ETH: [Tweet](https://x.com/Ethprofit/status/1947695826307883154)
+16. **Crypto Adoption**: Die Tagesschau berichtet doch glatt mal positiv über Bitcoin: [Tweet](https://x.com/blocktrainer/status/1947623992287752279)
+17. **IOTA Promote**: [ChainAffairs tweetet](https://x.com/ChainAffairs/status/1947742709432696935) über den Artikel: [IOTA Expands Beyond Payments Into Healthcare AI and Battery Traceability Solutions](https://chainaffairs.com/iota-expands-beyond-payments-into-healthcare-ai-and-battery-traceability-solutions/)
