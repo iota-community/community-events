@@ -8,4 +8,8 @@
 6. **IOTA Event**: Die [Malaysia Blockchain Week tweetet](https://x.com/MalaysiaBCW/status/1947560511459234286) über den Panel Talk mit Phylo
 7. **IOTA Adoption**: Die [IF retweetet](https://x.com/iota/status/1947565294810980590) den [Tweet von TWIN](https://x.com/TWINGlobalOrg/status/1947564327059525877) über zur offiziellen Gründung der TWIN Foundation
 8. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1947642789069516937) über ihr Announcement: [Strengthening Compliance and Institutional Trust - IOTA Partners with Lukka for On-Chain Analytics and Monitoring](https://blog.iota.org/iota-and-lukka/)
-9. **IOTA Hackathon**: Die [IF tweetet](https://x.com/iota/status/1947642788855566456) über die Gewinner vom Hackathon:
+9. **IOTA Hackathon**: Die [IF tweetet](https://x.com/iota/status/1947642788855566456) über die Gewinner vom Hackathon
+10. **IOTA Ökosystem**: [Cyberglow tweetet](https://x.com/Cyberglow_DEX/status/1947319152810606726) einen Soon Tweet über "Cyberglow Swap"
+11. **Crypto Adoption**: Telegram integriert in der USA das Ton Wallet womit Bitcoin und Crypto Transaktionen innerhalb von Telegram möglich sind: [Tweet](https://x.com/BTC_Archive/status/1947654308788637788)
+12. **IOTA Interview**: Die [IF retweetet](https://x.com/iota/status/1947671325465522405) das [DegenTalk Interview mit Dom](https://x.com/DEGNTalk/status/1947661780710482171)
+13. **Crypto Adoption**: Süd Koreas Regierung will Bitcoin und Crypto Gesetze erlassen: [Tweet](https://x.com/pete_rizzo_/status/1947629661325852702)
