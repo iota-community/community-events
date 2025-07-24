@@ -3,17 +3,23 @@
 1. **IOTA Ökosystem**: Die [IF retweetet](https://x.com/iota/status/19472663033931944259 den [Tweet von Object.ID](https://x.com/ObjectID_io/status/1947261234430005390) über "The first system to link eIDAS 2.0 identities to internet domains, enabling tamper-proof digital twins. No backend, no DB, no middlemen."
 2. **IOTA Ökosystem**: [Object.ID tweetet](https://x.com/ObjectID_io/status/1947584670847082822) über ein [Interview ihres Founders](https://www.linkedin.com/pulse/rethinking-product-identity-why-our-database-free-stefano-della-valle-inxtf/) auf LinkedIn
 3. **IOTA Promote**: [CidarVentures tweetet](https://x.com/CicadaVentures/status/1947555277139489086) über ihren Artikel: [Beyond the Bridge: Why IOTA’s 2025 Vision Leaves XRP Behind](https://www.cicada.ventures/writings/iota-vs-xrp-2025-update)
-4. **IOTA Audio**: Talk auf X: [IOTA at Malaysia Blockchain Week](https://x.com/kutkraft/status/1947556610534265246)
-5. **Crypto Adoption**: Western Union will Bitcoin und Crypto unterstützen: [Tweet](https://x.com/pete_rizzo_/status/1947439228071100507)
-6. **IOTA Event**: Die [Malaysia Blockchain Week tweetet](https://x.com/MalaysiaBCW/status/1947560511459234286) über den Panel Talk mit Phylo
-7. **IOTA Adoption**: Die [IF retweetet](https://x.com/iota/status/1947565294810980590) den [Tweet von TWIN](https://x.com/TWINGlobalOrg/status/1947564327059525877) über zur offiziellen Gründung der TWIN Foundation
-8. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1947642789069516937) über ihr Announcement: [Strengthening Compliance and Institutional Trust - IOTA Partners with Lukka for On-Chain Analytics and Monitoring](https://blog.iota.org/iota-and-lukka/)
-9. **IOTA Hackathon**: Die [IF tweetet](https://x.com/iota/status/1947642788855566456) über die Gewinner vom Hackathon
-10. **IOTA Ökosystem**: [Cyberglow tweetet](https://x.com/Cyberglow_DEX/status/1947319152810606726) einen Soon Tweet über "Cyberglow Swap"
-11. **Crypto Adoption**: Telegram integriert in der USA das Ton Wallet womit Bitcoin und Crypto Transaktionen innerhalb von Telegram möglich sind: [Tweet](https://x.com/BTC_Archive/status/1947654308788637788)
-12. **IOTA Interview**: Die [IF retweetet](https://x.com/iota/status/1947671325465522405) das [DegenTalk Interview mit Dom](https://x.com/DEGNTalk/status/1947661780710482171)
-13. **Crypto Adoption**: Süd Koreas Regierung will Bitcoin und Crypto Gesetze erlassen: [Tweet](https://x.com/pete_rizzo_/status/1947629661325852702)
-14. **IOTA Ökosystem**: [Virtue tweetet](https://x.com/Virtue_Money/status/1947652545033183731) darüber, dass sie live sind mit [app.virtue.money](https://app.virtue.money/borrow)
-15. **Crypto Adoption**: Robinhood erlaubt Staking mit ETH: [Tweet](https://x.com/Ethprofit/status/1947695826307883154)
-16. **Crypto Adoption**: Die Tagesschau berichtet doch glatt mal positiv über Bitcoin: [Tweet](https://x.com/blocktrainer/status/1947623992287752279)
-17. **IOTA Promote**: [ChainAffairs tweetet](https://x.com/ChainAffairs/status/1947742709432696935) über den Artikel: [IOTA Expands Beyond Payments Into Healthcare AI and Battery Traceability Solutions](https://chainaffairs.com/iota-expands-beyond-payments-into-healthcare-ai-and-battery-traceability-solutions/)
+4. **IOTA Audio**: Talk auf X: [IOTA at Malaysia Blockchain Week](https://x.com/kutkraft/status/1947556610534265246) wurde leider nicht aufgezeichnet [tweetet Kutkraft](https://x.com/kutkraft/status/1947974236938912225)
+5. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/1947978923200901441) aber darüber, dass Kutkraft verraten hat, dass Dom Schiener direkt nach der gemeinsamen Bühnenpräsenz bei der Malaysia Blockchain Week ein privates Treffen hinter geschlossenen Türen mit dem malaysischen Minister für Wissenschaft und Technologie 🇲🇾 abgehalten hat
+6. **Crypto Adoption**: Western Union will Bitcoin und Crypto unterstützen: [Tweet](https://x.com/pete_rizzo_/status/1947439228071100507)
+7. **IOTA Event**: Die [Malaysia Blockchain Week tweetet](https://x.com/MalaysiaBCW/status/1947560511459234286) über den Panel Talk mit Phylo; Und hier noch einige Bilder von dem großen Event: [Tweet](https://x.com/growthcharger_/status/1947593413437657579)
+8. **IOTA Adoption**: Die [IF retweetet](https://x.com/iota/status/1947565294810980590) den [Tweet von TWIN](https://x.com/TWINGlobalOrg/status/1947564327059525877) über zur offiziellen Gründung der TWIN Foundation
+9. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1947642789069516937) über ihr Announcement: [Strengthening Compliance and Institutional Trust - IOTA Partners with Lukka for On-Chain Analytics and Monitoring](https://blog.iota.org/iota-and-lukka/)
+10. **IOTA Hackathon**: Die [IF tweetet](https://x.com/iota/status/1947642788855566456) über die Gewinner vom Hackathon
+11. **IOTA Ökosystem**: [Cyberglow tweetet](https://x.com/Cyberglow_DEX/status/1947319152810606726) einen Soon Tweet über "Cyberglow Swap"
+12. **Crypto Adoption**: Telegram integriert in der USA das Ton Wallet womit Bitcoin und Crypto Transaktionen innerhalb von Telegram möglich sind: [Tweet](https://x.com/BTC_Archive/status/1947654308788637788)
+13. **IOTA Interview**: Die [IF retweetet](https://x.com/iota/status/1947671325465522405) das [DegenTalk Interview mit Dom](https://x.com/DEGNTalk/status/1947661780710482171)
+14. **Crypto Adoption**: Süd Koreas Regierung will Bitcoin und Crypto Gesetze erlassen: [Tweet](https://x.com/pete_rizzo_/status/1947629661325852702)
+15. **IOTA Ökosystem**: [Virtue tweetet](https://x.com/Virtue_Money/status/1947652545033183731) darüber, dass sie live sind mit [app.virtue.money](https://app.virtue.money/borrow)
+16. **Crypto Adoption**: Robinhood erlaubt Staking mit ETH: [Tweet](https://x.com/Ethprofit/status/1947695826307883154)
+17. **Crypto Adoption**: Die Tagesschau berichtet doch glatt mal positiv über Bitcoin: [Tweet](https://x.com/blocktrainer/status/1947623992287752279)
+18. **IOTA Promote**: [ChainAffairs tweetet](https://x.com/ChainAffairs/status/1947742709432696935) über den Artikel: [IOTA Expands Beyond Payments Into Healthcare AI and Battery Traceability Solutions](https://chainaffairs.com/iota-expands-beyond-payments-into-healthcare-ai-and-battery-traceability-solutions/)
+19. **IOTA Adoption**: [Dom Schiener retweetet](https://x.com/DomSchiener/status/1948326765123801322) den [Tweet vom Indonesia Crypto Network](https://x.com/idcryptonetwork/status/1947980647848685700) mit Bilder zu einem Event zu dem sie schreiben "Indonesia Largest Institutions (BRI, Pegadaian, MDI Ventures & Pos Digi) Are Exploring RWA Solutions with @Ripple, @iota, @StellarOrg & @FireblocksHQ"; Auch die [IF hatte das retweetet](https://x.com/iota/status/1948006438644633880)
+20. **IOTA Adoption**: [First Digital tweetet](https://x.com/FirstDigitalHQ/status/1947925260848025823) über IOTA. Wobei ich nicht genau weiß was das bedeutet... Sie schreiben "..Our recent discussions with @Tether_to and @IOTA revealed exciting opportunities, from maximizing Bitcoin’s value with $FDUSD rewards on @ZeusNetworkHQ"
+21. **IOTA Promote**: IOTA ist auf Platz 1 bei den "Fastest-Growing Dev Activity" im letzten Monat (+2455%): [Tweet](https://x.com/Gilmore_Estates/status/1948114512797749496)
+22. **IOTA Audio**: Am 29. Juli ist wieder ein [X-Talk mit INATBA und Eike Haß (IF)](https://x.com/INATBA_org/status/1948312360424280222)
+23. 
