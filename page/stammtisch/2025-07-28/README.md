@@ -22,4 +22,6 @@
 20. **IOTA Adoption**: [First Digital tweetet](https://x.com/FirstDigitalHQ/status/1947925260848025823) über IOTA. Wobei ich nicht genau weiß was das bedeutet... Sie schreiben "..Our recent discussions with @Tether_to and @IOTA revealed exciting opportunities, from maximizing Bitcoin’s value with $FDUSD rewards on @ZeusNetworkHQ"
 21. **IOTA Promote**: IOTA ist auf Platz 1 bei den "Fastest-Growing Dev Activity" im letzten Monat (+2455%): [Tweet](https://x.com/Gilmore_Estates/status/1948114512797749496)
 22. **IOTA Audio**: Am 29. Juli ist wieder ein [X-Talk mit INATBA und Eike Haß (IF)](https://x.com/INATBA_org/status/1948312360424280222)
-23. 
+23. **IOTA Promote**: Neuer Artikel von [B effect.iota](https://x.com/karlaxelm): [Beyond the Tangle: IOTA and the Race to Digitise World Commerce](https://x.com/karlaxelm/status/1948357222536290518)
+24. **IOTA Hype**: Dom hat auf Telegram scheinbar geschrieben
+25. **IOTA Audio**: Die [IF retweetet](https://x.com/iota/status/1948387621018722776) ein [Interview mit Dom](https://x.com/xgacrypto/status/1948375737951797666)
