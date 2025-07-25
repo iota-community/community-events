@@ -29,7 +29,7 @@
 11. Einfache Coin Giveaways: [iota.gives](https://iota.gives/)
 
 # Upcoming dApps for IOTA Rebased:
-1. Lending: [Deepr.finance](https://www.deepr.finance/) to be announced on [x.com/DeeprFinance](https://x.com/DeeprFinance)
+1. Lending: [Deepr.finance](https://www.deepr.finance/); [Soon-Tweet](https://x.com/DeeprFinance/status/1948750373520293986)
 2. NFT: [figment.exchange](https://www.figment.exchange/) to be announced on [x.com/figment_nfts](https://x.com/figment_nfts)
 3. RWA: [realize.finance](https://realize.finance/) to be announced on [x.com/realizefinance](https://x.com/realizefinance)
 4. Stable Coin: [virtue.money](https://virtue.money/) already working in testnet on [staging.virtue.money](https://staging.virtue.money)
