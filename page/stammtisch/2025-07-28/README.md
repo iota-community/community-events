@@ -23,5 +23,7 @@
 21. **IOTA Promote**: IOTA ist auf Platz 1 bei den "Fastest-Growing Dev Activity" im letzten Monat (+2455%): [Tweet](https://x.com/Gilmore_Estates/status/1948114512797749496)
 22. **IOTA Audio**: Am 29. Juli ist wieder ein [X-Talk mit INATBA und Eike Haß (IF)](https://x.com/INATBA_org/status/1948312360424280222)
 23. **IOTA Promote**: Neuer Artikel von [B effect.iota](https://x.com/karlaxelm): [Beyond the Tangle: IOTA and the Race to Digitise World Commerce](https://x.com/karlaxelm/status/1948357222536290518)
-24. **IOTA Hype**: Dom hat auf Telegram scheinbar geschrieben
+24. **IOTA Hype**: Dom hat sich zu dem US Büro geäußert: [Tweet](https://x.com/Colibali5270741/status/1948317482990596180); Er hat sich dort sogar schon für ein Jahr im Fitnessstudio angemeldet: [Tweet](https://x.com/DomSchiener/status/1948440839262445903)
 25. **IOTA Audio**: Die [IF retweetet](https://x.com/iota/status/1948387621018722776) ein [Interview mit Dom](https://x.com/xgacrypto/status/1948375737951797666)
+26. **IOTA Adoption**: Das TVL auf IOTA Rebased steigt langsam: [https://defillama.com/chain/iota](https://defillama.com/chain/iota)
+27. **IOTA Learn**: [IOTALabs tweetet](https://x.com/TokenLabsX/status/1948429230657688051) über eine Schulung zu Object.ID und [erklärt auf Nachfrage](https://x.com/TokenLabsX/status/1948440679127953893), dass man sie hier abrufen kann, wenn man mind. 1 IOTA bei ihnen gestaked hat: [node.tokenlabs.network/en/academy](https://node.tokenlabs.network/en/academy)
