@@ -30,4 +30,4 @@
 28. **Crypto Adoption**: Hongkong will sich für Krypto öffnen: [Tweet](44090638209083)
 29. **Crypto Promote**: Witzige Coinbase Werbung in der UK: [Tweet](https://x.com/addicted2newz/status/1951526376537989467)
 30. **IOTA Gerüchte**: [Tweet](https://x.com/whatmicha/status/1951198546318758208) darüber, dass erste NFTs auftauchen von [Aylab_io](https://x.com/Aylab_io) "Powering web3 growth at scale — delivered 10M monthly active wallets & 300M onchain transaction across protocols, dapps, chains and more"
-31. 
+31. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1951946144449188213) über den [IOTA Event Kalender](https://www.iota.org/connect/events)
