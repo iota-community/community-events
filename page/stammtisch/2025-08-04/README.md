@@ -13,7 +13,7 @@
 11. **IOTA Science**: [kingloui tweetet](https://x.com/kingloui96/status/1950247904259490137) über ein neues Research Paper: [Elevating e-health excellence with IOTA distributed ledger technology: Sustaining data integrity in next-gen fog-driven systems](https://www.sciencedirect.com/science/article/pii/S0167739X25000500)
 12. **Crypto Adoption**: Samsung Pay (150mio User) ermöglicht Crypto und Bitcoin Zahlungen: [Tweet](https://x.com/pete_rizzo_/status/1950284029372084392)
 13. **IOTA Regulation**: Die [IF tweetet](https://x.com/iota/status/1950179505831600608) über ihren Blogpost: [IOTA Foundation Calls for Smarter UK Crypto Rules - Joint Response with INATBA and Cardano Foundation](https://blog.iota.org/iota-response-fca-uk/)
-14. **Crypto Adoption**: Artikel: [SEC erlaubt den direkten Tausch von Bitcoin gegen ETF-Anteile](https://blog.iota.org/iota-response-fca-uk/)
+14. **Crypto Adoption**: Artikel: [SEC erlaubt den direkten Tausch von Bitcoin gegen ETF-Anteile](https://www.blocktrainer.de/blog/sec-erlaubt-in-kind-methode-fuer-bitcoin-etfs)
 15. **IOTA Audio**: [Dark Mythos tweetet](https://x.com/DarkMythosTCG/status/1950466392181866851) darüber, dass sie am Freitag ein Interview im TangleTalk haben
 16. **Crypto Adoption**: JP Morgan Partnerschaft mit Coinbase: [Tweet](https://x.com/WatcherGuru/status/1950533825638887640)
 17. **IOTA Tech Update**: Es gab ein protocol upgrade V9 bei IOTA: [Tweet](https://x.com/dlt_green/status/1950506822059585663)
