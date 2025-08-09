@@ -8,5 +8,7 @@
 6. **IOTA Audio**: [Tony Blair tweetet](https://x.com/InstituteGC/status/1952397335201272068) ein Audio über digital IDs
 7. **IOTA Gerüchte**: [Tweet](https://x.com/SolydarOrg/status/1952423691255419095) über die NFTs aus Indien; Hier noch ein [Tweet von Salima](https://x.com/Salimasbegum/status/1952745512383201752) darüber
 8. **IOTA Ökosystem**: [ApeDAO tweetet](https://x.com/0xApeDAO/status/1952756445847433720) über ein Update
-9. 
-10. 
+9. **IOTA Drama**: [Tweet](https://x.com/lunfardo314/status/1952675970483109997) über Qubic die jetzt scheinbar Monero minen wollen
+10. **Crypto Adoption**: Trump will eine executive Order gegen Banken aufsetzen, die Bitcoin- und Kryptounternehmen diskriminieren: [Tweet](https://x.com/BTCjunkies/status/1952822376225481129)
+11. **Crypto Adoption**: Regeln für Krypto Liquid Staking in der USA: [Tweet](https://x.com/KingKaranCrypto/status/1952789273125548362); Hier noch ein [Tweet](https://x.com/SECPaulSAtkins/status/1952791242498031750) dazu
+12. **IOTA Ökosystem**: [Tweet von TWIN](https://x.com/TWINGlobalOrg/status/1953372228654879196)
