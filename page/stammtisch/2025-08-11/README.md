@@ -11,4 +11,15 @@
 9. **IOTA Drama**: [Tweet](https://x.com/lunfardo314/status/1952675970483109997) über Qubic die jetzt scheinbar Monero minen wollen
 10. **Crypto Adoption**: Trump will eine executive Order gegen Banken aufsetzen, die Bitcoin- und Kryptounternehmen diskriminieren: [Tweet](https://x.com/BTCjunkies/status/1952822376225481129)
 11. **Crypto Adoption**: Regeln für Krypto Liquid Staking in der USA: [Tweet](https://x.com/KingKaranCrypto/status/1952789273125548362); Hier noch ein [Tweet](https://x.com/SECPaulSAtkins/status/1952791242498031750) dazu
-12. **IOTA Ökosystem**: [Tweet von TWIN](https://x.com/TWINGlobalOrg/status/1953372228654879196)
+12. **IOTA Ökosystem**: [Tweet von TWIN](https://x.com/TWINGlobalOrg/status/1953372228654879196) über ein Interview (mit Jens Lund Nielson) vom AfCFTA Digital Trade Forum
+13. **Crypto Adoption**: Trump hat eine Durchführungsverordnung unterschrieben. Die US Rentenkasse darf jetzt in Krypto investieren: [Tweet](https://x.com/coinbureau/status/1953550500231885284)
+14. **IOTA Validator Tech**: Neuer [Tweet von DLT.GREEN](https://x.com/dlt_green/status/1953497228212863156) zum Thema [Introduction of a Validator Score](https://github.com/iotaledger/IIPs/discussions/21); Auch dieser [Tweet](https://x.com/encapHQ/status/1953795586928378005) und der [Tweet von TokenLabs](https://x.com/TokenLabsX/status/1954111239681868037) spricht von positiven und konstruktiven Gesprächen
+15. **Crypto Adoption**: El Salvador will eine Bitcoin Bank starten: [Tweet](https://x.com/Vivek4real_/status/1953632510161957366)
+16. **IOTA Promote**: Artikel von Grant Thornton: [Digitale Identitäten und Datenplattformen im internationalen Handel – Chancen für Unternehmen](https://www.grantthornton.de/themen/2025/digitale-identitaeten-und-datenplattformen-im-internationalen-handel-chancen-fuer-unternehmen/)
+17. **Crypto Adoption**: Man kann in der USA und in Europa jetzt scheinbar einen Ferrari kaufen mit Ethereum: [Tweet](https://x.com/ByCoinvo/status/1953732915743142157)
+18. **IOTA Hype**: Das Tradingvolumen (und der Kurs) geht gut hoch bei IOTA: [Tweet](https://x.com/IOTA_____/status/1953726764682977558); Auch die Nutzung des Netzwerks zieht an, bzw. die [Total Accounts](https://iotascan.com/mainnet/analytics/accounts/total%20accounts); Und vor allem steigt das Projekt beim "DEVELOPMENT ACTIVITY GROWTH" am stärksten von allen Cryptprojekten: [Tweet](https://x.com/chain_broker/status/1953848689677807657)
+19.  **Crypto Adoption**: Jack Dorsey will Bitcoin Mining Chips für Jederman verkaufen um Dezentralität zu erhöhen: [Tweet](https://x.com/Greencandleit/status/1953814021116686701)
+20. **Crypto Adoption**: Der US Präsident Trump spricht über Crypto: [Tweet](https://x.com/bitcoinlfgo/status/1954202094161760552)
+21. **IOTA Audio**: [runwen.diotis tweetet](https://x.com/ruwen_diotis/status/1954104228886073429), dass sie ein Gespräch haben im TangleTalk
+22. **IOTA Event**: [kowei tweetet](https://x.com/kowei1995/status/1954357006489547174) über ein Event im September in Teipeh, wo er über IOTA sprechen wird
+23. 
