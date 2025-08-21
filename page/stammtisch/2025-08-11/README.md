@@ -21,5 +21,9 @@
 19.  **Crypto Adoption**: Jack Dorsey will Bitcoin Mining Chips für Jederman verkaufen um Dezentralität zu erhöhen: [Tweet](https://x.com/Greencandleit/status/1953814021116686701)
 20. **Crypto Adoption**: Der US Präsident Trump spricht über Crypto: [Tweet](https://x.com/bitcoinlfgo/status/1954202094161760552)
 21. **IOTA Audio**: [runwen.diotis tweetet](https://x.com/ruwen_diotis/status/1954104228886073429), dass sie ein Gespräch haben im TangleTalk
-22. **IOTA Event**: [kowei tweetet](https://x.com/kowei1995/status/1954357006489547174) über ein Event im September in Teipeh, wo er über IOTA sprechen wird
-23. 
+22. **IOTA Event**: [kowei tweetet](https://x.com/kowei1995/status/1954357006489547174) über ein Event im September in Teipeh, wo er über IOTA sprechen wird; Auch die [IF tweetet](https://x.com/iota/status/1954794786218524979) darüber
+23. **IOTA Adoption**: Die aktiven Adressen bei IOTA steigen rasant an: [iotascan.com/.../accounts...](https://iotascan.com/mainnet/analytics/accounts/total%20accounts)
+24. **IOTA Science**: Neues Siemens Patent: [Tweet](https://x.com/Wondere12985276/status/1954629944920715356); [A COMPUTER-IMPLEMENTED METHOD AND SYSTEM FOR MANAGING A RE-SOURCE CONVERSION CHAIN](https://worldwide.espacenet.com/patent/search/family/089843710/publication/EP4597400A1?q=pn%3DEP4597400A1)
+25. **IOTA Update**: IOTA Update auf bis zu 80 Validatoren wir umgesetzt: [Tweet](https://x.com/dlt_green/status/1954912255062990919)
+26. **IOTA Governance**: Die [IF tweetet](https://x.com/iota/status/1954917673868886024) über das [[SGP-0012] - IOTA Network Fund: Proposal to Go All-In IOTA Infrastructure and Growth with Tangle DAO [Phase 2 - Poll]](https://govern.iota.org/t/sgp-0012-iota-network-fund-proposal-to-go-all-in-iota-infrastructure-and-growth-with-tangle-dao-phase-2-poll/1794)
+27. 
