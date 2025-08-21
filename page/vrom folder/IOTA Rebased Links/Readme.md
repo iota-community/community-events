@@ -27,6 +27,7 @@
 9. Digitale (Objekt) ID: [X-Account: ObjectID_io](https://x.com/ObjectID_io); Website: [https://objectid.io/](https://objectid.io/)
 10. Digitale Identität Portfolio Manager: [liquidlink.io](https://liquidlink.io/)
 11. Einfache Coin Giveaways: [iota.gives](https://iota.gives/)
+12. Spamer auf IOTA Rebased: [iotaspam.io](https://iotaspam.io/)
 
 # Upcoming dApps for IOTA Rebased:
 1. Lending: [Deepr.finance](https://www.deepr.finance/); [Soon-Tweet](https://x.com/DeeprFinance/status/1948750373520293986)
