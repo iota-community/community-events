@@ -9,3 +9,5 @@
 7. **Crypto Adoption**: Der ehemalige leitende Direktor des „White House Crypto Council“, wird jetzt strategischer Berater des Stablecoin-Emittenten Tether: [Tweet](https://x.com/blocktrainer/status/1957761552930439214)
 8. **IOTA Tech**: Die [IF tweetet](https://x.com/iota/status/1957794182224830659) über ihren Blogpost: [IOTA Hierarchies Alpha is Live Identity - Flexible and Verifiable Trust Networks](https://blog.iota.org/iota-hierarchies-alpha-live/)
 9. **IOTA Exchange**: Die [IF tweetet](https://x.com/iota/status/1957834949068743135) über [houdiniswap.com](https://houdiniswap.com/); vrom hat das getestet und ist begeistert: [Tweet](https://x.com/Vrom14286662/status/1958249081870201304)
+10. **IOTA Audio**: Es gab auch ein [X-Spaces zw. IOTA und Houdiniswap](https://x.com/HoudiniSwap/status/1957926086135668932)
+11. 
