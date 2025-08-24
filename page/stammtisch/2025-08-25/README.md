@@ -25,3 +25,4 @@
 23. **IOTA Audio**: Es gibt auch ein [Live X-Spaces](https://x.com/i/spaces/1RDGlAelwPOJL) zu dem Spam-Event
 24. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1958876812991250836) über ein MOVE Developer Event mit IOTA: [IOTA x BlockTempo Weekend on TBW](https://lu.ma/v285hese)
 25. **IOTA Event**: Der [TUM Blockchain Club tweetet](https://x.com/tbc_munich/status/1958910459236528446) über IOTA den Silver Sponsor IOTA beim [TUM Blockchain Conference 25](https://www.eventbrite.de/e/tum-blockchain-conference-25-tickets-1354147665119?aff=oddtdtcreator)
+26. **IOTA Community Spamtest**: [Tweet](https://x.com/id_iota/status/1959254155924529345); [Tweet Totorial](https://x.com/Vrom14286662/status/1958969201260957711); [X-Spaces](https://x.com/id_iota/status/1959240723686932894); Es gab über 1mio Transaktionen in 24h: [Tweet](https://x.com/Cigamatoi/status/1959517900621979744); [IOTAScan Explorer](https://iotascan.com/mainnet/analytics/network)
