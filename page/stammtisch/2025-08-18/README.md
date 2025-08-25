@@ -6,7 +6,7 @@
 4. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1955265676584554976) über das [Coinfest Side Event: The Network Effect](https://lu.ma/eqd8ajyx)
 5. **IOTA Governance**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1955369982637817924) über ein OG-Voting bezüglich des Proposals: [[SGP-0012] - IOTA Network Fund: Proposal to Go All-In IOTA Infrastructure and Growth with Tangle DAO [Phase 2 - Poll]](https://govern.iota.org/t/sgp-0012-iota-network-fund-proposal-to-go-all-in-iota-infrastructure-and-growth-with-tangle-dao-phase-2-poll/1794)
 6. **IOTA Tech**: [Dom gratuliert](https://x.com/DomSchiener/status/1955597930888659133) für 100 Tage Rebased Mainet ohne downtime
-7. **IOTA Adoption**: Blockpit unterstützt jetzt auch IOTA Rebased: [Tweet]8https://x.com/Wondere12985276/status/1955701352606077218)
+7. **IOTA Adoption**: Blockpit unterstützt jetzt auch IOTA Rebased: [Tweet](https://x.com/Wondere12985276/status/1955701352606077218)
 8. **Crypto Drama**: Artikel: [Neue Richtlinien: Google verbannt non-custodial Krypto-Wallets aus dem Play Store!](https://www.blocktrainer.de/blog/google-verbannt-non-custodial-krypto-wallets-aus-dem-playstore)
 9. **Crypto Pump**: BTC ATH in EUR und in $ am 14. August
 10. **IOTA DeFi Learn**: [Jonathan tweetet](https://x.com/3rdEclips3/status/1955926531194179686) einen Artikel: [$IOTA Farming Szn Is On](https://x.com/3rdEclips3/status/1955926531194179686)
