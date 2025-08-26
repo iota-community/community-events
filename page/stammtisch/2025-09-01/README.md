@@ -8,3 +8,4 @@
 6. **IOTA Adoption?!?**: [EBSI tweetet](https://x.com/EU_EBSI/status/1960313067574550545) über "DEUSS Blockchain joins the EBSI to pilot the tokenisation of SME bonds": [Use case spotlight: piloting the tokenisation of investment bonds on EBSI](https://ec.europa.eu/digital-building-blocks/sites/spaces/EBSI/pages/915931247/Use+case+spotlight+piloting+the+tokenisation+of+investment+bonds+on+EBSI)
 7. **IOTA Audio**: [X-Spaces mit Kutkraft](https://x.com/kutkraft/status/1960280991349592228)
 8. **IOTA Audio**: [INATBA X-Spaces](https://x.com/INATBA_org/status/1960245181606690838) mit Eike Haß [IF]
+9. **IOTA Wallet**: [Nightly tweetet](https://x.com/Nightly_app/status/1960323962547687808) über ein Update. Es gibt jetzt eine Safari Extension für Apple Computer
