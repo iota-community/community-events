@@ -12,5 +12,5 @@
 10. **Crypto Adoption**: Artikel: [Google Cloud Universal Ledger - Google Cloud entwickelt eigene Blockchain](https://www.btc-echo.de/schlagzeilen/gcul-google-cloud-entwickelt-blockchain-214319/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1756284937)
 11. **IOTA Adoption**: Die [IF retweetet](https://x.com/iota/status/1960657253188473298) den [Tweet von TWIN](https://x.com/TWINGlobalOrg/status/1960656797330493826) mit Videointerview von der Gründungsveranstaltung von TWIN
 12. **Crypto Adoption**: [Crypto.com tweetet](https://x.com/cryptocom/status/1960326166646013998) über ihre Partnerschaft mit TRUMP Media (Truth Social Platform)
-13. **IOTA DeFi**: [Jonathan tweetet](https://x.com/3rdEclips3/status/1960587090472612212) ein Video über BTC auf IOTA über das [Echo Protocol](https://x.com/EchoProtocol_)
+13. **IOTA DeFi**: [Jonathan tweetet](https://x.com/3rdEclips3/status/1960587090472612212) ein Video über BTC auf IOTA über das [Echo Protocol](https://x.com/EchoProtocol_); Auch [iotalabs retweetet](https://x.com/iotalabs_/status/1960972216373297464) das
 14. 
