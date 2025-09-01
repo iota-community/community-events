@@ -26,4 +26,6 @@
 24. **IOTA Audio**: 2. [X-Spaces Talk mit ID.iota](https://x.com/id_iota/status/1961432586174988317)
 25. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1961413527840653458) über ein X-Space mit kowei: [BuildSphere #31 with Echo Protocol](https://x.com/i/spaces/1eaJbjdZWbRJX) über das [EchoProtocol](https://x.com/EchoProtocol_), die BTC auf IOTA gebracht haben
 26. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1961730628946182632) Bilder von einer CoinfestAsia Panel Diskussion mit IOTA; auch [Phylo tweetet](https://x.com/PhyloIota/status/1961737756641559033) darüber
-27. **IOTA Event**: [IOTA tweetet](https://x.com/iota/status/1962093004979683337) über das 10 Jährige Event. Man soll sich anmelden bei den [4 Events mit IOTA](https://week.token2049.com/) 
+27. **IOTA Event**: [IOTA tweetet](https://x.com/iota/status/1962093004979683337) über das 10 Jährige Event. Man soll sich anmelden bei den [4 Events mit IOTA](https://week.token2049.com/)
+28. **IOTA Event**: Die [IF retweetet](https://x.com/iota/status/1962474372066689355) den [Tweet von AngelHack](https://x.com/AngelHack/status/1962455398377816463) über ihren Moveathon, den sie jetzt auch bald in Europa starten wollen
+29. **IOTA Audio**: [Kutkraft tweetet](https://x.com/kutkraft/status/1962467147705352457) über ein X-Spaces: [IOTA big man ting](https://x.com/kutkraft/status/1962467147705352457) am 3. September
