@@ -3,7 +3,7 @@
 1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1962500954403520961) über die [IOTA Quicktakes](https://youtu.be/2sd8De1mgZs)
 2. **IOTA Adoption**: [TWIN tweetet](https://x.com/TWINGlobalOrg/status/1962496003686256821) über ein [TWIN Technical Webinar](https://luma.com/jnjr4qbc) am 24.7. wo alles erklärt wird
 3. **IOTA DeFi**: [Virtue tweetet](https://x.com/Virtue_Money/status/1962506736864010610) das man jetzt iBTC auf [virtue.money](https://virtue.money/) hinterlegen kann
-4. **IOTA Hype**: [Dom tweetet](https://x.com/DomSchiener/status/1962521536939635076) in Bild beim Wandern mit den Worten "I'm ready to go climbing with IOTA. Nothing will stop us as we march forward and connect country by country on IOTA. Let's bring the real world on-chain."
+4. **IOTA Hype**: [Dom tweetet](https://x.com/DomSchiener/status/1962521536939635076) in Bild beim Wandern mit den Worten "I'm ready to go climbing with IOTA. Nothing will stop us as we march forward and connect country by country on IOTA. Let's bring the real world on-chain."; Außerdem [tweetet Dom](https://x.com/DomSchiener/status/1962800175337865225) "10g creatine per day until IOTA ATH.  Who is with me?"
 5. **IOTA Ökosystem**: [TokenLabs tweetet](https://x.com/TokenLabsX/status/1962579861475598633) über den Start des ersten Community Liquidity Pools (stIOTA/$TLN) auf [pools.finance](pools.finance)
 6. **IOTA Event**: [Orbo tweetet](https://x.com/HelloOrobo/status/1962749686533763128) über eine Pitch Night auf der ihre Lösung [orbo.tech](https://www.orobo.tech/) präsentiert haben
 7. **IOTA Audio**: [ID.iota tweetet](https://x.com/id_iota/status/1962590916453060934) eine Zusammenfassung zu ihren [Nano-Talk 2](https://x.com/id_iota/status/1962590916453060934)
@@ -20,7 +20,10 @@
 18. **IOTA Audio**: [X-Spaces mit Kutkraft](https://x.com/kutkraft/status/1962467147705352457)
 19. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosTCG/status/1963231921141428246) über ein Update "The new balance update in Dark Mythos is live!"
 20. **IOTA Adoption**: IOTA ist schon wieder dabei beim Top Development Activity Growth: [Tweet](https://x.com/scully1984/status/1963286876464250934)
-21. **IOTA Event**: [kowei tweetet](https://x.com/kowei1995/status/1963496748439023630) über die "Taipei Blockchain Week" wo er IOTA vertreten hat
+21. **IOTA Event**: [kowei tweetet](https://x.com/kowei1995/status/1963496748439023630) über die "Taipei Blockchain Week" wo er IOTA vertritt. Linus ist auch dort: [Tweet](https://x.com/LinusNaumann/status/1963941622401663127)
 22. **IOTA Ökosystem**: [cryptovaquita tweetet](https://x.com/cryptovaquita/status/1962822297548440001) über [https://www.overthereality.ai](https://www.overthereality.ai/land/shari.left.thr)
 23. **IOTA Adoption**: Die [iota academy tweetet](https://x.com/academy_iota/status/1963566226128408600) über den Blogpost vom World Economic Forum: [Trade and Investment -This initiative could cut the cost of global trade by 25%](https://www.weforum.org/stories/2025/06/twin-foundation-global-trade/)
 24. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosTCG/status/1963864984368054673) über "New Tournament Mode is landing soon!"
+25. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1963920046201114952) über [iotanames.com](iotanames.com) und über ein Ambassador Program für Tutorial Videos darüber; [vrom tweetet](https://x.com/Vrom14286662/status/1963953633004782009) sein Schnellschuss-Tutorial
+26. **IOTA Promote**: [cigamatoi tweetet](https://x.com/Cigamatoi/status/1963880025741984002) über ein Szenario (das auch von Dom erwähnt wurde) für Kaffee der mit dem digitalen Produkt Passport von IOTA ausgestattet, echten Mehrwert generiert
+27.  
