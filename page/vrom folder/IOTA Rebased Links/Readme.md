@@ -19,7 +19,7 @@
 # Already working dApps for IOTA Rebased:
 1. DEX: [pools.finance](https://www.pools.finance/)
 2. Launchpad: [pools.finance/launch](https://www.pools.finance/launch/)
-3. Liquid Staking: [testnet.swirlstake.com/app](https://testnet.swirlstake.com/app/)
+3. Liquid Staking: [swirlstake.com](https://swirlstake.com/)
 4. Staking Explorer: [dlt.green/de/services/staking-explorer](https://dlt.green/de/services/staking-explorer)
 5. First Game: [iotaflip.netlify.app](https://iotaflip.netlify.app/)
 6. Raffles or Giveaways: [iotaraffle.netlify.app](https://iotaraffle.netlify.app/); [Thread](https://x.com/teunvw5/status/1917567987273421140)
