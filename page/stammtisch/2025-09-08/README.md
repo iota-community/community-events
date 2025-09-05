@@ -9,4 +9,6 @@
 7. **IOTA Audio**: [ID.iota tweetet](https://x.com/id_iota/status/1962590916453060934) eine Zusammenfassung zu ihren [Nano-Talk 2](https://x.com/id_iota/status/1962590916453060934)
 8. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1962782904318038220) über ihre Partnerschaft mit [TokenLabs](https://x.com/TokenLabsX); Auch [TokenLabs tweetet](https://x.com/TokenLabsX/status/1962786400257904967) über die Partnerschaft
 9. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1962803931186082196) über ihren Kurs über den [DLT.GREEN Node Analyzer](https://dlt.green/), den man jetzt auf der [TokenLabs Academy](https://tokenlabs.network/academy) abrufen kann
-10. **IOTA Ökosystem**: [cryptovaquita tweetet](https://x.com/cryptovaquita/status/1962822297548440001) über [https://www.overthereality.ai](https://www.overthereality.ai/land/shari.left.thr)
+10. **IOTA Audio**: Es gab ein [X-Spaces mit dem Echo Protocol](https://x.com/EchoProtocol_/status/1962847979939025166), das Team, das iBTC auf IOTA gebracht hat
+11. 
+12. **IOTA Ökosystem**: [cryptovaquita tweetet](https://x.com/cryptovaquita/status/1962822297548440001) über [https://www.overthereality.ai](https://www.overthereality.ai/land/shari.left.thr)
