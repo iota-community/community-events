@@ -1,7 +1,7 @@
 ## IOTA Stammtischthemen für Montag, den 8.9.2025
 
 1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1962500954403520961) über die [IOTA Quicktakes](https://youtu.be/2sd8De1mgZs)
-2. **IOTA Adoption**: [TWIN tweetet](https://x.com/TWINGlobalOrg/status/1962496003686256821) über ein [TWIN Technical Webinar](https://luma.com/jnjr4qbc) am 24.7. wo alles erklärt wird
+2. **IOTA Adoption**: [TWIN tweetet](https://x.com/TWINGlobalOrg/status/1962496003686256821) über ein [TWIN Technical Webinar](https://luma.com/jnjr4qbc) am 24.9. wo alles erklärt wird
 3. **IOTA DeFi**: [Virtue tweetet](https://x.com/Virtue_Money/status/1962506736864010610) das man jetzt iBTC auf [virtue.money](https://virtue.money/) hinterlegen kann
 4. **IOTA Hype**: [Dom tweetet](https://x.com/DomSchiener/status/1962521536939635076) ein Bild beim Wandern mit den Worten "I'm ready to go climbing with IOTA. Nothing will stop us as we march forward and connect country by country on IOTA. Let's bring the real world on-chain."; Außerdem [tweetet Dom](https://x.com/DomSchiener/status/1962800175337865225) "10g creatine per day until IOTA ATH.  Who is with me?"
 5. **IOTA Ökosystem**: [TokenLabs tweetet](https://x.com/TokenLabsX/status/1962579861475598633) über den Start des ersten Community Liquidity Pools (stIOTA/$TLN) auf [pools.finance](pools.finance)
