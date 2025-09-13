@@ -3,4 +3,17 @@
 1. **IOTA Quicktakes**: Die [IF macht einen Thread](https://x.com/iota/status/1964977010029052271) über die [IOTA Quicktakes](https://youtu.be/H0ymwJSZEDc)
 2. **Crypto Drama**: Russland spricht davon, dass USA Crypto nur verwenden um ihre schwächelnde Währung zu retten auf Kosten der ganzen Welt: [Tweet](https://x.com/BTC_Archive/status/1965083816994689139)
 3. **Crypto Drama**: Es gab eine große Sicherheitslücke in Javascripts: [Tweet](https://x.com/P3b7_/status/1965094840959410230); Artikel: [Anatomy of a Billion-Download NPM Supply-Chain Attack](https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the)
-4. 
+4. **IOTA Audio**: [Nano Talk #3](https://x.com/id_iota/status/1965826067404566991)
+5. **IOTA Audio**: [Buildshpere #32 mit Salus](https://x.com/PhyloIota/status/1966142253526843574); Hier [Salimas Zusammenfassung](https://x.com/Salimasbegum/status/1966161778892484926) davon
+6. **IOTA Ökosystem**: [Salima tweetet](https://x.com/Salimasbegum/status/1965712167019114751) interessanten Details zu NFTs auf IOTA. Sie spricht von 8 NFT Serien mit über 100K NFTs
+7. **Crypto Adoption**: Die NASDAG will $50mio in Gemini investieren: [Tweet](https://x.com/WatcherGuru/status/1965347573478425045)
+8. **IOTA Event**: [IOTA tweetet](https://x.com/iota/status/1965747083496833209) über die [TUM Blockchain Conference](https://conference.tum-blockchain.com/) wo sie Silver Sponso sind
+9. **IOTA Adoption**: Die [IF macht ein Thread](https://x.com/iota/status/1965747081894613402) über ihren Blogpost: [Trade Finance, Reinvented - Unlocking $2.5T Through Tokenization](https://blog.iota.org/trade-finance-reinvented/); [Phylo schreibt](https://x.com/PhyloIota/status/1965763030756843699) von 9 Jahren Arbeit die da reingeflossen sind. Hier noch ein [Tweet von Phylo](https://x.com/PhyloIota/status/1965754127138578674) darüber; [Dom tweetet](https://x.com/DomSchiener/status/1965749333636399355) "We bring the real world on chain"; und hier noch ein [Tweet von Dom](https://x.com/DomSchiener/status/1965765910507200801)
+10. **IOTA Ökosystem**: Der erste [Tweet von Salus](https://x.com/salusplatform/status/1965789010170622046) und im [2. Tweet von Salus](https://x.com/salusplatform/status/1965794365852512552) ist ein schönes Video über den Usecase
+11. **IOTA Adotpion**: [Salima tweetet](https://x.com/Salimasbegum/status/1965798741027270671) ausführlich über Salima und kommt zu dem Schluss "..it’s really, really big" [Tweet](https://x.com/Salimasbegum/status/1965911677179933124); Auch [ID.IOTA tweetet](https://x.com/id_iota/status/1966164842080764286) einen langen Deep Dive und kommt zu dem gleichen Schluss und [Cigamatoi tweetet](https://x.com/Cigamatoi/status/1966102345093111996) ähnlich positive Vibes
+12. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1965429992130515425) darüber, das Ledger jetzt die IOTA Ledger 1.0.0 app heraus gebracht hat, wodurch IOTA auch mit Ledger Stax und Ledger Flex kompatibel ist
+13. **IOTA Moveathon**: Die [IF tweetet](https://x.com/iota/status/1965337166151901374) darüber, dass der [Moveathon Europe Edition](https://www.moveathon.build/europe) gerade begonnen hat
+14. **IOTA Hype**: [Dom tweetet](https://x.com/DomSchiener/status/1966036659150930045) den Kurs von Oracle Corp mit den Worten "Believe in something - IOTA"
+15. **IOTA Adoption**: IOTA ist wieder dabei beim "Top Development Activity Growth": [Tweet](https://x.com/chain_broker/status/1965822584517222641)
+16. **IOTA Event**: [Orobo macht ein Thread](https://x.com/HelloOrobo/status/1966323102603948542) über das fette Event in China, wo sie eingeladen waren
+17. 
