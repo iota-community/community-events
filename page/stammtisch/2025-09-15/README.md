@@ -16,4 +16,4 @@
 14. **IOTA Hype**: [Dom tweetet](https://x.com/DomSchiener/status/1966036659150930045) den Kurs von Oracle Corp mit den Worten "Believe in something - IOTA"
 15. **IOTA Adoption**: IOTA ist wieder dabei beim "Top Development Activity Growth": [Tweet](https://x.com/chain_broker/status/1965822584517222641)
 16. **IOTA Event**: [Orobo macht ein Thread](https://x.com/HelloOrobo/status/1966323102603948542) über das fette Event in China, wo sie eingeladen waren
-17. 
+17. **IOTA Ökosystem**: [ApeDao tweetet](https://x.com/0xApeDAO/status/1966773852177920488), dass man seine Apes jetzt auf den IOTA Layer 1 migrieren kann: 
