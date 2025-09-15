@@ -16,4 +16,12 @@
 14. **IOTA Hype**: [Dom tweetet](https://x.com/DomSchiener/status/1966036659150930045) den Kurs von Oracle Corp mit den Worten "Believe in something - IOTA"
 15. **IOTA Adoption**: IOTA ist wieder dabei beim "Top Development Activity Growth": [Tweet](https://x.com/chain_broker/status/1965822584517222641)
 16. **IOTA Event**: [Orobo macht ein Thread](https://x.com/HelloOrobo/status/1966323102603948542) über das fette Event in China, wo sie eingeladen waren
-17. **IOTA Ökosystem**: [ApeDao tweetet](https://x.com/0xApeDAO/status/1966773852177920488), dass man seine Apes jetzt auf den IOTA Layer 1 migrieren kann: 
+17. **IOTA Ökosystem**: [ApeDao tweetet](https://x.com/0xApeDAO/status/1966773852177920488), dass man seine Apes jetzt auf den IOTA Layer 1 migrieren kann auf [apedao.io/#/migration](https://apedao.io/#/migration)
+18. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosTCG/status/1967139170851135761) über das erste Turnier Wochenende
+19. **IOTA Ökosystem**: [jan.diotis tweetet](https://x.com/jan_diotis/status/1967271489738338631), dass die Grundfunktionen soweit stehen, dass sie am Sonntag mit dem Frontend starten können bei ihrer digital identity App
+20. **IOTA Ökosystem**: [TokenLabs tweetet](https://x.com/TokenLabsX/status/1967297578657079326) über eine neue Lerneinheit auf [tokenlabs.network/academy](https://tokenlabs.network/academy) über [x.com/ObjectID_io](https://x.com/ObjectID_io)
+21. **Crypto Adoption**: Mastercard ermöglicht scheinbar Zahlungen mit Ethereum: [Tweet](https://x.com/Ethprofit/status/1967305668626670029)
+22. **IOTA Adoption**: [kowei tweetet](https://x.com/kowei1995/status/1967417587727519969) begeistert über eine SUI Development Community (1000 chinesische developer), die einen IOTA Validator betreiben 
+23. **Crypto Adoption**: Amazon steigt jetzt wohl auch auf den Crypto Zug auf. Sie suchen einen "CRYPTO ECOSYSTEM LEAD”, der $500,000 pro Jahr verdinen wird : [Tweet](https://x.com/Ashcryptoreal/status/1967378771536904624)
+24. **IOTA Event**: [kowei tweetet](https://x.com/kowei1995/status/1967435582260613360) über 3 Events die von IOTA auf der Token2049 organisiert werden: 1. [Real-World Adoption Day | Token2049 Singapore](https://luma.com/adoptiondaysingapore?tk=AxsBra); 2. [All Time High. Rooftop & Golf connect](https://luma.com/f1jkkqey?tk=tt0RhR), 3. [Super Connect SG 2025](https://luma.com/e75uwh8w?tk=lARFkk)
+25. **Crypto Adoption**: Trump spricht positiv über Bitcoin: [Tweet](https://x.com/saylordocs/status/1967137995036795003)
