@@ -1,4 +1,4 @@
-##IOTA Stammtischthemen für Montag, den 22.9.2025
+## IOTA Stammtischthemen für Montag, den 22.9.2025
 
 1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1967876114447048769) über die [IOTA Quicktakes](https://www.youtube.com/watch?v=FqbYOGzhcAA)
 2. **Crypto Adoption**: PayPal integriert Bitcoin und Ethereum für 450mio User: [Tweet](https://x.com/BTC_Archive/status/1967577501212803162)
@@ -17,7 +17,3 @@
 15. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1967891592108253315) über [Buildshere #33 mit Sentio](https://x.com/iota/status/1967891592108253315)
 16. **Crypto Adoption**: Der von Fam. Trump gegründete American Bitcoin ($ABTC) geht an die Nasdaq: [Tweet](https://x.com/CoinDesk/status/1967964445331652851)
 17. **Crypto Adoption**: American Express startet NFTs (blockchain-based passport stamps allowing cardholders to digitally collect and share travel memories) auf Base: [Tweet](https://x.com/Cointelegraph/status/1967823407266877882)
-.
-18. 
-19. 
-20. 
