@@ -21,3 +21,4 @@
 19. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1967876134562906176) über den [Nano Talk #3](https://x.com/id_iota/status/1968046326341619907)
 20. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1966109473488945352) über Goldsky und das Webinar: [Indexing IOTA with Subgraphs..](https://www.youtube.com/watch?v=OESdnAg5Xk0&list=PLMbc46iGTB_Samx211B0e5ulm420tljN2&index=1)
 21. **IOTA Audio**: [Kutkraft tweetet](https://x.com/kutkraft/status/1968151168787550399) über einen neuen Talk: [IOTA, crypto & stuff](https://x.com/kutkraft/status/1968151168787550399)
+22. **IOTA Hype**: [Dom tweetet](https://x.com/DomSchiener/status/1968304064548229123) ein blaues Sofa mit IOTA Kissen und schreibt. "IOTA will be everywhere - the signs will be there"
