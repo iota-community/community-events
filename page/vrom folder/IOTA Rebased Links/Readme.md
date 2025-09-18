@@ -66,4 +66,6 @@
 6. [iota notarization](https://www.iota.org/products/notarization?ref=blog.iota.org)
 7. [iota-gas-station-alpha](https://blog.iota.org/iota-gas-station-alpha/); [https://www.iota.org/products/gas-station?ref=blog.iota.org](https://www.iota.org/products/gas-station?ref=blog.iota.org)
 8. [Digital Product Passport](https://www.iota.org/learn/showcases/dpp)
+9. [Goldsky Workshop](https://www.youtube.com/watch?v=OESdnAg5Xk0&list=PLMbc46iGTB_Samx211B0e5ulm420tljN2&index=1)
+10. [sentio.xyz](https://www.sentio.xyz/) Tutorial -> [From Transaction to Dashboard: A Developer’s Guide to Monitoring IOTA ](https://x.com/sentioxyz/status/1963100351667786143)
 
