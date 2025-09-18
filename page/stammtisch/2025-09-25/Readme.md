@@ -29,4 +29,4 @@
 27. **Crypto Adoption**: Passend dazu haben sich viele Crypto Influencer getroffen um über das neue Crypto Gesetz zu diskutieren: [Tweet](https://x.com/brian_armstrong/status/1968480348960080083)
 28. **Crypto Adoption**: Die SEC hat ETF listing standards eingeführt. Damit ist der Weg frei für #crypto ETF-Listings ohne individuelle Genehmigung: [Tweet](https://x.com/AltcoinDaily/status/1968445608533848147)
 29. **IOTA Adoption**: Das [Echo Protocol tweetet](https://x.com/EchoProtocol_/status/1968339625224860025) darüber, dass die Echo BTC → IOTA Bridge jetzt natives Bitcoin unterstützt; Auch die [IF retweetet](https://x.com/iota/status/1968554091744792892) das
-30. 
+30. **IOTA 
