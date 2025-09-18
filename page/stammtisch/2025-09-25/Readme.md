@@ -22,3 +22,11 @@
 20. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1966109473488945352) über Goldsky und das Webinar: [Indexing IOTA with Subgraphs..](https://www.youtube.com/watch?v=OESdnAg5Xk0&list=PLMbc46iGTB_Samx211B0e5ulm420tljN2&index=1)
 21. **IOTA Audio**: [Kutkraft tweetet](https://x.com/kutkraft/status/1968151168787550399) über einen neuen Talk: [IOTA, crypto & stuff](https://x.com/kutkraft/status/1968151168787550399)
 22. **IOTA Hype**: [Dom tweetet](https://x.com/DomSchiener/status/1968304064548229123) ein blaues Sofa mit IOTA Kissen und schreibt. "IOTA will be everywhere - the signs will be there"
+23. **IOTA Tech**: Es gibt ein IOTA Rebased Mainnet Protocol Upgrade V12: [Tweet](https://x.com/dlt_green/status/1968355540683117008)
+24. **IOTA Event**: Am 24. September ist ein TWIN Webinar: [Tweet von der IF](https://x.com/iota/status/1968329098066853927)
+25. **Crypto Adoption**: Die Santander Bank startet den Krypto Handel in Deutschland: [Tweet](https://x.com/pete_rizzo_/status/1968365786550124953)
+26. **Crypto Adoption**: Vor dem Whitehouse ist eine riesige goldene Trump Statue aufgetaucht mit einem Bitcoin in der Hand: [Tweet](https://x.com/WatcherGuru/status/1968425939156496783)
+27. **Crypto Adoption**: Passend dazu haben sich viele Crypto Influencer getroffen um über das neue Crypto Gesetz zu diskutieren: [Tweet](https://x.com/brian_armstrong/status/1968480348960080083)
+28. **Crypto Adoption**: Die SEC hat ETF listing standards eingeführt. Damit ist der Weg frei für #crypto ETF-Listings ohne individuelle Genehmigung: [Tweet](https://x.com/AltcoinDaily/status/1968445608533848147)
+29. **IOTA Adoption**: Das [Echo Protocol tweetet](https://x.com/EchoProtocol_/status/1968339625224860025) darüber, dass die Echo BTC → IOTA Bridge jetzt natives Bitcoin unterstützt; Auch die [IF retweetet](https://x.com/iota/status/1968554091744792892) das
+30. 
