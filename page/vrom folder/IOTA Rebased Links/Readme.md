@@ -5,6 +5,10 @@
 2. Mobile Phone: [Nightly Wallet (Play Store)](https://play.google.com/store/apps/details?id=com.nightlymobile&pli=1); [Nightly Wallet (Apple Store)](https://apps.apple.com/pl/app/nightly-multichain-wallet/id6444768157)
 3. IOTA Dashboard (looks like Firefly Wallet, but you have to login with one of the wallets above): [wallet-dashboard.iota.org](https://wallet-dashboard.iota.org/)
 4. Hier noch ein [Tweet](https://x.com/IBCwallet/status/1922576506326270361) über das [Cosmostation Wallet](https://chromewebstore.google.com/detail/cosmostation-wallet/fpkhgmpbidmiogeglndfbkegfdlnajnf?hl=ko&utm_source=ext_sidebar) mit IOTA Integration
+
+## Hardware Wallets:
+1. Ledger hat IOTA integriert: [Tutorial von Ledger](https://support.ledger.com/de/article/360011633353-zd)
+2. Keystone Wallet hat IOTA integriert: [Tweet von Keystone Wallet](https://x.com/KeystoneWallet/status/1925899675896254647)
    
 (All wallets are Ledger compatible, but you need the new IOTA App on your Ledger Device => Download the App to your Ledger Device in your Ledger Live application)
 
@@ -44,9 +48,13 @@
 # Apps using IOTA Technology:
 1. Digital Identity: [auvo.io](https://www.auvo.io/)
 2. Digitale (Objekt) ID: [X-Account: ObjectID_io](https://x.com/ObjectID_io); Website: [https://objectid.io/](https://objectid.io/)
-3. TWIN: [twindev.orgs](https://twindev.org/docs/pkgs)
+3. Supply Chain: TWIN: [twindev.orgs](https://twindev.org/docs/pkgs)
 4. Digital Product Passport: [orobo.tech](https://orobo.tech)
 5. Digital Identity: [impierce.com](https://www.impierce.com/?ref=blog.iota.org#products)
+6. Digital Identity: IOTA Partnershaft mit [GLEIF = Global Legal Entity Identifier Foundation](https://x.com/GLEIF): [Bringing Trusted Digital Identities to Global Trade](https://blog.iota.org/gleif-partnership/](https://blog.iota.org/gleif-partnership/)
+7. Digital Identity: Über [Turing Certs](https://turingcerts.com/) gibt das taiwanesische Ministerium für Digitales jede Menge digitale Identities raus: [Tweet](https://x.com/Salimasbegum/status/1966688626554679726)
+8. Digital Identity: Japan im Katastrophenschutz: [Tweet](https://x.com/Salimasbegum/status/1966651273421238314)
+9. Supply Chain: EU-funded project MISSION (MaritIme juSt in time optimiSatION): [Tweet](https://x.com/Cigamatoi/status/1968600261145846001)
 
 
 # For IOTA Developer:
