@@ -7,7 +7,7 @@
 5. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1967596782222766550) über 1 Mio IOTA Accounts auf dem Mainnet
 6. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/1966651273421238314) über Japan, die digitale Identitäten mittels IOTA herausgeben, um im Katastrophenfall schnell reagieren zu können. Sie verlinkt [prtimes.jp/...html](https://prtimes.jp/main/html/rd/p/000000096.000107403.html)
 7. **IOTA Adoption**: [Houtiswap tweetet](https://x.com/HoudiniSwap/status/1967710958337527894), dass IOTA unter den Top 5 coins beim swap volumen war auf [houdini_swap](https://linktr.ee/houdini_swap)
-8. **IOTA Exchange**: [dxdy tweetet](https://x.com/dYdX/status/1967838493587263519), dass ein IOTA USD swap möglich ist auf [dydx.trade](https://dydx.trade/trade/IOTA-USD)
+8. **IOTA Exchange**: [dYdX tweetet](https://x.com/dYdX/status/1967838493587263519), dass ein IOTA USD swap möglich ist auf [dydx.trade](https://dydx.trade/trade/IOTA-USD)
 9. **IOTA Ökosystem**: Das [Shi Universe tweetet](https://x.com/Shiuniverse/status/1967896315192393991) über ihren [Coiner Shop](https://coinerstore.io/) den sie gerade eröffnet haben
 10. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1966109473488945352) über ein [goldskyio workshop](https://www.youtube.com/watch?v=OESdnAg5Xk0&list=PLMbc46iGTB_Samx211B0e5ulm420tljN2&index=2) am 17. Sept, 5:30pm CEST
 11. **IOTA Adoption**: Zu Punkt 6 [tweetet Salima](https://x.com/Salimasbegum/status/1967899046879617100) nochmal, dass bereits 260K Zertifikate von Turing Certs auf dem IOTA Mainnet vergeben wurden
@@ -29,4 +29,7 @@
 27. **Crypto Adoption**: Passend dazu haben sich viele Crypto Influencer getroffen um über das neue Crypto Gesetz zu diskutieren: [Tweet](https://x.com/brian_armstrong/status/1968480348960080083)
 28. **Crypto Adoption**: Die SEC hat ETF listing standards eingeführt. Damit ist der Weg frei für #crypto ETF-Listings ohne individuelle Genehmigung: [Tweet](https://x.com/AltcoinDaily/status/1968445608533848147)
 29. **IOTA Adoption**: Das [Echo Protocol tweetet](https://x.com/EchoProtocol_/status/1968339625224860025) darüber, dass die Echo BTC → IOTA Bridge jetzt natives Bitcoin unterstützt; Auch die [IF retweetet](https://x.com/iota/status/1968554091744792892) das
-30. **IOTA 
+30. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1968661286788436137) über ein [KBW Pickleball tournament](https://luma.com/x2wx78w0) während der [Korea Blockchain Week](https://x.com/kbwofficial) das sie organisieren
+31. **Crypto Adoption**: Laos startet mit dem Bitcoin Mining: [Tweet](https://x.com/pete_rizzo_/status/1968634719253180784)
+32. **IOTA Ökosystem**: [ID.iota tweetet](https://x.com/id_iota/status/1968576647310844164) über ein Update von seinen [IOTA Daily Transaction Breakdown](https://iota-transaction-origin-visualizer-448150412424.us-west1.run.app/) in dem man jetzt auch die Transaktionen von [Turing Certs](https://x.com/turing_certs) sehen kann, die bereits über 130K DIDs ausgestellt haben
+33. **IOTA DeFi**: [virtue tweetet](https://x.com/Virtue_Money/status/1968658285600358543) über ein Double incentives Programm das jetzt live ist auf [Virtue.money](virtue.money). 
