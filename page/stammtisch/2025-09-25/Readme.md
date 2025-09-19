@@ -32,4 +32,8 @@
 30. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1968661286788436137) über ein [KBW Pickleball tournament](https://luma.com/x2wx78w0) während der [Korea Blockchain Week](https://x.com/kbwofficial) das sie organisieren
 31. **Crypto Adoption**: Laos startet mit dem Bitcoin Mining: [Tweet](https://x.com/pete_rizzo_/status/1968634719253180784)
 32. **IOTA Ökosystem**: [ID.iota tweetet](https://x.com/id_iota/status/1968576647310844164) über ein Update von seinen [IOTA Daily Transaction Breakdown](https://iota-transaction-origin-visualizer-448150412424.us-west1.run.app/) in dem man jetzt auch die Transaktionen von [Turing Certs](https://x.com/turing_certs) sehen kann, die bereits über 130K DIDs ausgestellt haben
-33. **IOTA DeFi**: [virtue tweetet](https://x.com/Virtue_Money/status/1968658285600358543) über ein Double incentives Programm das jetzt live ist auf [Virtue.money](virtue.money). 
+33. **IOTA DeFi**: [virtue tweetet](https://x.com/Virtue_Money/status/1968658285600358543) über ein Double incentives Programm das jetzt live ist auf [Virtue.money](virtue.money).
+34. **IOTA Patent**: Der [Wonderer tweetet](https://x.com/Wondere12985276/status/1968764034158604635) über ein neues Patent von Siemens: [A COMPUTER-IMPLEMENTED METHOD AND SYSTEM FOR TEMPORAL CORRELATION, OPTIMIZED UTILIZATION AND DEVALUATION OF DIGITAL RENEWABLE RESOURCE CERTIFICATES](https://worldwide.espacenet.com/patent/search/family/090364766/publication/EP4618468A1?q=pn%3DEP4618468A1)
+35. **IOTA Video**: Es gab ein Livestream von Switchboard über IOTA: [Tweet](https://x.com/switchboardxyz/status/1968351089113415821)
+36. **IOTA Adotpion**: [ID.IOTA tweetet](https://x.com/Cigamatoi/status/1968600261145846001) eine Zusammenfassung von dem MISSION Projekt von der EU mit iotainside
+37. 
