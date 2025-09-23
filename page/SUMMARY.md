@@ -241,5 +241,6 @@
 - [2025-09-08](./stammtisch/2025-09-08/README.md)
 - [2025-09-15](./stammtisch/2025-09-15/README.md)
 - [2025-09-22](./stammtisch/2025-09-22/README.md)
+- [2025-09-29](./stammtisch/2025-09-29/README.md)
 
 
