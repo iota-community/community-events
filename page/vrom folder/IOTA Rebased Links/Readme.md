@@ -68,4 +68,6 @@
 8. [Digital Product Passport](https://www.iota.org/learn/showcases/dpp)
 9. [Goldsky Workshop](https://www.youtube.com/watch?v=OESdnAg5Xk0&list=PLMbc46iGTB_Samx211B0e5ulm420tljN2&index=1)
 10. [sentio.xyz](https://www.sentio.xyz/) Tutorial -> [From Transaction to Dashboard: A Developer’s Guide to Monitoring IOTA ](https://x.com/sentioxyz/status/1963100351667786143)
+11. TWIN Tutorial: [#2 TWIN Technical Webinar, 24 September 2025](https://www.youtube.com/watch?v=i-KkG9NsHJg)
+12. Goldsky.io Tutorial [Indexing IOTA with Subgraphs and Mirror Pipelines](https://www.youtube.com/watch?v=OESdnAg5Xk0&list=PLMbc46iGTB_Samx211B0e5ulm420tljN2)
 
