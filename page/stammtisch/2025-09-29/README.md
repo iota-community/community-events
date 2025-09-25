@@ -19,3 +19,5 @@
 17. **IOTA Event**: [Tweet](https://x.com/epicweb3/status/1970854863362801795) über eine Panel Diskussion mit Phylo zu Thema "Digital Trust in Global Trade: Securing Products, Data, and Identities"
 18. **IOTA Promote**: [Dom tweetet](https://x.com/DomSchiener/status/1971146112183730461) über sein Interview im BTC Echo: [IOTA nach Neustart in “einer eigenen Kategorie”](https://www.btc-echo.de/news/iota-nach-neustart-in-einer-eigenen-kategorie-216154/)
 19. **IOTA DeFi**: Die [IF retweetet](https://x.com/iota/status/1971199962601095190) den [Tweet von Nanson](https://x.com/nansen_ai/status/1971119741143220573) über "Introducing 𝗡𝗮𝗻𝘀𝗲𝗻 𝗔𝗜 A new way to trade"
+20. **Crypto Adoption**: Der Staat Ohio erlaubt Crypto für Steuer- und staatliche Zahlungen: [Tweet](https://x.com/coinbureau/status/1971209100307628145)
+21. **Crypto Adoption**: Dänemark überlegt eine strategische Bitcoin Reserve aufzubauen: [Tweet](https://x.com/BTC_Archive/status/1971192256880103895)
