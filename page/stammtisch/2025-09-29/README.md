@@ -23,5 +23,8 @@
 21. **Crypto Adoption**: Dänemark überlegt eine strategische Bitcoin Reserve aufzubauen: [Tweet](https://x.com/BTC_Archive/status/1971192256880103895)
 22. **Crypto Adoption**: Google kauft Shares von einer Bitcoin Mining Firma: [Tweet](https://x.com/pete_rizzo_/status/1971176058620874829)
 23. **IOTA Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1971455133448839243) über eine Kollaboration mit [Pools.Finance](https://x.com/@PoolsFinance); Auch die [IF retweetet](https://x.com/iota/status/1971462541898584354) das
-24. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1971258399720423514) über ein Event in Singapur: [Signal: Institutional Strategies Amid the Noise | Token2049](Signal: Institutional Strategies Amid the Noise | Token2049)
+24. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1971258399720423514) über ein Event in Singapur: [Signal: Institutional Strategies Amid the Noise | Token2049](Signal: Institutional Strategies Amid the Noise | Token2049); Auch kowei wird dort auftreten: [Tweet](https://x.com/caladanxyz/status/1971527434303627441)
 25. **Crypto Adoption**: Die Oposition in UK will ne Bitcoin Reserve: [Tweet](https://x.com/pete_rizzo_/status/1971228729281221091)
+26. **Digital ID**: Key Starmer will noch in seiner Amtszeit eine digitale ID einführen (bis Juli 2029). Wer keine digitale ID hat darf ab dann nicht mehr in der UK arbeiten: [Tweet](https://x.com/BGatesIsaPyscho/status/1971537695882235947)
+27. **Crypto Adoption**: Selbst Vanguard will jetzt BTC ETFs seinen Kunden anbieten: [Tweet](https://x.com/BTC_Archive/status/1971554585014567021)
+28. 
