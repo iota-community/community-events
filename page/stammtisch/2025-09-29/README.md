@@ -8,7 +8,7 @@
 6. **IOTA Ökosystem**: [Deepr tweetet](https://x.com/DeeprFinance/status/1970468412154331143) darüber, dass ein erstes Audit für den Layer 1 fertig ist.
 7. **IOTA Promote**: [Dom kommentiert](https://x.com/DomSchiener/status/1970521524420436353) ein [Video Interview mit Vitalik Buterin](https://x.com/moonbaklava/status/1970557611268297202) wo er als damaliger Gewinner vom Hackathon erwähnt wird
 8. **IOTA Ökosystem**: Neues [Tutorial von Dark Mythos](https://x.com/DarkMythosTCG/status/1970760115453047266)
-9. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1968329098066853927) über das [TWIN Technical Webinar](https://luma.com/jnjr4qbc)
+9. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1968329098066853927) über das [TWIN Technical Webinar](https://luma.com/jnjr4qbc); Auch [Dom retweetet](https://x.com/DomSchiener/status/1971152558426394686) das
 10. **IOTA Video Tutorial**: [TWIN tweetet](https://x.com/TWINGlobalOrg/status/1971143283213525391) über das [#2 TWIN Technical Webinar,24. Sept 2025](https://youtu.be/i-KkG9NsHJg?feature=shared)
 11. **IOTA Rebased**: Es gab ein Software Update V1.7.0: [Tweet](https://x.com/TokenLabsX/status/1970777601468743735)
 12. **IOTA Promote**: [Dom tweetet](https://x.com/DomSchiener/status/1970866852130632105) eine Lobeshyme über den Tether CEO [Paolo Ardoino](https://x.com/paoloardoino/status/1970657524891496959)
@@ -21,3 +21,7 @@
 19. **IOTA DeFi**: Die [IF retweetet](https://x.com/iota/status/1971199962601095190) den [Tweet von Nanson](https://x.com/nansen_ai/status/1971119741143220573) über "Introducing 𝗡𝗮𝗻𝘀𝗲𝗻 𝗔𝗜 A new way to trade"
 20. **Crypto Adoption**: Der Staat Ohio erlaubt Crypto für Steuer- und staatliche Zahlungen: [Tweet](https://x.com/coinbureau/status/1971209100307628145)
 21. **Crypto Adoption**: Dänemark überlegt eine strategische Bitcoin Reserve aufzubauen: [Tweet](https://x.com/BTC_Archive/status/1971192256880103895)
+22. **Crypto Adoption**: Google kauft Shares von einer Bitcoin Mining Firma: [Tweet](https://x.com/pete_rizzo_/status/1971176058620874829)
+23. **IOTA Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1971455133448839243) über eine Kollaboration mit [Pools.Finance](https://x.com/@PoolsFinance); Auch die [IF retweetet](https://x.com/iota/status/1971462541898584354) das
+24. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1971258399720423514) über ein Event in Singapur: [Signal: Institutional Strategies Amid the Noise | Token2049](Signal: Institutional Strategies Amid the Noise | Token2049)
+25. **Crypto Adoption**: Die Oposition in UK will ne Bitcoin Reserve: [Tweet](https://x.com/pete_rizzo_/status/1971228729281221091)
