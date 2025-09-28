@@ -25,6 +25,12 @@
 23. **IOTA Ökosystem**: [MagicSea tweetet](https://x.com/MagicSeaDEX/status/1971455133448839243) über eine Kollaboration mit [Pools.Finance](https://x.com/@PoolsFinance); Auch die [IF retweetet](https://x.com/iota/status/1971462541898584354) das
 24. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1971258399720423514) über ein Event in Singapur: [Signal: Institutional Strategies Amid the Noise | Token2049](Signal: Institutional Strategies Amid the Noise | Token2049); Auch kowei wird dort auftreten: [Tweet](https://x.com/caladanxyz/status/1971527434303627441)
 25. **Crypto Adoption**: Die Oposition in UK will ne Bitcoin Reserve: [Tweet](https://x.com/pete_rizzo_/status/1971228729281221091)
-26. **Digital ID**: Key Starmer will noch in seiner Amtszeit eine digitale ID einführen (bis Juli 2029). Wer keine digitale ID hat darf ab dann nicht mehr in der UK arbeiten: [Tweet](https://x.com/BGatesIsaPyscho/status/1971537695882235947)
+26. **Digital ID**: Keir Starmer will noch in seiner Amtszeit eine digitale ID einführen (bis Juli 2029). Wer keine digitale ID hat darf ab dann nicht mehr in der UK arbeiten: [Tweet](https://x.com/BGatesIsaPyscho/status/1971537695882235947)
 27. **Crypto Adoption**: Selbst Vanguard will jetzt BTC ETFs seinen Kunden anbieten: [Tweet](https://x.com/BTC_Archive/status/1971554585014567021)
-28. 
+28. **IOTA Audio**: [Nanotalk #5](https://x.com/id_iota/status/1971997813572796443)
+29. **Crypto Adoption**: Deutsche Bank sagt, dass die Zentralbanken auf dem Weg sind um Bitcoin zu kaufen: [Tweet](https://x.com/Greencandleit/status/1971976089456329020)
+30. **IOTA Ökosystem**: [Giverep tweetet](https://x.com/GiveRep/status/1971995077640888437) über das [giverep.com/loyalty](https://giverep.com/loyalty) Program; Hier noch ein [Tweet](https://x.com/GiveRep/status/1971625634288763129) speziell zu IOTA
+31. **IOTA Ökosystem**: [IOTAlabs tweetet](https://x.com/iotalabs_/status/1971933428296843567) über Games die bald auf IOTA kommen
+32. **IOTA Stammtisch**: Der nächste IOTA Stammtisch in München ist am Fr. 10.10: [Tweet](https://x.com/IotaMunchen/status/1971569142798160307)
+33. **IOTA Ökosystem**: [Salima tweetet](https://x.com/Salimasbegum/status/1971605356360118444) über einige Anwendungen die scheinbar am "brewing" sind
+34. 
