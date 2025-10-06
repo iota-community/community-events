@@ -1,4 +1,4 @@
-## IOT AStammtischthemen für Montag, den 06.10.2025
+## IOTA Stammtischthemen für Montag, den 06.10.2025
 
 1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1972587155235954780) über die [IOTA Quicktakes](https://www.youtube.com/watch?v=5V6oycQOHfY)
 2. **IOTA Event**: IOTA sponsort einen Hackathon ([Hack Seasons Conference Singapore](https://luma.com/hack_sg)) in Singapur: [Tweet](https://x.com/iota/status/1972677752173044178)
