@@ -22,17 +22,19 @@
 
 # Already working dApps for IOTA Rebased:
 1. DEX: [pools.finance](https://www.pools.finance/)
-2. Launchpad: [pools.finance/launch](https://www.pools.finance/launch/)
-3. Liquid Staking: [swirlstake.com](https://swirlstake.com/)
-4. Staking Explorer: [dlt.green/de/services/staking-explorer](https://dlt.green/de/services/staking-explorer)
-5. First Game: [iotaflip.netlify.app](https://iotaflip.netlify.app/)
-6. Raffles or Giveaways: [iotaraffle.netlify.app](https://iotaraffle.netlify.app/); [Thread](https://x.com/teunvw5/status/1917567987273421140)
-7. Link your EVM address to your MoveVM account: [iotalink.io](https://iotalink.io/)
-8. Globaler Messanger: [my2c.eu](https://my2c.eu/) (funktioniert schon im Testnetz)
-9. Digitale (Objekt) ID: [X-Account: ObjectID_io](https://x.com/ObjectID_io); Website: [https://objectid.io/](https://objectid.io/)
-10. Digitale Identität Portfolio Manager: [liquidlink.io](https://liquidlink.io/)
-11. Einfache Coin Giveaways: [iota.gives](https://iota.gives/)
-12. Spamer auf IOTA Rebased: [iotaspam.io](https://iotaspam.io/)
+2. DEX/Bridge: [houdiniswap.com](https://houdiniswap.com/)
+3. Bridge IOTA L1(Move VM) <-> L2(EVM): [evm-bridge.iota.org](https://evm-bridge.iota.org/)
+4. Launchpad: [pools.finance/launch](https://www.pools.finance/launch/)
+5. Liquid Staking: [swirlstake.com](https://swirlstake.com/)
+6. Staking Explorer: [dlt.green/de/services/staking-explorer](https://dlt.green/de/services/staking-explorer)
+7. First Game: [iotaflip.netlify.app](https://iotaflip.netlify.app/)
+8. Raffles or Giveaways: [iotaraffle.netlify.app](https://iotaraffle.netlify.app/); [Thread](https://x.com/teunvw5/status/1917567987273421140)
+9. Link your EVM address to your MoveVM account: [iotalink.io](https://iotalink.io/)
+10. Globaler Messanger: [my2c.eu](https://my2c.eu/) (funktioniert schon im Testnetz)
+11. Digitale (Objekt) ID: [X-Account: ObjectID_io](https://x.com/ObjectID_io); Website: [https://objectid.io/](https://objectid.io/)
+12. Digitale Identität Portfolio Manager: [liquidlink.io](https://liquidlink.io/)
+13. Einfache Coin Giveaways: [iota.gives](https://iota.gives/)
+14. Spamer auf IOTA Rebased: [iotaspam.io](https://iotaspam.io/)
 
 # Upcoming dApps for IOTA Rebased:
 1. Lending: [Deepr.finance](https://www.deepr.finance/); [Soon-Tweet](https://x.com/DeeprFinance/status/1948750373520293986)
@@ -43,6 +45,7 @@
 6. Modular Web3 Service Suite: [etospheres.com]([https://x.com/ETOSPHERES](https://etospheres.com/)) to be announced on [x.com/ETOSPHERES](https://x.com/ETOSPHERES)
 7. LiquidLink ([liquidlink.io](https://liquidlink.io/)): [Tweet](https://x.com/Liquidlink_io/status/1920813848711622835)
 8. IOTAnames [iotanames.com](iotanames.com)
+9. Loyalty Program: [GiveReps](https://giverep.com/) 
 
 
 # Apps using IOTA Technology:
@@ -70,4 +73,5 @@
 10. [sentio.xyz](https://www.sentio.xyz/) Tutorial -> [From Transaction to Dashboard: A Developer’s Guide to Monitoring IOTA ](https://x.com/sentioxyz/status/1963100351667786143)
 11. TWIN Tutorial: [#2 TWIN Technical Webinar, 24 September 2025](https://www.youtube.com/watch?v=i-KkG9NsHJg)
 12. Goldsky.io Tutorial [Indexing IOTA with Subgraphs and Mirror Pipelines](https://www.youtube.com/watch?v=OESdnAg5Xk0&list=PLMbc46iGTB_Samx211B0e5ulm420tljN2)
+13. [IOTA Trust Framework](https://www.iota.org/learn/trust-framework?ref=blog.iota.org); [Blogpost dazu](https://blog.iota.org/iota-trust-framework/); [Thread von der IF dazu](https://x.com/iota/status/1975546655748378859)
 
