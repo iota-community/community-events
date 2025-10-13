@@ -45,7 +45,8 @@
 6. Modular Web3 Service Suite: [etospheres.com]([https://x.com/ETOSPHERES](https://etospheres.com/)) to be announced on [x.com/ETOSPHERES](https://x.com/ETOSPHERES)
 7. LiquidLink ([liquidlink.io](https://liquidlink.io/)): [Tweet](https://x.com/Liquidlink_io/status/1920813848711622835)
 8. IOTAnames [iotanames.com](iotanames.com)
-9. Loyalty Program: [GiveReps](https://giverep.com/) 
+9. Loyalty Program: [GiveReps](https://giverep.com/)
+10. Reputation Station: [repstation.xyz](https://repstation.xyz/)
 
 
 # Apps using IOTA Technology:
@@ -74,4 +75,5 @@
 11. TWIN Tutorial: [#2 TWIN Technical Webinar, 24 September 2025](https://www.youtube.com/watch?v=i-KkG9NsHJg)
 12. Goldsky.io Tutorial [Indexing IOTA with Subgraphs and Mirror Pipelines](https://www.youtube.com/watch?v=OESdnAg5Xk0&list=PLMbc46iGTB_Samx211B0e5ulm420tljN2)
 13. [IOTA Trust Framework](https://www.iota.org/learn/trust-framework?ref=blog.iota.org); [Blogpost dazu](https://blog.iota.org/iota-trust-framework/); [Thread von der IF dazu](https://x.com/iota/status/1975546655748378859)
+14. Reputation Protocol: [repstation.xyz](https://repstation.xyz/)
 
