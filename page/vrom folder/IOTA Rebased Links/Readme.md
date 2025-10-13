@@ -37,7 +37,7 @@
 13. Digitale Identität Portfolio Manager: [liquidlink.io](https://liquidlink.io/)
 14. Einfache Coin Giveaways: [iota.gives](https://iota.gives/)
 15. Spamer auf IOTA Rebased: [iotaspam.io](https://iotaspam.io/)
-16. IOTA Gaming: [plap.fans](https://t.co/fJEOaVOj8z); [Tweet](https://x.com/PlappyBirdGame/status/1960684589682139613)
+16. IOTA NFT: [apedao.io](https://apedao.io/)
 
 # Upcoming dApps for IOTA Rebased:
 1. Lending: [Deepr.finance](https://www.deepr.finance/); [Soon-Tweet](https://x.com/DeeprFinance/status/1948750373520293986)
@@ -77,6 +77,6 @@
 10. [sentio.xyz](https://www.sentio.xyz/) Tutorial -> [From Transaction to Dashboard: A Developer’s Guide to Monitoring IOTA ](https://x.com/sentioxyz/status/1963100351667786143)
 11. TWIN Tutorial: [#2 TWIN Technical Webinar, 24 September 2025](https://www.youtube.com/watch?v=i-KkG9NsHJg)
 12. Goldsky.io Tutorial [Indexing IOTA with Subgraphs and Mirror Pipelines](https://www.youtube.com/watch?v=OESdnAg5Xk0&list=PLMbc46iGTB_Samx211B0e5ulm420tljN2)
-13. [IOTA Trust Framework](https://www.iota.org/learn/trust-framework?ref=blog.iota.org); [Blogpost dazu](https://blog.iota.org/iota-trust-framework/); [Thread von der IF dazu](https://x.com/iota/status/1975546655748378859)
+13. [IOTA Trust Framework](https://www.iota.org/learn/trust-framework?ref=blog.iota.org); [Blogpost dazu](https://blog.iota.org/iota-trust-framework/); [Thread von der IF dazu](https://x.com/iota/status/1975546655748378859); Demo dazu: [demo.iota.org](http://demo.iota.org/)
 14. Reputation Protocol: [repstation.xyz](https://repstation.xyz/)
 
