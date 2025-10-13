@@ -29,7 +29,7 @@
 5. Liquid Staking: [swirlstake.com](https://swirlstake.com/)
 6. Staking Explorer: [dlt.green/de/services/staking-explorer](https://dlt.green/de/services/staking-explorer)
 7. First Game: [iotaflip.netlify.app](https://iotaflip.netlify.app/)
-8. Raffles or Giveaways: [iotaraffle.netlify.app](https://iotaraffle.netlify.app/); [Thread](https://x.com/teunvw5/status/1917567987273421140)
+8. Raffles or Giveaways: [iota-raffle.netlify.app](https://iota-raffle.netlify.app/); [Thread](https://x.com/teunvw5/status/1917567987273421140)
 9. IOTA Giveaways: [https://iota.gives/](https://iota.gives/)
 10. Link your EVM address to your MoveVM account: [iotalink.io](https://iotalink.io/)
 11. Globaler Messanger: [my2c.eu](https://my2c.eu/) (funktioniert schon im Testnetz)
