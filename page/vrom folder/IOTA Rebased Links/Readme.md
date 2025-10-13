@@ -80,4 +80,5 @@
 12. Goldsky.io Tutorial [Indexing IOTA with Subgraphs and Mirror Pipelines](https://www.youtube.com/watch?v=OESdnAg5Xk0&list=PLMbc46iGTB_Samx211B0e5ulm420tljN2)
 13. [IOTA Trust Framework](https://www.iota.org/learn/trust-framework?ref=blog.iota.org); [Blogpost dazu](https://blog.iota.org/iota-trust-framework/); [Thread von der IF dazu](https://x.com/iota/status/1975546655748378859); Demo dazu: [demo.iota.org](http://demo.iota.org/)
 14. Reputation Protocol: [repstation.xyz](https://repstation.xyz/)
+15. IOTA Rebased SDK: [npmjs.com/package/@iota/dapp-kit](https://www.npmjs.com/package/@iota/dapp-kit)
 
