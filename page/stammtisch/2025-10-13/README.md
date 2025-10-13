@@ -29,3 +29,4 @@
 27. **IOTA Ökosystem**: Ein neuer X-Account taucht auf: [Repstation auf X](https://x.com/repstation_xyz/status/1977036728923046282) und die Webseite ([repstation.xyz](https://repstation.xyz/)) sieht auch vielversprechend aus; Und in [diesem Tweet](https://x.com/IotaRebased/status/1977452282573983998) wird das gut zusammengefasst und auch [Salima tweetet](https://x.com/Salimasbegum/status/1977482784194339117) begeistert davon
 28. **IOTA Audio**: Es gab ein [X.Spaces von iota_africa](https://x.com/iota_africa/status/1977435370272047527)
 29. **IOTA Devs**: [tmcyrix tweetet](https://x.com/tmcyrix/status/1977614178992238874) über ein [iota/dapp-kit](https://www.npmjs.com/package/@iota/dapp-kit) Developer Kit, das er sehr empfehlen kann für IOTA Rebased Developer
+30. **IOTA Audio**: [Miss Crypto tweetet](https://x.com/MissCryptoGER/status/1975588226690916721) über ein neues Interview mit Dom was sie diese Woche halten wird
