@@ -54,14 +54,15 @@
 
 # Apps using IOTA Technology:
 1. Digital Identity: [auvo.io](https://www.auvo.io/)
-2. Digitale (Objekt) ID: [X-Account: ObjectID_io](https://x.com/ObjectID_io); Website: [https://objectid.io/](https://objectid.io/)
+2. Digitale (Objekt) ID: [X-Account: ObjectID_io](https://x.com/ObjectID_io); Website: [objectid.io](https://objectid.io/)
 3. Supply Chain: TWIN: [twindev.orgs](https://twindev.org/docs/pkgs)
 4. Digital Product Passport: [orobo.tech](https://orobo.tech)
 5. Digital Identity: [impierce.com](https://www.impierce.com/?ref=blog.iota.org#products)
-6. Digital Identity: IOTA Partnershaft mit [GLEIF = Global Legal Entity Identifier Foundation](https://x.com/GLEIF): [Bringing Trusted Digital Identities to Global Trade](https://blog.iota.org/gleif-partnership/](https://blog.iota.org/gleif-partnership/)
+6. Digital Identity: IOTA Partnershaft mit [GLEIF = Global Legal Entity Identifier Foundation](https://x.com/GLEIF): [Bringing Trusted Digital Identities to Global Trade](https://blog.iota.org/gleif-partnership/)
 7. Digital Identity: Über [Turing Certs](https://turingcerts.com/) gibt das taiwanesische Ministerium für Digitales jede Menge digitale Identities raus: [Tweet](https://x.com/Salimasbegum/status/1966688626554679726); [Tweet](https://x.com/thejeffhu/status/1971163126105243666)
 8. Digital Identity: Japan im Katastrophenschutz: [Tweet](https://x.com/Salimasbegum/status/1966651273421238314)
 9. Supply Chain: EU-funded project MISSION (MaritIme juSt in time optimiSatION): [Tweet](https://x.com/Cigamatoi/status/1968600261145846001)
+10. RWA Usecase: [salusplatform.com](https://www.salusplatform.com/) "Digital Trade Finance for Critical Minerals"
 
 
 # For IOTA Developer:
