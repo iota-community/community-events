@@ -37,6 +37,7 @@
 13. Digitale Identität Portfolio Manager: [liquidlink.io](https://liquidlink.io/)
 14. Einfache Coin Giveaways: [iota.gives](https://iota.gives/)
 15. Spamer auf IOTA Rebased: [iotaspam.io](https://iotaspam.io/)
+16. IOTA Gaming: [plap.fans](https://t.co/fJEOaVOj8z); [Tweet](https://x.com/PlappyBirdGame/status/1960684589682139613)
 
 # Upcoming dApps for IOTA Rebased:
 1. Lending: [Deepr.finance](https://www.deepr.finance/); [Soon-Tweet](https://x.com/DeeprFinance/status/1948750373520293986)
