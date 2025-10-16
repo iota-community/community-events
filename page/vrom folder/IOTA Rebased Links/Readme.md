@@ -1,6 +1,6 @@
-## Important links for IOTA Rebased
+# Important links for IOTA Rebased
 
-# Wallets:
+## Wallets:
 1. Personal Computer (Browser Addons): [IOTA Wallet](https://chromewebstore.google.com/detail/iota-wallet/iidjkmdceolghepehaaddojmnjnkkija); Or: [Nightly Wallet (Chrome, Opera, Edge, Brave)](https://nightly.app/download); 
 2. Mobile Phone: [Nightly Wallet (Play Store)](https://play.google.com/store/apps/details?id=com.nightlymobile&pli=1); [Nightly Wallet (Apple Store)](https://apps.apple.com/pl/app/nightly-multichain-wallet/id6444768157)
 3. Metamask IOTA Wallet Addon: [snap.liquidlink.io](https://snap.liquidlink.io/); [Thread dazu von der IF](https://x.com/iota/status/1978083369482166701)
@@ -13,7 +13,7 @@
    
 (All wallets are Ledger compatible, but you need the new IOTA App on your Ledger Device => Download the App to your Ledger Device in your Ledger Live application)
 
-# IOTA Explorer:
+## IOTA Explorer:
 1. IOTA Explorer: [iotascan.com](https://iotascan.com/mainnet/home)
 2. IOTA Explorer: [explorer.iota.org](https://explorer.iota.org/)
 3. Staking/Analytics: [dlt.green/de/services/iota-staking-analytics](dlt.green/de/services/iota-staking-analytics)
@@ -22,7 +22,7 @@
 6. Transaction Dashboard: [Dashboard](https://iota-transaction-origin-visualizer-448150412424.us-west1.run.app/)
 7. Staking Rewards Analytics for Taxes Calculation: [dlt.green/de/services/staking-explorer](https://dlt.green/en/services/staking-explorer#delegated)  (only for DLT.GREEN stakers)
 
-# Already working dApps for IOTA Rebased:
+## Already working dApps for IOTA Rebased:
 1. DEX: [pools.finance](https://www.pools.finance/)
 2. DEX/Bridge: [houdiniswap.com](https://houdiniswap.com/)
 3. Bridge IOTA L1(Move VM) <-> L2(EVM): [evm-bridge.iota.org](https://evm-bridge.iota.org/)
@@ -40,7 +40,8 @@
 15. Spamer auf IOTA Rebased: [iotaspam.io](https://iotaspam.io/)
 16. IOTA NFT: [apedao.io](https://apedao.io/)
 
-# Upcoming dApps for IOTA Rebased:
+
+## Upcoming dApps for IOTA Rebased:
 1. Lending: [Deepr.finance](https://www.deepr.finance/); [Soon-Tweet](https://x.com/DeeprFinance/status/1948750373520293986)
 2. NFT: [figment.exchange](https://www.figment.exchange/) to be announced on [x.com/figment_nfts](https://x.com/figment_nfts)
 3. RWA: [realize.finance](https://realize.finance/) to be announced on [x.com/realizefinance](https://x.com/realizefinance)
@@ -51,9 +52,12 @@
 8. IOTAnames [iotanames.com](iotanames.com)
 9. Loyalty Program: [GiveReps](https://giverep.com/)
 10. Reputation Station: [repstation.xyz](https://repstation.xyz/)
+11. NFT Marketplace: [tradeport.xyz](https://www.tradeport.xyz/); [Tweet von TradePort](https://x.com/tradeportxyz/status/1978522182587191333)
+
 
 # IOTA Gaming
 1. Jump and run: [lostcrusader.xyz](http://www.lostcrusader.xyz/); [Tweet](https://x.com/_LostCrusader/status/1978347608063295639)
+2. [Tweet von Trapist 1 MMO](https://x.com/trappist1_mmo/status/1978689369897644327)
 
 
 # Apps using IOTA Technology:
