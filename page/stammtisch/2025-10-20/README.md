@@ -19,4 +19,9 @@
 17. **IOTA Promote**: [Cigamatoi schreibt](https://x.com/Cigamatoi/status/1978400463210082679) über Big Pharma und warum es für sie Sinn machen würde auf IOTA zu setzen
 18. **IOTA NFT**: [Tradeport tweetet](https://x.com/tradeportxyz/status/1978522182587191333) darüber, dass sie IOTA L1 integriert haben auf [tradeport.xyz](https://www.tradeport.xyz/)
 19. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1978558289165091047) darüber, dass man seine Staking Rewards Analyse jetzt auch grafisch aufbereitet sehen kann (wenn man bei DLT.GREEN & Partner staked)
-20. 
+20. **IOTA Ökosystem**: [LiquidLink tweetet](https://x.com/Liquidlink_io/status/1978716566666809657) über Double Rewards wegen ihrer Partnerschaft mit [giverep](https://x.com/GiveRep)
+21. **IOTA Game**: [Trappist 2 MMO tweetet](https://x.com/trappist1_mmo/status/1978689369897644327) über ihr Spiel und einen "[Playable Teaser](https://t.co/9Gd0AcVN1Y)" der gerade raus kam
+22. **IOTA Ökosystem**: Die [IF retweetet](https://x.com/iota/status/1978769611488113089) den [Tweet von "IOTA Playground"](https://x.com/IotaPlayground/status/1978768558571073941) über [iotaplay.app](https://iotaplay.app/), einer Developer Umgebung für IOTA ("The fastest way to build & test IOTA Move contracts on browser!")
+23. **Crypto Drama**: PayPal Drama: [Tweet](https://x.com/coinbureau/status/1978689118998536480) "PAYPAL'S STABLECOIN PYUSD JUST MINTED $300 TRILLION WORTH OF STABLECOIN"
+24. **IOTA Video**: Doms Rede für den Moveathon: [MOVEATHON APAC Edition: Dom Talks "The Moves That Matter."](https://youtu.be/3XJC6sOBVsU)
+25. **Crypto Drama**: Crypto.com verklagt Binance wegen dem "FLASH-CASH VON 400 MILLIARDEN USD": [Tweet](https://x.com/BDCryptoGuru/status/1978771527710507269)
