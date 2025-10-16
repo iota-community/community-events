@@ -25,3 +25,5 @@
 23. **Crypto Drama**: PayPal Drama: [Tweet](https://x.com/coinbureau/status/1978689118998536480) "PAYPAL'S STABLECOIN PYUSD JUST MINTED $300 TRILLION WORTH OF STABLECOIN"
 24. **IOTA Video**: Doms Rede für den Moveathon: [MOVEATHON APAC Edition: Dom Talks "The Moves That Matter."](https://youtu.be/3XJC6sOBVsU)
 25. **Crypto Drama**: Crypto.com verklagt Binance wegen dem "FLASH-CASH VON 400 MILLIARDEN USD": [Tweet](https://x.com/BDCryptoGuru/status/1978771527710507269)
+26. **IOTA Tech Update**: Die [IF macht einen Thread](https://x.com/iota/status/1978808147797062109) über [IOTA Trust Framework - Building Blocks for Digital Trust](https://blog.iota.org/iota-trust-framework/)
+27. **Crypto Adoption**: M. Saylor hat wohl einen Podcast mit Joe Rogan aufgenommen: [Tweet](https://x.com/BitcoinNewsCom/status/1978790602281292060)
