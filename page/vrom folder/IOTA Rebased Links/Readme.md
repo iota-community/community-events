@@ -3,8 +3,9 @@
 # Wallets:
 1. Personal Computer (Browser Addons): [IOTA Wallet](https://chromewebstore.google.com/detail/iota-wallet/iidjkmdceolghepehaaddojmnjnkkija); Or: [Nightly Wallet (Chrome, Opera, Edge, Brave)](https://nightly.app/download); 
 2. Mobile Phone: [Nightly Wallet (Play Store)](https://play.google.com/store/apps/details?id=com.nightlymobile&pli=1); [Nightly Wallet (Apple Store)](https://apps.apple.com/pl/app/nightly-multichain-wallet/id6444768157)
-3. IOTA Dashboard (looks like Firefly Wallet, but you have to login with one of the wallets above): [wallet-dashboard.iota.org](https://wallet-dashboard.iota.org/)
-4. Hier noch ein [Tweet](https://x.com/IBCwallet/status/1922576506326270361) über das [Cosmostation Wallet](https://chromewebstore.google.com/detail/cosmostation-wallet/fpkhgmpbidmiogeglndfbkegfdlnajnf?hl=ko&utm_source=ext_sidebar) mit IOTA Integration
+3. Metamask IOTA Wallet Addon: [snap.liquidlink.io](https://snap.liquidlink.io/); [Thread dazu von der IF](https://x.com/iota/status/1978083369482166701)
+4. IOTA Dashboard (looks like Firefly Wallet, but you have to login with one of the wallets above): [wallet-dashboard.iota.org](https://wallet-dashboard.iota.org/)
+5. Hier noch ein [Tweet](https://x.com/IBCwallet/status/1922576506326270361) über das [Cosmostation Wallet](https://chromewebstore.google.com/detail/cosmostation-wallet/fpkhgmpbidmiogeglndfbkegfdlnajnf?hl=ko&utm_source=ext_sidebar) mit IOTA Integration
 
 ## Hardware Wallets:
 1. Ledger hat IOTA integriert: [Tutorial von Ledger](https://support.ledger.com/de/article/360011633353-zd)
@@ -50,6 +51,9 @@
 8. IOTAnames [iotanames.com](iotanames.com)
 9. Loyalty Program: [GiveReps](https://giverep.com/)
 10. Reputation Station: [repstation.xyz](https://repstation.xyz/)
+
+# IOTA Gaming
+1. Jump and run: [lostcrusader.xyz](http://www.lostcrusader.xyz/); [Tweet](https://x.com/_LostCrusader/status/1978347608063295639)
 
 
 # Apps using IOTA Technology:
