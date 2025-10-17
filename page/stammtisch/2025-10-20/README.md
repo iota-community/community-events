@@ -35,3 +35,4 @@
 33. **IOTA Event**: Die [IF teetet](https://x.com/iota/status/1979110408842616871) über ein Event am 17.10. wo sie Gold Sponsor sind für die "Industry Night".
 34. **IOTA Ökosystem**: Die [Repstation tweetet](https://x.com/repstation_xyz/status/1979074162338537820) darüber, dass seine dApp noch viel besser wird als ursprünglich gedacht: "We started out building one thing and ended up creating something much bigger now. The new direction of Repstation will be cleaner, smarter. and way more powerful!"
 35. **IOTA Event**: [TokenLabs tweetet](https://x.com/TokenLabsX/status/1979086190700527849) über die European Blockchain Week wo sie die IOTA Foundation getroffen haben
+36. **Crypto Adoption**: Mr. Beast hat einen Markennamen für Crypto Finanzen registriert: [Tweet](https://x.com/BTC_Archive/status/1979158833445413284)
