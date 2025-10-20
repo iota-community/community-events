@@ -50,3 +50,4 @@
 48. **IOTA Gewinner**: vrom, ID.iota und 3 andere haben je 200 IOTA gewonnen: [Tweet](https://x.com/encapHQ/status/1979933056824967281)
 49. **IOTA Ökosystem**: Ein neuer Builder meldet sich: [Tweet](https://x.com/TheJessePeralta/status/1980040592806838359); Es gab auch einen [Kommentar von Dom](https://x.com/DomSchiener/status/1980203431252885634)
 50. **IOTA Promote**: [Dom retweetet Elon Musk](https://x.com/DomSchiener/status/1980227905289670699) und schreibt "IOTA works" nachdem er "X works gepostet hatte
+51. **IOTA Intern**: Die [IF macht einen Thread](https://x.com/iota/status/1980257699070673392) über 2 neue Team Member: [Strengthening IOTA’s Global Communications - Welcoming Karen O’Brien and Manuel Vigilius](https://blog.iota.org/iota-global-communications/)
