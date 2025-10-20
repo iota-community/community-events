@@ -47,3 +47,6 @@
 45. **IOTa Video**: [Miss Crypto tweetet](https://x.com/MissCryptoGER/status/1979970803522535663) über ihr [Interview mit Dom Schiener](https://www.youtube.com/watch?v=l3cxb9SgAoI&feature=youtu.be) von dem [moon eine Zusammenfassung](https://x.com/moonbaklava/status/1980022089185894543) gemacht hat; Hier auch eine [Zusammenfassung von Salima](https://x.com/moonbaklava/status/1980022089185894543)
 46. **Crypto Adoption**: Die FED hält heute eine Bitcoin Crypto Konferenz für Crypto Zahlungen: [Tweet](https://x.com/Ashcryptoreal/status/1980122246137147395)
 47. **IOTA Video**: Die [IF tweetet](https://x.com/iota/status/1980168820846113119) über den Start vom Moveathon mit dem Startevent: [Moveathon (Europe Edition) Opening Ceremony 2025](https://www.youtube.com/live/wEMHWyhwnhE)
+48. **IOTA Gewinner**: vrom, ID.iota und 3 andere haben je 200 IOTA gewonnen: [Tweet](https://x.com/encapHQ/status/1979933056824967281)
+49. **IOTA Ökosystem**: Ein neuer Builder meldet sich: [Tweet](https://x.com/TheJessePeralta/status/1980040592806838359); Es gab auch einen [Kommentar von Dom](https://x.com/DomSchiener/status/1980203431252885634)
+50. **IOTA Promote**: [Dom retweetet Elon Musk](https://x.com/DomSchiener/status/1980227905289670699) und schreibt "IOTA works" nachdem er "X works gepostet hatte
