@@ -6,6 +6,7 @@
 3. Metamask IOTA Wallet Addon: [snap.liquidlink.io](https://snap.liquidlink.io/); [Thread dazu von der IF](https://x.com/iota/status/1978083369482166701)
 4. IOTA Dashboard (looks like Firefly Wallet, but you have to login with one of the wallets above): [wallet-dashboard.iota.org](https://wallet-dashboard.iota.org/)
 5. Hier noch ein [Tweet](https://x.com/IBCwallet/status/1922576506326270361) über das [Cosmostation Wallet](https://chromewebstore.google.com/detail/cosmostation-wallet/fpkhgmpbidmiogeglndfbkegfdlnajnf?hl=ko&utm_source=ext_sidebar) mit IOTA Integration
+6. [Tweet von der IF](https://x.com/iota/status/1980620086026088452) über [IOTA Now Available on Turnkey - Enterprise-Grade Wallet Infrastructure for Builders](https://blog.iota.org/iota-integration-turnkey/) und die Demo dazu: [wallets.turnkey.com/...iota.org](https://wallets.turnkey.com/?ref=blog.iota.org)]
 
 ## Hardware Wallets:
 1. Ledger hat IOTA integriert: [Tutorial von Ledger](https://support.ledger.com/de/article/360011633353-zd)
