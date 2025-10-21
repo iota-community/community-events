@@ -6,7 +6,7 @@
 3. Metamask IOTA Wallet Addon: [snap.liquidlink.io](https://snap.liquidlink.io/); [Thread dazu von der IF](https://x.com/iota/status/1978083369482166701)
 4. IOTA Dashboard (looks like Firefly Wallet, but you have to login with one of the wallets above): [wallet-dashboard.iota.org](https://wallet-dashboard.iota.org/)
 5. Hier noch ein [Tweet](https://x.com/IBCwallet/status/1922576506326270361) über das [Cosmostation Wallet](https://chromewebstore.google.com/detail/cosmostation-wallet/fpkhgmpbidmiogeglndfbkegfdlnajnf?hl=ko&utm_source=ext_sidebar) mit IOTA Integration
-6. [Tweet von der IF](https://x.com/iota/status/1980620086026088452) über [IOTA Now Available on Turnkey - Enterprise-Grade Wallet Infrastructure for Builders](https://blog.iota.org/iota-integration-turnkey/) und die Demo dazu: [wallets.turnkey.com/...iota.org](https://wallets.turnkey.com/?ref=blog.iota.org)]
+6. [Tweet von der IF](https://x.com/iota/status/1980620086026088452) über [IOTA Now Available on Turnkey - Enterprise-Grade Wallet Infrastructure for Builders](https://blog.iota.org/iota-integration-turnkey/) und die Demo dazu: [wallets.turnkey.com/...iota.org](https://wallets.turnkey.com/?ref=blog.iota.org)
 
 ## Hardware Wallets:
 1. Ledger hat IOTA integriert: [Tutorial von Ledger](https://support.ledger.com/de/article/360011633353-zd)
@@ -54,6 +54,7 @@
 9. Loyalty Program: [GiveReps](https://giverep.com/)
 10. Reputation Station: [repstation.xyz](https://repstation.xyz/)
 11. NFT Marketplace: [tradeport.xyz](https://www.tradeport.xyz/); [Tweet von TradePort](https://x.com/tradeportxyz/status/1978522182587191333)
+12. IOTA Musik App: [nakkitok.ddns.net](https://nakkitok.ddns.net/)
 
 
 # IOTA Gaming
@@ -90,4 +91,5 @@
 13. [IOTA Trust Framework](https://www.iota.org/learn/trust-framework?ref=blog.iota.org); [Blogpost dazu](https://blog.iota.org/iota-trust-framework/); [Thread von der IF dazu](https://x.com/iota/status/1975546655748378859); Demo dazu: [demo.iota.org](http://demo.iota.org/)
 14. Reputation Protocol: [repstation.xyz](https://repstation.xyz/)
 15. IOTA Rebased SDK: [npmjs.com/package/@iota/dapp-kit](https://www.npmjs.com/package/@iota/dapp-kit)
+16. IOTA Developer Playground: [iotaplay.app](https://iotaplay.app/) ("The fastest way to build & test IOTA Move contracts on browser!")
 
