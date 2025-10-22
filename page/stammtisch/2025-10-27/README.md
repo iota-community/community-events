@@ -18,4 +18,4 @@
 16. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/1980759938315006429) über GLEIF und über das neue "[Next-Generation Trade Corridors](https://iccwbo.uk/next-generation-trade-corridors/)"
 17. **Crypto Adoption**: Russland hat Crypto als legale Cross Boarder Währung anerkannt: [Tweet](https://x.com/Vivek4real_/status/1980900589656580148)
 18. **IOTA Promote**: [IOTA Events tweetet](https://x.com/iotashop/status/1980911934045065281) über seinen Artikel: [Why IOTA’s Focus on Real-World Assets Matters — and How Salus & TWIN Make It Real](https://x.com/iotashop/status/1980911934045065281)
-19. 
+19. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosTCG/status/1980690136905269428) über ihren "Official Beta Launch"
