@@ -5,7 +5,7 @@
 3. **IOTA Exchange**: [Salima tweetet](https://x.com/Salimasbegum/status/1980312186107859270) über BitGo die wohl Ende November IOTA listen werden und damit die Tür zur USA geöffnet wird
 4. **IOTA Adoption**: [ID.iota tweetet](https://x.com/id_iota/status/1980576427750678974) über Layer Zero, die offenbar die ersten Transaktionen auf IOTA durchführen...
 5. **IOTA Video**: Die [IF tweetet](https://x.com/iota/status/1980599648592027870) über das RWA Event in Singapur mit Dom Schiener: [How we bring The Real World on-chain](https://www.youtube.com/watch?v=GxvVQ47o2QE)
-6. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1980574784460034115) über ein Event in Lugano ("Bridging Traditional Finance and Bitcoin") wo sie dabei sind. [Ante retweetet](https://x.com/0xRimac/status/1980576398118121734) das. Er ist auch dabei
+6. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1980574784460034115) über ein Event in Lugano ("Bridging Traditional Finance and Bitcoin") wo sie dabei sind. [Ante retweetet](https://x.com/0xRimac/status/1980576398118121734) das. Er ist auch dabei; Hier noch ein [Tweet von der IF](https://x.com/iota/status/1980937174338990121) (Dom ist auch dort)
 7. **IOTA Ökosystem**: Roboter mit IOTA steuern: [Tweet](https://x.com/techbyalva/status/1980378762345619892) von einem Developer
 8. **IOTA Promote**: Die [IF retweetet](https://x.com/iota/status/1980527986525733268) den [Artikel von ID.iota: The $2.5 Trillion Trade War That Could Make IOTA Explode](https://x.com/id_iota/status/1980310569493115383); [Ante retweetet](https://x.com/0xRimac/status/1980311042732458332) das ziemlich bullish...
 9. **IOTA Exchange**: Binance gibt jetzt 5% Zinsen auf IOTA in ihrem "soft earning" program: [Tweet](https://x.com/moonbaklava/status/1980604101663596889)
@@ -21,3 +21,5 @@
 19. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosTCG/status/1980690136905269428) über ihren "Official Beta Launch"
 20. **IOTA Ökosystem**: [cyberperp tweetet](https://x.com/cyberperp/status/1980676883600556041), dass sie am Wochendende launchen auf IOTA Rebased
 21. **IOTA Event**: [DLT.Green tweetet](https://x.com/dlt_green/status/1980640357844152709) von einem Event "Innovation Summit Copenhagen 2025"; Hier noch ein [Tweet von DLT.Green](https://x.com/dlt_green/status/1980906470163243250) und ein [Tweet mit Video](https://x.com/dlt_green/status/1980953723879706833)
+22. **IOTA Promote**: Artikel auf CoinMarketCap: [IOTA Identity 1.7 Beta](https://coinmarketcap.com/community/articles/68f0ed96eb9426673afac776/)
+23. 
