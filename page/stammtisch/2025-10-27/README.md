@@ -15,7 +15,9 @@
 13. **IOTA Video**: Das Interview von Miss Crypto ist jetzt auch auf X: [Tweet von Miss Crypto](https://x.com/MissCryptoGER/status/1980906975266292212)
 14. **IOTA Audio**: Der erste Nano Talk auf engl: [Tweet von ID.iota](https://x.com/id_iota/status/1980912976581308621)
 15. **IOTA Video**: Die [IF tweetet](https://x.com/iota/status/1980894486390616559) über ein Interview mit :[Digital Supply Chains: Food Transparencie, Blockchain...](https://www.youtube.com/watch?v=ccs_lacpZ24)
-16. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/1980759938315006429) über GLEIF und über das neue "[Next-Generation Trade Corridors](https://iccwbo.uk/next-generation-trade-corridors/)"
+16. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/1980759938315006429) über GLEIF und über das neue "[Next-Generation Trade Corridors](https://iccwbo.uk/next-generation-trade-corridors/)"; In dem Zusammenhang gab es auch einen [Tweet von IOTARbased.OG](https://x.com/IotaRebased/status/1980663157485191254) der Überschriftt: "Turing Certs as the Trust Layer for 4.78B people"
 17. **Crypto Adoption**: Russland hat Crypto als legale Cross Boarder Währung anerkannt: [Tweet](https://x.com/Vivek4real_/status/1980900589656580148)
 18. **IOTA Promote**: [IOTA Events tweetet](https://x.com/iotashop/status/1980911934045065281) über seinen Artikel: [Why IOTA’s Focus on Real-World Assets Matters — and How Salus & TWIN Make It Real](https://x.com/iotashop/status/1980911934045065281)
 19. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosTCG/status/1980690136905269428) über ihren "Official Beta Launch"
+20. **IOTA Ökosystem**: [cyberperp tweetet](https://x.com/cyberperp/status/1980676883600556041), dass sie am Wochendende launchen auf IOTA Rebased
+21. **IOTA Event**: [DLT.Green tweetet](https://x.com/dlt_green/status/1980640357844152709) von einem Event "Innovation Summit Copenhagen 2025"; Hier noch ein [Tweet von DLT.Green](https://x.com/dlt_green/status/1980906470163243250) und ein [Tweet mit Video](https://x.com/dlt_green/status/1980953723879706833)
