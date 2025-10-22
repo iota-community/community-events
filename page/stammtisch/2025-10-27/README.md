@@ -12,3 +12,10 @@
 10. **IOTA Video**: [Kutkraft tweetet](https://x.com/kutkraft/status/1980495500249035136) über sein neuestes Video: [IOTA 2025 Q3 Update](https://youtu.be/cQrmyw01Las)
 11. **IOTA Promote**: Artikel von BitGo: [IOTA Moves Into Real-World Assets: 100,000 EV Chargers Across India Next?](https://www.bitget.com/news/detail/12560605020752)
 12. **IOTA Wallet**: Die [IF macht einen Thread](https://x.com/iota/status/1980620086026088452) über [IOTA Now Available on Turnkey - Enterprise-Grade Wallet Infrastructure for Builders](https://blog.iota.org/iota-integration-turnkey/)
+13. **IOTA Video**: Das Interview von Miss Crypto ist jetzt auch auf X: [Tweet von Miss Crypto](https://x.com/MissCryptoGER/status/1980906975266292212)
+14. **IOTA Audio**: Der erste Nano Talk auf engl: [Tweet von ID.iota](https://x.com/id_iota/status/1980912976581308621)
+15. **IOTA Video**: Die [IF tweetet](https://x.com/iota/status/1980894486390616559) über ein Interview mit :[Digital Supply Chains: Food Transparencie, Blockchain...](https://www.youtube.com/watch?v=ccs_lacpZ24)
+16. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/1980759938315006429) über GLEIF und über das neue "[Next-Generation Trade Corridors](https://iccwbo.uk/next-generation-trade-corridors/)"
+17. **Crypto Adoption**: Russland hat Crypto als legale Cross Boarder Währung anerkannt: [Tweet](https://x.com/Vivek4real_/status/1980900589656580148)
+18. **IOTA Promote**: [IOTA Events tweetet](https://x.com/iotashop/status/1980911934045065281) über seinen Artikel: [Why IOTA’s Focus on Real-World Assets Matters — and How Salus & TWIN Make It Real](https://x.com/iotashop/status/1980911934045065281)
+19. 
