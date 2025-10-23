@@ -30,3 +30,4 @@
 28. **Crypto Adoption**: [Eric Trump tweetet](https://x.com/EricTrump/status/1981006770157097251) über den Start von [America’s Bitcoin - Infrastructure Backbone](https://x.com/EricTrump/status/1981006770157097251) an der NASDAQ
 29. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/1980958738707095921) über IOTA und Chainlink und wie beide für GLEIF wichtig sein werden
 30. **IOTA Promote**: Neues Bounty Program ist live für die beste "TV-ad style video productions": [Tweet](https://x.com/3rdEclips3/status/1981265048115839433)
+31. **IOTA Ökosystem**: [cyberperp tweetet](https://x.com/cyberperp/status/1981344036699972082) darüber, dass sie live sind auf IOTA Rebased; Auch die [IF retweetet](https://x.com/iota/status/1981350773591069066) das
