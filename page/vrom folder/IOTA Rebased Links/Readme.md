@@ -55,6 +55,7 @@
 10. Reputation Station: [repstation.xyz](https://repstation.xyz/)
 11. NFT Marketplace: [tradeport.xyz](https://www.tradeport.xyz/); [Tweet von TradePort](https://x.com/tradeportxyz/status/1978522182587191333)
 12. IOTA Musik App: [nakkitok.ddns.net](https://nakkitok.ddns.net/)
+13. DEX: [Cyberglow: the infrastructure IOTA deserves - No hype. No rush. Under construction](https://medium.com/@Cyberglowdex/cyberglow-the-infrastructure-iota-deserves-no-hype-no-rush-under-construction-614436509a20)
 
 
 # IOTA Gaming
