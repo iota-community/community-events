@@ -10,7 +10,7 @@
 8. **IOTA Promote**: Die [IF retweetet](https://x.com/iota/status/1980527986525733268) den Artikel von [ID.iota](https://x.com/id_iota): [The $2.5 Trillion Trade War That Could Make IOTA Explode](https://x.com/id_iota/status/1980310569493115383); [Ante retweetet](https://x.com/0xRimac/status/1980311042732458332) das ziemlich bullish...
 9. **IOTA Exchange**: Auf Binance gibt jetzt 5% Zinsen auf IOTA bei ihrem "soft earning" program: [Tweet](https://x.com/moonbaklava/status/1980604101663596889)
 10. **IOTA Video**: [Kutkraft tweetet](https://x.com/kutkraft/status/1980495500249035136) über sein neuestes Video: [IOTA 2025 Q3 Update](https://youtu.be/cQrmyw01Las)
-11. **IOTA Promote**: Artikel von BitGo: [IOTA Moves Into Real-World Assets: 100,000 EV Chargers Across India Next?](https://www.bitget.com/news/detail/12560605020752)
+11. **IOTA Promote**: Artikel von Bitget: [IOTA Moves Into Real-World Assets: 100,000 EV Chargers Across India Next?](https://www.bitget.com/news/detail/12560605020752)
 12. **IOTA Wallet**: Die [IF macht einen Thread](https://x.com/iota/status/1980620086026088452) über [Turnkey](https://x.com/turnkeyhq) und den Blogpost: [IOTA Now Available on Turnkey - Enterprise-Grade Wallet Infrastructure for Builders](https://blog.iota.org/iota-integration-turnkey/)
 13. **IOTA Video**: Das Interview von Miss Crypto ist jetzt auch auf X: [Tweet von Miss Crypto](https://x.com/MissCryptoGER/status/1980906975266292212)
 14. **IOTA Audio**: Die Woche war der erste Nano Talk auf engl: [Tweet von ID.iota](https://x.com/id_iota/status/1980912976581308621)
