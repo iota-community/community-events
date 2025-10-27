@@ -44,3 +44,5 @@
 42. **IOTA Gaming**: [Lost Crusader](https://x.com/_LostCrusader/status/1982417729681531221) tweetet über "Arcane Dust", das man scheinbar ab dem 27.10. auf [arcanerush.lostcrusader.xyz](https://t.co/vuXyatD2UM) claimen kann
 43. **IOTA Exchange**: [Cyberglow Swap tweetet](https://x.com/Cyberglowswap/status/1981668821485404580) über ihren Blogpost: [Cyberglow: the infrastructure IOTA deserves - No hype. No rush. Under construction](https://medium.com/@Cyberglowdex/cyberglow-the-infrastructure-iota-deserves-no-hype-no-rush-under-construction-614436509a20)
 44. **IOTA Ökosystem**: Die [IF retweetet](https://x.com/iota/status/1982723155958308915) einen Tweet von Pandabite über ihren Blogpost: [Introducing the New PANDABYTE Website](https://blog.pandabyte.net/article/introducing-the-new-pandabyte-website)
+45. **IOTA Ökosystem**: [Soon Tweet von Virtue](https://x.com/Virtue_Money/status/1982804936187416580) über das neue Dashboard
+46. **IOTA Hype**: Es gab ein [Hype Tweet](https://x.com/iota/status/1982725609093820528) von der IF für diese Woche... "seems there is a leak??  Our top-secret plan for the week is out!"
