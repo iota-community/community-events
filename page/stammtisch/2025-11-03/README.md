@@ -9,4 +9,6 @@
 7. **IOTA Tech**: [Stefan tweetet](https://x.com/iota_penguin/status/1982811486117417215) über TWIN Data Sharing und behauptet am Ende: "Die Zukunft des Handels läuft auf $IOTA"
 8. **IOTA Promote**: Die [IF retweetet](https://x.com/iota/status/1983074992058446056) den Artikel von ID.iota: [The $IOTA Paradox: How Real Yield Will Create Unreal Gains](https://x.com/id_iota/status/1982869965037277288)
 9. **IOTA Audio**: INATBA Talk: [The current State of national identities: From pilot to product](https://x.com/INATBA_org/status/1982885244853444933)
-10. 
+10. **IOTA Promote**: Die [IF macht einen Thread](https://x.com/iota/status/1983126599944864123) über IOTA Tokenization
+11. **IOTA Adoption**: [GLEIF](https://www.gleif.org/en) hat jetzt ein Büro in China: [Tweet](https://x.com/GLEIF/status/1983119050302705848)
+12. **Crypto Adoption**: [Crypto.com teetet](https://x.com/cryptocom/status/1983152059248435549) über ihre Partnerschaft mit Truth Social. Sie wollen dort einen Prediction Markt starten
