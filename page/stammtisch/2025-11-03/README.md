@@ -8,5 +8,5 @@
 6. **IOTA Hype**: Ein [Tweet von Adam](https://x.com/adam_prob/status/1982962295946011114) schreibt: "An institutions is about to make a big move on #IOTA"; Passt vielleicht zu dem [Twet von Salima](https://x.com/Salimasbegum/status/1982768649799688203), die auch davon ausgeht, dass diese Woche noch was kommt
 7. **IOTA Tech**: [Stefan tweetet](https://x.com/iota_penguin/status/1982811486117417215) über TWIN Data Sharing und behauptet am Ende: "Die Zukunft des Handels läuft auf $IOTA"
 8. **IOTA Promote**: Die [IF retweetet](https://x.com/iota/status/1983074992058446056) den Artikel von ID.iota: [The $IOTA Paradox: How Real Yield Will Create Unreal Gains](https://x.com/id_iota/status/1982869965037277288)
-9. 
+9. **IOTA Audio**: INATBA Talk: [The current State of national identities: From pilot to product](https://x.com/INATBA_org/status/1982885244853444933)
 10. 
