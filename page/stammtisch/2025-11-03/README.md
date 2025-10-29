@@ -8,7 +8,7 @@
 6. **IOTA Hype**: Ein [Tweet von Adam](https://x.com/adam_prob/status/1982962295946011114) schreibt: "An institutions is about to make a big move on #IOTA"; Passt vielleicht zu dem [Twet von Salima](https://x.com/Salimasbegum/status/1982768649799688203), die auch davon ausgeht, dass diese Woche noch was kommt
 7. **IOTA Tech**: [Stefan tweetet](https://x.com/iota_penguin/status/1982811486117417215) über TWIN Data Sharing und behauptet am Ende: "Die Zukunft des Handels läuft auf $IOTA"
 8. **IOTA Promote**: Die [IF retweetet](https://x.com/iota/status/1983074992058446056) den Artikel von ID.iota: [The $IOTA Paradox: How Real Yield Will Create Unreal Gains](https://x.com/id_iota/status/1982869965037277288)
-9. **IOTA Audio**: INATBA Talk: [The current State of national identities: From pilot to product](https://x.com/INATBA_org/status/1982885244853444933)
+9. **IOTA Audio**: INATBA Talk: [The current State of national identities: From pilot to product](https://x.com/INATBA_org/status/1982885244853444933); Hier noch ein [Tweet](https://x.com/INATBA_org/status/1983509621395366248) mit Spotify Link
 10. **IOTA Promote**: Die [IF macht einen Thread](https://x.com/iota/status/1983126599944864123) über IOTA Tokenization
 11. **IOTA Adoption**: [GLEIF](https://www.gleif.org/en) hat jetzt ein Büro in China: [Tweet](https://x.com/GLEIF/status/1983119050302705848)
 12. **Crypto Adoption**: [Crypto.com teetet](https://x.com/cryptocom/status/1983152059248435549) über ihre Partnerschaft mit Truth Social. Sie wollen dort einen Prediction Markt starten
@@ -17,3 +17,6 @@
 15. **Crypto Adoption**: Western Union bringt 2026 einen Stablecoin angeblich exclusive auf Solana: [Tweet von Solana](https://x.com/solana/status/1983215174883430839)
 16. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/1983147689744204104) über das Announcement vom White House ([MEMORANDUM OF UNDERSTANDING BETWEEN THE GOVERNMENT OF THE UNITED STATES OF AMERICA AND THE GOVERNMENT OF MALAYSIA CONCERNING COOPERATION TO DIVERSIFY GLOBAL CRITICAL MINERALS SUPPLY CHAINS AND PROMOTE INVESTMENTS](https://www.whitehouse.gov/briefings-statements/2025/10/memorandum-of-understanding-between-the-government-of-the-united-states-of-america-and-the-government-of-malaysia-concerning-cooperation-to-diversify-global-critical-minerals-supply-chains-and-promote/)) und schließt daraus eine "historische Chance für IOTA + Salus Platform + TradeFlow Capital Management"
 17. **IOTA Audio**: Neuer X-Talk mit Kutkraft: [Tweet](https://x.com/kutkraft/status/1983472243142484383)
+18. **IOTA Promote**: Neuer Artikel von Moon: [They Promised Uptober. We Got Resttober.](https://x.com/moonbaklava/status/1982906052380373115)
+19. **IOTA Update**: Starfish im Testnetz: [github.com/../iota/../v1.10.0-rc](https://github.com/iotaledger/iota/releases/tag/v1.10.0-rc)
+20. 
