@@ -19,4 +19,4 @@
 17. **IOTA Audio**: Neuer X-Talk mit Kutkraft: [Tweet](https://x.com/kutkraft/status/1983472243142484383)
 18. **IOTA Promote**: Neuer Artikel von Moon: [They Promised Uptober. We Got Resttober.](https://x.com/moonbaklava/status/1982906052380373115)
 19. **IOTA Update**: Starfish im Testnetz: [github.com/../iota/../v1.10.0-rc](https://github.com/iotaledger/iota/releases/tag/v1.10.0-rc)
-20. 
+20. **Crypto Adoption**: Die [AFD tweetet](https://x.com/AfDimBundestag/status/1983164900290543806) über ihren Antrag im Bundestag zu Bitcoin
