@@ -12,3 +12,5 @@
 10. **IOTA Promote**: Die [IF macht einen Thread](https://x.com/iota/status/1983126599944864123) über IOTA Tokenization
 11. **IOTA Adoption**: [GLEIF](https://www.gleif.org/en) hat jetzt ein Büro in China: [Tweet](https://x.com/GLEIF/status/1983119050302705848)
 12. **Crypto Adoption**: [Crypto.com teetet](https://x.com/cryptocom/status/1983152059248435549) über ihre Partnerschaft mit Truth Social. Sie wollen dort einen Prediction Markt starten
+13. **IOTA Audio**: Neuer Nano Talk #9: [Tweet](https://x.com/id_iota/status/1983426402683891780)
+14. **IOTA Volumen**: Das Volumen bei IOTA ist extrem gestiegen. Vor allem beim BTC/IOTA Paar auf [Gate](https://x.com/Gate): [Tweet](https://x.com/id_iota/status/1983425138214482210)
