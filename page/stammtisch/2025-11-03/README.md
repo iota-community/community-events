@@ -10,7 +10,7 @@
 8. **IOTA Promote**: Die [IF retweetet](https://x.com/iota/status/1983074992058446056) den Artikel von ID.iota: [The $IOTA Paradox: How Real Yield Will Create Unreal Gains](https://x.com/id_iota/status/1982869965037277288)
 9. **IOTA Audio**: INATBA Talk: [The current State of national identities: From pilot to product](https://x.com/INATBA_org/status/1982885244853444933); Hier noch ein [Tweet](https://x.com/INATBA_org/status/1983509621395366248) mit Spotify Link
 10. **IOTA Promote**: Die [IF macht einen Thread](https://x.com/iota/status/1983126599944864123) über IOTA Tokenization
-11. **IOTA Adoption**: [GLEIF](https://www.gleif.org/en) hat jetzt ein Büro in China: [Tweet](https://x.com/GLEIF/status/1983119050302705848)
+11. **IOTA Adoption**: [GLEIF](https://www.gleif.org/en) hat jetzt ein Büro in China: [Tweet](https://x.com/GLEIF/status/1983119050302705848); Auch die [IF gratuliert](https://x.com/iota/status/1983799929375203524) ihnen dafür
 12. **Crypto Adoption**: [Crypto.com teetet](https://x.com/cryptocom/status/1983152059248435549) über ihre Partnerschaft mit Truth Social. Sie wollen dort einen Prediction Markt starten
 13. **IOTA Audio**: Neuer Nano Talk #9: [Tweet](https://x.com/id_iota/status/1983426402683891780)
 14. **IOTA Volumen**: Das Volumen bei IOTA ist extrem gestiegen. Vor allem beim BTC/IOTA Paar auf [Gate](https://x.com/Gate): [Tweet](https://x.com/id_iota/status/1983425138214482210)
