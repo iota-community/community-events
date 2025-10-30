@@ -20,3 +20,8 @@
 18. **IOTA Promote**: Neuer Artikel von Moon: [They Promised Uptober. We Got Resttober.](https://x.com/moonbaklava/status/1982906052380373115)
 19. **IOTA Update**: Starfish im Testnetz: [github.com/../iota/../v1.10.0-rc](https://github.com/iotaledger/iota/releases/tag/v1.10.0-rc)
 20. **Crypto Adoption**: Die [AFD tweetet](https://x.com/AfDimBundestag/status/1983164900290543806) über ihren Antrag im Bundestag zu Bitcoin
+21. **IOTA Tools**: [iotaguru tweetet](https://x.com/iota_guru/status/1983590021379846458) über ein Update auf [mainnet.iota.guru](https://mainnet.iota.guru/). Die Stimmrechte werden jetzt zusammen gerechnet, wenn eine Entität mehrere Validatoren bereibt; Auch die [IF retweetet](https://x.com/iota/status/1983812035377865107) das
+22. **Crypto Adoption**: Larry Fink spricht darüber, wie schnell alle finanziellen Assets tokenisiert werden: [Tweet](https://x.com/ApexSeek/status/1983798221840289960)
+23. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/1983824640091758656) darüber, dass der Layer Zero Token auf IOTA Rebased gestartet wurde; Und [ID.iota tweetet](https://x.com/id_iota/status/1983838696215576968), dass sie schon live sind im Testnetz
+24. **IOTA Adoption**: Die [aktiven Accounts](https://iotascan.com/mainnet/analytics/accounts/active%20accounts) auf IOTA Rebased sind stark gestiegen und auch die [Total Accounts](https://iotascan.com/mainnet/analytics/accounts/total%20accounts) zeigen einen deutlichen Anstieg; Offenbar stecken NFTs von [Ayalab_io](https://x.com/Aylab_io) dahinter: [Tweet](https://x.com/Vrom14286662/status/1983842012345647504)
+25. 
