@@ -27,3 +27,6 @@
 25. **IOTA Airdrop**: Es gab mehrere Airdrops: [Tweet](https://x.com/defiwukong/status/1983886912428388793)
 26. **IOTA Airdop**: Die [IF tweetet](https://x.com/iota/status/1983894268608442872) über den Hintergrund von den Airdrops und verlinkt das Update vom Blogpost: [IOTA Turns 10 - 10 Years, 10 Million Tokens, Our Thanks](https://blog.iota.org/iota-turns-10/); Wichtigster Satz: "We’ve distributed 750,000 IOTA tokens to LiquidLink users, and 2 million IOTA tokens to native IOTA token stakers, both based on October 24 snapshots."
 27. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1983896677271429509) über das [LuganoPlanB](https://x.com/LuganoPlanB) Event in Lugano
+28. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1984020911113302126) über ein Update von ihrem [Staking Analyse Tool](https://dlt.green/en/services/iota-staking-analytics#validator-list). Hier werden die Validatoren von dem gleichen Owner jetzt auch in Gruppen dargestellt
+29. **IOTA Promote**: Die [IF macht einen Thread](https://x.com/iota/status/1983941973980365091) über die Gewinner von dem Ki-Video Promotion Contest
+30. 
