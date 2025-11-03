@@ -43,3 +43,6 @@
 41. **IOTA Ökosystem**: [Object.id tweetet](https://x.com/ObjectID_io/status/1984319856901034308) über ein Video in dem Microcontroler eine IOTA Transaktion macht: [ObjectID event created by microcontroller](https://www.youtube.com/watch?v=CbtZFNMUCy8&feature=youtu.be); Auch die [IF retweetet](https://x.com/iota/status/1985229157781946375) das
 42. **IOTA DeFi Promote**: Die [IF retweetet](https://x.com/iota/status/1985256873692434549) den [Tweet von LiquidLink](https://x.com/Liquidlink_io/status/1985255368726061269) die darüber berichten, dass man jetzt Virtue Points verdienen kann wenn man sich bei [https://app.virtue.money/borrow](https://app.virtue.money/borrow) Geld leiht
 43. **IOTA Ökosystem**: [Cyberperp tweetet](https://x.com/cyberperp/status/1985273000061456389) darüber, dass sie auditiert wurden
+44. **IOTA Adoption**: [INATBA tweetet](https://x.com/INATBA_org/status/1985335854450024826) über den [INATBA REPORT by the FINANCE WORKING GROUP Tokenization November 2025](https://inatba.org/wp-content/uploads/2025/11/SubWG1_-Tokenization.pdf) bei dem 2 Leute aus der IF mitgewirkt haben
+45. **Crypto Adoption**: Trump spricht über Crypto: [Tweet](https://x.com/yhbryankimiq/status/1985305308718416238) Er will die USA zur Nr.1 machen in Crypto
+46. 
