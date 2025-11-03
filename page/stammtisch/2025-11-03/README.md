@@ -1,4 +1,4 @@
-## IOT AStammtischthemen für Montag, den 3.11.2025
+## IOTA Stammtischthemen für Montag, den 3.11.2025
 
 1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1982756666018861249) über die [IOTA Quicktakes](https://x.com/iota/status/1982756666018861249)
 2. **IOTA Adoption**: [DLT.GREEN leaked](https://x.com/dlt_green/status/1983067835153699245) den ersten real world Kunden von [objectID.id](https://x.com/ObjectID_io): [lizardmed.it/en/](https://www.lizardmed.it/en/) aus dem Medizin Bereich, die eine Art Ki-Wage bauen, mit der man aus Haltungsschäden 23 Gesundheitszustände ableiten kann.
