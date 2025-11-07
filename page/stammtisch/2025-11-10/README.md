@@ -36,5 +36,5 @@
 34. **Crypto Pump**: Am Freitag ist IOTA um 15% gestiegen
 35. **Crypto Hype**: Eric Trump spricht im Podcast über Bitcoin und davon, das Bitcoin $1Mio erreichen wird: [Tweet](https://x.com/WatcherGuru/status/1986895308748386582?s=20)
 36. **IOTA Soon**: Jonathan schreibt, dass er sich auf den Mainnelaunch von TWIN und SALUS freut: [Tweet](https://x.com/Vrom14286662/status/1986834007032578317?s=20); Dazu passend der [Tweet von Dom](https://x.com/DomSchiener/status/1986822941288300914?s=20) über "...We are ready for some big moves"
-37. 
+37. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1986821289919881637?s=20) über gmaing missions die zurück sind im iota Discord
 38. 
