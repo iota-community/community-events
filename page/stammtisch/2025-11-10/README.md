@@ -14,8 +14,19 @@
 12. **Crypto Adoption**: Der FED Chef J. Powell spricht über BANKS & CRYPTO: [Tweet](https://x.com/Vrom14286662/status/1985856657688019369)
 13. **IOTA Adoption**: Die Zahl an total Accounts wächst weiter bei IOTA: [Tweet](https://x.com/Vrom14286662/status/1986013669759566150)
 14. **IOTA Adoption**: Die [IF macht einen Thread](https://x.com/iota/status/1986025703750373662) über den WEF Bericht: [Advancing Digital Trade: Insights from the UAE TradeTech Regulatory Sandbox](https://www.weforum.org/publications/advancing-digital-trade-insights-from-the-uae-tradetech-regulatory-sandbox/)
-15. **IOTA Audio**: Es gab am Mittwoch einen neuen [Nano Talk #10](https://x.com/id_iota/status/1986083037562523888)
+15. **IOTA Audio**: Es gab am Mittwoch einen neuen [Nano Talk #10](https://x.com/id_iota/status/1986083037562523888); Hier die [Zusammenfassung von id.IOTA](https://x.com/id_iota/status/1986203580840206749)
 16. **IOTA Development**: IOTA ist wieder ganz vorne dabei beim "Development Activity Growth": [Tweet](https://x.com/chain_broker/status/1986101199989264641)
 17. **IOTA Ökosystem**: Neuer [Tweet von der Repstation](https://x.com/repstation_xyz/status/1986122927453184198)
-18. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1986158221489250727) über den Staking Report der jetzt von allen Stakern bei DLT.GREEN & Partner ausprobiert werden kann
-19. **Crypto Adoption**: Ripple Partnerschaft mit MasterCard: [Tweet](https://x.com/RWAwatchlist_/status/1986162313746174324)
+18. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1986158221489250727) über den Staking Report, der jetzt für allen Staker bei DLT.GREEN & ihren Partner ausprobiert werden kann
+19. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1986388093759348767) über ihren Partner: [resuld.eu](https://resuld.eu/)
+20. **Crypto Adoption**: Ripple Partnerschaft mit MasterCard: [Tweet](https://x.com/RWAwatchlist_/status/1986162313746174324)
+21. **Crypto Adoption**: Die Firma von Jack Dorsey kauft Bitcoin im Wert von $30,000,000: [Tweet](https://x.com/Vivek4real_/status/1986709127725523037)
+22. **Crypto Adoption**: Auch die Frima Robinhood will Bitcoin kaufen: [Tweet](https://x.com/pete_rizzo_/status/1986461074787291481)
+23. **Crypto Adoption**: Trump hat scheinbar ein 8min Bitcoin Erklär Video gepostet: [Tweet](https://x.com/Vivek4real_/status/1986526890165772437)
+24. **Crypto Adoption**: Der [Coinbase CEO sagt](https://x.com/Vivek4real_/status/1986585388912111872), dass das Crypto Gesetz in der finale ist
+25. **Crypto Adoption**: Die Firma von Charles Schwab will auch ins Crypto Trading einsteigen: [Tweet](https://x.com/WatcherGuru/status/1986168537308656059)
+26. **Crypto Adoption**: Trump spricht über Bitcoin: "Bitcoin superpower, the crypto capital of the world and the undisputed leader in artificial intelligence.": [Tweet](https://x.com/WatcherGuru/status/1986155837476212747)
+27. **IOTA Audio**: Jonathan war in einem Podcast: [Tweet](https://x.com/CleanwaterSui/status/1986553829668651100)
+28. **IOTA Ökosystem**: [Impierce tweetet](https://x.com/ImpierceTech/status/1986413834241032349) über ihre neue Webseite: [impierce.com](https://www.impierce.com/)
+29. **IOTA Audio**: [kowei tweetet](https://x.com/kowei1995/status/1986371463054794767) über ein Interview mit ihm
+30. 
