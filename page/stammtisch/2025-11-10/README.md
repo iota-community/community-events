@@ -29,4 +29,5 @@
 27. **IOTA Audio**: Jonathan war in einem Podcast: [Tweet](https://x.com/CleanwaterSui/status/1986553829668651100)
 28. **IOTA Ökosystem**: [Impierce tweetet](https://x.com/ImpierceTech/status/1986413834241032349) über ihre neue Webseite: [impierce.com](https://www.impierce.com/)
 29. **IOTA Audio**: [kowei tweetet](https://x.com/kowei1995/status/1986371463054794767) über ein Interview mit ihm
-30. 
+30. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1986451518472523806) über 2 Events in Asien im Dezember: "Community meetups, workshops, and more"
+31. 
