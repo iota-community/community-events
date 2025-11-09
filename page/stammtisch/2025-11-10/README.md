@@ -26,15 +26,22 @@
 24. **Crypto Adoption**: Der [Coinbase CEO sagt](https://x.com/Vivek4real_/status/1986585388912111872), dass das Crypto Gesetz in der finale ist
 25. **Crypto Adoption**: Die Firma von Charles Schwab will auch ins Crypto Trading einsteigen: [Tweet](https://x.com/WatcherGuru/status/1986168537308656059)
 26. **Crypto Adoption**: Trump spricht über Bitcoin: "Bitcoin superpower, the crypto capital of the world and the undisputed leader in artificial intelligence.": [Tweet](https://x.com/WatcherGuru/status/1986155837476212747)
-27. **Crypto Adoption**: JP Morgan hat BTC im Wert von $340K gekauft: [Tweet](https://x.com/bitcoinlfgo/status/1986822093942685846?s=20); Und auch Trumps Family's American Bitcoin hat 139 BTC gekauft: [Tweet](https://x.com/BTCjunkies/status/1986803939153441035?s=20)
-28. **IOTA Audio**: Jonathan war in einem Podcast: [Tweet](https://x.com/CleanwaterSui/status/1986553829668651100)
-29. **IOTA Ökosystem**: [Impierce tweetet](https://x.com/ImpierceTech/status/1986413834241032349) über ihre neue Webseite: [impierce.com](https://www.impierce.com/)
-30. **IOTA Audio**: [kowei tweetet](https://x.com/kowei1995/status/1986371463054794767) über ein Interview mit ihm
-31. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1986451518472523806) über 2 Events in Asien im Dezember: "Community meetups, workshops, and more"
-32. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1986795779298627672?s=20) über ein Event in Afrika
-33. **Crypto Adoption**: Thailand hat ein Gesetz verabschiedet für keine Steuern auf Cryptogewinne: [Tweet](https://x.com/bitcoinlfgo/status/1986803948846789050?s=20)
-34. **Crypto Pump**: Am Freitag ist IOTA um 15% gestiegen
-35. **Crypto Hype**: Eric Trump spricht im Podcast über Bitcoin und davon, das Bitcoin $1Mio erreichen wird: [Tweet](https://x.com/WatcherGuru/status/1986895308748386582?s=20)
-36. **IOTA Soon**: Jonathan schreibt, dass er sich auf den Mainnelaunch von TWIN und SALUS freut: [Tweet](https://x.com/Vrom14286662/status/1986834007032578317?s=20); Dazu passend der [Tweet von Dom](https://x.com/DomSchiener/status/1986822941288300914?s=20) über "...We are ready for some big moves"
-37. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1986821289919881637?s=20) über gmaing missions die zurück sind im iota Discord
-38. 
+27. **Crypto Adoption**: Trump spricht nochmal über Bitcoin und sagt: "THE TRADITIONAL FINANCIAL SYSTEM IS BROKEN AND CRYPTO WILL FIX IT": [Tweet](https://x.com/Vivek4real_/status/1987019920815857978?s=20)
+28. **Crypto Adoption**: JP Morgan hat BTC im Wert von $340K gekauft: [Tweet](https://x.com/bitcoinlfgo/status/1986822093942685846?s=20); Und auch Trumps Family's American Bitcoin hat 139 BTC gekauft: [Tweet](https://x.com/BTCjunkies/status/1986803939153441035?s=20)
+29. **Crypto Adoption**: Eric Trump spircht auch über Bitcoin und sagt es geht auf $1mio: [Tweet](https://x.com/WatcherGuru/status/1986895308748386582?s=20)
+30. **Crypto Adoption**: Jack Mallers sagt: "UAE IS BUYING BILLIONS OF #BITCOIN AND MINING BTC": [Tweet](https://x.com/Vivek4real_/status/1987083143866900598?s=20); Und Dubai geht onchain bei Government Zahlungen: [Tweet](https://x.com/MerlijnTrader/status/1987067572714446962?s=20)
+31. **IOTA Audio**: Jonathan war in einem Podcast: [Tweet](https://x.com/CleanwaterSui/status/1986553829668651100)
+32. **IOTA Ökosystem**: [Impierce tweetet](https://x.com/ImpierceTech/status/1986413834241032349) über ihre neue Webseite: [impierce.com](https://www.impierce.com/)
+33. **IOTA Audio**: [kowei tweetet](https://x.com/kowei1995/status/1986371463054794767) über ein Interview mit ihm
+34. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1986451518472523806) über 2 Events in Asien im Dezember: "Community meetups, workshops, and more"
+35. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1986795779298627672?s=20) über ein Event in Afrika
+36. **Crypto Adoption**: Thailand hat ein Gesetz verabschiedet für keine Steuern auf Cryptogewinne: [Tweet](https://x.com/bitcoinlfgo/status/1986803948846789050?s=20)
+37. **Crypto Pump**: Am Freitag ist IOTA um 15% gestiegen
+38. **Crypto Hype**: Eric Trump spricht im Podcast über Bitcoin und davon, das Bitcoin $1Mio erreichen wird: [Tweet](https://x.com/WatcherGuru/status/1986895308748386582?s=20)
+39. **IOTA Soon**: Jonathan schreibt, dass er sich auf den Mainnelaunch von TWIN und SALUS freut: [Tweet](https://x.com/Vrom14286662/status/1986834007032578317?s=20); Dazu passend der [Tweet von Dom](https://x.com/DomSchiener/status/1986822941288300914?s=20) über "...We are ready for some big moves"
+40. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1986821289919881637?s=20) über "gaming missions" die zurück sind im iota Discord
+41. **IOTA Promote**: Guter [Thread](https://x.com/karlaxelm/status/1986557794980688002?s=20) über IOTA und TWIN
+42. **IOTA Video**: [Kutkraft tweetet](https://x.com/kutkraft/status/1987408872210874872?s=20) über sein neues Video: [DIGITAL PRODUCT PASSPORTS on IOTA - product traceability made simple with blockchain.](https://www.youtube.com/watch?v=M8D0glegW9M)
+43. **Crypto Hype**: [M. Saylor postet](https://x.com/saylor/status/1987165276027105557?s=20) "Buy now"
+44. **IOTA Artikel**: [IOTAStaking tweetet](https://x.com/iotaStaking/status/1986780287590621584?s=20) über ihren Artikel: [Analyzing leaked reports of potential US-Vietnam agreements with IOTA for digital trade traceability. Bull, base, and bear scenarios examined.](https://www.iotastaking.com/blog/posts/us-vietnam-iota-trade-speculation-q4-2025/)
+45. **IOTA Adoption**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1987230885066805308?s=20) über das Video von ObjectID ([ObjectID event created by a microcotroller](https://www.youtube.com/watch?v=CbtZFNMUCy8)) und meint, das wird noch zu wenig beachtet
