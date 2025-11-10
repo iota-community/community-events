@@ -5,7 +5,7 @@
 3. **IOTA Adoption**: Die [IF retweetet](https://x.com/iota/status/1985609027263611219) den [Tweet von INATBA](https://x.com/INATBA_org/status/1985335854450024826) über ihren Report: [Tokenization - Finance Working Group Report](https://inatba.org/wp-content/uploads/2025/11/SubWG1_-Tokenization.pdf)
 4. **Crypto Adoption**: Keine Steuern auf Krypto Gewinne in Thailand: [Teet](https://x.com/bitcoinlfgo/status/1985385413729796118)
 5. **Crypto Adoption**: Michael Saylors Srategy hat wieder zugeschlagen und 397 BTC im Wert von $45.6 Millionen gekauft: [Tweet](https://x.com/coinbureau/status/1985333392590938506)
-6. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/1985405989714268523)
+6. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/1985405989714268523); Und am Montag ist IOTA Stammtisch in Frankfurt: [Tweet](https://x.com/whatmicha/status/1986067914844176553?s=20)
 7. **Crypto(/IOTA) Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/1985752669261119993) über einen Aussage vom CEO von der Standard Chartered Bank: "every transaction will eventually be settled on crypto.” und spinnt Zusammenhänge zu GLEIF, TWIN und IOTA
 8. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1985741399145255344) über ein neues Ambassador Program: [The IOTA Ambassador Program Just Leveled Up](https://blog.iota.org/ambassador-program-upgrade-campaign/)
 9. **IOTA Video**: [Tweet von Orobo](https://x.com/HelloOrobo/status/1985707925223194999) über die [Panel Discussion: “Digital Trust in Global Trade: Securing Products, Data, and Identities”](https://www.youtube.com/watch?v=4zcNS6rGxZE)
@@ -36,12 +36,16 @@
 34. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1986451518472523806) über 2 Events in Asien im Dezember: "Community meetups, workshops, and more"
 35. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1986795779298627672?s=20) über ein Event in Afrika
 36. **Crypto Adoption**: Thailand hat ein Gesetz verabschiedet für keine Steuern auf Cryptogewinne: [Tweet](https://x.com/bitcoinlfgo/status/1986803948846789050?s=20)
-37. **Crypto Pump**: Am Freitag ist IOTA um 15% gestiegen
-38. **Crypto Hype**: Eric Trump spricht im Podcast über Bitcoin und davon, das Bitcoin $1Mio erreichen wird: [Tweet](https://x.com/WatcherGuru/status/1986895308748386582?s=20)
-39. **IOTA Soon**: Jonathan schreibt, dass er sich auf den Mainnelaunch von TWIN und SALUS freut: [Tweet](https://x.com/Vrom14286662/status/1986834007032578317?s=20); Dazu passend der [Tweet von Dom](https://x.com/DomSchiener/status/1986822941288300914?s=20) über "...We are ready for some big moves"
-40. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1986821289919881637?s=20) über "gaming missions" die zurück sind im iota Discord
-41. **IOTA Promote**: Guter [Thread](https://x.com/karlaxelm/status/1986557794980688002?s=20) über IOTA und TWIN
-42. **IOTA Video**: [Kutkraft tweetet](https://x.com/kutkraft/status/1987408872210874872?s=20) über sein neues Video: [DIGITAL PRODUCT PASSPORTS on IOTA - product traceability made simple with blockchain.](https://www.youtube.com/watch?v=M8D0glegW9M)
-43. **Crypto Hype**: [M. Saylor postet](https://x.com/saylor/status/1987165276027105557?s=20) "Buy now"
-44. **IOTA Artikel**: [IOTAStaking tweetet](https://x.com/iotaStaking/status/1986780287590621584?s=20) über ihren Artikel: [Analyzing leaked reports of potential US-Vietnam agreements with IOTA for digital trade traceability. Bull, base, and bear scenarios examined.](https://www.iotastaking.com/blog/posts/us-vietnam-iota-trade-speculation-q4-2025/)
-45. **IOTA Adoption**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1987230885066805308?s=20) über das Video von ObjectID ([ObjectID event created by a microcotroller](https://www.youtube.com/watch?v=CbtZFNMUCy8)) und meint, das wird noch zu wenig beachtet
+37. **IOTA Adoption**: Turingcerts tritt dem F6 bei, dem weltweit größten Netzwerk für Gründer mit über 5 Millionen Mitgliedern: [Tweet](https://x.com/IotaRebased/status/1987302995500126308?s=20); vrom greift das Thema auf und [tweetet](https://x.com/Vrom14286662/status/1987790787694809375?s=20) über [turingcerts.com](https://turingcerts.com/) 
+38. **Crypto Pump**: Am Freitag ist IOTA um 15% gestiegen
+39. **Crypto Hype**: Eric Trump spricht im Podcast über Bitcoin und davon, das Bitcoin $1Mio erreichen wird: [Tweet](https://x.com/WatcherGuru/status/1986895308748386582?s=20)
+40. **IOTA Soon**: Jonathan schreibt, dass er sich auf den Mainnelaunch von TWIN und SALUS freut: [Tweet](https://x.com/Vrom14286662/status/1986834007032578317?s=20); Dazu passend der [Tweet von Dom](https://x.com/DomSchiener/status/1986822941288300914?s=20) über "...We are ready for some big moves"
+41. **IOTA Promote**: [iotalabs tweetet](https://x.com/iotalabs_/status/1986821289919881637?s=20) über "gaming missions" die zurück sind im iota Discord
+42. **IOTA Promote**: Guter [Thread](https://x.com/karlaxelm/status/1986557794980688002?s=20) über IOTA und TWIN
+43. **IOTA Video**: [Kutkraft tweetet](https://x.com/kutkraft/status/1987408872210874872?s=20) über sein neues Video: [DIGITAL PRODUCT PASSPORTS on IOTA - product traceability made simple with blockchain.](https://www.youtube.com/watch?v=M8D0glegW9M)
+44. **Crypto Hype**: [M. Saylor postet](https://x.com/saylor/status/1987165276027105557?s=20) "Buy now"
+45. **IOTA Artikel**: [IOTAStaking tweetet](https://x.com/iotaStaking/status/1986780287590621584?s=20) über ihren Artikel: [Analyzing leaked reports of potential US-Vietnam agreements with IOTA for digital trade traceability. Bull, base, and bear scenarios examined.](https://www.iotastaking.com/blog/posts/us-vietnam-iota-trade-speculation-q4-2025/)
+46. **IOTA Adoption**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1987230885066805308?s=20) über das Video von ObjectID ([ObjectID event created by a microcotroller](https://www.youtube.com/watch?v=CbtZFNMUCy8)) und meint, das wird noch zu wenig beachtet
+47. **Crypto Pump**: Nachdem die USA ihren Shutdown beenden wollen ([Tweet](https://x.com/bitcoin2go/status/1987786533030514778?s=20)), steigt BTC um 4% am Montag
+48. **Crypto Promote**: In Lugano erscheint ein riesiges BTC Logo (Pac-Man) am Nachthimmel das Fiat Währungen frist: [Tweet](https://x.com/Vivek4real_/status/1987406091366637834?s=20)
+49. **IOTA Adoption**: 
