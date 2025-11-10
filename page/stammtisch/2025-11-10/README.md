@@ -1,6 +1,6 @@
 ## IOTA Stammtischthemen für Montag, den 10.11.2025
 
-1. **IOTA Quicktakes**: Die [IF tweetet]() über die [IOTA Quicktakes]()
+1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1987822542787129855?s=20) über die [IOTA Quicktakes](https://x.com/iota/status/1987822542787129855?s=20)
 2. **IOTA Speculation**: [Salima tweetet](https://x.com/Salimasbegum/status/1985636924048994667) ein Gerücht: "Mehrere Quellen deuten darauf hin, dass die Vereinigten Staaten und Vietnam noch vor Ende des vierten Quartals 2025 Abkommen mit IOTA abschließen könnten"
 3. **IOTA Adoption**: Die [IF retweetet](https://x.com/iota/status/1985609027263611219) den [Tweet von INATBA](https://x.com/INATBA_org/status/1985335854450024826) über ihren Report: [Tokenization - Finance Working Group Report](https://inatba.org/wp-content/uploads/2025/11/SubWG1_-Tokenization.pdf)
 4. **Crypto Adoption**: Keine Steuern auf Krypto Gewinne in Thailand: [Teet](https://x.com/bitcoinlfgo/status/1985385413729796118)
@@ -48,4 +48,6 @@
 46. **IOTA Adoption**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1987230885066805308?s=20) über das Video von ObjectID ([ObjectID event created by a microcotroller](https://www.youtube.com/watch?v=CbtZFNMUCy8)) und meint, das wird noch zu wenig beachtet
 47. **Crypto Pump**: Nachdem die USA ihren Shutdown beenden wollen ([Tweet](https://x.com/bitcoin2go/status/1987786533030514778?s=20)), steigt BTC um 4% am Montag
 48. **Crypto Promote**: In Lugano erscheint ein riesiges BTC Logo (Pac-Man) am Nachthimmel das Fiat Währungen frist: [Tweet](https://x.com/Vivek4real_/status/1987406091366637834?s=20)
-49. **IOTA Adoption**: 
+49. **IOTA Event**: Die [IF retweetet](https://x.com/iota/status/1987908717367418918?s=20) den [Tweet von Rise In](https://x.com/riseinweb3/status/1987904886982525258?s=20) über ein "Build on IOTA Event" in Jakatar am 12.-13. Dezember
+50. **IOTA Promote**: [Iotalabs tweetet](https://x.com/iotalabs_/status/1987894056433914016?s=20) über onchain games (die angeblich gelaunched sind)...
+51. **IOTA DeFi**: Die IF hat cyberperb eine Trading Finanzspritze von VUSD 259K gegeben, womit jetzt 500K Liquidität bereit steht: [Tweet](https://x.com/cyberperp/status/1987799504418988378?s=20)
