@@ -5,3 +5,5 @@
 3. **IOTA Promote**: [IOTAevents tweetet](https://x.com/iotashop/status/1988190982089658606?s=20) einen Artikel: [The Dino Coins Are Roaring Again 🦕 And This Time, They Mean Business](https://x.com/iotashop/status/1988190982089658606?s=20)
 4. **IOTA Adoption**: [what findet](https://x.com/whatmicha/status/1988214611758219607?s=20) die erste Onchain Transaktion von SALUS
 5. **Crypto Steuern**: Crypto Steuern (Haltefrist) waren Thema im Bundestag: [Tweet](https://x.com/BitcoinDACH/status/1987982583255466365?s=20)
+6. **IOTA Wallet**: Die [IF retweetet](https://x.com/iota/status/1988535642226065898?s=20) den [Tweet von zCloakNetwork](https://x.com/zCloakNetwork/status/1988532522301714848?s=20), die das erste "Enterprise Passkey Wallet" für IOTA sind um Multisig Transaktionen innerhalb Organisationen zu tätigen
+7. 
