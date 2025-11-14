@@ -7,6 +7,15 @@
 5. **Crypto Steuern**: Crypto Steuern (Haltefrist) waren Thema im Bundestag: [Tweet](https://x.com/BitcoinDACH/status/1987982583255466365?s=20)
 6. **IOTA Wallet**: Die [IF retweetet](https://x.com/iota/status/1988535642226065898?s=20) den [Tweet von zCloakNetwork](https://x.com/zCloakNetwork/status/1988532522301714848?s=20), die das erste "Enterprise Passkey Wallet" für IOTA sind um Multisig Transaktionen innerhalb Organisationen zu tätigen
 7. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/1986071002804089112?s=20) über den [BuildSphere #33 with IOTA Playground](https://x.com/i/spaces/1djGXWZmLZOKZ?s=20)
-8. **IOTA Gaming**: Neuer [Thread von Lost Crusader](https://x.com/_LostCrusader/status/1988577607353561298?s=20). Muss soll ein Wallet ([wallet.lostcrusader.xyz](http://wallet.lostcrusader.xyz/)) erstellen und Arcane Dust claimen (hier: [arcanerush.lostcrusader.xyz](https://arcanerush.lostcrusader.xyz/))
-9. **Crypto Adoption**: Western Union will Crypto enablen: [Tweet](https://x.com/Vivek4real_/status/1988520786739568677?s=20)
-10. **IOTA promote**: [Salima tweetet](https://x.com/Salimasbegum/status/1988308540524503264?s=20) über "IOTA is leading the creation of the largest global cluster of international trade."
+8. **IOTA Promote**: [LiquidLink tweetet](https://x.com/Liquidlink_io/status/1988774914674110490?s=20) über ihr Giverep Incentive Program.
+9. **IOTA Gaming**: Neuer [Thread von Lost Crusader](https://x.com/_LostCrusader/status/1988577607353561298?s=20). Muss soll ein Wallet ([wallet.lostcrusader.xyz](http://wallet.lostcrusader.xyz/)) erstellen und Arcane Dust claimen (hier: [arcanerush.lostcrusader.xyz](https://arcanerush.lostcrusader.xyz/))
+10. **Crypto Adoption**: Western Union will Crypto enablen: [Tweet](https://x.com/Vivek4real_/status/1988520786739568677?s=20)
+11. **Crypto Drama**: Michael Saylor verkauft Bitcoin: [Tweet](https://x.com/rektfencer/status/1989288954089394380?s=20)
+12. **IOTA Tech**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1988853698571747384?s=20) über ein neues Voting zum [Mainnet Protocol Version 15 Update ]https://github.com/iotaledger/iota/releases/tag/v1.11.0-rc)
+13. **Allg. News**: Der Shutdown in der USA ist beendet: [Tweet](https://x.com/coinbureau/status/1988833274706424283?s=20)
+14. **IOTA Ökosystem**: Es wurden wohl neue digitale Identitäten von Turing Certs vergeben: [Tweet](https://x.com/id_iota/status/1988667009140429143?s=20)
+15. **IOTA Adoption**: Es gibt jetzt eine [BitGo SDK Coin Implementation for IOTA](https://github.com/BitGo/BitGoJS/tree/master/modules/sdk-coin-iota)
+16. **IOTA promote**: [Salima tweetet](https://x.com/Salimasbegum/status/1988308540524503264?s=20) über "IOTA is leading the creation of the largest global cluster of international trade."
+17. **IOTA Audio**: Am Mittwoch war der [Nanotalk #11](https://x.com/id_iota/status/1988612748461367523?s=20)
+18. **Crypto Adoption**: Nigel Farel will eine Bitcoin Reserve in der UK etablieren: [Tweet](https://x.com/WatcherGuru/status/1988628181960548835?s=20)
+19. 
