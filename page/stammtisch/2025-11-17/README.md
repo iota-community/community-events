@@ -17,5 +17,19 @@
 15. **IOTA Adoption**: Es gibt jetzt eine [BitGo SDK Coin Implementation for IOTA](https://github.com/BitGo/BitGoJS/tree/master/modules/sdk-coin-iota)
 16. **IOTA promote**: [Salima tweetet](https://x.com/Salimasbegum/status/1988308540524503264?s=20) über "IOTA is leading the creation of the largest global cluster of international trade."
 17. **IOTA Audio**: Am Mittwoch war der [Nanotalk #11](https://x.com/id_iota/status/1988612748461367523?s=20)
-18. **Crypto Adoption**: Nigel Farel will eine Bitcoin Reserve in der UK etablieren: [Tweet](https://x.com/WatcherGuru/status/1988628181960548835?s=20)
-19. 
+18. **Crypto Adoption**: Eric Trump spricht darüber, dass Bitcoin besser als Gold ist: [Tweet](https://x.com/BitcoinArchive/status/1989308603145019509?s=20)
+19. **IOTA Hackathon**: [Anglehack tweetet](https://x.com/AngelHack/status/1988909716894851383?s=20) über den IOTA Hackathon. Es gibt 100$ für die ersten 50 Teams
+20. **IOTA Hackathon**: [RiseIn tweetet](https://x.com/riseinweb3/status/1988992923354980698?s=20) über ein IOTA Hackathon in Hanoi
+21. **IOTA Drama**: Ein [schlechter Validator](https://dlt.green/en/services/iota-staking-analytics#validator-list) wurde von [DLT.GREEN reportet](https://dlt.green/en/services/iota-staking-analytics#validator-list) und eine Mehrheit der Validatoren haben dem zugestimmt: [Tweet](https://x.com/dlt_green/status/1989028559977955768?s=20); Auch [Holger Köther tweetet](https://x.com/HolgerKoether/status/1988892168920920402?s=20) darüber
+22. **IOTA Tech**: Die [IF macht einen Thread](https://x.com/iota/status/1989015403557716040?s=20) über ein [Digital Product Passport (DPP) Demo](https://dpp.demo.iota.org/introduction/1), dass jetzt open source ist: [dpp-demonstrator](https://github.com/iotaledger/dpp-demonstrator)
+23. **IOTA Adoption**: [TWIN retweetet](https://x.com/TWINGlobalOrg/status/1989285606787272761?s=20) den Tweet von Salus vor dem Weißen Haus
+24. **IOTA Promote**: Die [IF macht ein Thread](https://x.com/iota/status/1989287195388067938?s=20) über das [IOTA Trust Framework](https://blog.iota.org/iota-trust-framework/)
+25. **Crypto Adoption**: Thailand probiert ne Strategische Bitcoin Reserve aus: [Tweet](https://x.com/AshCrypto/status/1988891348947062822?s=20)
+26. **Crypto Adoption**: auch Luxemburg will wohl Bitcoin kaufen: [Tweet](https://x.com/BitcoinMagazine/status/1989010205196058869?s=20)
+27. **Crypto Adoption**: Die Tschechische Nationalbank hat Bitcoin gekauft: [Tweet](https://x.com/AshCrypto/status/1988963902710010287?s=20)
+28. **IOTA Ökosystem**: [Object.id tweetet](https://x.com/ObjectID_io/status/1989009435881058491?s=20), dass sie Passkey integriert haben
+29. **Crypto Adoption**: Die Cash App mit 587 mio monatilichen Usern will Solana Stablecoins integrieren: [Tweet](https://x.com/solana/status/1988996679421366649?s=20)
+30. 
+31. 
+32. **Crypto Adoption**: Nigel Farel will eine Bitcoin Reserve in der UK etablieren: [Tweet](https://x.com/WatcherGuru/status/1988628181960548835?s=20)
+33. 
