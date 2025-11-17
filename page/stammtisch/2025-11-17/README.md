@@ -41,3 +41,17 @@
 38. **IOTA Event**: Am 5.12. ist ein IOTA Stammtisch in München: [Event](https://www.meetup.com/iota-muc/events/312022981/?eventOrigin=group_upcoming_events)
 39. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1990298457479971067?s=20) über ein Facelift von ihrer Webseite ([dlt.green](www.dlt.green))
 40. **IOTA Promote**: [moon schreibt](https://x.com/moonbaklava/status/1989429715334025287#:~:text=IOTA%20is%20in%20the%20same%20position%20Ethereum%20was%20before%20DeFi%20exploded%20in%202021) einen Artikel: [IOTA is in the same position Ethereum was before DeFi exploded in 2021](https://x.com/moonbaklava/status/1989429715334025287#:~:text=IOTA%20is%20in%20the%20same%20position%20Ethereum%20was%20before%20DeFi%20exploded%20in%202021)
+41. **IOTA Adoption**: Die [IF macht einen Thread](https://x.com/iota/status/1990402321520451620?s=20) über ihren Blogpost: [ADAPT: Building Africa’s Digital Trade Future - IOTA Partners on a New African Initiative](https://blog.iota.org/adapt-africa-digital-trade/); Sie schreiben: "With ADAPT, Africa can:
+🔹 Double intra-African trade by 2035 (+$70B annually)
+🔹 Generate $23.6B per year in economic gains
+🔹 Cut border clearance times from 14 days → under 3 days
+🔹 Reduce cross-border payment fees from 6–9% → below 3%
+42. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1990422134603010182?s=20) über den CoinDesk Artikel: [Africa Embraces Stablecoins Via IOTA to Unlock $70B Pan-Continent Trade Tech](https://www.coindesk.com/business/2025/11/17/africa-embraces-stablecoins-via-iota-to-unlock-usd70b-pan-continent-trade-tech)
+43. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1990425366284918852?s=20) über "Dom Schiener live Interview auf CNBC Africa"
+44. **IOTA Adoption**: Das [Tony Blair Institute tweetet](https://x.com/InstituteGC/status/1990425131223589105?s=20) über "AfCFTA launched ADAPT - a landmark initiative to build the world’s most advanced digital public infrastructure for trade with the potential to:
+🌍 Double intra-African trade by 2035
+🤝 Unlock more than $70 billion in additional trade value
+📈 Generate $23.6 billion in annual economic gains
+🛃 Reduce border clearance times by more than 50%
+
+
