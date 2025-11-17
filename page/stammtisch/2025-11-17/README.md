@@ -50,5 +50,10 @@
 43. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1990425366284918852?s=20) über "Dom Schiener live Interview auf CNBC Africa; Hier die Aufzeichnung: [Tweet](https://x.com/iota/status/1990452902456869230?s=20)
 44. **IOTA Adoption**: Das [Tony Blair Institute tweetet](https://x.com/InstituteGC/status/1990425131223589105?s=20) über "AfCFTA launched ADAPT - a landmark initiative to build the world’s most advanced digital public infrastructure for trade with the potential to: 🌍 Double intra-African trade by 2035 🤝 Unlock more than $70 billion in additional trade value 📈 Generate $23.6 billion in annual economic gains 🛃 Reduce border clearance times by more than 50%
 45. **IOTA Adoption**: Auch die [IF tweetet](https://x.com/iota/status/1990431032823206037?s=20) Bilder von dem ADAPT Event und spricht von den Partnern World Economic Forum, Toni Blair Institut. Zusammen legen sie den "Grundstein für ein einheitliches digitales Handelsökosystem in ganz Afrika; eines, das Reibungsverluste reduziert, Finanzmittel freisetzt und Unternehmen und Regierungen stärkt."; Interessant auch der [Tweet von Stefan.iota](https://x.com/iota_penguin/status/1990407380136333678?s=20) der schreibt: "54 countries, 1.5B people, one infrastructure. This is web3 adoption at continent scale. Wild to sleep on $IOTA."
+46. **IOTA Audio**: Am 18. ist ein AMA mit Dom: [Tweet](https://x.com/iota/status/1990464957280924091?s=20)
+47. **IOTA Speculation**: [Salima tweetet](https://x.com/Salimasbegum/status/1990463508182438335?s=20) bereits über weitere Partner: "
+1️⃣ China, through its official strategic policy line published via Xinhua
+2️⃣ The European Union, with €150B of Global Gateway alignment
+3️⃣ The G20 + WTO, formally recognizing AfCFTA at the top tier of global trade"
 
 
