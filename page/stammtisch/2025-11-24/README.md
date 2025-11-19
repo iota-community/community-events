@@ -4,5 +4,18 @@
 2. **Crypto Adoption**: El Salvador hat richtig zugeschlagen und $100M in $BTC gekauft: [bitcoin.gob.sv](https://bitcoin.gob.sv/)
 3. **IOTA AMA**: Am Dienstag war ein [AMA mit Dom Schiener](https://x.com/iota/status/1990464957280924091?s=20)
 4. **IOTA Promote**: [Orobo tweetet](https://x.com/HelloOrobo/status/1990632819249623531?s=20) über ihre Präsenz beim Green Finance Forum of 60 (GF60) wo sie die Möglichkeit hatten Orobo’s vision for Digital Product Passports zu erklären; Die [IF gratuliert](https://x.com/iota/status/1990672797895368758?s=20) ihnen
-5. **Allg. News**: Doms AMA musste verschoben werden wegen Cloudflare outage... X war auch down. Hier merh Details dazu: [https://www.cloudflarestatus.com/](https://www.cloudflarestatus.com/)
-6. 
+5. **Allg. News**: Doms AMA musste verschoben werden wegen Cloudflare outage... X war auch down. Hier merh Details dazu: [https://www.cloudflarestatus.com/](https://www.cloudflarestatus.com/); Das IOTA Mainnet lief aber ohne Probleme weiter: [Tweet](https://x.com/dlt_green/status/1990833264336998586?s=20)
+6. **IOTA Audio**: Am Mittwoch war ein [NanoTalk #12](https://x.com/id_iota/status/1990859446046568924?s=20)
+7. **IOTA Adoption**: [ID.iota tweetet](https://x.com/ObjectID_io/status/1990827846651060243?s=20) über ihren ersten real world Kunden
+8. **IOTA Promote**: [Cointelegraph (2,8mio follower) tweetet](https://x.com/Cointelegraph/status/1990699037167661119?s=20) einen Screenshot von [Dom seiner Aussage](https://x.com/DomSchiener/status/1990462526358733065?s=20)
+9. **IOTA Promote**: [Karen O-Brian tweetet](https://x.com/bondjanebond/status/1990438852360872163?s=20) über ADAPT und nennt die wichtigsten Details
+10. **IOTA Audio**: Neuer X-Space mit Kutkraft: [Tweet](https://x.com/kutkraft/status/1990577908092735978?s=20)
+11. **IOTA Speculation**: [moon tweetet](https://x.com/moonbaklava/status/1990885233823215952?s=20) darüber, dass auch Google bei  AfCFTA dabei ist und das “AfCFTA Digital Inclusion & Entrepreneurship Programme” (ADIEP) startet um 7500 Entwickler für "Cross-border digital trade" auszubilden; Hier noch ein [Tweet von IODA](https://x.com/IOTA_____/status/1991113036841517430?s=20) mit Spekulationen dazu
+12. **IOTA Promote**: [Salima tweetet](https://x.com/Salimasbegum/status/1990929195321483334?s=20) über ADAPT
+13. **IOTA Promote**: [AfCFTA tweetet](https://x.com/AfCFTA/status/1990822158994403718?s=20) über "AfCFTA Digital Access and Public Infrastructure for Trade (ADAPT) Initiative on the sidelines of the ongoing #B20Summit in Johannesburg..."
+14. **IOTA Meetup**: Die [IF tweetet](https://x.com/iota/status/1991053835150741794?s=20) über ein Meetup in Nairobi: [Web3 Ecosystem MeetUp](https://luma.com/svh55b9r)
+15. **IOTA Adoption**. [AfCFTA tweetet](https://x.com/AfCFTA/status/1991056183948411348?s=20) über ein "U.S. Chamber’s G20 side event" und spricht über "U.S.–Africa commercial partnerships..."
+16. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1991068944237543821?s=20) über die Aussagen von dem "AfCFTA Secretary General"; Auch [Dom retweetet](https://x.com/DomSchiener/status/1991110343741895161?s=20) das
+17. **IOTA Adoption**: Auf LinkedIn [postet Arnoud...](https://www.linkedin.com/posts/arnoud-d-yve-de-bavay-9515239a_crypto-use-case-africa-turns-to-stablecoins-activity-7396424813872963584-YSKi/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOWfrEBfNn8v-Ltb_trYXWPIGnPIYYITfY) der Lead vom Tether Africa Expansion Team, über IOTA und ADAPT und erklärt, dass USDt als zugrundeliegende Währung verwendet werden soll
+18. **IOTA Promote**: Super [Artikel von moon](https://x.com/whatmicha/status/1991139267616129126?s=20): [Crypto Adoption at Continental Scale](https://x.com/whatmicha/status/1991139267616129126?s=20)
+19. **IOTA Promote**: Super [Artikel von iotashops](https://x.com/iotashop/status/1990743861560213669): [ADAPT Explained: No Technical Jargon - Only Facts](https://x.com/iotashop/status/1990743861560213669)
