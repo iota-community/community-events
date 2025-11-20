@@ -29,3 +29,8 @@
 27. **IOTA Promote**: [Binance tweetet](https://x.com/binance/status/1991235026214899813?s=20) über 5 Coins die man Soft Staken kann. Einer davon ist IOTA
 28. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1991431324813427181?s=20) ein Video von dem Event in Afrika; [Dom retweetet](https://x.com/DomSchiener/status/1991438422687285329?s=20) das und auch [TWIN retweetet](https://x.com/TWINGlobalOrg/status/1991455278269886558?s=20) das
 29. **IOTA Adoption**: [Jumbo tweetet](https://x.com/jumboblock_de/status/1991477557901058301?s=20) über ihren Artikel: [Where Physical Resilience Meets Digital Integrity](https://jumboblock.app/blog/f/where-physical-resilience-meets-digital-integrity)
+30. **IOTA Audio**: Jonathan wurde eingeladen zu einem [X-Space: INTRODUCTION TO @iota](https://x.com/FavouritonX/status/1991219773904933209?s=20)
+31. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1991461521457573949?s=20) über den Artikel von Africa Briefing:  [AfCFTA unveils Africa’s digital trade backbone](https://africabriefing.com/afcfta-unveils-africas-digital-trade-backbone/)
+32. **IOTA Event**: Die [IF retweetet](https://x.com/iota/status/1991508881307025611?s=20) den [Tweet von Gabriela](https://x.com/Gabriela_Jca/status/1991505644848050222?s=20) über ein IOTA Event in Devcon in Buenos Aires
+33. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1991506819009634446?s=20) eine Video Animation zu ADAPT
+34. **IOTA Adoption**: Die [If macht einen Thread](https://x.com/iota/status/1991506819588493809?s=20) über den Blogpost der IF (Regulatory Affaires): [Asia Redefines Digital Asset Regulation - IOTA’s Policy Insights]
