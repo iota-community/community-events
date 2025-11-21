@@ -34,3 +34,7 @@
 32. **IOTA Event**: Die [IF retweetet](https://x.com/iota/status/1991508881307025611?s=20) den [Tweet von Gabriela](https://x.com/Gabriela_Jca/status/1991505644848050222?s=20) über ein IOTA Event in Devcon in Buenos Aires
 33. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1991506819009634446?s=20) eine Video Animation zu ADAPT
 34. **IOTA Adoption**: Die [If macht einen Thread](https://x.com/iota/status/1991506819588493809?s=20) über den Blogpost der IF (Regulatory Affaires): [Asia Redefines Digital Asset Regulation - IOTA’s Policy Insights]
+35. **IOTA Promote**: [Eike Tweet](https://x.com/eke_gg/status/1991879952753467901?s=20) über ADAPT und hier noch ein guter [Tweet von Eike](https://x.com/eke_gg/status/1991416696553234856?s=20)
+36. **Crypto Crash**: Am Freitag ist Bitcoin um 10% gefallen.
+37. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1991823910136959001?s=20): "$23.8bn/year unlocked. This is what happens when ADAPT is put in place with IOTA's help. African trade moving faster than the rest of the world.
+38. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1991873242433229054?s=20) über den Artikel in Ghana News: [Africa Launches Revolutionary Digital Trade Infrastructure to Unlock US$70 Billion](https://www.newsghana.com.gh/africa-launches-revolutionary-digital-trade-infrastructure-to-unlock-us70-billion/)
