@@ -38,3 +38,4 @@
 36. **Crypto Crash**: Am Freitag ist Bitcoin um 10% gefallen.
 37. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1991823910136959001?s=20): "$23.8bn/year unlocked. This is what happens when ADAPT is put in place with IOTA's help. African trade moving faster than the rest of the world.
 38. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1991873242433229054?s=20) über den Artikel in Ghana News: [Africa Launches Revolutionary Digital Trade Infrastructure to Unlock US$70 Billion](https://www.newsghana.com.gh/africa-launches-revolutionary-digital-trade-infrastructure-to-unlock-us70-billion/)
+39. **IOTA Event**: Erste Bilder vom Event in Nairobi: [Tweet](https://x.com/gino_osahon/status/1991862303747440789?s=20)
