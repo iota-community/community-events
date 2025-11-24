@@ -12,21 +12,20 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff">
 
-        <link rel="icon" href="../../favicon.svg">
-        <link rel="shortcut icon" href="../../favicon.png">
-        <link rel="stylesheet" href="../../css/variables.css">
-        <link rel="stylesheet" href="../../css/general.css">
-        <link rel="stylesheet" href="../../css/chrome.css">
-        <link rel="stylesheet" href="../../css/print.css" media="print">
+        <link rel="icon" href="../../favicon-de23e50b.svg">
+        <link rel="shortcut icon" href="../../favicon-8114d1fc.png">
+        <link rel="stylesheet" href="../../css/variables-8adf115d.css">
+        <link rel="stylesheet" href="../../css/general-2459343d.css">
+        <link rel="stylesheet" href="../../css/chrome-ae938929.css">
+        <link rel="stylesheet" href="../../css/print-9e4910d8.css" media="print">
 
         <!-- Fonts -->
-        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
-        <link rel="stylesheet" href="../../fonts/fonts.css">
+        <link rel="stylesheet" href="../../fonts/fonts-9644e21d.css">
 
         <!-- Highlight.js Stylesheets -->
-        <link rel="stylesheet" id="highlight-css" href="../../highlight.css">
-        <link rel="stylesheet" id="tomorrow-night-css" href="../../tomorrow-night.css">
-        <link rel="stylesheet" id="ayu-highlight-css" href="../../ayu-highlight.css">
+        <link rel="stylesheet" id="mdbook-highlight-css" href="../../highlight-493f70e1.css">
+        <link rel="stylesheet" id="mdbook-tomorrow-night-css" href="../../tomorrow-night-4c0ae647.css">
+        <link rel="stylesheet" id="mdbook-ayu-highlight-css" href="../../ayu-highlight-3fdfc3ac.css">
 
         <!-- Custom theme stylesheets -->
 
@@ -36,10 +35,10 @@
             const path_to_root = "../../";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "../../searchindex.js";
+            window.path_to_searchindex_js = "../../searchindex-980ae8fb.js";
         </script>
         <!-- Start loading toc.js asap -->
-        <script src="../../toc.js"></script>
+        <script src="../../toc-6898ca62.js"></script>
     </head>
     <body>
     <div id="mdbook-help-container">
@@ -53,7 +52,7 @@
             </div>
         </div>
     </div>
-    <div id="body-container">
+    <div id="mdbook-body-container">
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
         <script>
             try {
@@ -82,12 +81,12 @@
             html.classList.add("js");
         </script>
 
-        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+        <input type="checkbox" id="mdbook-sidebar-toggle-anchor" class="hidden">
 
         <!-- Hide / unhide sidebar before it is displayed -->
         <script>
             let sidebar = null;
-            const sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            const sidebar_toggle = document.getElementById("mdbook-sidebar-toggle-anchor");
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
@@ -102,39 +101,39 @@
             }
         </script>
 
-        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+        <nav id="mdbook-sidebar" class="sidebar" aria-label="Table of contents">
             <!-- populated by js -->
             <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
             <noscript>
                 <iframe class="sidebar-iframe-outer" src="../../toc.html"></iframe>
             </noscript>
-            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+            <div id="mdbook-sidebar-resize-handle" class="sidebar-resize-handle">
                 <div class="sidebar-resize-indicator"></div>
             </div>
         </nav>
 
-        <div id="page-wrapper" class="page-wrapper">
+        <div id="mdbook-page-wrapper" class="page-wrapper">
 
             <div class="page">
-                <div id="menu-bar-hover-placeholder"></div>
-                <div id="menu-bar" class="menu-bar sticky">
+                <div id="mdbook-menu-bar-hover-placeholder"></div>
+                <div id="mdbook-menu-bar" class="menu-bar sticky">
                     <div class="left-buttons">
-                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
-                            <i class="fa fa-bars"></i>
+                        <label id="mdbook-sidebar-toggle" class="icon-button" for="mdbook-sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="mdbook-sidebar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"/></svg></span>
                         </label>
-                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
-                            <i class="fa fa-paint-brush"></i>
+                        <button id="mdbook-theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="mdbook-theme-list">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M371.3 367.1c27.3-3.9 51.9-19.4 67.2-42.9L600.2 74.1c12.6-19.5 9.4-45.3-7.6-61.2S549.7-4.4 531.1 9.6L294.4 187.2c-24 18-38.2 46.1-38.4 76.1L371.3 367.1zm-19.6 25.4l-116-104.4C175.9 290.3 128 339.6 128 400c0 3.9 .2 7.8 .6 11.6c1.8 17.5-10.2 36.4-27.8 36.4H96c-17.7 0-32 14.3-32 32s14.3 32 32 32H240c61.9 0 112-50.1 112-112c0-2.5-.1-5-.2-7.5z"/></svg></span>
                         </button>
-                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="default_theme">Auto</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        <ul id="mdbook-theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-ayu">Ayu</button></li>
                         </ul>
-                        <button id="search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="searchbar">
-                            <i class="fa fa-search"></i>
+                        <button id="mdbook-search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="mdbook-searchbar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352c79.5 0 144-64.5 144-144s-64.5-144-144-144S64 128.5 64 208s64.5 144 144 144z"/></svg></span>
                         </button>
                     </div>
 
@@ -142,55 +141,55 @@
 
                     <div class="right-buttons">
                         <a href="../../print.html" title="Print this book" aria-label="Print this book">
-                            <i id="print-button" class="fa fa-print"></i>
+                            <span class=fa-svg id="print-button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M128 0C92.7 0 64 28.7 64 64v96h64V64H354.7L384 93.3V160h64V93.3c0-17-6.7-33.3-18.7-45.3L400 18.7C388 6.7 371.7 0 354.7 0H128zM384 352v32 64H128V384 368 352H384zm64 32h32c17.7 0 32-14.3 32-32V256c0-35.3-28.7-64-64-64H64c-35.3 0-64 28.7-64 64v96c0 17.7 14.3 32 32 32H64v64c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V384zm-16-88c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24z"/></svg></span>
                         </a>
 
                     </div>
                 </div>
 
-                <div id="search-wrapper" class="hidden">
-                    <form id="searchbar-outer" class="searchbar-outer">
+                <div id="mdbook-search-wrapper" class="hidden">
+                    <form id="mdbook-searchbar-outer" class="searchbar-outer">
                         <div class="search-wrapper">
-                            <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                            <input type="search" id="mdbook-searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="mdbook-searchresults-outer" aria-describedby="searchresults-header">
                             <div class="spinner-wrapper">
-                                <i class="fa fa-spinner fa-spin"></i>
+                                <span class=fa-svg id="fa-spin"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M304 48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zm0 416c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM48 304c26.5 0 48-21.5 48-48s-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48zm464-48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM142.9 437c18.7-18.7 18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zm0-294.2c18.7-18.7 18.7-49.1 0-67.9S93.7 56.2 75 75s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zM369.1 437c18.7 18.7 49.1 18.7 67.9 0s18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9z"/></svg></span>
                             </div>
                         </div>
                     </form>
-                    <div id="searchresults-outer" class="searchresults-outer hidden">
-                        <div id="searchresults-header" class="searchresults-header"></div>
-                        <ul id="searchresults">
+                    <div id="mdbook-searchresults-outer" class="searchresults-outer hidden">
+                        <div id="mdbook-searchresults-header" class="searchresults-header"></div>
+                        <ul id="mdbook-searchresults">
                         </ul>
                     </div>
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
                 <script>
-                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
-                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
-                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                    document.getElementById('mdbook-sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('mdbook-sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#mdbook-sidebar a')).forEach(function(link) {
                         link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
                     });
                 </script>
 
-                <div id="content" class="content">
+                <div id="mdbook-content" class="content">
                     <main>
                         <h2 id="stammtischthemen-für-montag-den-2442023"><a class="header" href="#stammtischthemen-für-montag-den-2442023">Stammtischthemen für Montag, den 24.4.2023</a></h2>
 <ol>
 <li><strong>IOTA Quicktakes</strong>: Die <a href="https://twitter.com/iota/status/1647887755291009027?s=20">IF tweetet</a> über die <a href="https://www.youtube.com/watch?v=wgfZMybWiqc&amp;list=PLMbc46iGTB_QyqqU-QwbFsrVd9-HN55i_&amp;index=1">IOTA Quicktakes 17.04.2023: CEX vs #dex, Weekly Community #governance Meetings &amp; #shimmer #wiki</a></li>
 <li><strong>IOTA Dev</strong>: IOTA mal wieder auf Platz 5 bei Proof of Github: <a href="https://twitter.com/ProofofGitHub/status/1648234930051137537?s=20">Tweet</a> bzw. <a href="https://twitter.com/ProofofGitHub/status/1649684496344576001?s=20">Platz 7</a> und <a href="https://twitter.com/ProofofGitHub/status/1649322101273239552?s=20">Platz 9</a></li>
-<li><strong>IOTA Video</strong>: <a href="https://twitter.com/NaitsabesMue">Sebastian Müller</a> hat eine Präsentation gehalten über "Beyond Chains: the potential and challenges of DAG-based Distributed Ledgers" in der Uni im UZH Blockchaincenter: <a href="https://twitter.com/uzh_blockchain/status/1647904420162682889?s=20">Tweet</a>; Im <a href="https://twitter.com/Vrom14286662/status/1648952882501230592?s=20">Tweet von vrom</a> findet ihr einen <a href="https://drive.google.com/file/d/1rjE-qoyncIoFVhP5u-ekesOrdNDqU9C9/view">Link zur Präsentation</a>; Und hier noch die <a href="https://uzh.mediaspace.cast.switch.ch/media/Beyond+ChainsA+the+potential+and+challenges+of+DAG-based+Distributed+Ledgers/0_fg0xhz4a">Aufzeichnung von dem Vortrag</a></li>
+<li><strong>IOTA Video</strong>: <a href="https://twitter.com/NaitsabesMue">Sebastian Müller</a> hat eine Präsentation gehalten über “Beyond Chains: the potential and challenges of DAG-based Distributed Ledgers” in der Uni im UZH Blockchaincenter: <a href="https://twitter.com/uzh_blockchain/status/1647904420162682889?s=20">Tweet</a>; Im <a href="https://twitter.com/Vrom14286662/status/1648952882501230592?s=20">Tweet von vrom</a> findet ihr einen <a href="https://drive.google.com/file/d/1rjE-qoyncIoFVhP5u-ekesOrdNDqU9C9/view">Link zur Präsentation</a>; Und hier noch die <a href="https://uzh.mediaspace.cast.switch.ch/media/Beyond+ChainsA+the+potential+and+challenges+of+DAG-based+Distributed+Ledgers/0_fg0xhz4a">Aufzeichnung von dem Vortrag</a></li>
 <li><strong>IOTA Ökosystem</strong>: <a href="https://twitter.com/bivreost/status/1648053662504087552?s=20">Bivreost tweetet</a> über ihren Blogpost: <a href="https://bivreostwallet.medium.com/%D0%B1%D0%B8%D0%B2%D1%80%D0%B5%D0%BE%D1%81%D1%82-1-%D0%B3%D0%BE%D0%B4-1a6d8d268515">Bivreost 1 year!</a></li>
 <li><strong>IOTA Artikel</strong>: von Cointelegraph: <a href="https://de.cointelegraph.com/learn/iota-und-andere-kryptow%C3%A4hrungen">IOTA und andere Kryptowährungen</a></li>
 <li><strong>IOTA Audio</strong>: Am Freitag wird es ein AMA von der <a href="https://twitter.com/TangleTreasury">Tangle Treasury</a> geben: <a href="https://twitter.com/TangleTreasury/status/1648038757394706443?s=20">Tweet</a></li>
 <li><strong>Shimmer Promote</strong>: <a href="https://twitter.com/shimmernet/status/1648219871279210497?s=20">Shimmer tweetet</a> über die Shimmer Tokenomics</li>
-<li><strong>Crypto Drama</strong>: Gary Gensler wird verhört vor dem "House Financial Services Committee": <a href="https://www.youtube.com/watch?v=DmipafFCli0">Hearing Entitled: Oversight of the Securities and Exchange Commission</a>; Kurzvideos: <a href="https://twitter.com/CryptoNewsFlas3/status/1648558408344150018?s=20">Tweet 1</a>; <a href="https://twitter.com/1CrypticPoet/status/1648360519588347905?s=20">Tweet 2</a>; <a href="https://twitter.com/WatcherGuru/status/1648387358696284167?s=20">Tweet 3</a>; <a href="https://twitter.com/digitalassetbuy/status/1648348362658418688?s=20">Tweet 4</a>; Roman Reher seinen <a href="https://twitter.com/RomanReher/status/1648353672416354305?s=20">Tweet</a> könnten wir auch mal besprechen... Das Thema wurde auch schön zusammen gefasst im Artikel von BitcoinBlog: <a href="https://bitcoinblog.de/2023/04/24/us-kongress-grillt-sec-boss-gensler/">US-Kongress grillt SEC-Boss Gensler</a></li>
+<li><strong>Crypto Drama</strong>: Gary Gensler wird verhört vor dem “House Financial Services Committee”: <a href="https://www.youtube.com/watch?v=DmipafFCli0">Hearing Entitled: Oversight of the Securities and Exchange Commission</a>; Kurzvideos: <a href="https://twitter.com/CryptoNewsFlas3/status/1648558408344150018?s=20">Tweet 1</a>; <a href="https://twitter.com/1CrypticPoet/status/1648360519588347905?s=20">Tweet 2</a>; <a href="https://twitter.com/WatcherGuru/status/1648387358696284167?s=20">Tweet 3</a>; <a href="https://twitter.com/digitalassetbuy/status/1648348362658418688?s=20">Tweet 4</a>; Roman Reher seinen <a href="https://twitter.com/RomanReher/status/1648353672416354305?s=20">Tweet</a> könnten wir auch mal besprechen… Das Thema wurde auch schön zusammen gefasst im Artikel von BitcoinBlog: <a href="https://bitcoinblog.de/2023/04/24/us-kongress-grillt-sec-boss-gensler/">US-Kongress grillt SEC-Boss Gensler</a></li>
 <li><strong>Crypto Drama</strong>: Artikel von Crypto News Flash: <a href="https://www.crypto-news-flash.com/de/sec-verklagt-ethereum-boerse-bittrex-wegen-des-betriebs-nicht-registrierter-wertpapiere-kongress-will-gary-gensler-feuern-bericht/?feed_id=14813&amp;_unique_id=643e5f2935d46">SEC verklagt Ethereum-Börse Bittrex wegen des Betriebs nicht registrierter Wertpapiere, Kongress will Gary Gensler feuern – Bericht</a></li>
 <li><strong>IOTA Artikel</strong>: von Crypto News Flash: <a href="https://www.crypto-news-flash.com/iota-emerges-as-the-key-technology-for-building-smart-cities-of-the-future-with-tangle-ensuring-data-integrity-and-immutability/">IOTA Emerges as the Key Technology for Building Smart Cities of the Future, With Tangle Ensuring Data Integrity and Immutability</a></li>
 <li><strong>Crypto News</strong>: Artikel von CoinDesk: <a href="https://www.coindesk.com/tech/2023/04/18/intel-discontinues-bitcoin-mining-chip-series/">Intel Discontinues Bitcoin Mining Chip Series</a></li>
 <li><strong>IOTA Youtube Tutorial</strong>: von Blockbytes: <a href="https://www.youtube.com/watch?v=uPI8VzPeCT0">Shimmer Testnet is LIVE! Everything You Need To Know!</a></li>
 <li><strong>Shimmer Adaption</strong>: <a href="https://twitter.com/shimmernet/status/1648310420396965889?s=20">Shimmer tweetet</a> über den Blogpost: <a href="https://blog.shimmer.network/pyth-launches-on-shimmerevm-testnet/">Pyth Launches Price Oracles on ShimmerEVM Testnet</a>; Hier der <a href="https://twitter.com/PythNetwork/status/1648311792597344262?s=20">Tweet von Pythnetwork</a> dazu und auch <a href="https://twitter.com/DomSchiener/status/1648314021236424705?s=20">Dom hat das kommentiert</a></li>
-<li><strong>Shimmer Hype</strong>: <a href="https://twitter.com/DomSchiener/status/1648402860764266498?s=20">Dom Schiener tweetet</a> ein Bild vom Meer mit den Worten "The future is shimmering" und später in der Woche <a href="https://twitter.com/DomSchiener/status/1649062875699326977?s=20">tweetet er</a> nochmal ein Bild vom Meer aus Abu Dhabi</li>
+<li><strong>Shimmer Hype</strong>: <a href="https://twitter.com/DomSchiener/status/1648402860764266498?s=20">Dom Schiener tweetet</a> ein Bild vom Meer mit den Worten “The future is shimmering” und später in der Woche <a href="https://twitter.com/DomSchiener/status/1649062875699326977?s=20">tweetet er</a> nochmal ein Bild vom Meer aus Abu Dhabi</li>
 <li><strong>Shimmer Promote</strong>: <a href="https://twitter.com/GarrettBullish/status/1648557382635597825?s=20">Garrett tweetet</a> darüber, dass er nach der web3 Konferenz in Hongkong auch noch nach Texas zur Consensus Konferenz von Coindesk (26.-28.04.) fährt</li>
 <li><strong>IOTA Ökosystem</strong>: <a href="https://twitter.com/origin_iota/status/1528717699928440833?s=20">IotaOrigin tweetet</a> darüber, dass sie mit <a href="https://fecomico.org/">fecomico.org</a> eine Partnerschaft eingegangen sind</li>
 <li><strong>Crypto Adaption</strong>: Artikel BTC Echo: <a href="https://www.btc-echo.de/schlagzeilen/neue-nft-kollektion-von-donald-trump-nach-wenigen-stunden-ausverkauft-162933/">Neue NFT-Kollektion von Donald Trump nach wenigen Stunden ausverkauft</a></li>
@@ -210,7 +209,7 @@
 <li><strong>IOTA 2.0 MVP</strong>: GitHub Status Update von <a href="https://twitter.com/id_iota">ID.iota</a>: Zusammenfassung der GitHub Aktivitäten <a href="https://twitter.com/id_iota/status/1648944605336043522?s=20">am Dienstag</a> (<a href="https://www.iota-talk.com/forum/index.php?thread/14-iota-talk/&amp;postID=117006#post117006">hier auf deutsch</a>) und <a href="https://twitter.com/id_iota/status/1650187252574683139?s=20">am Sonntag</a></li>
 <li><strong>IOTA Adaption</strong>: Die <a href="https://twitter.com/Vrom14286662/status/1648542075208572929?s=20">Umfrage von vrom</a> zeigt, dass 78% seiner Follower in Europa wohnen.</li>
 <li><strong>Allg. News</strong>: Am Mittwoch war der 2. Versuch von SpaceX die Super Heavy Rocket zu starten: <a href="https://www.youtube.com/live/-1wcilQ58hI?feature=share&amp;t=2664">Starship Flight Test</a></li>
-<li><strong>Crypto Drama</strong>: Coinbase will USA in Richtung Bermudas verlassen... Artikel: <a href="https://coinpedia.org/news/coinbase-expands-offshore-with-bermuda-license-as-us-regulators-remain-hostile-towards-crypto-industry/">Coinbase Expands Offshore With Bermuda License as US Regulators Remain Hostile Towards Crypto Industry</a>; <a href="https://www.btc-echo.de/schlagzeilen/coinbase-will-offshore-boerse-in-bermuda-eroeffnen-163028/">Coinbase will Offshore-Börse in Bermuda eröffnen</a></li>
+<li><strong>Crypto Drama</strong>: Coinbase will USA in Richtung Bermudas verlassen… Artikel: <a href="https://coinpedia.org/news/coinbase-expands-offshore-with-bermuda-license-as-us-regulators-remain-hostile-towards-crypto-industry/">Coinbase Expands Offshore With Bermuda License as US Regulators Remain Hostile Towards Crypto Industry</a>; <a href="https://www.btc-echo.de/schlagzeilen/coinbase-will-offshore-boerse-in-bermuda-eroeffnen-163028/">Coinbase will Offshore-Börse in Bermuda eröffnen</a></li>
 <li><strong>Shimmer Youtube</strong>: Neues Video Tutoral von <a href="https://twitter.com/iotabee">iotabee</a>: <a href="https://www.youtube.com/watch?v=wZIB54F-ioE&amp;t=6s">iotabee Bridge Explained (bridge assets from ETH &amp; other EVM chains to IOTA/Shimmer ecosystem</a></li>
 <li><strong>IOTA Youtube</strong>: Neues Video mit IOTA News von Probably Nothing: <a href="https://youtu.be/ZBEnkaGR6Sw">Schneller als Bitcoin und günstiger als Ethereum. Shimmer erobert den Markt - IOTA News</a></li>
 <li><strong>IOTA Ökosystem</strong>: <a href="https://twitter.com/auditone_team">AuditOne</a> macht ein AMA mit <a href="https://twitter.com/auroraisnear">Aurora</a>: <a href="https://twitter.com/auditone_team/status/1648971076204916736?s=20">Tweet</a></li>
@@ -218,33 +217,33 @@
 <li><strong>Crypto Adaption</strong>: MICA wurde vom europäischen Parlament durchgewunken: <a href="https://twitter.com/DrStefanBerger/status/1649000678528884738?s=20">Tweet 1</a>; <a href="https://twitter.com/paddi_hansen/status/1649014582009110533?s=20">Tweet 2</a>; Artikel von BTC-Echo: <a href="https://www.btc-echo.de/news/mica-ist-durch-eu-reguliert-den-krypto-sektor-162995/">MiCA ist durch - EU reguliert den Krypto-Sektor</a>; Coindesk: <a href="https://www.coindesk.com/policy/2023/04/20/eu-parliament-approves-crypto-licensing-funds-transfer-rules/?utm_term=organic&amp;utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=coindesk_main&amp;utm_content=editorial">EU Parliament Approves Crypto Licensing, Funds Transfer Rules</a>; <a href="https://twitter.com/Marianadlrw/status/1649027130573955074?s=20">Mariana de la Roche freut sich</a> darüber</li>
 <li><strong>Shimer EVM Dev</strong>: wasp Release: <a href="https://github.com/iotaledger/wasp/releases/tag/v0.6.1-alpha.12">v0.6.1-alpha.12</a></li>
 <li><strong>IOTA Artikel</strong>: von timestabloid: <a href="https://timestabloid.com/iota-to-reward-shimmerevm-testers-with-1-3-million-token-airdrop-details/">Iota to reward Shimmer EVM testers with 1,3 million SMR - Token airdrop details</a></li>
-<li><strong>IOTA Event</strong>: Am 26.4.23: <a href="https://twitter.com/iota/status/1649050290858106886?s=20">Tweet</a>; Die <a href="https://twitter.com/EIB">European Investment Bank</a> und das <a href="https://twitter.com/EIBINSTITUTE">European Incestment Institut</a> laden ein zum "Alternative Finance Forum 2023"</li>
+<li><strong>IOTA Event</strong>: Am 26.4.23: <a href="https://twitter.com/iota/status/1649050290858106886?s=20">Tweet</a>; Die <a href="https://twitter.com/EIB">European Investment Bank</a> und das <a href="https://twitter.com/EIBINSTITUTE">European Incestment Institut</a> laden ein zum “Alternative Finance Forum 2023”</li>
 <li><strong>Shimmer Youtube</strong>: von Blockbytes: <a href="https://www.youtube.com/watch?v=wRvLYbkxdEQ">Discovering Memecoins, Treasures of Shimmer Campaign, MICA Worlds First Crypto Regulation in EU</a></li>
 <li><strong>IOTA Audio</strong>: Neuer Moonaco Podcast mit <a href="https://twitter.com/learning_nodes">Learning Nodes</a>: <a href="https://twitter.com/MoonacoPodcast/status/1648991259896209411?s=20">Tweet</a>; <a href="https://open.spotify.com/episode/02LvgQIg1JJOe0i0q5OXwm?si=fgoD0EAsQQGz-CJfVNWMaQ&amp;dd=1&amp;nd=1">Spotify Link</a></li>
 <li><strong>IOTA Artikel</strong>: von Crypto News Flash: <a href="https://www.crypto-news-flash.com/de/iota-shimmer-holt-superwichtigen-branchenriesen-an-bord-um-oekosystem-auf-milliarden-markt-vorzubereiten-bericht/">IOTA: Shimmer holt superwichtigen Branchenriesen an Bord, um Ökosystem auf Milliarden-$-Markt vorzubereiten – Bericht</a></li>
 <li><strong>IOTA Youtube</strong>: Die <a href="https://twitter.com/iota/status/1649140884397588480?s=20">IF tweetet</a> über <a href="https://www.youtube.com/watch?v=SQV9ACh_2fY">IOTA Community Regulation Call 05/04/2023: Digital Assets vs Traditional Finance?</a></li>
 <li><strong>IOTA 2.0</strong>: Dom hat sich im Discord zu IOTA2.0 geäußert: <a href="https://twitter.com/Vrom14286662/status/1649268058538557441?s=20">Tweet mit Screenshot</a>; Interessant ist auch die Einschätzung von <a href="https://twitter.com/id_iota">ID.iota</a> von der Lage: <a href="https://twitter.com/Vrom14286662/status/1650024966455283712?s=20">Tweet mit Screenshot</a></li>
 <li><strong>Tangle Treassury</strong>: <a href="https://twitter.com/TangleTreasury/status/1649088284532916234?s=20">Tangle Community Treasury tweetet</a> über die <a href="https://tangletreasury.notion.site/Tangle-Community-Treasury-Minutes-20-Apr-2023-Draft-65b82ff404324199ace70dedbbc8dd88">Tangle Community Treasury Minutes 20-Apr, 2023 Draft</a></li>
-<li><strong>Crypto Progress</strong>: <a href="https://twitter.com/SuiNetwork/status/1648811569541963779?s=20">SUI tweetet</a>, dass sie am 3.5. ihr Mainnet launchen (am gleichen Tag startet auch die "Shimmer EVM Battle for Activity" (-&gt; Punkt 20); <a href="https://twitter.com/ChirpIoT/status/1649355293636333569?s=20">Chirp freut sich darüber</a></li>
+<li><strong>Crypto Progress</strong>: <a href="https://twitter.com/SuiNetwork/status/1648811569541963779?s=20">SUI tweetet</a>, dass sie am 3.5. ihr Mainnet launchen (am gleichen Tag startet auch die “Shimmer EVM Battle for Activity” (-&gt; Punkt 20); <a href="https://twitter.com/ChirpIoT/status/1649355293636333569?s=20">Chirp freut sich darüber</a></li>
 <li><strong>IOTA Artikel</strong>: von ETH News: <a href="https://www.ethnews.com/iota-and-dell-secure-future-of-iot-with-joint-patent-for-distributed-ledger-technology/">IOTA and Dell Secure Future of IoT with Joint Patent for Distributed Ledger Technology</a></li>
 <li><strong>Shimmer Ökosystem</strong>: Am Sonntag war ein <a href="https://twitter.com/ShimmerSeaDEX">ShimmerSea</a> AMA mit Dr. Tangle in deren Discord: <a href="https://twitter.com/ShimmerSeaDEX/status/1649291876736856065?s=20">Tweet</a></li>
 <li><strong>Shimmer Artikel</strong>: von Bitcoin Insider: <a href="https://www.bitcoininsider.org/article/212722/iota-boost-shimmerevm-testing-13m-token-airdrop">IOTA to boost ShimmerEVM testing with 1.3M token airdrop</a></li>
 <li><strong>IOTA Artikel</strong>: von Times Tabloid: <a href="https://timestabloid.com/iota-to-reward-shimmerevm-testers-with-1-3-million-token-airdrop-details/">IOTA to Reward ShimmerEVM Testers with 1.3 Million Token Airdrop: Details</a></li>
 <li><strong>Crypto News</strong>: Der Blocktrainer ist jetzt Experte bei Focusonline (<a href="https://twitter.com/blocktrainer/status/1649357757617774592?s=20">Tweet</a>); Hier sein erster Artikel: <a href="https://www.focus.de/experten/kryptowaehrung-und-klimawandel-der-wahre-stromverbrauch-von-bitcoin_id_191705084.html">Kryptowährung und Klimawandel - Der wahre Stromverbrauch von Bitcoin</a></li>
 <li><strong>Shimmer EVM Airdrop</strong>: <a href="https://twitter.com/ShimmerSeaDEX/status/1649395402540560386?s=20">ShimmerSea tweetet</a>, dass der Airdrop für die <a href="https://twitter.com/ShimmerSeaDEX">ShimmerSea</a> Competition ausgeschüttet wurde; Um die Token im Metamask Wallet in seinem Account zu sehen, muss man die Token importieren (Token Adresse: 0xB9eaF6179810308EfA22443C4B7da34A94BF3048); Auf <a href="https://shimmersea.finance/swap">shimmersea.finance</a> findet man den SMRsea token auch und kann ihn hinzufügen</li>
-<li><strong>Shimmer EVM Competition</strong>: <a href="https://twitter.com/shimmernet/status/1649397585411465216?s=20">Shimmer tweetet</a> darüber, dass sich die Projekte ab jetzt registrieren (bzw. einer muss KYC machen) können, um an der "Shimmer Treassury Hunt" teilnehmen zu können. Man muss dazu <a href="https://airtable.com/shr6nWErtWtREU9k0">dieses Formular</a> ausfüllen</li>
+<li><strong>Shimmer EVM Competition</strong>: <a href="https://twitter.com/shimmernet/status/1649397585411465216?s=20">Shimmer tweetet</a> darüber, dass sich die Projekte ab jetzt registrieren (bzw. einer muss KYC machen) können, um an der “Shimmer Treassury Hunt” teilnehmen zu können. Man muss dazu <a href="https://airtable.com/shr6nWErtWtREU9k0">dieses Formular</a> ausfüllen</li>
 <li><strong>IOTA Adaption</strong>: <a href="https://twitter.com/iota/status/1649412679038009347">Iota tweetet</a> über diese Umfrage von Chaise: <a href="https://docs.google.com/forms/d/e/1FAIpQLSey52Z-2hbfNS5FYnNudjh6gYx55v_y-eeTv9GSRInqh9Yh9Q/viewform">CHAISE Questionnaire for the Verification of Forecasting Results</a></li>
 <li><strong>IOTA Ökosystem</strong>: <a href="https://twitter.com/BLACKPIN_GmbH/status/1649413300805853186?s=20">Blackpin tweetet</a> über ihr neues Video: <a href="https://www.youtube.com/watch?v=6jgaLnJik_8">Warum kooperieren die 3 sichersten Messenger Deutschlands miteinander?</a></li>
 <li><strong>IOTA Event</strong>: <a href="https://twitter.com/TangleCon/status/1649421586963759104?s=20">TangleCon tweetet</a> über ihren Event am 11.-12. Mai in Frankfurt, wo noch Plätze frei sind</li>
 <li><strong>IOTA 2.0 MVP(Drama)</strong>: <a href="https://discord.com/channels/397872799483428865/738665041217323068/1098883584196096010">Dom hat im Discord gesagt</a>, dass man zugunsten von einem früheren Start in iota core wohl auf ein öffentliches Iota 2.0 MVP in GoShimmer verzichten wird. <a href="https://discord.com/channels/397872799483428865/738665041217323068/1098884115610222622">Laut Dom im Discord</a> und <a href="https://discord.com/channels/397872799483428865/738665041217323068/1098884927073820723">nochmal hier</a> läuft das MVP wohl schon intern: Gunnar hat das auch bestätigt: <a href="https://twitter.com/Vrom14286662/status/1650044258408189953?s=20">Tweet mit Screenshot</a>; <a href="https://discord.com/channels/397872799483428865/397872799483428867/1099608746155593749">Buddhini hat im Discord</a> ein paar Punkte zur schlechten Kommunikation bezüglich des MVPs angesprochen; Allerdings hat Dom das scheinbar bereits in AMA angedeutet: <a href="https://twitter.com/iota_penguin/status/1650402612917747712?s=20">Tweet</a></li>
 <li><strong>IOTA Dev Update</strong>: <a href="https://github.com/iotaledger/wasp/releases/tag/v0.6.1-alpha.13">wasp v0.6.1-alpha.13</a> release</li>
-<li><strong>Tangle Treasury</strong>: Mehrere <a href="https://twitter.com/TangleTreasury/status/1649883907959971840?s=20">Tweet von der Tangle Community Treasury</a> darüber, dass sie "TCT-6: IOTA for Flutter" unterstützt haben. Mehr dazu in diesem <a href="https://drive.google.com/file/d/165V6zVYL4kWaXyQLwl4s7kx0F3X7xowA/view">6-seitigen Dokument</a></li>
+<li><strong>Tangle Treasury</strong>: Mehrere <a href="https://twitter.com/TangleTreasury/status/1649883907959971840?s=20">Tweet von der Tangle Community Treasury</a> darüber, dass sie “TCT-6: IOTA for Flutter” unterstützt haben. Mehr dazu in diesem <a href="https://drive.google.com/file/d/165V6zVYL4kWaXyQLwl4s7kx0F3X7xowA/view">6-seitigen Dokument</a></li>
 <li><strong>IOTA Adaption</strong>: <a href="https://twitter.com/Dell_Edge/status/1649782678521094151?s=20">Dell tweetet</a> mal wieder über das <a href="https://www.dell.com/en-us/dt/video-collateral/project-alvarium-tracks-carbon-footprint-with-edge-solutions.htm?dgc=SM&amp;cid=160239&amp;lid=spr7078898451&amp;refid=sm_TWITTER_spr7078898451&amp;linkId=168200243">Projekt Alvarium</a></li>
 <li><strong>IOTA Ökosystem</strong>: <a href="https://twitter.com/tanglebay/status/1649850976910671878?s=20">Tweet von TangleBay</a> über seine <a href="https://www.tanglebay.com/">neue Webseite: tanglebay.com</a></li>
-<li><strong>IOTA Youtube</strong>: von IotaPoet: <a href="https://www.youtube.com/watch?v=NPJDmKKbId4">IOTA v Regulation: IOTA's Senior Expert Shares Insights</a></li>
+<li><strong>IOTA Youtube</strong>: von IotaPoet: <a href="https://www.youtube.com/watch?v=NPJDmKKbId4">IOTA v Regulation: IOTA’s Senior Expert Shares Insights</a></li>
 <li><strong>IOTA Youtube</strong>: von Blockchainlab Drenthe: <a href="https://www.youtube.com/watch?v=R99pIOm0onM">BlockchainLab Drenthe Monthly Meetup Apr. 20th 2023 19:00</a></li>
 <li><strong>IOTA Youtube</strong>: von Multifolio: <a href="https://www.youtube.com/watch?v=mBNe1Fofj5c">Shimmer Netzwerk: DLT erhält ChatGPT Fähigkeiten - Anleitung und Tipps</a>; In <a href="https://twitter.com/Vrom14286662/status/1650039508467892225?s=20">vroms Tweet</a> sieht man, dass es funktioniert; Hier noch ein <a href="https://twitter.com/multifolio/status/1650035385412595713?s=20">Tweet von Multi</a> mit den Details wie es geht und ein <a href="https://twitter.com/Vrom14286662/status/1650053273229881346?s=20">Tweetverlauf</a> in dem <a href="https://twitter.com/GarrettBullish/status/1650060114689392640?s=20">TanglePay</a> und <a href="https://twitter.com/RodionVikol/status/1650078072555577344?s=20">Bivreost</a> bereits Interesse zeigen an der Implementierung</li>
-<li><strong>IOTA NFT Ökosystem</strong>: Am Wochenende wurden 5000 NFTs (für je 25Miota) von <a href="https://soonaverse.com/collection/0x2fee5f74fb28cea2c51601ff35e4979138058c08">Speak (1st edition)</a> verkauft. <a href="https://twitter.com/SpeakNFT">Speak</a> ist ein <a href="https://www.playspeak.xyz/">NFT card game</a> und eine Plattform "for all web3 TCGs"; Sie haben wohl noch viel vor: <a href="https://twitter.com/SpeakNFT/status/1650079797127544832?s=20">Tweet</a></li>
+<li><strong>IOTA NFT Ökosystem</strong>: Am Wochenende wurden 5000 NFTs (für je 25Miota) von <a href="https://soonaverse.com/collection/0x2fee5f74fb28cea2c51601ff35e4979138058c08">Speak (1st edition)</a> verkauft. <a href="https://twitter.com/SpeakNFT">Speak</a> ist ein <a href="https://www.playspeak.xyz/">NFT card game</a> und eine Plattform “for all web3 TCGs”; Sie haben wohl noch viel vor: <a href="https://twitter.com/SpeakNFT/status/1650079797127544832?s=20">Tweet</a></li>
 <li><strong>IOTA Ökosystem</strong>: <a href="https://twitter.com/ShimmerSeaDEX/status/1649761767227105281?s=20">ShimmerSea tweetet</a>, dass der Testnetz Fairlaunch für Lumi Besitzer bereits am Montag 24.4. startet; Es gab am Sonntag auch ein AMA im Discord von <a href="https://twitter.com/ShimmerSeaDEX">ShimmerSea</a></li>
 <li><strong>IOTA Drama</strong>: <a href="https://twitter.com/ThomasQvOG">ThomasQV</a> (<a href="https://twitter.com/MoonacoPodcast">MoonacoPodcast</a>) will vielleicht aufhören: <a href="https://twitter.com/ThomasQvOG/status/1650124096657670147?s=20">Tweet</a></li>
 <li><strong>IOTA Artikel</strong>: von ETH News: <a href="https://www.ethnews.com/revolutionizing-app-development-tangle-community-treasury-funds-iota-for-flutter-led-by-experienced-developer/">Revolutionizing App Development: Tangle Community Treasury Funds IOTA for Flutter Led by Experienced Developer</a></li>
@@ -253,7 +252,7 @@
 <li><strong>IOTA Ökosystem</strong>: <a href="https://twitter.com/TangleSwap/status/1650402305085173762?s=20">TangleSwap tweetet</a> über den Blogpost: <a href="https://medium.com/explorers-manual/first-steps-into-concentrated-liquidity-a2aba0c1b48a">Explorer’s Manual: first steps into Concentrated Liquidity — the future of DeFi</a></li>
 <li><strong>IOTA Promote</strong>: <a href="https://twitter.com/CoinMarketCap/status/1650386590726868997?s=20">CoinmarketCap tweetet</a> über ihren Blogpost: <a href="https://coinmarketcap.com/community/articles/643fe6b41e2012137aa27064/">Treasures of Shimmer</a></li>
 <li><strong>IOTA Event</strong>: Mariana de la Roche ist am 23.-24.05 in Brüssel auf einem INATBA Event von <a href="https://twitter.com/web3eurosummit">web3eurosummit</a>: <a href="https://twitter.com/web3eurosummit/status/1650430551491313665?s=20">Tweet</a></li>
-<li><strong>Shimmer EVM Promote</strong>: Als Werbung für die "Battle for Activity Challenge" tweetet Shimmer einzelnd über all die Projekte die mitmachen: <a href="https://twitter.com/shimmernet/status/1650484744759525379?s=20">Tweet 1: iotabee</a>; <a href="https://twitter.com/shimmernet/status/1650499846996996100?s=20">Tweet 2: Iotaheroes</a></li>
+<li><strong>Shimmer EVM Promote</strong>: Als Werbung für die “Battle for Activity Challenge” tweetet Shimmer einzelnd über all die Projekte die mitmachen: <a href="https://twitter.com/shimmernet/status/1650484744759525379?s=20">Tweet 1: iotabee</a>; <a href="https://twitter.com/shimmernet/status/1650499846996996100?s=20">Tweet 2: Iotaheroes</a></li>
 </ol>
 
                     </main>
@@ -261,11 +260,11 @@
                     <nav class="nav-wrapper" aria-label="Page navigation">
                         <!-- Mobile navigation buttons -->
                             <a rel="prev" href="../../stammtisch/2023-04-17/index.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
-                                <i class="fa fa-angle-left"></i>
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
                             </a>
 
                             <a rel="next prefetch" href="../../stammtisch/2023-05-01/index.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
-                                <i class="fa fa-angle-right"></i>
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></span>
                             </a>
 
                         <div style="clear: both"></div>
@@ -275,16 +274,21 @@
 
             <nav class="nav-wide-wrapper" aria-label="Page navigation">
                     <a rel="prev" href="../../stammtisch/2023-04-17/index.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
-                        <i class="fa fa-angle-left"></i>
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
                     </a>
 
                     <a rel="next prefetch" href="../../stammtisch/2023-05-01/index.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
-                        <i class="fa fa-angle-right"></i>
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></span>
                     </a>
             </nav>
 
         </div>
 
+        <template id=fa-eye><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M288 32c-80.8 0-145.5 36.8-192.6 80.6C48.6 156 17.3 208 2.5 243.7c-3.3 7.9-3.3 16.7 0 24.6C17.3 304 48.6 356 95.4 399.4C142.5 443.2 207.2 480 288 480s145.5-36.8 192.6-80.6c46.8-43.5 78.1-95.4 93-131.1c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C433.5 68.8 368.8 32 288 32zM432 256c0 79.5-64.5 144-144 144s-144-64.5-144-144s64.5-144 144-144s144 64.5 144 144zM288 192c0 35.3-28.7 64-64 64c-11.5 0-22.3-3-31.6-8.4c-.2 2.8-.4 5.5-.4 8.4c0 53 43 96 96 96s96-43 96-96s-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6z"/></svg></span></template>
+        <template id=fa-eye-slash><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M38.8 5.1C28.4-3.1 13.3-1.2 5.1 9.2S-1.2 34.7 9.2 42.9l592 464c10.4 8.2 25.5 6.3 33.7-4.1s6.3-25.5-4.1-33.7L525.6 386.7c39.6-40.6 66.4-86.1 79.9-118.4c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C465.5 68.8 400.8 32 320 32c-68.2 0-125 26.3-169.3 60.8L38.8 5.1zM223.1 149.5C248.6 126.2 282.7 112 320 112c79.5 0 144 64.5 144 144c0 24.9-6.3 48.3-17.4 68.7L408 294.5c5.2-11.8 8-24.8 8-38.5c0-53-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6c0 10.2-2.4 19.8-6.6 28.3l-90.3-70.8zm223.1 298L373 389.9c-16.4 6.5-34.3 10.1-53 10.1c-79.5 0-144-64.5-144-144c0-6.9 .5-13.6 1.4-20.2L83.1 161.5C60.3 191.2 44 220.8 34.5 243.7c-3.3 7.9-3.3 16.7 0 24.6c14.9 35.7 46.2 87.7 93 131.1C174.5 443.2 239.2 480 320 480c47.8 0 89.9-12.9 126.2-32.5z"/></svg></span></template>
+        <template id=fa-copy><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M502.6 70.63l-61.25-61.25C435.4 3.371 427.2 0 418.7 0H255.1c-35.35 0-64 28.66-64 64l.0195 256C192 355.4 220.7 384 256 384h192c35.2 0 64-28.8 64-64V93.25C512 84.77 508.6 76.63 502.6 70.63zM464 320c0 8.836-7.164 16-16 16H255.1c-8.838 0-16-7.164-16-16L239.1 64.13c0-8.836 7.164-16 16-16h128L384 96c0 17.67 14.33 32 32 32h47.1V320zM272 448c0 8.836-7.164 16-16 16H63.1c-8.838 0-16-7.164-16-16L47.98 192.1c0-8.836 7.164-16 16-16H160V128H63.99c-35.35 0-64 28.65-64 64l.0098 256C.002 483.3 28.66 512 64 512h192c35.2 0 64-28.8 64-64v-32h-47.1L272 448z"/></svg></span></template>
+        <template id=fa-play><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg></span></template>
+        <template id=fa-clock-rotate-left><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M75 75L41 41C25.9 25.9 0 36.6 0 57.9V168c0 13.3 10.7 24 24 24H134.1c21.4 0 32.1-25.9 17-41l-30.8-30.8C155 85.5 203 64 256 64c106 0 192 86 192 192s-86 192-192 192c-40.8 0-78.6-12.7-109.7-34.4c-14.5-10.1-34.4-6.6-44.6 7.9s-6.6 34.4 7.9 44.6C151.2 495 201.7 512 256 512c141.4 0 256-114.6 256-256S397.4 0 256 0C185.3 0 121.3 28.7 75 75zm181 53c-13.3 0-24 10.7-24 24V256c0 6.4 2.5 12.5 7 17l72 72c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-65-65V152c0-13.3-10.7-24-24-24z"/></svg></span></template>
 
 
 
@@ -293,13 +297,13 @@
         </script>
 
 
-        <script src="../../elasticlunr.min.js"></script>
-        <script src="../../mark.min.js"></script>
-        <script src="../../searcher.js"></script>
+        <script src="../../elasticlunr-ef4e11c1.min.js"></script>
+        <script src="../../mark-09e88c2c.min.js"></script>
+        <script src="../../searcher-c2a407aa.js"></script>
 
-        <script src="../../clipboard.min.js"></script>
-        <script src="../../highlight.js"></script>
-        <script src="../../book.js"></script>
+        <script src="../../clipboard-1626706a.min.js"></script>
+        <script src="../../highlight-abc7f01d.js"></script>
+        <script src="../../book-a0b12cfe.js"></script>
 
         <!-- Custom JS scripts -->
 
