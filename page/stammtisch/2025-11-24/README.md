@@ -49,3 +49,4 @@
 47. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1992956371948482754?s=20) ein kurzen [Video-Ausschnitt mit Dom](https://x.com/iota/status/1992956371948482754?s=20)
 48. **IOTA Adoption**: Heute sind die Avt. Gass Fees ziemlich nach oben geschossen auf [iotascan.com](https://iotascan.com/mainnet/analytics/fees/avg.%20gas%20fee)
 49. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1992927659844591653?s=20) über ein Event am 27.November: [Workshop multidisciplinare su Blockchain e DLT: incontro fra accademia e imprese - 7th DLT working group meeting on multidisciplinary aspects](https://dltgroup.it/DLTWorkshop/dltPG25.html)
+50. **IOTA Stammtisch**: Am Fr. 5.6. ist IOTA Stammtisch in München und es gibt Nikolaus Geschenke... [Tweet](https://x.com/IotaMunchen/status/1992949927052464416?s=20)
