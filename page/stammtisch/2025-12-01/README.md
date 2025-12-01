@@ -33,8 +33,13 @@
 32. **IOTA Video**: Neues Youtube Video: [TLIP revolutionising globale trade by digitising...](https://www.youtube.com/embed/TW3HtMXOzJA?autoplay=1&auto_play=true )
 33. **Crypto Adoption**: China hält weiterhin an dem Crypto Ban fest: [Tweet](https://x.com/coinbureau/status/1994687373196890468?s=20)
 34. **IOTA Speculation**: [Salima tweetet](https://x.com/Salimasbegum/status/1994552561513144616?s=20) über eine "USDT-powered payment card linked to IOTA..."
-35. **IOTA Event**: [kowei retweetet](https://x.com/kowei1995/status/1995009622927966306?s=20) den [Tweet von TuringCerts](https://x.com/thejeffhu/status/1994987205492969744?s=20) über ein Event, wo sogar ein ehem. Minister aus Taiwan dabei war
-36. **IOTA Ökosystem**: [ID.iota tweetet](https://x.com/id_iota/status/1994844485444845618?s=20) über ein Update von seinem [IOTA Analytics Dashboard](https://iota-dashboard-448150412424.us-west1.run.app/)
-37. **Crypto Adoption**: Dubai ist die erste Regierung, die Bitcoin und Krypto im nahen Osten akzeptiert: [Tweet](https://x.com/Vivek4real_/status/1995051626177163641?s=20)
-38. **Crypto Adoption**: Elon Musk spricht über Bitcoin: "Bitcoin sei eine echte Währung, die auf Energie basiert.": [Tweet](https://x.com/WatcherGuru/status/1995178902562685042?s=20)
-39. **IOTA Ökosystem**: [TangleLabs tweetet](https://x.com/TokenLabsX/status/1995244248602411202?s=20) über ihre eigene [tokenlabs.network/analytics](http://tokenlabs.network/analytics)
+35. **IOTA Speculation**: [Salima tweetet](https://x.com/Salimasbegum/status/1994559112898548051?s=20) darüber, dass IOTA wohl bald auf crypto.com gelistet wird...
+36. **IOTA Event**: [kowei retweetet](https://x.com/kowei1995/status/1995009622927966306?s=20) den [Tweet von TuringCerts](https://x.com/thejeffhu/status/1994987205492969744?s=20) über ein Event, wo sogar ein ehem. Minister aus Taiwan dabei war
+37. **IOTA Ökosystem**: [ID.iota tweetet](https://x.com/id_iota/status/1994844485444845618?s=20) über ein Update von seinem [IOTA Analytics Dashboard](https://iota-dashboard-448150412424.us-west1.run.app/)
+38. **Crypto Adoption**: Dubai ist die erste Regierung, die Bitcoin und Krypto im nahen Osten akzeptiert: [Tweet](https://x.com/Vivek4real_/status/1995051626177163641?s=20)
+39. **Crypto Adoption**: Elon Musk spricht über Bitcoin: "Bitcoin sei eine echte Währung, die auf Energie basiert.": [Tweet](https://x.com/WatcherGuru/status/1995178902562685042?s=20)
+40. **IOTA Ökosystem**: [TangleLabs tweetet](https://x.com/TokenLabsX/status/1995244248602411202?s=20) über ihre eigene [tokenlabs.network/analytics](http://tokenlabs.network/analytics)
+41. **IOTA Promote**: Das [Toni Blair institut tweetet](https://x.com/InstituteGC/status/1995477983994499216?s=20) ein [Video mit Toni Blair](https://x.com/InstituteGC/status/1995477983994499216?s=20) in dem er über ADAPT spricht und IOTA erwähnt
+42. **Crypto Adoption**: Der Spar Supermarkt in der Schweiz implementiert offenbar Bitcoin Lightning: [Tweet](https://x.com/pete_rizzo_/status/1995463104440799482?s=20)
+43. **IOTA Audio**: [New Money Club tweetet](https://x.com/pukerrainbrow/status/1995373568864203120?s=20) über ein Interview mit Dom am Dienstag 2.12.25
+44. **IOTA Quicktakes**: Die [IF macht ein Thread](https://x.com/iota/status/1995432687675265188?s=20) über die [IOTA Quicktakes](https://x.com/iota/status/1995432687675265188?s=20)
