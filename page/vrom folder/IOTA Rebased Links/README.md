@@ -22,6 +22,7 @@
 5. Staking Overview: [iota.guru](www.iota.guru)
 6. Transaction Dashboard: [Dashboard](https://iota-transaction-origin-visualizer-448150412424.us-west1.run.app/)
 7. Staking Rewards Analytics for Taxes Calculation: [dlt.green/de/services/staking-explorer](https://dlt.green/en/services/staking-explorer#delegated)  (only for DLT.GREEN stakers)
+8. Stake Manager: [stake-manager.iota.guru](https://stake-manager.iota.guru/)
 
 ## Already working dApps for IOTA Rebased:
 1. DEX: [pools.finance](https://www.pools.finance/)
