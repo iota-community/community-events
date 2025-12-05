@@ -22,7 +22,18 @@
 20. **IOTA Ökosystem**: [Virtue.Money tweetet](https://x.com/Virtue_Money/status/1995884318313381899?s=20) über ihr neues Dashborad: [info.virtue.money](https://info.virtue.money/)
 21. **IOTA Ökosystem**: [TokenLabs tweetet](https://x.com/TokenLabsX/status/1995816808553619516?s=20) über ihr neues Dashboard: [tokenlabs.network/analytics](http://tokenlabs.network/analytics)
 22. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1995915875115823568?s=20) Bilder von dem Event in Lagos
-23. **IOTA Speculation**: [Salima tweetet](https://x.com/Salimasbegum/status/1996012459535052959?s=20) Speculationen über Asien Adaption
-24. 
+23. **IOTA Speculation**: [Salima tweetet](https://x.com/Salimasbegum/status/1996012459535052959?s=20) Speculationen über Asien Adaption: [Tweet](https://x.com/Salimasbegum/status/1996173318458654809?s=20)
+24. **IOTA Stammtisch**: Es war ein IOTA Stammtisch in München ([Tweet](https://x.com/IotaMunchen/status/1992949927052464416?s=20))
+25. **Crypto Adoption**: Polen hat scheinbar sein Veto eingelegt gegen ein Anti-Bitcoin Gesetzt in Europa: [Tweet](https://x.com/pete_rizzo_/status/1996156003327283463?s=20)
+26. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/1996217861828657414?s=20) über den Blogpost: [IOTA Mainnet Integrates LayerZero and Stargate - Unlocking Interoperability for Enhanced Cross-Chain Communication](https://blog.iota.org/iota-mainnet-integrates-layerzero-and-stargate/); Auch [Phylo retweetet](https://x.com/PhyloIota/status/1996219157592084990?s=20) das und [IOTA tweetet](https://x.com/iota/status/1996220438595146148?s=20) runter "Opening the floodgates!"
+27. **IOTA Exchanges**: Neue Exchange: [Uphold tweetet](https://x.com/UpholdInc/status/1996234060826333357?s=20), dass sie IOTA für US Kunden integriert haben
+28. **IOTA Promote**: [LayerZero (700K Follower) tweetet](https://x.com/LayerZero_Core/status/1996218533517357421?s=20) über ADAPT und macht quasi Werbung für IOTA
+29. **IOTA Audio**: Neuer [Nanotalk #14](https://x.com/id_iota/status/1996245081121046759?s=20) auf X
+30. **IOTA Promote**: [Salima tweetet](https://x.com/Salimasbegum/status/1996272482584494483?s=20) über IOTA und sieht da ein Crypto Unicorn entstehen
+31. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1996232962715668524?s=20) über ein neues Giverep Program
+32. **IOTA Adoption**: Dom ist scheinbar in Seaul und macht dort irgendwelche Connections: [Tweet](https://x.com/Vrom14286662/status/1996330384330727805?s=20); [Er schreibt](https://x.com/DomSchiener/status/1996252488052183458?s=20) "2026 will be amazing"
+33. **Crypto Adoption**: Mr. Beast macht eine Finanzplattform: [Tweet](https://x.com/WatcherGuru/status/1996334462901334490?s=20)
+34. **Crypto Adoption**: Der [Coinbase CEO tweetet](https://x.com/brian_armstrong/status/1996275431625159096?s=20) ein Bild mit Larry Fink und schreibt: "Tokenization is the future - it’s time to bring every asset onchain."
+35. **Crypto Adoption**: Dazu passend der [Tweet von Salima](https://x.com/Salimasbegum/status/1985752669261119993?s=20) über "The CEO of Standard Chartered Bank, Bill Winters —a $1 TRILLION institution— just said that “every transaction will eventually be settled on crypto.”"
 
    
