@@ -2,9 +2,40 @@
 
 1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1997969406119297460?s=20) über die [IOTA Quicktakes](https://www.youtube.com/embed/QnmPFl0N8qg?autoplay=1&auto_play=true)
 2. **IOTA Exchange**: [BitGo tweetet](https://x.com/BitGo/status/1998070845319880786?s=20) daüber, dass "Institutional access to @iota now live" ist
-3. **Crypto Adoption**: Banken in Amerika dürfen jetzt offiziell Bitcoin und Crypto anbieten (zumindest laut diesem OCC Schreiben): [Tweet](https://x.com/AltcoinDaily/status/1998479907438162282?s=20)
-4. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/1998524442306076934?s=20) über INATBA und das neue [INATBA Policy Paper - A Critique of Regulatory Conflation in the digital Economy](https://inatba.org/wp-content/uploads/2025/12/A-Critique-of-Regulatory-Conflation-in-the-Digital-Economy.docx.pdf)
-5. **IOTA Promote**: Passend zu Punkt 4 der Artikel von what.iota: [TBI, INATBA and IOTA: Where It Fits – and Where It Falls Short (for the moment)](https://x.com/whatmicha/status/1998404674286653726?s=20)
-6. **Crypto Adoption**: IM US-Walmarkt kann man bald mit Bitcoin bezahlen: [Tweet](https://x.com/Vivek4real_/status/1998618827207364861?s=20)
-7. **Fiat News**: Space X will ein IPO machen und damit am meisten Geld einsammeln, das jemals bei einer IPO eingesammelt wurde: [Tweet](https://x.com/shanaka86/status/1998505390603121018?s=20)
-8. 
+3. **IOTA Promote**: IOTA ist deutlicher Gewinner (+880%) beim Development Activity Growth: [Tweet](https://x.com/chain_broker/status/1998799874998043012?s=20)
+4. **IOTA Exchange**: [UpHold tweetet](https://x.com/UpholdInc/status/1999518438415278140?s=20), dass sie live sind mit IOTA und "The first 5,000 US customers to trade $50+ of $IOTA between Dec 15-19 will earn a $10 IOTA bonus!"
+5. **Crypto Adoption**: Banken in Amerika dürfen jetzt offiziell Bitcoin und Crypto anbieten (zumindest laut diesem OCC Schreiben): [Tweet](https://x.com/AltcoinDaily/status/1998479907438162282?s=20)
+6. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/1998524442306076934?s=20) über INATBA und das neue [INATBA Policy Paper - A Critique of Regulatory Conflation in the digital Economy](https://inatba.org/wp-content/uploads/2025/12/A-Critique-of-Regulatory-Conflation-in-the-Digital-Economy.docx.pdf)
+7. **IOTA Promote**: Passend zu Punkt 4 der Artikel von what.iota: [TBI, INATBA and IOTA: Where It Fits – and Where It Falls Short (for the moment)](https://x.com/whatmicha/status/1998404674286653726?s=20)
+8. **Crypto Adoption**: IM US-Walmarkt kann man bald mit Bitcoin bezahlen: [Tweet](https://x.com/Vivek4real_/status/1998618827207364861?s=20)
+9. **Fiat News**: Space X will ein IPO machen und damit am meisten Geld einsammeln, das jemals bei einer IPO eingesammelt wurde: [Tweet](https://x.com/shanaka86/status/1998505390603121018?s=20)
+10. **IOTA Promote**: [Salima tweetet](https://x.com/Salimasbegum/status/1999163049391907254?s=20) über Projekt T und auch [vron tweetet](https://x.com/Vrom14286662/status/1999473505898057863?s=20) er hat es bereits getestet und schlussfolgert: "Very important infrastructure for IOTA & DeFi..."
+11. **IOTA Adoption**: [vrom tweetet](https://x.com/Vrom14286662/status/1999420031084745051?s=20) über neue Rekorde im Testnetz und [tweetet](https://x.com/Vrom14286662/status/1999445135436976239?s=20) über steigende [Zahlen bei den Mainnet Accounts](https://iotascan.com/mainnet/analytics/accounts/total%20accounts)
+12. **Crypto Adoption**: Bei 4 US Banken kann man jetzt Kredite auf Bitcoin erhalten: [Tweet](https://x.com/TheCryptoLark/status/1999161790886711747?s=20)
+13. **Crypto Adoption**: Die SEC hat eine Unbedenklichkeitserklärung für Krypto ausgestellt: [Tweet](https://x.com/Cointelegraph/status/1999258025958191235?s=20)
+14. **Crypto Adoption**: US Crypto Roundtable am Montag 15.12.: [Tweet](https://x.com/SECPaulSAtkins/status/1999142798235176967?s=20); [Link](https://dcm.sec.gov/newsroom/meetings-events/crypto-task-force-roundtable-financial-surveillance-privacy)
+15. **Crypto Adoption**: Zahlungsdienstleister Klarna (100 mio user) will Bitcoin und Crypto ermöglichen: [Tweet](https://x.com/Vivek4real_/status/1999126611493573064?s=20)
+16. **Crypto Adoption**: Zahlungsdienstleister Revolut (50 mio user) will Bitcoin und Crypto ermöglichen: [Tweet](https://x.com/Vivek4real_/status/1999086895637356981?s=20)
+17. **Crypto Adoption**: Eine Statue von Bitcoin wurde im Gebäude der New York Stock Exchange aufgestellt: [Tweet](https://x.com/BitcoinArchive/status/1998915018843168844?s=20)
+18. **Crypto Adoption**: JP Morgan CEO über Bitcoin und Stablecoins: [Tweet](https://x.com/MerlijnTrader/status/1999132072095474109?s=20) und [Coinbase tweetet](https://x.com/CoinbaseInsto/status/1999155878940098727?s=20), dass JP Morgan eine US-amerikanische Commercial Paper-Emission auf Solana arrangiert hat
+19. **Crypto Adoption**: In der USA können Youtuber jetzt mit dem Stablecoin von Paypal (PYUSD) bezahlt werden: [Tweet](https://x.com/Cointelegraph/status/1999305846975553638?s=20)
+20. **Crypto Adoption**: [SWIFT tweetet](https://x.com/swiftcommunity/status/1999471574915670388?s=20) über ihr neues Blockchaibasiertes System: [Building the digital payment stack of the future](https://www.swift.com/about-us/innovate-swift/building-digital-payment-stack-future?utm_campaign=2025-12+General+Campaign&utm_content=Oktopost-twitter&utm_medium=organic_social&utm_source=twitter); Hier ein [Tweet](https://x.com/AncientMedicin3/status/2000233069563855239?s=20) mit mehr Details. Sie verwenden wohl Chainlink: [Tweet von Chainlink](https://x.com/chainlink/status/2000220987439075689?s=20)
+21. **Crypto Adoption**: [Dom gratuliert BitGo](https://x.com/DomSchiener/status/1999738956829819100?s=20) dafür, dass sie Crypto Lizenz als Treuhänder in der USA bekommen haben
+22. **Crypto Adoption**: Neue Netflix Serie über Bitcoin: [Tweet](https://x.com/pete_rizzo_/status/1999484913800925437?s=20)
+23. **IOTA Audio**: [Nana Talk #15](https://x.com/id_iota/status/1998790803133739361?s=20)
+24. **IOTA Audio**: Noch ein [X-Spaces über IOTA](https://x.com/FavouritonX/status/1999374747839176855?s=20)
+25. **IOTA Ökosystem**: [Dark Mythos tweetet](https://x.com/DarkMythosTCG/status/1998819567804522704?s=20), dass sie zu Polygon wechseln
+26. **IOTA Event**: Die [IF retweetet](https://x.com/iota/status/1999388756223095112?s=20) ein [IOTA - Web3 Meetup in Accra - Beyond Blockchain](https://x.com/DecentrixAfrica/status/1996285409530179869?s=20)
+27. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/1999403858338938977?s=20) über ein [🇮🇩 Build On IOTA Workshop - Jakarta](https://www.risein.com/bootcamps/build-on-iota-workshop-jakarta)
+28. **IOTA Event**: [RiseIn teetet](https://x.com/riseinweb3/status/1999453862650933410?s=20) ein Video über das "IOTA Bootcamp at Phenikaa University in Hanoi"
+29. **IOTA Event**: [AfCFTA tweetet](https://x.com/AfCFTA/status/1999390824052777111?s=20) über ein "2nd AfCFTA business forum in Marrakech" das relativ wichtig aussieht
+30. **IOTA Event**: [moon.iota speculiert](https://x.com/moonbaklava/status/1999526546848063776?s=20) über ein "Closed door Meeting" zwischen WEF und B20 (Buisiness 20) im gleichen Raum wo auch IOTA dabei war...
+31. **IOTA Adoption**: Passend dazu [tweetet Jens](https://x.com/JensLundNielsen/status/1999150158836367464?s=20) darüber, dass sie wöchentliche Projektbesprechungen mit den Sekretariatsteams haben um ADAPT umzusetzen
+32. **Crypto Drama**: Der Terra Luna Scamer Do Kwon wurde zu 15 Jahre verurteilt: [Tweet](https://x.com/WatcherGuru/status/1999237707420303844?s=20)
+33. **IOTA Ökosystem**: [Deepr tweetet](https://x.com/DeeprFinance/status/1999460113107824735?s=20) über ihren Blogpost: [Deepr Finance: Strengthening Our Foundation for the Move to IOTA L1](https://medium.com/@Deepr.Finance/deepr-finance-strengthening-our-foundation-for-the-move-to-iota-l1-0e3c4b46b5e7)
+34. **IOTA Drama**: [IotaPoet tweetet](https://x.com/IotaPoet/status/1999439806468850107?s=20) eine Screenshot von Realize Finance. Sie sind wohl Insolvent
+35. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/1999741811477168300?s=20) darüber, dass die Giverep Ambassador Campagne zu Ende ist und die Auszahlungen verfügbar sind
+36. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1999768599309730273?s=20) über ihr einjähriges Bestehen und kurze Zeit später [tweetet DLT.GREEN](https://x.com/dlt_green/status/2000277108447162408?s=20) über ein größeres Update von ihren [Staking Analytics](https://dlt.green/en/services/iota-staking-analytics#validator-trend)
+37. **IOTA Promote**: [Iotarebased.iota tweetet](https://x.com/IotaRebased/status/1999886030812385707?s=20) einen ausführlichen Artikel über das gesamte IOTA Ökosystem: [Exploring the Fast-Growing IOTA Ecosystem](https://x.com/IotaRebased/status/1999886030812385707?s=20)
+38. **IOTA Adoption**: [Id.IOTA tweetet](https://x.com/id_iota/status/2000497004422762642?s=20) darüber, dass TurinCerts neue Identitäten geissued hat für Firmen Erasmus, World Health Organisation, UNESCO, Tokyo Metro Governement, ...
+39. 
