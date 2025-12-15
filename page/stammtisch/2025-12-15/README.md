@@ -3,7 +3,7 @@
 1. **IOTA Quicktakes**: Die [IF tweetet](https://x.com/iota/status/1997969406119297460?s=20) über die [IOTA Quicktakes](https://www.youtube.com/embed/QnmPFl0N8qg?autoplay=1&auto_play=true)
 2. **IOTA Exchange**: [BitGo tweetet](https://x.com/BitGo/status/1998070845319880786?s=20) daüber, dass "Institutional access to @iota now live" ist
 3. **IOTA Promote**: IOTA ist deutlicher Gewinner (+880%) beim Development Activity Growth: [Tweet](https://x.com/chain_broker/status/1998799874998043012?s=20)
-4. **IOTA Exchange**: [UpHold tweetet](https://x.com/UpholdInc/status/1999518438415278140?s=20), dass sie live sind mit IOTA und "The first 5,000 US customers to trade $50+ of $IOTA between Dec 15-19 will earn a $10 IOTA bonus!"
+4. **IOTA Exchange**: [UpHold tweetet](https://x.com/UpholdInc/status/1999518438415278140?s=20), dass sie live sind mit IOTA und "The first 5,000 US customers to trade $50+ of $IOTA between Dec 15-19 will earn a $10 IOTA bonus!"; [Die [IF tweetet](https://x.com/iota/status/2000543475637399731?s=20) über eine 1 Mio Trading Competition
 5. **Crypto Adoption**: Banken in Amerika dürfen jetzt offiziell Bitcoin und Crypto anbieten (zumindest laut diesem OCC Schreiben): [Tweet](https://x.com/AltcoinDaily/status/1998479907438162282?s=20)
 6. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/1998524442306076934?s=20) über INATBA und das neue [INATBA Policy Paper - A Critique of Regulatory Conflation in the digital Economy](https://inatba.org/wp-content/uploads/2025/12/A-Critique-of-Regulatory-Conflation-in-the-Digital-Economy.docx.pdf)
 7. **IOTA Promote**: Passend zu Punkt 4 der Artikel von what.iota: [TBI, INATBA and IOTA: Where It Fits – and Where It Falls Short (for the moment)](https://x.com/whatmicha/status/1998404674286653726?s=20)
@@ -38,4 +38,6 @@
 36. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/1999768599309730273?s=20) über ihr einjähriges Bestehen und kurze Zeit später [tweetet DLT.GREEN](https://x.com/dlt_green/status/2000277108447162408?s=20) über ein größeres Update von ihren [Staking Analytics](https://dlt.green/en/services/iota-staking-analytics#validator-trend)
 37. **IOTA Promote**: [Iotarebased.iota tweetet](https://x.com/IotaRebased/status/1999886030812385707?s=20) einen ausführlichen Artikel über das gesamte IOTA Ökosystem: [Exploring the Fast-Growing IOTA Ecosystem](https://x.com/IotaRebased/status/1999886030812385707?s=20)
 38. **IOTA Adoption**: [Id.IOTA tweetet](https://x.com/id_iota/status/2000497004422762642?s=20) darüber, dass TurinCerts neue Identitäten geissued hat für Firmen Erasmus, World Health Organisation, UNESCO, Tokyo Metro Governement, ...
-39. 
+39. **IOTA Ökosystem**: [FOMO Fox Thread](https://x.com/FOMO_Fox/status/2000177246762570203?s=20) über ihr "Goodbye & A Big Thank-You!"
+40. **IOTA Hype**: [moon.iota tweetet](https://x.com/moonbaklava/status/2000544863868117454?s=20) ein Screenshot von Dom wo er von 3 Ländern spricht die TWIN und TLIP verwenden und 5 die ongeboarded werden und on TradeFi und Stablecoins auf IOTA
+41. **IOTA Hype**: Hier noch ein paar Aussagen von Dom: [Tweet 1](https://x.com/Vrom14286662/status/2000556124874125434?s=20); [Tweet 2](https://x.com/Vrom14286662/status/2000556139877224882?s=20)
