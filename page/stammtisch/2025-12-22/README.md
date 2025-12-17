@@ -10,6 +10,9 @@
 8. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2000868507093745674?s=20) ein Video über Adapt den auch [TWIN retweetet](https://x.com/TWINGlobalOrg/status/2000924949998170304?s=20)
 9.  **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/2000868512621871511?s=20) über den Blogpost: [Next Steps for ADAPT - Partnering on Trade Digitalization](https://blog.iota.org/next-steps-for-adapt/)
 10. **Crypto Adoption**: Western Union will "ON and Off Ramps" für Crypto ermöglichen: [Tweet](https://x.com/Vivek4real_/status/2001117701264245146?s=20)
-11. **Crypto Adoption**: Visa hat es US-Banken ermöglicht, Transaktionen mit Circles $USDC auf der Solana Blockchain abzuwickeln: [Tweet von Circle](https://x.com/circle/status/2000958579218768376?s=20); [Tweet von Solana](https://x.com/solana/status/2000927163982471324?s=20)
-12. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2000974203772686483?s=20) über [ObjectID - Digital twins for authentic and transparent products](https://www.iota.org/learn/showcases/objectID)
-13. 
+11. **Crypto Adoption**: Google Partnerschaft mit Mining Firma "HUT8": [Tweet](https://x.com/pete_rizzo_/status/2001267504795021323?s=20)
+12. **Crypto Adoption**: Visa hat es US-Banken ermöglicht, Transaktionen mit Circles $USDC auf der Solana Blockchain abzuwickeln: [Tweet von Circle](https://x.com/circle/status/2000958579218768376?s=20); [Tweet von Solana](https://x.com/solana/status/2000927163982471324?s=20)
+13. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2000974203772686483?s=20) über [ObjectID - Digital twins for authentic and transparent products](https://www.iota.org/learn/showcases/objectID)
+14. **IOTA Hopium**: Ein guter [Thread](https://x.com/Hamra_Insight/status/2000688140852269319?s=20) darüber, dass Testnetzaktivität noch nie zu großen Preissprüngen geführt hat. Hoffen wir mal dass die hohe [Aktivität im IOTA Testnetz](iotascan.com/testnet/analytics/transations) den gleichen langfristigen Effekt hat...
+15. **IOTA Event**: [Tweet mit Bildern](https://x.com/riseinweb3/status/2001242070967849036?s=20) vom IOTA Workshop in Jakarta
+16. **IOTA Tech**: Es gab ein IOTA Mainnet Update: [[Mainnet] v1.13.1](https://github.com/iotaledger/iota/releases/tag/v1.13.1) 
