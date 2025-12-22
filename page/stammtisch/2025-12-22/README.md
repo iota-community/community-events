@@ -12,13 +12,26 @@
 10. **Crypto Adoption**: Western Union will "ON and Off Ramps" für Crypto ermöglichen: [Tweet](https://x.com/Vivek4real_/status/2001117701264245146?s=20)
 11. **Crypto Adoption**: Google Partnerschaft mit Mining Firma "HUT8": [Tweet](https://x.com/pete_rizzo_/status/2001267504795021323?s=20)
 12. **Crypto Adoption**: Visa hat es US-Banken ermöglicht, Transaktionen mit Circles $USDC auf der Solana Blockchain abzuwickeln: [Tweet von Circle](https://x.com/circle/status/2000958579218768376?s=20); [Tweet von Solana](https://x.com/solana/status/2000927163982471324?s=20)
-13. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2000974203772686483?s=20) über [ObjectID - Digital twins for authentic and transparent products](https://www.iota.org/learn/showcases/objectID)
-14. **IOTA Promote**: [Uphold macht ein Thread](https://x.com/UpholdOTC/status/2001361342004097201?s=20) über IOTA
-15. **IOTA Hopium**: Ein guter [Thread](https://x.com/Hamra_Insight/status/2000688140852269319?s=20) darüber, dass Testnetzaktivität noch nie zu großen Preissprüngen geführt hat. Hoffen wir mal dass die hohe [Aktivität im IOTA Testnetz](iotascan.com/testnet/analytics/transations) den gleichen langfristigen Effekt hat...
-16. **IOTA Event**: [Tweet mit Bildern](https://x.com/riseinweb3/status/2001242070967849036?s=20) vom IOTA Workshop in Jakarta
-17. **IOTA Event**: [Tweet mit Video](https://x.com/riseinweb3/status/2001595737965236295?s=20) vom IOTA Workshop in Ho Chi Minh City
-18. **IOTA Tech**: Es gab ein IOTA Mainnet Update: [[Mainnet] v1.13.1](https://github.com/iotaledger/iota/releases/tag/v1.13.1)
-19. **IOTA Audio**:Es gab ein [Nanotallk](https://x.com/id_iota/status/2001350573300609158?s=20)
-20. **Crypto Adoption**: [Dom retweetet](https://x.com/DomSchiener/status/2001578090779054508?s=20) einen Artikel: [Crypto is Dead](https://x.com/DougieDeLuca/status/2000957512862884100?s=20)
-21. **Crypto Adoption**: Taiwan hat Bitcoin gekauft: [Tweet](https://x.com/pete_rizzo_/status/2001607967460696181?s=20)
-22. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/2001436688787079556?s=20) über ein Update von ihren [Staking Analytics](https://dlt.green/en/services/iota-staking-analytics#validator-trend)
+13. **Crypto Adoption**: TTaiwan hat $18 mio in Bitcoin: [Tweet](https://x.com/pete_rizzo_/status/2001607967460696181?s=20)
+14. **Crypto Adopition**: Trump verkündet, dass es ein Update gibt für das Finanzsystem basierend auf Crypto geben wird: [Tweet](https://x.com/wolff_ernst/status/2001603012138062197?s=20)
+15. **Crypto Adoption**: Trump spricht auch von der Strategischen Bitcoin Reserve in seiner Rede. Er jhat dazu eine executive Order unterschrieben: [Tweet](https://x.com/TrendingBitcoin/status/2001654432774176837?s=20)
+16. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2000974203772686483?s=20) über [ObjectID - Digital twins for authentic and transparent products](https://www.iota.org/learn/showcases/objectID)
+17. **IOTA Promote**: [Uphold macht ein Thread](https://x.com/UpholdOTC/status/2001361342004097201?s=20) über IOTA
+18. **IOTA Hopium**: Ein guter [Thread](https://x.com/Hamra_Insight/status/2000688140852269319?s=20) darüber, dass Testnetzaktivität noch nie zu großen Preissprüngen geführt hat. Hoffen wir mal dass die hohe [Aktivität im IOTA Testnetz](iotascan.com/testnet/analytics/transations) den gleichen langfristigen Effekt hat...
+19. **IOTA Event**: [Tweet mit Bildern](https://x.com/riseinweb3/status/2001242070967849036?s=20) vom IOTA Workshop in Jakarta
+20. **IOTA Event**: [Tweet mit Video](https://x.com/riseinweb3/status/2001595737965236295?s=20) vom IOTA Workshop in Ho Chi Minh City
+21. **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/2002081692761387076?s=20) über ein Binance-Event am 22. Dezember: [Builder Night l Seoul Summit: AI × Web3 x Stablecoin](https://luma.com/2u5ofykj)
+22. **IOTA Tech**: Es gab ein IOTA Mainnet Update: [[Mainnet] v1.13.1](https://github.com/iotaledger/iota/releases/tag/v1.13.1)
+23. **IOTA Audio**:Es gab ein [Nanotallk](https://x.com/id_iota/status/2001350573300609158?s=20)
+24. **IOTA Audio**: Es gab ein X-Space mit Jonathan: [Topic: Community Building, Partnerships, and Their Impact on the IOTA Ecosystem.](https://x.com/FavouritonX/status/2001914536358531115?s=20)
+25. **IOTA Video AMA**: Es gab ein [IOTA End of Year Session 2025 mit Dom Schiener](https://www.youtube.com/embed/3YJkPINLJIU?autoplay=1&auto_play=true), was abe reigentlich kein AMA war...
+26. **Crypto Adoption**: [Dom retweetet](https://x.com/DomSchiener/status/2001578090779054508?s=20) einen Artikel: [Crypto is Dead](https://x.com/DougieDeLuca/status/2000957512862884100?s=20)
+27. **Crypto Adoption**: Taiwan hat Bitcoin gekauft: [Tweet](https://x.com/pete_rizzo_/status/2001607967460696181?s=20)
+28. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/2001436688787079556?s=20) über ein Update von ihren [Staking Analytics](https://dlt.green/en/services/iota-staking-analytics#validator-trend); Später [tweetet DLT.GREEN](https://x.com/dlt_green/status/2001928030629834937?s=20) von einem weiteren Update
+29. **IOTA Adoption**: [Impierce Technologies tweetet](https://x.com/ImpierceTech/status/2001648499616866669?s=20) über ihren Sieg beim Moveathon und veröffentlichen ihren Blogpost: [Setting Credentials Free: Bridging the Gap to Everyday Trust](https://www.impierce.com/resources/setting-credentials-free-bridging-the-gap-to-everyday-trust); Auch [Jelle Milenar tweetet](https://x.com/JelleFm/status/2001653298672099686?s=20) darüber
+30. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2001698978992115942?s=20) nochmal über den 2,5 Milliarden Finanzierungs-"Gap" den SALUS schließen will und verlinken den Blogpost: [Salus - Closing the trade finance gap with tokenization](https://www.iota.org/learn/showcases/salus)
+31. **IOTA Adoption**: Scheinbar will HTX einen Validator laufen lassen: [Tweet](https://x.com/IotaRebased/status/2002350705995362575?s=20)
+32. **IOTA Ökosystem**: [Orobo tweetet](https://x.com/HelloOrobo/status/2002613293899567424?s=20) über ein Update ihrer Plattform und das ihre "Digital Product Passport-Plattform nun auf einer vollständig skalierbaren Architektur läuft – mit On-Chain-Identitäten, gesponserten Transaktionen und verifizierbaren Audit-Trails, getestet im realen Einsatz
+33. **IOTA Promote**: Binance schreibt über IOTA: [Africa’s Digital Trade Is Going Live And IOTA Is Becoming the Trust Layer](https://www.binance.com/en/square/post/33999019712570)
+34. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2003034357020213296?s=20) über den koreanischen Artikel: [Blockchain jenseits von Kryptowährungen: Digitalisierung des Welthandels](https://www.joongang.co.kr/article/25391591)
+35. **IOTA Promote**: [TWIN tweetet](https://x.com/TWINGlobalOrg/status/2001608382034186437?s=20) über die Pressemitteilung von Standard Chartered: [Standard Chartered’s Future of Trade: Digitalisation report highlights global corporates’ priority on building strong foundations before scaling innovation](https://www.sc.com/en/press-release/standard-chartereds-future-of-trade-digitalisation-report-highlights-global-corporates-priority-on-building-strong-foundations-before-scaling-innovation/)
