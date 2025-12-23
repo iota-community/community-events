@@ -254,5 +254,6 @@
 - [2025-12-08](./stammtisch/2025-12-08/README.md)
 - [2025-12-15](./stammtisch/2025-12-15/README.md)
 - [2025-12-22](./stammtisch/2025-12-22/README.md)
+- [2025-12-29](./stammtisch/2025-12-29/README.md)
 
 
