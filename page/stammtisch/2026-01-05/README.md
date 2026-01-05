@@ -10,5 +10,5 @@
 8. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2008112443491307608?s=20) über den doppelseitigen [Artikel im Koreanischen Economist](https://economist.co.kr/article/view/ecn202512310001); [Dom schreibt](https://x.com/DomSchiener/status/2008115138499355018?s=20) dazu: "It's time we raise more awareness in mainstream media about the groundbreaking work we are doing here at IOTA. We are on a mission to bring the real world onchain. Country by country, we are connecting the world through IOTAs digital infrastructure." und [Stefan spricht](https://x.com/iota_penguin/status/2008115330065870954?s=20) vom "Turning Point für IOTA... We are building infrastructure that solves problems far beyond web3."
 9. **Crypto Adoption**: Strategie kauft weiter 1287 Bitcoins ein: [Tweet](https://x.com/saylor/status/2008162324100640955?s=20)
 10. **IOTA Pump**: IOTA ist in der ersten Woche 2026 um 20% gestiegen: [iota auf Coinmarketcap.com](https://coinmarketcap.com/de/currencies/iota/)
-11. **IOTA Adoption**: Warum ist der Anstieg bei den "[Total Accounts im IOTA Mainnet](https://iotascan.com/mainnet/analytics/accounts/total%20accounts) plötzlich gestoppt?
+11. **IOTA Adoption**: Warum ist der exponentielle Anstieg bei den "[Total Accounts im IOTA Mainnet](https://iotascan.com/mainnet/analytics/accounts/total%20accounts) am 1.1.2026 plötzlich gestoppt?
 
