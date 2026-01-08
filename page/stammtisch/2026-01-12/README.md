@@ -11,4 +11,5 @@
 9. **IOTA Update**: Es gab ein Testnetz Pre-Release: [[Testnet] v1.14.0-rc](https://github.com/iotaledger/iota/releases/tag/v1.14.0-rc)
 10. **IOTA Ökosystem**: [kowei.iota retweetet](https://x.com/kowei1995/status/2008908969755169097?s=20) den [Tweet von IOTAGives](https://x.com/IotaGives/status/2008906805007520192?s=20), die über ihre Userzahlen bei [iota.gives](https://iota.gives/) schreiben
 11. **Crypto Adoption**: Rumble mit Bitcoin Wallet: [Tweet](https://x.com/BitcoinMagazine/status/2008877518900863131?s=20); [Tweet von Rumble](https://x.com/rumblevideo/status/2008872505184809141?s=20), [Video von Rumble](https://x.com/rumblevideo/status/2008878807915356416?s=20)
-12. 
+12. **IOTA Promote**: Die [If tweetet](https://x.com/iota/status/2006364722946261033?s=20) ein kurzes Recap-Video über IOTA 2025
+13. 
