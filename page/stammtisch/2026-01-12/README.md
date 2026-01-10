@@ -14,3 +14,13 @@
 12. **IOTA Promote**: Die [If tweetet](https://x.com/iota/status/2006364722946261033?s=20) ein kurzes Recap-Video über IOTA 2025
 13. **IOTA Ökosystem**: [Cyberperp tweetet](https://x.com/cyberperp/status/2009003404681728331?s=20) über ein Update
 14. **IOTA Promote**: [stefan.iota tweetet](https://x.com/iota_penguin/status/2009171508032061874?s=20) seine Einschätzung "...Long term winners will be projects built on business cases that address real-world problems..."
+15. **Crypto Drama**: Zcash Exit "Scam"? [Tweet](https://x.com/MissCryptoGER/status/2009287478893760986?s=20)
+16. **Crypto Adoption**: Florida mit Gesetzentwurf für Bitcoin Strategie: [Tweet](https://x.com/BitcoinMagazine/status/2009203391847944422?s=20)
+17. **Fiat Drama**: Trump will Kreditkart Zinsen auf 10% deckeln: [Tweet](https://x.com/RobynHD/status/2009900252522766394?s=20)
+18. **Crypto Adoption**: Michael Saylor war im Weißen Haus bei "SENATOR JIM JUSTICE": [Tweet](https://x.com/pete_rizzo_/status/2009253602792030424?s=20)
+19. **Crypto Adoption**: Crypto war Thema in der US-Pressekonferenz: [Tweet](https://x.com/0xNonceSense/status/2009641874987057241?s=20)
+20. **Crypto Adoption**: JPMorgan will wohl Bitcoin und Ethereum als Kollateral für Schulden erlauben: [Tweet](https://x.com/CryptoTice_/status/2009596015620354418?s=20)
+21. **IOTA Pump**: Es gab ein "fat finger (Price jumped to 0.1369 in minutes)" bei IOTA: [Tweet](https://x.com/IOTAmania/status/2009317128105787742?s=20)
+22. **IOTA Ökosystem**: [IOTANames tweetet](https://x.com/iotanames/status/2009701709518381174?s=20) ein Gewinnspiel und kündigt den baldingen Start von IOTANames an "The IOTA Names launch is closer than you might think."
+23. 
+24. 
