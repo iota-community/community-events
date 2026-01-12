@@ -29,3 +29,7 @@
 27. **Crypto Sentiment**: [MissCrypto tweetet](https://x.com/MissCryptoGER/status/2010248265770430841) optimistisch über die Entwicklungen in der USA wegen der US Midterms und spricht von dem "perfekten Makroumfeld" für Krypto
 28. **IOTA Ökosystem**: Die [IF tweetet](https://x.com/iota/status/2010622781415690252?s=20) über den Start von [IOTA Names](https://x.com/iotanames): "..iotanames is live today, providing human-readable names that make sending and receiving $IOTA and more a lot easier.."
 29. **IOTA Audio**: Es gab am 12.01. um 14 Uhr ein [X-Space Event zum Start von IOTA Names: BuildSphere #35 with IOTA Names](https://x.com/i/spaces/1MYGNlVYEZyxw?s=20)
+30. **IOTA Adoption**: [ID.iota tweetet](https://x.com/id_iota/status/2010664301372317936?s=20) über ein "Head of the NextGenTradePlatform in Korea" die auf [LinkesIn einen Post](https://www.linkedin.com/posts/chaemee_digital-trade-on-distributed-shared-data-activity-7409107469245026304-MS6T?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAOWfrEBfNn8v-Ltb_trYXWPIGnPIYYITfY) über IOTA und TWIN absetzt
+31. **Crypto Drama**: Dubai verbietet Privacy Coins: [Tweet](https://x.com/coinbureau/status/2010649020709138901?s=20)
+32. **Crypto Adoption**: Die Bank "standard chartered" steigt in Bitcoin Traidng ein: [Tweet](https://x.com/pete_rizzo_/status/2010679168913084496?s=20)
+33. **Crypto Adoption**: Strategie hat wieder Bitcoins gekauft: [Tweet](https://x.com/coinbureau/status/2010699516081766893?s=20)
