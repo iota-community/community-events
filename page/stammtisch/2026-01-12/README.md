@@ -22,5 +22,8 @@
 20. **Crypto Adoption**: JPMorgan will wohl Bitcoin und Ethereum als Kollateral für Schulden erlauben: [Tweet](https://x.com/CryptoTice_/status/2009596015620354418?s=20)
 21. **IOTA Pump**: Es gab ein "fat finger (Price jumped to 0.1369 in minutes)" bei IOTA: [Tweet](https://x.com/IOTAmania/status/2009317128105787742?s=20)
 22. **IOTA Ökosystem**: [IOTANames tweetet](https://x.com/iotanames/status/2009701709518381174?s=20) ein Gewinnspiel und kündigt den baldingen Start von IOTANames an "The IOTA Names launch is closer than you might think."
-23. 
-24. 
+23. **Fiat Drama**: Der FED chef meldet sich  zu den Vorwürfen: [Tweet](https://x.com/federalreserve/status/2010510130970849338?s=20)
+24. **Crypto Adoption**: X will jetzt Price Feeds für Cryptowährungen einführen. In diesem [Tweet](https://x.com/HugotoCrypto/status/2010615263738130446?s=20) wird spekuliert wie es weiter gehen könnte...
+25. **Crypto Sentiment**: [MissCrypto tweetet](https://x.com/MissCryptoGER/status/2010248265770430841) optimistisch über die Entwicklungen in der USA wegen der US Midterms und spricht von dem "perfekten Makroumfeld" für Krypto
+26. **IOTA Ökosystem**: Die [IF tweetet](https://x.com/iota/status/2010622781415690252?s=20) über den Start von [IOTA Names](https://x.com/iotanames): "..iotanames is live today, providing human-readable names that make sending and receiving $IOTA and more a lot easier.."
+27. **IOTA Audio**: Es gab am 12.01. um 14 Uhr ein [X-Space Event zum Start von IOTA Names: BuildSphere #35 with IOTA Names](https://x.com/i/spaces/1MYGNlVYEZyxw?s=20)
