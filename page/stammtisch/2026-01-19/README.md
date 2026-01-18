@@ -22,3 +22,10 @@
 20. **IOTA Ökosystem**: [vrom tweetet](https://x.com/Vrom14286662/status/2012077728489439725?s=20), dass man seine IOTAnames auch auf [www.tradeport.xyz](http://www.tradeport.xyz/) quasi wie ein NFT handeln kann
 21. **Crypto Adoption**: [Dom gratuliert USDT0](https://x.com/DomSchiener/status/2011856433592095129?s=20) zu ihrem [Announcement](https://x.com/USDT0_to/status/2011800713199051237?s=20), dass sie die schnellst wachsende Multichain Plattform für den US Stablecoin sind; Auch [Phylo retweetet](https://x.com/USDT0_to/status/2011800713199051237?s=20) das
 22. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/2012137006365630746?s=20) über ein [IOTA Improvement Proposal - Dynamic Minimum Commission based on the Validator's Voting Power per Epoch](https://github.com/iotaledger/IIPs/discussions/29)
+23. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/2012198984027185412?s=20) über die ersten Transaktionen auf dem IOTA Mainnet von [bolt_earth](https://x.com/bolt_earth), die scheinbar Teile ihrer E-Auto-Lade-Infrastruktur onchain bringen wollen; Hier noch ein [Tweet mit Video von Salima](https://x.com/Salimasbegum/status/2012241715134931339?s=20) dazu
+24. **Crypto Adoption**: Trump ist scheinbar stinksauer auf Coinbase: [Tweet](https://x.com/EleanorTerrett/status/2012344025802490208?s=20)
+25. **Crypto Adoption**: Solana hat scheinbar ein Problem mit den Node Incentives, weil es immer weniger Nodes werden: [Tweet](https://x.com/ripeth/status/2012234023288836151?s=20)
+26. **Crypto Promote**: Jamie Dimond spricht im Fernsehen sehr positiv über Crypto: [Tweet](https://x.com/UTXOTimes/status/2012139773218132346?s=20)
+27. **IOTA Adoption**: Neue Transaktionen von Salus wurden im IOTA Mainnet gefunden: [Tweet](https://x.com/id_iota/status/2012541824636768732?s=20)
+28. **Allg. News**: Das Tony Blair institut wurde beauftragt Gaza mit aufzubauen: [Tweet](https://x.com/InstituteGC/status/2012484557774139636?s=20)
+29. **IOTA Promote**: Artikel von Cigamatoi: [The WEF Just Put TWIN in Writing. That Changes Everything for Global Trade](https://x.com/Cigamatoi_iota/status/2012823205774245894?s=20)
