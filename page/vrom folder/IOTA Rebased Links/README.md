@@ -25,6 +25,7 @@
 8. Transaction Dashboard: [Dashboard](https://iota-transaction-origin-visualizer-448150412424.us-west1.run.app/)
 9. Staking Rewards Analytics for Taxes Calculation: [dlt.green/de/services/staking-explorer](https://dlt.green/en/services/staking-explorer#delegated)  (only for DLT.GREEN stakers)
 10. Stake Manager: [stake-manager.iota.guru](https://stake-manager.iota.guru/)
+11. IOTA Names Resolver: [pandabyte.net/iota/resolver](https://pandabyte.net/iota/resolver)
 
 ## Already working dApps for IOTA Rebased:
 1. DEX: [pools.finance](https://www.pools.finance/)
@@ -46,6 +47,9 @@
 17. Spamer auf IOTA Rebased: [iotaspam.io](https://iotaspam.io/)
 18. IOTA NFT: [apedao.io](https://apedao.io/)
 19. IOTA Referalprogram: [iota.liquidlink.io](https://iota.liquidlink.io/profile)
+20. Loyalty Program: [GiveReps](https://giverep.com/)
+10. Reputation Station: [repstation.xyz](https://repstation.xyz/)
+21. IOTA Names: [iotanames.com](iotanames.com)
 
 
 ## Upcoming dApps for IOTA Rebased:
@@ -55,9 +59,6 @@
 4. Stable Coin: [virtue.money](https://virtue.money/) already working in testnet on [staging.virtue.money](https://staging.virtue.money)
 6. Modular Web3 Service Suite: [etospheres.com]([https://x.com/ETOSPHERES](https://etospheres.com/)) to be announced on [x.com/ETOSPHERES](https://x.com/ETOSPHERES)
 7. LiquidLink ([liquidlink.io](https://liquidlink.io/)): [Tweet](https://x.com/Liquidlink_io/status/1920813848711622835)
-8. IOTAnames [iotanames.com](iotanames.com)
-9. Loyalty Program: [GiveReps](https://giverep.com/)
-10. Reputation Station: [repstation.xyz](https://repstation.xyz/)
 11. NFT Marketplace: [tradeport.xyz](https://www.tradeport.xyz/); [Tweet von TradePort](https://x.com/tradeportxyz/status/1978522182587191333)
 12. IOTA Musik App: [nakkitok.ddns.net](https://nakkitok.ddns.net/)
 13. DEX: [Cyberglow: the infrastructure IOTA deserves - No hype. No rush. Under construction](https://medium.com/@Cyberglowdex/cyberglow-the-infrastructure-iota-deserves-no-hype-no-rush-under-construction-614436509a20)
