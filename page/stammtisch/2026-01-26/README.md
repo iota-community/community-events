@@ -6,3 +6,4 @@
 4. **Crypto Adoption**: Die [New York Stok Exchange tweetet](https://x.com/NYSE/status/2013263835549819097?s=20) über ihren Artikel: [The New York Stock Exchange Develops Tokenized Securities Platform](https://www.businesswire.com/news/home/20260119300589/en/The-New-York-Stock-Exchange-Develops-Tokenized-Securities-Platform)
 5. **Crypto Adoption**: Angeblich will die Playstation Bitcoin und Crypto implementieren: [Tweet](https://x.com/Investments_CEO/status/2013457311231091103?s=20)
 6. **Crypto Adoption**: Strategy hat weitere 22,305 BTC für ~$2.13 Milliarden gekauft: [Tweet](https://x.com/saylor/status/2013598074652762294?s=20)
+7. **Crypto Event**: Eric Trump lädt die Crypto Gemeinde zu einem "World Liberty Forum" in Mar-A-Lago am 18. Februar: [Tweet](https://x.com/AltcoinDaily/status/2013736715798847712?s=20)
