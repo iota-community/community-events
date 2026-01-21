@@ -7,3 +7,7 @@
 5. **Crypto Adoption**: Angeblich will die Playstation Bitcoin und Crypto implementieren: [Tweet](https://x.com/Investments_CEO/status/2013457311231091103?s=20)
 6. **Crypto Adoption**: Strategy hat weitere 22,305 BTC für ~$2.13 Milliarden gekauft: [Tweet](https://x.com/saylor/status/2013598074652762294?s=20)
 7. **Crypto Event**: Eric Trump lädt die Crypto Gemeinde zu einem "World Liberty Forum" in Mar-A-Lago am 18. Februar: [Tweet](https://x.com/AltcoinDaily/status/2013736715798847712?s=20)
+8. **Crypto Adoption**: Fiat vs. Bitcoin (France central bank governor vs. [Brian Armstrong](https://x.com/brian_armstrong)) Showdown in Davos: [Tweet](https://x.com/gazza_jenks/status/2013925760357015594?s=20)
+9. **IOTA Ökosystem**: [Object ID tweetet](https://x.com/ObjectID_io/status/2013638428592656668?s=20) über ihren Post auf LinkedIn: [Notarized-by-Design Documents: How ObjectID Links Machine-Generated Data to a Real Company](https://www.linkedin.com/pulse/notarized-by-design-documents-how-objectid-links-machine-generated-envdf/)
+10. **IOTA Update**: Neues Update im Testnetz: [[Testnet] v1.15.0-rc](https://github.com/iotaledger/iota/releases/tag/v1.15.0-rc) "This release introduces protocol version 18" (-> Enables Passkey authentication on Testnet.)
+11. **IOTA Hackathon**: Die [IF tweetet](https://x.com/iota/status/2013941018656170359?s=20) über eine Hackathon: [MasterZ × IOTA Launch Europe’s Next Generation of Builders - Applications Close January 31, 2026](https://blog.iota.org/masterz-hackathon/)
