@@ -18,3 +18,5 @@
 16. **Crypto Adoption**: Standard Chartered spricht über stable coins und über das "complete rewirering of the banking and the whole financial systems": [Tweet](https://x.com/pete_rizzo_/status/2014174681226735905?s=20)
 17. **Crypto Adoption**: Eric Trump ist bullish and optimistic on Crypto: [Tweet](https://x.com/pete_rizzo_/status/2014313368690016677?s=20)
 18. **IOTA Video**: [Dom Schiener Video Interview](https://x.com/Wuhuoqiu/status/2014296040799936932?s=20)
+19. **Crypto Adoption**: Die Binance Founder war beim World Economic Forum in Davos: [Tweet](https://x.com/pete_rizzo_/status/2014338176651841868?s=20)
+20. **IOTA Promote**: [Dom Schiener tweetet](https://x.com/DomSchiener/status/2014342420998066191) einen Artikel: [IOTA Manifesto: The World Onchain ](https://x.com/DomSchiener/status/2014342420998066191)
