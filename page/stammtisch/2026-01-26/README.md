@@ -20,3 +20,5 @@
 18. **IOTA Video**: [Dom Schiener Video Interview](https://x.com/Wuhuoqiu/status/2014296040799936932?s=20)
 19. **Crypto Adoption**: Die Binance Founder war beim World Economic Forum in Davos: [Tweet](https://x.com/pete_rizzo_/status/2014338176651841868?s=20)
 20. **IOTA Promote**: [Dom Schiener tweetet](https://x.com/DomSchiener/status/2014342420998066191) einen Artikel: [IOTA Manifesto: The World Onchain ](https://x.com/DomSchiener/status/2014342420998066191)
+21. **IOTA Promote**: Die [IF macht einen Thread](https://x.com/iota/status/2014343474393342306?s=20) über das [IOTA Manifesto - The World Onchain](https://vision.iota.org/)
+22. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/2014351473325302025?s=20) einen Zwischenstand über den [Dynamic Minimum Commission based on the Validator's Voting Power per Epoch #29](https://github.com/iotaledger/IIPs/discussions/29)
