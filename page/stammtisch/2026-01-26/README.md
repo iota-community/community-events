@@ -26,6 +26,9 @@
 24. **Crypto Adoption**: Ledger will ein IPO auf der New York Stock Eschange machen: [Tweet](https://x.com/BitcoinArchive/status/2014680667108331773?s=20)
 25. **Crypto Adoption**: UBS will Crypto für 7 Milliarden User ermöglichen: [Tweet](https://x.com/WatcherGuru/status/2014653110711681192?s=20)
 26. **Crypto Adoption**: Das Bitcoin White Paper ist jetzt an der New York Exchange ausgestellt: [Tweet](https://x.com/pete_rizzo_/status/2014412563505647918?s=20)
-27. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/2014397079532057045?s=20) über klammheimliche Adoption von IOTA in ASEAN
-28. **IOTA Adoption**: Im [Manifesto von IOTA](https://manifesto.iota.org/) steht scheinbar auch etwas zur UK Adoption: [Tweet](https://x.com/mooniota/status/2014642513978724403?s=20)
-29. **IOTA Audio**: Es gab einen [Nanotalk #20](https://x.com/id_iota/status/2014061970090062150?s=20)
+27. **Crypto Adoption**: BitGo IPO und eine Bitcoin Dronen Show: [Tweet](https://x.com/BitcoinArchive/status/2014723961548902467?s=20)
+28. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/2014397079532057045?s=20) über klammheimliche Adoption von IOTA in ASEAN
+29. **IOTA Adoption**: Im [Manifesto von IOTA](https://manifesto.iota.org/) steht scheinbar auch etwas zur UK Adoption: [Tweet](https://x.com/mooniota/status/2014642513978724403?s=20)
+30. **IOTA Audio**: Es gab einen [Nanotalk #20](https://x.com/id_iota/status/2014061970090062150?s=20)
+31. **IOTA Adoption**: TWIN Artikel: [Q3-Q4 2025 & January 2026 - Main Development Progress](https://twindev.org/docs/q3-q4-2025-progress)
+32. **Crypto Adoption**: Binance beantragt EU-weite MICA Lizenz: [Tweet](https://x.com/WhaleInsider/status/2014639221491851507?s=20)
