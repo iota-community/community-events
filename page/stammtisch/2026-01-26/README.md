@@ -30,5 +30,13 @@
 28. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/2014397079532057045?s=20) über klammheimliche Adoption von IOTA in ASEAN
 29. **IOTA Adoption**: Im [Manifesto von IOTA](https://manifesto.iota.org/) steht scheinbar auch etwas zur UK Adoption: [Tweet](https://x.com/mooniota/status/2014642513978724403?s=20)
 30. **IOTA Audio**: Es gab einen [Nanotalk #20](https://x.com/id_iota/status/2014061970090062150?s=20)
-31. **IOTA Adoption**: TWIN Artikel: [Q3-Q4 2025 & January 2026 - Main Development Progress](https://twindev.org/docs/q3-q4-2025-progress)
-32. **Crypto Adoption**: Binance beantragt EU-weite MICA Lizenz: [Tweet](https://x.com/WhaleInsider/status/2014639221491851507?s=20)
+31. **IOTA Adoption**: Zwei Tweets fon AfCFTA über ihr Engagement beim WEF: [Tweet 1](https://x.com/AfCFTA/status/2014316033020981284?s=20); [Tweet 2](https://x.com/AfCFTA/status/2015412869001867608?s=20)
+32. **IOTA Adoption**: TWIN Artikel: [Q3-Q4 2025 & January 2026 - Main Development Progress](https://twindev.org/docs/q3-q4-2025-progress)
+33. **Crypto Adoption**: Binance beantragt EU-weite MICA Lizenz: [Tweet](https://x.com/WhaleInsider/status/2014639221491851507?s=20)
+34. **IOTA Promote**: Artikel von ApeDAO: [The Pragmatic Pivot: An Investment Thesis for IOTA](https://x.com/0xApeDAO/status/2014406278408282554?s=20)
+35. **IOTA Promote**: Artikel von Coinformania: [IOTA Targets $35T Trade Market With New Infrastructure Strategy](https://coinfomania.com/iota-targets-35t-trade-market-with-new-infrastructure-strategy/)
+36. **IOTA Promote**: Artikel von stock3: [IOTA im Umbruch: Warum das große Upgrade und neue Integrationen mehr sind als nur ein Hoffnungsschimmer](https://stock3.com/news/iota-im-umbruch-warum-das-grosse-upgrade-und-neue-integrationen-mehr-sind-als-nur-ein-hoffnungsschimmer-16889208)
+37. **IOTA Adoption**: [id.iota tweetet](https://x.com/id_iota/status/2015442707024371847?s=20) über sehr viele Transaktionen von pools.finance in den letzten Tagen
+38. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2015379122214654427?s=20) über ihre [Focus Areas - Explore our diverse focus areas leveraging DLT to address real business needs](https://www.iota.org/learn/focus-areas)
+39. **IOTA Promote**: IOTA ist wieder vorne dabei bei den [TOP PROJECTS BY DEVELOPMENT ACTIVITY GROWTH](https://x.com/chain_broker/status/2014744945471766696?s=20)
+40. **IOTA Audio**: Es gab einen spanischen Podcast: [Tweet](https://x.com/cryptovaquita/status/2015022308792881263?s=20); [Youtube mit Untertiteln](https://youtu.be/UkhiR2LjiGQ?si=C8sepoIZZUVUiSBo)
