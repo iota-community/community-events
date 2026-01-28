@@ -11,3 +11,4 @@
 9. **IOTA Promote**: [Karen O-Brian kommentiert](https://x.com/bondjanebond/status/2016323070303051898?s=20) unter der [Tweet von Jason (1Mio Follower)](https://x.com/Jason/status/2016152015051653543?s=20)
 10. **Crypto Adoption**: Keine Steuern auf Gewinne in der Schweiz: [Tweet](https://x.com/Vivek4real_/status/2016396077721886859?s=20)
 11. **IOTA Tech Update**: Neues Release: [[Mainnet] v1.15.0](https://github.com/iotaledger/iota/releases/tag/v1.15.0)
+12. **IOTA Promote**: Die Crypto Times schreibt einen Artikel: [IOTA’s $35T Pivot: From Speculation to Global Trade Trust Layer](https://www.cryptotimes.io/2026/01/23/iotas-35t-pivot-from-speculation-to-global-trade-trust-layer/)
