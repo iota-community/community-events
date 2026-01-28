@@ -10,5 +10,7 @@
 8. **Crypto Drama**: Der coinbase CEO sagt, dass die großen Banken das Crypto Gesetz verhindern/behindern wollen: [Tweet](https://x.com/CryptoTice_/status/2016119003522150870?s=20)
 9. **IOTA Promote**: [Karen O-Brian kommentiert](https://x.com/bondjanebond/status/2016323070303051898?s=20) unter der [Tweet von Jason (1Mio Follower)](https://x.com/Jason/status/2016152015051653543?s=20)
 10. **Crypto Adoption**: Keine Steuern auf Gewinne in der Schweiz: [Tweet](https://x.com/Vivek4real_/status/2016396077721886859?s=20)
-11. **IOTA Tech Update**: Neues Release: [[Mainnet] v1.15.0](https://github.com/iotaledger/iota/releases/tag/v1.15.0)
+11. **IOTA Tech Update**: Neues Release: [[Mainnet] v1.15.0](https://github.com/iotaledger/iota/releases/tag/v1.15.0); [[Testnet] v1.7.0-rc](https://github.com/iotaledger/iota/releases/tag/v1.7.0-rc)
 12. **IOTA Promote**: Die Crypto Times schreibt einen Artikel: [IOTA’s $35T Pivot: From Speculation to Global Trade Trust Layer](https://www.cryptotimes.io/2026/01/23/iotas-35t-pivot-from-speculation-to-global-trade-trust-layer/)
+13. **IOTA Promote**: Die [IF postet ein Video](https://x.com/iota/status/2016511584214958436?s=20) über RealFi und verlinkt das [IOTA Manifesto](https://manifesto.iota.org/)
+14. **IOTA Artikel**: [moon tweetet](https://x.com/mooniota/status/2016520159427485788?s=20) einen Artikel: [WEF is building it's own blockchain solution](https://x.com/mooniota/status/2016520159427485788?s=20)
