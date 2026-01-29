@@ -17,3 +17,4 @@
 15. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2016786356085596281?s=20) über [IOTA 2025–2026. A New Era of Innovation Built on a Decade of Progress](https://changenow.io/blog/iota-roadmap-team-interview)
 16. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2016828672859070708?s=20) über das [IOTA Manifesto](https://manifesto.iota.org/)
 17. **IOTA Promote**: Die [IF retweetet](https://x.com/ChangeNOW_io/status/2016760956592812113?s=20) den Artikel auf Change NOW: [IOTA 2025–2026. A New Era of Innovation Built on a Decade of Progress](https://changenow.io/blog/iota-roadmap-team-interview)
+18. **IOTA Promote**: IOTA ist um 1350% gestiegen bei dem DEVELOPMENT ACTIVITY GROWTH:[Tweet](https://x.com/chain_broker/status/2016571982008242222?s=20)
