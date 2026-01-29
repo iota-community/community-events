@@ -14,3 +14,4 @@
 12. **IOTA Promote**: Die Crypto Times schreibt einen Artikel: [IOTA’s $35T Pivot: From Speculation to Global Trade Trust Layer](https://www.cryptotimes.io/2026/01/23/iotas-35t-pivot-from-speculation-to-global-trade-trust-layer/)
 13. **IOTA Promote**: Die [IF postet ein Video](https://x.com/iota/status/2016511584214958436?s=20) über RealFi und verlinkt das [IOTA Manifesto](https://manifesto.iota.org/)
 14. **IOTA Artikel**: [moon tweetet](https://x.com/mooniota/status/2016520159427485788?s=20) einen Artikel: [WEF is building it's own blockchain solution](https://x.com/mooniota/status/2016520159427485788?s=20)
+15. **IOTA Promote**: Die [If tweetet](https://x.com/iota/status/2016786356085596281?s=20) über [IOTA 2025–2026. A New Era of Innovation Built on a Decade of Progress](https://changenow.io/blog/iota-roadmap-team-interview)
