@@ -22,3 +22,4 @@
 20. **Crypto Adoption**: Das Crypto Gesetz ist durch den Senat gegangen: [Tweet](https://x.com/BullTheoryio/status/2016915395714658795?s=20)
 21. **Crypto Adoption**: Der CEO von Tether will die goldenen Zentralbank werden. Sie kaufen wöchentlich ein bis zwei Tonnen Gold und haben derzeit 140 Tonnen Gold in einem Atombunker gelagert: [Tweet](https://x.com/coinbureau/status/2016364359535005870?s=20)
 22. **Gold Drama**: Gold, Silber und Bitcoin Crash am Donnerstag: [Tweet](https://x.com/barkmeta/status/2017024476282540250?s=20)
+23. **Crypto Adoption**: neuer FED Chef ist Pro Bitcoin: [Tweet](https://x.com/Vivek4real_/status/2017204398275936286?s=20)
