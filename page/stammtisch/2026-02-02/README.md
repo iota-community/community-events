@@ -18,3 +18,7 @@
 16. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2016828672859070708?s=20) über das [IOTA Manifesto](https://manifesto.iota.org/)
 17. **IOTA Promote**: Die [IF retweetet](https://x.com/ChangeNOW_io/status/2016760956592812113?s=20) den Artikel auf Change NOW: [IOTA 2025–2026. A New Era of Innovation Built on a Decade of Progress](https://changenow.io/blog/iota-roadmap-team-interview)
 18. **IOTA Promote**: IOTA ist um 1350% gestiegen bei dem DEVELOPMENT ACTIVITY GROWTH:[Tweet](https://x.com/chain_broker/status/2016571982008242222?s=20)
+19. **IOTA Adoption**: [TWIN tweetet](https://x.com/TWINGlobalOrg/status/2016873970440560900?s=20) über ein Update von ihrem Whitepaper; [Salima tweetet](https://x.com/Salimasbegum/status/2016939388568240606?s=20) darüber ihre Einschätzung
+20. **Crypto Adoption**: Das Crypto Gesetz ist durch den Senat gegangen: [Tweet](https://x.com/BullTheoryio/status/2016915395714658795?s=20)
+21. **Crypto Adoption**: Der CEO von Tether will die goldenen Zentralbank werden. Sie kaufen wöchentlich ein bis zwei Tonnen Gold und haben derzeit 140 Tonnen Gold in einem Atombunker gelagert: [Tweet](https://x.com/coinbureau/status/2016364359535005870?s=20)
+22. **Gold Drama**: Gold, Silber und Bitcoin Crash am Donnerstag: [Tweet](https://x.com/barkmeta/status/2017024476282540250?s=20)
