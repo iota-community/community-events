@@ -4,7 +4,7 @@
 2. **IOTA Promote**: Artikel auf CmC: [IOTA shifts focus from Crypto speculation to global trade](https://coinmarketcap.com/community/articles/697321fdbb16946c502e56f1/); Hier noch ein [Tweet von der IF](https://x.com/iota/status/2017191062322754000?s=20) darüber
 3. **IOTA Hackathon**: Die [IF tweetet](https://x.com/iota/status/2016085500151443645?s=20) über [The first European Web3 Hackathon is Here](https://www.masterzblockchain.com/en/masterz-iota)
 4. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/2016149197536338196?s=20) über den IF Blogpost: [Introducing ...](https://blog.iota.org/kalalohko-joins-iota-bip/)
-5. **IOTA Video**: [Karen O-Brian tweetet](https://x.com/bondjanebond/status/2016355172717387827?s=20) über ihr [Video Interview mit CoinDesk]( https://www.youtube.com/embed/Z1qvW6H5urY?autoplay=1&auto_play=true)
+5. **IOTA Video**: [Karen O-Brian tweetet](https://x.com/bondjanebond/status/2016355172717387827?s=20) über ihr [Video Interview mit CoinDesk]( https://www.youtube.com/embed/Z1qvW6H5urY?autoplay=1&auto_play=true); Auch [CoinDesk tweetet](https://x.com/CoinDeskPodcast/status/2017636492101742981?s=20) darüber
 6. **IOTA Promote**: [Salima tweetet](https://x.com/Salimasbegum/status/2016304745862795460?s=20) eine Zusammenfassung von dem Interview aus Punkt 5
 7. **IOTA Artikel**: [IOTAevents tweetet]() einen Artikel: Why Communities Are Essential In Web3 And Beyond](https://x.com/iotashop/status/2016155122603053168?s=20)
 8. **Crypto Drama**: Der coinbase CEO sagt, dass die großen Banken das Crypto Gesetz verhindern/behindern wollen: [Tweet](https://x.com/CryptoTice_/status/2016119003522150870?s=20)
@@ -23,3 +23,15 @@
 21. **Crypto Adoption**: Der CEO von Tether will die goldenen Zentralbank werden. Sie kaufen wöchentlich ein bis zwei Tonnen Gold und haben derzeit 140 Tonnen Gold in einem Atombunker gelagert: [Tweet](https://x.com/coinbureau/status/2016364359535005870?s=20)
 22. **Gold Drama**: Gold, Silber und Bitcoin Crash am Donnerstag: [Tweet](https://x.com/barkmeta/status/2017024476282540250?s=20)
 23. **Crypto Adoption**: neuer FED Chef ist Pro Bitcoin: [Tweet](https://x.com/Vivek4real_/status/2017204398275936286?s=20)
+24. **Allg. Drama**: Es wurden weitere Epstein Files veröffentlicht: [justice.gov/epstein/doj-disclosures](https://www.justice.gov/epstein/doj-disclosures)
+25. **Crypto Adaption**: Crypto Summit im Whitehouse am Montag 2.2.2026: [Tweet](https://x.com/PaulGoldEagle/status/2017670226083791112?s=20)
+26. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/2017673811077038523?s=20) eine Zusammenfassung von dem Stand des IIPs: [IOTA Improvement Proposal - Dynamic Minimum Commission based on the Validator's Voting Power per Epoch](https://github.com/iotaledger/IIPs/discussions/29)
+27. **IOTA Ökosystem**: [TokenLabs tweetet](https://x.com/TokenLabsX/status/2017885023056105794?s=20) über vIOTA, ihrer liquid Staking Alternative, wo man selbst den Validator wählen kann
+28. **IOTA Ökosystem**: [Tweet](https://x.com/IotaRebased/status/2017918347749228576?s=20) darüber, dass das Nightly Wallet jetzt auch IOTANames implementiert hat
+29. **IOTA Aktivität**: [Tweet](https://x.com/id_iota/status/2017961136554222059?s=20) über die steigende DeFi Aktivität bei IOTA; Und auch ein [Tweet](https://x.com/whatmicha/status/2017984915258659186?s=20) über erhöhte Testnetz Aktivität bei IOTA
+30. **IOTA Ökosystem**: [Orobo tweetet](https://x.com/HelloOrobo/status/2018198354308771933?s=20), dass sie gewonnen haben bei einem [GS1 Hackathon 2025](https://www.gs1hk.org/iotdatahackathon/2025) in Hongkong
+31. **IOTA Promote**: [Cigamatoi tweetet](https://x.com/Cigamatoi_iota/status/2017673448038998100?s=20) einen super Einführungsartikel über IOTA: [ELi12 IOTA - How IOTA Really Works After Rebased](https://x.com/Cigamatoi_iota/status/2017673448038998100?s=20)
+32. **IOTA Adoption**: [JumboBlock tweetet](https://x.com/jumboblock_de/status/2016842403328524474?s=20) über ihre Hochwasser-Lösung mit "IOTA Inside"
+33. **IOTA Ökosystem**: Nach der krassen Gold und Silber Rally [tweetet cyberperp](https://x.com/cyberperp/status/2017337255505850844?s=20), dass sie jetzt auch XAU (Gold) und XAG (Silber) integriert haben auf [cyberperp.io](https://cyberperp.io/)
+34. **IOTA Adoption**: [Kurt Tangle tweetet](https://x.com/kurt_tangle/status/2017720749398614040?s=20) Spekualtionen über eine Beteiligung beim Handel zwischen Irland und der UK.Er bezieht sich auch dieses [Governance Framework for the Evolution of UK Cross-Border Trade Ecosystem](https://openresearch.surrey.ac.uk/esploro/outputs/report/Governance-Framework-for-the-Evolution-of/991006865402346?institution=44SUR_INST) 
+35. 
