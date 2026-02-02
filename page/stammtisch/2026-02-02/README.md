@@ -36,3 +36,4 @@
 35. **IOTA Adoption**: [Kurt Tangle tweetet](https://x.com/kurt_tangle/status/2017720749398614040?s=20) seine Spekualtionen über eine Beteiligung beim Handel zwischen Irland und der UK. Er bezieht sich auf dieses [Governance Framework for the Evolution of UK Cross-Border Trade Ecosystem](https://openresearch.surrey.ac.uk/esploro/outputs/report/Governance-Framework-for-the-Evolution-of/991006865402346?institution=44SUR_INST) 
 36. **IOTA Quicktakes**: Die [IF macht einen Thread](https://x.com/iota/status/2018263125275857272?s=20) über die [IOTA Quicktakes](https://x.com/iota/status/2018263125275857272?s=20)
 37. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2018295459366793536?s=20) über das [IOTA Manifesto: The World Onchain](https://blog.iota.org/iota-manifesto/)
+38. **IOTA Development**: Update: [Visual Studio Code>Programming Languages>IOTA Move](https://marketplace.visualstudio.com/items?itemName=iotaledger.iota-move)
