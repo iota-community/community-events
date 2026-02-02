@@ -6,7 +6,7 @@
 4. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/2016149197536338196?s=20) über den IF Blogpost: [Introducing ...](https://blog.iota.org/kalalohko-joins-iota-bip/)
 5. **IOTA Video**: [Karen O-Brian tweetet](https://x.com/bondjanebond/status/2016355172717387827?s=20) über ihr [Video Interview mit CoinDesk]( https://www.youtube.com/embed/Z1qvW6H5urY?autoplay=1&auto_play=true); Auch [CoinDesk tweetet](https://x.com/CoinDeskPodcast/status/2017636492101742981?s=20) darüber
 6. **IOTA Promote**: [Salima tweetet](https://x.com/Salimasbegum/status/2016304745862795460?s=20) eine Zusammenfassung von dem Interview aus Punkt 5
-7. **IOTA Artikel**: [IOTAevents tweetet]() einen Artikel: Why Communities Are Essential In Web3 And Beyond](https://x.com/iotashop/status/2016155122603053168?s=20)
+7. **IOTA Artikel**: [IOTAevents tweetet](https://x.com/iotashop/status/2016155122603053168?s=20) einen Artikel: [Why Communities Are Essential In Web3 And Beyond](https://x.com/iotashop/status/2016155122603053168?s=20)
 8. **Crypto Drama**: Der coinbase CEO sagt, dass die großen Banken das Crypto Gesetz verhindern/behindern wollen: [Tweet](https://x.com/CryptoTice_/status/2016119003522150870?s=20)
 9. **IOTA Promote**: [Karen O-Brian kommentiert](https://x.com/bondjanebond/status/2016323070303051898?s=20) unter der [Tweet von Jason (1Mio Follower)](https://x.com/Jason/status/2016152015051653543?s=20)
 10. **Crypto Adoption**: Keine Steuern auf Gewinne in der Schweiz: [Tweet](https://x.com/Vivek4real_/status/2016396077721886859?s=20)
@@ -18,7 +18,7 @@
 16. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2016828672859070708?s=20) über das [IOTA Manifesto](https://manifesto.iota.org/)
 17. **IOTA Promote**: Die [IF retweetet](https://x.com/ChangeNOW_io/status/2016760956592812113?s=20) den Artikel auf Change NOW: [IOTA 2025–2026. A New Era of Innovation Built on a Decade of Progress](https://changenow.io/blog/iota-roadmap-team-interview)
 18. **IOTA Promote**: IOTA ist um 1350% gestiegen bei dem DEVELOPMENT ACTIVITY GROWTH:[Tweet](https://x.com/chain_broker/status/2016571982008242222?s=20)
-19. **IOTA Adoption**: [TWIN tweetet](https://x.com/TWINGlobalOrg/status/2016873970440560900?s=20) über ein Update von ihrem Whitepaper; [Salima tweetet](https://x.com/Salimasbegum/status/2016939388568240606?s=20) darüber ihre Einschätzung
+19. **IOTA Adoption**: [TWIN tweetet](https://x.com/TWINGlobalOrg/status/2016873970440560900?s=20) über ein Update von ihrem Whitepaper; [Salima tweetet](https://x.com/Salimasbegum/status/2016939388568240606?s=20) darüber ihre Einschätzung und die [IF macht einen Thread](https://x.com/iota/status/2018263130988564585?s=20) darüber
 20. **Crypto Adoption**: Das Crypto Gesetz ist durch den Senat gegangen: [Tweet](https://x.com/BullTheoryio/status/2016915395714658795?s=20)
 21. **Crypto Adoption**: Der CEO von Tether will die goldenen Zentralbank werden. Sie kaufen wöchentlich ein bis zwei Tonnen Gold und haben derzeit 140 Tonnen Gold in einem Atombunker gelagert: [Tweet](https://x.com/coinbureau/status/2016364359535005870?s=20)
 22. **Gold Drama**: Gold, Silber und Bitcoin Crash am Donnerstag: [Tweet](https://x.com/barkmeta/status/2017024476282540250?s=20)
@@ -34,4 +34,4 @@
 32. **IOTA Adoption**: [JumboBlock tweetet](https://x.com/jumboblock_de/status/2016842403328524474?s=20) über ihre Hochwasser-Lösung mit "IOTA Inside"
 33. **IOTA Ökosystem**: Nach der krassen Gold und Silber Rally [tweetet cyberperp](https://x.com/cyberperp/status/2017337255505850844?s=20), dass sie jetzt auch XAU (Gold) und XAG (Silber) integriert haben auf [cyberperp.io](https://cyberperp.io/)
 34. **IOTA Adoption**: [Kurt Tangle tweetet](https://x.com/kurt_tangle/status/2017720749398614040?s=20) Spekualtionen über eine Beteiligung beim Handel zwischen Irland und der UK.Er bezieht sich auch dieses [Governance Framework for the Evolution of UK Cross-Border Trade Ecosystem](https://openresearch.surrey.ac.uk/esploro/outputs/report/Governance-Framework-for-the-Evolution-of/991006865402346?institution=44SUR_INST) 
-35. 
+35. **IOTA Quicktakes**: Die [IF macht einen Thread](https://x.com/iota/status/2018263125275857272?s=20) über die [IOTA Quicktakes](https://x.com/iota/status/2018263125275857272?s=20)
