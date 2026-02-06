@@ -28,4 +28,8 @@
 26. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/2019115523233956064?s=20) über ein Update von ihrem Staking Report und ihrer Webseite
 27. **Crypto Crash**: Bitcoin fällt am Donnerstag auf 60K EURO und die [IF tweetet](https://x.com/iota/status/2019320090190041336?s=20), dass IOTA die "Glaubwürdigkeitslücke der Kryptoindustrie überwunden hat und verfolgt eine fokussierte Strategie verfolgt, um die reale Welt durch eine vertrauenswürdige, regulierte und skalierbare Infrastruktur auf die Blockchain zu bringen.
 28. **IOTA Promote**: IOTA steigt mal wieder um 1210% bei den "DEVELOPMENT ACTIVITY GROWTH": [Tweet](https://x.com/chain_broker/status/2019108696278680055?s=20)
-29. 
+29. **IOTA Ökosystem**: [TokenLabs tweetet](https://x.com/TokenLabsX/status/2019361472476832112?s=20), dass vIOTA live ist auf [tokenlabs.network](http://tokenlabs.network/); Hier ein [Video von vrom](https://x.com/Vrom14286662/status/2019384997984026804?s=20) wie das funktioniert
+30. **IOTA Promote**: [Karen O'Brian tweetet](https://x.com/bondjanebond/status/2019366848806998050?s=20) über den Artikel: [Top Global Trade Trends Shaping Markets in 2026](https://www.globaltrademag.com/top-global-trade-trends-shaping-markets-in-2026/)
+31. **IOTA DeFi**: [Salima tweetet](https://x.com/Salimasbegum/status/2019459334376218635?s=20) über "IOTA Foundation is putting all its effort right now, the answer is clear: USDT"; Hier noch ein [Tweet von Salima](https://x.com/Salimasbegum/status/2019465285523370144?s=20) darüber warum sich die IF für USDT entschieden hat
+32. **Crypto Crash**: Bitcoin crashed am Donnerstag auf 55.000 EUR; IOTA hält sich dagegen sogar noch relativ gut...
+33. **IOTA Adoption**: [TrademarkAfrica tweetet](https://x.com/TradeMarkAfrica/status/2019418232483148238?s=20), dass sie sich mit einer EU Delegation getroffen haben
