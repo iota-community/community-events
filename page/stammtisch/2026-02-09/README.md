@@ -33,3 +33,5 @@
 31. **IOTA DeFi**: [Salima tweetet](https://x.com/Salimasbegum/status/2019459334376218635?s=20) über "IOTA Foundation is putting all its effort right now, the answer is clear: USDT"; Hier noch ein [Tweet von Salima](https://x.com/Salimasbegum/status/2019465285523370144?s=20) darüber warum sich die IF für USDT entschieden hat
 32. **Crypto Crash**: Bitcoin crashed am Donnerstag auf 55.000 EUR; IOTA hält sich dagegen sogar noch relativ gut...
 33. **IOTA Adoption**: [TrademarkAfrica tweetet](https://x.com/TradeMarkAfrica/status/2019418232483148238?s=20), dass sie sich mit einer EU Delegation getroffen haben
+34. **IOTA Promote**: [TradeFlow Capital tweetet](https://x.com/TradeflowM/status/2019346024112820692?s=20) über den Artikel: [IOTA Deploys Blockchain Infrastructure Across Government Trade Systems in Kenya and UK](https://blockonomi.com/iota-deploys-blockchain-infrastructure-across-government-trade-systems-in-kenya-and-uk/)
+35. 
