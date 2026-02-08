@@ -34,4 +34,8 @@
 32. **Crypto Crash**: Bitcoin crashed am Donnerstag auf 55.000 EUR; IOTA hält sich dagegen sogar noch relativ gut...
 33. **IOTA Adoption**: [TrademarkAfrica tweetet](https://x.com/TradeMarkAfrica/status/2019418232483148238?s=20), dass sie sich mit einer EU Delegation getroffen haben
 34. **IOTA Promote**: [TradeFlow Capital tweetet](https://x.com/TradeflowM/status/2019346024112820692?s=20) über den Artikel: [IOTA Deploys Blockchain Infrastructure Across Government Trade Systems in Kenya and UK](https://blockonomi.com/iota-deploys-blockchain-infrastructure-across-government-trade-systems-in-kenya-and-uk/)
-35. 
+35. **IOTA Ökosystem**: [TokenLabs tweetet](https://x.com/TokenLabsX/status/2020040554768187405?s=20) über ein neue Feature, wo man einfacher "unstaken" kann (auch nur ein Teil vom Gesamtstake)
+36. **IOTA Ökosystem**: [TokenLabs tweetet](https://x.com/TokenLabsX/status/2020401086071529539?s=20), dass neue vIOTA/TLN Farms live sind auf [tokenlabs.network](https://tokenlabs.network/)
+37. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2020090161766285327?s=20) über das "$2.5-3.5T trade finance gap" und verlinken das [IOTA Manifesto](https://blog.iota.org/iota-manifesto/)
+38. **IOTA Adoption**: Auf LinkedIn schreibt ein Mitglied vom WEF über IOTA und darüber, dass die regulatorischen Hindernisse überwunden sind und es jetzt um die Implementierung geht in Afrika (AfCFTA): [Tweet](https://x.com/whatmicha/status/2019753685920739644?s=20)
+39. 
