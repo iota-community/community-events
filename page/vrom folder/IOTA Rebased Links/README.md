@@ -84,6 +84,7 @@
 9. Supply Chain: EU-funded project MISSION (MaritIme juSt in time optimiSatION): [Tweet](https://x.com/Cigamatoi/status/1968600261145846001)
 10. RWA Usecase: [salusplatform.com](https://www.salusplatform.com/) "Digital Trade Finance for Critical Minerals"
 11. E-Autos Lade Infrastruktur (Charge Frog): [Tweet](https://x.com/Salimasbegum/status/2012241715134931339?s=20)
+12. Investieren in Kaffee Plantage: [seedlot.io](https://seedlot.io/)
 
 
 # For IOTA Developer:
