@@ -15,3 +15,4 @@
 13. **IOTA Promote**: [Kurt Tangle tweetet](https://x.com/kurt_tangle/status/2023918975952839065?s=20) über [Next-generation trade corridors](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://iccwbo.uk/wp-content/uploads/2025/10/Next-Generation-Trade-Corridors.pdf)
 14. **IOTA Development**: Das automatische Staking bei TokenLabs wurde jetzt auf viele Validatoren umverteilt um die Dezentralisierung zu stärken: [Tweet](https://x.com/TokenLabsX/status/2023020875562328353?s=20); Zu sehen auf [mainnet.iota.guru](https://mainnet.iota.guru/)
 15. **Crypto Adoption**: Trump will soon das Crypto Gesetz unterschreiben: [Tweet](https://x.com/cryptofergani/status/2024186567477035508?s=20)
+16. **Crypto Event**: Großes Crypto Event in Mar-a-lago (WLFI) mit Eric Trump hat stattgefunden: [Tweet](https://x.com/EricTrump/status/2024137624030499326?s=20); Auch der FiFa Präsident spricht dort: [Tweet](https://x.com/pete_rizzo_/status/2023952358854566343?s=20)
