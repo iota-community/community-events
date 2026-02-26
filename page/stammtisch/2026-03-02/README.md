@@ -10,4 +10,7 @@
 8. **IOTA Adoption**: [Kurt Tangle tweetet](https://x.com/kurt_tangle/status/2026293809760313744?s=20) über "The UK's Single Trade Window (STW) project" und den Artikel: [UK shelves £110m frictionless post-Brexit trade border project](https://www.theguardian.com/business/2026/feb/17/uk-frictionless-post-brexit-trade-border-project)
 9. **IOTA Adoption**: Das [Global Blockchain Buisiness Council tweetet](https://x.com/GBBC_io/status/2026741488617701843?s=20) über [New UK partnership brings TWIN digital trade solution live](https://pr.slicedbrand.com/iota/teesside); Hier ein paar [Spekulationen von Kurt Tangle](https://x.com/kurt_tangle/status/2026787014503215113?s=20) dazu
 10. **IOTA Ökosystem**: [Object.ID tweetet](https://x.com/ObjectID_io/status/2026703510889201748?s=20) über ihren [LinkedIn Post - Introducing ObjectID – GS1 Integration Hub](https://www.linkedin.com/pulse/introducing-objectid-gs1-integration-hub-objectid-mainc/)
-11. 
+11. **IOTA Promote**: [Luganonodes macht ein Thread](https://x.com/luganodes/status/2026658567672181011?s=20) über IOTA
+12. **IOTA Adoption**: [Kurt Tangle tweetet](https://x.com/kurt_tangle/status/2027008053267099905?s=20) über einen Post von Jens Munch Lund Nielsen über Meeting zur Kenya Adoption
+13. **IOTA Event**: [Tweet](https://x.com/IotaRebased/status/2026982787824173120?s=20) über ein Event von Turing Certs am 16. März
+14. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/2027020833659506873?s=20) über den Hackathon und über den Blogpost: [Build Now Contest Reveals Builder Momentum - Mid-Term Milestone of the MasterZ × IOTA Hackathon](https://blog.iota.org/build-now-masterz-hackathon/)
