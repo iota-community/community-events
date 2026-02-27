@@ -14,4 +14,6 @@
 12. **IOTA Adoption**: [Kurt Tangle tweetet](https://x.com/kurt_tangle/status/2027008053267099905?s=20) über einen Post von Jens Munch Lund Nielsen über Meeting zur Kenya Adoption
 13. **IOTA Event**: [Tweet](https://x.com/IotaRebased/status/2026982787824173120?s=20) über ein Event von Turing Certs am 16. März
 14. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/2027020833659506873?s=20) über den Hackathon und über den Blogpost: [Build Now Contest Reveals Builder Momentum - Mid-Term Milestone of the MasterZ × IOTA Hackathon](https://blog.iota.org/build-now-masterz-hackathon/)
-15. **IOTA Audio**: Neuer [Nano Talk #23](https://x.com/id_iota/status/2027028967639708040?s=20)
+15. **IOTA Drama**: [Dom tweetet](https://x.com/DomSchiener/status/2027062992110502208?s=20) über die Epstein Files, weil Epstein sich in einer E-Mail über IOTA geäußert hatte
+16. 
+17. **IOTA Audio**: Neuer [Nano Talk #23](https://x.com/id_iota/status/2027028967639708040?s=20)
