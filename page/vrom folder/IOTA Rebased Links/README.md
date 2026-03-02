@@ -27,6 +27,7 @@
 9. Staking Rewards Analytics for Taxes Calculation: [dlt.green/de/services/staking-explorer](https://dlt.green/en/services/staking-explorer#delegated)  (only for DLT.GREEN stakers)
 10. Stake Manager: [stake-manager.iota.guru](https://stake-manager.iota.guru/)
 11. IOTA Names Resolver: [pandabyte.net/iota/resolver](https://pandabyte.net/iota/resolver)
+12. IOTA Tx Visualizer: [https://iotatools.dev/#/txs-visualizer...t](https://iotatools.dev/#/txs-visualizer?network=mainnet)
 
 ## Already working dApps for IOTA Rebased:
 1. DEX: [pools.finance](https://www.pools.finance/)
