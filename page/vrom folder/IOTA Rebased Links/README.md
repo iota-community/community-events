@@ -106,4 +106,5 @@
 15. Reputation Protocol: [repstation.xyz](https://repstation.xyz/)
 16. IOTA Rebased SDK: [npmjs.com/package/@iota/dapp-kit](https://www.npmjs.com/package/@iota/dapp-kit)
 17. IOTA Developer Playground: [iotaplay.app](https://iotaplay.app/) ("The fastest way to build & test IOTA Move contracts on browser!")
+18. IOTA Integration Stack: [A Stack to Power the World](https://github.com/iotaledger); [Thread darüber](https://x.com/muyamipesar/status/2027887796841553989?s=20)
 
