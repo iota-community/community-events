@@ -4,3 +4,5 @@
 2. **IOTA Ökosystem**: [overclocked tweetet](https://x.com/overclocksalmon/status/2028716305269113112?s=20) darüber, dass sie morgen starten mit [Nasun](https://x.com/Nasun_io)
 3. **IOTA Exchange**: Die [IF tweetet](https://x.com/iota/status/2028515680857784490?s=20) über [IOTA Available on Bullish](https://blog.iota.org/bullish-integration/)
 4. **IOTA Ökosystem**: [Cyberperp tweetet](https://x.com/cyberperp/status/2028512032941613338?s=20) über ihre V2 Plattform die bald startet (auf der IOTA EVM)
+5. **IOTA Adoption**: [Kurt Tangle tweetet](https://x.com/kurt_tangle/status/2028767507113185284?s=20) über ein Event (National Trade Sector Review Conference) am 2.3. März in Uganda und spekuliert, dass IOTA dort eine Rolle spielen könnte
+6. 
