@@ -20,3 +20,4 @@
 18. **Crypto Adoption**: Trump hat den Coinbase CEO getroffen: [Tweet](https://x.com/coinbureau/status/2029067345055105162?s=20)
 19. **Crypto Adoption**: Trump spricht über das Crypto Gesetz was er bald unterschreiben will: [Tweet](https://x.com/Bitcoinprof0637/status/2029202978234646970?s=20), [Tweet](https://x.com/Vivek4real_/status/2029362004591350029?s=20)
 20. **IOTA Promote**: [17 Tweets](https://x.com/Horus_BRB/status/2029519687856373914?s=20) warum die Adaption bei IOTA zu höhreren Kursen führen wird
+21. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2029225272776536390?s=20) über den Artikel: [Tokenizing Global Trade Flows. How IOTA Brings Real-World Assets into Supply Chains](https://changenow.io/blog/iota-twin-rwa)
