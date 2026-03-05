@@ -13,4 +13,10 @@
 11. **IOTA Event**: [Tweet](https://x.com/kurt_tangle/status/2028900818766757974?s=20) über ein Tether Event mit IOTA Inside am 10.-12- März
 12. **IOTA Adoption**: Die [IF retweetet](https://x.com/iota/status/2029160807624294566?s=20) einen Post über Turing Certs, die Niederlande beim Forum InCyber ​​in Lille vertreten werden mit ihrer ID auf IOTA Basis
 13. **IOTA Adoption**: Die [Zanni Group tweetet](https://x.com/GroupZanni/status/2029150706670956934?s=20) über ihr "Module for Data Secure Transmission System (DSTS)) mit IOTA inside
-14. 
+14. **Crypto Adoption**: Cardano kann man jetzt in 137 SPAR Märkten in der Schweiz verwenden: [Tweet](https://x.com/Cardanians_io/status/2029527462485328177?s=20)
+15. **IOTA Adoption**: [ID.iota tweetet](https://x.com/id_iota/status/2029478008956788857?s=20) über erhöhte DeFi Aktivität bei IOTA
+16. **Crypto Adoption**: Man kann sich jetzt einen Lambo kaufen in den USA mit Bitcoin: [Tweet](https://x.com/Vivek4real_/status/2029139222494667246?s=20)
+17. **Crypto Adoption**: Morgan Stanley beantragt eigenen Bitcoin ETF: [Tweet](https://x.com/MissCryptoGER/status/2029244228866343339?s=20)
+18. **Crypto Adoption**: Trump hat den Coinbase CEO getroffen: [Tweet](https://x.com/coinbureau/status/2029067345055105162?s=20)
+19. **Crypto Adoption**: Trump spricht über das Crypto Gesetz was er bald unterschreiben will: [Tweet](https://x.com/Bitcoinprof0637/status/2029202978234646970?s=20), [Tweet](https://x.com/Vivek4real_/status/2029362004591350029?s=20)
+20. **IOTA Promote**: [17 Tweets](https://x.com/Horus_BRB/status/2029519687856373914?s=20) warum die Adaption bei IOTA zu höhreren Kursen führen wird
