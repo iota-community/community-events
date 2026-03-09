@@ -40,3 +40,4 @@
 38. **IOTA Science**: [Kurt Tangle tweetet](https://x.com/kurt_tangle/status/2030773224175542772?s=20) über ein Paper: [Access Control Development Within the Framework of an IOTA-Based Electronic Medical Record Management System](https://www.mdpi.com/1424-8220/26/5/1422)
 39. **Crypto Adoption**: Ein von NVIDIA unterstütztes Unternehmen will Bitcoin Mining im Weltall betreiben: [Tweet](https://x.com/Vivek4real_/status/2030827511438000509?s=20)
 40. **Crypto Adoption**: Walmarkt in der USA ermöglicht über die "Onepay App" Bitcoin und Crypto Bezahlungen: [Tweet](https://x.com/Bitcoin_Teddy/status/2030653011203375149?s=20)
+41. **IOTA Quicktakes**: Die [IF macht einen Thread](https://x.com/iota/status/2030961938369314860?s=20) zu den [IOTA Quicktakes](https://x.com/iota/status/2030961938369314860?s=20)
