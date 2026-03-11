@@ -10,3 +10,4 @@
 8. **Crypto Adoption**: Strategie hat scheinbar eine tolle neue Bitcoin Strategie und deshalb ein extrem hohes Tagesvolumen: [Tweet](https://x.com/Croesus_BTC/status/2031493313790967930?s=20)
 9. **IOTA Adoption**: [ID.iota tweetet](https://x.com/id_iota/status/2031729924013228230?s=20) über eine Partnerschaft von Turing Certs und dem [World Administrative Attorneys](https://www.linkedin.com/company/world-administrative-attorneys)
 10. **Crypto Adoption**: Mastercard startet ein Krypto-Partnerprogramm, das 85 Krypto-Unternehmen zusammenbringt, um grenzüberschreitende Überweisungen, B2B-Zahlungen und globale Auszahlungen zu entwickeln: [Tweet](https://x.com/Cointelegraph/status/2031717873903698234?s=20)
+11. **Crypto Adoption**: Alle G20 Nationen werden Bitcoinreserve anlegen sagt der CEO von Coinbase: [Tweet](https://x.com/CryptoTice_/status/2031671479113228335?s=20)
