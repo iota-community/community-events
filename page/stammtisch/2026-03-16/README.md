@@ -24,5 +24,5 @@
 22. **Crypto Adoption**: Süd Koreas Firmen dürfen wieder Bitcoin kaufen: [Tweet](https://x.com/TrendingBitcoin/status/2032231412146061476?s=20)
 23. **IOTA Event**: [Tweet von whatmicha](https://x.com/whatmicha/status/2032388079969771690?s=20) über das [Mobile World Congress (MWC) in Barcelona](https://www.mwcbarcelona.com/), wo IOTA wohl ein "Startup Stand" auf der Ausstellungsfläche von EIT Manufacturing hat
 24. **IOTA Adoption**: [GLEIF tweetet](https://x.com/GLEIF/status/2032396252533408023?s=20) über das neues [WHITE PAPER: Building the Path TowardsDigital Asset Securities Interoperability](https://www.clearstream.com/clearstream-en/newsroom/digital-asset-securities-operability-4971998), dass einen Rahmen für Interoperabilität von DLTs beim Asset Management aufbauen will
-26. 
+26. **IOTA Tech**: neues Release: [[Mainnet] v1.18.1](https://github.com/iotaledger/iota/releases/tag/v1.18.1)
 
