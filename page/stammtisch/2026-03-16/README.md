@@ -38,4 +38,6 @@
 37. **IOTA Promote**: [Salima tweetet](https://x.com/Salimasbegum/status/1932808781169119275?s=20) über die Fehler der IBM Blockchain und warum es IOTA mit TWIN besser laufen wird
 38. **IOTA Ökosystem**: Neues Erklär Video von Gleif: [Tweet](https://x.com/GLEIF/status/2033528722737766684?s=20)
 39. **IOTA Event**: Am 4. Juni ist ein Teeside Symposium: [Tweet](https://x.com/kurt_tangle/status/2033551711818727623?s=20)
+40. **IOTA Video**: Interview mit Dom beim World Knowledge Forum: [IOTA : Bridging the Trillion Dollar Trade Gap with On-Chain World Trade│Dominik Schiener(IOTA)](https://www.youtube.com/watch?v=ZFOZ0eqfgns)
+41. **IOTA Adoption**: [Kurt Tangle tweetet](https://x.com/kurt_tangle/status/2033597413961736523?s=20) über [teessideairportmovements.co.uk](https://www.teessideairportmovements.co.uk/)
 
