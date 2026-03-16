@@ -24,5 +24,16 @@
 22. **Crypto Adoption**: Süd Koreas Firmen dürfen wieder Bitcoin kaufen: [Tweet](https://x.com/TrendingBitcoin/status/2032231412146061476?s=20)
 23. **IOTA Event**: [Tweet von whatmicha](https://x.com/whatmicha/status/2032388079969771690?s=20) über das [Mobile World Congress (MWC) in Barcelona](https://www.mwcbarcelona.com/), wo IOTA wohl ein "Startup Stand" auf der Ausstellungsfläche von EIT Manufacturing hat
 24. **IOTA Adoption**: [GLEIF tweetet](https://x.com/GLEIF/status/2032396252533408023?s=20) über das neues [WHITE PAPER: Building the Path TowardsDigital Asset Securities Interoperability](https://www.clearstream.com/clearstream-en/newsroom/digital-asset-securities-operability-4971998), dass einen Rahmen für Interoperabilität von DLTs beim Asset Management aufbauen will
-26. **IOTA Tech**: neues Release: [[Mainnet] v1.18.1](https://github.com/iotaledger/iota/releases/tag/v1.18.1)
+26. **IOTA Tech**: neues Release: [Mainnet v1.18.1](https://github.com/iotaledger/iota/releases/tag/v1.18.1)
+27. **IOTA Promote**: Crypto News Artikel: [IOTA’s Innovative Step in Blockchain Finance](https://cryptonews.net/news/altcoins/32557167/)
+28. **Crypto Promote**: Trump kündigt Crypto Event in Mar-A-Lago an: [Tweet](https://x.com/RippleXrpie/status/2032487388878926228?s=20)
+29. **IOTA Event**: Siemens Messe für "Sanftanlaufgerät SIRIUS 3RW5-Z R11" hat stattgefunden: [Tweet](https://x.com/kurt_tangle/status/2032439167678923252?s=20); [LinkedIn Post](https://www.linkedin.com/posts/christian-stuart-wilson_lb26-teamsiemens-sustainability-activity-7437425959072358401-40hj/)
+30. **IOTA Adoption**: [Kurt Tangle tweetet](https://x.com/kurt_tangle/status/2032492161736847870?s=20) über [KChain Solutions](https://kchain.solutions/), die offenbar der "IOTA Foundation Solution Architect" für "Digital Product Passport Solutions & Enterprise Blockchain Architecture" sind; Die haben auch einen gute [Blog über IOTA](https://kchain.solutions/resources/blog)
+31. **IOTA Event**: [Tweet von einem Event von AfCFTA](https://x.com/AfCFTA/status/2032543478937473216?s=20): "Mitgliedstaaten zur 5. Sitzung des Unterausschusses für technische Handelshemmnisse (TBT) im Rahmen der Afrikanischen Kontinentalen Freihandelszone"
+32. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/2032795544649658677?s=20) über "something that could change how RWA are financed"
+33. **Crypto Adoption**: Die South African Airline akzeptiert Bitcoin: [Tweet](https://x.com/Vivek4real_/status/2032822808800071839?s=20)
+34. **Crypto Adoption**: Lumis sagt alle Banken werden Crypto Käufe ermöglichen: [Tweet](https://x.com/Bitcoinprof0637/status/2032792844960772577?s=20)
+35. **Crypto Adoption**: Auch Larry Fink von Blackrock ist bullish auf Crypto: [Tweet](https://x.com/TrendingBitcoin/status/2032835895183696356?s=20); "WE’RE NOT SPENDING ENOUGH TIME TALKING ABOUT HOW QUICKLY WE’RE GOING TO TOKENIZE EVERY FINANCIAL ASSET."
+36. **IOTA Adoption**: [id.IOTA tweetet][https://x.com/id_iota/status/2033123865669365940?s=20) über Sierra Leone die AfCFTA umsetzen wollen
+37. **IOTA Promote**: [Salima tweetet](https://x.com/Salimasbegum/status/1932808781169119275?s=20) über die Fehler der IBM Blockchain und warum es IOTA mit TWIN besser laufen wird
 
