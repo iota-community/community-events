@@ -36,4 +36,6 @@
 35. **Crypto Adoption**: Auch Larry Fink von Blackrock ist bullish auf Crypto: [Tweet](https://x.com/TrendingBitcoin/status/2032835895183696356?s=20); "WE’RE NOT SPENDING ENOUGH TIME TALKING ABOUT HOW QUICKLY WE’RE GOING TO TOKENIZE EVERY FINANCIAL ASSET."
 36. **IOTA Adoption**: [id.IOTA tweetet][https://x.com/id_iota/status/2033123865669365940?s=20) über Sierra Leone die AfCFTA umsetzen wollen
 37. **IOTA Promote**: [Salima tweetet](https://x.com/Salimasbegum/status/1932808781169119275?s=20) über die Fehler der IBM Blockchain und warum es IOTA mit TWIN besser laufen wird
+38. **IOTA Ökosystem**: Neues Erklär Video von Gleif: [Tweet](https://x.com/GLEIF/status/2033528722737766684?s=20)
+39. **IOTA Event**: Am 4. Juni ist ein Teeside Symposium: [Tweet](https://x.com/kurt_tangle/status/2033551711818727623?s=20)
 
