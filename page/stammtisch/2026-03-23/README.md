@@ -8,4 +8,5 @@
 **IOTA Adoption**: [id.iota tweetet](https://x.com/id_iota/status/2033964364873544091?s=20) über AfCFTA und Coca Cola
 **Crypto Adoption**: [Tweet](https://x.com/NoAlphaLimits/status/2034098183215693985?s=20) über die SEC die jetzt klare Regeln für Crypto Coins definiert hat
 
+
   
