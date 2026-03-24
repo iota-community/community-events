@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Stammtisch Timeline</title>
+  <style>
+    body{font-family:Inter,ui-sans-serif,system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; background:#0f1724;color:#e6eef8;padding:24px}
+    .container{max-width:980px;margin:0 auto}
+    .timeline{border-left:3px solid #1f2937;padding-left:18px}
+    .event{position:relative;margin:24px 0;padding:12px 18px;background:rgba(255,255,255,0.03);border-radius:8px}
+    .event::before{content:'';position:absolute;left:-29px;top:18px;width:14px;height:14px;border-radius:50%;background:#06b6d4;border:3px solid #0f1724}
+    .event h3{margin:0 0 6px 0;font-size:16px}
+    .controls{display:flex;gap:8px;margin-bottom:12px}
+    .btn{background:#111827;color:#fff;padding:8px 12px;border-radius:8px;border:none;cursor:pointer}
+    .card-meta{color:#9fb1c9;font-size:13px}
+    .detail{margin-top:8px;color:#dbeafe}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Stammtisch Timeline</h1>
+    <p class="card-meta">Durchsuche die Stammtische nach Datum. Klicke ein Event für Details.</p>
+    <div class="controls">
+      <button id="prev" class="btn">Prev</button>
+      <button id="next" class="btn">Next</button>
+      <input id="search" placeholder="Filter by year or text..." style="flex:1;padding:8px;border-radius:8px;border:1px solid #213547;background:#071026;color:#cfe9ff" />
+    </div>
+    <div id="timeline" class="timeline"></div>
+  </div>
+
+<script>
+const indexUrl = '/page/stammtisch/index.json';
+let events = [];
+let pos = 0;
+function render() {
+  const timeline = document.getElementById('timeline');
+  timeline.innerHTML = '';
+  events.forEach((e,i)=>{
+    const el = document.createElement('div'); el.className='event';
+    el.innerHTML = `<h3>${e.title} <span style="color:#9fb1c9;font-size:12px;margin-left:8px">${e.path.split('/').pop()}</span></h3><div class="card-meta">${e.excerpt||''}</div><div class="detail"><a href="/page/${e.path}/README.md">Open</a></div>`;
+    el.onclick = ()=>{ window.location.href=`/page/${e.path}/README.md`; };
+    timeline.appendChild(el);
+  });
+}
+
+fetch(indexUrl).then(r=>r.json()).then(js=>{
+  events = js.sort((a,b)=> a.path.localeCompare(b.path));
+  render();
+});
+
+document.getElementById('next').addEventListener('click', ()=>{
+  pos = Math.min(events.length-1, pos+1); window.scrollTo({top:(pos*200),behavior:'smooth'});
+});
+document.getElementById('prev').addEventListener('click', ()=>{
+  pos = Math.max(0, pos-1); window.scrollTo({top:(pos*200),behavior:'smooth'});
+});
+
+</script>
+</body>
+</html>
