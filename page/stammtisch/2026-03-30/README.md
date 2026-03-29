@@ -1,7 +1,7 @@
 ## IOTA Stammtischthemen für Montag, den 30.03.2026
 
 1. **IOTA Audio**: Die [IF tweetet](https://x.com/iota/status/2037484783152902203?s=20) über das Gespräch mit [Orobo](https://x.com/HelloOrobo)
-2. **IOTA dApp**: Neu dApp wo man IOTA bekommt, wenn man an Umfragen teilnimmt: [Tweet](https://x.com/GetBookReviews1/status/2036114623640801539?s=20); Hier die dApp: [surveytokens.org](https://t.co/F6Xe48kG06)
+2. **IOTA dApp**: Neu dApp wo man IOTA bekommt, wenn man an Umfragen teilnimmt: [Tweet](https://x.com/GetBookReviews1/status/2036114623640801539?s=20); Hier die dApp: [surveytokens.org](https://t.co/F6Xe48kG06); Und hier noch ein [Kommentar von Emma](https://x.com/survey_tokens/status/2038249017679708629?s=20) die das gebaut hat
 3. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2037197889781264410?s=20) über IOTAs Architektur: ".. parallel by design..."
 4. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2036473115325194252?s=20) über
 5. **IOTA Ökosystem**: Die [IF retweetet](https://x.com/iota/status/2036117083612725343?s=20) [Henry Hang](https://x.com/taiwan_henry) der über TuringCerts berichtet, die jetzt ein [IOTA Technologies Showcase](https://www.iota.org/learn/showcases/turing-space) sind; In dem Zuge auch interessant, dass [Henry Hang](https://x.com/taiwan_henry/status/1924458872238223864?s=20) zu den "2025 Forbes 30U30 Asia" gewählt wurde
@@ -33,3 +33,4 @@
 31. **IOTA Adoption**: [Kurt Tangle freut sich](https://x.com/kurt_tangle/status/2037891533509218690?s=20) über eine "UK-Brazil Strategic Partnership" und hofft, dass IOTA/TWIN dort eine Rolle spielt
 32. **IOTA Adoption**: [TradeMarkAfrica tweetet](https://x.com/TradeMarkAfrica/status/2038119296753123432?s=20) über ein Aussage von ihrem CEO, der anerkennt, dass "African governments rapidly digitising customs, certifications, border processes, payments and identity services, yet beneath these front-end systems lies a more fundamental challenge, the infrastructure layer..."
 33. **IOTA Promote**: [IOTA.Rebased tweetet](https://x.com/IotaRebased/status/2038196825207759083?s=20) über den digitalen Produkt Passport der obligatorisch wird zw. China und der EU, zuerst für Baterien, dann Textilien, Stahl und Electronic und für den IOTA und Orobo bereits eine Lösung anbieten/umsetzen
+34. **IOTA Promote**: [Kurt Tangle tweetet](https://x.com/kurt_tangle/status/2038240143639728132?s=20) über die Komplexität beim Boarder Trading
