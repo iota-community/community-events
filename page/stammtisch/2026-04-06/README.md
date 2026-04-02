@@ -2,7 +2,13 @@
 
 1. **Crypto Adoption**: [SWIFT tweetet](https://x.com/swiftcommunity/status/2038639433398763881?s=20) darüber, dass sie eine MVP Phase beginnen für ihren Pläne zum Aufbau eines auf Blockchain (scheinbar HyperLedger: [Tweet](https://x.com/Dagnum_PI/status/2039022045632360866?s=20)) basierenden gemeinsamen Hauptbuchs um Interoperabilität zwischen tokenisierten Einlagen von Banken ermöglichen und grenzüberschreitende Zahlungen rund um die Uhr erleichtern wird.
 2. **Crypto Adoption**: Große Update bei Cardano die jetzt mit "Midnight" einen Privacy Layer als Partner-Chain eingeführt haben: [Tweet](https://x.com/coinbureau/status/2038623782555041820?s=20); Artikel: [Midnight Goes Live as First Cardano Partner-Chain](https://medium.com/tap-in-with-taptools/midnight-goes-live-as-first-cardano-partner-chain-f699208063b0)
-3. **Crypto Drama**: Google schlägt Alarm wegen ihrem Quantencomputern der wohl schon 2029 die üblichen Crypto Verschüsselungen lösen kann: [Tweet](https://x.com/projecteleven/status/2038807049262264502?s=20)
-4. **Ki Drama**: Ein Mitarbeiter von Anthropic hat aus Versehen den Source Code veröffentlicht: [Tweet](https://x.com/Jeremybtc/status/2039077799643005198?s=20)
+3. **Crypto Drama**: Google schlägt Alarm wegen ihrem Quantencomputern der wohl schon 2029 die üblichen Crypto Verschüsselungen lösen kann: [Tweet](https://x.com/projecteleven/status/2038807049262264502?s=20); An einer Lösung für Bitcoin wird bereits gearbeitet: [Tweet](https://x.com/BitcoinMagazine/status/2038949092206715286?s=20)
+4. **Ki Drama**: Ein Mitarbeiter von Anthropic hat aus Versehen den Source Code veröffentlicht (war am Ende ein April Scherz): [Tweet](https://x.com/Jeremybtc/status/2039077799643005198?s=20)
 5. **IOTA Ökosystem**: [IOTA.Rebased tweetet](https://x.com/IotaRebased/status/2039303553387315707?s=20) über all die Projekte die beim European Hackathon mitgemacht haben ("Building Phase is over")
-6.  
+6. **Drama**: Solana DeFi Hack: [Tweet](https://x.com/HugotoCrypto/status/2039645085306933483?s=20)
+7. **IOTA Adoption**: [Dom Schiener retweetet]() den [Tweet der IF](https://x.com/iota/status/2039372218409300321?s=20) über die erste [Tantulum Tokenized Material Parcel](https://nexus-beta.salusplatform.com/dwr/a0d3eb6e-6f13-4b61-b899-93e81575d136) von SALUS im Wert von $250K die über IOTA abgwickelt wurde
+8. **IOTA Ökosystem**: [Tweet über ein Update](https://x.com/EpicOasisX/status/2038633293860524321?s=20) von seiner dApp: [IOTA Data Publishing dApp](https://izipublish.com/)
+9.  **IOTA Events**: [Tweet 1 von TradeMark Africa](https://x.com/TradeMarkAfrica/status/2038995222554616311?s=20); [Tweet 2 von TradeMark Africa](https://x.com/TCatalystAfrica/status/2039343972829556970?s=20); [Tweet von AfCFTA](https://x.com/AfCFTA/status/2039360657980600789?s=20)
+10.  **IOTA Adoption**: [Tweet zu TWIN](https://x.com/IotaPunks_71/status/2039352738534846958?s=20)
+11.  **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/2039637766078697830?s=20) über ein Security Event ([AI/InfraCon](https://luma.com/8nzr1zec)) wo sie auftreten
+12.  **IOTA Exchange**: Es gab einen Spike im Trading Volumen von 140%: [Tweet](https://x.com/tanglelytics/status/2039422563604910274?s=20)
