@@ -52,6 +52,9 @@
 20. Loyalty Program: [GiveReps](https://giverep.com/)
 10. Reputation Station: [repstation.xyz](https://repstation.xyz/)
 21. IOTA Names: [iotanames.com](iotanames.com)
+22. IOTA Data Publishing dApp: [izipublish.com/](https://izipublish.com)
+14. Complete Surveys get IOTA dApp: [surveytokens.org](https://surveytokens.org/)
+15. Turing Certs Verifier ("Verify Any Document in Seconds"): [verify.turingcerts.com](verify.turingcerts.com)
 
 
 ## Upcoming dApps for IOTA Rebased:
@@ -86,10 +89,7 @@
 10. RWA Usecase: [salusplatform.com](https://www.salusplatform.com/) "Digital Trade Finance for Critical Minerals"
 11. E-Autos Lade Infrastruktur (Charge Frog): [Tweet](https://x.com/Salimasbegum/status/2012241715134931339?s=20)
 12. Investieren in Kaffee Plantage: [seedlot.io](https://seedlot.io/)
-13. IOTA Data Publishing dApp: [izipublish.com/](https://izipublish.com)
-14. Complete Surveys get IOTA dApp: [surveytokens.org](https://surveytokens.org/)
-15. Turing Certs Verifier ("Verify Any Document in Seconds"): [verify.turingcerts.com](verify.turingcerts.com)
-16. Foodchain auf IOTA ankern: [veripura.com](https://www.veripura.com/)
+13. Foodchain auf IOTA ankern: [veripura.com](https://www.veripura.com/)
 
 
 # For IOTA Developer:
