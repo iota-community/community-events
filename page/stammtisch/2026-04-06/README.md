@@ -13,3 +13,5 @@
 11.  **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/2039637766078697830?s=20) über ein Security Event ([AI/InfraCon](https://luma.com/8nzr1zec)) wo sie auftreten
 12.  **IOTA Exchange**: Es gab einen Spike im Trading Volumen von 140%: [Tweet](https://x.com/tanglelytics/status/2039422563604910274?s=20)
 13.  **Crypto Drama**: In Californien können scheinbar Cryptos die 3 Jahre auf der Exchange unbewegt liegen vom Staat eingesammelt werden: [Tweet](https://x.com/TheMoonShow/status/2039590401762525695?s=20)
+14.  **IOTA Adoption**: Video zu TWIN: [https://www.youtube.com/watch?v=CCNYzF0HV6E](https://www.youtube.com/watch?v=CCNYzF0HV6E)
+15.  **IOTA Adoption**: [Kurt Tangle bekommt](https://x.com/kurt_tangle/status/2039623901605441748?s=20) TWIN Vibes bei dem [Tweet von der Global Alliance for Trade Facilitation](https://x.com/GATFnews/status/2039619811978691071?s=20) über [Streamlining Compliance for Safer Trade in Morocco - Certificates of Conformity](https://www.tradefacilitation.org/our-projects/streamlining-compliance-morocco/)
