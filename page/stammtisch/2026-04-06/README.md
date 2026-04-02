@@ -12,3 +12,4 @@
 10.  **IOTA Adoption**: [Tweet zu TWIN](https://x.com/IotaPunks_71/status/2039352738534846958?s=20)
 11.  **IOTA Event**: Die [IF tweetet](https://x.com/iota/status/2039637766078697830?s=20) über ein Security Event ([AI/InfraCon](https://luma.com/8nzr1zec)) wo sie auftreten
 12.  **IOTA Exchange**: Es gab einen Spike im Trading Volumen von 140%: [Tweet](https://x.com/tanglelytics/status/2039422563604910274?s=20)
+13.  **Crypto Drama**: In Californien können scheinbar Cryptos die 3 Jahre auf der Exchange unbewegt liegen vom Staat eingesammelt werden: [Tweet](https://x.com/TheMoonShow/status/2039590401762525695?s=20)
