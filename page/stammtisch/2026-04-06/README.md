@@ -29,3 +29,4 @@
 27.  **IOTA Adoption**: Kenia wird von den USA als besonders korrupt definiert. [Kurt Tangle spekuliert](https://x.com/kurt_tangle/status/2040005735929573539?s=20), dass dies durch TWIN verbessert werden könnte 
 28.  **IOTA Foundation Intern**: [Salima tweetet](https://x.com/Salimasbegum/status/2039839916469707145?s=20), dass die IF in Zukunft keine Token mehr verkaufen will, sondern mit Hilfe von Marketmakern Geld verdienen will
 29.  **Crypto Adoption**: US Clarity Act soon... [Tweet](https://x.com/BitcoinPulseX/status/2040967700256641480?s=20)
+30.  **Allg. News**: To the moon! Artimis umkreist den Mond: [3D Simulation vom Weg](https://x.com/MaxFRobespierre/status/2039476965258707068?s=20)
