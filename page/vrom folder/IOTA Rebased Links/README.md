@@ -90,7 +90,7 @@
 11. E-Autos Lade Infrastruktur (Charge Frog): [Tweet](https://x.com/Salimasbegum/status/2012241715134931339?s=20)
 12. Investieren in Kaffee Plantage: [seedlot.io](https://seedlot.io/)
 13. Foodchain auf IOTA ankern: [veripura.com](https://www.veripura.com/)
-14. Distributed Oracle: [iota-distributed-oracle.org](https://iota-distributed-oracle.org/)
+14. Distributed Oracle: [iota-distributed-oracle.org](https://iota-distributed-oracle.org/) bzw. [oracle.objectid.io](https://oracle.objectid.io/)
 
 
 # For IOTA Developer:
