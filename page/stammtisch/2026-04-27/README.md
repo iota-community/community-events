@@ -28,4 +28,3 @@
 26. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/2048415084955713656?s=20) über ein großes Update bei unserem Staking-Bericht. Es wurde eine Dezentralisierte Verifizierung (als QR-Code) hinzugefügt, sodass DLT.GREEN quasi schon mal den Bericht unterschreibt und man somit beweisen kann, dass die Daten (laut DLT.GREEN) unverändert und nicht manipuliert sind
 27. **IOTA Event**: [Tweet von TradeMark Africa](https://x.com/TradeMarkAfrica/status/2048689547848876311?s=20) über ein Treffen zum Thema "how do we turn the Lobito Corridor into a world-class trade route"
 28. **Crypto Adoption**: FED Money Printer: [Tweet](https://x.com/BSCGemsAlert/status/2048350115417784416?s=20)
-29. 
