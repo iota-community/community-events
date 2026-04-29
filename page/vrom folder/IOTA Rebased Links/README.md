@@ -55,6 +55,7 @@
 22. IOTA Data Publishing dApp: [izipublish.com/](https://izipublish.com)
 14. Complete Surveys get IOTA dApp: [surveytokens.org](https://surveytokens.org/)
 15. Turing Certs Verifier ("Verify Any Document in Seconds"): [verify.turingcerts.com](verify.turingcerts.com)
+16. Prediction Market: [vectramarket.com](https://vectramarket.com/)
 
 
 ## Upcoming dApps for IOTA Rebased:
@@ -90,7 +91,9 @@
 11. E-Autos Lade Infrastruktur (Charge Frog): [Tweet](https://x.com/Salimasbegum/status/2012241715134931339?s=20)
 12. Investieren in Kaffee Plantage: [seedlot.io](https://seedlot.io/)
 13. Foodchain auf IOTA ankern: [veripura.com](https://www.veripura.com/)
-14. Distributed Oracle: [iota-distributed-oracle.org](https://iota-distributed-oracle.org/) bzw. [oracle.objectid.io](https://oracle.objectid.io/)
+14. Distributed Oracle: [iota-distributed-oracle.org](https://iota-distributed-oracle.org/) bzw. [oracle.objectid.io](https://oracle.objectid.io/)(https://docunotary.eu/
+15. Invoice Notarization: [docunotary.eu](https://docunotary.eu/)
+16. 
 
 
 # For IOTA Developer:
