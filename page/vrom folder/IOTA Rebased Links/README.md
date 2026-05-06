@@ -28,6 +28,8 @@
 10. Stake Manager: [stake-manager.iota.guru](https://stake-manager.iota.guru/)
 11. IOTA Names Resolver: [pandabyte.net/iota/resolver](https://pandabyte.net/iota/resolver)
 12. IOTA Tx Visualizer: [https://iotatools.dev/#/txs-visualizer...t](https://iotatools.dev/#/txs-visualizer?network=mainnet)
+13. IOTA L1 Analytics von [IOTAPunks](https://x.com/IotaPunks_71): [pulse.iotapunks.com](https://pulse.iotapunks.com/)
+14. Staking Analyse (Stakebook): [stakebook.pandabyte.net](https://stakebook.pandabyte.net/)
 
 ## Already working dApps for IOTA Rebased:
 1. DEX: [pools.finance](https://www.pools.finance/)
@@ -69,6 +71,8 @@
 12. IOTA Musik App: [nakkitok.ddns.net](https://nakkitok.ddns.net/)
 13. DEX: [Cyberglow: the infrastructure IOTA deserves - No hype. No rush. Under construction](https://medium.com/@Cyberglowdex/cyberglow-the-infrastructure-iota-deserves-no-hype-no-rush-under-construction-614436509a20)
 14. Games (z.b. Mensch Ärgere Dich Nicht!): [https://test.iotaroyale.com/](https://test.iotaroyale.com/)
+15. Prediction Market: [vectramarket.com](https://vectramarket.com/)
+16. Health App: [vitalnode.net](https://vitalnode.net/)
 
 
 # IOTA Gaming
@@ -90,10 +94,9 @@
 10. RWA Usecase: [salusplatform.com](https://www.salusplatform.com/) "Digital Trade Finance for Critical Minerals"
 11. E-Autos Lade Infrastruktur (Charge Frog): [Tweet](https://x.com/Salimasbegum/status/2012241715134931339?s=20)
 12. Investieren in Kaffee Plantage: [seedlot.io](https://seedlot.io/)
-13. Foodchain auf IOTA ankern: [veripura.com](https://www.veripura.com/)
+13. Foodchain auf IOTA ankern: [veripura.com](https://www.veripura.com/); [core.veripura.com](https://core.veripura.com/login)
 14. Distributed Oracle: [iota-distributed-oracle.org](https://iota-distributed-oracle.org/) bzw. [oracle.objectid.io](https://oracle.objectid.io/)(https://docunotary.eu/
 15. Invoice Notarization: [docunotary.eu](https://docunotary.eu/)
-16. 
 
 
 # For IOTA Developer:
