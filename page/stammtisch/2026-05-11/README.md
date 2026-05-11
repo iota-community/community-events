@@ -26,3 +26,5 @@
 24. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2053460047817048276?s=20) über Starfish
 25. **IOTA IF Intern**: [Salima tweetet](https://x.com/Salimasbegum/status/2053502445263671634?s=20) darüber, dass sich die IF jetzt mehr und mehr zurückzieht und "IOTA is being born"
 26. **Crypto Adoption**: Clarity Act am 14 Mai? [Tweet](https://x.com/RippleXrpie/status/2053484519370407936?s=20) Und Crypto Market Structure Bill am Independance Day? [Tweet](https://x.com/AshCrypto/status/2052135369685017054?s=20)
+27. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2053822433388372327?s=20) eine Aussage von Dom beim World Knowledge Forum; Hier das [ganze Video](https://x.com/iota/status/2053822438597652855?s=20)
+28. 
