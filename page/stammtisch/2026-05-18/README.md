@@ -1,6 +1,16 @@
 ## IOTA Stammtischthemen für Montag, den 18.05.2026
 
 1. **Crypto Adoption**: Trump postet Crypto Schiffe die mit Kevin Warsh (neuer FED Chef) an der Oberfläche fahren, während sie bei Jerome Powell an Grund gelegen sind
-2. **IOTA Events**: AfCFTA hatte wieder einige Termine: [Tweet (Frankreich](https://x.com/AfCFTA/status/2053982458350338392?s=20); [Tweet (Treffen mit afrik. Wirtschaftsbossen)](https://x.com/AfCFTA/status/2054098398408556993?s=20)
+2. **IOTA Events**: AfCFTA hatte wieder einige Termine: [Tweet (Frankreich](https://x.com/AfCFTA/status/2053982458350338392?s=20); [Tweet (Africa Forward Summit)](https://x.com/AfCFTA/status/2054098398408556993?s=20); [Tweet (Treffen mit afrik. Wirtschaftsbossen)](https://x.com/AfCFTA/status/2054098398408556993?s=20); [Tweet (workshop)](https://x.com/AfCFTA/status/2054164102772052355?s=20); [Tweet (6th National Oversight Committee)](https://x.com/TradeMarkAfrica/status/2054179447826186529?s=20); [Tweet (Nairobi)](https://x.com/TradeMarkAfrica/status/2054223037755490377?s=20); [Tweet (European Bank for Reconstruction and Development (EBRD))](https://x.com/AfCFTA/status/2054286449454018957?s=20)
 3. **IOTA Audio**: 2. Podcast von AfCFTA: [Tweet](https://x.com/AfCFTA/status/2053970975113523619?s=20)
-4. **Crypto Adoption**: Ein neuer Entwurf vom "Crypto Clarity Act" wurde veröffentlicht: [Tweet](https://x.com/AshCrypto/status/2054091800239817125?s=20)
+4. **Crypto Adoption**: Tweets zum "Crypto Clarity Act": [Tweet](https://x.com/AshCrypto/status/2054091800239817125?s=20) ; [Tweet](https://x.com/MerlijnTrader/status/2054207468327276886?s=20)
+5. **IOTA Promote**: TWIN macht wieder Werbung für TWIN: [Tweet 1](https://x.com/TWINGlobalOrg/status/2054139524423319570?s=20); [Tweet 2](https://x.com/TWINGlobalOrg/status/2054547213225767284?s=20);
+6. **IOTA Adoption**: Neues vom Mission Project: [Tweet](https://x.com/whatmicha/status/2054200537369739545?s=20)
+7. **IOTA Ökosystem**: Modo ("..end-to-end multichain enterprise-grade data platform") expandiert u.a zu IOTA: [Tweet](https://x.com/modoapps/status/2054197484331868484?s=20)
+8. **IOTA Drama**: [TokenLabs tweetet](https://x.com/TokenLabsX/status/2054140816902225997?s=20) darüber, dass sie die EVM Aktivitäten einstellen
+9. **IOTA Adoption**: 730TPS im Testnetz? [Tweet](https://x.com/MyrDani/status/2054123330202919264?s=20)
+10. **IOTA Ökosystem**: [DLT.GREEN retweetet](https://x.com/dlt_green/status/2054159916969930889?s=20) den [Tweet von ObjectID](https://x.com/ObjectID_io/status/2054156779429179820?s=20) über das [IOTA Distributed Oracle](https://iota-distributed-oracle.org/); [Tweet mit mehr Details](https://x.com/Vrom14286662/status/2054428414120009847?s=20); [Tweet mit Promotion-Poster](https://x.com/Vrom14286662/status/2054533619712987281?s=20)
+11. **Crypto Adoption**: Neuer Pro Bitcoiner wird FED Chef: [Tweet](https://x.com/AshCrypto/status/2054238847353970709?s=20); [Tweet](https://x.com/blocktrainer/status/2054637150642000041?s=20)
+12. **IOTA Promote**: Influenzer über IOTA: [Tweet (125K Follower)](https://x.com/UniverseTwenty/status/2053798737198342514?s=20)
+13. **IOTA Adoption**: [Salus tweetet](https://x.com/salusplatform/status/2054474241056051333?s=20) über IOTA bzw. "62 parcels funded in 12 months. Zero defaults. More than half of settlement now in stablecoins."
+14. 
