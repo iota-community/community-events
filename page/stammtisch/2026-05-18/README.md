@@ -17,3 +17,4 @@
 15. **IOTA Promote**: [Salima tweetet](https://x.com/Salimasbegum/status/2054660309915222482?s=20) über TWIN
 16. **IOTA Speculation**: [Salima tweetet](https://x.com/Salimasbegum/status/2055244254989922681?s=20) darüber, dass seriöse Crypto Investoren IOTA strategisch kaufen wollen
 17. **IOTA Promote**: [Ankr (300K Follower) tweetet](https://x.com/ankr/status/2055158310244946330?s=20) über 99,99% Uptime ihres Validators
+18. **IOTA Audio**: [Gleif Interview](https://www.gleif.org/en/newsroom/blog/who-stands-behind-the-document-why-digital-data-needs-verifiable-organizational-identity)
