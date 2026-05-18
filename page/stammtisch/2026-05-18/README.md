@@ -31,3 +31,5 @@
 29. **IOTA Ökosystem**: [OROBO tweetet](https://x.com/HelloOrobo/status/2056084470533353594?s=20) über ein Event in Ibiza wo sie "1 of 25 startups competing in The Next Unicorn at Ibiza Tech Forum 2026" sind
 30. **Crypto Adoption**: Artikel: [Hormus save - Irans-bitcoin-system-fuer-die-strasse-von-hormus](https://www.blocktrainer.de/blog/hormuz-safe-irans-bitcoin-system-fuer-die-strasse-von-hormus)
 31. **Crypto Adoption**: Artikel: [Lukas Podolski wirbt künftig für Krypto-Börse Kraken](https://www.btc-echo.de/schlagzeilen/lukas-podolski-wirbt-fuer-krypto-boerse-kraken-230877/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1779103419)
+32. **IOTA Ökosystem**: [ToenLabs tweetet](https://x.com/TokenLabsX/status/2056344784646602795?s=20) ein Countdown und ist bereits bei 4...
+33. **IOTA Event**: Gleif Event in London [Building trust in digital supply chains with organisational identity](https://www.digicatapult.org.uk/apply/events/building-trust-in-digital-supply-chains-with-organisational-identity/): [Tweet](https://x.com/GLEIF/status/2056351599233294627?s=20) 
