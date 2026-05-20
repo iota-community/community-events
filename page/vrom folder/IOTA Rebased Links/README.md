@@ -99,6 +99,7 @@
 13. Foodchain auf IOTA ankern: [veripura.com](https://www.veripura.com/); [core.veripura.com](https://core.veripura.com/login)
 14. Distributed Oracle: [iota-distributed-oracle.org](https://iota-distributed-oracle.org/) bzw. [oracle.objectid.io](https://oracle.objectid.io/)(https://docunotary.eu/
 15. Invoice Notarization: [docunotary.eu](https://docunotary.eu/)
+16. ADAPT/TWIN in 3 african countries -> soon: [Tweet](https://x.com/iota/status/2056729092540477466?s=20)
 
 
 # For IOTA Developer:
