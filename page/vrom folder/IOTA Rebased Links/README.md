@@ -97,7 +97,7 @@
 11. E-Autos Lade Infrastruktur (Charge Frog): [Tweet](https://x.com/Salimasbegum/status/2012241715134931339?s=20)
 12. Investieren in Kaffee Plantage: [seedlot.io](https://seedlot.io/)
 13. Foodchain auf IOTA ankern: [veripura.com](https://www.veripura.com/); [core.veripura.com](https://core.veripura.com/login)
-14. Distributed Oracle: [iota-distributed-oracle.org](https://iota-distributed-oracle.org/) bzw. [oracle.objectid.io](https://oracle.objectid.io/)(https://docunotary.eu/
+14. Distributed Oracle: [iota-distributed-oracle.org](https://iota-distributed-oracle.org/) bzw. [oracle.objectid.io](oracle.objectid.io/)/
 15. Invoice Notarization: [docunotary.eu](https://docunotary.eu/)
 16. ADAPT/TWIN in 3 african countries -> soon: [Tweet](https://x.com/iota/status/2056729092540477466?s=20)
 
@@ -110,7 +110,7 @@
 5. [iota identity](https://github.com/iotaledger/identity)
 6. [twindev.orgs](https://twindev.org/docs/pkgs)
 7. [iota notarization](https://www.iota.org/products/notarization?ref=blog.iota.org)
-8. [iota-gas-station-alpha](https://blog.iota.org/iota-gas-station-alpha/); [https://www.iota.org/products/gas-station?ref=blog.iota.org](https://www.iota.org/products/gas-station?ref=blog.iota.org)
+8. [iota-gas-station-alpha](https://blog.iota.org/iota-gas-station-alpha/); Blogpost: [iota.org/products/gas-station?ref=blog.iota.org](https://www.iota.org/products/gas-station?ref=blog.iota.org)
 9. [Digital Product Passport](https://www.iota.org/learn/showcases/dpp)
 10. [Goldsky Workshop](https://www.youtube.com/watch?v=OESdnAg5Xk0&list=PLMbc46iGTB_Samx211B0e5ulm420tljN2&index=1)
 11. [sentio.xyz](https://www.sentio.xyz/) Tutorial -> [From Transaction to Dashboard: A Developer’s Guide to Monitoring IOTA ](https://x.com/sentioxyz/status/1963100351667786143)
