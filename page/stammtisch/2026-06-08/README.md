@@ -11,4 +11,6 @@
 9. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/2062050267751653806?s=20) über ein wichtiges Treffen in Nigeria
 10. **IOTA Promote**: [moon.iota tweetet](https://x.com/mooniota/status/2062186284487942381?s=20) über Nigeria und IOTA und über das Potential von ADAPT
 11. **Crypto Drama**: Cardano schmiert ab weil Hoskinson eine Pause nehemen will: [Tweet](https://x.com/denverbitcoin/status/2062225043313267022?s=20)
-12. 
+12. **IOTA Dashboard**: [Goated IOTA tweetet](https://x.com/GoatedIota/status/2062469039193006571?s=20) über ein neues Dashboard: [https://iota-tokenomics-with-twin.netlify.app/](https://iota-tokenomics-with-twin.netlify.app/)
+13. **Crypto Drama**: [Tweet](https://x.com/0xSweep/status/2062669425313010065?s=20) darüber, dass ZCash von Ki gehacked wurde und 25% fällt
+14. 
