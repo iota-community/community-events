@@ -30,6 +30,7 @@
 12. IOTA Tx Visualizer: [iotatools.dev/#/txs-visualizer...t](https://iotatools.dev/#/txs-visualizer?network=mainnet)
 13. IOTA L1 Analytics von [IOTAPunks](https://x.com/IotaPunks_71): [pulse.iotapunks.com](https://pulse.iotapunks.com/)
 14. Staking Analyse (Stakebook): [stakebook.pandabyte.net](https://stakebook.pandabyte.net/)
+15. Stake vs Burn Tokenomics: [iota-tokenomics-with-twin.netlify.app](https://iota-tokenomics-with-twin.netlify.app/)
 
 ## Already working dApps for IOTA Rebased:
 1. DEX: [pools.finance](https://www.pools.finance/)
