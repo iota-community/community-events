@@ -82,6 +82,8 @@
 1. Jump and run: [lostcrusader.xyz](http://www.lostcrusader.xyz/); [Tweet](https://x.com/_LostCrusader/status/1978347608063295639)
 2. [Tweet von Trapist 1 MMO](https://x.com/trappist1_mmo/status/1978689369897644327)
 3. [Tweet von IOTARoyale](https://x.com/IotaRoyale/status/2012940873072308626?s=20) über [test.iotaroyale.com](https://test.iotaroyale.com/lobby)
+4. [Tweet](https://x.com/iotaluckyrooms/status/2063419132553383943) über [iotaluckyrooms.app/](https://iotaluckyrooms.app)
+5. [IOTATO tweetet](https://x.com/IOTATO_TAT/status/2061149393990930783?s=20) über [https://www.iotato.xyz/](https://www.iotato.xyz/)
 
 
 # Apps using IOTA Technology:
