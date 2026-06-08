@@ -2,8 +2,8 @@
 
 1. **IOTA Events**: [Tweet über ein Event zw. EU und Süd Afrika](https://x.com/EUinSA/status/2061378756002852943?s=20)
 2. **IOTA Drama**: [ShimmerGovernement tweetet](https://x.com/TangleTreasury/status/2061373458320347327?s=20) darüber, dass die ShimmerBridge auf der ShimmerEVM von LayerZero nicht länger betrieben wird
-3. **IOTA Promote**: Neue Werbetweets von TWIN: [Tweet](https://x.com/TWINGlobalOrg/status/2061477880765280682?s=20); [Tweet](https://x.com/TWINGlobalOrg/status/2062157357652566057?s=20)
-4. **IOTA Events**: Neue Treffen von AfCFTA [Tweet (Korea-Africa Meeting)](https://x.com/AfCFTA/status/2061429222535540890?s=20); [Tweet](https://x.com/AfCFTA/status/2062518155570753747?s=20); [Tweet](https://x.com/AfCFTA/status/2061850055305216251?s=20); [Tweet](https://x.com/AfCFTA/status/2061829895894810972?s=20)
+3. **IOTA Promote**: Neue Werbetweets von TWIN: [Tweet](https://x.com/TWINGlobalOrg/status/2061477880765280682?s=20); [Tweet](https://x.com/TWINGlobalOrg/status/2062157357652566057?s=20); [Tweet](https://x.com/TWINGlobalOrg/status/2063561610124222914?s=20)
+4. **IOTA Events**: Neue Treffen von AfCFTA: [Tweet (Korea-Africa Meeting)](https://x.com/AfCFTA/status/2061429222535540890?s=20); [Tweet](https://x.com/AfCFTA/status/2062518155570753747?s=20); [Tweet](https://x.com/AfCFTA/status/2061850055305216251?s=20); [Tweet](https://x.com/AfCFTA/status/2061829895894810972?s=20); [Tweet](https://x.com/AfCFTA/status/2062894464201273467?s=20)
 5. **IOTA Promote**: Die [IF tweetet](https://x.com/CryptoNobler/status/2062486521618264381?s=20) über ihre Governement Connections; [Stefan tweetet](https://x.com/iota_penguin/status/2062142227552374840?s=20) und [Karen O'Brian tweetet](https://x.com/bondjanebond/status/2061855430855336302?s=20) über Governement Adoption
 6. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2061794966251147734?s=20) ein Videoschnipsel mit Dom wo er über den "Leapfrog" für Afrika spricht
 7. **Crypto Drama**: Tether ([Tweet](https://x.com/CryptoNobler/status/2061796376724295772?s=20)), Saylor und ein Waal aus der Satoshi Nakamoto Zeit verkaufen BTC und der Kurs bricht ein
@@ -13,4 +13,12 @@
 11. **Crypto Drama**: Cardano schmiert ab weil Hoskinson eine Pause nehemen will: [Tweet](https://x.com/denverbitcoin/status/2062225043313267022?s=20)
 12. **IOTA Dashboard**: [Goated IOTA tweetet](https://x.com/GoatedIota/status/2062469039193006571?s=20) über ein neues Dashboard: [https://iota-tokenomics-with-twin.netlify.app/](https://iota-tokenomics-with-twin.netlify.app/)
 13. **Crypto Drama**: [Tweet](https://x.com/0xSweep/status/2062669425313010065?s=20) darüber, dass ZCash von Ki gehacked wurde und 25% fällt. [Tweet](https://x.com/cameron/status/2062721575695032530?s=20) zur Verteidigung von Cameron Winklevoss; [Tweet](https://x.com/WuBlockchain/status/2062702055345766511?s=20)
-14. 
+14. **IOTA Promote**: [vrom tweetet](https://x.com/Vrom14286662/status/2063544531069407720?s=20) mehrmals über sein [WM-Tippspiel](https://iota-donation.vercel.app/wm-tippspiel)
+15. **IOTA Exchange**: [Change now tweetet](https://x.com/ChangeNOW_io/status/2062856918650044829?s=20) darüber, dass sie IOTA gelistet haben und darüber, dass "@iota is building the infrastructure layer for the digitization of global trade and supply chains. All while staying one of the established names in crypto."
+16. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2062912330325762476?s=20) ein Video Schnipsel von [Dom Video Auftritt](https://www.youtube.com/embed/ZFOZ0eqfgns?autoplay=1&auto_play=true) auf dem World Knowledge Forum
+17. **IOTA Science**: [Kurt Tangle tweetet](https://x.com/kurt_tangle/status/2062872458915373558?s=20) über ein Patent: [Dynamic trust and safety unloading method for low-altitude unmanned aerial vehicle MEC](https://patents.google.com/patent/CN121887270A/en)
+18. **IOTA Adoption**: [Kurt Tangle tweetet](https://x.com/kurt_tangle/status/2063676020071247913?s=20) über ein soft-launche von dem "Trade Digitization Forum" wo IOTA offenbar eine große Rolle spielt; Hier noch ein [Tweet von Kurt Tangle](https://x.com/kurt_tangle/status/2063676426495176991?s=20) mit noch mehr Dtails
+19. **IOTA Promote**: [Ernaiscool tweetet](https://x.com/ernaistcool/status/2062992621702676829?s=20) nochmal ein [Video Interview mit Dom](https://www.youtube.com/embed/13WK2_ctw58?autoplay=1&auto_play=true) wo er über den "32 Billionen Dollar globaler Handel, On-Chainisierung" spricht, den IOTA bedienen will
+20. **IOTA Gaming**: [IOTA Luckyrooms tweetet](https://x.com/iotaluckyrooms/status/2063419132553383943?s=20) über seine IOTA Gaming Plattform: [IOTA Lucky Rooms](https://iotaluckyrooms.app/)
+21. **IOTA Adoption**: [CoinRabbit tweetet](https://x.com/CoinRabbitLoans/status/2062937432111067367?s=20) darüber, dass sie IOTA integriert haben auf ihrer [Lending Platform](https://coinrabbit.io) ("Unlock liquidity with CoinRabbit without having to sell your convictions")
+
