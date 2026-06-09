@@ -7,3 +7,4 @@
 5. **IOTA Promote**: [Salima tweetet](https://x.com/Salimasbegum/status/2064285546415861957?s=20) über den TWIN Handel zwischen UK und Kenia
 6. **IOTA Event**: [Sann tweetet](https://x.com/SoNowSann/status/2064312788890026241?s=20) über ein Event mit Orobo "waibsummit 9-10 June 2026!"
 7. **IOTA Promote**: [Iota.Rebased tweetet](https://x.com/IotaRebased/status/2064320614362460344?s=20) über das Handbuch vom [Global Blockchain Business Council (GBBC)](https://x.com/GBBC_io): [GBBCs 101 Real-World Blockchain Usecases...](https://assets.ctfassets.net/so75yocayyva/6zZVoaxLnwsCAgbOyRp5tu/b4ae4dea7553aea4781dab18310357bd/Handbook__2026__digital.pdf)
+8. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2064331683055231107?s=20) ein Videoschnipsel wo Dom sagt: "What we're building with TWIN is like the Swift of cross-border trade."
