@@ -32,6 +32,10 @@
 14. Staking Analyse (Stakebook): [stakebook.pandabyte.net](https://stakebook.pandabyte.net/)
 15. Stake vs Burn Tokenomics: [iota-tokenomics-with-twin.netlify.app](https://iota-tokenomics-with-twin.netlify.app/)
 
+## IOTA Tools:
+1. IOTA Meltdown Spamer: [iotacreamies.github.io/creamies/meltdown/](https://iotacreamies.github.io/creamies/meltdown/)
+2. Telegram Bot für IOTA Blockchain Aktivitäten: [StarfishOneBot](https://t.co/OASk3ZWDT7); [Tweet](https://x.com/starfishoneiota/status/2065322659647217952?s=20)
+
 ## Already working dApps for IOTA Rebased:
 1. DEX: [pools.finance](https://www.pools.finance/)
 2. DEX/Bridge: [houdiniswap.com](https://houdiniswap.com/)
@@ -80,10 +84,10 @@
 
 # IOTA Gaming
 1. Jump and run: [lostcrusader.xyz](http://www.lostcrusader.xyz/); [Tweet](https://x.com/_LostCrusader/status/1978347608063295639)
-2. [Tweet von Trapist 1 MMO](https://x.com/trappist1_mmo/status/1978689369897644327)
-3. [Tweet von IOTARoyale](https://x.com/IotaRoyale/status/2012940873072308626?s=20) über [test.iotaroyale.com](https://test.iotaroyale.com/lobby)
-4. [Tweet](https://x.com/iotaluckyrooms/status/2063419132553383943) über [iotaluckyrooms.app/](https://iotaluckyrooms.app)
-5. [IOTATO tweetet](https://x.com/IOTATO_TAT/status/2061149393990930783?s=20) über [https://www.iotato.xyz/](https://www.iotato.xyz/)
+2. Trapist: [Tweet von Trapist 1 MMO](https://x.com/trappist1_mmo/status/1978689369897644327)
+3. IOTARoyale: [Tweet von IOTARoyale](https://x.com/IotaRoyale/status/2012940873072308626?s=20) über [test.iotaroyale.com](https://test.iotaroyale.com/lobby)
+4. IOTA Luckyrooms: [Tweet](https://x.com/iotaluckyrooms/status/2063419132553383943) über [iotaluckyrooms.app/](https://iotaluckyrooms.app)
+5. IOTATO: [IOTATO tweetet](https://x.com/IOTATO_TAT/status/2061149393990930783?s=20) über [https://www.iotato.xyz/](https://www.iotato.xyz/)
 
 
 # Apps using IOTA Technology:
@@ -103,6 +107,7 @@
 14. Distributed Oracle: [iota-distributed-oracle.org](https://iota-distributed-oracle.org/) bzw. [oracle.objectid.io](oracle.objectid.io/)/
 15. Invoice Notarization: [docunotary.eu](https://docunotary.eu/)
 16. ADAPT/TWIN in 3 african countries -> soon: [Tweet](https://x.com/iota/status/2056729092540477466?s=20)
+17. IOTA Audit Trails: [iota.org/products/audit-trails](https://www.iota.org/products/audit-trails); Blogpost: [Business Records That Cross Every Boundary Trust Framework - Verify your Workflows with IOTA Audit Trails](https://blog.iota.org/iota-audit-trails/)
 
 
 # For IOTA Developer:
