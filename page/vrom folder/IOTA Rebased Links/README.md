@@ -108,6 +108,7 @@
 15. Invoice Notarization: [docunotary.eu](https://docunotary.eu/)
 16. ADAPT/TWIN in 3 african countries -> soon: [Tweet](https://x.com/iota/status/2056729092540477466?s=20)
 17. IOTA Audit Trails: [iota.org/products/audit-trails](https://www.iota.org/products/audit-trails); Blogpost: [Business Records That Cross Every Boundary Trust Framework - Verify your Workflows with IOTA Audit Trails](https://blog.iota.org/iota-audit-trails/)
+18. Teta (Technologie Enabling Trading Aliance) als Partner von TWIN: [teta.ltd](https://teta.ltd/)
 
 
 # For IOTA Developer:
