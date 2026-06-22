@@ -12,4 +12,4 @@
 10. **IOTA Update**: IOTA Protocol Update: [Tweet](https://x.com/IotaRebased/status/2067230975214702947?s=20)
 11. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/2067305946318074100?s=20) über ein Update beim [Staking Analyse Tool](https://dlt.green/en/services/iota-staking-analytics#validator-trend)
 12. **IOTA Ökosystem**: [Tweet von Kurt Tangle](https://x.com/kurt_tangle/status/2068408454641856613?s=20) über ein TWIN Update
-13. 
+13. **IOTA Event**: Es gab auch wieder viele Events von AfCFTA/Trademark Africa: [Tweet](https://x.com/AfCFTA/status/2068315531367604509?s=20); [Tweet (250 Leader Treffen)](https://x.com/TradeMarkAfrica/status/2069019477874729019?s=20); [Tweet](https://x.com/AfCFTA/status/2068034119238619495?s=20); [Tweet](https://x.com/AfCFTA/status/2067968235362775113?s=20); [Tweet](https://x.com/AfCFTA/status/2066601575775154204?s=20); [Tweet](https://x.com/AfCFTA/status/2066504552417722405?s=20)
