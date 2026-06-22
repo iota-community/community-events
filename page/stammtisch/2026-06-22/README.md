@@ -3,7 +3,7 @@
 1. **IOTA Spamtest**: Die [Creamies tweeten](https://x.com/iotacreamies/status/2066753288972730387?s=20) über ein neuen TPS Rekord auf dem Testnetz. Außderdem wollen sie bald einen Spamtest machen ([Tweet](https://x.com/iotacreamies/status/2066766881176834506?s=20)) mit ihrem neuen [Spam Tool](https://iotacreamies.github.io/creamies/meltdown/)
 2. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/2066644184724029894?s=20) über USDT um auf [vroms Frust-Tweet](https://x.com/Vrom14286662/status/2066514663177625641?s=20) zu antworten
 3. **IOTA Promote**: [IOTA Tweetet](https://x.com/iota/status/2066823097877921924?s=20) ein Video über ADAPT die jetzt den zweiten Schritt gehen: "...Chido Munyati, Leiterin Afrika bei @wef, über die Rolle von ADAPT beim Verwandeln kontinentaler Ambitionen in Taten."
-4. **IOTA Promote**: Tweets von TWIN: [Tweet 1](https://x.com/TWINGlobalOrg/status/2066898602685829420?s=20); [Tweet 2](https://x.com/TWINGlobalOrg/status/2067230791164174826?s=20)
+4. **IOTA Promote**: Tweets von TWIN: [Tweet 1](https://x.com/TWINGlobalOrg/status/2066898602685829420?s=20); [Tweet 2](https://x.com/TWINGlobalOrg/status/2067230791164174826?s=20); [Tweet 3](https://x.com/iota/status/2068680338398658934?s=20); [Tweet 3](https://x.com/TradeMarkAfrica/status/2068992672207868059?s=20)
 5. **IOTA Adoption**: IOTA wird erwähnt beim Bundesfinanzministerium: [Tweet Kurt Tangle](https://x.com/kurt_tangle/status/2067011376082547047?s=20); [Tweet von Salima](https://x.com/Salimasbegum/status/2067026894147444820?s=20); [Tweet mit Ki-Poster](https://x.com/aeonnumen/status/2067129787190022414?s=20)
 6. **IOTA Jobs**: TWIN stellt ein: [Tweet](https://x.com/kurt_tangle/status/2067030822910034009?s=20)
 7. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2067185487769391408?s=20) über [IOTA-Audit-Trails](https://blog.iota.org/iota-audit-trails/)
@@ -11,3 +11,5 @@
 9. **IOTA Science**: [Tweet 1](https://x.com/kurt_tangle/status/2067290696239784123?s=20) über ein Paper: [Programmable fairness in electricity markets: A cost-causation–consistent alternative to marginal pricing](https://www.sciencedirect.com/science/article/pii/S0140988326002240); [Tweet 2](https://x.com/kurt_tangle/status/2067285272732090844?s=20) über ein Paper: [Cost of Manipulation in AMM-Based Oracles](https://arxiv.org/pdf/2606.03548)
 10. **IOTA Update**: IOTA Protocol Update: [Tweet](https://x.com/IotaRebased/status/2067230975214702947?s=20)
 11. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/2067305946318074100?s=20) über ein Update beim [Staking Analyse Tool](https://dlt.green/en/services/iota-staking-analytics#validator-trend)
+12. **IOTA Ökosystem**: [Tweet von Kurt Tangle](https://x.com/kurt_tangle/status/2068408454641856613?s=20) über ein TWIN Update
+13. 
