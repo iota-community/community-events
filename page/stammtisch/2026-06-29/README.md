@@ -7,4 +7,7 @@
 5. **IOTA Promote** Die [IF tweetet](https://x.com/iota/status/2069359813813821487?s=20) ein Videoschnipsel von dem Dom-Interview: [Bridging the Trillion Dollar Trade Gap with Onchain...](https://www.youtube.com/embed/ZFOZ0eqfgns?autoplay=1&auto_play=true)
 6. **IOTA Events**: Treffen von TrademarkAfrica und AfCFTA: [Tweet 1](https://x.com/TradeMarkAfrica/status/2069353314865586361?s=20)
 7. **IOTA Adoption**: [Tweet von Kurt Tangle](https://x.com/kurt_tangle/status/2069390898861846911?s=20) über Siemens und IOTA ("iemens Healthineers is becoming increasingly visible in connection with IOTA and Digital Twin technology"); Hier auch [Salimas Tweet](https://x.com/Salimasbegum/status/2067702381350142289?s=20) dazu
-8. 
+8. **IOTA Drama**: Der Kurs von IOTA erreicht ein neues ATL: [IOTA Kurs auf CMC](https://coinmarketcap.com/de/currencies/iota/)
+9. **IOTA Video**: [Kurt Tangle tweetet](https://x.com/kurt_tangle/status/2069795649369801188?s=20) über ein [Video mit einem vom IOTA Advisory Board](https://youtu.be/cMg0DSQgfIE?t=2452&is=UYURDXrEPs9xnicK)
+10. **IOTA Promote**: [Stefan [IF] tweetet](https://x.com/iota_penguin/status/2070047639945580626?s=20) über den Afrika Markt den IOTA erobern will. Er schreibt: "laying the foundation for a digitally enabled African trade ecosystem, with the goal of reaching all 55 member countries by 2035."
+11. 
