@@ -21,4 +21,3 @@
 19. **IOTA Promote**: Die [IF tweetet](https://x.com/iota/status/2071217051545342140?s=20) über den digitalen Handel in Asien, der bereits >40% ist aber mit IOTA auf neutrale Infrastruktur setzen könnte
 20. **IOTA Promote**: [TWIN tweetet](https://x.com/TWINGlobalOrg/status/2071534144987750633?s=20) nochmal über den Blogpost: [TWIN's First Year: Pilots, Ports, and Progress](https://www.twin.org/post-details/twin-first-year) und auch ein [Video von TWIN](https://www.youtube.com/embed/Xury46PKOvw?autoplay=1&auto_play=true)
 21. **IOTA Promote**: [Encapsulate HQ macht einen Thread](https://x.com/encapHQ/status/2071589227981394157?s=20) über die wichtigsten IOTA Projekte
-
