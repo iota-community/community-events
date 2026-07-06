@@ -21,4 +21,4 @@
 19. **Crypto Drama**: [Strategie (M.Saylor) tweetet](https://x.com/saylor/status/2074101854875656316?s=20), dass sie 3588 BTCs verkauft haben um Dividenden zu bezahlen; [Details-Tweet](https://x.com/RobynHD/status/2074103144233988258?s=20)
 20. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/2074101055940341806?s=20) über den Artikel: [Why packaging non-compliance is becoming a major trade risk](https://www.packaging-gateway.com/features/why-packaging-non-compliance-is-becoming-a-major-trade-risk/)
 21. **IOTA Event**: Dom hat heute auf Telegram ([https://t.me/IOTA_Official_Community](https://t.me/IOTA_Official_Community) geschrieben, dass es Mitte Juli ein AMA geben wird
-22. 
+22. **IOTA Stammtisch**: Am Freitag ist IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/2074127508383948888?s=20)
