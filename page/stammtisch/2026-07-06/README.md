@@ -18,3 +18,7 @@
 16. **IOTA Drama**: [IOTA deutsch tweetet](https://x.com/IOTA_Deutsch/status/2074055951477354729?s=20), dass ihre Reise mit IOTA beendet ist.
 17. **IOTA Speculation**: [vrom retweetet](https://x.com/Vrom14286662/status/2074079960185156058?s=20) einen [Tweet von Logistic Update Africa](https://x.com/LogUpdateAfrica/status/2074043922368831611?s=20) die darüber berichten, dass Maersk einen neuen IOT Container entwickelt hat und hofft, dass IOTA eine Rolle spielt; Artikel: [Maersk upgrades reefer fleet with next-generation IoT technology](https://www.logupdateafrica.com/shipping/maersk-upgrades-reefer-fleet-with-next-generation-iot-technology-1359726)
 18. **IOTA Drama**: Scheinbar sind "160 Millionen aus dem Stake der IF seit Juli nicht mehr da": [stakebook.panabyte.net/....IF Adresse...](https://stakebook.pandabyte.net/address/0x1ee12dca0e798966a82f74c010c109e1bd0674f4f47517db6843f223bad5eb7c)
+19. **Crypto Drama**: [Strategie (M.Saylor) tweetet](https://x.com/saylor/status/2074101854875656316?s=20), dass sie 3588 BTCs verkauft haben um Dividenden zu bezahlen
+20. **IOTA Adoption**: Die [IF tweetet](https://x.com/iota/status/2074101055940341806?s=20) über den Artikel: [Why packaging non-compliance is becoming a major trade risk](https://www.packaging-gateway.com/features/why-packaging-non-compliance-is-becoming-a-major-trade-risk/)
+21. **IOTA Event**: Dom hat heute auf Telegram ([https://t.me/IOTA_Official_Community](https://t.me/IOTA_Official_Community) geschrieben, dass es Mitte Juli ein AMA geben wird
+22. 
