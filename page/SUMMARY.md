@@ -282,6 +282,7 @@
 - [2026-06-22](./stammtisch/2026-06-22/README.md)
 - [2026-06-29](./stammtisch/2026-06-29/README.md)
 - [2026-07-06](./stammtisch/2026-07-06/README.md)
+- [2026-07-13](./stammtisch/2026-07-13/README.md)
 
 
 
