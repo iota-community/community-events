@@ -11,7 +11,7 @@
 9. **IOTA Promote**: Artikel: [IOTA Powers Argentina’s National Organ Transplant System](https://altcoinsanalysis.com/iota-powers-argentinas-national-organ-transplant-system/)
 10. **IOTA AMA**: Die [IF tweetet](https://x.com/iota/status/2074878679503503442?s=20) über ein [AMA mit Dom](https://x.com/iota/status/2074878684117311549?s=20)
 11. **IOTA Wallet**: Scheinbar gibt es ein neues "open source?" Community Wallet für Developers: [Tweet](https://x.com/MAdolf13/status/2074862788875354201?s=20); GitHub: [Orange-Bar](https://github.com/lohegrimmig/Orange-Bar)
-12. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/2074127508383948888?s=20)
+12. **IOTA Stammtisch**: Am Freitag war IOTA Stammtisch in München: [Tweet](https://x.com/IotaMunchen/status/2074127508383948888?s=20); [Tweet mit Bildern](https://x.com/IotaMunchen/status/2075666672585707984?s=20)
 13. **IOTA Promote**: Neue Tweets von TWIN: [Tweet 1](https://x.com/TWINGlobalOrg/status/2074840934177460269?s=20); [Tweet 2](https://x.com/TWINGlobalOrg/status/2076245182069002554?s=20); [Tweet 3](https://x.com/TWINGlobalOrg/status/2075595903289725092?s=20)
 14. **IOTA Ökosystem**: [IOTAStaking tweetet](https://x.com/iotaStaking/status/2074886331080056922?s=20) über eine Bridge zu SUI die wohl im Testnetz aktiv ist
 15. **IOTA Ökosystem**: [Tweet](https://x.com/TangleSessions/status/2075191257538666659?s=20) darüber, dass von ADAPT der erste Stablecoin auf dem IOTA Testnetz für crossboarder payments aktiviert wurde
