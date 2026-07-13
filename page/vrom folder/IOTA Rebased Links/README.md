@@ -31,6 +31,7 @@
 13. IOTA L1 Analytics von [IOTAPunks](https://x.com/IotaPunks_71): [pulse.iotapunks.com](https://pulse.iotapunks.com/)
 14. Staking Analyse (Stakebook): [stakebook.pandabyte.net](https://stakebook.pandabyte.net/)
 15. Stake vs Burn Tokenomics: [iota-tokenomics-with-twin.netlify.app](https://iota-tokenomics-with-twin.netlify.app/)
+16. IOTA Mainet Tracker: [tracker.my2c.eu](https://tracker.my2c.eu/)
 
 ## IOTA Tools:
 1. IOTA Meltdown Spamer: [iotacreamies.github.io/creamies/meltdown/](https://iotacreamies.github.io/creamies/meltdown/)
