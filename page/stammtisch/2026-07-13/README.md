@@ -1,6 +1,6 @@
 ## IOTA Stammtischthemen für Montag, den 13.7.2026
 
-1. **IOTA Stammtischt**: [IOTA Community D/A/CH tweetet](https://x.com/IOTARebasedDACH/status/2074379235028865364?s=20) von einem ersten guten Stammtisch letzte Woche mit fas 50 Teilnehmern
+1. **IOTA Stammtischt**: [IOTA Community D/A/CH tweetet](https://x.com/IOTARebasedDACH/status/2074379235028865364?s=20) von einem ersten guten Stammtisch letzte Woche mit fast 50 Teilnehmern
 2. **IOTA Ökosystem**: [DLT.GREEEN tweetet](https://x.com/dlt_green/status/2074197066885087733?s=20) über ein Update von ihrem [Stakind Analyse Tool](https://t.co/jEGeQDOlyt) ("fully mobile-friendly, ...")
 3. **IOTA AMA**: Dom will mitte Juli ein AMA machen: [Tweet mit Screenshot](https://x.com/IotaPunks_71/status/2074171396091936930?s=20) -> s. Punkt 10
 4. **IOTA Promote**: [kingloui tweetet](https://x.com/louie2thesky/status/2074557255672868923?s=20) ein Promo-Video von/über TWIN
