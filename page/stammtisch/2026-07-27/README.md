@@ -5,3 +5,5 @@
 3. **IOTA Promote**: [Orobo tweetet](https://x.com/HelloOrobo/status/2079394587853127971?s=20) über ein Filmteam, dass bei ihnen im Büro vorbei geschaut hat und ihrem Founder-Journey folgt
 4. **Crypto Adoption**: Fortschritte beim Clairity Act: [Tweet](https://x.com/coinbureau/status/2079340855903879613?s=20); Artikel: [Laut mehreren Quellen hat US-Präsident Donald Trump schärferen Ethikregeln im Rahmen des CLARITY Act zugestimmt](https://www.blocktrainer.de/blog/laut-insidern-trump-hat-strengen-ethikregeln-fuer-den-clarity-act-zugestimmt)
 5. **IOTA Promote**: Tweets von TWIN: [Tweet 1](https://x.com/TWINGlobalOrg/status/2079219783875105265?s=20); [Tweet 2](https://x.com/TWINGlobalOrg/status/2079551973167120670?s=20); [Tweet]()
+6. **Crypto Adoption**: Neue Crypto Regulierung in Russland: [Tweet](https://x.com/coinbureau/status/2079567076499361931?s=20)
+7. 
