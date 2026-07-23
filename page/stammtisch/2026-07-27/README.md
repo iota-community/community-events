@@ -14,4 +14,5 @@
 12. **IOTA Promote**: Artikel: [IOTA Audit Trails, One Month In: Can Blockchain Fix Broken Paper Trails?](https://chainaffairs.com/iota-audit-trails-one-month-in-can-blockchain-fix-broken-paper-trails/)
 13. **Crypto Adoption**: Tesla hat seine BTC Bestände nicht verkauft: [Tweet](https://x.com/WatcherGuru/status/2080022942151331992?s=20)
 14. **IOTA Promote**: [Orobo tweetet](https://x.com/HelloOrobo/status/2080125420394168460?s=20) über ihren DPP
-15. 
+15. **Crypto Adoption**: Große Firmen schließen sich für Bitcon Security zusammen (Strategy, BlackRock, Fidelity und Coinbase...): [Tweet](https://x.com/FurkanCCTV/status/2080270859713777716?s=20)
+16. **IOTA Drama**: Shimmer Sunnset: [Tweet von Shimmer](https://x.com/shimmernet/status/2080276750408331272?s=20); Blogpost: [Shimmer is Sunsetting](https://blog.shimmer.network/shimmer-is-sunsetting/)
