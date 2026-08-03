@@ -17,3 +17,5 @@
 15. **IOTA Artikel**: [Argentina launches IOTA decentralized IDs, blockchain for organ transplants](https://www.biometricupdate.com/202607/argentina-launches-iota-decentralized-ids-blockchain-for-organ-transplants)
 16. **IOTA Adoption**: [Tweet mit Screenshot](https://x.com/Vrom14286662/status/2084248408538149271?s=20) zu den Transaktionen von Turing Certs auf IOTA
 17. **IOTA Adoption**: [SALUS tweetet](https://x.com/salusplatform/status/2084247923341340826?s=20), dass sie die Tür öffnen für festverzinsliche Anlagen "Rohstoff-Handelsfinanzierung" mit 60-90 Tage Laufzeit und unter 1% Ausfallwahrscheinlichkeit
+18. **IOTA Promote**: [Nanson macht einen Thread](https://x.com/nansen_ai/status/2084263760903188576?s=20) über "IOTA’s Q2 2026 story"
+19. **Crypto Adoption**: Scheinbar ist heute ein wichtiges Meeting zum Clarity Act: [Tweet](https://x.com/TrendingBitcoin/status/2084140109709132077?s=20); Morgen wird wohl abgestimmt: [Tweet](https://x.com/TheMoonHailey/status/2084265544887259245?s=20)
