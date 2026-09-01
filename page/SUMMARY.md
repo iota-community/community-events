@@ -290,6 +290,7 @@
 - [2026-08-17](./stammtisch/2026-08-17/README.md)
 - [2026-08-24](./stammtisch/2026-08-24/README.md)
 - [2026-08-31](./stammtisch/2026-08-31/README.md)
+- [2026-09-07](./stammtisch/2026-09-07/README.md)
 
 
 
