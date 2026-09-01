@@ -1,5 +1,7 @@
 ## IOTA Stammtischthemen für Montag, den 17.08.2026
 
+Hinweis: Die Inhalte stammen aus Reposts des vrom-Bot und nicht direkt von Vrom.
+
 1. **IOTA Development**: [Iota Feed repostet](https://x.com/theiotafeed/status/2086904310730981812), dass P-COOL seit dem 3. August auf dem Devnet aktiv ist und damit der zertifikatslose Transaction-Flow erstmals auf einem öffentlichen Netzwerk läuft
 2. **IOTA Development**: [Andjelo Stojanoski repostet](https://x.com/Andzelo1988/status/2088118734720249974) das Mainnet Release [IOTA v1.29.0](https://github.com/iotaledger/iota/releases/tag/v1.29.0) mit Starfish-Optimierungen, StarfishSpeed auf Testnet und reduziertem Leader-Timeout
 3. **IOTA Ökosystem**: [Die IF tweetet](https://x.com/iota/status/2088264379431023083), dass IOTA L1 jetzt Pyth Pro nutzt: schnellere Updates, mehr Price Feeds und institutionelle Zuverlässigkeit; Details im Blogpost: [IOTA connects Pyth Pro](https://blog.iota.org/iota-connects-pyth-pro/)

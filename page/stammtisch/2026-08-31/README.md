@@ -1,5 +1,7 @@
 ## IOTA Stammtischthemen für Montag, den 31.08.2026
 
+Hinweis: Die Inhalte stammen aus Reposts des vrom-Bot und nicht direkt von Vrom.
+
 1. **IOTA Adoption**: [TWIN tweetet](https://x.com/TWINGlobalOrg/status/2091895811235823857), dass der größte Teil des globalen Handels auf offenen Zahlungszielen und Vertrauen läuft, was für neue Exporteure ohne Historie schwierig ist
 2. **IOTA Adoption**: [Die IF tweetet](https://x.com/iota/status/2092280845767700819), dass globale Handelsflüsse 2025 über 35 Billionen USD erreicht haben und neutrale Infrastruktur nötig ist, damit keine Partei den gemeinsamen Datensatz kontrolliert
 3. **IOTA Community**: [IOTA Community D|A|CH tweetet](https://x.com/IOTARebasedDACH/status/2092228667812250071) über Fragen aus der Community zur IOTA-Kursbewegung und den Zusammenhang mit Projektentwicklung und TWIN

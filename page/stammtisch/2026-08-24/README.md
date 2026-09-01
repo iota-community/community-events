@@ -1,5 +1,7 @@
 ## IOTA Stammtischthemen für Montag, den 24.08.2026
 
+Hinweis: Die Inhalte stammen aus Reposts des vrom-Bot und nicht direkt von Vrom.
+
 1. **IOTA Community**: [IOTA Community D|A|CH tweetet](https://x.com/IOTARebasedDACH/status/2089403620642914690), dass der Stammtisch am 17. August um 20:15 Uhr startet, diesmal in Urlaubsvertretung ohne Vrom
 2. **IOTA Community**: [IOTA Community D|A|CH tweetet](https://x.com/IOTARebasedDACH/status/2089304623995609278), dass die deutsche IOTA-Gemeinschaft fusioniert ist und nun über 300 Mitglieder hat; Links zu Discord, Telegram und X werden geteilt
 3. **IOTA Adoption**: [Die IF tweetet](https://x.com/iota/status/2089291146358898984), dass zwei Kreditgeber denselben Trade finanzieren könnten, wenn sie nur Papier sehen; gemeinsame Infrastruktur macht sichtbar, ob ein Trade bereits als Sicherheit genutzt wurde
