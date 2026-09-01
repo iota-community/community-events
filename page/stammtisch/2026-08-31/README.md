@@ -1,3 +1,21 @@
 ## IOTA Stammtischthemen für Montag, den 31.08.2026
 
-1. 
+Hinweis: Die Inhalte wurden automatisch von vroms Ki erstellt aus den Reposts von vrom auf X.
+
+1. **IOTA Adoption**: [TWIN tweetet](https://x.com/TWINGlobalOrg/status/2091895811235823857), dass der größte Teil des globalen Handels auf offenen Zahlungszielen und Vertrauen läuft, was für neue Exporteure ohne Historie schwierig ist
+2. **IOTA Adoption**: [Die IF tweetet](https://x.com/iota/status/2092280845767700819), dass globale Handelsflüsse 2025 über 35 Billionen USD erreicht haben und neutrale Infrastruktur nötig ist, damit keine Partei den gemeinsamen Datensatz kontrolliert
+3. **IOTA Community**: [IOTA Community D|A|CH tweetet](https://x.com/IOTARebasedDACH/status/2092228667812250071) über Fragen aus der Community zur IOTA-Kursbewegung und den Zusammenhang mit Projektentwicklung und TWIN
+4. **IOTA Development**: [Andjelo Stojanoski tweetet](https://x.com/Andzelo1988/status/2092551084078235856) über das Mainnet Release [IOTA v1.30.1](https://github.com/iotaledger/iota/releases/tag/v1.30.1) mit Protocol Version 33, stabilisiertem Checkpoint-System und besserer Node-Synchronisation
+5. **IOTA Development**: [IOTArebased.iota tweetet](https://x.com/IotaRebased/status/2092582029112299817), dass IOTA Mainnet Release v1.30.1 und Protocol Version 33 live gehen und der Fokus Richtung production-grade Trade Infrastructure wandert
+6. **IOTA Exchange**: [Tempestware Hounds tweetet](https://x.com/tempestwaresETH/status/2092547650214105227), dass eine Community-Vote-Seite für ein mögliches $IOTA Listing auf Moonshot V2 live sei
+7. **IOTA Promote**: [Die IF tweetet](https://x.com/iota/status/2092975423332217014), dass Handelsinfrastruktur meist erst auffällt, wenn sie scheitert, aber der dabei entstehende Datensatz für Finanzierung entscheidend sein kann
+8. **IOTA Community**: [IOTA Community D|A|CH tweetet](https://x.com/IOTARebasedDACH/status/2092979236998885755) eine Kursanalyse zu IOTA und der möglichen Richtungsentscheidung am Freitag nach der Konsolidierung
+9. **IOTA Adoption**: [TWIN tweetet](https://x.com/TWINGlobalOrg/status/2093368011625300340), dass Grenzadministration bis zu 20% des Retail-Preises ausmachen kann, weil dieselben Details bei jedem Handover erneut geprüft werden
+10. **IOTA Ökosystem**: [kowei.iota tweetet](https://x.com/kowei1995/status/2093748775366123713), dass nach dem KuCoin-Hinweis zu abnormalen Deposits weitere Exchanges wie Binance und OKX kontaktiert wurden, um attacker-linked Addresses zu screenen und einzufrieren
+11. **IOTA Drama**: [Virtue tweetet](https://x.com/Virtue_Money/status/2093733984463470671) über einen Security Incident: Das Virtue CDP Protocol wurde eingefroren; Borrowing, Repayment, Deposits, Withdrawals, Liquidations und Flash Loans wurden gestoppt
+12. **IOTA Drama**: [Virtue veröffentlicht](https://x.com/Virtue_Money/status/2094074502447825150) einen Post Incident Report: 45 User wurden liquidiert, 23.215.117 IOTA-equivalent Collateral zur Deckung von 455.103 VUSD Debt genutzt
+13. **IOTA Drama**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/2094087107165720767) eine grafische Übersicht zum Virtue Post Incident Report und verlinkt den Bericht von Virtue
+14. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/2094071128083898878), dass Validatoren nach dem Virtue Security Incident schnell koordiniert haben, um das Netzwerk zu schützen
+15. **Crypto Drama**: [Jeremy tweetet](https://x.com/Jeremybtc/status/2094161493235580951), dass ein Hacker 75 Mio. USD aus einem Lending Protocol abgezogen habe und die Cronos-Chain gestoppt wurde
+16. **Crypto Regulation**: [Blocktrainer tweetet](https://x.com/blocktrainer/status/2094011915429191790) über einen Ransomware-Fall in Berlin mit 30 BTC Forderung und ordnet ein, warum nicht Bitcoin, sondern Datensammlungen wie DAC8 das Problem seien
+17. **IOTA Chart**: [Kamile Uray tweetet](https://x.com/remdocan/status/2093227398338638102) eine technische Einschätzung zu #IOTA mit Einstiegszone, Stop und Kurszielen
