@@ -1,0 +1,18 @@
+## IOTA Stammtischthemen für Montag, den 07.09.2026
+
+Hinweis: Die Inhalte wurden automatisch von vroms Ki erstellt aus den Reposts von vrom auf X.
+
+1. **IOTA Adoption**: [TWIN tweetet](https://x.com/TWINGlobalOrg/status/2094440073060139133), dass Exporteure ohne bankübliche Sicherheiten oft trotzdem Finanzierung über Buying Agents und Exporter-Financiers bekommen, diese aber Risiken einpreisen müssen, die sie nicht selbst verifizieren können
+2. **IOTA Ökosystem**: [DLT.GREEN tweetet](https://x.com/dlt_green/status/2094505383209607329), dass die Sustainability Policy auf Version 1.1 vom 31. August 2026 aktualisiert wurde, u.a. mit Governance-Wording im Zusammenhang mit dem Rebranding
+3. **IOTA Promote**: [Die IF tweetet](https://x.com/iota/status/2094757163906302097), dass in Afrika jährlich rund 100 Milliarden USD an Handelsfinanzierung fehlen und verifizierbare Nachweise verändern können, was Kreditgeber bewerten und bepreisen können
+4. **IOTA Adoption**: [Salima tweetet](https://x.com/Salimasbegum/status/2094847531062612269), dass bei großen Projekten siebenstellige Finanzierungsentscheidungen realistischer werden und ordnet USDT0 als mögliche nächste Phase für IOTA ein
+5. **IOTA Adoption**: [AfCFTA tweetet](https://x.com/AfCFTA/status/2094833187247587342), dass das AfCFTA-Sekretariat und QuestGhana Limited einen Joint-Venture-Vertrag für einen digitalen AfCFTA-Handelskorridor im Wert von 5,17 Milliarden USD unterzeichnet haben
+6. **IOTA Ökosystem**: [IOTAPUNKS tweetet](https://x.com/IotaPunks_71/status/2094998811319967912), dass TuringCerts Issuance auf IOTA um 1776% gegenüber dem 7-Tage-Durchschnitt gestiegen ist; Pulse zeigt 2.048 Transaktionen am Vortag
+7. **IOTA Adoption**: [TWIN tweetet](https://x.com/TWINGlobalOrg/status/2095089353366048925), dass rund 70% der Letters of Credit beim ersten Einreichen abgelehnt werden und Exporteure dadurch oft Wochen auf Zahlung warten
+8. **IOTA Development**: [IOTA Community D|A|CH tweetet](https://x.com/IOTARebasedDACH/status/2095237594640466120) über das IOTA Distributed Oracle als konsensbasierte, dezentrale Oracle-Infrastruktur für wiederkehrende oder einmalige Off-Chain-Datenaufgaben auf IOTA
+9. **IOTA Adoption**: [IOTA Community D|A|CH tweetet](https://x.com/IOTARebasedDACH/status/2095268369050062936), dass internationaler Handel sich von papierbasierten Frachtbriefen zu elektronischen Varianten weiterentwickelt und TWIN auf IOTA dabei eine Rolle spielt
+10. **IOTA Promote**: [Die IF tweetet](https://x.com/iota/status/2095542338986582303), dass Handelsvorgänge Monate nach Settlement noch nachvollziehbar sein müssen und dafür eine Historie zählt, die niemand nachträglich ändern konnte
+11. **IOTA Events**: [FUTUREMODE Taipei Blockchain Week tweetet](https://x.com/TaipeiWeek/status/2095724116884226056), dass Kowei von IOTA auf der FUTUREMODE Stage zum Thema zukünftige Städte dabei ist
+12. **IOTA Adoption**: [TWIN tweetet](https://x.com/TWINGlobalOrg/status/2095889626229620764), dass jährlich 2,5 Billionen USD an Trade Finance angefragt und abgelehnt werden, obwohl Waren, Käufer und Papierkram real sind
+13. **IOTA Promote**: [Die IF tweetet](https://x.com/iota/status/2096176516044345717), dass digitale Handelsreformen laut UN die globalen Handelskosten um bis zu 14% senken könnten, wenn Zertifikate grenzüberschreitend akzeptiert werden
+14. **IOTA Adoption**: [IOTArebased.iota tweetet](https://x.com/IotaRebased/status/2096220957127974992), dass tausende Verifiable Credentials über Turing Certs auf IOTA onchain gehen, u.a. für digitale Zertifikate des Japan Mathematics Certification Institute
