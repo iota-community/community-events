@@ -39,10 +39,11 @@
 
 ## Already working dApps for IOTA Rebased:
 1. DEX: [pools.finance](https://www.pools.finance/)
-2. DEX/Bridge: [houdiniswap.com](https://houdiniswap.com/)
-3. SUI/IOTA Bridge: [bridge.liquidlink.io](http://bridge.liquidlink.io/)
-4. Leverage Trading: [rebased.cyberperp.io/trade](https://rebased.cyberperp.io/trade) von [x.com/cyberperp](https://x.com/cyberperp)
-5. Bridge IOTA L1(Move VM) <-> L2(EVM): [evm-bridge.iota.org](https://evm-bridge.iota.org/)
+2. Bridge USDT0: [usdt0.to](https://usdt0.to/)
+3. DEX/Bridge: [houdiniswap.com](https://houdiniswap.com/)
+4. SUI/IOTA Bridge: [bridge.liquidlink.io](http://bridge.liquidlink.io/)
+5. Leverage Trading: [rebased.cyberperp.io/trade](https://rebased.cyberperp.io/trade) von [x.com/cyberperp](https://x.com/cyberperp)
+6. Bridge IOTA L1(Move VM) <-> L2(EVM): [evm-bridge.iota.org](https://evm-bridge.iota.org/)
 7. Token Launchpad: [tokenlabs.network/forge](https://tokenlabs.network/forge)
 8. IOTA ORACLE: [IOTA Decentralized Oracle](https://iota-distributed-oracle.org/#/webview) usable in testnet for example on [oracle.iota.testnet.dlt.green](https://oracle.iota.testnet.dlt.green/)
 9. Liquid Staking: [swirlstake.com](https://swirlstake.com/)
