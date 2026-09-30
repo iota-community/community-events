@@ -67,6 +67,7 @@
 15. Turing Certs Verifier ("Verify Any Document in Seconds"): [verify.turingcerts.com](verify.turingcerts.com)
 16. Prediction Market: [vectramarket.com](https://vectramarket.com/)
 17. WOT.ID: Trust Plattform for digital Identities and more: [wot.id](https://wot.id)
+18. SWAP fuer Barba (NFT-Coin, auf X: [x.com/Barba_ffm](https://x.com/Barba_ffm)): [swap.barbarebased.com](https://swap.barbarebased.com/)
 
 
 ## Upcoming dApps for IOTA Rebased:
