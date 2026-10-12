@@ -1,0 +1,249 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>2026-10-12 - IOTA Stammtisch Themen</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../../favicon-de23e50b.svg">
+        <link rel="shortcut icon" href="../../favicon-8114d1fc.png">
+        <link rel="stylesheet" href="../../css/variables-8adf115d.css">
+        <link rel="stylesheet" href="../../css/general-e96d0476.css">
+        <link rel="stylesheet" href="../../css/chrome-d279d366.css">
+        <link rel="stylesheet" href="../../css/print-9e4910d8.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../fonts/fonts-9644e21d.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="mdbook-highlight-css" href="../../highlight-493f70e1.css">
+        <link rel="stylesheet" id="mdbook-tomorrow-night-css" href="../../tomorrow-night-4c0ae647.css">
+        <link rel="stylesheet" id="mdbook-ayu-highlight-css" href="../../ayu-highlight-3fdfc3ac.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "../../";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "../../searchindex-17bb9350.js";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="../../toc-e0d39b9f.js"></script>
+    </head>
+    <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
+    <div id="mdbook-body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="mdbook-sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("mdbook-sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+                sidebar_toggle.checked = false;
+            }
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
+        </script>
+
+        <nav id="mdbook-sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="../../toc.html"></iframe>
+            </noscript>
+            <div id="mdbook-sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="mdbook-page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="mdbook-menu-bar-hover-placeholder"></div>
+                <div id="mdbook-menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="mdbook-sidebar-toggle" class="icon-button" for="mdbook-sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="mdbook-sidebar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"/></svg></span>
+                        </label>
+                        <button id="mdbook-theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="mdbook-theme-list">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M371.3 367.1c27.3-3.9 51.9-19.4 67.2-42.9L600.2 74.1c12.6-19.5 9.4-45.3-7.6-61.2S549.7-4.4 531.1 9.6L294.4 187.2c-24 18-38.2 46.1-38.4 76.1L371.3 367.1zm-19.6 25.4l-116-104.4C175.9 290.3 128 339.6 128 400c0 3.9 .2 7.8 .6 11.6c1.8 17.5-10.2 36.4-27.8 36.4H96c-17.7 0-32 14.3-32 32s14.3 32 32 32H240c61.9 0 112-50.1 112-112c0-2.5-.1-5-.2-7.5z"/></svg></span>
+                        </button>
+                        <ul id="mdbook-theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-ayu">Ayu</button></li>
+                        </ul>
+                        <button id="mdbook-search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="mdbook-searchbar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352c79.5 0 144-64.5 144-144s-64.5-144-144-144S64 128.5 64 208s64.5 144 144 144z"/></svg></span>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">IOTA Stammtisch Themen</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <span class=fa-svg id="print-button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M128 0C92.7 0 64 28.7 64 64v96h64V64H354.7L384 93.3V160h64V93.3c0-17-6.7-33.3-18.7-45.3L400 18.7C388 6.7 371.7 0 354.7 0H128zM384 352v32 64H128V384 368 352H384zm64 32h32c17.7 0 32-14.3 32-32V256c0-35.3-28.7-64-64-64H64c-35.3 0-64 28.7-64 64v96c0 17.7 14.3 32 32 32H64v64c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V384zm-16-88c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24z"/></svg></span>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="mdbook-search-wrapper" class="hidden">
+                    <form id="mdbook-searchbar-outer" class="searchbar-outer">
+                        <div class="search-wrapper">
+                            <input type="search" id="mdbook-searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="mdbook-searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <span class=fa-svg id="fa-spin"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M304 48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zm0 416c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM48 304c26.5 0 48-21.5 48-48s-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48zm464-48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM142.9 437c18.7-18.7 18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zm0-294.2c18.7-18.7 18.7-49.1 0-67.9S93.7 56.2 75 75s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zM369.1 437c18.7 18.7 49.1 18.7 67.9 0s18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9z"/></svg></span>
+                            </div>
+                        </div>
+                    </form>
+                    <div id="mdbook-searchresults-outer" class="searchresults-outer hidden">
+                        <div id="mdbook-searchresults-header" class="searchresults-header"></div>
+                        <ul id="mdbook-searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('mdbook-sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('mdbook-sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#mdbook-sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="mdbook-content" class="content">
+                    <main>
+                        <h2 id="iota-stammtischthemen-für-montag-den-12102026"><a class="header" href="#iota-stammtischthemen-für-montag-den-12102026">IOTA Stammtischthemen für Montag, den 12.10.2026</a></h2>
+<p>Hinweis: Die Inhalte wurden automatisch von vroms Ki aus den Reposts von vrom auf X erstellt; thematisch ähnliche Reposts sind zusammengefasst.</p>
+<ol>
+<li><strong>Validator Alchemy beendet den Betrieb</strong>: Der Validator „Alchemy“ hat am 5. Oktober seinen Austritt beantragt und schied am folgenden Tag aus dem aktiven Set aus. <a href="https://x.com/theiotafeed/status/2107497683606802722">Iota Feed berichtet</a>, dass anschließend 11,18 Millionen IOTA beziehungsweise 76,8 Prozent des Pools von der Tangle Ecosystem Association abgezogen wurden; gut drei Millionen IOTA blieben zunächst ohne Staking-Erträge. Nach dem Austritt waren noch 62 Validatoren aktiv</li>
+<li><strong>IOTA DeFi und Perpetuals</strong>: Die bislang nicht offiziell angekündigte Perpetuals-Börse im IOTA-Mainnet hat neben BTC-USDT offenbar einen zweiten Handelsmarkt freigeschaltet. <a href="https://x.com/whatmicha/status/2108302351131979869">what.iota meldet</a> den neuen ETH-USDT-Markt. Damit wächst das Angebot der jungen Börse, während Betreiber, öffentlicher Zugang und tatsächliche Verteilung der Handelsaktivität weiterhin beobachtet werden sollten</li>
+<li><strong>RESULD-Pilot mit messbaren Verbesserungen</strong>: Der reale RESULD-Pilot soll Abläufe um 30 Prozent beschleunigt und den manuellen Aufwand um 32 Prozent reduziert haben. <a href="https://x.com/whatmicha/status/2107828097282420737">what.iota fasst</a> zusammen, dass in der nächsten Phase phytosanitäre und veterinärmedizinische Daten von Hafen zu Hafen einbezogen werden sollen; TWIN und IOTA gehören zur technischen Grundlage des Projekts</li>
+<li><strong>TWIN und elektronische Pflanzengesundheitszeugnisse</strong>: Pflanzengesundheitszeugnisse begleiten zahlreiche Lieferungen von Obst, Blumen und Getreide. <a href="https://x.com/TWINGlobalOrg/status/2108588299338056042">TWIN erklärt</a>, dass inzwischen 100 Länder solche Dokumente über den ePhyto Hub der International Plant Protection Convention elektronisch austauschen, während nicht angeschlossene Länder weiterhin Papier erhalten. Das Beispiel zeigt, warum interoperable, überprüfbare Handelsdaten über Ländergrenzen hinweg benötigt werden</li>
+<li><strong>Digitalisierung und Handelsfinanzierung</strong>: Laut <a href="https://x.com/TWINGlobalOrg/status/2107501135523180853">TWIN Foundation</a> wird digitalisierte Handelsdokumentation mit 40 Prozent kürzeren Versandzeiten und 80 Prozent geringeren Bearbeitungskosten verbunden. <a href="https://x.com/iota/status/2108180612863442946">IOTA erläutert</a>, dass Importeur und Exporteur häufig lange Kapital binden, obwohl dieselben Dokumente über Freigabe und Zahlung entscheiden. Bei einem Jahreszins von zwölf Prozent kostet eine nach 60 Tagen zurückgezahlte Handelsfinanzierung laut einem <a href="https://x.com/iota/status/2108897839937896516">weiteren IOTA-Beitrag</a> rund zwei Prozent des finanzierten Betrags und kann damit über die Rentabilität eines Exports entscheiden</li>
+<li><strong>DLT.GREEN IOTA-Infrastruktur</strong>: DLT.GREEN hat eine eigene Seite für seine <a href="https://x.com/dlt_green/status/2107799925362655420">IOTA-Protokoll-Distribution</a> veröffentlicht. Sie ergänzt die bereits angebotenen Validator-, Staking- und Reporting-Werkzeuge und macht die technische Infrastruktur des Unternehmens für das IOTA-Mainnet sichtbarer</li>
+<li><strong>PULSE Live Feed und Marktdaten</strong>: IOTAPUNKS hat PULSE um einen <a href="https://x.com/IotaPunks_71/status/2108475666542846045">Live Feed</a> erweitert, der gebührenpflichtige L1-Transaktionen, verbrannte IOTA, TPS und die neuesten Vorgänge im Zehn-Sekunden-Takt darstellt. Für Epoch 522 wurden zwischenzeitlich <a href="https://x.com/IotaPunks_71/status/2108479641057132730">6.735 gebührenpflichtige Transaktionen und 13,2 verbrannte IOTA</a> angezeigt. Zusätzlich meldete PULSE rund <a href="https://x.com/IotaPunks_71/status/2109131943388365096">7,3 Millionen US-Dollar Open Interest</a> in IOTA-Derivaten und bei Bitfinex eine Verteilung von 93 Prozent Long zu sieben Prozent Short</li>
+<li><strong>Daily Climb aus der IOTA-Community</strong>: Cigamatoi.iota hat mit wenig vorheriger Entwicklungserfahrung und Unterstützung durch KI ein neues Community-Spiel gebaut, das Vrom in <a href="https://x.com/Vrom14286662/status/2109364639641281008">mehreren Beiträgen</a> aufgegriffen hat. Bei <a href="https://x.com/Cigamatoi_iota/status/2109390267820527721">Daily Climb</a> treten Spieler in einem Kletterspiel gegeneinander an und teilen ihre Ergebnisse; zum Einsatz kamen unter anderem Claude, Meshy AI und Blender. Das Projekt ist ein anschauliches Beispiel dafür, wie KI die Einstiegshürde für Community-Entwicklung senken kann</li>
+<li><strong>Ask IOTA im Praxistest</strong>: <a href="https://x.com/IotaRebased/status/2109163335866323185">IOTArebased zeigt</a> anhand einer Frage zu vertrauenswürdiger staatlicher Infrastruktur, wie der IOTA Official Source Assistant Informationen aus offiziellen Quellen zu TWIN, ADAPT, Starfish, Identität und Compliance zusammenführt. Der Assistent soll damit die Recherche im zunehmend breiten IOTA-Ökosystem erleichtern</li>
+<li><strong>AfCFTA-Handel wird operativer</strong>: Das AfCFTA-Netzwerk der National Trading Companies umfasst inzwischen <a href="https://x.com/AfCFTA/status/2108558461784994040">20 anerkannte Unternehmen in zehn afrikanischen Ländern</a>, unter anderem aus Agrarverarbeitung, Lebensmittelindustrie, Logistik und industrieller Produktion. Ein Webinar am 11. November soll Unternehmen aus Tschad, Ägypten, Ghana, Kenia und Ruanda zusammenbringen und praktische Erfahrungen beim Aufbau grenzüberschreitender Partnerschaften vermitteln</li>
+<li><strong>TradeMark Africa und Handelskorridore</strong>: TradeMark Africa sucht Beratungsunternehmen zur Überprüfung von Handelsprozessen und zur Erleichterung des Verkehrs auf den Korridoren <a href="https://x.com/TradeMarkAfrica/status/2108799698035147210">Abidjan-Lagos und Abidjan-Ouagadougou</a>. Zusätzlich startete TMA ein vierwöchiges Programm für <a href="https://x.com/TradeMarkAfrica/status/2109581653467070852">400 südsudanesische Grenzhändler und 48 Behördenvertreter</a> entlang des Nimule-Elegu-Korridors. Solche Vorhaben sind für IOTA relevant, weil TWIN perspektivisch die digitale Dateninfrastruktur für interafrikanischen Handel bereitstellen soll</li>
+<li><strong>Wallet-Sicherheit</strong>: Mehrere Community-Beiträge warnen vor möglichen kompromittierten Ledger-Geräten eines asiatischen Wiederverkäufers und nennen Schäden von mehr als 80 beziehungsweise 90 Millionen US-Dollar; <a href="https://x.com/IotaRebased/status/2108608478747169083">IOTArebased verweist</a> auf eine Warnung der Malaysia Blockchain Week. Außerdem meldet der Account den unautorisierten Verkauf mehrerer Unstoppable Domains über <a href="https://x.com/IotaRebased/status/2108814631762542612">Magic Eden</a>. Da die genannten Gesamtschäden in den geteilten Beiträgen nicht vollständig durch hier verlinkte Untersuchungsberichte belegt sind, sollten sie als laufende Sicherheitsmeldungen behandelt werden. Betroffene sollten ausschließlich offizielle Herstellerhinweise nutzen und keine Seed Phrase eingeben</li>
+<li><strong>USA: CFTC-Regeln statt CLARITY Act</strong>: Nachdem der CLARITY Act im September nicht über die Verfahrenshürde im Senat kam, hat die CFTC ein Verfahren für einen eigenen bundesweiten Regulierungsrahmen zu gehebelten Krypto-Transaktionen eröffnet. Die <a href="https://www.cftc.gov/PressRoom/PressReleases/9307-26">CFTC-Mitteilung</a> zielt auf speziell für Krypto zugeschnittene Regeln für Retail Commodity Transactions. Damit verschiebt sich die kurzfristige Regulierung von einem umfassenden Gesetz stärker zu SEC und CFTC; der CLARITY Act selbst hat in dieser Woche keinen neuen parlamentarischen Fortschritt erzielt</li>
+<li><strong>EU: MiCA und nicht konforme Stablecoins</strong>: Die ESMA hat ihre Erwartungen an Kryptodienstleister konkretisiert, die Leistungen rund um nicht MiCA-konforme Asset-Referenced Tokens oder E-Money Tokens anbieten. Laut der <a href="https://www.esma.europa.eu/press-news/esma-news/esma-sets-out-supervisory-expectations-services-related-unauthorised">offiziellen ESMA-Stellungnahme</a> sollen nationale Aufsichtsbehörden auf die Einhaltung der MiCA-Vorgaben drängen. Für Börsen und Stablecoin-Anbieter steigt damit der Druck, Angebot und Vermarktung in der EU anzupassen</li>
+<li><strong>GPT-6 wird breit ausgerollt</strong>: OpenAI rollt GPT-6 Sol und GPT-6 Luna weltweit für kostenlose und kostenpflichtige ChatGPT-Konten aus. Die <a href="https://deploymentsafety.openai.com/gpt-6-october/jailbreaks">Sicherheitsdokumentation</a> stuft die Modelle in den Bereichen Cybersecurity sowie Biologie und Chemie als „High capability“ ein, berichtet zugleich aber von höherer Widerstandsfähigkeit gegen mehrstufige Jailbreaks und weniger Täuschung gegenüber GPT-5.6. Damit erreicht leistungsfähigere KI ein deutlich größeres Publikum, während die Sicherheitsanforderungen steigen</li>
+<li><strong>KI und Cyberabwehr</strong>: Anthropic erweitert sein <a href="https://www.anthropic.com/news/cyber-verification-program">Cyber Verification Program</a> und gibt qualifizierten Sicherheitsfachleuten in drei Stufen Zugang zu leistungsfähigeren Modellen und reduzierten Sperren für defensive Cyberarbeit. Großbritannien bereitet sich zugleich auf schwere Vorfälle mit autonomen KI-Agenten vor und will Meldewege sowie den Schutz kritischer Dienste stärken; laut der <a href="https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks">britischen Regierung</a> fanden staatliche KI-Piloten bereits mehr als 1.000 potenzielle Schwachstellen. Das Spannungsfeld bleibt: Dieselben Fähigkeiten können Sicherheitslücken finden oder missbrauchen</li>
+<li><strong>IOTA Kursentwicklung</strong>: IOTA notiert am 12. Oktober laut einer <a href="https://coinmarketcap.com/currencies/iota/">CoinMarketCap-Momentaufnahme</a> bei rund 0,0527 US-Dollar und damit etwa neun Prozent unter dem Schlusskurs vom 5. Oktober. Das 24-Stunden-Handelsvolumen liegt bei rund 8,8 Millionen US-Dollar; Tangle Analytics meldete im Tagesverlauf zeitweise <a href="https://x.com/tanglelytics/status/2109596975528034454">steigendes Volumen</a> und eine Erholung des Kurses. Für den 14. Oktober weist CoinGecko außerdem die planmäßige Freigabe von 12,37 Millionen IOTA beziehungsweise rund 0,25 Prozent des Gesamtangebots aus. Die Werte sind Momentaufnahmen vom 12. Oktober 2026</li>
+</ol>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../stammtisch/2026-10-05/index.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                            </a>
+
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../stammtisch/2026-10-05/index.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                    </a>
+
+            </nav>
+
+        </div>
+
+        <template id=fa-eye><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M288 32c-80.8 0-145.5 36.8-192.6 80.6C48.6 156 17.3 208 2.5 243.7c-3.3 7.9-3.3 16.7 0 24.6C17.3 304 48.6 356 95.4 399.4C142.5 443.2 207.2 480 288 480s145.5-36.8 192.6-80.6c46.8-43.5 78.1-95.4 93-131.1c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C433.5 68.8 368.8 32 288 32zM432 256c0 79.5-64.5 144-144 144s-144-64.5-144-144s64.5-144 144-144s144 64.5 144 144zM288 192c0 35.3-28.7 64-64 64c-11.5 0-22.3-3-31.6-8.4c-.2 2.8-.4 5.5-.4 8.4c0 53 43 96 96 96s96-43 96-96s-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6z"/></svg></span></template>
+        <template id=fa-eye-slash><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M38.8 5.1C28.4-3.1 13.3-1.2 5.1 9.2S-1.2 34.7 9.2 42.9l592 464c10.4 8.2 25.5 6.3 33.7-4.1s6.3-25.5-4.1-33.7L525.6 386.7c39.6-40.6 66.4-86.1 79.9-118.4c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C465.5 68.8 400.8 32 320 32c-68.2 0-125 26.3-169.3 60.8L38.8 5.1zM223.1 149.5C248.6 126.2 282.7 112 320 112c79.5 0 144 64.5 144 144c0 24.9-6.3 48.3-17.4 68.7L408 294.5c5.2-11.8 8-24.8 8-38.5c0-53-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6c0 10.2-2.4 19.8-6.6 28.3l-90.3-70.8zm223.1 298L373 389.9c-16.4 6.5-34.3 10.1-53 10.1c-79.5 0-144-64.5-144-144c0-6.9 .5-13.6 1.4-20.2L83.1 161.5C60.3 191.2 44 220.8 34.5 243.7c-3.3 7.9-3.3 16.7 0 24.6c14.9 35.7 46.2 87.7 93 131.1C174.5 443.2 239.2 480 320 480c47.8 0 89.9-12.9 126.2-32.5z"/></svg></span></template>
+        <template id=fa-copy><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M502.6 70.63l-61.25-61.25C435.4 3.371 427.2 0 418.7 0H255.1c-35.35 0-64 28.66-64 64l.0195 256C192 355.4 220.7 384 256 384h192c35.2 0 64-28.8 64-64V93.25C512 84.77 508.6 76.63 502.6 70.63zM464 320c0 8.836-7.164 16-16 16H255.1c-8.838 0-16-7.164-16-16L239.1 64.13c0-8.836 7.164-16 16-16h128L384 96c0 17.67 14.33 32 32 32h47.1V320zM272 448c0 8.836-7.164 16-16 16H63.1c-8.838 0-16-7.164-16-16L47.98 192.1c0-8.836 7.164-16 16-16H160V128H63.99c-35.35 0-64 28.65-64 64l.0098 256C.002 483.3 28.66 512 64 512h192c35.2 0 64-28.8 64-64v-32h-47.1L272 448z"/></svg></span></template>
+        <template id=fa-play><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg></span></template>
+        <template id=fa-clock-rotate-left><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M75 75L41 41C25.9 25.9 0 36.6 0 57.9V168c0 13.3 10.7 24 24 24H134.1c21.4 0 32.1-25.9 17-41l-30.8-30.8C155 85.5 203 64 256 64c106 0 192 86 192 192s-86 192-192 192c-40.8 0-78.6-12.7-109.7-34.4c-14.5-10.1-34.4-6.6-44.6 7.9s-6.6 34.4 7.9 44.6C151.2 495 201.7 512 256 512c141.4 0 256-114.6 256-256S397.4 0 256 0C185.3 0 121.3 28.7 75 75zm181 53c-13.3 0-24 10.7-24 24V256c0 6.4 2.5 12.5 7 17l72 72c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-65-65V152c0-13.3-10.7-24-24-24z"/></svg></span></template>
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr-ef4e11c1.min.js"></script>
+        <script src="../../mark-09e88c2c.min.js"></script>
+        <script src="../../searcher-09f2665d.js"></script>
+
+        <script src="../../clipboard-1626706a.min.js"></script>
+        <script src="../../highlight-abc7f01d.js"></script>
+        <script src="../../book-609e4cb8.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+
+    </div>
+    </body>
+</html>
