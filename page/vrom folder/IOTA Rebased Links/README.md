@@ -83,6 +83,7 @@
 14. Games (z.b. Mensch Ärgere Dich Nicht!): [https://test.iotaroyale.com/](https://test.iotaroyale.com/)
 15. Prediction Market: [vectramarket.com](https://vectramarket.com/)
 16. Health App: [vitalnode.net](https://vitalnode.net/)
+17. IOTA Storage: [app.iotastorage.com](https://app.iotastorage.com/)
 
 
 # IOTA Gaming
