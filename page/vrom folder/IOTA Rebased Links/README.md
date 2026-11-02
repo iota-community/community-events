@@ -61,7 +61,7 @@
 21. IOTA Referalprogram: [iota.liquidlink.io](https://iota.liquidlink.io/profile)
 22. Loyalty Program: [GiveReps](https://giverep.com/)
 10. Reputation Station: [repstation.xyz](https://repstation.xyz/)
-21. IOTA Names: [iotanames.com](iotanames.com)
+21. IOTA Names: [iotanames.com](iotanames.com); Dashboard: [iotanames-stats.pages.dev](https://iotanames-stats.pages.dev/#overview)
 22. IOTA Data Publishing dApp: [izipublish.com/](https://izipublish.com)
 14. Complete Surveys get IOTA dApp: [surveytokens.org](https://surveytokens.org/)
 15. Turing Certs Verifier ("Verify Any Document in Seconds"): [verify.turingcerts.com](verify.turingcerts.com)
