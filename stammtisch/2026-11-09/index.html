@@ -1,0 +1,247 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>2026-11-09 - IOTA Stammtisch Themen</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../../favicon-de23e50b.svg">
+        <link rel="shortcut icon" href="../../favicon-8114d1fc.png">
+        <link rel="stylesheet" href="../../css/variables-8adf115d.css">
+        <link rel="stylesheet" href="../../css/general-e96d0476.css">
+        <link rel="stylesheet" href="../../css/chrome-d279d366.css">
+        <link rel="stylesheet" href="../../css/print-9e4910d8.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../fonts/fonts-9644e21d.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="mdbook-highlight-css" href="../../highlight-493f70e1.css">
+        <link rel="stylesheet" id="mdbook-tomorrow-night-css" href="../../tomorrow-night-4c0ae647.css">
+        <link rel="stylesheet" id="mdbook-ayu-highlight-css" href="../../ayu-highlight-3fdfc3ac.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "../../";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "../../searchindex-00d4c51e.js";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="../../toc-2e513e34.js"></script>
+    </head>
+    <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
+    <div id="mdbook-body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="mdbook-sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("mdbook-sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+                sidebar_toggle.checked = false;
+            }
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
+        </script>
+
+        <nav id="mdbook-sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="../../toc.html"></iframe>
+            </noscript>
+            <div id="mdbook-sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="mdbook-page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="mdbook-menu-bar-hover-placeholder"></div>
+                <div id="mdbook-menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="mdbook-sidebar-toggle" class="icon-button" for="mdbook-sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="mdbook-sidebar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"/></svg></span>
+                        </label>
+                        <button id="mdbook-theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="mdbook-theme-list">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M371.3 367.1c27.3-3.9 51.9-19.4 67.2-42.9L600.2 74.1c12.6-19.5 9.4-45.3-7.6-61.2S549.7-4.4 531.1 9.6L294.4 187.2c-24 18-38.2 46.1-38.4 76.1L371.3 367.1zm-19.6 25.4l-116-104.4C175.9 290.3 128 339.6 128 400c0 3.9 .2 7.8 .6 11.6c1.8 17.5-10.2 36.4-27.8 36.4H96c-17.7 0-32 14.3-32 32s14.3 32 32 32H240c61.9 0 112-50.1 112-112c0-2.5-.1-5-.2-7.5z"/></svg></span>
+                        </button>
+                        <ul id="mdbook-theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-ayu">Ayu</button></li>
+                        </ul>
+                        <button id="mdbook-search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="mdbook-searchbar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352c79.5 0 144-64.5 144-144s-64.5-144-144-144S64 128.5 64 208s64.5 144 144 144z"/></svg></span>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">IOTA Stammtisch Themen</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <span class=fa-svg id="print-button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M128 0C92.7 0 64 28.7 64 64v96h64V64H354.7L384 93.3V160h64V93.3c0-17-6.7-33.3-18.7-45.3L400 18.7C388 6.7 371.7 0 354.7 0H128zM384 352v32 64H128V384 368 352H384zm64 32h32c17.7 0 32-14.3 32-32V256c0-35.3-28.7-64-64-64H64c-35.3 0-64 28.7-64 64v96c0 17.7 14.3 32 32 32H64v64c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V384zm-16-88c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24z"/></svg></span>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="mdbook-search-wrapper" class="hidden">
+                    <form id="mdbook-searchbar-outer" class="searchbar-outer">
+                        <div class="search-wrapper">
+                            <input type="search" id="mdbook-searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="mdbook-searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <span class=fa-svg id="fa-spin"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M304 48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zm0 416c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM48 304c26.5 0 48-21.5 48-48s-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48zm464-48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM142.9 437c18.7-18.7 18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zm0-294.2c18.7-18.7 18.7-49.1 0-67.9S93.7 56.2 75 75s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zM369.1 437c18.7 18.7 49.1 18.7 67.9 0s18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9z"/></svg></span>
+                            </div>
+                        </div>
+                    </form>
+                    <div id="mdbook-searchresults-outer" class="searchresults-outer hidden">
+                        <div id="mdbook-searchresults-header" class="searchresults-header"></div>
+                        <ul id="mdbook-searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('mdbook-sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('mdbook-sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#mdbook-sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="mdbook-content" class="content">
+                    <main>
+                        <h2 id="iota-stammtischthemen-für-montag-den-09112026"><a class="header" href="#iota-stammtischthemen-für-montag-den-09112026">IOTA Stammtischthemen für Montag, den 09.11.2026</a></h2>
+<p>Hinweis: Die Inhalte wurden automatisch von vroms Ki erstellt aus den Reposts von vrom auf X. Thematisch ähnliche Reposts sind zusammengefasst.</p>
+<ol>
+<li><strong>Protokoll 39 ist im IOTA-Mainnet aktiv, Protokoll 40 läuft bereits im Devnet</strong>: <a href="https://x.com/RemiDAoust/status/2118328171950907661">Protokoll 39 wurde in Epoche 549</a> mit 100 Prozent der Committee-Stimmrechte aktiviert. Die <a href="https://github.com/iotaledger/iota/releases">offiziellen Release Notes</a> nennen unter anderem strengere Regeln für gemischte Multisig-Schlüssel, Groth16-Prüfungen, Sicherheitsupdates für <code>rustls</code> und <code>quinn</code> sowie neue Validator-Schwellen von sechs Millionen IOTA für den Beitritt, 5,5 Millionen als niedrige und fünf Millionen als sehr niedrige Schwelle. <a href="https://x.com/tanglelytics/status/2118637845308952851">Tangle Analytics meldete</a>, dass der Validator Realize mit rund 5,09 Millionen IOTA unter die niedrige Schwelle gefallen war. Parallel kann Protokoll 40 seit dem 7. November im Devnet aktiviert werden; ein Mainnet-Termin dafür steht noch nicht fest</li>
+<li><strong>FluidLend startet einen Kreditmarkt im IOTA-Testnet</strong>: <a href="https://x.com/Vrom14286662/status/2117547297836040309">Vrom weist auf FluidLend hin</a>, wo Nutzer Testnet-Token bereitstellen, als Sicherheit hinterlegen und dagegen Kredite aufnehmen können. Eine <a href="https://iota.news/fluidlend-iota-testnet-kreditmaerkte-rwa/">erste Bestandsaufnahme</a> dokumentiert vier Märkte für IOTA und drei als RWA bezeichnete Token. Auffällig sind ein angezeigter Supply-APR von 77,89 Prozent und ein Borrow-APR von 118,50 Prozent im IOTA-Markt. Die Anwendung läuft ausschließlich im Testnet; die Token haben keinen realen Wert, und belastbare Angaben zu Team, Smart Contracts, Preisquellen und Absicherung der RWA-Token fehlen bislang</li>
+<li><strong>Otomorph veröffentlicht eine frühe Android-App für digitale Fahrzeugakten</strong>: Das französische Start-up verbindet Wartungsbelege, Erinnerungen, Fahrzeugdaten und einen auf Google Gemini basierenden Assistenten mit dem Ziel, Fahrzeugidentitäten und Nachweise über IOTA überprüfbar zu machen. Die <a href="https://x.com/FlashDeutsch/status/2118649341342826546">von vrom repostete Meldung</a> und ein <a href="https://iota.news/otomorph-digitale-fahrzeugpaesse-iota/">Faktencheck</a> bestätigen eine Early-Access-App im Google Play Store. Die <a href="https://www.otomorph.com/">Otomorph-Website</a> beschreibt einen digitalen Zwilling des Fahrzeugs; direkte Echtzeitdaten aus dem Auto, eine größere Nutzerbasis und öffentlich prüfbare Blockchainnachweise sind aber noch nicht belegt</li>
+<li><strong>REAL Markets erweitert das Angebot um ZEC-USDT</strong>: Nach BTC, ETH, SOL, HYPE, XAUT, XRP und BNB ist laut <a href="https://x.com/IotaPunks_71/status/2118398218476114034">IOTAPUNKS</a> nun ZEC-USDT als achter Perpetual-Markt auf der IOTA-L1 aktiv. Damit entstehen weitere reale On-Chain-Transaktionen, die über <a href="https://pulse.iotapunks.com/">PULSE</a> beobachtet werden können. Ein allgemeiner öffentlicher Handelsstart von REAL Markets wurde weiterhin nicht angekündigt</li>
+<li><strong>USDT0-Bestand auf IOTA steigt auf rund 817.000 Token</strong>: Eine <a href="https://x.com/KulchaengKevin/status/2118664962235363707">PULSE-Momentaufnahme vom 6. November</a> nennt 816.970 USDT0 auf IOTA, ein Plus von 28,26 Prozent innerhalb von 24 Stunden, sowie insgesamt 850 Bridge-Transfers. Die Übertragung wird dort mit einem Drei-von-drei-DVN-Quorum abgesichert. Gegenüber den rund 462.000 USDT0 aus der Vorwoche setzt sich das deutliche Wachstum fort; die Werte bleiben eine zeitgebundene On-Chain-Aufnahme</li>
+<li><strong>Handelsfinanzierung: Papierdokumente wandern durch viele Hände und erzeugen Fehler</strong>: <a href="https://x.com/iota/status/2118668319670563154">IOTA erklärt</a>, dass sich die üblichen Instrumente Open Account, Vorkasse, Inkasso und Akkreditiv vor allem darin unterscheiden, wer zwischen Versand und Bezahlung das Risiko trägt. Ein <a href="https://x.com/iota/status/2119761924837548280">weiterer Beitrag</a> verfolgt den originalen Frachtbrief vom Reeder über Exporteur und Banken bis zum Käufer und zurück zum Zielhafen. Jede Übergabe kann Verzögerung, Verlust oder Fälschung verursachen; ein gemeinsames Register kann den jeweils berechtigten Inhaber für alle Beteiligten einheitlich abbilden. Dazu passt die <a href="https://x.com/iota/status/2117278059212513348">häufig zitierte Größenordnung</a>, wonach rund 70 Prozent der unter Akkreditiven eingereichten Dokumentensätze beim ersten Versuch wegen Abweichungen zurückgewiesen werden</li>
+<li><strong>VeriPura zeigt einen prüfbaren digitalen Warenpass</strong>: Der <a href="https://x.com/VeriPura/status/2119490552076931150">Consignment Passport</a> bündelt Risikobewertung, Warnhinweise und die zugehörigen Belege einer Sendung auf einer Seite. Grenzpersonal soll den Nachweis per QR-Code prüfen können, während ein Fingerabdruck auf einer öffentlichen Blockchain nachträgliche Veränderungen erkennbar macht. Laut der <a href="https://veripura.com/core.html">Produktbeschreibung</a> werden Dokumente bereits beim Hochladen gehasht, zeitlich miteinander verknüpft und können als W3C Verifiable Credentials geteilt werden. Der Beitrag nennt allerdings nicht ausdrücklich IOTA als verwendete Blockchain</li>
+<li><strong>Claude-Agenten handeln und kooperieren in der EVE-Welt</strong>: Anthropic ließ Claude zunächst als Händler in einer simulierten EVE-Online-Wirtschaft und anschließend Viererteams im live betriebenen EVE Frontier agieren. Der <a href="https://x.com/RealAllinCrypto/status/2119520545494450478">von vrom repostete Beitrag</a> hebt hervor, dass EVE Frontier auf Sui aufbaut. Im <a href="https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs">offiziellen Forschungsbericht</a> koordinierten sich die Agenten meist gut und verteilten selbstständig Rollen, erkannten einen heimlich sabotierenden Mitspieler aber fast nie. Das Experiment zeigt damit zugleich Potenzial und Grenzen autonomer Agententeams sowie den Bedarf an überprüfbaren Aufzeichnungen und Verantwortlichkeiten</li>
+<li><strong>Sui meldet hohe Entwickleraktivität und Token-Rückkäufe</strong>: <a href="https://x.com/Community_Sui/status/2119512780684276107">Sui Community berichtet</a>, dass Sui bei den monatlich aktiven Kernentwicklern in den erfassten Repositories vorne liege. Der zitierte Beitrag nennt außerdem einen Rückkauf von 1,1 Millionen SUI durch Mysten Labs, finanziert aus Netzwerkgebühren und täglichen Stablecoin-Erträgen. Beide Angaben stammen aus Community-Auswertungen und sollten bis zu einer offiziellen, methodisch nachvollziehbaren Veröffentlichung als solche eingeordnet werden</li>
+<li><strong>Ethereum rückt Datenschutz stärker in den Mittelpunkt</strong>: Ein <a href="https://x.com/cryptoamanclub/status/2117504200158646554">von vrom reposteter Auftritt Vitalik Buterins</a> inszenierte das Thema mit verdecktem Gesicht. Inhaltlich beschreibt die <a href="https://ethereum.org/roadmap/privacy/">aktuelle Ethereum-Roadmap</a> drei Schwerpunkte: private Lesezugriffe, private Transaktionen und private Nachweise mit möglichst geringer Offenlegung persönlicher Daten. Genannt werden unter anderem Zero-Knowledge-Proofs, clientseitige Beweiserzeugung und längerfristig vollständig homomorphe Verschlüsselung. Viele Bausteine befinden sich noch in Forschung oder Entwicklung; feste Einführungstermine gibt es nicht</li>
+<li><strong>Chainalysis meldet umfassenden Sicherheitsvorfall</strong>: Nach einem Angriff mit laut Unternehmen agentischen Techniken waren Namen, Benutzernamen, Passwort-Hashes und aktive Tokens aller Chainalysis-Nutzer offengelegt. Das <a href="https://www.chainalysis.com/blog/security-incident-october-30/">laufend aktualisierte Sicherheitsbulletin</a> nennt bislang keine Hinweise auf manipulierte Zuordnungsdaten oder einen Zugriff auf Ermittlungsinhalte. Chainalysis nahm mehrere wichtige Analyse- und Compliance-Dienste zeitweise offline, erzwang Passwortwechsel und die Rotation von API-Schlüsseln und brachte Reactor, KYT sowie Address Screening bis zum 7. November mit zusätzlichen Schutzmaßnahmen wieder online</li>
+<li><strong>USA erlauben erstmals regulierte Perpetual Futures auf Einzelaktien</strong>: Seit dem 3. November können Equity Perps auf einzelnen Aktien erstmals auf dafür doppelt bei CFTC und SEC registrierten US-Börsen gehandelt werden. Die <a href="https://www.cftc.gov/PressRoom/PressReleases/9319-26">CFTC erklärt</a>, dass die Produkte zugleich dem Rohstoffbörsengesetz, den US-Wertpapiergesetzen und der gemeinsamen Aufsicht beider Behörden unterliegen. Nach der früheren Zulassung eines regulierten Bitcoin-Perpetuals ist dies ein weiterer Schritt, ein aus Kryptomärkten bekanntes Produkt in beaufsichtigte US-Märkte zu holen</li>
+<li><strong>OpenAI will Pierre und dessen Git-Infrastruktur übernehmen</strong>: OpenAI hat die <a href="https://openai.com/index/openai-to-acquire-pierre/">geplante Übernahme von Pierre Computer</a> angekündigt. Pierre entwickelt Code Storage sowie die Open-Source-Bibliotheken Trees und Diffs, die bereits für Dateinavigation und Änderungsansichten in Codex verwendet werden. Nach Abschluss der noch genehmigungspflichtigen Transaktion sollen Funktionen von Code Storage in Codex einfließen und Git-Arbeitsabläufe besser auf parallel arbeitende Coding-Agenten ausgerichtet werden; die Open-Source-Projekte sollen offen bleiben</li>
+<li><strong>OpenAI startet Programm zur Entlastung von Stromnetzen durch flexible KI-Rechenzentren</strong>: Mit dem <a href="https://openai.com/index/grid-protectors-program/">Grid Protectors Program</a> sollen künftige Compute-Campus ihren Verbrauch bei Netzengpässen reduzieren und je nach Standort Energie aus Batteriespeichern oder eigener Erzeugung bereitstellen. Ein geplanter Standort im US-Bundesstaat Georgia soll als Pilot bis zu 1.000 Megawatt flexible Last anbieten. Das Programm ist eine Reaktion auf den stark wachsenden Strombedarf von KI-Infrastruktur; konkrete Vereinbarungen sollen für jeden Standort separat ausgehandelt werden</li>
+<li><strong>IOTA-Kursentwicklung</strong>: IOTA notiert am 9. November je nach Handelsplatz bei rund 0,0334 bis 0,0341 US-Dollar. Die <a href="https://www.investing.com/crypto/iota/historical-data">historischen Daten von Investing.com</a> zeigen gegenüber dem Schlusskurs vom 2. November bei rund 0,0392 US-Dollar einen Rückgang von etwa 14,6 Prozent. Besonders deutlich waren die Verluste am 5. November mit rund 6,6 Prozent sowie am 7. und 8. November. Die Werte sind Momentaufnahmen und können sich im Tagesverlauf ändern</li>
+</ol>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../stammtisch/2026-11-02/index.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                            </a>
+
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../stammtisch/2026-11-02/index.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                    </a>
+
+            </nav>
+
+        </div>
+
+        <template id=fa-eye><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M288 32c-80.8 0-145.5 36.8-192.6 80.6C48.6 156 17.3 208 2.5 243.7c-3.3 7.9-3.3 16.7 0 24.6C17.3 304 48.6 356 95.4 399.4C142.5 443.2 207.2 480 288 480s145.5-36.8 192.6-80.6c46.8-43.5 78.1-95.4 93-131.1c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C433.5 68.8 368.8 32 288 32zM432 256c0 79.5-64.5 144-144 144s-144-64.5-144-144s64.5-144 144-144s144 64.5 144 144zM288 192c0 35.3-28.7 64-64 64c-11.5 0-22.3-3-31.6-8.4c-.2 2.8-.4 5.5-.4 8.4c0 53 43 96 96 96s96-43 96-96s-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6z"/></svg></span></template>
+        <template id=fa-eye-slash><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M38.8 5.1C28.4-3.1 13.3-1.2 5.1 9.2S-1.2 34.7 9.2 42.9l592 464c10.4 8.2 25.5 6.3 33.7-4.1s6.3-25.5-4.1-33.7L525.6 386.7c39.6-40.6 66.4-86.1 79.9-118.4c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C465.5 68.8 400.8 32 320 32c-68.2 0-125 26.3-169.3 60.8L38.8 5.1zM223.1 149.5C248.6 126.2 282.7 112 320 112c79.5 0 144 64.5 144 144c0 24.9-6.3 48.3-17.4 68.7L408 294.5c5.2-11.8 8-24.8 8-38.5c0-53-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6c0 10.2-2.4 19.8-6.6 28.3l-90.3-70.8zm223.1 298L373 389.9c-16.4 6.5-34.3 10.1-53 10.1c-79.5 0-144-64.5-144-144c0-6.9 .5-13.6 1.4-20.2L83.1 161.5C60.3 191.2 44 220.8 34.5 243.7c-3.3 7.9-3.3 16.7 0 24.6c14.9 35.7 46.2 87.7 93 131.1C174.5 443.2 239.2 480 320 480c47.8 0 89.9-12.9 126.2-32.5z"/></svg></span></template>
+        <template id=fa-copy><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M502.6 70.63l-61.25-61.25C435.4 3.371 427.2 0 418.7 0H255.1c-35.35 0-64 28.66-64 64l.0195 256C192 355.4 220.7 384 256 384h192c35.2 0 64-28.8 64-64V93.25C512 84.77 508.6 76.63 502.6 70.63zM464 320c0 8.836-7.164 16-16 16H255.1c-8.838 0-16-7.164-16-16L239.1 64.13c0-8.836 7.164-16 16-16h128L384 96c0 17.67 14.33 32 32 32h47.1V320zM272 448c0 8.836-7.164 16-16 16H63.1c-8.838 0-16-7.164-16-16L47.98 192.1c0-8.836 7.164-16 16-16H160V128H63.99c-35.35 0-64 28.65-64 64l.0098 256C.002 483.3 28.66 512 64 512h192c35.2 0 64-28.8 64-64v-32h-47.1L272 448z"/></svg></span></template>
+        <template id=fa-play><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg></span></template>
+        <template id=fa-clock-rotate-left><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M75 75L41 41C25.9 25.9 0 36.6 0 57.9V168c0 13.3 10.7 24 24 24H134.1c21.4 0 32.1-25.9 17-41l-30.8-30.8C155 85.5 203 64 256 64c106 0 192 86 192 192s-86 192-192 192c-40.8 0-78.6-12.7-109.7-34.4c-14.5-10.1-34.4-6.6-44.6 7.9s-6.6 34.4 7.9 44.6C151.2 495 201.7 512 256 512c141.4 0 256-114.6 256-256S397.4 0 256 0C185.3 0 121.3 28.7 75 75zm181 53c-13.3 0-24 10.7-24 24V256c0 6.4 2.5 12.5 7 17l72 72c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-65-65V152c0-13.3-10.7-24-24-24z"/></svg></span></template>
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr-ef4e11c1.min.js"></script>
+        <script src="../../mark-09e88c2c.min.js"></script>
+        <script src="../../searcher-09f2665d.js"></script>
+
+        <script src="../../clipboard-1626706a.min.js"></script>
+        <script src="../../highlight-abc7f01d.js"></script>
+        <script src="../../book-609e4cb8.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+
+    </div>
+    </body>
+</html>
