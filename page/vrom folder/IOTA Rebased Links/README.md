@@ -93,6 +93,7 @@
 3. IOTARoyale: [Tweet von IOTARoyale](https://x.com/IotaRoyale/status/2012940873072308626?s=20) über [test.iotaroyale.com](https://test.iotaroyale.com/lobby)
 4. IOTA Luckyrooms: [Tweet](https://x.com/iotaluckyrooms/status/2063419132553383943) über [iotaluckyrooms.app/](https://iotaluckyrooms.app)
 5. IOTATO: [IOTATO tweetet](https://x.com/IOTATO_TAT/status/2061149393990930783?s=20) über [https://www.iotato.xyz/](https://www.iotato.xyz/)
+6. Tanglearena:[https://tanglearena.vercel.app/](https://tanglearena.vercel.app/)
 
 
 # Apps using IOTA Technology:
